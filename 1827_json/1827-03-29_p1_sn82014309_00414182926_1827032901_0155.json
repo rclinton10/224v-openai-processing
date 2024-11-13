@@ -1,0 +1,810 @@
+{
+    "lccn": {
+        "title": "The Litchfield County post.",
+        "geonames_ids": [
+            "4837799"
+        ],
+        "dbpedia_ids": [
+            "Litchfield%2C_Connecticut"
+        ],
+        "issn": "",
+        "lccn": "sn82014309",
+        "start_year": "1826",
+        "end_year": "1829",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [
+            "sn84020071"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn82014309",
+        "edition": "ed-01",
+        "date": "1827-03-29",
+        "pages": [
+            "seq-4",
+            "seq-2",
+            "seq-1",
+            "seq-3"
+        ]
+    },
+    "page_number": "1",
+    "scan": {
+        "lccn": "sn82014309",
+        "edition": "ed-01",
+        "date": "1827-03-29",
+        "page": "1",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-03-29/ed-1/seq-1.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-03-29/ed-1/seq-1/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-03-29/ed-1/seq-1/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/ct_barnum_ver01/data/sn82014309/00414182926/1827032901/0155.jp2",
+        "height": 7273,
+        "width": 4995
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2037,
+                "y0": 4710,
+                "x1": 2930,
+                "y1": 7103
+            },
+            "class": "article",
+            "raw_text": "NnpoI di Romania, December IS.\n\n Copy of the official despatch of General\n\n Karaiskaki to the Greek Committe.\n\n \"I have not answered any of your let- ters, having been for the last twenty days engaged in fighting the enemy at De- brena. We have killed great number of them, and on our side we have lost our brother Giovani Suitana. On the 29th ut. we directed our oh to this place for the purpose of joining the other corps at Thistimo. We sent forward the Captains Gardickittis, Grivas, and Kiaya, with 300 men, with orders to possess themselves of Arakova. So soon as this advance guard informed us that they were in sight of the enemy, we left Thstimo with the Souliot chiefs, Ipsariots, and others; and I sent the different corps under Christothulo, Pe- tro, and Galoni, by cross road, to Ara kova, that they might reach that place as soon as possible. On the first, we attack ed the enemy, and a desperate battle ensu- ed. which lasted five hours. The enemy, after having lost great number of men, and leaving every thing behind them, reti- red to disadvantageous position, where we kept them five days at bey. They pro- posed that we should allow them to affect a complete retreat, but we sent them word that they might now do with us as we had done with them at Missolongh. This day we dislodged them from their position, for ced them to action, killed 1900 men, a. mong whom the Kiaya Bey, Moustapha Bey, and two other Beys, and took several prisoners whom we shall immediately send of to Napoli. Among the latter are sey- eral persons of distinction. Our brave tel- lows have all enriched themselves with the money. richly mounted arms, and costly clothes of the Mahometans. Rejoice, my brothers the continental part of our coun- try has got completely rid of the enemy since the flower of the Albanian Turks arc destroyed. The bravery of the General Thimo Zellio has proved on this occasion, above all praise. He killed fifteen of the",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2366,
+                "y0": 4653,
+                "x1": 2606,
+                "y1": 4705
+            },
+            "class": "headline",
+            "raw_text": "GREECE.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 213,
+                "y0": 4789,
+                "x1": 1112,
+                "y1": 6398
+            },
+            "class": "article",
+            "raw_text": "Awfm Ndrrdtirf.-Thef following inter- es,ing account is given by the late Dr. Cur rie, of Liverpool, in letter to Sir Walter Scott when editor several years ago of''the MinstrcIsy of the Scottish Border\" It has hardly parallel in its kind:--\"I once in my early days,'' says Dr. Gurrie, \"heard <for it was night could not see,) travel\n\n Ter drowning, not in the Amman itself, but in the firth of Solway, close by the mouth of that river. The influx of the tide had unhorsed him in the night, as he was passing the Cumberland sands. The west wind blew tempest, and, according to the common expression, brought in the water, four feet abreast. The traveller got upon standing net, little way from the shore. There he lashed himself to post, shouting for half an hour for assistance, till the tide rose over his head In the darkness of the night, and amid the pauses ofthe hurricane lis>goice, heard at intervals was exquisitely inournful. No one could go to his assist .ance,--no one knew where he was:-the sound seemed to proceed from Ethe spirit of water. But morning rosc-- ,and the poor traveller was found dashed to the pole of the net, and bleaching in the wind.' It is hardly conceivable that any incident ever occurred better calculated to excite the strongest sympathies in human beings: and it is told in manner, and with brevity and feeling that could not be improved.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 929,
+                "y0": 4699,
+                "x1": 1106,
+                "y1": 4751
+            },
+            "class": "headline",
+            "raw_text": "F. G.. H.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 224,
+                "y0": 1022,
+                "x1": 1117,
+                "y1": 2069
+            },
+            "class": "article",
+            "raw_text": "IO subscribers in this uillage, and subscribers by mail or by post carriers, TWO DOLLARS per yecr, payable in adUance. To companies less tha\" 1e\"' 6y mail, or taken from the office, e0here there IS e joint responsibility, or where one dadtoiduoL is responsible, ,5O per gear, in ad- Uancc. To hke componies of more than ten, S1, e5 per gear, in advance.-Where payment is de- LGyed to the end of tue gear 95 cts. aCiU be added to e0ch of the aboue prices. No papers a0iH be discontinued until aU ar- TeGrages are paid, except at the discretion o the publisher.\n\n ADVERTISING.\n\n For ho!f square, three insertions, or Jess, B cents ;-more than ha! fa square, and Jess than 0 square, e7 l2 cents ;-for one square, S1 ,OO ]; -and in the same proportion for more than c square for continuing advertisements more than three areeks 20 per cent per rsceek ,cN De charged.\n\n PROBATE NOTICES. Administrators and Executors S1,OO Comm'ss!onerS' S1,25",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 264,
+                "y0": 784,
+                "x1": 1083,
+                "y1": 938
+            },
+            "class": "headline",
+            "raw_text": "sBX S. S. SNTTTH, EDITOR AND PROPRIETOR.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -2
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 554,
+                "y0": 971,
+                "x1": 810,
+                "y1": 1018
+            },
+            "class": "headline",
+            "raw_text": "TERMS,",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 219,
+                "y0": 6500,
+                "x1": 1117,
+                "y1": 7109
+            },
+            "class": "article",
+            "raw_text": "ougg5Sleu oJ '1tl1'''g 11u-1HtS -HISe7IE5 01\n\n POverty.\"\n\n It is to have subscription paper handed you every hour in the day, and be called a niggard, if you refuse your name. It is to eat turkey and drink wine at dearer rate than your neighbors. It is to have every college, infrmary, and asylum make run upon the bank of your benevolence, and then wonder at the smallness of the divid- end. It is to have sectarians contend for the keeping of your conscience, and law . yers struggle for the keeping of your purse",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 321,
+                "y0": 6420,
+                "x1": 1015,
+                "y1": 6478
+            },
+            "class": "headline",
+            "raw_text": "MISERIES OF WEALTH.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -2
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 270,
+                "y0": 6483,
+                "x1": 1123,
+                "y1": 6563
+            },
+            "class": "headline",
+            "raw_text": "Suggested by reading Hd=liH's \"Miseyies of\n\n POverty.\"",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2042,
+                "y0": 812,
+                "x1": 2930,
+                "y1": 4631
+            },
+            "class": "article",
+            "raw_text": "people the little agency they have remain- ing in the choice of President. This combination of Members of Congress is going to do the very thing which they inl- puted to MT. Clay--they mean to take the election of President into their own hands, and cheat the people with nomin- al instrumentality. And who are the men who compose the combination Men who are seeking office-one is to be Secretary of State, another of War-another of the Navy-another of the Treasury-This one is to go Minister to England-that one to France.-This expectation of office-this hope of preference from Gen. Jackson, flattered by his confidential friends-tAis is the cement which binds together hetero- geneous mass called the opposition.-This IS the principle of those \"combinations which are nearly completed to elect Gen. Jackson\" This is at the bottom of all the sentimental patriotism so abundantly uttered by the tongue!-Rich. Whig. A SOW belonging to Mr.P Preserved Bart lett, of Northampton Mass, had 35 pigs 6 litters) in 13 months. Nineteen of these were butchered in January last and sold for $299, 50. Nine were l5 months old, and ten months old.\n\n In Randolph, Vermont, a boy named Belknap aged l7, has committed matrimo- ny; the happy fair one is Miss Sprague, his junior by couple of years. Paternal government must be rather lax in that State.\n\n Great Rail Road.-The Legislature of Maryland have incorporated company under the title of the Baltimore and Ohio Rail Road Company, with capital of $3 ,OOO,OOO, to construct a rail road from Baltimore to the Ohio-a distance in the shortest line of about $50 miles. The Corporation of Baltimore are expected to subscribe for half million of the stock one branch of the City Council having al- ready passed a res olution, which will, it is said, have the confirmation of the other branch, authorizing such subscription. The State reserves to itself the right to subscribe million of dollars.\n\n The Legislature of Virginia have con- frmcd this act of Maryland, so far as it is to take effect within the limits of Virginia, stipulating only, that the rail road shall not strike the Ohio below the Little kenha- wa, and that no lateral roads shall be con- structed in Virginia without the consent of the Legislature. Iti expected that Penn sylvania also, will as far as the contempla- ted road may trench upon her southern boundary, ratify the act of Maryland.\n\n This is cerainly very magnificent pro- ject; perhaps feasible within the amount of capital named. We say, however, per- haps-for nature has intcrposed between the Atlantic and western waters, the great range of the Alleghany mountains-which are to be travcrsed, or penetrated, by this rail road.\n\n The Baltimore papers cxult much, as if it can be carried into execution-they just ly may, at the prospects of benefit to their city from this undertaking. We wish their utmost hopes may be roalised-satis6ed that it will, like all other such schemes, when wisely planned and executed, con- duce to the general good.-N. Y. Amer.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1133,
+                "y0": 846,
+                "x1": 2032,
+                "y1": 6262
+            },
+            "class": "article",
+            "raw_text": "\n\n Talbot Island, whenever dinner or loan 1 is wanted. 1t is to be taxed for more than you are worth, and never to be believed when you say so. It is to have Addition of dollars, Subtraction of comforts, and Null l tplication of anxietes, end in Division a. ] mong spendthrift heirs. 1t is to have the interest of every one about you exceed their principle. It is to make up 10 the mer- chant all the profits he loses by knavery or prodigality. It is never to be allowed to be upon easy terms, even with a coat or shoe. It is to be married for your money, or have wife always casting up the sum total of the dollars she brought. It is to have your own steps surrounded by ''man-traps,\" and your daughter made target for the specu- lating and selfish to aim at. It is to measure friendship by the length of your purse, to buy lattery, and sell happiness. It is to have debtors smile upon you, and knaves shake you by the hand. It is to have dys- peptic wife, and pale children. It is to have sons go to college to buy themes of wiser heads, and daug ghter's brains turned by the fiattery of fools. It is to be invited to drink port wine, that you may give bet ter in return. It is to have your lady's peace disturbed by higher feather or d brighter diamond. It is to buy green peas at nine shillings, ,and relish them no, because your neighbor gives two dollars. It is to have relations wish you short life and long will. It is to have more temptations in this world than other men: and lastly, to find the entrance to better more diff cult than to the rest of mankind.--Mass. Jour. \"\n\n COMBINATIONS AND COALITIONS!\n\n In a letter of Gen. Floyd, member of Congress from Virginia, read before the Virginia legislature, he declined the office of Governor rendered to him by his friends Giving as reason, that\n\n e. \"Combinations for efecting the el- eration of Gen. Jackson, ,Oere nearly con,- plete, and that he vished to remain m Congress ~ntH they aoere complete. \"~O\n\n Combinations-anda among whom The People No-but the members of Con- gress. Take notice, gentle reader, that these are not combinations between Adams and Clay-they are combinations among those pure and immaculate gentlemen, who have denounced all combinations, as cheat ing the people-who call the serving ofMr. Clay under MT. Adams, the coalition of the puritan and the black leg-and who presuming combination between them for the purpose of electing the late President of tho United States, have applied to his phantom every term of moral and polit- ical reproduction. We find that these same pure and immaculate gentlemen--these virtuous patriots, who were fired with so holy an indignation at this supposed fraud upon the popular will, are by the confess sion of so important member of their par ty as Dr. Floyd, combined and for the same purpose of making President. \"The combinations for electing Gen. Jackson are nearly complete\" So the people, notwithstanding the solicitude for their rights, and the denunciations against Mes SITS. Adams and Clay for their alleged dis respect of their will by Dr. Floyd and his associates, are after all to have nothing to do with the election That is to be settled by combinations among the members of Congress-and this is avowed by so dis tinguished member as Dr. Floyd--he whose presence is necessary at Washing ton, to save the nation It was infamous in MT. Clay to exercise his constitutional discression in voting for Adams in prefer encc to Jackson, after the people had fail- ed to make choice-but it is all right to elect Jackson by combination among the members of Congress, without at all con- sulting the people. It was bargain, sale corruption in Clay, tevote as his District wished him, and as his State was willing he should vote, but it is perfectly fair, nay highly meritorious and patriotic in Dr. Floyd and his associates, exercising their opportunities and influence as Members of Congress, to combine to elect Jackson. That Mir. Clay should be reconciled to MT. Adams, whom he had only differed but on the subject of the Mississippi and fisheries, politically and never personally, was irrefragable evidence of their corrup- ton, of bargain and sale-but when Mir. Calhoun and MT. Randolph, Gen. Jack son and Col. Benton, MT. Calhoun and Dr. Floyd are reconciled-men whose long and rancorous mutual hatred is noto- rious-and when a close intimacy succeeds for the purpose of effecting common end, all this is complimented as magnanimous proceeding.\n\n ', ;s t;rna that the neonle were lookinp",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3849,
+                "y0": 840,
+                "x1": 4771,
+                "y1": 6256
+            },
+            "class": "article",
+            "raw_text": "gospel, break their windows and menace their lives, to induce them to consent to the repeal of the law, and to employ their iuflu- ence for that purpose, ,--that they should endeavor 10 intimidate the Mayor and AL dermen by threatning to s'biow the town down.\" if they would not comply with their wishes: what would our countrymen and our government say and do in such a case 2 Would they not demand satisfaction for the outrage, even at the risk of another war; And shall they tolerate in our commanders and seamen, such conduct toward other na- tions, as they would deem cause of war, when perpetrated by foreigners against our own people? Is it for such purposes, that our nation has expended such sums, in form-\n\n ing and supporting navy, and in sduca- ting young men at Military Academies !? In my opinion, our nation would be far more safe without single ship of wal, than with 300 such ships, if commanded by such men as Porter avowed himself to be, or as Percival is, ifhis conduct at the Sandwich Islands has been correctly stated in the public papers\n\n What degrading opinion must Capt. Por- ter have entertained of the morals of his of his countrymen, and of the officers of government, when he published his \"Jour- nal,\" of the most shameless debaucheries. and of his war on the natives of Madison's Island ;--a war in which he violated the laws of nations, the laws of his own coun- try ,wantonly sacrificed the lives of the Typ ees, ,6 inhumanly burnt a beautiful range of villages, nine miles in length blush for my country, when l reflect, that \"Jour- nal of such horrid deeds, perpetrated by an Anne rican officer, could escape the cen- sure of our government, and find subscri- bers for second edition. If that \" Jour- nal,\" with cts sale, may be regarded as a thermometer, expressing the state of mor- als in our land, our virtue would not be found higher than zero. If such conduct as Porter's is still to be tolerated in our na- val commanders, the sooner our navy is nation. However, cannot but hope that the present officers of government have virtue enough to cause justice to be done in the affair of Capt. Percival.\" R.\n\n \"Signs of the Times. \"A series of arti- cles, under this head, has been commenced by the Editors of the National Intelligencer in the first number of which they announce the organization of an Opposition to the present Administration, the object of which is to put it down, right or wrong; or in the language ofone of the party, to ''put it down though it be as pure as the Angels which stand at the right hand of Gods throne\" The first annunciation of this organization, it appears, was made by the Hon. M. Van- Buren, in speech delivered in the Senate on the choice of printer, when the snb- ject avowed,u under the guise of ''promoting the condition of the Press'' to prescribe the National InteUigencer, and identify the Senate of the United States with the Iele- graph. In the vote which succeeded, % Senators were found adhering to their chief and spokesman, among whom the IntelIi- >gcncer, with evident sensibility, ,enumerates their ''old friend Dickerson, the incorrupt- ible Macon and Smith of s. c. Benton of capacious mind, & Chandler of blunt hon. esty, not to speak of others, as ranging themselves under the standard of a new ca balistical party organization\" We regret our inability to give these able and spirited\n\n articles at full length.\n\n From, the Montreal Gazette of March ,.\n\n Singular occurrence # true.-A corres- pondent in pIsle Jesus, has informed us that a woman that resides there, had, few days ago, three of her children and her servant girl poisoned in the following extraordinary manner. Previous to her going to church, she gave orders to the girl to make soup, in which she desired her to boil head of cabbage whole. The girl did as she was ordered, and about noon gave the three children some of it. 1 The children almost immediately after swallowing the soup, sickened and died.-- This had such an effect upon the girl, that she ran screening till she met her mistress, who hastened home and found that her girl was not crazy as she imagined, when she beheld her three infants lying lifeless. Her distress on beholding such melan- choly spectacle beggards description. In her phrenzy she blamed the girl for being the cause, and, as punishment, ordered her to take some of the soup. The poor girl, conciencious of her innocence, and to convince her mistress that she knew noth- ing of a poisonous nature being put into the soup, took some, and was soon after ] corpse. A medical gentleman was then",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2952,
+                "y0": 6017,
+                "x1": 3845,
+                "y1": 7086
+            },
+            "class": "article",
+            "raw_text": "Extract ofa letter to gentleman in the\n\n District of Columsbia.\n\n \"You have probably seen the letters from the Sandwich Islands, relating to the con- duct of Capt. Percival and his crew.--I wish to know what has been done or is like ly to be done respecting that affair. For the honor of our country, would fain hope that the allegations are exaggerated; but I think full enquiry should be instituted & that the affair should not be passed over by the government, as was the conduct of Capt Porter at what he named Madison's Island. 1.-the concuct of Capt. Percival and his sea- men has been correctly stated, when has a pirate been hang for deeds more atrocious!\n\n Suppose that French or British ship of war shonld come to Boston, ,and demand the repeal of law prohibiting females to go on board ships for the purposes ofProstitu- ton that the captain and his crew should land, go to the houses ofth ministers ofthe",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 2957,
+                "y0": 5949,
+                "x1": 3833,
+                "y1": 6092
+            },
+            "class": "headline",
+            "raw_text": "From the Christian Register. E1tract ofa ktter to e gentleman in tht n:etr:rf of To1,.o,h;o",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 253,
+                "y0": 3466,
+                "x1": 1106,
+                "y1": 4711
+            },
+            "class": "article",
+            "raw_text": "But the music ofyoung thoughts too soon Is faint and dies away, And from our morning dreams we wake To curse the coming day. And childhood's frolIc hours are brief,\n\n And oft in after years Their memoryEcomes to chill the heart, And dim the eye with tears. To day the forest leaves are green,\n\n They'll withcr on the morrow, And the maidens laugh will be chang'd ere 'ro the widows wall of sorrow. long Come with the winter snows, and ask\n\n SVhcre are the forest birds The answer is silent one\n\n More eloquent than words. The moonlight music of the waves\n\n Tn storms is heard no more, When the living lightning mocks the wreck At midnight on the shore. Ani the mariners song of home has ceased, His corse is on the sea - And =",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2952,
+                "y0": 1062,
+                "x1": 3839,
+                "y1": 2029
+            },
+            "class": "article",
+            "raw_text": "Greece.-The Greeks are successful on all sides. The Turks have been beaten at Arachova and Athens. General Fab- vier is iR the citadel of the latter place, & karaiskaki is approaching Missolong ghi. Letters from Zante of Jan. 1st state, that Miaulis (of course, we presume, in the new trigate,) has taken two corvetts, brigs, & sunk and dispersed the rest of the enemy's fleet near Zea. Letters to the 9th say, that Ibrahim was attacked ill his entrench- ments, between Modon and Navarino by Colocotroni, Nikitas, Botzaris and Gene us, with 5000 Greeks, and lost 1900 killed, many wounded and prisoners, IA pair of colours, 8 cannon and 800 horses. Fur ther, it was reported that the Greeks had got the town of Caristo, Redschid was kill led, and Miaulis had beaten the Turkish fleet again near Candia.-N. Y Amer.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2963,
+                "y0": 823,
+                "x1": 3839,
+                "y1": 1023
+            },
+            "class": "article",
+            "raw_text": "enemy, with his own hand. Rejoice again, my brethren for you will soon hear of still greater things!\n\n Signed \"KARAISKAKI.\"",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 258,
+                "y0": 2125,
+                "x1": 1106,
+                "y1": 3404
+            },
+            "class": "article",
+            "raw_text": "IRAG MENI. Young thoughts have music, in them, love And happiness their theme; And music Wal, ,ders in the wind\n\n And luIls a morning dream. And there are angel voices heard,\n\n In childhood's frolic hours, When life is but an April day,\n\n Of sunshine and of showers. There's music in the forest leaves\n\n When summer winds are there And in the laugh of forest girls /. That braid their sunny hair. The first wild bird that drinks the dew From violets of the spring, Has music in his song. and in\n\n The Auttering of his wing. There's music in the dash of waves When the swift bark cleayes their foam There's music heard upon her deck, The mariners song of home. When moon and star beams smiling meet At midnight on the sea - Ana",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 491,
+                "y0": 1590,
+                "x1": 879,
+                "y1": 1643
+            },
+            "class": "headline",
+            "raw_text": "ADVERTISING.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": -2
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 514,
+                "y0": 2102,
+                "x1": 833,
+                "y1": 2154
+            },
+            "class": "headline",
+            "raw_text": "FRAGMENT.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": -1
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 3878,
+                "y0": 6920,
+                "x1": 4765,
+                "y1": 7080
+            },
+            "class": "article",
+            "raw_text": "Grass-k0ppers, alive, and nearly half grown, were seen in Williamsburgh, Mass.\n\n on the 1lth day of March, inst.--H. Gdx.",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 2946,
+                "y0": 1647,
+                "x1": 3828,
+                "y1": 5131
+            },
+            "class": "article",
+            "raw_text": "Colocotroni, Nikitas, Botzaris and Gene us, with 5000 Greeks, and lost 1900 killed, many wounded and prisoners, IA pair of colours, 8 cannon and 800 horses. Fur ther, it was reported that the Greeks had got the town of Caristo, Redschid was kill led, and Miaulis had beaten the Turkish fleet again near Candia.-N. Y Amer.\n\n LONDON, Feb. 10.\n\n Spain and Portugal.-There has been no direct intelligence since our last. All the news we have received, indirectly, ,how- ever, through France and Spain, tends strongly to prove the hopeless dispersion and defeat of the apostolical rebels. The battle of Cornoches de Beira is stated to have been for some time warmly contest ed and the success of the royalists to have been, at last owing to a report, (how or iginated, or how circulated, during the heat of battle, does not appear,) that the English troops, after their landing, had im- mediately marched for Beira, and were al- most close at hand. Upon this notion get ting ground, the officers immediately be- took themselves to flight, and large DOT tOA Ol WCAt ONCl tO lAlC NOH\" tinential army. After tho battle, the news of amnesty being published by the Regent induced still larger number, indeed al- most the whole corps of Magessi, one of the rebel commanders, to the Court de Villa Flor. The remainder took refuge in tho Spanish territory.\n\n Of the manner in which they were there received, the accounts are by no means clear. Some state that they were supplied with arms and amuniton, and e. ven that large sum of money was imme- diatly sent off from Madrid, for the pur- pose to enable them to make second inva- sion which indeed is alledged to have ta- ken place. It is, in fact, probable, that some of these refugees have again crossed Duro, and thus entered the province oi Tras os Montes but there is little proba- bility of their being in much force, or, con- sidering the way in which opinion must now be operating in favor of the constitu- tional cause, of their murders receiving much accession.\n\n On the other hand, M. Salmon, ,the Span ish minister for foreign affairs, is stated tc have addressed an official note to MT. Lamb the British Ambassador, represented\"That his Catholic Majesty has seen, with the utmost indignation, the conduct recently pursued by Gen. Longa and by the Gov ernor of Ciudad Rodrigo, who, in contra vention of the orders which had Eeen sent to disarm the Portugnes rebels who had re- entered the Spanish territory, and to di- rect them to the interior, 40 leagues from the frontier, have manifested so little zea in fulfilling the directions of his Majesty that the refugees who entered on the 12tl inst. at different points on the banks of thu Torneo, had been suffered to repass tho Douro, by the Hinajoso and Friexenda and to re-enter the Portuguese province O Tras os Monies and that in consequence of theSe occlrrenceS Gen. Longa and thc",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 3866,
+                "y0": 6534,
+                "x1": 4759,
+                "y1": 6881
+            },
+            "class": "article",
+            "raw_text": "Ii is astonishing that the Georgians should be in favor of Gen. Jackson for President, if they have any regard for the life of their Governor. Had Jackson been President instead of Adams, he would have hanged Troup upon the highest tree in Georgia long ago.",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                10,
+                0
+            ],
+            "headline": "GREECE.",
+            "article": "NnpoI di Romania, December IS.\n\n Copy of the official despatch of General\n\n Karaiskaki to the Greek Committe.\n\n \"I have not answered any of your let- ters, having been for the last twenty days engaged in fighting the enemy at De- brena. We have killed great number of them, and on our side we have lost our brother Giovani Suitana. On the 29th ut. we directed our oh to this place for the purpose of joining the other corps at Thistimo. We sent forward the Captains Gardickittis, Grivas, and Kiaya, with 300 men, with orders to possess themselves of Arakova. So soon as this advance guard informed us that they were in sight of the enemy, we left Thstimo with the Souliot chiefs, Ipsariots, and others; and I sent the different corps under Christothulo, Pe- tro, and Galoni, by cross road, to Ara kova, that they might reach that place as soon as possible. On the first, we attack ed the enemy, and a desperate battle ensu- ed. which lasted five hours. The enemy, after having lost great number of men, and leaving every thing behind them, reti- red to disadvantageous position, where we kept them five days at bey. They pro- posed that we should allow them to affect a complete retreat, but we sent them word that they might now do with us as we had done with them at Missolongh. This day we dislodged them from their position, for ced them to action, killed 1900 men, a. mong whom the Kiaya Bey, Moustapha Bey, and two other Beys, and took several prisoners whom we shall immediately send of to Napoli. Among the latter are sey- eral persons of distinction. Our brave tel- lows have all enriched themselves with the money. richly mounted arms, and costly clothes of the Mahometans. Rejoice, my brothers the continental part of our coun- try has got completely rid of the enemy since the flower of the Albanian Turks arc destroyed. The bravery of the General Thimo Zellio has proved on this occasion, above all praise. He killed fifteen of the",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2366,
+                    "y0": 4653,
+                    "x1": 2606,
+                    "y1": 4705
+                },
+                {
+                    "x0": 2037,
+                    "y0": 4710,
+                    "x1": 2930,
+                    "y1": 7103
+                }
+            ],
+            "bbox": [
+                2037,
+                4653,
+                2930,
+                7103
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-03-29_p1_sn82014309_00414182926_1827032901_0155.json"
+        },
+        {
+            "object_ids": [
+                21,
+                1
+            ],
+            "headline": "F. G.. H.",
+            "article": "Awfm Ndrrdtirf.-Thef following inter- es,ing account is given by the late Dr. Cur rie, of Liverpool, in letter to Sir Walter Scott when editor several years ago of''the MinstrcIsy of the Scottish Border\" It has hardly parallel in its kind:--\"I once in my early days,'' says Dr. Gurrie, \"heard <for it was night could not see,) travel\n\n Ter drowning, not in the Amman itself, but in the firth of Solway, close by the mouth of that river. The influx of the tide had unhorsed him in the night, as he was passing the Cumberland sands. The west wind blew tempest, and, according to the common expression, brought in the water, four feet abreast. The traveller got upon standing net, little way from the shore. There he lashed himself to post, shouting for half an hour for assistance, till the tide rose over his head In the darkness of the night, and amid the pauses ofthe hurricane lis>goice, heard at intervals was exquisitely inournful. No one could go to his assist .ance,--no one knew where he was:-the sound seemed to proceed from Ethe spirit of water. But morning rosc-- ,and the poor traveller was found dashed to the pole of the net, and bleaching in the wind.' It is hardly conceivable that any incident ever occurred better calculated to excite the strongest sympathies in human beings: and it is told in manner, and with brevity and feeling that could not be improved.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 929,
+                    "y0": 4699,
+                    "x1": 1106,
+                    "y1": 4751
+                },
+                {
+                    "x0": 213,
+                    "y0": 4789,
+                    "x1": 1112,
+                    "y1": 6398
+                }
+            ],
+            "bbox": [
+                213,
+                4699,
+                1112,
+                6398
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-03-29_p1_sn82014309_00414182926_1827032901_0155.json"
+        },
+        {
+            "object_ids": [
+                5,
+                13,
+                2
+            ],
+            "headline": "sBX S. S. SNTTTH, EDITOR AND PROPRIETOR.\n\nTERMS,",
+            "article": "IO subscribers in this uillage, and subscribers by mail or by post carriers, TWO DOLLARS per yecr, payable in adUance. To companies less tha\" 1e\"' 6y mail, or taken from the office, e0here there IS e joint responsibility, or where one dadtoiduoL is responsible, ,5O per gear, in ad- Uancc. To hke componies of more than ten, S1, e5 per gear, in advance.-Where payment is de- LGyed to the end of tue gear 95 cts. aCiU be added to e0ch of the aboue prices. No papers a0iH be discontinued until aU ar- TeGrages are paid, except at the discretion o the publisher.\n\n ADVERTISING.\n\n For ho!f square, three insertions, or Jess, B cents ;-more than ha! fa square, and Jess than 0 square, e7 l2 cents ;-for one square, S1 ,OO ]; -and in the same proportion for more than c square for continuing advertisements more than three areeks 20 per cent per rsceek ,cN De charged.\n\n PROBATE NOTICES. Administrators and Executors S1,OO Comm'ss!onerS' S1,25",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 264,
+                    "y0": 784,
+                    "x1": 1083,
+                    "y1": 938
+                },
+                {
+                    "x0": 554,
+                    "y0": 971,
+                    "x1": 810,
+                    "y1": 1018
+                },
+                {
+                    "x0": 224,
+                    "y0": 1022,
+                    "x1": 1117,
+                    "y1": 2069
+                }
+            ],
+            "bbox": [
+                224,
+                784,
+                1117,
+                2069
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-03-29_p1_sn82014309_00414182926_1827032901_0155.json"
+        },
+        {
+            "object_ids": [
+                14,
+                22,
+                3
+            ],
+            "headline": "MISERIES OF WEALTH.\n\nSuggested by reading Hd=liH's \"Miseyies of\n\n POverty.\"",
+            "article": "ougg5Sleu oJ '1tl1'''g 11u-1HtS -HISe7IE5 01\n\n POverty.\"\n\n It is to have subscription paper handed you every hour in the day, and be called a niggard, if you refuse your name. It is to eat turkey and drink wine at dearer rate than your neighbors. It is to have every college, infrmary, and asylum make run upon the bank of your benevolence, and then wonder at the smallness of the divid- end. It is to have sectarians contend for the keeping of your conscience, and law . yers struggle for the keeping of your purse",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 321,
+                    "y0": 6420,
+                    "x1": 1015,
+                    "y1": 6478
+                },
+                {
+                    "x0": 270,
+                    "y0": 6483,
+                    "x1": 1123,
+                    "y1": 6563
+                },
+                {
+                    "x0": 219,
+                    "y0": 6500,
+                    "x1": 1117,
+                    "y1": 7109
+                }
+            ],
+            "bbox": [
+                219,
+                6420,
+                1123,
+                7109
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-03-29_p1_sn82014309_00414182926_1827032901_0155.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "people the little agency they have remain- ing in the choice of President. This combination of Members of Congress is going to do the very thing which they inl- puted to MT. Clay--they mean to take the election of President into their own hands, and cheat the people with nomin- al instrumentality. And who are the men who compose the combination Men who are seeking office-one is to be Secretary of State, another of War-another of the Navy-another of the Treasury-This one is to go Minister to England-that one to France.-This expectation of office-this hope of preference from Gen. Jackson, flattered by his confidential friends-tAis is the cement which binds together hetero- geneous mass called the opposition.-This IS the principle of those \"combinations which are nearly completed to elect Gen. Jackson\" This is at the bottom of all the sentimental patriotism so abundantly uttered by the tongue!-Rich. Whig. A SOW belonging to Mr.P Preserved Bart lett, of Northampton Mass, had 35 pigs 6 litters) in 13 months. Nineteen of these were butchered in January last and sold for $299, 50. Nine were l5 months old, and ten months old.\n\n In Randolph, Vermont, a boy named Belknap aged l7, has committed matrimo- ny; the happy fair one is Miss Sprague, his junior by couple of years. Paternal government must be rather lax in that State.\n\n Great Rail Road.-The Legislature of Maryland have incorporated company under the title of the Baltimore and Ohio Rail Road Company, with capital of $3 ,OOO,OOO, to construct a rail road from Baltimore to the Ohio-a distance in the shortest line of about $50 miles. The Corporation of Baltimore are expected to subscribe for half million of the stock one branch of the City Council having al- ready passed a res olution, which will, it is said, have the confirmation of the other branch, authorizing such subscription. The State reserves to itself the right to subscribe million of dollars.\n\n The Legislature of Virginia have con- frmcd this act of Maryland, so far as it is to take effect within the limits of Virginia, stipulating only, that the rail road shall not strike the Ohio below the Little kenha- wa, and that no lateral roads shall be con- structed in Virginia without the consent of the Legislature. Iti expected that Penn sylvania also, will as far as the contempla- ted road may trench upon her southern boundary, ratify the act of Maryland.\n\n This is cerainly very magnificent pro- ject; perhaps feasible within the amount of capital named. We say, however, per- haps-for nature has intcrposed between the Atlantic and western waters, the great range of the Alleghany mountains-which are to be travcrsed, or penetrated, by this rail road.\n\n The Baltimore papers cxult much, as if it can be carried into execution-they just ly may, at the prospects of benefit to their city from this undertaking. We wish their utmost hopes may be roalised-satis6ed that it will, like all other such schemes, when wisely planned and executed, con- duce to the general good.-N. Y. Amer.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2042,
+                    "y0": 812,
+                    "x1": 2930,
+                    "y1": 4631
+                }
+            ],
+            "bbox": [
+                2042,
+                812,
+                2930,
+                4631
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-03-29_p1_sn82014309_00414182926_1827032901_0155.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "\n\n Talbot Island, whenever dinner or loan 1 is wanted. 1t is to be taxed for more than you are worth, and never to be believed when you say so. It is to have Addition of dollars, Subtraction of comforts, and Null l tplication of anxietes, end in Division a. ] mong spendthrift heirs. 1t is to have the interest of every one about you exceed their principle. It is to make up 10 the mer- chant all the profits he loses by knavery or prodigality. It is never to be allowed to be upon easy terms, even with a coat or shoe. It is to be married for your money, or have wife always casting up the sum total of the dollars she brought. It is to have your own steps surrounded by ''man-traps,\" and your daughter made target for the specu- lating and selfish to aim at. It is to measure friendship by the length of your purse, to buy lattery, and sell happiness. It is to have debtors smile upon you, and knaves shake you by the hand. It is to have dys- peptic wife, and pale children. It is to have sons go to college to buy themes of wiser heads, and daug ghter's brains turned by the fiattery of fools. It is to be invited to drink port wine, that you may give bet ter in return. It is to have your lady's peace disturbed by higher feather or d brighter diamond. It is to buy green peas at nine shillings, ,and relish them no, because your neighbor gives two dollars. It is to have relations wish you short life and long will. It is to have more temptations in this world than other men: and lastly, to find the entrance to better more diff cult than to the rest of mankind.--Mass. Jour. \"\n\n COMBINATIONS AND COALITIONS!\n\n In a letter of Gen. Floyd, member of Congress from Virginia, read before the Virginia legislature, he declined the office of Governor rendered to him by his friends Giving as reason, that\n\n e. \"Combinations for efecting the el- eration of Gen. Jackson, ,Oere nearly con,- plete, and that he vished to remain m Congress ~ntH they aoere complete. \"~O\n\n Combinations-anda among whom The People No-but the members of Con- gress. Take notice, gentle reader, that these are not combinations between Adams and Clay-they are combinations among those pure and immaculate gentlemen, who have denounced all combinations, as cheat ing the people-who call the serving ofMr. Clay under MT. Adams, the coalition of the puritan and the black leg-and who presuming combination between them for the purpose of electing the late President of tho United States, have applied to his phantom every term of moral and polit- ical reproduction. We find that these same pure and immaculate gentlemen--these virtuous patriots, who were fired with so holy an indignation at this supposed fraud upon the popular will, are by the confess sion of so important member of their par ty as Dr. Floyd, combined and for the same purpose of making President. \"The combinations for electing Gen. Jackson are nearly complete\" So the people, notwithstanding the solicitude for their rights, and the denunciations against Mes SITS. Adams and Clay for their alleged dis respect of their will by Dr. Floyd and his associates, are after all to have nothing to do with the election That is to be settled by combinations among the members of Congress-and this is avowed by so dis tinguished member as Dr. Floyd--he whose presence is necessary at Washing ton, to save the nation It was infamous in MT. Clay to exercise his constitutional discression in voting for Adams in prefer encc to Jackson, after the people had fail- ed to make choice-but it is all right to elect Jackson by combination among the members of Congress, without at all con- sulting the people. It was bargain, sale corruption in Clay, tevote as his District wished him, and as his State was willing he should vote, but it is perfectly fair, nay highly meritorious and patriotic in Dr. Floyd and his associates, exercising their opportunities and influence as Members of Congress, to combine to elect Jackson. That Mir. Clay should be reconciled to MT. Adams, whom he had only differed but on the subject of the Mississippi and fisheries, politically and never personally, was irrefragable evidence of their corrup- ton, of bargain and sale-but when Mir. Calhoun and MT. Randolph, Gen. Jack son and Col. Benton, MT. Calhoun and Dr. Floyd are reconciled-men whose long and rancorous mutual hatred is noto- rious-and when a close intimacy succeeds for the purpose of effecting common end, all this is complimented as magnanimous proceeding.\n\n ', ;s t;rna that the neonle were lookinp",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1133,
+                    "y0": 846,
+                    "x1": 2032,
+                    "y1": 6262
+                }
+            ],
+            "bbox": [
+                1133,
+                846,
+                2032,
+                6262
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-03-29_p1_sn82014309_00414182926_1827032901_0155.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "gospel, break their windows and menace their lives, to induce them to consent to the repeal of the law, and to employ their iuflu- ence for that purpose, ,--that they should endeavor 10 intimidate the Mayor and AL dermen by threatning to s'biow the town down.\" if they would not comply with their wishes: what would our countrymen and our government say and do in such a case 2 Would they not demand satisfaction for the outrage, even at the risk of another war; And shall they tolerate in our commanders and seamen, such conduct toward other na- tions, as they would deem cause of war, when perpetrated by foreigners against our own people? Is it for such purposes, that our nation has expended such sums, in form-\n\n ing and supporting navy, and in sduca- ting young men at Military Academies !? In my opinion, our nation would be far more safe without single ship of wal, than with 300 such ships, if commanded by such men as Porter avowed himself to be, or as Percival is, ifhis conduct at the Sandwich Islands has been correctly stated in the public papers\n\n What degrading opinion must Capt. Por- ter have entertained of the morals of his of his countrymen, and of the officers of government, when he published his \"Jour- nal,\" of the most shameless debaucheries. and of his war on the natives of Madison's Island ;--a war in which he violated the laws of nations, the laws of his own coun- try ,wantonly sacrificed the lives of the Typ ees, ,6 inhumanly burnt a beautiful range of villages, nine miles in length blush for my country, when l reflect, that \"Jour- nal of such horrid deeds, perpetrated by an Anne rican officer, could escape the cen- sure of our government, and find subscri- bers for second edition. If that \" Jour- nal,\" with cts sale, may be regarded as a thermometer, expressing the state of mor- als in our land, our virtue would not be found higher than zero. If such conduct as Porter's is still to be tolerated in our na- val commanders, the sooner our navy is nation. However, cannot but hope that the present officers of government have virtue enough to cause justice to be done in the affair of Capt. Percival.\" R.\n\n \"Signs of the Times. \"A series of arti- cles, under this head, has been commenced by the Editors of the National Intelligencer in the first number of which they announce the organization of an Opposition to the present Administration, the object of which is to put it down, right or wrong; or in the language ofone of the party, to ''put it down though it be as pure as the Angels which stand at the right hand of Gods throne\" The first annunciation of this organization, it appears, was made by the Hon. M. Van- Buren, in speech delivered in the Senate on the choice of printer, when the snb- ject avowed,u under the guise of ''promoting the condition of the Press'' to prescribe the National InteUigencer, and identify the Senate of the United States with the Iele- graph. In the vote which succeeded, % Senators were found adhering to their chief and spokesman, among whom the IntelIi- >gcncer, with evident sensibility, ,enumerates their ''old friend Dickerson, the incorrupt- ible Macon and Smith of s. c. Benton of capacious mind, & Chandler of blunt hon. esty, not to speak of others, as ranging themselves under the standard of a new ca balistical party organization\" We regret our inability to give these able and spirited\n\n articles at full length.\n\n From, the Montreal Gazette of March ,.\n\n Singular occurrence # true.-A corres- pondent in pIsle Jesus, has informed us that a woman that resides there, had, few days ago, three of her children and her servant girl poisoned in the following extraordinary manner. Previous to her going to church, she gave orders to the girl to make soup, in which she desired her to boil head of cabbage whole. The girl did as she was ordered, and about noon gave the three children some of it. 1 The children almost immediately after swallowing the soup, sickened and died.-- This had such an effect upon the girl, that she ran screening till she met her mistress, who hastened home and found that her girl was not crazy as she imagined, when she beheld her three infants lying lifeless. Her distress on beholding such melan- choly spectacle beggards description. In her phrenzy she blamed the girl for being the cause, and, as punishment, ordered her to take some of the soup. The poor girl, conciencious of her innocence, and to convince her mistress that she knew noth- ing of a poisonous nature being put into the soup, took some, and was soon after ] corpse. A medical gentleman was then",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3849,
+                    "y0": 840,
+                    "x1": 4771,
+                    "y1": 6256
+                }
+            ],
+            "bbox": [
+                3849,
+                840,
+                4771,
+                6256
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-03-29_p1_sn82014309_00414182926_1827032901_0155.json"
+        },
+        {
+            "object_ids": [
+                18,
+                8
+            ],
+            "headline": "From the Christian Register. E1tract ofa ktter to e gentleman in tht n:etr:rf of To1,.o,h;o",
+            "article": "Extract ofa letter to gentleman in the\n\n District of Columsbia.\n\n \"You have probably seen the letters from the Sandwich Islands, relating to the con- duct of Capt. Percival and his crew.--I wish to know what has been done or is like ly to be done respecting that affair. For the honor of our country, would fain hope that the allegations are exaggerated; but I think full enquiry should be instituted & that the affair should not be passed over by the government, as was the conduct of Capt Porter at what he named Madison's Island. 1.-the concuct of Capt. Percival and his sea- men has been correctly stated, when has a pirate been hang for deeds more atrocious!\n\n Suppose that French or British ship of war shonld come to Boston, ,and demand the repeal of law prohibiting females to go on board ships for the purposes ofProstitu- ton that the captain and his crew should land, go to the houses ofth ministers ofthe",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2957,
+                    "y0": 5949,
+                    "x1": 3833,
+                    "y1": 6092
+                },
+                {
+                    "x0": 2952,
+                    "y0": 6017,
+                    "x1": 3845,
+                    "y1": 7086
+                }
+            ],
+            "bbox": [
+                2952,
+                5949,
+                3845,
+                7086
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-03-29_p1_sn82014309_00414182926_1827032901_0155.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "But the music ofyoung thoughts too soon Is faint and dies away, And from our morning dreams we wake To curse the coming day. And childhood's frolIc hours are brief,\n\n And oft in after years Their memoryEcomes to chill the heart, And dim the eye with tears. To day the forest leaves are green,\n\n They'll withcr on the morrow, And the maidens laugh will be chang'd ere 'ro the widows wall of sorrow. long Come with the winter snows, and ask\n\n SVhcre are the forest birds The answer is silent one\n\n More eloquent than words. The moonlight music of the waves\n\n Tn storms is heard no more, When the living lightning mocks the wreck At midnight on the shore. Ani the mariners song of home has ceased, His corse is on the sea - And =",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 253,
+                    "y0": 3466,
+                    "x1": 1106,
+                    "y1": 4711
+                }
+            ],
+            "bbox": [
+                253,
+                3466,
+                1106,
+                4711
+            ],
+            "full_article_id": 10,
+            "id": "10_1827-03-29_p1_sn82014309_00414182926_1827032901_0155.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "Greece.-The Greeks are successful on all sides. The Turks have been beaten at Arachova and Athens. General Fab- vier is iR the citadel of the latter place, & karaiskaki is approaching Missolong ghi. Letters from Zante of Jan. 1st state, that Miaulis (of course, we presume, in the new trigate,) has taken two corvetts, brigs, & sunk and dispersed the rest of the enemy's fleet near Zea. Letters to the 9th say, that Ibrahim was attacked ill his entrench- ments, between Modon and Navarino by Colocotroni, Nikitas, Botzaris and Gene us, with 5000 Greeks, and lost 1900 killed, many wounded and prisoners, IA pair of colours, 8 cannon and 800 horses. Fur ther, it was reported that the Greeks had got the town of Caristo, Redschid was kill led, and Miaulis had beaten the Turkish fleet again near Candia.-N. Y Amer.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2952,
+                    "y0": 1062,
+                    "x1": 3839,
+                    "y1": 2029
+                }
+            ],
+            "bbox": [
+                2952,
+                1062,
+                3839,
+                2029
+            ],
+            "full_article_id": 12,
+            "id": "12_1827-03-29_p1_sn82014309_00414182926_1827032901_0155.json"
+        },
+        {
+            "object_ids": [
+                12
+            ],
+            "headline": "",
+            "article": "enemy, with his own hand. Rejoice again, my brethren for you will soon hear of still greater things!\n\n Signed \"KARAISKAKI.\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2963,
+                    "y0": 823,
+                    "x1": 3839,
+                    "y1": 1023
+                }
+            ],
+            "bbox": [
+                2963,
+                823,
+                3839,
+                1023
+            ],
+            "full_article_id": 13,
+            "id": "13_1827-03-29_p1_sn82014309_00414182926_1827032901_0155.json"
+        },
+        {
+            "object_ids": [
+                25,
+                19,
+                15
+            ],
+            "headline": "ADVERTISING.\n\nFRAGMENT.",
+            "article": "IRAG MENI. Young thoughts have music, in them, love And happiness their theme; And music Wal, ,ders in the wind\n\n And luIls a morning dream. And there are angel voices heard,\n\n In childhood's frolic hours, When life is but an April day,\n\n Of sunshine and of showers. There's music in the forest leaves\n\n When summer winds are there And in the laugh of forest girls /. That braid their sunny hair. The first wild bird that drinks the dew From violets of the spring, Has music in his song. and in\n\n The Auttering of his wing. There's music in the dash of waves When the swift bark cleayes their foam There's music heard upon her deck, The mariners song of home. When moon and star beams smiling meet At midnight on the sea - Ana",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 491,
+                    "y0": 1590,
+                    "x1": 879,
+                    "y1": 1643
+                },
+                {
+                    "x0": 514,
+                    "y0": 2102,
+                    "x1": 833,
+                    "y1": 2154
+                },
+                {
+                    "x0": 258,
+                    "y0": 2125,
+                    "x1": 1106,
+                    "y1": 3404
+                }
+            ],
+            "bbox": [
+                258,
+                1590,
+                1106,
+                3404
+            ],
+            "full_article_id": 16,
+            "id": "16_1827-03-29_p1_sn82014309_00414182926_1827032901_0155.json"
+        },
+        {
+            "object_ids": [
+                20
+            ],
+            "headline": "",
+            "article": "Grass-k0ppers, alive, and nearly half grown, were seen in Williamsburgh, Mass.\n\n on the 1lth day of March, inst.--H. Gdx.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3878,
+                    "y0": 6920,
+                    "x1": 4765,
+                    "y1": 7080
+                }
+            ],
+            "bbox": [
+                3878,
+                6920,
+                4765,
+                7080
+            ],
+            "full_article_id": 21,
+            "id": "21_1827-03-29_p1_sn82014309_00414182926_1827032901_0155.json"
+        },
+        {
+            "object_ids": [
+                23
+            ],
+            "headline": "",
+            "article": "Colocotroni, Nikitas, Botzaris and Gene us, with 5000 Greeks, and lost 1900 killed, many wounded and prisoners, IA pair of colours, 8 cannon and 800 horses. Fur ther, it was reported that the Greeks had got the town of Caristo, Redschid was kill led, and Miaulis had beaten the Turkish fleet again near Candia.-N. Y Amer.\n\n LONDON, Feb. 10.\n\n Spain and Portugal.-There has been no direct intelligence since our last. All the news we have received, indirectly, ,how- ever, through France and Spain, tends strongly to prove the hopeless dispersion and defeat of the apostolical rebels. The battle of Cornoches de Beira is stated to have been for some time warmly contest ed and the success of the royalists to have been, at last owing to a report, (how or iginated, or how circulated, during the heat of battle, does not appear,) that the English troops, after their landing, had im- mediately marched for Beira, and were al- most close at hand. Upon this notion get ting ground, the officers immediately be- took themselves to flight, and large DOT tOA Ol WCAt ONCl tO lAlC NOH\" tinential army. After tho battle, the news of amnesty being published by the Regent induced still larger number, indeed al- most the whole corps of Magessi, one of the rebel commanders, to the Court de Villa Flor. The remainder took refuge in tho Spanish territory.\n\n Of the manner in which they were there received, the accounts are by no means clear. Some state that they were supplied with arms and amuniton, and e. ven that large sum of money was imme- diatly sent off from Madrid, for the pur- pose to enable them to make second inva- sion which indeed is alledged to have ta- ken place. It is, in fact, probable, that some of these refugees have again crossed Duro, and thus entered the province oi Tras os Montes but there is little proba- bility of their being in much force, or, con- sidering the way in which opinion must now be operating in favor of the constitu- tional cause, of their murders receiving much accession.\n\n On the other hand, M. Salmon, ,the Span ish minister for foreign affairs, is stated tc have addressed an official note to MT. Lamb the British Ambassador, represented\"That his Catholic Majesty has seen, with the utmost indignation, the conduct recently pursued by Gen. Longa and by the Gov ernor of Ciudad Rodrigo, who, in contra vention of the orders which had Eeen sent to disarm the Portugnes rebels who had re- entered the Spanish territory, and to di- rect them to the interior, 40 leagues from the frontier, have manifested so little zea in fulfilling the directions of his Majesty that the refugees who entered on the 12tl inst. at different points on the banks of thu Torneo, had been suffered to repass tho Douro, by the Hinajoso and Friexenda and to re-enter the Portuguese province O Tras os Monies and that in consequence of theSe occlrrenceS Gen. Longa and thc",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2946,
+                    "y0": 1647,
+                    "x1": 3828,
+                    "y1": 5131
+                }
+            ],
+            "bbox": [
+                2946,
+                1647,
+                3828,
+                5131
+            ],
+            "full_article_id": 24,
+            "id": "24_1827-03-29_p1_sn82014309_00414182926_1827032901_0155.json"
+        },
+        {
+            "object_ids": [
+                24
+            ],
+            "headline": "",
+            "article": "Ii is astonishing that the Georgians should be in favor of Gen. Jackson for President, if they have any regard for the life of their Governor. Had Jackson been President instead of Adams, he would have hanged Troup upon the highest tree in Georgia long ago.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3866,
+                    "y0": 6534,
+                    "x1": 4759,
+                    "y1": 6881
+                }
+            ],
+            "bbox": [
+                3866,
+                6534,
+                4759,
+                6881
+            ],
+            "full_article_id": 25,
+            "id": "25_1827-03-29_p1_sn82014309_00414182926_1827032901_0155.json"
+        }
+    ]
+}

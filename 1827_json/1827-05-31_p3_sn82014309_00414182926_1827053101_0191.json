@@ -1,0 +1,886 @@
+{
+    "lccn": {
+        "title": "The Litchfield County post.",
+        "geonames_ids": [
+            "4837799"
+        ],
+        "dbpedia_ids": [
+            "Litchfield%2C_Connecticut"
+        ],
+        "issn": "",
+        "lccn": "sn82014309",
+        "start_year": "1826",
+        "end_year": "1829",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [
+            "sn84020071"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn82014309",
+        "edition": "ed-01",
+        "date": "1827-05-31",
+        "pages": [
+            "seq-4",
+            "seq-2",
+            "seq-3",
+            "seq-1"
+        ]
+    },
+    "page_number": "3",
+    "scan": {
+        "lccn": "sn82014309",
+        "edition": "ed-01",
+        "date": "1827-05-31",
+        "page": "3",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-05-31/ed-1/seq-3.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-05-31/ed-1/seq-3/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-05-31/ed-1/seq-3/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/ct_barnum_ver01/data/sn82014309/00414182926/1827053101/0191.jp2",
+        "height": 7275,
+        "width": 5009
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 3828,
+                "y0": 505,
+                "x1": 4733,
+                "y1": 2064
+            },
+            "class": "article",
+            "raw_text": "new supply of Superior SILVER STEEL RAZORS, warranted to suit the purchaser. From the knowledge we have in this article, and the perfect satisfaction expressed by those who have heretofore purchased razOrs of us. we feel confident in recommending it to those who wish to procure a first rate razor; and also in warranting that if does not do good service we will pay back the purchase money for the article.\n\n Also, Barber's Old English Razors, uni- vcrsally approved\" Razors of the ' Famous Damascus Blade.\"\n\n A new and elegant supply of PEN and POCKET KNIVES, of great variety of pr,ces and patterns, from common, to best double refined and silver steel. The choic- est articles in the stationary line are kept con- stantly for sale at the above store. Also, received within few days a quanti- ly of very superior Letter, Foolscap, and Pot hot pressed PAPER, for sale by the Ream or single quise. Grown and Post Wrapping Paper.\n\n A CIRCULATING LIBRARY, has been just commenced at the above store, contain ing about 400 volumes of choice modern works consisting of Theological, Biographical. His torcal. aud NHscell aneOus, together with sev- eral of the best periodical publications of the country. Terms, $500 per year, with free access to the library, or 12 l-2 cts. for oc- tavos, and cts. for duodecimos, per week. New works will be added as fast as they are issued from American presses,\n\n Litchfeld, May 30. 1897.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 3845,
+                "y0": 392,
+                "x1": 4716,
+                "y1": 495
+            },
+            "class": "headline",
+            "raw_text": "Just received, and for sale at the LITCHFlELD BOOKSTORE",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3834,
+                "y0": 3637,
+                "x1": 4739,
+                "y1": 5178
+            },
+            "class": "article",
+            "raw_text": "At Court of Probate holden ct Litch-\n\n field, soithin and for the district of Litch-\n\n field, May 29th 1927.\n\n Present, F. WOLCOTT, Esq. Judge. TTPON the Petition of SARAH REY- O NOLDS, Washington in said District, showing to this Court that sine is Guardian of Ralph P. Reynolds and David B. Reynolds, both of said Washington. minor children of Josiah Reynolds, late of w ashington, deceas- ed that said minors are the owners in fee as Tenants in common of two certain pieces of land situate in said Washington in New-Pres- ton Society, the first piece containing about thrty-five acres, with dwelling house and other buildings thereon, which buildings and five acres of land are subject to said Sarall,s right of dover. The second piece contains about half an acre, known by the name of \"the Island.\"-Said two pieces of land being bounded as set forth in the petition, praying for liberty to sell the same, as her petition on file, dated May 29, 1927. Whereupon this Court doth order that said petition he contin- ued to the second Monday in August next at ten o'clock A. M. then to be heard before this Court at the Probate Office in Litchfeld in said District, and that notice of the pendan- cy of said petition be given by publishing this Order in a Newspaper printed in said Eitch- field three weeks successyely, at least six weeks before said second Monday in August next.\n\n A true Copy of Record, 50 FREDERICK WOLCOTT, Judge.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2925,
+                "y0": 6303,
+                "x1": 3812,
+                "y1": 7008
+            },
+            "class": "article",
+            "raw_text": "DEUBEN MERRIMAN would inform h the public that he has opened Shop in Ltchfield, few rods east of the Meeting house at the Stand lately occupied by I. Bunce Esq. where he will attend to the business of Clock and Watch repairing, and Silver Smith, and keeps on hand an assortment Ot such ar ticIes as are usually called for in his line. as low as can be bought elsewhere, among which are Silver Spectacles, Spoons. JeweIry' Gc' also few first rate Brass eight day Clocks. He solicits a share of the public patronage\n\n Asa DENTIST he will set teeth in the best manner for those whO may favour him with their Custom.-Cash paid for old Sitycr'\n\n LitchGeId. May 5o. 1897 50",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 3169,
+                "y0": 5712,
+                "x1": 3574,
+                "y1": 5775
+            },
+            "class": "headline",
+            "raw_text": "CUTLER Y,",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -2
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3209,
+                "y0": 6217,
+                "x1": 3511,
+                "y1": 6281
+            },
+            "class": "headline",
+            "raw_text": "NOTICE.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2930,
+                "y0": 4575,
+                "x1": 3812,
+                "y1": 5258
+            },
+            "class": "article",
+            "raw_text": "KNHE Subscribers for Stock in the 'Litch- R. field Female Academy\" are hereby war ned to meet at the West School House\" in the village of Litchfeld, on Tuesday the fifth day of June next, at five o'clock in the after noon, to hear read the Act of the Incorpora. ton granted them by the Honourable Genera Assembly,, to elect Trustees agreeabiy to the provision of said Act, and to transact any Oth- CT business which may be regularly before said meeting.\n\n This meeting is called in compliancs with authority derived from said Act of Incorpora- ton.\n\n FREDERICK WOLCOTT. Litchfeld. May 2Sd. 1927.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2947,
+                "y0": 4507,
+                "x1": 3795,
+                "y1": 4564
+            },
+            "class": "headline",
+            "raw_text": "LITCHFIELD FEMALE ACADEMY.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1117,
+                "y0": 335,
+                "x1": 2011,
+                "y1": 677
+            },
+            "class": "article",
+            "raw_text": "dy, and was Surgeon under Sir Wm. John son in the old French war. There are but few such living chronicles of times long since passed by, in our land and of these few, per haps not one who possesses so much vigor of mind and body as Dr. Adams.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2021,
+                "y0": 392,
+                "x1": 2920,
+                "y1": 4684
+            },
+            "class": "article",
+            "raw_text": "dicial. SeditiOn was reigning first in the environs of Totosa; it has burst out in the cOrregimientOS of Gerona and Figueras. Those of Vich and Manreza have also yielded to the same influence, which looks as if he would extend his empire to the camp of Tarragona also. The cOrregim- ientO of Lerida, the ConqueS, the district of Urgel, the Cerdagna, have not yet been smitlen with the contagiOn, but there is much too good reasons for fear in these two last named districts. The objects of the revolters are not known meanwhile by their acclamations, they insult whatever Monarchical Governments hold most sa- cred or most dear--Proclamation are talked of, and flags with dreadful emblems. Such are the public rumors, aud terror reigns every where. The wealthy, either influenced or compromised by past events, are quitting their homes, and seeking re- fuge in walled towns. We shall have need oft reinforcement if tranquility be not ve- ry soon restored throughout the province. The tranquility of the city of Barcelona has not been disturbed. Some arrest have however taken place. It is asserted that mayor of one of the principal towns of | Upper Catalonia, ,and one of his coadjutors, who wished to indulge in some hostile de- 1 monstations against the partisans, have been assassinated. The governor of Ge- roma, having sent some infantry gems d'ar- mes, (nios0s) to a commune to arrest an l individual, the tocsin of number of neigh pouring villages was sounded, and they were forced to retire.\n\n Frontiers of Catalonia, April GA general movement was about to take place in part of Catalonia its execution was even begun. Public opinion has heen generally manifested against the leaders, who abuse the name ofthe Heir Presump- tive of the Grown of Spain. It appears that every town of Lampourdan was to furnish certain number of men, who were to form junction with the detatchments that came down from the highlands. At themselves well. They opposed the movement of the people, but as they were the minority they were disarmed. The assemblage of armed men which sot out from Rippol arrived too late before Car dona, SO that these new species of insur- gents, which had come from another quar- ter not being sufficiently strong, missed their aim at this place, which being fortified, would have been an important rallying point for them. They were vigorously driven back by great number of the in- habitants and royalist volunteers. This check re-established tranquility at Manre- ga and Solzona. There can be no doubt that this rising had extensive notifications throughout pain.-Many of these assem- blages, which may at present be regarded as mostly put down, have levied contribu- tions on the villages.\n\n Dublin 1pril 14.-This day is surely a proud day for Ireland when the glorious news arrived this morning, that MT. Can ming was made Premier, and the still more glorious news, that Lord Eldon, MT. Peel, &c. had sent in their resignations, the tri- umph of Ireland was nearly complete, and her sons will now forthwith obtain unquol- ifed Emancipation, even many timorous Protestants are to be met, who, since this news came in, hold the same opinion, so you may guess what the feelings and the speeches were at the Catholic Association, where Mcssrs. O'Connell and Shell, and their attending satellites. Mr. II. O'Con- nell and MT. N. Mahon, were present this day, that the two former might give utter ance to the swelling feelings of their burs- ting breast.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 185,
+                "y0": 460,
+                "x1": 1101,
+                "y1": 5906
+            },
+            "class": "article",
+            "raw_text": "tainly there is no state better able to pay a fair price for such services than this state is.- We hope for the honor of the state, and for the benefit of the edititorial corps, that a change will speedily be effected in this par ticular. We are friends to prudence and econ omy in the public expenditures, but we do not wish that this prudence and economy should cost too much, by operating against the honor of the state. w.. remember that in a certain legislature in N. E. the sum of two dollars per day was thought by certain mem bers to be too large compensation for servi C4s rendered; and with vast patriotism and zeal a bill was introduced to reduce the a. nOunt|tO @l,5O per day. The time occupied in debating the subject cost the state more than would have been saved by the bill in ten years. The friends of the bill ,hOweS CT, knew best how much their time was worth; and had they asked penny a aday for their lesis- lative services. many an individual who knew them best, would have honestly declared the public losers, by paying them even that small SttLDs \\ uG O0SC tS hVS NAoNSy P\"A\"\"~S A~ ~ lation to the printers, for however unworthy they, personally, may be of state patronage if they faithfully perform what the legislature orders them to do, they are in that respect worthy oftheir hire.\"\n\n Representatives in Mass. are elected in num- bers proportioned to the population of the different towns. The city of Boston has a legal right to send seventy representatives to tho General Court; but as the city authorities were unwilling to draw from the city treasury the sum necessary to pay the legislative ser vices of seventy members, they wisely voted to elect but thirty.-The amount paid from the state treasury to the representatives IS made a specific charge against the towns which elect them, apportioned to the number elected by each town.-On the 10th inst. the election was held in Boston, and five different lists of candidates were in circulation, deslg- hated as the amalgamation, the republican, she federal, the Free-bridge, and the Brokers tickets-containing in all the names of 10s condolences JIG bCSNbt OA AAIo NASNSASA \"NS that eight oulyof :hc thirty were chosen, and these eight were on the amalgamatiOn and one other ticket. On the l7th another effort was made to complete the number of repre- sentatives contemplated, but so spirited were the efforts of the different parties, that ma iority of ali the votes was not obtained for any one of the candidates. The time for choosing representatives being expired, the city of Boston will have but eight votes in the lower house, less number than many, of the large inland towns will have. It is supposed the House of representatives will at the ap- preaching session consist of about 800 mem- bers.\n\n The National Intelligenccr of the 18th inst. contains long and interesting letter from Rev. Javed Sparks, editor of the N. A. Re- view. to Judge Story, relating to Gen. Wash ington's manuscripts and papers, which MT. Sparks is now examining for the purpose of making selection for the press. The let s ters and documents which have never yet s been published are very numerous, and have 5 been preserved in good order.-The whole X number of large folio volumes, arranged with remarkable exactness, copied with elegance and care, and written throughout in an uni form style of pcnmanship, amounts to forty { four. The whole was executed under the immediate care of MT. Richard Varrich, who was employed during the close of the Revo- lutionary War, as recording Secretary to the Commander in Chief; and who, with the aid of three assistant Clerks, was employed two and half years in copying these papers. The originals are carefully preserved and filed. so that there are duplicates of all important letters and papers referring to the revolution. . The whole letter from Mir. Sparks is high iy interesting article, and in these dry times : will be read with much pleasure by every person oftaste and patriotism. We shall en- deavor to give it to our readers in our next.\n\n Dr. Wm. Adams, Of Schenectady, N. Y. aged s7. arrived in this village on Friday last, having borne, without much apparent fatigue,",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1106,
+                "y0": 824,
+                "x1": 2011,
+                "y1": 6270
+            },
+            "class": "article",
+            "raw_text": " Since my last letter which announced to 1 you the energetic conduct of the new Russian l Ambassador relative to the pacifcation of Greece. no important change has occurred in affairs. Mr. Stratford Canning has as yet, received no answer to his note of the 5th of 1 Feb. and as the language of the Refs Efendi to that minister, as well as to MT. Ribeau- pierre, leave little hope that the Porte will ac- quiesce in their demands, it is understood that the two ambassadors have agreed to wait un- 1 til certain day, in order to take together some more decisive steps. Count Guillemi- not, the French ambassador, though it does not appear that his court has formally acce- ded to the views of Russia and England re- ! specting Greece, has nevertheless, advised the Refs E6endi to acquiesce in them. March II. The indirect accession of Austria and Prus- sia to the course pursued by the Russian and English ambassadors, was limited, as is be- lleved, to advising, merely, the Refs EHendi to accept the propositions of those two pow CTS. It is inferred, however. from this. that the courts of Berlin and Vienna will accede to 1 the protocol of the conference of 4th April All this, taken together. is only calculated to persuade the Porte, the more firmly, that the European powers will not content themselves with mere demonstrations. Meantime arma- | ments are going on at the arsenals, and the new military organization is proceeding rap idly. At Athens affairs have taken turn fa- 1 vorable for the Creeks.\n\n Oonstantinople, March 18.--All the European Ministers at Pera have made | representation to the Refs Effendi on the pacifcat;on of Greece, and have advised him to close with the proposition of Russia an Nkor 0NA complete accession to the protocol of the conference of St. Petcrsburgh of the 4th April, while others would point out a diff ference between the meanacing attitude ta- ken by the English and Russian Ministers, and that of the other Ministers, who limit themselves to simply recommending that their propositions may be accepted.\n\n The German Jounals say they conclu- dc, from visit recently made by M. de Rothschild, of Frankfort, to Cassell, that new loan is now in tho course of negoci- a,ion, for one of the first Powers in Flu rope. The prices of the Funds are not given.\n\n NAPoLI Dt RoMAN,A, March 2. (PricGte Correspondence. )-The death of the unfortunate Colonel Bourdocki is confrmed.-IIis head was carried in tri- umph by the Turks up to the wall of the A. crepolis. The Greeks composing the camp alarmed at the i'll success of the troops of the camp without, sent out in the night two brave Palicari, who passed through the enemy's army to get to the Pieus, in or der to obtain correct information respect ing this unfortunate affair. They found the Greeks very well fortified there, and learnt that Karaiskaki had just gained brilliant victory. Then the troops in the Piras, in concert with the garrison of the Acropolis, attacked the Seraskicr in his camp.\n\n The attack was completely successful the Greeks entirely defeated the Turks, took a great quantity of provision, &c. and returned into tho fortress, which has now a very good stock of provision.\n\n In this sally, the heroine, Madam Gou- \"a, wife of the celebrated General of that name, was killed at the head of her troops, after having shewn herself worthy of the reputation of her husband. Karaiskaki has fixed his camp at Eleusis where he has effected a junction with the old Caratasso, and the patriot Coletti.\n\n Omer Pacha, after having been defeated by karaiskaki, at Distomo. took to flight leaving all his baggage and artillery, which now serves the Greeks. A great number of his men were taken prisoners, who were put to death, to revenge the assassination of Bourback.\n\n The Hellas frigate, commanded by Miaulis, is at Negropont with strong di- vision, to hinder provision from reaching the camp ofSo. askier. The Government is taking the most energetic measures to drive the Turks from before Aeropolis.- Missolonghi is closely blockadcd by Gen eral Makri i; that place must soon surren- der, being in want of provisions.\n\n Admiral Coehrane and General Church have not yet appeared in these parts. Com modore Hamilton is still at Egina, the seat of Government, while the Admiral de Rigny remains at Smyrna, and does not shew himself any more in our seas.\n\n The American crew of the Hellas has re turned to America, on board the frigate of that nation.\n\n Miaulis is appointed High Admiral of the whole Greek Navy. Paulueci, who commanded the Austrian squadron, is suc- ceeded by Dandolo.\n\n Ao- G..",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 1180,
+                "y0": 704,
+                "x1": 1942,
+                "y1": 802
+            },
+            "class": "headline",
+            "raw_text": "FOREIGN INTELLIGENCE. From the Journal deS DebGtS of April 12",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2930,
+                "y0": 369,
+                "x1": 3824,
+                "y1": 4388
+            },
+            "class": "article",
+            "raw_text": "whom the Irish giants q baby. 'The eldest IS three years and nine months old, fine cOm- pIexiOn, with beautiful head of hair, and Inaniiests all the playfuneSs and elasticity of a ahealthy child at that age. She is just learn ing the use of the needle, and finds it difficult to bring her fat hands together. She weighs l65 pound, measures just four fleet In cir conference round the waist, and two feet i'm mediately above the knee joint. The young est daughter is nine months old. and weighs iOrty-hve pounds, and bids fair to overtake her sister,\n\n FrGud.-A man was lately summoned be- fore magistrate in London, charged with specles of fraud hitherto unknown-viz sell ing his wife to another man for ten guineas, and then passing another mans wife on the purchaser instead of his own.\n\n There is petition of lady before the le- gislaturc for a divorce from her husband, for certain reasons set forth. There was a great number of witnesses in attendance before the committee appointed by the house on this sub Ject, and so interesting was the testimony pro- duced, that we understand it diverted the at- tentiOn of several members of the assembly from the business before them to the commit tee room. The defendent, we understand, is opposed to districting, and is in favor of the general tic&et system.\n\n MT. SM1rH--\n\n The surviving relatives of Judge Holmes deceased, have observed with regret in the obituary notice published in your paper, that ausion is made to his having died at small public house. where he did not experience those attentions and that kindness which are so consoling to the sick and dying.\n\n Permit them to correct this error, and to say that the house to which he was carried after the accident occurred is a very respect able one, and that the inmates of it devoted themselves with unwearied assiduity and ten derness to him during the whole of his sick ness and to the hour of his death. He had kind and skiIful physicians to attend him, who were assisted and advised by some of the ablest counsel :n the state. His nearest rea- tives were with him during the greatest part ofhls sickness and at the close of life, and beg leave to express most lively sense of grati- tude to the family and neighbors for their uncommon kindness, and to the pious clergy ] man whose prayers, the prayers of the right eOus \" which avail n1uch,\" were repeatedly offered up at the bedside ofthe stranger whom the Providence of God had placed among them in such aff1icting circumstances.\n\n We cheerfully insert the above, because if any of our readers construed our notice of Judge Holmes decease, as conveying any censure upon the family with whom he was cast by his affiiction, such an impression ought to be effaced. We did not intend to convey such an idea. The death of Judge Holmes was a great loss to his family and society ;-I his death being occasioned by the fracture of a limb, at distance from home, among stran- gers-there to suffer pain, sickness and disso- lution-these were aggravating circumstances attending his death-this is all we intended to say in our obituary notice.\n\n A communication, in answer to the Notice signed by Drs. Buel and Chids, in our last, has been received, which for certain reasons is deferred for the present.\n\n The Powder Mill of MT. John Reed, of Montgomery county N. Y. exploded on the 18th ult.--SOOO pounds of pow der and saltpetre were destroyed--one man was killed and another seriously injured.\n\n DIED,\n\n At Canaan on the 17th Inst. Mrs. Julia",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 2925,
+                "y0": 4313,
+                "x1": 3807,
+                "y1": 4473
+            },
+            "class": "article",
+            "raw_text": "DIED,\n\n At Canaan on the l7th Inst. Mrs. Julia Monson, wife of Mir. Chester Monson, aged 30 years.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 3288,
+                "y0": 4291,
+                "x1": 3460,
+                "y1": 4337
+            },
+            "class": "headline",
+            "raw_text": "DIED.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 3834,
+                "y0": 2142,
+                "x1": 4739,
+                "y1": 3615
+            },
+            "class": "article",
+            "raw_text": "NHE Co-partnership heretofore existing A under the firm of Chapin, Collins & Co., was dissolved on the Sd inst. by the death of Asapn Wright, one of the partners to said concern.-The manufacturing business will be continued by the subscribers under the firm of Chapin, Collins & Walter.\n\n SAMUEL CHAPIN,\n\n TIMOTHY COLLINS,\n\n ALFRED WALTER,\n\n JOHN H. COLLINS,\n\n CICERO COLLINS. Goshen. 25th May, 1927: 50 REUEL COGSWELL'S ESTATE. FNHE Hon. Court of Probate for the dis IL trict of Litchield having appointed the Subscribers Commissioners to receive and ad- just the claims of the creditors of the estate of\n\n REUEL COGSWELL, late of Washington in said district deceased. represented insolvent, give notice that we will attend to the duties of our appointment, at the house of the late deceased, on the first Thursdays of September and December next, at 10 o'clock A. M. on each of said days. Six months from the 10th day of June are allowed the creditors to present their claims properly attested.\n\n ENSIGN BUSHNELL,\n\n BIRDSEYE BEARDSLEY, Com\"stS- NATHAN NEWTON, ''0''e'S' Washington, May 28, 1926. 50",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 4124,
+                "y0": 2085,
+                "x1": 4426,
+                "y1": 2143
+            },
+            "class": "headline",
+            "raw_text": "NOTICE,",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": -1
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 3828,
+                "y0": 5353,
+                "x1": 4739,
+                "y1": 6270
+            },
+            "class": "article",
+            "raw_text": "INVENTED by John Brown of Providence 1 is worthy of the patronage of every eco- nomical farmer, or mechanic, who would man ufacture in the family for their own use. So far they can be satisfied by their use on trial. One girl will spin on these machines five runs of yarn for one days work, and with more ease and in less time than she can spin two runs on the common wheel, and besides the yarn is evener and better. Some girls have gone far beyond this, even to fourteen runs.- The above mentioned machine can be had by applying to Soion Bishop of Bradleys-Ville, Litchfeld, or Philo Chase in Milton, and all instructions given necessary for the use of the same. The price will be invariably twenty dollars each.\n\n SOLON BISHOP &\n\n PHILO CHASE, Agents for REUBEN RICE & WM. HILLs Wal lingford, Ct.",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 3851,
+                "y0": 5200,
+                "x1": 4716,
+                "y1": 5337
+            },
+            "class": "headline",
+            "raw_text": "INTERESTING TO FARMERS. z,he Vf3'tiC0L Spinner,",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": -1
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 2015,
+                "y0": 5331,
+                "x1": 2914,
+                "y1": 7025
+            },
+            "class": "article",
+            "raw_text": "The poison arroDs of 4 AfricG.-What is cal cuat,.d to show the customs of different countries, their utensils, or their arms, must be a subject of interest. The last travels of Maj. Denham and Capt Clapperton, besides their discovery of countries in Central Africa, before unknown, have thrown light on ma ny subjects, Ofwhich formerly we had but an obscure knowledge. Amongst these, the Poison Arrow stands prominent. By the ac- counts of Mai. Denham, it is a weapon, the slightest scratch of which is death nothing can exceed it except the bite of a rattlesnake. Major Denham accompanied an expedition of horse and foot armed with musquetry, a. gainst the Feletahs, the bravest of the Afr\n\n can nation. The Feletahs are not of the ne- gro race, but are of bronze colour, and evil dently of the Arab descent. The combat tants met, and the contest was very long and dOubtful-the army of the assalants, princ\n\n palIy CD account of the cowardice of the BOr nou horse, were defeated, and the poisoned arrows of the Feletahs did great execution.- In the flight, Maj. Denham was frequently in the most critical danger. hundreds of these ar rows falling around him. The wounded hOr- ses were seen after an hour to drop dead; and the soldiers died, swelled, and the blood issu- ing at every pore. Boo KhaloOm, a Merchant General, under whose escort Don Gudney and his party had crossed the Desert, fell from his horse, and expired,by slight wound in the foot by one Ofthese arrows.\n\n There are two children, born in Duchess county, now exhibiting in New-YOrk, says correspondent of the Times, compared to",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 2027,
+                "y0": 4757,
+                "x1": 2909,
+                "y1": 5320
+            },
+            "class": "article",
+            "raw_text": "A tremendous storm was experienced on the A ult. in Virginia. Its direction was from the west, towards the sea. Several houses were uprooted, some utterly demolished, and many of theiv inhabitants severely bruised, and in some instances their bones broken, so as greatly to endanger their lives. The fury of the storm, and the destruction thereby occasioned, are without parallel in that sec ton of the country.\n\n A very heavy northeast gale took place at Quebec which did considerable damage to the shipping.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 2288,
+                "y0": 4700,
+                "x1": 2664,
+                "y1": 4746
+            },
+            "class": "headline",
+            "raw_text": "HIJRRlCANES.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": -1
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 2930,
+                "y0": 3967,
+                "x1": 3812,
+                "y1": 4263
+            },
+            "class": "article",
+            "raw_text": "The Powder Mill of MT. John Reed, of Montgomery county N. Y. exploded on the 18th ult.-soOO pounds of pow der and saltpetre were destroyed--one man was killed and another seriously injured.",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 2936,
+                "y0": 3751,
+                "x1": 3812,
+                "y1": 3934
+            },
+            "class": "article",
+            "raw_text": "A communication, in answer to the Notice signed by Drs. Buel and Childs, in our last, has been received, which for certain reasons is deferred for the present.",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": 0
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 2027,
+                "y0": 6877,
+                "x1": 2897,
+                "y1": 7020
+            },
+            "class": "article",
+            "raw_text": "There are two children, born in Dutchess now exhibiting in New-YOrk, says correspondent of the Times, compared to",
+            "legibility": "Legible",
+            "full_article_id": 30,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                10,
+                0
+            ],
+            "headline": "Just received, and for sale at the LITCHFlELD BOOKSTORE",
+            "article": "new supply of Superior SILVER STEEL RAZORS, warranted to suit the purchaser. From the knowledge we have in this article, and the perfect satisfaction expressed by those who have heretofore purchased razOrs of us. we feel confident in recommending it to those who wish to procure a first rate razor; and also in warranting that if does not do good service we will pay back the purchase money for the article.\n\n Also, Barber's Old English Razors, uni- vcrsally approved\" Razors of the ' Famous Damascus Blade.\"\n\n A new and elegant supply of PEN and POCKET KNIVES, of great variety of pr,ces and patterns, from common, to best double refined and silver steel. The choic- est articles in the stationary line are kept con- stantly for sale at the above store. Also, received within few days a quanti- ly of very superior Letter, Foolscap, and Pot hot pressed PAPER, for sale by the Ream or single quise. Grown and Post Wrapping Paper.\n\n A CIRCULATING LIBRARY, has been just commenced at the above store, contain ing about 400 volumes of choice modern works consisting of Theological, Biographical. His torcal. aud NHscell aneOus, together with sev- eral of the best periodical publications of the country. Terms, $500 per year, with free access to the library, or 12 l-2 cts. for oc- tavos, and cts. for duodecimos, per week. New works will be added as fast as they are issued from American presses,\n\n Litchfeld, May 30. 1897.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3845,
+                    "y0": 392,
+                    "x1": 4716,
+                    "y1": 495
+                },
+                {
+                    "x0": 3828,
+                    "y0": 505,
+                    "x1": 4733,
+                    "y1": 2064
+                }
+            ],
+            "bbox": [
+                3828,
+                392,
+                4733,
+                2064
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-05-31_p3_sn82014309_00414182926_1827053101_0191.json"
+        },
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "At Court of Probate holden ct Litch-\n\n field, soithin and for the district of Litch-\n\n field, May 29th 1927.\n\n Present, F. WOLCOTT, Esq. Judge. TTPON the Petition of SARAH REY- O NOLDS, Washington in said District, showing to this Court that sine is Guardian of Ralph P. Reynolds and David B. Reynolds, both of said Washington. minor children of Josiah Reynolds, late of w ashington, deceas- ed that said minors are the owners in fee as Tenants in common of two certain pieces of land situate in said Washington in New-Pres- ton Society, the first piece containing about thrty-five acres, with dwelling house and other buildings thereon, which buildings and five acres of land are subject to said Sarall,s right of dover. The second piece contains about half an acre, known by the name of \"the Island.\"-Said two pieces of land being bounded as set forth in the petition, praying for liberty to sell the same, as her petition on file, dated May 29, 1927. Whereupon this Court doth order that said petition he contin- ued to the second Monday in August next at ten o'clock A. M. then to be heard before this Court at the Probate Office in Litchfeld in said District, and that notice of the pendan- cy of said petition be given by publishing this Order in a Newspaper printed in said Eitch- field three weeks successyely, at least six weeks before said second Monday in August next.\n\n A true Copy of Record, 50 FREDERICK WOLCOTT, Judge.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3834,
+                    "y0": 3637,
+                    "x1": 4739,
+                    "y1": 5178
+                }
+            ],
+            "bbox": [
+                3834,
+                3637,
+                4739,
+                5178
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-05-31_p3_sn82014309_00414182926_1827053101_0191.json"
+        },
+        {
+            "object_ids": [
+                27,
+                12,
+                2
+            ],
+            "headline": "CUTLER Y,\n\nNOTICE.",
+            "article": "DEUBEN MERRIMAN would inform h the public that he has opened Shop in Ltchfield, few rods east of the Meeting house at the Stand lately occupied by I. Bunce Esq. where he will attend to the business of Clock and Watch repairing, and Silver Smith, and keeps on hand an assortment Ot such ar ticIes as are usually called for in his line. as low as can be bought elsewhere, among which are Silver Spectacles, Spoons. JeweIry' Gc' also few first rate Brass eight day Clocks. He solicits a share of the public patronage\n\n Asa DENTIST he will set teeth in the best manner for those whO may favour him with their Custom.-Cash paid for old Sitycr'\n\n LitchGeId. May 5o. 1897 50",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3169,
+                    "y0": 5712,
+                    "x1": 3574,
+                    "y1": 5775
+                },
+                {
+                    "x0": 3209,
+                    "y0": 6217,
+                    "x1": 3511,
+                    "y1": 6281
+                },
+                {
+                    "x0": 2925,
+                    "y0": 6303,
+                    "x1": 3812,
+                    "y1": 7008
+                }
+            ],
+            "bbox": [
+                2925,
+                5712,
+                3812,
+                7008
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-05-31_p3_sn82014309_00414182926_1827053101_0191.json"
+        },
+        {
+            "object_ids": [
+                13,
+                3
+            ],
+            "headline": "LITCHFIELD FEMALE ACADEMY.",
+            "article": "KNHE Subscribers for Stock in the 'Litch- R. field Female Academy\" are hereby war ned to meet at the West School House\" in the village of Litchfeld, on Tuesday the fifth day of June next, at five o'clock in the after noon, to hear read the Act of the Incorpora. ton granted them by the Honourable Genera Assembly,, to elect Trustees agreeabiy to the provision of said Act, and to transact any Oth- CT business which may be regularly before said meeting.\n\n This meeting is called in compliancs with authority derived from said Act of Incorpora- ton.\n\n FREDERICK WOLCOTT. Litchfeld. May 2Sd. 1927.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2947,
+                    "y0": 4507,
+                    "x1": 3795,
+                    "y1": 4564
+                },
+                {
+                    "x0": 2930,
+                    "y0": 4575,
+                    "x1": 3812,
+                    "y1": 5258
+                }
+            ],
+            "bbox": [
+                2930,
+                4507,
+                3812,
+                5258
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-05-31_p3_sn82014309_00414182926_1827053101_0191.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "dy, and was Surgeon under Sir Wm. John son in the old French war. There are but few such living chronicles of times long since passed by, in our land and of these few, per haps not one who possesses so much vigor of mind and body as Dr. Adams.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1117,
+                    "y0": 335,
+                    "x1": 2011,
+                    "y1": 677
+                }
+            ],
+            "bbox": [
+                1117,
+                335,
+                2011,
+                677
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-05-31_p3_sn82014309_00414182926_1827053101_0191.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "dicial. SeditiOn was reigning first in the environs of Totosa; it has burst out in the cOrregimientOS of Gerona and Figueras. Those of Vich and Manreza have also yielded to the same influence, which looks as if he would extend his empire to the camp of Tarragona also. The cOrregim- ientO of Lerida, the ConqueS, the district of Urgel, the Cerdagna, have not yet been smitlen with the contagiOn, but there is much too good reasons for fear in these two last named districts. The objects of the revolters are not known meanwhile by their acclamations, they insult whatever Monarchical Governments hold most sa- cred or most dear--Proclamation are talked of, and flags with dreadful emblems. Such are the public rumors, aud terror reigns every where. The wealthy, either influenced or compromised by past events, are quitting their homes, and seeking re- fuge in walled towns. We shall have need oft reinforcement if tranquility be not ve- ry soon restored throughout the province. The tranquility of the city of Barcelona has not been disturbed. Some arrest have however taken place. It is asserted that mayor of one of the principal towns of | Upper Catalonia, ,and one of his coadjutors, who wished to indulge in some hostile de- 1 monstations against the partisans, have been assassinated. The governor of Ge- roma, having sent some infantry gems d'ar- mes, (nios0s) to a commune to arrest an l individual, the tocsin of number of neigh pouring villages was sounded, and they were forced to retire.\n\n Frontiers of Catalonia, April GA general movement was about to take place in part of Catalonia its execution was even begun. Public opinion has heen generally manifested against the leaders, who abuse the name ofthe Heir Presump- tive of the Grown of Spain. It appears that every town of Lampourdan was to furnish certain number of men, who were to form junction with the detatchments that came down from the highlands. At themselves well. They opposed the movement of the people, but as they were the minority they were disarmed. The assemblage of armed men which sot out from Rippol arrived too late before Car dona, SO that these new species of insur- gents, which had come from another quar- ter not being sufficiently strong, missed their aim at this place, which being fortified, would have been an important rallying point for them. They were vigorously driven back by great number of the in- habitants and royalist volunteers. This check re-established tranquility at Manre- ga and Solzona. There can be no doubt that this rising had extensive notifications throughout pain.-Many of these assem- blages, which may at present be regarded as mostly put down, have levied contribu- tions on the villages.\n\n Dublin 1pril 14.-This day is surely a proud day for Ireland when the glorious news arrived this morning, that MT. Can ming was made Premier, and the still more glorious news, that Lord Eldon, MT. Peel, &c. had sent in their resignations, the tri- umph of Ireland was nearly complete, and her sons will now forthwith obtain unquol- ifed Emancipation, even many timorous Protestants are to be met, who, since this news came in, hold the same opinion, so you may guess what the feelings and the speeches were at the Catholic Association, where Mcssrs. O'Connell and Shell, and their attending satellites. Mr. II. O'Con- nell and MT. N. Mahon, were present this day, that the two former might give utter ance to the swelling feelings of their burs- ting breast.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2021,
+                    "y0": 392,
+                    "x1": 2920,
+                    "y1": 4684
+                }
+            ],
+            "bbox": [
+                2021,
+                392,
+                2920,
+                4684
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-05-31_p3_sn82014309_00414182926_1827053101_0191.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "tainly there is no state better able to pay a fair price for such services than this state is.- We hope for the honor of the state, and for the benefit of the edititorial corps, that a change will speedily be effected in this par ticular. We are friends to prudence and econ omy in the public expenditures, but we do not wish that this prudence and economy should cost too much, by operating against the honor of the state. w.. remember that in a certain legislature in N. E. the sum of two dollars per day was thought by certain mem bers to be too large compensation for servi C4s rendered; and with vast patriotism and zeal a bill was introduced to reduce the a. nOunt|tO @l,5O per day. The time occupied in debating the subject cost the state more than would have been saved by the bill in ten years. The friends of the bill ,hOweS CT, knew best how much their time was worth; and had they asked penny a aday for their lesis- lative services. many an individual who knew them best, would have honestly declared the public losers, by paying them even that small SttLDs \\ uG O0SC tS hVS NAoNSy P\"A\"\"~S A~ ~ lation to the printers, for however unworthy they, personally, may be of state patronage if they faithfully perform what the legislature orders them to do, they are in that respect worthy oftheir hire.\"\n\n Representatives in Mass. are elected in num- bers proportioned to the population of the different towns. The city of Boston has a legal right to send seventy representatives to tho General Court; but as the city authorities were unwilling to draw from the city treasury the sum necessary to pay the legislative ser vices of seventy members, they wisely voted to elect but thirty.-The amount paid from the state treasury to the representatives IS made a specific charge against the towns which elect them, apportioned to the number elected by each town.-On the 10th inst. the election was held in Boston, and five different lists of candidates were in circulation, deslg- hated as the amalgamation, the republican, she federal, the Free-bridge, and the Brokers tickets-containing in all the names of 10s condolences JIG bCSNbt OA AAIo NASNSASA \"NS that eight oulyof :hc thirty were chosen, and these eight were on the amalgamatiOn and one other ticket. On the l7th another effort was made to complete the number of repre- sentatives contemplated, but so spirited were the efforts of the different parties, that ma iority of ali the votes was not obtained for any one of the candidates. The time for choosing representatives being expired, the city of Boston will have but eight votes in the lower house, less number than many, of the large inland towns will have. It is supposed the House of representatives will at the ap- preaching session consist of about 800 mem- bers.\n\n The National Intelligenccr of the 18th inst. contains long and interesting letter from Rev. Javed Sparks, editor of the N. A. Re- view. to Judge Story, relating to Gen. Wash ington's manuscripts and papers, which MT. Sparks is now examining for the purpose of making selection for the press. The let s ters and documents which have never yet s been published are very numerous, and have 5 been preserved in good order.-The whole X number of large folio volumes, arranged with remarkable exactness, copied with elegance and care, and written throughout in an uni form style of pcnmanship, amounts to forty { four. The whole was executed under the immediate care of MT. Richard Varrich, who was employed during the close of the Revo- lutionary War, as recording Secretary to the Commander in Chief; and who, with the aid of three assistant Clerks, was employed two and half years in copying these papers. The originals are carefully preserved and filed. so that there are duplicates of all important letters and papers referring to the revolution. . The whole letter from Mir. Sparks is high iy interesting article, and in these dry times : will be read with much pleasure by every person oftaste and patriotism. We shall en- deavor to give it to our readers in our next.\n\n Dr. Wm. Adams, Of Schenectady, N. Y. aged s7. arrived in this village on Friday last, having borne, without much apparent fatigue,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 185,
+                    "y0": 460,
+                    "x1": 1101,
+                    "y1": 5906
+                }
+            ],
+            "bbox": [
+                185,
+                460,
+                1101,
+                5906
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-05-31_p3_sn82014309_00414182926_1827053101_0191.json"
+        },
+        {
+            "object_ids": [
+                14,
+                7
+            ],
+            "headline": "FOREIGN INTELLIGENCE. From the Journal deS DebGtS of April 12",
+            "article": " Since my last letter which announced to 1 you the energetic conduct of the new Russian l Ambassador relative to the pacifcation of Greece. no important change has occurred in affairs. Mr. Stratford Canning has as yet, received no answer to his note of the 5th of 1 Feb. and as the language of the Refs Efendi to that minister, as well as to MT. Ribeau- pierre, leave little hope that the Porte will ac- quiesce in their demands, it is understood that the two ambassadors have agreed to wait un- 1 til certain day, in order to take together some more decisive steps. Count Guillemi- not, the French ambassador, though it does not appear that his court has formally acce- ded to the views of Russia and England re- ! specting Greece, has nevertheless, advised the Refs E6endi to acquiesce in them. March II. The indirect accession of Austria and Prus- sia to the course pursued by the Russian and English ambassadors, was limited, as is be- lleved, to advising, merely, the Refs EHendi to accept the propositions of those two pow CTS. It is inferred, however. from this. that the courts of Berlin and Vienna will accede to 1 the protocol of the conference of 4th April All this, taken together. is only calculated to persuade the Porte, the more firmly, that the European powers will not content themselves with mere demonstrations. Meantime arma- | ments are going on at the arsenals, and the new military organization is proceeding rap idly. At Athens affairs have taken turn fa- 1 vorable for the Creeks.\n\n Oonstantinople, March 18.--All the European Ministers at Pera have made | representation to the Refs Effendi on the pacifcat;on of Greece, and have advised him to close with the proposition of Russia an Nkor 0NA complete accession to the protocol of the conference of St. Petcrsburgh of the 4th April, while others would point out a diff ference between the meanacing attitude ta- ken by the English and Russian Ministers, and that of the other Ministers, who limit themselves to simply recommending that their propositions may be accepted.\n\n The German Jounals say they conclu- dc, from visit recently made by M. de Rothschild, of Frankfort, to Cassell, that new loan is now in tho course of negoci- a,ion, for one of the first Powers in Flu rope. The prices of the Funds are not given.\n\n NAPoLI Dt RoMAN,A, March 2. (PricGte Correspondence. )-The death of the unfortunate Colonel Bourdocki is confrmed.-IIis head was carried in tri- umph by the Turks up to the wall of the A. crepolis. The Greeks composing the camp alarmed at the i'll success of the troops of the camp without, sent out in the night two brave Palicari, who passed through the enemy's army to get to the Pieus, in or der to obtain correct information respect ing this unfortunate affair. They found the Greeks very well fortified there, and learnt that Karaiskaki had just gained brilliant victory. Then the troops in the Piras, in concert with the garrison of the Acropolis, attacked the Seraskicr in his camp.\n\n The attack was completely successful the Greeks entirely defeated the Turks, took a great quantity of provision, &c. and returned into tho fortress, which has now a very good stock of provision.\n\n In this sally, the heroine, Madam Gou- \"a, wife of the celebrated General of that name, was killed at the head of her troops, after having shewn herself worthy of the reputation of her husband. Karaiskaki has fixed his camp at Eleusis where he has effected a junction with the old Caratasso, and the patriot Coletti.\n\n Omer Pacha, after having been defeated by karaiskaki, at Distomo. took to flight leaving all his baggage and artillery, which now serves the Greeks. A great number of his men were taken prisoners, who were put to death, to revenge the assassination of Bourback.\n\n The Hellas frigate, commanded by Miaulis, is at Negropont with strong di- vision, to hinder provision from reaching the camp ofSo. askier. The Government is taking the most energetic measures to drive the Turks from before Aeropolis.- Missolonghi is closely blockadcd by Gen eral Makri i; that place must soon surren- der, being in want of provisions.\n\n Admiral Coehrane and General Church have not yet appeared in these parts. Com modore Hamilton is still at Egina, the seat of Government, while the Admiral de Rigny remains at Smyrna, and does not shew himself any more in our seas.\n\n The American crew of the Hellas has re turned to America, on board the frigate of that nation.\n\n Miaulis is appointed High Admiral of the whole Greek Navy. Paulueci, who commanded the Austrian squadron, is suc- ceeded by Dandolo.\n\n Ao- G..",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1180,
+                    "y0": 704,
+                    "x1": 1942,
+                    "y1": 802
+                },
+                {
+                    "x0": 1106,
+                    "y0": 824,
+                    "x1": 2011,
+                    "y1": 6270
+                }
+            ],
+            "bbox": [
+                1106,
+                704,
+                2011,
+                6270
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-05-31_p3_sn82014309_00414182926_1827053101_0191.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "whom the Irish giants q baby. 'The eldest IS three years and nine months old, fine cOm- pIexiOn, with beautiful head of hair, and Inaniiests all the playfuneSs and elasticity of a ahealthy child at that age. She is just learn ing the use of the needle, and finds it difficult to bring her fat hands together. She weighs l65 pound, measures just four fleet In cir conference round the waist, and two feet i'm mediately above the knee joint. The young est daughter is nine months old. and weighs iOrty-hve pounds, and bids fair to overtake her sister,\n\n FrGud.-A man was lately summoned be- fore magistrate in London, charged with specles of fraud hitherto unknown-viz sell ing his wife to another man for ten guineas, and then passing another mans wife on the purchaser instead of his own.\n\n There is petition of lady before the le- gislaturc for a divorce from her husband, for certain reasons set forth. There was a great number of witnesses in attendance before the committee appointed by the house on this sub Ject, and so interesting was the testimony pro- duced, that we understand it diverted the at- tentiOn of several members of the assembly from the business before them to the commit tee room. The defendent, we understand, is opposed to districting, and is in favor of the general tic&et system.\n\n MT. SM1rH--\n\n The surviving relatives of Judge Holmes deceased, have observed with regret in the obituary notice published in your paper, that ausion is made to his having died at small public house. where he did not experience those attentions and that kindness which are so consoling to the sick and dying.\n\n Permit them to correct this error, and to say that the house to which he was carried after the accident occurred is a very respect able one, and that the inmates of it devoted themselves with unwearied assiduity and ten derness to him during the whole of his sick ness and to the hour of his death. He had kind and skiIful physicians to attend him, who were assisted and advised by some of the ablest counsel :n the state. His nearest rea- tives were with him during the greatest part ofhls sickness and at the close of life, and beg leave to express most lively sense of grati- tude to the family and neighbors for their uncommon kindness, and to the pious clergy ] man whose prayers, the prayers of the right eOus \" which avail n1uch,\" were repeatedly offered up at the bedside ofthe stranger whom the Providence of God had placed among them in such aff1icting circumstances.\n\n We cheerfully insert the above, because if any of our readers construed our notice of Judge Holmes decease, as conveying any censure upon the family with whom he was cast by his affiiction, such an impression ought to be effaced. We did not intend to convey such an idea. The death of Judge Holmes was a great loss to his family and society ;-I his death being occasioned by the fracture of a limb, at distance from home, among stran- gers-there to suffer pain, sickness and disso- lution-these were aggravating circumstances attending his death-this is all we intended to say in our obituary notice.\n\n A communication, in answer to the Notice signed by Drs. Buel and Chids, in our last, has been received, which for certain reasons is deferred for the present.\n\n The Powder Mill of MT. John Reed, of Montgomery county N. Y. exploded on the 18th ult.--SOOO pounds of pow der and saltpetre were destroyed--one man was killed and another seriously injured.\n\n DIED,\n\n At Canaan on the 17th Inst. Mrs. Julia",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2930,
+                    "y0": 369,
+                    "x1": 3824,
+                    "y1": 4388
+                }
+            ],
+            "bbox": [
+                2930,
+                369,
+                3824,
+                4388
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-05-31_p3_sn82014309_00414182926_1827053101_0191.json"
+        },
+        {
+            "object_ids": [
+                24,
+                15
+            ],
+            "headline": "DIED.",
+            "article": "DIED,\n\n At Canaan on the l7th Inst. Mrs. Julia Monson, wife of Mir. Chester Monson, aged 30 years.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3288,
+                    "y0": 4291,
+                    "x1": 3460,
+                    "y1": 4337
+                },
+                {
+                    "x0": 2925,
+                    "y0": 4313,
+                    "x1": 3807,
+                    "y1": 4473
+                }
+            ],
+            "bbox": [
+                2925,
+                4291,
+                3807,
+                4473
+            ],
+            "full_article_id": 16,
+            "id": "16_1827-05-31_p3_sn82014309_00414182926_1827053101_0191.json"
+        },
+        {
+            "object_ids": [
+                11,
+                16
+            ],
+            "headline": "NOTICE,",
+            "article": "NHE Co-partnership heretofore existing A under the firm of Chapin, Collins & Co., was dissolved on the Sd inst. by the death of Asapn Wright, one of the partners to said concern.-The manufacturing business will be continued by the subscribers under the firm of Chapin, Collins & Walter.\n\n SAMUEL CHAPIN,\n\n TIMOTHY COLLINS,\n\n ALFRED WALTER,\n\n JOHN H. COLLINS,\n\n CICERO COLLINS. Goshen. 25th May, 1927: 50 REUEL COGSWELL'S ESTATE. FNHE Hon. Court of Probate for the dis IL trict of Litchield having appointed the Subscribers Commissioners to receive and ad- just the claims of the creditors of the estate of\n\n REUEL COGSWELL, late of Washington in said district deceased. represented insolvent, give notice that we will attend to the duties of our appointment, at the house of the late deceased, on the first Thursdays of September and December next, at 10 o'clock A. M. on each of said days. Six months from the 10th day of June are allowed the creditors to present their claims properly attested.\n\n ENSIGN BUSHNELL,\n\n BIRDSEYE BEARDSLEY, Com\"stS- NATHAN NEWTON, ''0''e'S' Washington, May 28, 1926. 50",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 4124,
+                    "y0": 2085,
+                    "x1": 4426,
+                    "y1": 2143
+                },
+                {
+                    "x0": 3834,
+                    "y0": 2142,
+                    "x1": 4739,
+                    "y1": 3615
+                }
+            ],
+            "bbox": [
+                3834,
+                2085,
+                4739,
+                3615
+            ],
+            "full_article_id": 17,
+            "id": "17_1827-05-31_p3_sn82014309_00414182926_1827053101_0191.json"
+        },
+        {
+            "object_ids": [
+                20,
+                17
+            ],
+            "headline": "INTERESTING TO FARMERS. z,he Vf3'tiC0L Spinner,",
+            "article": "INVENTED by John Brown of Providence 1 is worthy of the patronage of every eco- nomical farmer, or mechanic, who would man ufacture in the family for their own use. So far they can be satisfied by their use on trial. One girl will spin on these machines five runs of yarn for one days work, and with more ease and in less time than she can spin two runs on the common wheel, and besides the yarn is evener and better. Some girls have gone far beyond this, even to fourteen runs.- The above mentioned machine can be had by applying to Soion Bishop of Bradleys-Ville, Litchfeld, or Philo Chase in Milton, and all instructions given necessary for the use of the same. The price will be invariably twenty dollars each.\n\n SOLON BISHOP &\n\n PHILO CHASE, Agents for REUBEN RICE & WM. HILLs Wal lingford, Ct.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3851,
+                    "y0": 5200,
+                    "x1": 4716,
+                    "y1": 5337
+                },
+                {
+                    "x0": 3828,
+                    "y0": 5353,
+                    "x1": 4739,
+                    "y1": 6270
+                }
+            ],
+            "bbox": [
+                3828,
+                5200,
+                4739,
+                6270
+            ],
+            "full_article_id": 18,
+            "id": "18_1827-05-31_p3_sn82014309_00414182926_1827053101_0191.json"
+        },
+        {
+            "object_ids": [
+                18
+            ],
+            "headline": "",
+            "article": "The poison arroDs of 4 AfricG.-What is cal cuat,.d to show the customs of different countries, their utensils, or their arms, must be a subject of interest. The last travels of Maj. Denham and Capt Clapperton, besides their discovery of countries in Central Africa, before unknown, have thrown light on ma ny subjects, Ofwhich formerly we had but an obscure knowledge. Amongst these, the Poison Arrow stands prominent. By the ac- counts of Mai. Denham, it is a weapon, the slightest scratch of which is death nothing can exceed it except the bite of a rattlesnake. Major Denham accompanied an expedition of horse and foot armed with musquetry, a. gainst the Feletahs, the bravest of the Afr\n\n can nation. The Feletahs are not of the ne- gro race, but are of bronze colour, and evil dently of the Arab descent. The combat tants met, and the contest was very long and dOubtful-the army of the assalants, princ\n\n palIy CD account of the cowardice of the BOr nou horse, were defeated, and the poisoned arrows of the Feletahs did great execution.- In the flight, Maj. Denham was frequently in the most critical danger. hundreds of these ar rows falling around him. The wounded hOr- ses were seen after an hour to drop dead; and the soldiers died, swelled, and the blood issu- ing at every pore. Boo KhaloOm, a Merchant General, under whose escort Don Gudney and his party had crossed the Desert, fell from his horse, and expired,by slight wound in the foot by one Ofthese arrows.\n\n There are two children, born in Duchess county, now exhibiting in New-YOrk, says correspondent of the Times, compared to",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2015,
+                    "y0": 5331,
+                    "x1": 2914,
+                    "y1": 7025
+                }
+            ],
+            "bbox": [
+                2015,
+                5331,
+                2914,
+                7025
+            ],
+            "full_article_id": 19,
+            "id": "19_1827-05-31_p3_sn82014309_00414182926_1827053101_0191.json"
+        },
+        {
+            "object_ids": [
+                22,
+                19
+            ],
+            "headline": "HIJRRlCANES.",
+            "article": "A tremendous storm was experienced on the A ult. in Virginia. Its direction was from the west, towards the sea. Several houses were uprooted, some utterly demolished, and many of theiv inhabitants severely bruised, and in some instances their bones broken, so as greatly to endanger their lives. The fury of the storm, and the destruction thereby occasioned, are without parallel in that sec ton of the country.\n\n A very heavy northeast gale took place at Quebec which did considerable damage to the shipping.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2288,
+                    "y0": 4700,
+                    "x1": 2664,
+                    "y1": 4746
+                },
+                {
+                    "x0": 2027,
+                    "y0": 4757,
+                    "x1": 2909,
+                    "y1": 5320
+                }
+            ],
+            "bbox": [
+                2027,
+                4700,
+                2909,
+                5320
+            ],
+            "full_article_id": 20,
+            "id": "20_1827-05-31_p3_sn82014309_00414182926_1827053101_0191.json"
+        },
+        {
+            "object_ids": [
+                23
+            ],
+            "headline": "",
+            "article": "The Powder Mill of MT. John Reed, of Montgomery county N. Y. exploded on the 18th ult.-soOO pounds of pow der and saltpetre were destroyed--one man was killed and another seriously injured.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2930,
+                    "y0": 3967,
+                    "x1": 3812,
+                    "y1": 4263
+                }
+            ],
+            "bbox": [
+                2930,
+                3967,
+                3812,
+                4263
+            ],
+            "full_article_id": 24,
+            "id": "24_1827-05-31_p3_sn82014309_00414182926_1827053101_0191.json"
+        },
+        {
+            "object_ids": [
+                25
+            ],
+            "headline": "",
+            "article": "A communication, in answer to the Notice signed by Drs. Buel and Childs, in our last, has been received, which for certain reasons is deferred for the present.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2936,
+                    "y0": 3751,
+                    "x1": 3812,
+                    "y1": 3934
+                }
+            ],
+            "bbox": [
+                2936,
+                3751,
+                3812,
+                3934
+            ],
+            "full_article_id": 26,
+            "id": "26_1827-05-31_p3_sn82014309_00414182926_1827053101_0191.json"
+        },
+        {
+            "object_ids": [
+                29
+            ],
+            "headline": "",
+            "article": "There are two children, born in Dutchess now exhibiting in New-YOrk, says correspondent of the Times, compared to",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2027,
+                    "y0": 6877,
+                    "x1": 2897,
+                    "y1": 7020
+                }
+            ],
+            "bbox": [
+                2027,
+                6877,
+                2897,
+                7020
+            ],
+            "full_article_id": 30,
+            "id": "30_1827-05-31_p3_sn82014309_00414182926_1827053101_0191.json"
+        }
+    ]
+}

@@ -1,0 +1,1497 @@
+{
+    "lccn": {
+        "title": "The Litchfield County post.",
+        "geonames_ids": [
+            "4837799"
+        ],
+        "dbpedia_ids": [
+            "Litchfield%2C_Connecticut"
+        ],
+        "issn": "",
+        "lccn": "sn82014309",
+        "start_year": "1826",
+        "end_year": "1829",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [
+            "sn84020071"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn82014309",
+        "edition": "ed-01",
+        "date": "1827-05-31",
+        "pages": [
+            "seq-4",
+            "seq-2",
+            "seq-3",
+            "seq-1"
+        ]
+    },
+    "page_number": "4",
+    "scan": {
+        "lccn": "sn82014309",
+        "edition": "ed-01",
+        "date": "1827-05-31",
+        "page": "4",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-05-31/ed-1/seq-4.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-05-31/ed-1/seq-4/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-05-31/ed-1/seq-4/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/ct_barnum_ver01/data/sn82014309/00414182926/1827053101/0192.jp2",
+        "height": 7318,
+        "width": 5030
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2074,
+                "y0": 3641,
+                "x1": 2961,
+                "y1": 4763
+            },
+            "class": "article",
+            "raw_text": "The Grand Jury of Pittsburgh, Penn. have presented the great number of taverns and grog shops in that city, as public nuisance. They say it appears, from late reports of the City Guager, that 1928 bar rels, or 25O,oOo gallons, of domestic spir- it's was introduced in that city in the course ofthe last year. This is exclusive of for eign spirits. The number of taverns and li- censed shops is \"A and they say it is we'll known that there are many other places, where spirituous liquors are retailed with out :licence.-The Grand Jury of Hampshire County, Mass. made similar presentment at their March terms and recommended to the Selectmen of tue several towns, to withhold appreciation from all who violate the laws relating to the subject.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 2263,
+                "y0": 3578,
+                "x1": 2767,
+                "y1": 3631
+            },
+            "class": "headline",
+            "raw_text": "MAINTENANCE.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2069,
+                "y0": 5271,
+                "x1": 2956,
+                "y1": 6066
+            },
+            "class": "article",
+            "raw_text": "VHE subscriber takes this method of in- \"A forming his friends, and the public gener- ally, that he continues to carry on the TAI LORING BUSINESS in all it's branches. at his old stand near the Court House, where all who are disposed to favour him with their custom, can havetheir garments cut and made in good style. Having acquaintance with some of the best establishments in the state, every thing relative to fashion will be speedi- ly procured. And while he feels grateful for the liberal patronage he has received, he as- sures his customers that nothing shall he wan ting on his part to give general satisfaction in future. .,. .E... ...\n\n u~Particplar attention given to cutting.\n\n STEPHEN TROWBRIDGE.\n\n Litchfeld, May sS, 1927. 4s",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 2297,
+                "y0": 5179,
+                "x1": 2738,
+                "y1": 5255
+            },
+            "class": "headline",
+            "raw_text": "NOTICE.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1165,
+                "y0": 440,
+                "x1": 2052,
+                "y1": 2162
+            },
+            "class": "article",
+            "raw_text": "The following interesting incident at the close of funeral sermon, delivered by the Rev. MT. Oliver, after the death of the Rev. Adam Gibb of Edinburgh, in the Church of the deccased, is related in the last Reformed Dutch Chuch Magazine. --PhiLadelphia.\n\n \"When he had finished the sermon, he was proceeding to pronounce his character and eulogy. He made long pause. He attempted to speak what he had prepared: but the venerable grey-haired pastor was unable to utter word. He covered his face with his hands, and wept with his weeping audience. He dried up his tears, and once more raised himself up to pro- nounce the euogy. Again his voice was stiffled. He bowed down and wept for several minutes. A third time the aged pastor of Linlithgow attempted to pay the last tribute to one whom he loved as his own soul. But he burst again into tears, & wept aloud. The whole audience melted into tears aud the most of them sobbed and wept. And after long silence, inter- rupted by sighs and groans,the clerk named the 18th verse of the 1I9th Psalm, Scottish version.) !\" Dear in Gods sight is his saints death, &c. And the mournful mel ody of \"Old Martyrs\" foated from the lips of two thousand weeping people. It was without atfectation, and without design. And it was one ofthe most touching, and eloquent perorations, perhaps, which ever closed funeral sermon over departed pei ty and worth.\"",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 1302,
+                "y0": 371,
+                "x1": 1909,
+                "y1": 429
+            },
+            "class": "headline",
+            "raw_text": "TRIBUTE OF PRAISE.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3881,
+                "y0": 411,
+                "x1": 4785,
+                "y1": 1567
+            },
+            "class": "article",
+            "raw_text": "breast and lungs leading to COnsumptions. Thousands have experienced the happy ef- fects of this Healing BdlsamrNnd many of the highest responsibility have voluntarily given certificates, some of which will accompany each bettle, that will satisfy every uuprGjudi ced mind that the most extraordinary and un- expected cures have been performed by the use of this medicine in cases of long standing, in which other medicine, had produced no favourable effects, and where the most skill full Physicians had given them up as hopeless. It is not pretended that they are an infalIibIe cure in all cases, but of such as are incurable, there are but few but what will be greatly re- feved by the use of them. Scarcely case of Colds, Coughs, Pain in the side, difficulty of breathing, want of sleep arising from de- biIity, or even seated consumptions, but may be relieved by timely use of this Healing Balsam. Each Dollar Bottle of this 1medi- cine contains about 40 doses, which proves them to be cheap medicine considering their virtues.\n\n For the further satisfaction of the public, the following Certificates are offered for peru",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2972,
+                "y0": 5625,
+                "x1": 3859,
+                "y1": 6661
+            },
+            "class": "article",
+            "raw_text": "Just received, and for sale at the LITCHFIELD BOOKSTORE new supply of Opie's Illustrations of Lying: work justly celebrated, and highly enter taining and useful.\n\n Nettleton's Village Hymns, Calf Extra and common binding. Dwight's do. large edition Calf and morocco extra binding. Superior Calf Skin Pocket Books. Elegant Box-wood Sand boxes\n\n cases Superior Surveyors Instruments \"The TOILET\" an elegant present for la\n\n dies. Visititing Cards, and embossed card\n\n paper, gilt edge do. Pith paper, plain and\n\n emboss'd with different colours. Hair Brushes. An excellent assortment of\n\n English silver wire Tooth Brushes. Real Colonge Water Capillary, or Glass tube Lamps Elegant Snuff-hoxes. Superior Ivory combs Pocket Combs. Crayon Pencils, with nu- merous other articles of Stationary, which will be sold upon the most reasonable terms.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 45,
+            "bbox": {
+                "x0": 2983,
+                "y0": 5625,
+                "x1": 3859,
+                "y1": 5723
+            },
+            "class": "headline",
+            "raw_text": "Just received, and for sale at the LITCHFIELD BOOKSTORE",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2983,
+                "y0": 4939,
+                "x1": 3865,
+                "y1": 5609
+            },
+            "class": "article",
+            "raw_text": "THE Court of Probate for the District of\n\n Litchfeld hath assigned Monday, the esth day ofinst. May, at 10 o'clock in the forenoon at the probate office, in Litchfield in said dis trlct, for the appointment of commissioners on the estate of\n\n REUEL COGSWELL, late of Washington, in said district, deceased, represented insolvent; at which time and place all persons interested in said estate will if they see cause. attend before said court and be heard in the premises.\n\n By order of said court,\n\n RILEY COGSWELL, Erecutor. Washington, May l2, 1927. 48",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 3275,
+                "y0": 4876,
+                "x1": 3562,
+                "y1": 4934
+            },
+            "class": "headline",
+            "raw_text": "NOTICE.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3881,
+                "y0": 1629,
+                "x1": 4797,
+                "y1": 3905
+            },
+            "class": "article",
+            "raw_text": "Dr. MELLEN, Sir-the cause of humanity demands of me to. give the following state ment: My wife had for six years been in decline and pronounced by her Physicians to be in consumptive state, and was attended by severe pain in her side, with Cough B. difficulty of breathing. She was reduced SO low as to be unable to get from her bed to the had long been given up. In this situation, was prevailed upon, as last possible resort, yet without any hopes of success, to make use of\" Anderson's Cough Drops\" She com nenced the use of them in February last and after using two bottles, to the astonishment of al in the month of May following the health of my wife was entirely restored, and since which, her health and strength were perhaps never better. Feeling deep interest that the public in general may resort to the same remedy, when their friends and relatives are apparently. or evidently on the brink of the grave, to rescue them from from the same. You are at liberty to publish the above.\n\n am respectfully, &c.\n\n JAMES H. STYLES. Rhiaebeck, Dutchess co. (N Y.) Nov. 8. 1926. This is to certify that the subscriber was brought very low by splitting blood, attended with cough and catarrh, and that nothing afforded me real relief until com menced ta- NnS 1A\"ucISo\" , Oouen DFOpS, tne use Ot which were the means in the hand of God of restoring me again to comfortable state of health.\n\n And do further certify that the wife of MT. Nathan Huntington, living in the same place was afflicted with very bad cough for a num- ber of years, and that in 1923 She was redu~ ced so low that it was thought she must soon be in her grave, as she was scarcely able to walk from her bed to the fire, when she com menced taking Andersen's Cough Drops, the use of which, in short time so far restored her, that she was soon able to do good days work can cheerfully recommend this med- icine to the public.\n\n PHlLO HUDSON, Pastop of the Church in Ashford, (Conn.) Ashford, Sept. 25, 1924.\n\n e For sale by w. & s. BUEL. Litchfeld, Dec. 4. 1926. sa- 25eow6m",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 3984,
+                "y0": 1577,
+                "x1": 4677,
+                "y1": 1624
+            },
+            "class": "headline",
+            "raw_text": "NEW OERTIFICAEHs,",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2069,
+                "y0": 4871,
+                "x1": 2961,
+                "y1": 5169
+            },
+            "class": "article",
+            "raw_text": "THE subscriber being about leaving town,\n\n IL requests all persons having unsettled ac- counts with him, to call and settle the same before the 2Sth inst, as he will leave town on that day. Those indebted will take particu- lar notice. W.H. ADAMS.\n\n Litchfeld. May 23. 1927.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 2377,
+                "y0": 4802,
+                "x1": 2670,
+                "y1": 4854
+            },
+            "class": "headline",
+            "raw_text": "NOTICE",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2983,
+                "y0": 4510,
+                "x1": 3870,
+                "y1": 4854
+            },
+            "class": "article",
+            "raw_text": "THAT well known pleasant situation, for N merly the residence of Capt. Stone, half mile east of this village. The house, gardens, fruit, Sc. are we'll calculated to ac- commodate two families. Any one wishing to occupy will please call on ELIADA PECK near the premises.\n\n Litch6eld, May 16, 1927. 48",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 32,
+            "bbox": {
+                "x0": 3023,
+                "y0": 4436,
+                "x1": 3796,
+                "y1": 4500
+            },
+            "class": "headline",
+            "raw_text": "FOR SALE OR RENT,",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2983,
+                "y0": 1297,
+                "x1": 3870,
+                "y1": 1699
+            },
+            "class": "article",
+            "raw_text": "This celebrated Powder needs no recom- mendation-every gentleman and lady should be in the constant use of it, if they wish to preserve their teeth from decay, and have them appear of a beautiful pearly whiteness Price 25 cents box.\n\n Sold 6y W. & s. BUEL and HENRY PHELPS.\n\n ID. CLAY. November 21, 1926. eow1y25",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 3075,
+                "y0": 1217,
+                "x1": 3756,
+                "y1": 1287
+            },
+            "class": "headline",
+            "raw_text": "Pe0rI TOOth POe0der.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2057,
+                "y0": 6151,
+                "x1": 2950,
+                "y1": 6701
+            },
+            "class": "article",
+            "raw_text": "- <>TO0dte COurt, MGy 21, 1897.\n\n 1STATE of JOHN PARISH, late of A Washington, deceased;-\n\n The Administrator represents the estate in solvent. and prays the appointment of com mssioners thereon-O Ordered, That commis- sloners to receive and examine the claims of the Creditors of the said Estate be appointed at the Probate Office in Woodbury on the Sd Monday of June. 1897. at 10 o'clock, A. M. ;- of which all persons in interest will take mo- tIce and appear if they see cause and be heard thereon. c. B. PHELPS, Jadge.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 43,
+            "bbox": {
+                "x0": 2326,
+                "y0": 6088,
+                "x1": 2824,
+                "y1": 6135
+            },
+            "class": "headline",
+            "raw_text": "District Of Woodbury, ss.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 3881,
+                "y0": 4144,
+                "x1": 4791,
+                "y1": 7090
+            },
+            "class": "article",
+            "raw_text": "\n\n SCOTTS FAMILY BIBLE,\n\n Sd Boston Edition, which will be sold at the lowest Boston pr- ces for cash or appoved credit. Hannah Moore's Works, vol. octave, with an excellent likeness of the celebrated au- thoress, and view of \" Barley Wood.'' do. in 8 vols duodecimo. Dwight's Travels. Cecil's Works. Jowetts Researches. Wolf's Journal. Opie's Illustrations of Lying. Sherwood's Stories on Church Chatechism.\n\n do Lady ofthe Manor.\n\n do Stories and Tales. Contributions ofQ. Q. by Jane Taylor. Fosters letters and essays.\n\n do on popular ignorance Scott's Letters and Papers Sismondi's Literature of South Europe Johnson's works complete Plutarch's Lives. Crabb's Synonymes. Locks Essays. Bucks Theological Die. Rev Thomas Scott's Works. Chautabrian's Travels. Hopkins Divinity, QuatrO, Octave, duodecimo, and pocket BI- BLES, common, extra and calf extra binding. X genera. assortment of LAW. MEDICAL. CLASSICAL. and SCHOOL BOOKS. A large supply of Ledgers, Jour nais, and Dag Books. A great variety. of small books, suitable for Sabbath Schools, and presents for children. An elegant assortment of standard works, bound in superb style, suitable for ''Iokens of Remembrance\" .,e Arrangements are made for receiving new works immediately after they issue from American Presses. Pen & Pocket Knives of the finest quality. Razors, famous Damascus blade -..- Scissors, very superior article --.... Quills, from cts to 62 1-2 cts per bunch Silver Pencil cases. Pocket Maps Table Bells. Wafer Stamps. ..~., Sand boxes, real Iignumvita. do Tin. Gunter's Scale and Surveyors compasses. Together with almost every article in the Book and Stationary line usually found in similar establishments. Companies or private individuals wishing to purchase libraries, are invited to call and examine the stock and prices before they go out of the county to trade. Country traders will be supplied with Walkdcn's Fine British Ink-powder, May nard & Moves do. Letter, Writing. and Wrapping Paper, and all kinds of School books as cheap as can be purchased in Hartford.\n\n Orders respectfully solicited, and books forwarded to any part of the county as cheap as though the purchaser were present to make his bargain.\n\n LitchReld. May, 1897. -",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 47,
+            "bbox": {
+                "x0": 3909,
+                "y0": 3927,
+                "x1": 4780,
+                "y1": 4220
+            },
+            "class": "headline",
+            "raw_text": "LITCHFIELD BOOK STORE. JUST RECEIVED, new supply of SCOTTS FAMILY BIBLE.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": -1
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2972,
+                "y0": 6786,
+                "x1": 3859,
+                "y1": 7090
+            },
+            "class": "article",
+            "raw_text": "FENHE Public are respectfully informed that\n\n N ANDERSON'S COUGH DROPS& ELECTORAL POWDERS have from an extensive usesfor years past, proved them selves to be one of the most valuable rem edies ever yet discovered for the cure of Coughs, Colds and other affections of the",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 34,
+            "bbox": {
+                "x0": 2989,
+                "y0": 6683,
+                "x1": 3825,
+                "y1": 6770
+            },
+            "class": "headline",
+            "raw_text": "HIGHLY INTERESTING TO THE\n\n AFFLICYED.",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": -1
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 2989,
+                "y0": 3836,
+                "x1": 3870,
+                "y1": 4414
+            },
+            "class": "article",
+            "raw_text": "MIR. FULLER,\n\n GRATEFUL for past favours, respect oa fully informs the inhabitants of this place that he proposes opening his school for the improvement of young ladies and gentlemen in polite manners and dancing. The school will be opened at Capt. Phelps Hall, on Sat urday, the 9th of June next, at o'clock in the afternoon for Ladies, and at for Gen tlemen. Twenty-four lessons constitute the quarter, part of which will be given in the morning. GT@Terms, $500.\n\n Lltchbcld, May, 18th. 1897. 4w48",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 35,
+            "bbox": {
+                "x0": 3081,
+                "y0": 3744,
+                "x1": 3733,
+                "y1": 3814
+            },
+            "class": "headline",
+            "raw_text": "DANCING SCHOOL,",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 256,
+                "y0": 474,
+                "x1": 1149,
+                "y1": 5941
+            },
+            "class": "article",
+            "raw_text": "REMARKABLE CRIMINAL.\n\n Green was born of poor parents, and had little or no means of education. He was oftall stature, very great bodily strength, of surprising ingenuity, and of undaunted courage. At very early age he commen- ced the business of poacher, tempted on the one hand by his wants, and on the oth- CT, by the \"wages of iniquity''-the price offered for game, the abundance in his neighborhood, and the facility of taking, and disposing of it without detection. By snaring, which for some time he prac- tised with success, eluding the vigilance of tL\" gamekeepcrs by his activity and skill, he acquired sufficient means to provide him self with gun. This gun was soon after wards heard at night in one of the woods near Gunton. One of the principal keep CTS instantly proceeded to the spot, as usu- al, for the purpose of reconnoitering' the enemy, and finding only one man, he did not summon his assistantS, but advanced upon Green alone. As it happened, in this keeper Green found man of equal prowess, and of maturer nerve, which may be easily immagined, when the fact is sta- ted, that some years afterwards (at the age of 65) this same keeper, in single com bat, which lasted nearly an hour with a very desperate character, and powerful man, only half his own age, finally over powered his antagonist, and made him prisoner. A similar fate attended Green. He was taken with his gun and pheas- ant in his possession, and committed for short term ofimprisonment, of in the house of Correction at Aylesham. There he remained very few days, before his in- genuity suggested some means of escape, of which he avaied himself but he was very soon retaken, and he remained in safe confinement till the term expi- red. The conflict which he maintain ed so manfully with a veteran, and the circumstance of his breaking prison, rem dered him in some degree notorious and and it is to be presumed that he did not afterwards find it easy to gain employment. Heassociated with other idle and dissolute persons and whether he resumed his halo its of poaching or not, he committed a. mother offence, viz,-thst of breaking open watch-maker's shop. He was tried for the burglary, convicted, and condemned to he hanged, but the sentence was commuted for transportation. While he was await ing the executution of his sentence, he twice made his escape from the Castle of Norwich. He effected it the first time in the following extraordinary man. ncr.\n\n Between his apprehension and commit ment, he contrived to have an iron skew CT tied up within tail which he had worn similar to those still frequently worn by sailors. With this skewer he picked a a hole through thu. wall of his cell, which was one of those furtherest from the groundin this lofty building. The hole four feet below the roof of the castle, and as am informed by MT. Johnson, the pre- sent keeper of that prison, from his own observation, the size of the aperture meas- ured only l2 inches by 9. He cut his bed- ding into shreds, and bound them round his body. He was then heavily ironed, yet he crept through this small space and contrived to reach the roof four feet above him, probably, as it is supposed, pulling himself up to it by means. of one of the shreds of the bedding, which he musthavo previously thrown round one of the bat dement's upon the edge oft the roof. This place of egress was immed :ately over paved courtyard {: and, to use the keep CTS own words, from whom I received the account, had Green missed stays, he must have fallen upon the pavement, and have been dashed to pieces. Having tra- versed the roof to the opposite side of the castle, he lowered himself down to the ground he had then to climb over some very shigh railing, covered with tenter hooks 1; but he escaped, and finally found his way to comrade in the city of Nor wich, as it has been believed, who filed off his irons thus he was set at complete lib- erty. Whether he was re-taken or not before he had Committed fresh offence,I do not remember; but he was certainly a. gain in Norwich castle about two years af- terwards, and again escaped. The second escape was effected by means of key with which another prisoner had been fur nished. On this occasion, he relieved himself from his irons by the good luck, as he termed it, of finding the back spring of knife in his cell, or in the airing yard ,and of this he contrived to make saw. Hav- ing once more reached the part of the roof of the castle, by the help of rope made as before of ssme shreds of his blanket, he lowered himself down upon the roof of the",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 39,
+            "bbox": {
+                "x0": 262,
+                "y0": 383,
+                "x1": 1143,
+                "y1": 475
+            },
+            "class": "headline",
+            "raw_text": "From Lord sufieId's Pamphlet of the Game\n\n Laws,",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": -2
+        },
+        {
+            "id": 49,
+            "bbox": {
+                "x0": 268,
+                "y0": 468,
+                "x1": 1075,
+                "y1": 515
+            },
+            "class": "headline",
+            "raw_text": "REMARKARTE CRLMTNAL.",
+            "legibility": "Illegible",
+            "full_article_id": 17,
+            "reading_order_id": -1
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 2978,
+                "y0": 869,
+                "x1": 3870,
+                "y1": 1207
+            },
+            "class": "article",
+            "raw_text": "They will he found, in all cases of the fol- lowing description, to give relief-nansea, vomiting, heartburn, costiveness, weakness at the breast, pain in the stomach, loss of ap- petite, and all other simptoms of indigestion and hatulence, and as a nervous cordial is not to be surpassed by any thing-Price s5 cents a hox",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 40,
+            "bbox": {
+                "x0": 3092,
+                "y0": 800,
+                "x1": 3773,
+                "y1": 852
+            },
+            "class": "headline",
+            "raw_text": "CI0y's StOno0ch BGtters.",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": -1
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 2978,
+                "y0": 2006,
+                "x1": 3870,
+                "y1": 2413
+            },
+            "class": "article",
+            "raw_text": "LVROM Litchfield to New York--by Steam\n\n A Boat John Marshall-through in one day-fare S3 1-2-by line stages, to meet the boat at Norwalk-leaving Litchfeld Mon days, Wednesdays and Fridays, at 9 A. M. through Woodbury, Newtown and Bridge port and New-Y ork, Tuesdays, Thursdays and Saturdays. at A. M. for Litchfeld, un- til the 1st May-after that at A. M. 6m46",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 2057,
+                "y0": 6723,
+                "x1": 2944,
+                "y1": 7073
+            },
+            "class": "article",
+            "raw_text": "MA A Mare Colt, one year old, C1M \"A of dark gray, broke in- Ea@A to my enclosure about the 18th N YI4 instant. The owner is request sa=sz.s = ed to prove property, pay char ges, and take her away.\n\n .@'- BENJAMIN GkISWOLD. Litchfield, Milton Society, May ss, 1897.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 2983,
+                "y0": 606,
+                "x1": 3865,
+                "y1": 784
+            },
+            "class": "article",
+            "raw_text": "TOR pIeasantness, safety, expedition, case,\n\n N and certainty, is infinitely superior to any other to cure that tormenting disorder Price s cents per box.",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 3126,
+                "y0": 400,
+                "x1": 3733,
+                "y1": 584
+            },
+            "class": "headline",
+            "raw_text": "CLAY'S Hck Ointment,",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": -1
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 1165,
+                "y0": 2258,
+                "x1": 2052,
+                "y1": 4374
+            },
+            "class": "article",
+            "raw_text": "Travelling beagars.-Every one knows the evil of supporting these nuisances upon the ommunity in strolling idleness, yet no one interferes to check its prevalence, or expose the glpri ing impositions which are daily practised. A short time ago, one of these vagabonds called at this office 1; his countenance was strongly marked with intemperance, and his scarified nose and bruise swollen eyes, gave signs of his recent carousal he said his name was Christian Hynes, and exhibited paper stating that he had been burnt out some- where at the west, with Mr.. Westford to certify the fact; to which was added the names of several reverend gentlemen in in the city of New York, written with a pencil, and apparently by the same hand 5 but this was teo evident an imposition to escape detection. We might mention a number ofinstances more, with which no doubt some of our readers are acquainted, would exceedingly darken the hue of hu- man depravity.\n\n Under this head it may be we'll to men, ton, that company ofill-favoured stroll- ing wretches, from '15 to 20 in number, men, women and children miserably cov- cred with remnants of blankets, quilts, and cast-off clothes, passed through this village on Wednesday of last week, and en- camped on the turnpike near Sparta The children were despatched to solicit money, &c. in the neighborho od--with which gallon of whiskey was purchased for the company. On being questioned, a young female said, they aoere moOing from Delhi to NeaO Virginia. The next morn- ing some of the women were scarcely able to walk from the effect of the nights de- bapch; but with the help of their half starved nag and crazy vehicle, Ia sort of apology for waggon) they pursued their journey. Good ribdance.",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 1280,
+                "y0": 2189,
+                "x1": 1932,
+                "y1": 2242
+            },
+            "class": "headline",
+            "raw_text": "From the Westchesier Gazette.",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": -1
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 2983,
+                "y0": 2607,
+                "x1": 3876,
+                "y1": 2928
+            },
+            "class": "article",
+            "raw_text": "\"I ILL receive weekly from the Kiln, W fresh Lime of the first quality. and at a very low price. Not more than the gate fee will be added to the Canaan and Sheffield wholesale price.\n\n Norfolk, April, 1927. tf4S",
+            "legibility": "Legible",
+            "full_article_id": 29,
+            "reading_order_id": 0
+        },
+        {
+            "id": 37,
+            "bbox": {
+                "x0": 3058,
+                "y0": 2435,
+                "x1": 3802,
+                "y1": 2602
+            },
+            "class": "headline",
+            "raw_text": "LIME! LIME! E. H. DENISON",
+            "legibility": "Legible",
+            "full_article_id": 29,
+            "reading_order_id": -1
+        },
+        {
+            "id": 33,
+            "bbox": {
+                "x0": 2074,
+                "y0": 3338,
+                "x1": 2973,
+                "y1": 3551
+            },
+            "class": "article",
+            "raw_text": "Citizens of Philadelphia have given pieces of plate to Messrs. Hamilton & Henderson, of Mississippi, for rescuing certain kidnapped coloured children.",
+            "legibility": "Legible",
+            "full_article_id": 34,
+            "reading_order_id": 0
+        },
+        {
+            "id": 36,
+            "bbox": {
+                "x0": 2074,
+                "y0": 2818,
+                "x1": 2961,
+                "y1": 3311
+            },
+            "class": "article",
+            "raw_text": "Emancipation.-The Rev. Robert Cox, minister of the Methodist Episcopal church, died in Suffolk Co. Virginia, on the 10th ult. In his will he made provis- ions for emancipating all his slaves-up- wards of 30, and for giving each hand some sum of money. He had offered to transport them to Africa during his life, but they chose to live with him and recieve wages.",
+            "legibility": "Legible",
+            "full_article_id": 37,
+            "reading_order_id": 0
+        },
+        {
+            "id": 38,
+            "bbox": {
+                "x0": 1160,
+                "y0": 6614,
+                "x1": 2041,
+                "y1": 7056
+            },
+            "class": "article",
+            "raw_text": "1he too praying sabbath scholars. Two little girls of one the junior classes, who had been taught by their teacher to repeat the Lords prayer, were desired to ask their mother to let them say it at night. when they went to bed which they ac- cordingly did. The first week their solici- tations were in vain, the mother always",
+            "legibility": "Legible",
+            "full_article_id": 39,
+            "reading_order_id": 0
+        },
+        {
+            "id": 41,
+            "bbox": {
+                "x0": 2069,
+                "y0": 1903,
+                "x1": 2956,
+                "y1": 2785
+            },
+            "class": "article",
+            "raw_text": "7He forgiUing boy.-In a school at Youghal, an instance lately occurred, in the masters accidental absence, ofono boy being provoked to strike another. On hearing the complaint, the master deter mined on punishing the culprit, when the aggrieved boy entreated pardon for the offender. On being asked why he inter- posed to prevent so just punishment, he saidAf was reading in the New esta- ment lately, that Jesus Christ said we should forgive our enemies, and I wish to forgive him, that he may not be punished for my sake\" This Christian plea was too powerful to be resisted. The offend CT was pardoned, and the parents of the poor boy were highly pleased at the cir cumstancc. r",
+            "legibility": "Legible",
+            "full_article_id": 42,
+            "reading_order_id": 0
+        },
+        {
+            "id": 42,
+            "bbox": {
+                "x0": 2069,
+                "y0": 383,
+                "x1": 2956,
+                "y1": 1864
+            },
+            "class": "article",
+            "raw_text": "finding some excuse to put them off; but the urgent importantly of the children at last overcame her, and she not only con- sented to hear them saytheir prayers but as if convinced, by their example, of her own improper conduct, in neglecting du- ty so important, she knelt down and pray ed for herself also, and continued to pray with the children every night-though, as the little creatures remarked, they had never seen her do such thing before.\n\n 4 mother taught to read 6y her son. |\" With Pleasure,'' says MT. James Griffin, of Portsea, communicate to you fact, which came under my notice short time since, of boy in my class. This lad I have observed for his attention to his teacher, and general steadiness of behav- four at school. One sabbath, after he had repeated his lesson to me, asked him if he thought he had receivd any 6enef from attending the school He hesitated some time, and then answered, with pleasing modesty, |\" If have not, sir, one of my relatives has, for since have belonged to the sabbath school have got tickets e. nough to buy a Testament, and I took it home, and taught my mother her letters, and now she can read any chapter in the Bible.'' -",
+            "legibility": "Legible",
+            "full_article_id": 43,
+            "reading_order_id": 0
+        },
+        {
+            "id": 44,
+            "bbox": {
+                "x0": 1160,
+                "y0": 4425,
+                "x1": 2052,
+                "y1": 6575
+            },
+            "class": "article",
+            "raw_text": "RoYALToN, Vt. May 15.\n\n lmposter.-One day last week, person called on the editor of this paper, who had his right arm amputated at the shoulder, and solicited charity, as an unfortunate disabled member of the profession.-Said his name was Clark-that his parents re- sided in Burlington in this state-that he served his apprenticeship with MT. Hill, of Concord, N. H--that he lost his arm in December last, in Lancaster, Penn. by a swelling-that through the assistance of the Typographical Society of Philadel- phia, he obtained passage to Portsmouth N. H. from whence he travelled on foot, 'subsisting on the charity of the community and was making his way to his parents. He received his mite of charity, and de- parted, with many professions of thank fitness. Visiting the town, in an opposite direction from that which he manifested so much anxiety to reach, as the residence of his parents, who should we meet, in merchants store, but this poor unfortunate, and pretended disciple of Faust. On ac- costing him and observing, that he must have lost his way, he coolly observed, that :\" he supposed he knew where he was,\" and immediately took himself off. We have since learned, that his stories rela- tive to himself are various, suited to the occasion-that at other places in the vil- lage he pretended to have been lieuten- ant in the battle Of Plattsblrgh, where he lost his arm, &c. He is evidently an im- poster and though unfortunate in the loss of a limb, is unworthy the charity of the community. inasmuch, as we have good evidence to- believe, it is sought mainly to gratity thirst for spirituous liquors. We feel it duty to give this informa- ton that the charitable in this vicinity, and the profession in particular, may not again be imposed on by his appeals to their sympathy and charity.",
+            "legibility": "Legible",
+            "full_article_id": 45,
+            "reading_order_id": 0
+        },
+        {
+            "id": 46,
+            "bbox": {
+                "x0": 1474,
+                "y0": 4413,
+                "x1": 2024,
+                "y1": 4466
+            },
+            "class": "headline",
+            "raw_text": "ROTATION, Vt. May 15.",
+            "legibility": "Legible",
+            "full_article_id": 45,
+            "reading_order_id": -1
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                26,
+                0
+            ],
+            "headline": "MAINTENANCE.",
+            "article": "The Grand Jury of Pittsburgh, Penn. have presented the great number of taverns and grog shops in that city, as public nuisance. They say it appears, from late reports of the City Guager, that 1928 bar rels, or 25O,oOo gallons, of domestic spir- it's was introduced in that city in the course ofthe last year. This is exclusive of for eign spirits. The number of taverns and li- censed shops is \"A and they say it is we'll known that there are many other places, where spirituous liquors are retailed with out :licence.-The Grand Jury of Hampshire County, Mass. made similar presentment at their March terms and recommended to the Selectmen of tue several towns, to withhold appreciation from all who violate the laws relating to the subject.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2263,
+                    "y0": 3578,
+                    "x1": 2767,
+                    "y1": 3631
+                },
+                {
+                    "x0": 2074,
+                    "y0": 3641,
+                    "x1": 2961,
+                    "y1": 4763
+                }
+            ],
+            "bbox": [
+                2074,
+                3578,
+                2961,
+                4763
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-05-31_p4_sn82014309_00414182926_1827053101_0192.json"
+        },
+        {
+            "object_ids": [
+                21,
+                1
+            ],
+            "headline": "NOTICE.",
+            "article": "VHE subscriber takes this method of in- \"A forming his friends, and the public gener- ally, that he continues to carry on the TAI LORING BUSINESS in all it's branches. at his old stand near the Court House, where all who are disposed to favour him with their custom, can havetheir garments cut and made in good style. Having acquaintance with some of the best establishments in the state, every thing relative to fashion will be speedi- ly procured. And while he feels grateful for the liberal patronage he has received, he as- sures his customers that nothing shall he wan ting on his part to give general satisfaction in future. .,. .E... ...\n\n u~Particplar attention given to cutting.\n\n STEPHEN TROWBRIDGE.\n\n Litchfeld, May sS, 1927. 4s",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2297,
+                    "y0": 5179,
+                    "x1": 2738,
+                    "y1": 5255
+                },
+                {
+                    "x0": 2069,
+                    "y0": 5271,
+                    "x1": 2956,
+                    "y1": 6066
+                }
+            ],
+            "bbox": [
+                2069,
+                5179,
+                2956,
+                6066
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-05-31_p4_sn82014309_00414182926_1827053101_0192.json"
+        },
+        {
+            "object_ids": [
+                23,
+                2
+            ],
+            "headline": "TRIBUTE OF PRAISE.",
+            "article": "The following interesting incident at the close of funeral sermon, delivered by the Rev. MT. Oliver, after the death of the Rev. Adam Gibb of Edinburgh, in the Church of the deccased, is related in the last Reformed Dutch Chuch Magazine. --PhiLadelphia.\n\n \"When he had finished the sermon, he was proceeding to pronounce his character and eulogy. He made long pause. He attempted to speak what he had prepared: but the venerable grey-haired pastor was unable to utter word. He covered his face with his hands, and wept with his weeping audience. He dried up his tears, and once more raised himself up to pro- nounce the euogy. Again his voice was stiffled. He bowed down and wept for several minutes. A third time the aged pastor of Linlithgow attempted to pay the last tribute to one whom he loved as his own soul. But he burst again into tears, & wept aloud. The whole audience melted into tears aud the most of them sobbed and wept. And after long silence, inter- rupted by sighs and groans,the clerk named the 18th verse of the 1I9th Psalm, Scottish version.) !\" Dear in Gods sight is his saints death, &c. And the mournful mel ody of \"Old Martyrs\" foated from the lips of two thousand weeping people. It was without atfectation, and without design. And it was one ofthe most touching, and eloquent perorations, perhaps, which ever closed funeral sermon over departed pei ty and worth.\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1302,
+                    "y0": 371,
+                    "x1": 1909,
+                    "y1": 429
+                },
+                {
+                    "x0": 1165,
+                    "y0": 440,
+                    "x1": 2052,
+                    "y1": 2162
+                }
+            ],
+            "bbox": [
+                1165,
+                371,
+                2052,
+                2162
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-05-31_p4_sn82014309_00414182926_1827053101_0192.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "breast and lungs leading to COnsumptions. Thousands have experienced the happy ef- fects of this Healing BdlsamrNnd many of the highest responsibility have voluntarily given certificates, some of which will accompany each bettle, that will satisfy every uuprGjudi ced mind that the most extraordinary and un- expected cures have been performed by the use of this medicine in cases of long standing, in which other medicine, had produced no favourable effects, and where the most skill full Physicians had given them up as hopeless. It is not pretended that they are an infalIibIe cure in all cases, but of such as are incurable, there are but few but what will be greatly re- feved by the use of them. Scarcely case of Colds, Coughs, Pain in the side, difficulty of breathing, want of sleep arising from de- biIity, or even seated consumptions, but may be relieved by timely use of this Healing Balsam. Each Dollar Bottle of this 1medi- cine contains about 40 doses, which proves them to be cheap medicine considering their virtues.\n\n For the further satisfaction of the public, the following Certificates are offered for peru",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3881,
+                    "y0": 411,
+                    "x1": 4785,
+                    "y1": 1567
+                }
+            ],
+            "bbox": [
+                3881,
+                411,
+                4785,
+                1567
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-05-31_p4_sn82014309_00414182926_1827053101_0192.json"
+        },
+        {
+            "object_ids": [
+                45,
+                5
+            ],
+            "headline": "Just received, and for sale at the LITCHFIELD BOOKSTORE",
+            "article": "Just received, and for sale at the LITCHFIELD BOOKSTORE new supply of Opie's Illustrations of Lying: work justly celebrated, and highly enter taining and useful.\n\n Nettleton's Village Hymns, Calf Extra and common binding. Dwight's do. large edition Calf and morocco extra binding. Superior Calf Skin Pocket Books. Elegant Box-wood Sand boxes\n\n cases Superior Surveyors Instruments \"The TOILET\" an elegant present for la\n\n dies. Visititing Cards, and embossed card\n\n paper, gilt edge do. Pith paper, plain and\n\n emboss'd with different colours. Hair Brushes. An excellent assortment of\n\n English silver wire Tooth Brushes. Real Colonge Water Capillary, or Glass tube Lamps Elegant Snuff-hoxes. Superior Ivory combs Pocket Combs. Crayon Pencils, with nu- merous other articles of Stationary, which will be sold upon the most reasonable terms.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2983,
+                    "y0": 5625,
+                    "x1": 3859,
+                    "y1": 5723
+                },
+                {
+                    "x0": 2972,
+                    "y0": 5625,
+                    "x1": 3859,
+                    "y1": 6661
+                }
+            ],
+            "bbox": [
+                2972,
+                5625,
+                3859,
+                6661
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-05-31_p4_sn82014309_00414182926_1827053101_0192.json"
+        },
+        {
+            "object_ids": [
+                31,
+                6
+            ],
+            "headline": "NOTICE.",
+            "article": "THE Court of Probate for the District of\n\n Litchfeld hath assigned Monday, the esth day ofinst. May, at 10 o'clock in the forenoon at the probate office, in Litchfield in said dis trlct, for the appointment of commissioners on the estate of\n\n REUEL COGSWELL, late of Washington, in said district, deceased, represented insolvent; at which time and place all persons interested in said estate will if they see cause. attend before said court and be heard in the premises.\n\n By order of said court,\n\n RILEY COGSWELL, Erecutor. Washington, May l2, 1927. 48",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3275,
+                    "y0": 4876,
+                    "x1": 3562,
+                    "y1": 4934
+                },
+                {
+                    "x0": 2983,
+                    "y0": 4939,
+                    "x1": 3865,
+                    "y1": 5609
+                }
+            ],
+            "bbox": [
+                2983,
+                4876,
+                3865,
+                5609
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-05-31_p4_sn82014309_00414182926_1827053101_0192.json"
+        },
+        {
+            "object_ids": [
+                30,
+                7
+            ],
+            "headline": "NEW OERTIFICAEHs,",
+            "article": "Dr. MELLEN, Sir-the cause of humanity demands of me to. give the following state ment: My wife had for six years been in decline and pronounced by her Physicians to be in consumptive state, and was attended by severe pain in her side, with Cough B. difficulty of breathing. She was reduced SO low as to be unable to get from her bed to the had long been given up. In this situation, was prevailed upon, as last possible resort, yet without any hopes of success, to make use of\" Anderson's Cough Drops\" She com nenced the use of them in February last and after using two bottles, to the astonishment of al in the month of May following the health of my wife was entirely restored, and since which, her health and strength were perhaps never better. Feeling deep interest that the public in general may resort to the same remedy, when their friends and relatives are apparently. or evidently on the brink of the grave, to rescue them from from the same. You are at liberty to publish the above.\n\n am respectfully, &c.\n\n JAMES H. STYLES. Rhiaebeck, Dutchess co. (N Y.) Nov. 8. 1926. This is to certify that the subscriber was brought very low by splitting blood, attended with cough and catarrh, and that nothing afforded me real relief until com menced ta- NnS 1A\"ucISo\" , Oouen DFOpS, tne use Ot which were the means in the hand of God of restoring me again to comfortable state of health.\n\n And do further certify that the wife of MT. Nathan Huntington, living in the same place was afflicted with very bad cough for a num- ber of years, and that in 1923 She was redu~ ced so low that it was thought she must soon be in her grave, as she was scarcely able to walk from her bed to the fire, when she com menced taking Andersen's Cough Drops, the use of which, in short time so far restored her, that she was soon able to do good days work can cheerfully recommend this med- icine to the public.\n\n PHlLO HUDSON, Pastop of the Church in Ashford, (Conn.) Ashford, Sept. 25, 1924.\n\n e For sale by w. & s. BUEL. Litchfeld, Dec. 4. 1926. sa- 25eow6m",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3984,
+                    "y0": 1577,
+                    "x1": 4677,
+                    "y1": 1624
+                },
+                {
+                    "x0": 3881,
+                    "y0": 1629,
+                    "x1": 4797,
+                    "y1": 3905
+                }
+            ],
+            "bbox": [
+                3881,
+                1577,
+                4797,
+                3905
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-05-31_p4_sn82014309_00414182926_1827053101_0192.json"
+        },
+        {
+            "object_ids": [
+                29,
+                8
+            ],
+            "headline": "NOTICE",
+            "article": "THE subscriber being about leaving town,\n\n IL requests all persons having unsettled ac- counts with him, to call and settle the same before the 2Sth inst, as he will leave town on that day. Those indebted will take particu- lar notice. W.H. ADAMS.\n\n Litchfeld. May 23. 1927.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2377,
+                    "y0": 4802,
+                    "x1": 2670,
+                    "y1": 4854
+                },
+                {
+                    "x0": 2069,
+                    "y0": 4871,
+                    "x1": 2961,
+                    "y1": 5169
+                }
+            ],
+            "bbox": [
+                2069,
+                4802,
+                2961,
+                5169
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-05-31_p4_sn82014309_00414182926_1827053101_0192.json"
+        },
+        {
+            "object_ids": [
+                32,
+                9
+            ],
+            "headline": "FOR SALE OR RENT,",
+            "article": "THAT well known pleasant situation, for N merly the residence of Capt. Stone, half mile east of this village. The house, gardens, fruit, Sc. are we'll calculated to ac- commodate two families. Any one wishing to occupy will please call on ELIADA PECK near the premises.\n\n Litch6eld, May 16, 1927. 48",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3023,
+                    "y0": 4436,
+                    "x1": 3796,
+                    "y1": 4500
+                },
+                {
+                    "x0": 2983,
+                    "y0": 4510,
+                    "x1": 3870,
+                    "y1": 4854
+                }
+            ],
+            "bbox": [
+                2983,
+                4436,
+                3870,
+                4854
+            ],
+            "full_article_id": 10,
+            "id": "10_1827-05-31_p4_sn82014309_00414182926_1827053101_0192.json"
+        },
+        {
+            "object_ids": [
+                24,
+                10
+            ],
+            "headline": "Pe0rI TOOth POe0der.",
+            "article": "This celebrated Powder needs no recom- mendation-every gentleman and lady should be in the constant use of it, if they wish to preserve their teeth from decay, and have them appear of a beautiful pearly whiteness Price 25 cents box.\n\n Sold 6y W. & s. BUEL and HENRY PHELPS.\n\n ID. CLAY. November 21, 1926. eow1y25",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3075,
+                    "y0": 1217,
+                    "x1": 3756,
+                    "y1": 1287
+                },
+                {
+                    "x0": 2983,
+                    "y0": 1297,
+                    "x1": 3870,
+                    "y1": 1699
+                }
+            ],
+            "bbox": [
+                2983,
+                1217,
+                3870,
+                1699
+            ],
+            "full_article_id": 11,
+            "id": "11_1827-05-31_p4_sn82014309_00414182926_1827053101_0192.json"
+        },
+        {
+            "object_ids": [
+                43,
+                12
+            ],
+            "headline": "District Of Woodbury, ss.",
+            "article": "- <>TO0dte COurt, MGy 21, 1897.\n\n 1STATE of JOHN PARISH, late of A Washington, deceased;-\n\n The Administrator represents the estate in solvent. and prays the appointment of com mssioners thereon-O Ordered, That commis- sloners to receive and examine the claims of the Creditors of the said Estate be appointed at the Probate Office in Woodbury on the Sd Monday of June. 1897. at 10 o'clock, A. M. ;- of which all persons in interest will take mo- tIce and appear if they see cause and be heard thereon. c. B. PHELPS, Jadge.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2326,
+                    "y0": 6088,
+                    "x1": 2824,
+                    "y1": 6135
+                },
+                {
+                    "x0": 2057,
+                    "y0": 6151,
+                    "x1": 2950,
+                    "y1": 6701
+                }
+            ],
+            "bbox": [
+                2057,
+                6088,
+                2950,
+                6701
+            ],
+            "full_article_id": 13,
+            "id": "13_1827-05-31_p4_sn82014309_00414182926_1827053101_0192.json"
+        },
+        {
+            "object_ids": [
+                47,
+                13
+            ],
+            "headline": "LITCHFIELD BOOK STORE. JUST RECEIVED, new supply of SCOTTS FAMILY BIBLE.",
+            "article": "\n\n SCOTTS FAMILY BIBLE,\n\n Sd Boston Edition, which will be sold at the lowest Boston pr- ces for cash or appoved credit. Hannah Moore's Works, vol. octave, with an excellent likeness of the celebrated au- thoress, and view of \" Barley Wood.'' do. in 8 vols duodecimo. Dwight's Travels. Cecil's Works. Jowetts Researches. Wolf's Journal. Opie's Illustrations of Lying. Sherwood's Stories on Church Chatechism.\n\n do Lady ofthe Manor.\n\n do Stories and Tales. Contributions ofQ. Q. by Jane Taylor. Fosters letters and essays.\n\n do on popular ignorance Scott's Letters and Papers Sismondi's Literature of South Europe Johnson's works complete Plutarch's Lives. Crabb's Synonymes. Locks Essays. Bucks Theological Die. Rev Thomas Scott's Works. Chautabrian's Travels. Hopkins Divinity, QuatrO, Octave, duodecimo, and pocket BI- BLES, common, extra and calf extra binding. X genera. assortment of LAW. MEDICAL. CLASSICAL. and SCHOOL BOOKS. A large supply of Ledgers, Jour nais, and Dag Books. A great variety. of small books, suitable for Sabbath Schools, and presents for children. An elegant assortment of standard works, bound in superb style, suitable for ''Iokens of Remembrance\" .,e Arrangements are made for receiving new works immediately after they issue from American Presses. Pen & Pocket Knives of the finest quality. Razors, famous Damascus blade -..- Scissors, very superior article --.... Quills, from cts to 62 1-2 cts per bunch Silver Pencil cases. Pocket Maps Table Bells. Wafer Stamps. ..~., Sand boxes, real Iignumvita. do Tin. Gunter's Scale and Surveyors compasses. Together with almost every article in the Book and Stationary line usually found in similar establishments. Companies or private individuals wishing to purchase libraries, are invited to call and examine the stock and prices before they go out of the county to trade. Country traders will be supplied with Walkdcn's Fine British Ink-powder, May nard & Moves do. Letter, Writing. and Wrapping Paper, and all kinds of School books as cheap as can be purchased in Hartford.\n\n Orders respectfully solicited, and books forwarded to any part of the county as cheap as though the purchaser were present to make his bargain.\n\n LitchReld. May, 1897. -",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3909,
+                    "y0": 3927,
+                    "x1": 4780,
+                    "y1": 4220
+                },
+                {
+                    "x0": 3881,
+                    "y0": 4144,
+                    "x1": 4791,
+                    "y1": 7090
+                }
+            ],
+            "bbox": [
+                3881,
+                3927,
+                4791,
+                7090
+            ],
+            "full_article_id": 14,
+            "id": "14_1827-05-31_p4_sn82014309_00414182926_1827053101_0192.json"
+        },
+        {
+            "object_ids": [
+                34,
+                14
+            ],
+            "headline": "HIGHLY INTERESTING TO THE\n\n AFFLICYED.",
+            "article": "FENHE Public are respectfully informed that\n\n N ANDERSON'S COUGH DROPS& ELECTORAL POWDERS have from an extensive usesfor years past, proved them selves to be one of the most valuable rem edies ever yet discovered for the cure of Coughs, Colds and other affections of the",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2989,
+                    "y0": 6683,
+                    "x1": 3825,
+                    "y1": 6770
+                },
+                {
+                    "x0": 2972,
+                    "y0": 6786,
+                    "x1": 3859,
+                    "y1": 7090
+                }
+            ],
+            "bbox": [
+                2972,
+                6683,
+                3859,
+                7090
+            ],
+            "full_article_id": 15,
+            "id": "15_1827-05-31_p4_sn82014309_00414182926_1827053101_0192.json"
+        },
+        {
+            "object_ids": [
+                35,
+                15
+            ],
+            "headline": "DANCING SCHOOL,",
+            "article": "MIR. FULLER,\n\n GRATEFUL for past favours, respect oa fully informs the inhabitants of this place that he proposes opening his school for the improvement of young ladies and gentlemen in polite manners and dancing. The school will be opened at Capt. Phelps Hall, on Sat urday, the 9th of June next, at o'clock in the afternoon for Ladies, and at for Gen tlemen. Twenty-four lessons constitute the quarter, part of which will be given in the morning. GT@Terms, $500.\n\n Lltchbcld, May, 18th. 1897. 4w48",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3081,
+                    "y0": 3744,
+                    "x1": 3733,
+                    "y1": 3814
+                },
+                {
+                    "x0": 2989,
+                    "y0": 3836,
+                    "x1": 3870,
+                    "y1": 4414
+                }
+            ],
+            "bbox": [
+                2989,
+                3744,
+                3870,
+                4414
+            ],
+            "full_article_id": 16,
+            "id": "16_1827-05-31_p4_sn82014309_00414182926_1827053101_0192.json"
+        },
+        {
+            "object_ids": [
+                39,
+                49,
+                16
+            ],
+            "headline": "From Lord sufieId's Pamphlet of the Game\n\n Laws,\n\nREMARKARTE CRLMTNAL.",
+            "article": "REMARKABLE CRIMINAL.\n\n Green was born of poor parents, and had little or no means of education. He was oftall stature, very great bodily strength, of surprising ingenuity, and of undaunted courage. At very early age he commen- ced the business of poacher, tempted on the one hand by his wants, and on the oth- CT, by the \"wages of iniquity''-the price offered for game, the abundance in his neighborhood, and the facility of taking, and disposing of it without detection. By snaring, which for some time he prac- tised with success, eluding the vigilance of tL\" gamekeepcrs by his activity and skill, he acquired sufficient means to provide him self with gun. This gun was soon after wards heard at night in one of the woods near Gunton. One of the principal keep CTS instantly proceeded to the spot, as usu- al, for the purpose of reconnoitering' the enemy, and finding only one man, he did not summon his assistantS, but advanced upon Green alone. As it happened, in this keeper Green found man of equal prowess, and of maturer nerve, which may be easily immagined, when the fact is sta- ted, that some years afterwards (at the age of 65) this same keeper, in single com bat, which lasted nearly an hour with a very desperate character, and powerful man, only half his own age, finally over powered his antagonist, and made him prisoner. A similar fate attended Green. He was taken with his gun and pheas- ant in his possession, and committed for short term ofimprisonment, of in the house of Correction at Aylesham. There he remained very few days, before his in- genuity suggested some means of escape, of which he avaied himself but he was very soon retaken, and he remained in safe confinement till the term expi- red. The conflict which he maintain ed so manfully with a veteran, and the circumstance of his breaking prison, rem dered him in some degree notorious and and it is to be presumed that he did not afterwards find it easy to gain employment. Heassociated with other idle and dissolute persons and whether he resumed his halo its of poaching or not, he committed a. mother offence, viz,-thst of breaking open watch-maker's shop. He was tried for the burglary, convicted, and condemned to he hanged, but the sentence was commuted for transportation. While he was await ing the executution of his sentence, he twice made his escape from the Castle of Norwich. He effected it the first time in the following extraordinary man. ncr.\n\n Between his apprehension and commit ment, he contrived to have an iron skew CT tied up within tail which he had worn similar to those still frequently worn by sailors. With this skewer he picked a a hole through thu. wall of his cell, which was one of those furtherest from the groundin this lofty building. The hole four feet below the roof of the castle, and as am informed by MT. Johnson, the pre- sent keeper of that prison, from his own observation, the size of the aperture meas- ured only l2 inches by 9. He cut his bed- ding into shreds, and bound them round his body. He was then heavily ironed, yet he crept through this small space and contrived to reach the roof four feet above him, probably, as it is supposed, pulling himself up to it by means. of one of the shreds of the bedding, which he musthavo previously thrown round one of the bat dement's upon the edge oft the roof. This place of egress was immed :ately over paved courtyard {: and, to use the keep CTS own words, from whom I received the account, had Green missed stays, he must have fallen upon the pavement, and have been dashed to pieces. Having tra- versed the roof to the opposite side of the castle, he lowered himself down to the ground he had then to climb over some very shigh railing, covered with tenter hooks 1; but he escaped, and finally found his way to comrade in the city of Nor wich, as it has been believed, who filed off his irons thus he was set at complete lib- erty. Whether he was re-taken or not before he had Committed fresh offence,I do not remember; but he was certainly a. gain in Norwich castle about two years af- terwards, and again escaped. The second escape was effected by means of key with which another prisoner had been fur nished. On this occasion, he relieved himself from his irons by the good luck, as he termed it, of finding the back spring of knife in his cell, or in the airing yard ,and of this he contrived to make saw. Hav- ing once more reached the part of the roof of the castle, by the help of rope made as before of ssme shreds of his blanket, he lowered himself down upon the roof of the",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 262,
+                    "y0": 383,
+                    "x1": 1143,
+                    "y1": 475
+                },
+                {
+                    "x0": 268,
+                    "y0": 468,
+                    "x1": 1075,
+                    "y1": 515
+                },
+                {
+                    "x0": 256,
+                    "y0": 474,
+                    "x1": 1149,
+                    "y1": 5941
+                }
+            ],
+            "bbox": [
+                256,
+                383,
+                1149,
+                5941
+            ],
+            "full_article_id": 17,
+            "id": "17_1827-05-31_p4_sn82014309_00414182926_1827053101_0192.json"
+        },
+        {
+            "object_ids": [
+                40,
+                17
+            ],
+            "headline": "CI0y's StOno0ch BGtters.",
+            "article": "They will he found, in all cases of the fol- lowing description, to give relief-nansea, vomiting, heartburn, costiveness, weakness at the breast, pain in the stomach, loss of ap- petite, and all other simptoms of indigestion and hatulence, and as a nervous cordial is not to be surpassed by any thing-Price s5 cents a hox",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3092,
+                    "y0": 800,
+                    "x1": 3773,
+                    "y1": 852
+                },
+                {
+                    "x0": 2978,
+                    "y0": 869,
+                    "x1": 3870,
+                    "y1": 1207
+                }
+            ],
+            "bbox": [
+                2978,
+                800,
+                3870,
+                1207
+            ],
+            "full_article_id": 18,
+            "id": "18_1827-05-31_p4_sn82014309_00414182926_1827053101_0192.json"
+        },
+        {
+            "object_ids": [
+                18
+            ],
+            "headline": "",
+            "article": "LVROM Litchfield to New York--by Steam\n\n A Boat John Marshall-through in one day-fare S3 1-2-by line stages, to meet the boat at Norwalk-leaving Litchfeld Mon days, Wednesdays and Fridays, at 9 A. M. through Woodbury, Newtown and Bridge port and New-Y ork, Tuesdays, Thursdays and Saturdays. at A. M. for Litchfeld, un- til the 1st May-after that at A. M. 6m46",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2978,
+                    "y0": 2006,
+                    "x1": 3870,
+                    "y1": 2413
+                }
+            ],
+            "bbox": [
+                2978,
+                2006,
+                3870,
+                2413
+            ],
+            "full_article_id": 19,
+            "id": "19_1827-05-31_p4_sn82014309_00414182926_1827053101_0192.json"
+        },
+        {
+            "object_ids": [
+                19
+            ],
+            "headline": "",
+            "article": "MA A Mare Colt, one year old, C1M \"A of dark gray, broke in- Ea@A to my enclosure about the 18th N YI4 instant. The owner is request sa=sz.s = ed to prove property, pay char ges, and take her away.\n\n .@'- BENJAMIN GkISWOLD. Litchfield, Milton Society, May ss, 1897.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2057,
+                    "y0": 6723,
+                    "x1": 2944,
+                    "y1": 7073
+                }
+            ],
+            "bbox": [
+                2057,
+                6723,
+                2944,
+                7073
+            ],
+            "full_article_id": 20,
+            "id": "20_1827-05-31_p4_sn82014309_00414182926_1827053101_0192.json"
+        },
+        {
+            "object_ids": [
+                11,
+                20
+            ],
+            "headline": "CLAY'S Hck Ointment,",
+            "article": "TOR pIeasantness, safety, expedition, case,\n\n N and certainty, is infinitely superior to any other to cure that tormenting disorder Price s cents per box.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3126,
+                    "y0": 400,
+                    "x1": 3733,
+                    "y1": 584
+                },
+                {
+                    "x0": 2983,
+                    "y0": 606,
+                    "x1": 3865,
+                    "y1": 784
+                }
+            ],
+            "bbox": [
+                2983,
+                400,
+                3865,
+                784
+            ],
+            "full_article_id": 21,
+            "id": "21_1827-05-31_p4_sn82014309_00414182926_1827053101_0192.json"
+        },
+        {
+            "object_ids": [
+                27,
+                25
+            ],
+            "headline": "From the Westchesier Gazette.",
+            "article": "Travelling beagars.-Every one knows the evil of supporting these nuisances upon the ommunity in strolling idleness, yet no one interferes to check its prevalence, or expose the glpri ing impositions which are daily practised. A short time ago, one of these vagabonds called at this office 1; his countenance was strongly marked with intemperance, and his scarified nose and bruise swollen eyes, gave signs of his recent carousal he said his name was Christian Hynes, and exhibited paper stating that he had been burnt out some- where at the west, with Mr.. Westford to certify the fact; to which was added the names of several reverend gentlemen in in the city of New York, written with a pencil, and apparently by the same hand 5 but this was teo evident an imposition to escape detection. We might mention a number ofinstances more, with which no doubt some of our readers are acquainted, would exceedingly darken the hue of hu- man depravity.\n\n Under this head it may be we'll to men, ton, that company ofill-favoured stroll- ing wretches, from '15 to 20 in number, men, women and children miserably cov- cred with remnants of blankets, quilts, and cast-off clothes, passed through this village on Wednesday of last week, and en- camped on the turnpike near Sparta The children were despatched to solicit money, &c. in the neighborho od--with which gallon of whiskey was purchased for the company. On being questioned, a young female said, they aoere moOing from Delhi to NeaO Virginia. The next morn- ing some of the women were scarcely able to walk from the effect of the nights de- bapch; but with the help of their half starved nag and crazy vehicle, Ia sort of apology for waggon) they pursued their journey. Good ribdance.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1280,
+                    "y0": 2189,
+                    "x1": 1932,
+                    "y1": 2242
+                },
+                {
+                    "x0": 1165,
+                    "y0": 2258,
+                    "x1": 2052,
+                    "y1": 4374
+                }
+            ],
+            "bbox": [
+                1165,
+                2189,
+                2052,
+                4374
+            ],
+            "full_article_id": 26,
+            "id": "26_1827-05-31_p4_sn82014309_00414182926_1827053101_0192.json"
+        },
+        {
+            "object_ids": [
+                37,
+                28
+            ],
+            "headline": "LIME! LIME! E. H. DENISON",
+            "article": "\"I ILL receive weekly from the Kiln, W fresh Lime of the first quality. and at a very low price. Not more than the gate fee will be added to the Canaan and Sheffield wholesale price.\n\n Norfolk, April, 1927. tf4S",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3058,
+                    "y0": 2435,
+                    "x1": 3802,
+                    "y1": 2602
+                },
+                {
+                    "x0": 2983,
+                    "y0": 2607,
+                    "x1": 3876,
+                    "y1": 2928
+                }
+            ],
+            "bbox": [
+                2983,
+                2435,
+                3876,
+                2928
+            ],
+            "full_article_id": 29,
+            "id": "29_1827-05-31_p4_sn82014309_00414182926_1827053101_0192.json"
+        },
+        {
+            "object_ids": [
+                33
+            ],
+            "headline": "",
+            "article": "Citizens of Philadelphia have given pieces of plate to Messrs. Hamilton & Henderson, of Mississippi, for rescuing certain kidnapped coloured children.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2074,
+                    "y0": 3338,
+                    "x1": 2973,
+                    "y1": 3551
+                }
+            ],
+            "bbox": [
+                2074,
+                3338,
+                2973,
+                3551
+            ],
+            "full_article_id": 34,
+            "id": "34_1827-05-31_p4_sn82014309_00414182926_1827053101_0192.json"
+        },
+        {
+            "object_ids": [
+                36
+            ],
+            "headline": "",
+            "article": "Emancipation.-The Rev. Robert Cox, minister of the Methodist Episcopal church, died in Suffolk Co. Virginia, on the 10th ult. In his will he made provis- ions for emancipating all his slaves-up- wards of 30, and for giving each hand some sum of money. He had offered to transport them to Africa during his life, but they chose to live with him and recieve wages.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2074,
+                    "y0": 2818,
+                    "x1": 2961,
+                    "y1": 3311
+                }
+            ],
+            "bbox": [
+                2074,
+                2818,
+                2961,
+                3311
+            ],
+            "full_article_id": 37,
+            "id": "37_1827-05-31_p4_sn82014309_00414182926_1827053101_0192.json"
+        },
+        {
+            "object_ids": [
+                38
+            ],
+            "headline": "",
+            "article": "1he too praying sabbath scholars. Two little girls of one the junior classes, who had been taught by their teacher to repeat the Lords prayer, were desired to ask their mother to let them say it at night. when they went to bed which they ac- cordingly did. The first week their solici- tations were in vain, the mother always",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1160,
+                    "y0": 6614,
+                    "x1": 2041,
+                    "y1": 7056
+                }
+            ],
+            "bbox": [
+                1160,
+                6614,
+                2041,
+                7056
+            ],
+            "full_article_id": 39,
+            "id": "39_1827-05-31_p4_sn82014309_00414182926_1827053101_0192.json"
+        },
+        {
+            "object_ids": [
+                41
+            ],
+            "headline": "",
+            "article": "7He forgiUing boy.-In a school at Youghal, an instance lately occurred, in the masters accidental absence, ofono boy being provoked to strike another. On hearing the complaint, the master deter mined on punishing the culprit, when the aggrieved boy entreated pardon for the offender. On being asked why he inter- posed to prevent so just punishment, he saidAf was reading in the New esta- ment lately, that Jesus Christ said we should forgive our enemies, and I wish to forgive him, that he may not be punished for my sake\" This Christian plea was too powerful to be resisted. The offend CT was pardoned, and the parents of the poor boy were highly pleased at the cir cumstancc. r",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2069,
+                    "y0": 1903,
+                    "x1": 2956,
+                    "y1": 2785
+                }
+            ],
+            "bbox": [
+                2069,
+                1903,
+                2956,
+                2785
+            ],
+            "full_article_id": 42,
+            "id": "42_1827-05-31_p4_sn82014309_00414182926_1827053101_0192.json"
+        },
+        {
+            "object_ids": [
+                42
+            ],
+            "headline": "",
+            "article": "finding some excuse to put them off; but the urgent importantly of the children at last overcame her, and she not only con- sented to hear them saytheir prayers but as if convinced, by their example, of her own improper conduct, in neglecting du- ty so important, she knelt down and pray ed for herself also, and continued to pray with the children every night-though, as the little creatures remarked, they had never seen her do such thing before.\n\n 4 mother taught to read 6y her son. |\" With Pleasure,'' says MT. James Griffin, of Portsea, communicate to you fact, which came under my notice short time since, of boy in my class. This lad I have observed for his attention to his teacher, and general steadiness of behav- four at school. One sabbath, after he had repeated his lesson to me, asked him if he thought he had receivd any 6enef from attending the school He hesitated some time, and then answered, with pleasing modesty, |\" If have not, sir, one of my relatives has, for since have belonged to the sabbath school have got tickets e. nough to buy a Testament, and I took it home, and taught my mother her letters, and now she can read any chapter in the Bible.'' -",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2069,
+                    "y0": 383,
+                    "x1": 2956,
+                    "y1": 1864
+                }
+            ],
+            "bbox": [
+                2069,
+                383,
+                2956,
+                1864
+            ],
+            "full_article_id": 43,
+            "id": "43_1827-05-31_p4_sn82014309_00414182926_1827053101_0192.json"
+        },
+        {
+            "object_ids": [
+                46,
+                44
+            ],
+            "headline": "ROTATION, Vt. May 15.",
+            "article": "RoYALToN, Vt. May 15.\n\n lmposter.-One day last week, person called on the editor of this paper, who had his right arm amputated at the shoulder, and solicited charity, as an unfortunate disabled member of the profession.-Said his name was Clark-that his parents re- sided in Burlington in this state-that he served his apprenticeship with MT. Hill, of Concord, N. H--that he lost his arm in December last, in Lancaster, Penn. by a swelling-that through the assistance of the Typographical Society of Philadel- phia, he obtained passage to Portsmouth N. H. from whence he travelled on foot, 'subsisting on the charity of the community and was making his way to his parents. He received his mite of charity, and de- parted, with many professions of thank fitness. Visiting the town, in an opposite direction from that which he manifested so much anxiety to reach, as the residence of his parents, who should we meet, in merchants store, but this poor unfortunate, and pretended disciple of Faust. On ac- costing him and observing, that he must have lost his way, he coolly observed, that :\" he supposed he knew where he was,\" and immediately took himself off. We have since learned, that his stories rela- tive to himself are various, suited to the occasion-that at other places in the vil- lage he pretended to have been lieuten- ant in the battle Of Plattsblrgh, where he lost his arm, &c. He is evidently an im- poster and though unfortunate in the loss of a limb, is unworthy the charity of the community. inasmuch, as we have good evidence to- believe, it is sought mainly to gratity thirst for spirituous liquors. We feel it duty to give this informa- ton that the charitable in this vicinity, and the profession in particular, may not again be imposed on by his appeals to their sympathy and charity.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1474,
+                    "y0": 4413,
+                    "x1": 2024,
+                    "y1": 4466
+                },
+                {
+                    "x0": 1160,
+                    "y0": 4425,
+                    "x1": 2052,
+                    "y1": 6575
+                }
+            ],
+            "bbox": [
+                1160,
+                4413,
+                2052,
+                6575
+            ],
+            "full_article_id": 45,
+            "id": "45_1827-05-31_p4_sn82014309_00414182926_1827053101_0192.json"
+        }
+    ]
+}

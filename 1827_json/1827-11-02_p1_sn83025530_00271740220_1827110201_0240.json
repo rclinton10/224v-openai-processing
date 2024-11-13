@@ -1,0 +1,582 @@
+{
+    "lccn": {
+        "title": "Delaware journal.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2638-6917",
+        "lccn": "sn83025530",
+        "start_year": "1827",
+        "end_year": "1832",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [
+            "sn85042477"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn83025530",
+        "edition": "ed-01",
+        "date": "1827-11-02",
+        "pages": [
+            "seq-3",
+            "seq-1",
+            "seq-2",
+            "seq-4"
+        ]
+    },
+    "page_number": "1",
+    "scan": {
+        "lccn": "sn83025530",
+        "edition": "ed-01",
+        "date": "1827-11-02",
+        "page": "1",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-11-02/ed-1/seq-1.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-11-02/ed-1/seq-1/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-11-02/ed-1/seq-1/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn83025530/00271740220/1827110201/0240.jp2",
+        "height": 5544,
+        "width": 3568
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 68,
+                "y0": 1264,
+                "x1": 840,
+                "y1": 2019
+            },
+            "class": "article",
+            "raw_text": "CoNconp.-Dr. Thomas Adams, P. M.\nBR1DeEv1LLE.-HenryC Cannon, T. M.\nMILToN-Mr. Arthur Milby.\n\n\nFRANKFoRp.--Mr Isaiah Long.\n\n\nDAGsBoRouGH.--Dr. Edward Dingie.\nGEoRGB TowN.-Mr. Joshua 5. Layton.\nLEwEs-H F. Rodney, P. M.\nMlLFoRp.-Mr Joseph q. Oliver.\nFRgpER1cA.-J. Emerson, P. M.\nCAmpEN.-Thomas Wainwright, T. M.\nDovER.-John Robertson, Esq.\nSMYRNA-Samuel H. Hodson, Esq.\nCANTwELLs BRIDeE.--Manlove Hayes, M.\nThomas Harry, 7. NJ.\nSUMMIT BRIpGE.-John Clement, +. NJ\nWARWICK, Md.-John Moreton, T. M.\nSubscribers living in the vicinity of the residence\nST these Agents, may pay their subscription money\nd them, they being authorized to receive IT. and te\nrive receipts.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 311,
+                "y0": 1212,
+                "x1": 572,
+                "y1": 1257
+            },
+            "class": "headline",
+            "raw_text": "AGENTS..",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 51,
+                "y0": 2091,
+                "x1": 853,
+                "y1": 2504
+            },
+            "class": "article",
+            "raw_text": "Persons wishing any sort Of PRINTING done' Win\n\n\nneatness, accuracy. and dispatch ADVERTISEMENTS\nInserted or SUBSCRIPTIONS paid where there are\nno Agents appointed in their nelghbourhooa 70 re-\nccive them, will please apply, or directto II. roHer\nand Son. No. 97' Market Street, Wilmington.\nAn communications, not of the above character,\n\n\n10 be addressed to NJ Bradford, Editor Of the Della\nware Journal, Wilmington.\nThis arrangement is made for the more regular\nand prompt execution OF business.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 320,
+                "y0": 2035,
+                "x1": 576,
+                "y1": 2079
+            },
+            "class": "headline",
+            "raw_text": "NOTICE..",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 47,
+                "y0": 857,
+                "x1": 832,
+                "y1": 1187
+            },
+            "class": "article",
+            "raw_text": "TIE DELaW.aRE JOURNAL is pub\nHshed on Tuesdays aud Fridays, at four dollars\nner unnun, tzoo dollars every si1 months IN ad-\nvdalce.\n\n\nadvertisements inserted on the usual terms\nVis: One dollar for four insertions Of sLnteen\nlines. and SO IN proportion for every number et\nadditional lines and insertions.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 246,
+                "y0": 775,
+                "x1": 637,
+                "y1": 836
+            },
+            "class": "headline",
+            "raw_text": "CONDITIONS.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1667,
+                "y0": 905,
+                "x1": 2478,
+                "y1": 5055
+            },
+            "class": "article",
+            "raw_text": "they first entered the earth it may be inferred that\ntheir descent and ascent through the ground are\nperpendicular. The depth TO which they go is\nuncertain they have been dug up near the bottom\nof deep wells, and have not unrequently appeared\nin their ascent in the cellars of houses, erected\nwhere trees had previously stood. At their last\nperiodical return in 1917, first observed them\ncoming up about the middle of the 9Th month\"; On\nthe 25th Of the same month they made their ap-\npearance in great numbers, after 1earan ram. The\nparticular moment of their ascent depends much on\nthe state Of the weather, and in this they manifest\na surprising instructive knowledge, on which their\npreservation or destruction turns for to rid them\nselves successfully of their shell requires great Ell\nfort ;-if it be cold, they become chilled, and are\nthus deprived of the necessary powers for its ac-\ncompllshment if it be dry, their shells become\nspeeddIy hardened and resist their utmost strength\nin either case the result is fatal. They seem to\nforesee all this and therefore, when they arrive at\nthe surface if the weather be found unfayourable,\nthey build kind of roof over their holes, and thus\nprotected, they remain in them, until aodrm and\nmoist air prevails, when they break through, and\nsuddenly show themselves in great numbers.\n\n\nThe whole term of their aerial existence lasts\nbut about one month, during which time they provide\nfor continuance of the species, and then disappear.\nfirst discovered the females singing the trees 10\ndeposit their egg, about the 9th OF the 9th MONTH\n\n\n\n\n\ntrees there are other than their being easl\nly penetrated for the eggs lie in the wound seve-\nraj weeks before they hached, and if the bran\nches should survive the operation would be efiec-\ntually imprisoned by the closing OF the incislon,\nwhich | observed to take place in some very MrJty\nyoung peach trees in my orchard Hence, these sa-\ngacious insects are directed in their choice, SO as\nto avoid generally, such fatal result and they are\ncareful to nfct such wound as kiHs the twlg and\nthus the forest and other trees are seen, IN the To-\ncust-years with the extremtes of their branches\nwithered and dead. These being broken Oft by the\nwind, carry the young progeny with them to the\nearth which they speedily penetrate and commence\ntheir long subterraneous journey.\n\n\ni These insects, both in their ascent and decent\ntravel alone every individual is thus insulated fron\n\n\nall the rest of his tribe and it is not the least sur\n\n\nprsing part of the history of this extraordinary an\n1imal that the whole family, although thus acting\nand moving each one solitarilv and without concert\nshould be able TO together again, alter an In\n\n\nterval Of seventeen years. and arrive at the sa'nt\nplace, almost in the same moment OF time\n\n\nNo feature in all the works of nature, is more\nstriking than the extensive provision made by the\n\n\ngreat .aathor for the continuance of the different\n, species of both animals and vegetables. Thus the\n\n\nhumber of seeds in one plant oftobacco s said to ex\n\n\nceed 800 900; mliliioa found on single leaf O\n\n\nfern and the roe of Goldfish is computed TO ou\n\n\nnumber the whole of the human race! Bnt whilst\nInfinite Wisdom has thus profusely provided tor the\n\n\nperpeuation and increase of all the families of the\na earth, the same wisdom is equally displayed in es\n. stabng such restraints and checks as eliectuailJ\n\n\nprevent any one tribe from multiplying IN such ;\n\n\nmanner to endanger the existence OF another; thus\nlarge proportion of the seeds vegetables urnshe\n\n\nprovision for the animal kingdom, whilst various\ne species of ANIMALS subsst by the mutual destruction\n: of each other:\n\n\nn -\" Air, earth and ocean to astonished day.\n\n\ng One scene of blopd one mighty tomb display\n. From h,ngers arm the shafts of death are hurled,\n\n\nAnd one great slaughter house the warning world\nIt Myriads of insects prey upon plants, and other\n\n\nagain upon these depredaors. The economy o\nnature presents in many cases, surprising traits\nh In some instances; as one insect deposits II\neggs, another insect pierces this egg, and deposn\nIN within it another egg, and the first is hached VIII\nD. the last in its body The large winged grasshop\nOf per- saws late writer, which hutters with s\nID much yiyacity through our meadows during the au\nn tumn. feeds upon vegetable matter, and deposits 1t\n\n\neggs upon vegetables for the purpose OF beng sup\nI'd ported until maured. Before the grasshopper take\nwing the icneumon aighs upon its body, and thrust\ne under its wing number otits eggs. These siowi\nhe acquire perfection and become living worms an\nhe feed upon the body Of the hapess grasshopper' u\nS, til themselves are ready to take wing 80 admir- ra\ne bly, do they perform their office, that they DO nc\nnjure the vial organs of the insect they are inter\ne nally devouring, until they are just ready to chang\nN their state, and at the proper season, hundreds\nr grasshoppers, in thi, condition. have just streng\nlie enough remaining to tuter to tree or fence' AM\nl. with dying effort fix their hooked feet 50 hrmiy\nis as to retain their Postonsong after death EXAMINE\n\n\ntheir bodies after death, and you find an empty smell\nl. or one filled with large and active worms, just read\nis to burst their coverings and become winged insects.\ne We have another case analogous to the above\nIN furnished by the history of the common pea OF ou\n\n\ngardens In every embryo pea an insect lays Ill",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 956,
+                "y0": 602,
+                "x1": 2179,
+                "y1": 698
+            },
+            "class": "headline",
+            "raw_text": "FRIDAY, .V'orember 2, 1927.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2477,
+                "y0": 905,
+                "x1": 3309,
+                "y1": 5055
+            },
+            "class": "article",
+            "raw_text": "often acted before u.s. we oAgnt not io uraw cur\ncusions at variance with Infinite Wisdom and oenes\nViolence sslt is part we see, and not the Wnole\nand vet we may see enough to convince us 'hat\nthis state of things tends to maintain that oalancc\ncreation which is essential to the welfare OF every\npart. and we may safely infer that in this respect,\n8 all partial evil is universal good. me whoie\ncreation is linked together, and each part IS mades\nnot for itself alone, but to contribute to me oenen.\nand success of an extended plan that embraces alt\nthe kingdoms Of nature, and all the iamlles OF 'he\nearth.\n\n\nNeither is proud man, though lord OF creation.\nexempted from the uniyeral law of that nature OF\nwhich he forms link. He 700 has his checks\nthe grave opens to receive him In every stage OF DIS\nexistence. Of all that are born OF our race one\nfourth dies the first year two only, IN hve, ATTAIN\nthe sixth and before the twenty-second year, one\nhalt of the generation is consigned to kindred dust\nand thus we become, in our turn, food for other\ntribes:\n\n\n\"Stoop selfish pride survey tiny kindred forms,\n\n\nThy brother emnets and tiny sister worms !\n\n\nWithout the check to the increase of the human\nrace produced by the invasion OF death, IN the us,-\nal way. even life would cease to be blessing,\nand a more dreadful catastrophe would Don foilow\nWithout death, the posterty Of two persons only\nmight amount to than million IN less than TWO\ncenturies. In a very few years the human race\nwould be increased three fold and in little more than\n| \"A\n\n\nton with all the resources Of the sea- would not be\n\n\ncapable of furnishing food for the numbers that\n\n\nwould accumulate, fixing the boundaries OF human\n\n\nlife at eighty years.\n\n\nBut man, in addition to the necessary checks hXed\n| by divine appointment to prevent TINS operilo\" OF\n\n\nnumbers has established others, destructive OF Als\n\n\nhappiness. The brute preys upon other species,\n\n\nand spares his own but man makes trade OF KILL\n\n\ning his teow-man. and war; with is attenoahs'\n\n\npestilence and famine, sweep miiiions lroln lhe.\n\n\nearth. Ii has been urged by some that war IS ne\n\n\ncessary to preserve the balance of creation but\n\n\nso far from this it has destroyed it, and the conse-\n\n\nouence has followed, that the largest part OF the\n\n\nearth remains uncnltiv and without inhaoltants.\nTo war. as one great cause of the deficit in popu-\n\n\nlaton, may be added the despotic forms OF govern\n; ment which man has established buildlhg cues,\ndeserving agriculture, and thus exchahgns sa,ury\n\n\nlabour for luxurious and dleness lastly lte'n-\nperance claims conspicuous place among the caus.\nes originating with man, which scatter misery and\n\n\ndeath in their most horrid forms, among the human\nfamily.\n\n\nNor does the interruption to the general system\nstop here. Although bis claim over the animal\ntribes is limited by his wants and comforts, man\n\n\ncommits havoc among them for his 'ssport or gust.\nIl Thus he wages unceaslng hostlhtes against inc\nfeathered tribes Birds feed on insects, and serve\n\n\nas checks to their great increase, and were not\n\n\nfor the cruel destruction made OF these little scav-\nengers they would flock around us, and rid oHr\nfruit trees of enemies which we cannot cope WIN,\nNotwithstanding all ingenuity and skill. Bur\nfrom this cause we lose much of our most delicious\nfruits, and are thus admonshed OF our criminal IN\nreference with the established order OF nature.\nThus the further proceed in the study OF ma\nture the most clearly shall discover the \"strong\n\n\nconnexions. nice dependencies, that exist IN all\n\n\nthe parts, and between each part and the whole.\n\n\nThe necessities of each animal and plant have been\n\n\nconsulted and provided for by the Great Architect,\n\n\nand we are called to the contemplation OF the SUP\nect, as to source of deep instruction. by the hgn\ni est authority sc Consider the lilies OF the heida\nhow they grow they toll not neither DO they SPIN.\nand yet say unto you that Solomon al ms glory\nnot arrayed like one OF these nen1,u m as we\nh fowls of the air, for they SOW not, neither 90 they\n: spin nor gather into barns yet your heavenly ia\no ther feedeth them.\n\n\ni From the nob,est animal to the meanest reptile\nfeast is Spread and the preservation and balance o.\n> the whole so maintained and secured by the mighty\nIS pan. as TO leave nothing susceptible OF improve\nIS ment nothing to be re-modeiled; nothing 10 Dc\n! amended\n\n\nu have already exceeded the bounds intended, al\n\n\nthough have but glanced at the sup]ecl.i nave\n!. brouobt YOU to the thresh-hold only OF natures\nu temn1e hermit me to conclude by inviting you TO-\n: sten in examine each compartment and ENJOY the\nfI intellectual feast\n\n\n! Or;e;anl qnecdote-A comical fellow lately trar-\n\n\nellino in the stage through Connecticut and Masaa-\n\n\ncbusetts had for his companions very taciturn SET\n\n\nof fellows and to amuse himself he thrust his head\nout of the stage every man he met ana hailoWee'\nhurra for jackson! Astrange sound in ankey own\n\n\nPassing brick yard, he sent forth his accustomed\n:, vocGeration at Hodge, who let fly, in return, the\n\\ handful of clay he was moulding, which completely\n= ,,,ol,ad the countenance of the unfortunate wag",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 2936,
+                "y0": 593,
+                "x1": 3261,
+                "y1": 681
+            },
+            "class": "headline",
+            "raw_text": ".Vo. Sc.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 839,
+                "y0": 909,
+                "x1": 1672,
+                "y1": 5051
+            },
+            "class": "article",
+            "raw_text": "h'oteHbo, W VHt. It00OHS, W.. IL. TTeS2denE.\nCONCLUDED.\n\n\nTo paint out the extent Of the Animal Kingdom\non our GLOBE is no more within the finite powers of\nman, than to count the myriads of worlds diffused\nthrough imitable space. We readily trace many\nOF the tribes but descend in the scale of mag\nnitude, the number mutipes and can discern\nby the aid OF glasses. new world of beings, which\nthe human eye has never seen, nor the heard In\na single drop of water perceived thousand or\nganzed bodies and improvements in the Micro\nscope may hereafter reveal thousands more, to which\nthe former may appear like great whales sporting in\nthe waves of the ocean\nThe study OF animated nature, besides being in |\nseparately connected with our wants and comforts, i\naffords vast range for intellectual action, and use\nfu contemplation. The structure and functions of\nanimals, as accommodated to their wants and the\ncircumstances in which they are placed, claim our\nparticular attention. The adaptation of their COW\nering to the temperature of the climate. we'll as\nof particular organs to particular necessities, strikes\nthe most superficial observer In the elephan. the\nshortness and stiffness of the neck, renders him in\ncapable of the necessary motion he, therefore, has\nproboscs, or trunk, which he uses with surprising\ndexterty. The crane. wanting web to her feet,\n\n\nunable TO swim for her prey she is therefore fur\nnished with long legs, neck and bill. for wading and\nfishing The bat, deriving no support from her legs\nand feet, is provided with remarkable hook at\nthe angle of her wing, by which she attaches her\nself TO trees. rocks, and takes her ght from this\nposition. The spider. having wings to pursue his\nprey. is accommodated with his web. The gossam-\ner SPIDER privileged beyond the rest of the family,\n, presents an exception in this case He darts forth\n+ thread. throws hirsel into the air, and rides in\na balloon. The snail's viscid matter, secreted from\nr her body, serves in the place Of apparatus for\nclimbing. The muscle. otherwise the sport of eve\n\n\nnv spins thread and moors herself to fixed OBJ\n\n\niects. and rides like vessel at anchor The Daut-\n, lus, when alb ut to take sail discharges quanti-\nty of water from it's little she'll. and bv substituting\n\n\nair, renders itself lighter than the water: in this\n\n\nmanner it rises to the surface erects its arms, ex-\n\n\npands membrane between them. and is thus ,ri-\n\n\nven before the wind like vessel under sail : whilst\n\n\ntwo other limbs. that hang the sides OF the shell\n\n\nserve for oars and rlltder, occasion requires. AT\nthe approach of storm. it lowers its sail. drws Its\n\n\narms into the shell, and reversing the former opera\n\n\ntion bvexcuding the air and receiving water, sinks\n\n\nto the bottom. Bv this extraordinary creature man.\n- kind. in their rude state. were taught, as is sup\n;; posed. the art of navigation hence the poet:\n\n\n! \"Lesrn of the little Nautilus to sail,\n\n\nSpread the thin and catch the driving gale\n+eI The herring law rule OF action, denOminated\n\n\nINSTINCT. which enables each species of the brute\n\n\ncreation to 'sill the circle ked by Heaven =\n\n\nfurnishes to the naturalist boundess region for the\n\n\nexercise IF intellect where his mind is alternately\nre excited with emotions of pleasure and admiration\non The ksome task to which the females of the wing\nnd ed tribe submit. week after week, with much care\n# and anxiety in thencubaton of their egss,the mar\nrage contract of pairs of the tribe to secure ht\n\n\nlabours of both parents, that of one being inconpe\n\n\ntent to satisfy ne cravings of a numerous brood\n\n\nuniformity in the manner of constructing their nests\n\n\nin birds Of the same speces-these, with NUMEROUS\nother striking examples of this extraordinary gilt\n\n\nbestowed on all animated nature from the nob\n,ck elephant to the worm and the insect and wonder\n\n\nfully adapted to the wants, defence and preservation\n\n\n.C .,l,, ,I,a1\n\n\ntruth of the Apostolic declaration, that sthe INV\n\n\nsibIe things of Col, from Il creation of the world\nate are clearly seen being understood by the things tina\nthe are made, even his eternal power and Godhead.\nuc- independently of actions which are purely IN\n\n\nstinctire there are those of a middle class, Whic\nNo. seem to be- in part the result of reflections pre-\n\n\nsenng strong plea against an exclusive cialm' 0\ncr- the part of man, to the noble faculty OF reason\nets The Beaver constructs dams large streams\n\". water, which, in cases, have long resisle\nfrosts and floods, and possessed durability sedor\nAN impaired TO such works by all the ingenuity OF man\nb. For this purpose the animal cuts off large trees, an\ne. as the labour of dragging them the ground to tn\n- projected site would be difficult or impossible,\n\n\nhas the address to fall them tozrards or INTO, IN\n\n\nzyater, By 7phch he is enabled 10 float them doom\no stream The Wasp cuts his prey into two parts\nlse. when too heavy TO be carried away whoe, ana I'll\nges Spider not having instruments to perform this ope\n\n\nration supplies the defect by avallng himself oil on\n\n\nof the mechanical powers for he has been see\nto construct an inclined ptane by dropping two pei\n\n\npendiculars, and running lines obtaquely, IRON on\nTO the other on these lines OF easy ascent, ne reat\nIL ly transported body, heavier than himself, to nj\nzee nest.\n\n\nthe ne history oi she e.euuI ~ ~ ro1ont ~\no' some extraordinary facts which seem to oexhbit III\n~ combined operation Of the gifts both of reheco\n\n\nand instinct",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1039,
+                "y0": 779,
+                "x1": 1442,
+                "y1": 832
+            },
+            "class": "headline",
+            "raw_text": "AN ADDRESS,",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -2
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 848,
+                "y0": 844,
+                "x1": 1650,
+                "y1": 932
+            },
+            "class": "headline",
+            "raw_text": "Delivsrea before The Delasvare academy Of Natural\n\n\nScience, By Van. Gibbons, M. d. President.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 107,
+                "y0": 4851,
+                "x1": 897,
+                "y1": 5267
+            },
+            "class": "article",
+            "raw_text": "RANAWAY from the Subscriber, some time since,\nalad named JAMES R. Towns, an apprentice TO the\nshoe-Making business. He is about 90 years old,\nwell grown for his age. Had on and took with him\nblue cloth coat and pantalets and blue surtou, to-\nsether with sundry other clothing. The above re-\nward will be paid to any person who will appre-\nlend said boy, together with reasonable charges if\nbrought home. All persons are forbid harbouring\nnm at their peril. JAMES SIMPSON.\n\n\nWilmington, Del. Oct 26, 1927. 55--4t",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 112,
+                "y0": 4768,
+                "x1": 888,
+                "y1": 4839
+            },
+            "class": "headline",
+            "raw_text": "Zen Dollars Reward.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 99,
+                "y0": 4504,
+                "x1": 888,
+                "y1": 4748
+            },
+            "class": "article",
+            "raw_text": "On Sunday week, Pocket BOOK, containing\nsmall sum ofmoney; near the Log Meeting House.\n4he owner by proving property and paying charges\ncan have the same by applying to\n\n\nWILLIAM ARMSTRONG;.\nGhristiaaa Hundred, Oct. 30h. 55-3t",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 263,
+                "y0": 4426,
+                "x1": 749,
+                "y1": 4492
+            },
+            "class": "headline",
+            "raw_text": "Was Found,",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": -1
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 2507,
+                "y0": 4686,
+                "x1": 3313,
+                "y1": 5211
+            },
+            "class": "article",
+            "raw_text": "Original .anecdote.-A comicai fellow lately tras'\nelng in the stage through Connecticut ana Massa.\nchnsetts. had for his companions very tacturn set\nOf fellows, and to amuse himself he thrust his head\nont Of the stage at every man he met and ha'lowet,\nhurra for Jackson! Astrange soundin Yankey Town.\nPassing brick yard, he sent forth his accustomed\nvociferaton at Hodge, who let fly, in return the\nhandful of clay he was moulding, WHICH completely\nmasked the countenance of the unfortunate wag'\nHe took in his bespattered face, when one OF bis tel\nlow travellers, who had not spoken tor hity miles,\nobserved, that man must be Ctoylte.\n\n\nN. Y. Advertiser.",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                12,
+                0
+            ],
+            "headline": "AGENTS..",
+            "article": "CoNconp.-Dr. Thomas Adams, P. M.\nBR1DeEv1LLE.-HenryC Cannon, T. M.\nMILToN-Mr. Arthur Milby.\n\n\nFRANKFoRp.--Mr Isaiah Long.\n\n\nDAGsBoRouGH.--Dr. Edward Dingie.\nGEoRGB TowN.-Mr. Joshua 5. Layton.\nLEwEs-H F. Rodney, P. M.\nMlLFoRp.-Mr Joseph q. Oliver.\nFRgpER1cA.-J. Emerson, P. M.\nCAmpEN.-Thomas Wainwright, T. M.\nDovER.-John Robertson, Esq.\nSMYRNA-Samuel H. Hodson, Esq.\nCANTwELLs BRIDeE.--Manlove Hayes, M.\nThomas Harry, 7. NJ.\nSUMMIT BRIpGE.-John Clement, +. NJ\nWARWICK, Md.-John Moreton, T. M.\nSubscribers living in the vicinity of the residence\nST these Agents, may pay their subscription money\nd them, they being authorized to receive IT. and te\nrive receipts.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 311,
+                    "y0": 1212,
+                    "x1": 572,
+                    "y1": 1257
+                },
+                {
+                    "x0": 68,
+                    "y0": 1264,
+                    "x1": 840,
+                    "y1": 2019
+                }
+            ],
+            "bbox": [
+                68,
+                1212,
+                840,
+                2019
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-11-02_p1_sn83025530_00271740220_1827110201_0240.json"
+        },
+        {
+            "object_ids": [
+                8,
+                1
+            ],
+            "headline": "NOTICE..",
+            "article": "Persons wishing any sort Of PRINTING done' Win\n\n\nneatness, accuracy. and dispatch ADVERTISEMENTS\nInserted or SUBSCRIPTIONS paid where there are\nno Agents appointed in their nelghbourhooa 70 re-\nccive them, will please apply, or directto II. roHer\nand Son. No. 97' Market Street, Wilmington.\nAn communications, not of the above character,\n\n\n10 be addressed to NJ Bradford, Editor Of the Della\nware Journal, Wilmington.\nThis arrangement is made for the more regular\nand prompt execution OF business.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 320,
+                    "y0": 2035,
+                    "x1": 576,
+                    "y1": 2079
+                },
+                {
+                    "x0": 51,
+                    "y0": 2091,
+                    "x1": 853,
+                    "y1": 2504
+                }
+            ],
+            "bbox": [
+                51,
+                2035,
+                853,
+                2504
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-11-02_p1_sn83025530_00271740220_1827110201_0240.json"
+        },
+        {
+            "object_ids": [
+                10,
+                2
+            ],
+            "headline": "CONDITIONS.",
+            "article": "TIE DELaW.aRE JOURNAL is pub\nHshed on Tuesdays aud Fridays, at four dollars\nner unnun, tzoo dollars every si1 months IN ad-\nvdalce.\n\n\nadvertisements inserted on the usual terms\nVis: One dollar for four insertions Of sLnteen\nlines. and SO IN proportion for every number et\nadditional lines and insertions.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 246,
+                    "y0": 775,
+                    "x1": 637,
+                    "y1": 836
+                },
+                {
+                    "x0": 47,
+                    "y0": 857,
+                    "x1": 832,
+                    "y1": 1187
+                }
+            ],
+            "bbox": [
+                47,
+                775,
+                832,
+                1187
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-11-02_p1_sn83025530_00271740220_1827110201_0240.json"
+        },
+        {
+            "object_ids": [
+                20,
+                4
+            ],
+            "headline": "FRIDAY, .V'orember 2, 1927.",
+            "article": "they first entered the earth it may be inferred that\ntheir descent and ascent through the ground are\nperpendicular. The depth TO which they go is\nuncertain they have been dug up near the bottom\nof deep wells, and have not unrequently appeared\nin their ascent in the cellars of houses, erected\nwhere trees had previously stood. At their last\nperiodical return in 1917, first observed them\ncoming up about the middle of the 9Th month\"; On\nthe 25th Of the same month they made their ap-\npearance in great numbers, after 1earan ram. The\nparticular moment of their ascent depends much on\nthe state Of the weather, and in this they manifest\na surprising instructive knowledge, on which their\npreservation or destruction turns for to rid them\nselves successfully of their shell requires great Ell\nfort ;-if it be cold, they become chilled, and are\nthus deprived of the necessary powers for its ac-\ncompllshment if it be dry, their shells become\nspeeddIy hardened and resist their utmost strength\nin either case the result is fatal. They seem to\nforesee all this and therefore, when they arrive at\nthe surface if the weather be found unfayourable,\nthey build kind of roof over their holes, and thus\nprotected, they remain in them, until aodrm and\nmoist air prevails, when they break through, and\nsuddenly show themselves in great numbers.\n\n\nThe whole term of their aerial existence lasts\nbut about one month, during which time they provide\nfor continuance of the species, and then disappear.\nfirst discovered the females singing the trees 10\ndeposit their egg, about the 9th OF the 9th MONTH\n\n\n\n\n\ntrees there are other than their being easl\nly penetrated for the eggs lie in the wound seve-\nraj weeks before they hached, and if the bran\nches should survive the operation would be efiec-\ntually imprisoned by the closing OF the incislon,\nwhich | observed to take place in some very MrJty\nyoung peach trees in my orchard Hence, these sa-\ngacious insects are directed in their choice, SO as\nto avoid generally, such fatal result and they are\ncareful to nfct such wound as kiHs the twlg and\nthus the forest and other trees are seen, IN the To-\ncust-years with the extremtes of their branches\nwithered and dead. These being broken Oft by the\nwind, carry the young progeny with them to the\nearth which they speedily penetrate and commence\ntheir long subterraneous journey.\n\n\ni These insects, both in their ascent and decent\ntravel alone every individual is thus insulated fron\n\n\nall the rest of his tribe and it is not the least sur\n\n\nprsing part of the history of this extraordinary an\n1imal that the whole family, although thus acting\nand moving each one solitarilv and without concert\nshould be able TO together again, alter an In\n\n\nterval Of seventeen years. and arrive at the sa'nt\nplace, almost in the same moment OF time\n\n\nNo feature in all the works of nature, is more\nstriking than the extensive provision made by the\n\n\ngreat .aathor for the continuance of the different\n, species of both animals and vegetables. Thus the\n\n\nhumber of seeds in one plant oftobacco s said to ex\n\n\nceed 800 900; mliliioa found on single leaf O\n\n\nfern and the roe of Goldfish is computed TO ou\n\n\nnumber the whole of the human race! Bnt whilst\nInfinite Wisdom has thus profusely provided tor the\n\n\nperpeuation and increase of all the families of the\na earth, the same wisdom is equally displayed in es\n. stabng such restraints and checks as eliectuailJ\n\n\nprevent any one tribe from multiplying IN such ;\n\n\nmanner to endanger the existence OF another; thus\nlarge proportion of the seeds vegetables urnshe\n\n\nprovision for the animal kingdom, whilst various\ne species of ANIMALS subsst by the mutual destruction\n: of each other:\n\n\nn -\" Air, earth and ocean to astonished day.\n\n\ng One scene of blopd one mighty tomb display\n. From h,ngers arm the shafts of death are hurled,\n\n\nAnd one great slaughter house the warning world\nIt Myriads of insects prey upon plants, and other\n\n\nagain upon these depredaors. The economy o\nnature presents in many cases, surprising traits\nh In some instances; as one insect deposits II\neggs, another insect pierces this egg, and deposn\nIN within it another egg, and the first is hached VIII\nD. the last in its body The large winged grasshop\nOf per- saws late writer, which hutters with s\nID much yiyacity through our meadows during the au\nn tumn. feeds upon vegetable matter, and deposits 1t\n\n\neggs upon vegetables for the purpose OF beng sup\nI'd ported until maured. Before the grasshopper take\nwing the icneumon aighs upon its body, and thrust\ne under its wing number otits eggs. These siowi\nhe acquire perfection and become living worms an\nhe feed upon the body Of the hapess grasshopper' u\nS, til themselves are ready to take wing 80 admir- ra\ne bly, do they perform their office, that they DO nc\nnjure the vial organs of the insect they are inter\ne nally devouring, until they are just ready to chang\nN their state, and at the proper season, hundreds\nr grasshoppers, in thi, condition. have just streng\nlie enough remaining to tuter to tree or fence' AM\nl. with dying effort fix their hooked feet 50 hrmiy\nis as to retain their Postonsong after death EXAMINE\n\n\ntheir bodies after death, and you find an empty smell\nl. or one filled with large and active worms, just read\nis to burst their coverings and become winged insects.\ne We have another case analogous to the above\nIN furnished by the history of the common pea OF ou\n\n\ngardens In every embryo pea an insect lays Ill",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 956,
+                    "y0": 602,
+                    "x1": 2179,
+                    "y1": 698
+                },
+                {
+                    "x0": 1667,
+                    "y0": 905,
+                    "x1": 2478,
+                    "y1": 5055
+                }
+            ],
+            "bbox": [
+                956,
+                602,
+                2478,
+                5055
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-11-02_p1_sn83025530_00271740220_1827110201_0240.json"
+        },
+        {
+            "object_ids": [
+                22,
+                5
+            ],
+            "headline": ".Vo. Sc.",
+            "article": "often acted before u.s. we oAgnt not io uraw cur\ncusions at variance with Infinite Wisdom and oenes\nViolence sslt is part we see, and not the Wnole\nand vet we may see enough to convince us 'hat\nthis state of things tends to maintain that oalancc\ncreation which is essential to the welfare OF every\npart. and we may safely infer that in this respect,\n8 all partial evil is universal good. me whoie\ncreation is linked together, and each part IS mades\nnot for itself alone, but to contribute to me oenen.\nand success of an extended plan that embraces alt\nthe kingdoms Of nature, and all the iamlles OF 'he\nearth.\n\n\nNeither is proud man, though lord OF creation.\nexempted from the uniyeral law of that nature OF\nwhich he forms link. He 700 has his checks\nthe grave opens to receive him In every stage OF DIS\nexistence. Of all that are born OF our race one\nfourth dies the first year two only, IN hve, ATTAIN\nthe sixth and before the twenty-second year, one\nhalt of the generation is consigned to kindred dust\nand thus we become, in our turn, food for other\ntribes:\n\n\n\"Stoop selfish pride survey tiny kindred forms,\n\n\nThy brother emnets and tiny sister worms !\n\n\nWithout the check to the increase of the human\nrace produced by the invasion OF death, IN the us,-\nal way. even life would cease to be blessing,\nand a more dreadful catastrophe would Don foilow\nWithout death, the posterty Of two persons only\nmight amount to than million IN less than TWO\ncenturies. In a very few years the human race\nwould be increased three fold and in little more than\n| \"A\n\n\nton with all the resources Of the sea- would not be\n\n\ncapable of furnishing food for the numbers that\n\n\nwould accumulate, fixing the boundaries OF human\n\n\nlife at eighty years.\n\n\nBut man, in addition to the necessary checks hXed\n| by divine appointment to prevent TINS operilo\" OF\n\n\nnumbers has established others, destructive OF Als\n\n\nhappiness. The brute preys upon other species,\n\n\nand spares his own but man makes trade OF KILL\n\n\ning his teow-man. and war; with is attenoahs'\n\n\npestilence and famine, sweep miiiions lroln lhe.\n\n\nearth. Ii has been urged by some that war IS ne\n\n\ncessary to preserve the balance of creation but\n\n\nso far from this it has destroyed it, and the conse-\n\n\nouence has followed, that the largest part OF the\n\n\nearth remains uncnltiv and without inhaoltants.\nTo war. as one great cause of the deficit in popu-\n\n\nlaton, may be added the despotic forms OF govern\n; ment which man has established buildlhg cues,\ndeserving agriculture, and thus exchahgns sa,ury\n\n\nlabour for luxurious and dleness lastly lte'n-\nperance claims conspicuous place among the caus.\nes originating with man, which scatter misery and\n\n\ndeath in their most horrid forms, among the human\nfamily.\n\n\nNor does the interruption to the general system\nstop here. Although bis claim over the animal\ntribes is limited by his wants and comforts, man\n\n\ncommits havoc among them for his 'ssport or gust.\nIl Thus he wages unceaslng hostlhtes against inc\nfeathered tribes Birds feed on insects, and serve\n\n\nas checks to their great increase, and were not\n\n\nfor the cruel destruction made OF these little scav-\nengers they would flock around us, and rid oHr\nfruit trees of enemies which we cannot cope WIN,\nNotwithstanding all ingenuity and skill. Bur\nfrom this cause we lose much of our most delicious\nfruits, and are thus admonshed OF our criminal IN\nreference with the established order OF nature.\nThus the further proceed in the study OF ma\nture the most clearly shall discover the \"strong\n\n\nconnexions. nice dependencies, that exist IN all\n\n\nthe parts, and between each part and the whole.\n\n\nThe necessities of each animal and plant have been\n\n\nconsulted and provided for by the Great Architect,\n\n\nand we are called to the contemplation OF the SUP\nect, as to source of deep instruction. by the hgn\ni est authority sc Consider the lilies OF the heida\nhow they grow they toll not neither DO they SPIN.\nand yet say unto you that Solomon al ms glory\nnot arrayed like one OF these nen1,u m as we\nh fowls of the air, for they SOW not, neither 90 they\n: spin nor gather into barns yet your heavenly ia\no ther feedeth them.\n\n\ni From the nob,est animal to the meanest reptile\nfeast is Spread and the preservation and balance o.\n> the whole so maintained and secured by the mighty\nIS pan. as TO leave nothing susceptible OF improve\nIS ment nothing to be re-modeiled; nothing 10 Dc\n! amended\n\n\nu have already exceeded the bounds intended, al\n\n\nthough have but glanced at the sup]ecl.i nave\n!. brouobt YOU to the thresh-hold only OF natures\nu temn1e hermit me to conclude by inviting you TO-\n: sten in examine each compartment and ENJOY the\nfI intellectual feast\n\n\n! Or;e;anl qnecdote-A comical fellow lately trar-\n\n\nellino in the stage through Connecticut and Masaa-\n\n\ncbusetts had for his companions very taciturn SET\n\n\nof fellows and to amuse himself he thrust his head\nout of the stage every man he met ana hailoWee'\nhurra for jackson! Astrange sound in ankey own\n\n\nPassing brick yard, he sent forth his accustomed\n:, vocGeration at Hodge, who let fly, in return, the\n\\ handful of clay he was moulding, which completely\n= ,,,ol,ad the countenance of the unfortunate wag",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2936,
+                    "y0": 593,
+                    "x1": 3261,
+                    "y1": 681
+                },
+                {
+                    "x0": 2477,
+                    "y0": 905,
+                    "x1": 3309,
+                    "y1": 5055
+                }
+            ],
+            "bbox": [
+                2477,
+                593,
+                3309,
+                5055
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-11-02_p1_sn83025530_00271740220_1827110201_0240.json"
+        },
+        {
+            "object_ids": [
+                11,
+                16,
+                6
+            ],
+            "headline": "AN ADDRESS,\n\nDelivsrea before The Delasvare academy Of Natural\n\n\nScience, By Van. Gibbons, M. d. President.",
+            "article": "h'oteHbo, W VHt. It00OHS, W.. IL. TTeS2denE.\nCONCLUDED.\n\n\nTo paint out the extent Of the Animal Kingdom\non our GLOBE is no more within the finite powers of\nman, than to count the myriads of worlds diffused\nthrough imitable space. We readily trace many\nOF the tribes but descend in the scale of mag\nnitude, the number mutipes and can discern\nby the aid OF glasses. new world of beings, which\nthe human eye has never seen, nor the heard In\na single drop of water perceived thousand or\nganzed bodies and improvements in the Micro\nscope may hereafter reveal thousands more, to which\nthe former may appear like great whales sporting in\nthe waves of the ocean\nThe study OF animated nature, besides being in |\nseparately connected with our wants and comforts, i\naffords vast range for intellectual action, and use\nfu contemplation. The structure and functions of\nanimals, as accommodated to their wants and the\ncircumstances in which they are placed, claim our\nparticular attention. The adaptation of their COW\nering to the temperature of the climate. we'll as\nof particular organs to particular necessities, strikes\nthe most superficial observer In the elephan. the\nshortness and stiffness of the neck, renders him in\ncapable of the necessary motion he, therefore, has\nproboscs, or trunk, which he uses with surprising\ndexterty. The crane. wanting web to her feet,\n\n\nunable TO swim for her prey she is therefore fur\nnished with long legs, neck and bill. for wading and\nfishing The bat, deriving no support from her legs\nand feet, is provided with remarkable hook at\nthe angle of her wing, by which she attaches her\nself TO trees. rocks, and takes her ght from this\nposition. The spider. having wings to pursue his\nprey. is accommodated with his web. The gossam-\ner SPIDER privileged beyond the rest of the family,\n, presents an exception in this case He darts forth\n+ thread. throws hirsel into the air, and rides in\na balloon. The snail's viscid matter, secreted from\nr her body, serves in the place Of apparatus for\nclimbing. The muscle. otherwise the sport of eve\n\n\nnv spins thread and moors herself to fixed OBJ\n\n\niects. and rides like vessel at anchor The Daut-\n, lus, when alb ut to take sail discharges quanti-\nty of water from it's little she'll. and bv substituting\n\n\nair, renders itself lighter than the water: in this\n\n\nmanner it rises to the surface erects its arms, ex-\n\n\npands membrane between them. and is thus ,ri-\n\n\nven before the wind like vessel under sail : whilst\n\n\ntwo other limbs. that hang the sides OF the shell\n\n\nserve for oars and rlltder, occasion requires. AT\nthe approach of storm. it lowers its sail. drws Its\n\n\narms into the shell, and reversing the former opera\n\n\ntion bvexcuding the air and receiving water, sinks\n\n\nto the bottom. Bv this extraordinary creature man.\n- kind. in their rude state. were taught, as is sup\n;; posed. the art of navigation hence the poet:\n\n\n! \"Lesrn of the little Nautilus to sail,\n\n\nSpread the thin and catch the driving gale\n+eI The herring law rule OF action, denOminated\n\n\nINSTINCT. which enables each species of the brute\n\n\ncreation to 'sill the circle ked by Heaven =\n\n\nfurnishes to the naturalist boundess region for the\n\n\nexercise IF intellect where his mind is alternately\nre excited with emotions of pleasure and admiration\non The ksome task to which the females of the wing\nnd ed tribe submit. week after week, with much care\n# and anxiety in thencubaton of their egss,the mar\nrage contract of pairs of the tribe to secure ht\n\n\nlabours of both parents, that of one being inconpe\n\n\ntent to satisfy ne cravings of a numerous brood\n\n\nuniformity in the manner of constructing their nests\n\n\nin birds Of the same speces-these, with NUMEROUS\nother striking examples of this extraordinary gilt\n\n\nbestowed on all animated nature from the nob\n,ck elephant to the worm and the insect and wonder\n\n\nfully adapted to the wants, defence and preservation\n\n\n.C .,l,, ,I,a1\n\n\ntruth of the Apostolic declaration, that sthe INV\n\n\nsibIe things of Col, from Il creation of the world\nate are clearly seen being understood by the things tina\nthe are made, even his eternal power and Godhead.\nuc- independently of actions which are purely IN\n\n\nstinctire there are those of a middle class, Whic\nNo. seem to be- in part the result of reflections pre-\n\n\nsenng strong plea against an exclusive cialm' 0\ncr- the part of man, to the noble faculty OF reason\nets The Beaver constructs dams large streams\n\". water, which, in cases, have long resisle\nfrosts and floods, and possessed durability sedor\nAN impaired TO such works by all the ingenuity OF man\nb. For this purpose the animal cuts off large trees, an\ne. as the labour of dragging them the ground to tn\n- projected site would be difficult or impossible,\n\n\nhas the address to fall them tozrards or INTO, IN\n\n\nzyater, By 7phch he is enabled 10 float them doom\no stream The Wasp cuts his prey into two parts\nlse. when too heavy TO be carried away whoe, ana I'll\nges Spider not having instruments to perform this ope\n\n\nration supplies the defect by avallng himself oil on\n\n\nof the mechanical powers for he has been see\nto construct an inclined ptane by dropping two pei\n\n\npendiculars, and running lines obtaquely, IRON on\nTO the other on these lines OF easy ascent, ne reat\nIL ly transported body, heavier than himself, to nj\nzee nest.\n\n\nthe ne history oi she e.euuI ~ ~ ro1ont ~\no' some extraordinary facts which seem to oexhbit III\n~ combined operation Of the gifts both of reheco\n\n\nand instinct",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1039,
+                    "y0": 779,
+                    "x1": 1442,
+                    "y1": 832
+                },
+                {
+                    "x0": 848,
+                    "y0": 844,
+                    "x1": 1650,
+                    "y1": 932
+                },
+                {
+                    "x0": 839,
+                    "y0": 909,
+                    "x1": 1672,
+                    "y1": 5051
+                }
+            ],
+            "bbox": [
+                839,
+                779,
+                1672,
+                5051
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-11-02_p1_sn83025530_00271740220_1827110201_0240.json"
+        },
+        {
+            "object_ids": [
+                9,
+                7
+            ],
+            "headline": "Zen Dollars Reward.",
+            "article": "RANAWAY from the Subscriber, some time since,\nalad named JAMES R. Towns, an apprentice TO the\nshoe-Making business. He is about 90 years old,\nwell grown for his age. Had on and took with him\nblue cloth coat and pantalets and blue surtou, to-\nsether with sundry other clothing. The above re-\nward will be paid to any person who will appre-\nlend said boy, together with reasonable charges if\nbrought home. All persons are forbid harbouring\nnm at their peril. JAMES SIMPSON.\n\n\nWilmington, Del. Oct 26, 1927. 55--4t",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 112,
+                    "y0": 4768,
+                    "x1": 888,
+                    "y1": 4839
+                },
+                {
+                    "x0": 107,
+                    "y0": 4851,
+                    "x1": 897,
+                    "y1": 5267
+                }
+            ],
+            "bbox": [
+                107,
+                4768,
+                897,
+                5267
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-11-02_p1_sn83025530_00271740220_1827110201_0240.json"
+        },
+        {
+            "object_ids": [
+                17,
+                15
+            ],
+            "headline": "Was Found,",
+            "article": "On Sunday week, Pocket BOOK, containing\nsmall sum ofmoney; near the Log Meeting House.\n4he owner by proving property and paying charges\ncan have the same by applying to\n\n\nWILLIAM ARMSTRONG;.\nGhristiaaa Hundred, Oct. 30h. 55-3t",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 263,
+                    "y0": 4426,
+                    "x1": 749,
+                    "y1": 4492
+                },
+                {
+                    "x0": 99,
+                    "y0": 4504,
+                    "x1": 888,
+                    "y1": 4748
+                }
+            ],
+            "bbox": [
+                99,
+                4426,
+                888,
+                4748
+            ],
+            "full_article_id": 16,
+            "id": "16_1827-11-02_p1_sn83025530_00271740220_1827110201_0240.json"
+        },
+        {
+            "object_ids": [
+                21
+            ],
+            "headline": "",
+            "article": "Original .anecdote.-A comicai fellow lately tras'\nelng in the stage through Connecticut ana Massa.\nchnsetts. had for his companions very tacturn set\nOf fellows, and to amuse himself he thrust his head\nont Of the stage at every man he met and ha'lowet,\nhurra for Jackson! Astrange soundin Yankey Town.\nPassing brick yard, he sent forth his accustomed\nvociferaton at Hodge, who let fly, in return the\nhandful of clay he was moulding, WHICH completely\nmasked the countenance of the unfortunate wag'\nHe took in his bespattered face, when one OF bis tel\nlow travellers, who had not spoken tor hity miles,\nobserved, that man must be Ctoylte.\n\n\nN. Y. Advertiser.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2507,
+                    "y0": 4686,
+                    "x1": 3313,
+                    "y1": 5211
+                }
+            ],
+            "bbox": [
+                2507,
+                4686,
+                3313,
+                5211
+            ],
+            "full_article_id": 22,
+            "id": "22_1827-11-02_p1_sn83025530_00271740220_1827110201_0240.json"
+        }
+    ]
+}

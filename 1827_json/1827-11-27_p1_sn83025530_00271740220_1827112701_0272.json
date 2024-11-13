@@ -1,0 +1,735 @@
+{
+    "lccn": {
+        "title": "Delaware journal.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2638-6917",
+        "lccn": "sn83025530",
+        "start_year": "1827",
+        "end_year": "1832",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [
+            "sn85042477"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn83025530",
+        "edition": "ed-01",
+        "date": "1827-11-27",
+        "pages": [
+            "seq-1",
+            "seq-2",
+            "seq-3",
+            "seq-4"
+        ]
+    },
+    "page_number": "1",
+    "scan": {
+        "lccn": "sn83025530",
+        "edition": "ed-01",
+        "date": "1827-11-27",
+        "page": "1",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-11-27/ed-1/seq-1.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-11-27/ed-1/seq-1/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-11-27/ed-1/seq-1/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn83025530/00271740220/1827112701/0272.jp2",
+        "height": 5560,
+        "width": 3600
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 62,
+                "y0": 1798,
+                "x1": 836,
+                "y1": 2550
+            },
+            "class": "article",
+            "raw_text": "CoycoRD.-Dr. Thomas Adams, P. M.\nBn1pGEvrLLE.-HcnryC Cannon, P. NJ.\nMILroN-Mr. Arthur Milby.\nFRANxFoRp.-Mr. Isaiah Long.\nDAcsBoRouoH.--Dr Edward Dingle.\nGEoRGE TowN.-Mr. Joshua S. Layton.\nLEwEs--H F. Rodney, P. NJ.\n\n\nMnroRp.--Mr Joseph G. Oliver.\nFnrDERIcA-J. Emerson, T. M.\nCAnpEN.-Thomas Wainwright, ?. M.\nDover. John Robertson, Esq.\n\n\nSuynNA--Samuel II. Hodson, Esq.\nCANrwELLs BRrDGE.-Manlove Hayes, + NJ.\nThomas Harry, Z. M.\nSuuyIr Bn1pGE-John Clement, p. M.\nWARWICK, Md.-John Moreton, P. M.\nSubscribers living in the vicinity of the residence\nII these Agents, may pay their subscription money\nb them, they being authorized to receive 1t, and to\nkiYe receipts.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 310,
+                "y0": 1741,
+                "x1": 571,
+                "y1": 1790
+            },
+            "class": "headline",
+            "raw_text": "AGENTS.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1717,
+                "y0": 829,
+                "x1": 2426,
+                "y1": 1738
+            },
+            "class": "article",
+            "raw_text": "And bcgg'd moments leave TO speak\n\n\nWith the French General.\nThe advancing foe an answer made;\n\n\nBut tit was quite provoking)\nNot one of them could understand\n\n\nThe language il was spoke in\nSo there they stood in piteous plight,\nTwas ludicrous to see,\nUntil the Bull-Frogs came insight,\n\n\nWhich sha.ed them nightly.\nThen all went home, right glad to save\nTheir property from pillage:\nAnd all agreed to blame the man\n\n\nWho first alarm'd the village.\nSome were well pleas'd and some were mad,\nSome turn'd it off in laughter;\nAnd some would never speak word\nAbout the thing thereafter.\nSome vow'd if Satan came at last,\n\n\nThey did not mean to flee him;\nBut if a frog they ever pass'd,\n\n\nPretended not to see him.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 535,
+                "y0": 647,
+                "x1": 2348,
+                "y1": 748
+            },
+            "class": "headline",
+            "raw_text": "TUESDAY, sV0vember 27, 1927.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 118,
+                "y0": 4899,
+                "x1": 880,
+                "y1": 5274
+            },
+            "class": "article",
+            "raw_text": "inst received and for sale here, The .Aantic Sou\nfsnir, a beautiful Christmas and New-Year's Pre-\nTent, handsomely boarded, with gilt leaves, and en-\nlosed in an elegant ornamented case. This is be\n\n\neved to be ono of the mos: splendid little works OF\nlstc ever published in this country itcontans 10\n\n\negant ensravngs descriptive of Cats Kill falls Ii\nfomleroga; Delaware w ater Gap, Bournouese War\n| oIr, Moonlight, sc. SIC. &c\n\n\nNov. 6. r.. PORTER s. son.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 184,
+                "y0": 4795,
+                "x1": 771,
+                "y1": 4896
+            },
+            "class": "headline",
+            "raw_text": "ATLANTIC SOUVENIR\n\n\nTOR 1E28.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 36,
+                "y0": 1307,
+                "x1": 832,
+                "y1": 1721
+            },
+            "class": "article",
+            "raw_text": "Persons wishing any sort ofPRTNrIso done, with\nneatness, accuracy, and dispatch ADVERTISEMENTS\nInserted, or SuBscnrprIoNs paid where there are\nno Agents appointed in their neighbourhood to re-\nceive them, will please apply, or direct to X. Porter\nand Son, No. 81, Market Street, Wilmington.\n\n\nAll communications, not of the above character,\nto be addressed to NJ Bradford, Editor of the Della.\nware Journal, Wilmington.\n\n\nThis arrangement s made for the more regular\nand prompt execution of business.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 310,
+                "y0": 1259,
+                "x1": 554,
+                "y1": 1304
+            },
+            "class": "headline",
+            "raw_text": "NOYICE.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 84,
+                "y0": 3705,
+                "x1": 871,
+                "y1": 4766
+            },
+            "class": "article",
+            "raw_text": "EOI AOSSs\nContaining in addition to the usual Astronomical\n|CalcuIations. Tables. Sc the Courts of the United\nStates, and of Delaware and Maryland; great va\n|nety of profitable and pleasing miscellaneous mat\nTer, among whchis is\n| Sailors humorous ride in mk-cart,\nYanSey resolution in saving the mail,\nIngenious defence of thief,\nDreams and signs interpreted,\nMethod of un-marrying the unhappy,\nII Definition of Drunkard\nI A little world,\n\n\nOld maids, their unmontionable troubles,\n\n\nAccent of novel courshlp,\n\n\nanecdote of Paddy and his game cock'\n\n\nThe trishman and his pig, sc. &c NC\n\n\nWonderful discoveries the Microscope\n\n\nHumorous account of Penn'a. Battalion Day\n\n\nWashington's army saved by Quaker lady,\n\n\nOde to the gout, wv\n\n\nRECEIPTS for curing the Gravel, curing \"ens'\nmaking candles, removing grease spots from ciothes\nmaking vinegar, preserving pickles. preserving\nmeats, &c. &c. sc.\n\n\nThe above Almanac, with an extensive assortment\nh others. German and English for sale by the urosS\npr Dozen, at the most reduced prices.\n\n\nNoy X. PORTER SON.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 140,
+                "y0": 3622,
+                "x1": 793,
+                "y1": 3719
+            },
+            "class": "headline",
+            "raw_text": "The Columbian Almanac,\n\n\nFOv 1S2S.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 36,
+                "y0": 877,
+                "x1": 827,
+                "y1": 1238
+            },
+            "class": "article",
+            "raw_text": "TIE DEL.aW.ARE JOURNAL is pub\nIisl.ed on Tuesdays and Fridays. at .four dollars\nrsr annmln; ; tvoo dollars cvery sic fnonths IN ad-\nrance. No paper to be discontinued, atntI ar\nrearages are paid.\n\n\n.advertise seMents inserted on the usual terms\nYis. One dollar for four insertions Of sirteen\nlines. and so IN proportion for crery number q\noddtiO,,aL lines and insertions.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 249,
+                "y0": 816,
+                "x1": 641,
+                "y1": 869
+            },
+            "class": "headline",
+            "raw_text": "CONDITIONS.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 62,
+                "y0": 2654,
+                "x1": 845,
+                "y1": 3137
+            },
+            "class": "article",
+            "raw_text": "la FARM two and a half miles from Wilmington,\nfAncar the Kennel Turnpike Road pleasantly sit\nhated containing about seventy-two acres, twenty\nWe of which are woodland, adjoining lands OF MT.\names Brindey Mr.. Rogers and others On the\nPremises are two storied House, Barn and Orch\n1 ird. Apply to\n\n\nLEA PUSEY,\n\n\nNo. 10, East Queen Street, Ifil\"angion.\nIf not disposed of previously, the above FARM\nEiI b. offered at public sale .on Monday the Sd day\nbf December next. at the house of John NJ. Smith\nnkeeper. at 9 o o'clock, p. M. tl-s",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 114,
+                "y0": 2571,
+                "x1": 775,
+                "y1": 2641
+            },
+            "class": "headline",
+            "raw_text": "For Prir0tc Sale,",
+            "legibility": "Illegible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 75,
+                "y0": 3227,
+                "x1": 858,
+                "y1": 3606
+            },
+            "class": "article",
+            "raw_text": "kuVAE Subscriber Giving near the Brandyw'ne\n\n\nIl Flour Mills) will give Store Goods at Cash prices\nfor pOkK-Any person wishing to Barter VIII DO\nmell TO call. WILLIAM MCAULLEY.\n| November Ia, 1897.\n\n\nN. B. a general assortment ofseasonable DRY\n|GOODS, together with GROCERIES,,\n|Cnnu, Glass. Queens and Earthen 7oare' Drugs\n\n\nPoints, Oils, sc, &c. &c. alacays on hand. .,\n60--1u3zDs. V''h ~",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 575,
+                "y0": 2910,
+                "x1": 806,
+                "y1": 2941
+            },
+            "class": "headline",
+            "raw_text": "LEA PUSEY,",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -2
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 84,
+                "y0": 3149,
+                "x1": 827,
+                "y1": 3206
+            },
+            "class": "headline",
+            "raw_text": "10. 600 OR 10000 E.Bs. PORK.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1665,
+                "y0": 1759,
+                "x1": 2461,
+                "y1": 5304
+            },
+            "class": "article",
+            "raw_text": "From the National InteHigenccr, Nor. 90.\n\n\nThe NORTH EASTERN BouNpARY.--The New\nYork Albion is paper published weekly in the city\nOF New York. the principal objects of which are, to\ncondense English news for the information of the\nAmericanized English. and of the American public:\nand to present views of British concerns and poll\ntics, such are in general accord with the spirit of\nThe Ministry of Great Britain. This is done tenn\nperately and las far as we know bamelessIy in a\nforeign spirit to be sure, but in spirit Of general\namity and good will to our country.\n\n\nIn the last number of the Albion, the Editors of\nthis paper called upon in a manner so earnest.\nand in terms so very polite that the call cannot well\nbe resisted, to state their of the present state\nof the controversy between the United States and\nGreat Britain, concerning the North Eastern Boun\nDiary between the territories of the two countries.-\n\n\nThe article in the Albion, to which refer, is in\nthe following words\n\n\nNORTH Eastern Boundary. This is daily be-\ncoming an object Of important. not to say alarming\nconsideration for the people of both countries and\nit is really lamentable to the bad feeling the sub\niect is creating on the lines, and the avdity with\nwhich persons give currency to untricndly and in\nfurious reports of all kinds. All the difficulty that\nhas yet taken place. has occurred the territory\nnow under negotiation between the two governments,\nand which il is understood shall remain in the hands\nof its present possessors until the subject is finally\nsettled. Therefore as the territory is, and always\nhas been, within the sovereignty of Great Britain.\nthe acts of certain persons. in hosting the Amer-\nran Flag, interceptng the mail, &c are not only\nIllegal, but in opposition to the known wishes of the\namerican Cabinet. The British government has.\nat the request of the American. withheld further\ngrants of lands than those already made; & prohibited\nthe cutting of timber on the unappropriated lands,\nuntil the result of the negotiation is known Should\nnot, then. all attempts the part of the citizens Of\nthe United States. to disturb the sovereignty of the\nsoil. be discontinued not only with the view Of pre-\nserving the friendly relations between the two 60\nvernments, but to prevent the unpleasant collisions\nthe bare recital of which tends excite such unpea\n! SAINT feelings :\n\n\n\"If we correct, and we believe we are, that\nGeneral Baker was arrested on what is technically\nand practically British territory, and that this ter\nritory remains under the jurisdiction of Great Bri\ntain bv the right of possession. and by the acques\ncense of the American government until the ques\ntion to whom it shall ultimately belong, be settled\nan article in the National Itelfgencer to this effect\nwill be productive Of the best consequences. w,\nmake our appeal to the National Aatelhgencer. from\nthe accurate means of information it is supposed II\nhave, and from the high character and respectabilit\nalways enjoyed by that Journal\"\n\n\nNe,U York Albion. Nor II.\n\n\nThe question, respecting this boundary, arise\nout OF the treaty or FeaCp ol 1855, OctWeen ti'\nUnited States and Great Britain. Being still al\nunsettled question, provision made in the treat\nOF Client. for ascertaining and fixing the boundary\nUnder that Treaty, Commissioners were appointe\nto settle the question. They were not able to agre\nupon an adjustment. In that event. anticipated a\npossible by the trainers of the treaty Of Ghent, pre-\nvision was made in that compact. that, on a dsa\ngrecment between the commissioners of the two &c\nvernaents, they should report the fact to their re\nspective governments, and that the question shnui\nthereupon be referred to the umprage Of some So\nveregn arbitrator On that subject negotiation\nwere commenced in London, before Mr. Rnsh's re\nturn to the United States, and have been continued\nbv Mr.. Gallatin, which are understood to have re\nsuited in the formation of convention for settling\nthe premnarcs Of the reference of this question ac\ncor'ng to the Treaty of Ghent\n\n\nThis is the history OF the dispute.\n\n\nAs to the matter of fact each party has been in tn\nposscssionof some portion of the disputed ground\n\n\nthat is to say the Governments Of Masaachusett\nand Maine, on our part, and of the Province q\nNew Brunswick, ON the part of Great Britain, hav\nexercised Jurisdiction over it and each party ha\nbeen dspnsed to strengthen its claim by further act\nOf posseesion. In the mean time. between the FL\nreign ministers IF the United States and Great Br\ntain there has been constant correspondence, q",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 1730,
+                "y0": 1776,
+                "x1": 2378,
+                "y1": 1825
+            },
+            "class": "headline",
+            "raw_text": "From the National Lntelligenccr, Nor. %.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2455,
+                "y0": 912,
+                "x1": 3277,
+                "y1": 5070
+            },
+            "class": "article",
+            "raw_text": "mutual forbearance, of the expediency Of the pre-\nscrvation of the same state of things in the disputed\nterritory as existed at the date Of the Treaty Of\nClient, and of avoiding all disputes which might\ngrow ont of the agitation OF it.\n\n\nWith respect to the two governments, there is\nperfectly good understanding, upon the obvious pro-\npriety, and indeed necessity. Of forbearance and\nmoderation on both sides. as to this question. Any\nacts of contrary character are acts OF individual\ncitizens, without the authority sanction OF either\ngovernment and, Of course, are to be avoided and\nrebuked.\nThis is the general state of the facts. As to the\nparticular case of Gen. Baker, referred to by the\nAlbion, we can only say, that if he stopped the mail\nand did other obnoxious acts, son what is techni-\ncay and practically British territory\" by which we\nunderstand such territory was in possion OF Great\nBritain at the date of the Treaty of Ghen. and pre-\nviously. then he violating what believe to be\nthe settled understanding between the two govern\n\n\nments. and his conduct will, Of course, receive no\ncountenancc the part of the United States\nWhether he was on that territory not, is aques.\ntion which depends upon evidence not within our\nreach\n\n\nWe hope we have answered the question Of the\nAlbion satisfactorily. We will only add. that we\nbelieve that measures will be taken, on the part Of\n\n\nthe United States to ascertain the true character OF\n\n\nthe transactions on the disputed territory, there\n\n\nbeing disposition here to connIvc at any acts OF\n\n\nviolence, contrary to the understanding which exists\n\n\nbetween Great Britain and the United States on this\n\n\nsubject.\n\n\n| BANKS.--The number Of Banking institutions\n\n\nin the United States, of all kinds, good bad and IN\"\n\n\ndifferent is $50, (Which add thervarous branches,\n\n\nand they will amount TO 600. OF this number\n\n\neighty are on the list of broken banks. All the Ken\n\n\nlucky, Tennessee, Illinois, and Missouri banks are\n\n\nof this class and those of Alabama are but little bet\n\n\nter. Maine has 23 banks, of which are broken:\nVermont 81 New w-Hampshre 90; Massachusetts\n| II, of which are broken Rhode Island 46, all\n\n\ngood, and we should think good for nothing Con-\n\n\nnecticut l6--2 broken Newly ork 55-7 broken:\nNew-J ersey 23--4 broken; Pepnsy lvania SLY\n\n\nbroken Delaware tt broken Maryland 25-6\n\n\nbroken District of Columbia 15-3 broken; Vir-\nginia and l5 branches n. and s. Carolina 20;\nGeorgia Z; OHIO 34-22 broken; Mississippi\nLouisiana s and Michigan 2-l broken.\n\n\nConsidering the great number OF these institutions\n\n\nscattered over the whole country, and using so ma.\n\n\nny different modes of engravngs, il is not surprising\nthat counterfeiting has become SO frequent. One\neighth of the convicts at Auburn, are confined for\n\n\nthis crime. The number of detected counterfeters\nis about 24O the amount yearly put in circulation\n\n\nis estimated at t,oo millions; the loss no doubt falls\nprincipally upon the poorer class. for they are the\n\n\nleast able to detect them; some plan ought therea\nfore to be devised to prevent this enormous deficit\nin the proceeds of their hard earnings Maine and\n\n\nMaSSaCHuSetlS nave lot tniS purpose Ie4uileu\n\n\nbanks to use Perkins steel plates, which during the\n90 years they have been in use, have never been\nI, successfully counerfeed. If the evil can be stay\n: ed by the adoption of similar measures in other\n\n\nstates it should not be delayed 1t is at least worth\nan inquiry, if not AN experiment.\n\n\n: INTERNAL IMPROVEMENTS The number and mag\n: ntude of the various works OF internal improves\n\n\nment strictly so called, canals, railways NC in proc\norosS varinuQ uf thp United\n\n\nStates. is truly astonishing and almost Incredible\n:, We will enumerate some of them from memory. -\nTO commence with our own state-we have near\n500 miles of canal completed, in progress, or proc\no vided for. We have also the Schuylkil navigation,\n1903 miles. in full operation; the Union canal. 30\n\n\nmiles nearly completed the Lehigh navigations\n\n\nsay 60 miles. connected with a railway of miles.\ns Tributary to our state, have the Delaware and\nChesapeake canal, the Delaware and Hudson canal,\nn the Morris canal and preliminary measures have\nbeen taken. for the construction Of railway from\ny Columbia to Philadelphia; another from Danvlle to\nIl Mount Carbon: and for the connection ct the Sus-\ne auehanna with the Delaware. by canal or railways\nis or both by the Lehigh There is also. the Cones\nD. toca navigation which, we presume, must be near\nl. completion and meetings have been held to pro-\nD cure the continuation of thePennsylvania cana1o\n> from Middleton to Columbia upon the Susquehannas\nd In the west, we have the Ohio canal, in forward\nJ. state. which. when completed, will form line OF\nabout 500 miles. 1t IS prOposeu aiso' rs our iea-\ners have lately been informed, to connect this by\ncross canal with the Pennsylvania canals. In the\nSOUTH the Baltimore and Ohio railroad is in progresss\nO and strenuous exertions are making to commence\n: the Chesapeak and Ohio canals. Each of these\n\n\nworks are Of immense magnitude. In Virginia. there\n\n\nis canal, and more have been projected in\nc South Carolina.\n\n\nThe steps which have been taken towards the con-\n= sructon of railroad from Camden. opposite tha\nIf city. to South Amboy and the erection OF the Del.\ne aware and Raritan canals, have been recently laid",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 2925,
+                "y0": 660,
+                "x1": 3251,
+                "y1": 748
+            },
+            "class": "headline",
+            "raw_text": "Vo. 63.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 887,
+                "y0": 938,
+                "x1": 1627,
+                "y1": 5065
+            },
+            "class": "article",
+            "raw_text": "II\" Oto Co'ohy 1hte-.J0nhden on 1dct.\nWHEN these free states were colonies\nUnto the mother nation,\nAnd in Connecticut the good\nOld Blue Laws were in fashion,\nA circumstance which there occur'd\nAnd much the mind surprises\nUpon rehecton) then gave rise\nTo many strange surmises.\nYou all have seen, as presume,\nOr had chance to see\nThese strange amphibious quadrupeds,\nCall'd Bull-Frogs commonly\nWell, in Connecticut 'ts said\n\n\nBy those who make pretensions\nTo truth, these creatures often grow\nTo marvellous dimensions.\nOne night in July '5s\n\n\nThey left their home behind 'cm,\nWhich was an oak and chesnut swamp\nAbout FIVE miles from Windham.\nThe cause was this the summers sun\nHad dried their pond away there\nSo shallow, that, TO save their souls,\nThe Bull-Frogs could not stay there.\nSO, in regiment they hoppd,\nWith many curious antic,\nAlong the road which led unto\n\n\n\nThe river Minnomantic.\nSoon they in sight of Windham came,\nAll in high perspration,\nAnd held their course tow'rd the same\nWith loud vociferation.\nYou know such kind Of creatures are\nBy nature quite voracious\nThus they, compell'd by hunger, were\nRemarkably loquacious.\nUp flew the windows one and all,\nAnd then with ears erected,\nFrom every easement gaping rows\nOfnight-cap'd heads projected.\nThe children cried, the women scream'd,\n60 Lord have mercy on us\nThe French have come to burn us out,\nAnd now are close upon u.s.\"\nA few, upon the first alarm,\n\n\nThen armed themselves TO go forth\nAgainst the foe, with guns and belts,\nShot, Powder-horns, and so forth.\nSoon all were running here and there,\nIn mighty CONSERVATION,\nResolved of the town to make\n\n\nquick evacuation.\nAway they went across the lots,\n\n\nHats, caps and wigs were scatter'd,\nAnd heads were broke, and shoes were lost,\nShins bruis'tl and noses batter'd.\nThus, having gain'd mile or two,\n\n\nThese men ofsteady habits,\nAll snug behind an old stone wall,\n\n\nLay like nest of rabbits.\nAnd in this state, for half an hour,\n\n\nWith Jaws an inch assunder,\nThey thought upon their goods at home,\nExpos'd to lawess punder.\nThey thought upon their helpless wives,\nTheir meeting house and cattle,\nAnd then resolved to sally forth\n\n\nAnd give the Frenchmen battle.\nAmong the property which they\n\n\nHad bro't with them to saveit,\nWere found two trumpets and drum,\n\n\nJust as good luck would have it.\nFifteen or twenty iewsharps then\n\n\nWere found in good condition,\nAnd all the longest winded men\n\n\nWere put in requlslton.\nStraichtway, in long and loud alarm,\n\n\nSaid instruments were clang-ed,\nAnd the good old one hundredth psalm\n\n\nFrom nose and jewsharp twang-ed.\nSuch as we're armed in order ranged,\n\n\nThe music in the centre,\nDeclar'd they would not run away,\n\n\nBut on the French would venture.\nThere might have been among them all\n\n\nSay twenty guns or over\nHow many pitch-forks, scythes and Halls\n\n\nnever could discover.\n\n\nThe rest agreed to close the rear,\n\n\nAfter some intercesson-\nAnd all together made queer\nAnd curious procession.\nSome were persuaded that they saw\nThe band of French maranders,\nAnd not few declared they heard\nThe officers give orders.\nThese words could be distinguished then,\nDyer Hellerkln, and Fete ) ;,\nAnd when they heard the last, they though\n\n\nThe French desired treaty\nCo three GOOD sober minded men",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 853,
+                "y0": 820,
+                "x1": 1622,
+                "y1": 917
+            },
+            "class": "headline",
+            "raw_text": "From the Providence Gazette.\nTHE FROGS OF WINUEFANr.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": -1
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 3611,
+                "y0": 321,
+                "x1": 4585,
+                "y1": 4353
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 26,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                13,
+                0
+            ],
+            "headline": "AGENTS.",
+            "article": "CoycoRD.-Dr. Thomas Adams, P. M.\nBn1pGEvrLLE.-HcnryC Cannon, P. NJ.\nMILroN-Mr. Arthur Milby.\nFRANxFoRp.-Mr. Isaiah Long.\nDAcsBoRouoH.--Dr Edward Dingle.\nGEoRGE TowN.-Mr. Joshua S. Layton.\nLEwEs--H F. Rodney, P. NJ.\n\n\nMnroRp.--Mr Joseph G. Oliver.\nFnrDERIcA-J. Emerson, T. M.\nCAnpEN.-Thomas Wainwright, ?. M.\nDover. John Robertson, Esq.\n\n\nSuynNA--Samuel II. Hodson, Esq.\nCANrwELLs BRrDGE.-Manlove Hayes, + NJ.\nThomas Harry, Z. M.\nSuuyIr Bn1pGE-John Clement, p. M.\nWARWICK, Md.-John Moreton, P. M.\nSubscribers living in the vicinity of the residence\nII these Agents, may pay their subscription money\nb them, they being authorized to receive 1t, and to\nkiYe receipts.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 310,
+                    "y0": 1741,
+                    "x1": 571,
+                    "y1": 1790
+                },
+                {
+                    "x0": 62,
+                    "y0": 1798,
+                    "x1": 836,
+                    "y1": 2550
+                }
+            ],
+            "bbox": [
+                62,
+                1741,
+                836,
+                2550
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-11-27_p1_sn83025530_00271740220_1827112701_0272.json"
+        },
+        {
+            "object_ids": [
+                21,
+                1
+            ],
+            "headline": "TUESDAY, sV0vember 27, 1927.",
+            "article": "And bcgg'd moments leave TO speak\n\n\nWith the French General.\nThe advancing foe an answer made;\n\n\nBut tit was quite provoking)\nNot one of them could understand\n\n\nThe language il was spoke in\nSo there they stood in piteous plight,\nTwas ludicrous to see,\nUntil the Bull-Frogs came insight,\n\n\nWhich sha.ed them nightly.\nThen all went home, right glad to save\nTheir property from pillage:\nAnd all agreed to blame the man\n\n\nWho first alarm'd the village.\nSome were well pleas'd and some were mad,\nSome turn'd it off in laughter;\nAnd some would never speak word\nAbout the thing thereafter.\nSome vow'd if Satan came at last,\n\n\nThey did not mean to flee him;\nBut if a frog they ever pass'd,\n\n\nPretended not to see him.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 535,
+                    "y0": 647,
+                    "x1": 2348,
+                    "y1": 748
+                },
+                {
+                    "x0": 1717,
+                    "y0": 829,
+                    "x1": 2426,
+                    "y1": 1738
+                }
+            ],
+            "bbox": [
+                535,
+                647,
+                2426,
+                1738
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-11-27_p1_sn83025530_00271740220_1827112701_0272.json"
+        },
+        {
+            "object_ids": [
+                12,
+                2
+            ],
+            "headline": "ATLANTIC SOUVENIR\n\n\nTOR 1E28.",
+            "article": "inst received and for sale here, The .Aantic Sou\nfsnir, a beautiful Christmas and New-Year's Pre-\nTent, handsomely boarded, with gilt leaves, and en-\nlosed in an elegant ornamented case. This is be\n\n\neved to be ono of the mos: splendid little works OF\nlstc ever published in this country itcontans 10\n\n\negant ensravngs descriptive of Cats Kill falls Ii\nfomleroga; Delaware w ater Gap, Bournouese War\n| oIr, Moonlight, sc. SIC. &c\n\n\nNov. 6. r.. PORTER s. son.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 184,
+                    "y0": 4795,
+                    "x1": 771,
+                    "y1": 4896
+                },
+                {
+                    "x0": 118,
+                    "y0": 4899,
+                    "x1": 880,
+                    "y1": 5274
+                }
+            ],
+            "bbox": [
+                118,
+                4795,
+                880,
+                5274
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-11-27_p1_sn83025530_00271740220_1827112701_0272.json"
+        },
+        {
+            "object_ids": [
+                15,
+                3
+            ],
+            "headline": "NOYICE.",
+            "article": "Persons wishing any sort ofPRTNrIso done, with\nneatness, accuracy, and dispatch ADVERTISEMENTS\nInserted, or SuBscnrprIoNs paid where there are\nno Agents appointed in their neighbourhood to re-\nceive them, will please apply, or direct to X. Porter\nand Son, No. 81, Market Street, Wilmington.\n\n\nAll communications, not of the above character,\nto be addressed to NJ Bradford, Editor of the Della.\nware Journal, Wilmington.\n\n\nThis arrangement s made for the more regular\nand prompt execution of business.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 310,
+                    "y0": 1259,
+                    "x1": 554,
+                    "y1": 1304
+                },
+                {
+                    "x0": 36,
+                    "y0": 1307,
+                    "x1": 832,
+                    "y1": 1721
+                }
+            ],
+            "bbox": [
+                36,
+                1259,
+                832,
+                1721
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-11-27_p1_sn83025530_00271740220_1827112701_0272.json"
+        },
+        {
+            "object_ids": [
+                18,
+                4
+            ],
+            "headline": "The Columbian Almanac,\n\n\nFOv 1S2S.",
+            "article": "EOI AOSSs\nContaining in addition to the usual Astronomical\n|CalcuIations. Tables. Sc the Courts of the United\nStates, and of Delaware and Maryland; great va\n|nety of profitable and pleasing miscellaneous mat\nTer, among whchis is\n| Sailors humorous ride in mk-cart,\nYanSey resolution in saving the mail,\nIngenious defence of thief,\nDreams and signs interpreted,\nMethod of un-marrying the unhappy,\nII Definition of Drunkard\nI A little world,\n\n\nOld maids, their unmontionable troubles,\n\n\nAccent of novel courshlp,\n\n\nanecdote of Paddy and his game cock'\n\n\nThe trishman and his pig, sc. &c NC\n\n\nWonderful discoveries the Microscope\n\n\nHumorous account of Penn'a. Battalion Day\n\n\nWashington's army saved by Quaker lady,\n\n\nOde to the gout, wv\n\n\nRECEIPTS for curing the Gravel, curing \"ens'\nmaking candles, removing grease spots from ciothes\nmaking vinegar, preserving pickles. preserving\nmeats, &c. &c. sc.\n\n\nThe above Almanac, with an extensive assortment\nh others. German and English for sale by the urosS\npr Dozen, at the most reduced prices.\n\n\nNoy X. PORTER SON.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 140,
+                    "y0": 3622,
+                    "x1": 793,
+                    "y1": 3719
+                },
+                {
+                    "x0": 84,
+                    "y0": 3705,
+                    "x1": 871,
+                    "y1": 4766
+                }
+            ],
+            "bbox": [
+                84,
+                3622,
+                871,
+                4766
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-11-27_p1_sn83025530_00271740220_1827112701_0272.json"
+        },
+        {
+            "object_ids": [
+                17,
+                5
+            ],
+            "headline": "CONDITIONS.",
+            "article": "TIE DEL.aW.ARE JOURNAL is pub\nIisl.ed on Tuesdays and Fridays. at .four dollars\nrsr annmln; ; tvoo dollars cvery sic fnonths IN ad-\nrance. No paper to be discontinued, atntI ar\nrearages are paid.\n\n\n.advertise seMents inserted on the usual terms\nYis. One dollar for four insertions Of sirteen\nlines. and so IN proportion for crery number q\noddtiO,,aL lines and insertions.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 249,
+                    "y0": 816,
+                    "x1": 641,
+                    "y1": 869
+                },
+                {
+                    "x0": 36,
+                    "y0": 877,
+                    "x1": 827,
+                    "y1": 1238
+                }
+            ],
+            "bbox": [
+                36,
+                816,
+                827,
+                1238
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-11-27_p1_sn83025530_00271740220_1827112701_0272.json"
+        },
+        {
+            "object_ids": [
+                11,
+                6
+            ],
+            "headline": "For Prir0tc Sale,",
+            "article": "la FARM two and a half miles from Wilmington,\nfAncar the Kennel Turnpike Road pleasantly sit\nhated containing about seventy-two acres, twenty\nWe of which are woodland, adjoining lands OF MT.\names Brindey Mr.. Rogers and others On the\nPremises are two storied House, Barn and Orch\n1 ird. Apply to\n\n\nLEA PUSEY,\n\n\nNo. 10, East Queen Street, Ifil\"angion.\nIf not disposed of previously, the above FARM\nEiI b. offered at public sale .on Monday the Sd day\nbf December next. at the house of John NJ. Smith\nnkeeper. at 9 o o'clock, p. M. tl-s",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 114,
+                    "y0": 2571,
+                    "x1": 775,
+                    "y1": 2641
+                },
+                {
+                    "x0": 62,
+                    "y0": 2654,
+                    "x1": 845,
+                    "y1": 3137
+                }
+            ],
+            "bbox": [
+                62,
+                2571,
+                845,
+                3137
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-11-27_p1_sn83025530_00271740220_1827112701_0272.json"
+        },
+        {
+            "object_ids": [
+                24,
+                16,
+                7
+            ],
+            "headline": "LEA PUSEY,\n\n10. 600 OR 10000 E.Bs. PORK.",
+            "article": "kuVAE Subscriber Giving near the Brandyw'ne\n\n\nIl Flour Mills) will give Store Goods at Cash prices\nfor pOkK-Any person wishing to Barter VIII DO\nmell TO call. WILLIAM MCAULLEY.\n| November Ia, 1897.\n\n\nN. B. a general assortment ofseasonable DRY\n|GOODS, together with GROCERIES,,\n|Cnnu, Glass. Queens and Earthen 7oare' Drugs\n\n\nPoints, Oils, sc, &c. &c. alacays on hand. .,\n60--1u3zDs. V''h ~",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 575,
+                    "y0": 2910,
+                    "x1": 806,
+                    "y1": 2941
+                },
+                {
+                    "x0": 84,
+                    "y0": 3149,
+                    "x1": 827,
+                    "y1": 3206
+                },
+                {
+                    "x0": 75,
+                    "y0": 3227,
+                    "x1": 858,
+                    "y1": 3606
+                }
+            ],
+            "bbox": [
+                75,
+                2910,
+                858,
+                3606
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-11-27_p1_sn83025530_00271740220_1827112701_0272.json"
+        },
+        {
+            "object_ids": [
+                20,
+                8
+            ],
+            "headline": "From the National Lntelligenccr, Nor. %.",
+            "article": "From the National InteHigenccr, Nor. 90.\n\n\nThe NORTH EASTERN BouNpARY.--The New\nYork Albion is paper published weekly in the city\nOF New York. the principal objects of which are, to\ncondense English news for the information of the\nAmericanized English. and of the American public:\nand to present views of British concerns and poll\ntics, such are in general accord with the spirit of\nThe Ministry of Great Britain. This is done tenn\nperately and las far as we know bamelessIy in a\nforeign spirit to be sure, but in spirit Of general\namity and good will to our country.\n\n\nIn the last number of the Albion, the Editors of\nthis paper called upon in a manner so earnest.\nand in terms so very polite that the call cannot well\nbe resisted, to state their of the present state\nof the controversy between the United States and\nGreat Britain, concerning the North Eastern Boun\nDiary between the territories of the two countries.-\n\n\nThe article in the Albion, to which refer, is in\nthe following words\n\n\nNORTH Eastern Boundary. This is daily be-\ncoming an object Of important. not to say alarming\nconsideration for the people of both countries and\nit is really lamentable to the bad feeling the sub\niect is creating on the lines, and the avdity with\nwhich persons give currency to untricndly and in\nfurious reports of all kinds. All the difficulty that\nhas yet taken place. has occurred the territory\nnow under negotiation between the two governments,\nand which il is understood shall remain in the hands\nof its present possessors until the subject is finally\nsettled. Therefore as the territory is, and always\nhas been, within the sovereignty of Great Britain.\nthe acts of certain persons. in hosting the Amer-\nran Flag, interceptng the mail, &c are not only\nIllegal, but in opposition to the known wishes of the\namerican Cabinet. The British government has.\nat the request of the American. withheld further\ngrants of lands than those already made; & prohibited\nthe cutting of timber on the unappropriated lands,\nuntil the result of the negotiation is known Should\nnot, then. all attempts the part of the citizens Of\nthe United States. to disturb the sovereignty of the\nsoil. be discontinued not only with the view Of pre-\nserving the friendly relations between the two 60\nvernments, but to prevent the unpleasant collisions\nthe bare recital of which tends excite such unpea\n! SAINT feelings :\n\n\n\"If we correct, and we believe we are, that\nGeneral Baker was arrested on what is technically\nand practically British territory, and that this ter\nritory remains under the jurisdiction of Great Bri\ntain bv the right of possession. and by the acques\ncense of the American government until the ques\ntion to whom it shall ultimately belong, be settled\nan article in the National Itelfgencer to this effect\nwill be productive Of the best consequences. w,\nmake our appeal to the National Aatelhgencer. from\nthe accurate means of information it is supposed II\nhave, and from the high character and respectabilit\nalways enjoyed by that Journal\"\n\n\nNe,U York Albion. Nor II.\n\n\nThe question, respecting this boundary, arise\nout OF the treaty or FeaCp ol 1855, OctWeen ti'\nUnited States and Great Britain. Being still al\nunsettled question, provision made in the treat\nOF Client. for ascertaining and fixing the boundary\nUnder that Treaty, Commissioners were appointe\nto settle the question. They were not able to agre\nupon an adjustment. In that event. anticipated a\npossible by the trainers of the treaty Of Ghent, pre-\nvision was made in that compact. that, on a dsa\ngrecment between the commissioners of the two &c\nvernaents, they should report the fact to their re\nspective governments, and that the question shnui\nthereupon be referred to the umprage Of some So\nveregn arbitrator On that subject negotiation\nwere commenced in London, before Mr. Rnsh's re\nturn to the United States, and have been continued\nbv Mr.. Gallatin, which are understood to have re\nsuited in the formation of convention for settling\nthe premnarcs Of the reference of this question ac\ncor'ng to the Treaty of Ghent\n\n\nThis is the history OF the dispute.\n\n\nAs to the matter of fact each party has been in tn\nposscssionof some portion of the disputed ground\n\n\nthat is to say the Governments Of Masaachusett\nand Maine, on our part, and of the Province q\nNew Brunswick, ON the part of Great Britain, hav\nexercised Jurisdiction over it and each party ha\nbeen dspnsed to strengthen its claim by further act\nOf posseesion. In the mean time. between the FL\nreign ministers IF the United States and Great Br\ntain there has been constant correspondence, q",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1730,
+                    "y0": 1776,
+                    "x1": 2378,
+                    "y1": 1825
+                },
+                {
+                    "x0": 1665,
+                    "y0": 1759,
+                    "x1": 2461,
+                    "y1": 5304
+                }
+            ],
+            "bbox": [
+                1665,
+                1759,
+                2461,
+                5304
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-11-27_p1_sn83025530_00271740220_1827112701_0272.json"
+        },
+        {
+            "object_ids": [
+                22,
+                10
+            ],
+            "headline": "Vo. 63.",
+            "article": "mutual forbearance, of the expediency Of the pre-\nscrvation of the same state of things in the disputed\nterritory as existed at the date Of the Treaty Of\nClient, and of avoiding all disputes which might\ngrow ont of the agitation OF it.\n\n\nWith respect to the two governments, there is\nperfectly good understanding, upon the obvious pro-\npriety, and indeed necessity. Of forbearance and\nmoderation on both sides. as to this question. Any\nacts of contrary character are acts OF individual\ncitizens, without the authority sanction OF either\ngovernment and, Of course, are to be avoided and\nrebuked.\nThis is the general state of the facts. As to the\nparticular case of Gen. Baker, referred to by the\nAlbion, we can only say, that if he stopped the mail\nand did other obnoxious acts, son what is techni-\ncay and practically British territory\" by which we\nunderstand such territory was in possion OF Great\nBritain at the date of the Treaty of Ghen. and pre-\nviously. then he violating what believe to be\nthe settled understanding between the two govern\n\n\nments. and his conduct will, Of course, receive no\ncountenancc the part of the United States\nWhether he was on that territory not, is aques.\ntion which depends upon evidence not within our\nreach\n\n\nWe hope we have answered the question Of the\nAlbion satisfactorily. We will only add. that we\nbelieve that measures will be taken, on the part Of\n\n\nthe United States to ascertain the true character OF\n\n\nthe transactions on the disputed territory, there\n\n\nbeing disposition here to connIvc at any acts OF\n\n\nviolence, contrary to the understanding which exists\n\n\nbetween Great Britain and the United States on this\n\n\nsubject.\n\n\n| BANKS.--The number Of Banking institutions\n\n\nin the United States, of all kinds, good bad and IN\"\n\n\ndifferent is $50, (Which add thervarous branches,\n\n\nand they will amount TO 600. OF this number\n\n\neighty are on the list of broken banks. All the Ken\n\n\nlucky, Tennessee, Illinois, and Missouri banks are\n\n\nof this class and those of Alabama are but little bet\n\n\nter. Maine has 23 banks, of which are broken:\nVermont 81 New w-Hampshre 90; Massachusetts\n| II, of which are broken Rhode Island 46, all\n\n\ngood, and we should think good for nothing Con-\n\n\nnecticut l6--2 broken Newly ork 55-7 broken:\nNew-J ersey 23--4 broken; Pepnsy lvania SLY\n\n\nbroken Delaware tt broken Maryland 25-6\n\n\nbroken District of Columbia 15-3 broken; Vir-\nginia and l5 branches n. and s. Carolina 20;\nGeorgia Z; OHIO 34-22 broken; Mississippi\nLouisiana s and Michigan 2-l broken.\n\n\nConsidering the great number OF these institutions\n\n\nscattered over the whole country, and using so ma.\n\n\nny different modes of engravngs, il is not surprising\nthat counterfeiting has become SO frequent. One\neighth of the convicts at Auburn, are confined for\n\n\nthis crime. The number of detected counterfeters\nis about 24O the amount yearly put in circulation\n\n\nis estimated at t,oo millions; the loss no doubt falls\nprincipally upon the poorer class. for they are the\n\n\nleast able to detect them; some plan ought therea\nfore to be devised to prevent this enormous deficit\nin the proceeds of their hard earnings Maine and\n\n\nMaSSaCHuSetlS nave lot tniS purpose Ie4uileu\n\n\nbanks to use Perkins steel plates, which during the\n90 years they have been in use, have never been\nI, successfully counerfeed. If the evil can be stay\n: ed by the adoption of similar measures in other\n\n\nstates it should not be delayed 1t is at least worth\nan inquiry, if not AN experiment.\n\n\n: INTERNAL IMPROVEMENTS The number and mag\n: ntude of the various works OF internal improves\n\n\nment strictly so called, canals, railways NC in proc\norosS varinuQ uf thp United\n\n\nStates. is truly astonishing and almost Incredible\n:, We will enumerate some of them from memory. -\nTO commence with our own state-we have near\n500 miles of canal completed, in progress, or proc\no vided for. We have also the Schuylkil navigation,\n1903 miles. in full operation; the Union canal. 30\n\n\nmiles nearly completed the Lehigh navigations\n\n\nsay 60 miles. connected with a railway of miles.\ns Tributary to our state, have the Delaware and\nChesapeake canal, the Delaware and Hudson canal,\nn the Morris canal and preliminary measures have\nbeen taken. for the construction Of railway from\ny Columbia to Philadelphia; another from Danvlle to\nIl Mount Carbon: and for the connection ct the Sus-\ne auehanna with the Delaware. by canal or railways\nis or both by the Lehigh There is also. the Cones\nD. toca navigation which, we presume, must be near\nl. completion and meetings have been held to pro-\nD cure the continuation of thePennsylvania cana1o\n> from Middleton to Columbia upon the Susquehannas\nd In the west, we have the Ohio canal, in forward\nJ. state. which. when completed, will form line OF\nabout 500 miles. 1t IS prOposeu aiso' rs our iea-\ners have lately been informed, to connect this by\ncross canal with the Pennsylvania canals. In the\nSOUTH the Baltimore and Ohio railroad is in progresss\nO and strenuous exertions are making to commence\n: the Chesapeak and Ohio canals. Each of these\n\n\nworks are Of immense magnitude. In Virginia. there\n\n\nis canal, and more have been projected in\nc South Carolina.\n\n\nThe steps which have been taken towards the con-\n= sructon of railroad from Camden. opposite tha\nIf city. to South Amboy and the erection OF the Del.\ne aware and Raritan canals, have been recently laid",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2925,
+                    "y0": 660,
+                    "x1": 3251,
+                    "y1": 748
+                },
+                {
+                    "x0": 2455,
+                    "y0": 912,
+                    "x1": 3277,
+                    "y1": 5070
+                }
+            ],
+            "bbox": [
+                2455,
+                660,
+                3277,
+                5070
+            ],
+            "full_article_id": 11,
+            "id": "11_1827-11-27_p1_sn83025530_00271740220_1827112701_0272.json"
+        },
+        {
+            "object_ids": [
+                14,
+                19
+            ],
+            "headline": "From the Providence Gazette.\nTHE FROGS OF WINUEFANr.",
+            "article": "II\" Oto Co'ohy 1hte-.J0nhden on 1dct.\nWHEN these free states were colonies\nUnto the mother nation,\nAnd in Connecticut the good\nOld Blue Laws were in fashion,\nA circumstance which there occur'd\nAnd much the mind surprises\nUpon rehecton) then gave rise\nTo many strange surmises.\nYou all have seen, as presume,\nOr had chance to see\nThese strange amphibious quadrupeds,\nCall'd Bull-Frogs commonly\nWell, in Connecticut 'ts said\n\n\nBy those who make pretensions\nTo truth, these creatures often grow\nTo marvellous dimensions.\nOne night in July '5s\n\n\nThey left their home behind 'cm,\nWhich was an oak and chesnut swamp\nAbout FIVE miles from Windham.\nThe cause was this the summers sun\nHad dried their pond away there\nSo shallow, that, TO save their souls,\nThe Bull-Frogs could not stay there.\nSO, in regiment they hoppd,\nWith many curious antic,\nAlong the road which led unto\n\n\n\nThe river Minnomantic.\nSoon they in sight of Windham came,\nAll in high perspration,\nAnd held their course tow'rd the same\nWith loud vociferation.\nYou know such kind Of creatures are\nBy nature quite voracious\nThus they, compell'd by hunger, were\nRemarkably loquacious.\nUp flew the windows one and all,\nAnd then with ears erected,\nFrom every easement gaping rows\nOfnight-cap'd heads projected.\nThe children cried, the women scream'd,\n60 Lord have mercy on us\nThe French have come to burn us out,\nAnd now are close upon u.s.\"\nA few, upon the first alarm,\n\n\nThen armed themselves TO go forth\nAgainst the foe, with guns and belts,\nShot, Powder-horns, and so forth.\nSoon all were running here and there,\nIn mighty CONSERVATION,\nResolved of the town to make\n\n\nquick evacuation.\nAway they went across the lots,\n\n\nHats, caps and wigs were scatter'd,\nAnd heads were broke, and shoes were lost,\nShins bruis'tl and noses batter'd.\nThus, having gain'd mile or two,\n\n\nThese men ofsteady habits,\nAll snug behind an old stone wall,\n\n\nLay like nest of rabbits.\nAnd in this state, for half an hour,\n\n\nWith Jaws an inch assunder,\nThey thought upon their goods at home,\nExpos'd to lawess punder.\nThey thought upon their helpless wives,\nTheir meeting house and cattle,\nAnd then resolved to sally forth\n\n\nAnd give the Frenchmen battle.\nAmong the property which they\n\n\nHad bro't with them to saveit,\nWere found two trumpets and drum,\n\n\nJust as good luck would have it.\nFifteen or twenty iewsharps then\n\n\nWere found in good condition,\nAnd all the longest winded men\n\n\nWere put in requlslton.\nStraichtway, in long and loud alarm,\n\n\nSaid instruments were clang-ed,\nAnd the good old one hundredth psalm\n\n\nFrom nose and jewsharp twang-ed.\nSuch as we're armed in order ranged,\n\n\nThe music in the centre,\nDeclar'd they would not run away,\n\n\nBut on the French would venture.\nThere might have been among them all\n\n\nSay twenty guns or over\nHow many pitch-forks, scythes and Halls\n\n\nnever could discover.\n\n\nThe rest agreed to close the rear,\n\n\nAfter some intercesson-\nAnd all together made queer\nAnd curious procession.\nSome were persuaded that they saw\nThe band of French maranders,\nAnd not few declared they heard\nThe officers give orders.\nThese words could be distinguished then,\nDyer Hellerkln, and Fete ) ;,\nAnd when they heard the last, they though\n\n\nThe French desired treaty\nCo three GOOD sober minded men",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 853,
+                    "y0": 820,
+                    "x1": 1622,
+                    "y1": 917
+                },
+                {
+                    "x0": 887,
+                    "y0": 938,
+                    "x1": 1627,
+                    "y1": 5065
+                }
+            ],
+            "bbox": [
+                853,
+                820,
+                1627,
+                5065
+            ],
+            "full_article_id": 20,
+            "id": "20_1827-11-27_p1_sn83025530_00271740220_1827112701_0272.json"
+        }
+    ]
+}

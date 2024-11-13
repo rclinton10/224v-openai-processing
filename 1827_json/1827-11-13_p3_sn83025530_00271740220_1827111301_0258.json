@@ -1,0 +1,738 @@
+{
+    "lccn": {
+        "title": "Delaware journal.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2638-6917",
+        "lccn": "sn83025530",
+        "start_year": "1827",
+        "end_year": "1832",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [
+            "sn85042477"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn83025530",
+        "edition": "ed-01",
+        "date": "1827-11-13",
+        "pages": [
+            "seq-3",
+            "seq-1",
+            "seq-4",
+            "seq-2"
+        ]
+    },
+    "page_number": "3",
+    "scan": {
+        "lccn": "sn83025530",
+        "edition": "ed-01",
+        "date": "1827-11-13",
+        "page": "3",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-11-13/ed-1/seq-3.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-11-13/ed-1/seq-3/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-11-13/ed-1/seq-3/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn83025530/00271740220/1827111301/0258.jp2",
+        "height": 5552,
+        "width": 3616
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2541,
+                "y0": 4367,
+                "x1": 3353,
+                "y1": 4928
+            },
+            "class": "article",
+            "raw_text": "VWT ILL be opened on the first Monday in De-\nw cember next, under the superintendence of\nMiss ISABELLA ANDERSON.\n\n\nTerms Reading, Writing, Spelling, SC. 81 per\nquarter: payable in advance.\n\n\nGeography, arithmetic, and plain needle work,\nIS 80 cts. per quarter.\n\n\nEmbroidery and Painting, IS per quarter.\n\n\nGood boarding can be had in the village on reas-\nenable terms JOHN EDDOWES, Secy.\n\n\n.Hidd,eoeya Del. Nor. 5, 1897. 59--3m\n\n\nThe papers that have published the Advertise\nment for the Classical School in this institution, are\nrequested TO insert the above and send their bills to\nthe Secretary.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2562,
+                "y0": 4246,
+                "x1": 3296,
+                "y1": 4355
+            },
+            "class": "headline",
+            "raw_text": "'Hhe EemaAe School IN the\nMIDDLETOWN ACADEMY",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 86,
+                "y0": 3812,
+                "x1": 893,
+                "y1": 4724
+            },
+            "class": "article",
+            "raw_text": "The U. Telegraph denies the truth of the as\nserton that Gen. jackson threatened to cut off the\nears Of an u S. Senator. In reply the Richmond\nWing remarks\n\n\ntwas first published in this paper, in Dec. 1896 upon\nte authority uf John y ler Senator OF the u states\nMr. Tyler in iynchbls, sate, it to several yenenen\n'heTe from whom received 1t in October, lo4o ana IN\nAeolownS D-cemocr ila3sied it word tor word as we\nieccs ed it,\n\n\nsnae repnblshng the statement, we are assured upon\nnn1ao!aGle authority that Mr. fazewei knows 1t TO pc\nsubstantially true, aud has frequently spoken OF it IN con-\nversahon therefore rests the althorty OF Mr..\nlazS%ell and MIR Tyler Let tnose gentlemen deny OF\nverify it. Unless they speak their silence is decisive CT\nus truth. Ii they contradict it, which most assuredy hey\nWiiho We shall make aonenent to Gen jackson VIII\nmore pleasure than published the statement\n\n\nThe U. S. Gazette, published in the city where\nCommodore Decatur often resided, states that per\nsons IN that place or vicinity, had the same accoun\nfrom the Conmodorc himself But all this will pro\nhably be an additional recommendation Of the Gcn\neral IN the eyes Of some Of his advocates",
+            "legibility": "Questionable",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 246,
+                "y0": 3751,
+                "x1": 694,
+                "y1": 3800
+            },
+            "class": "headline",
+            "raw_text": "CUTTING EARS OFF.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1734,
+                "y0": 4797,
+                "x1": 2533,
+                "y1": 5249
+            },
+            "class": "article",
+            "raw_text": "UN1vERssLIsM.-An attempt having been made by\nsome of the followers of Dir. NneeIaud short time\nsinse, to establish congregation for him near Hack\netstown. in this county, one Of the preachers. after\nharangung his audience for long time, observed.\n.tha in case it was tie desire of the people, he wocd\nreturn and address them again the following week !\"\nAfter waiting considerable length Of time, an old\ngentleman arose and observed \"Sir. it you have\npreached us the truth to night, we don't need you.\nland if you have preached lie: re don't want YOU.\nIS!ight encouragement that.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1834,
+                "y0": 4740,
+                "x1": 2407,
+                "y1": 4785
+            },
+            "class": "headline",
+            "raw_text": "from The Irenton True american.",
+            "legibility": "Questionable",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2528,
+                "y0": 3665,
+                "x1": 3335,
+                "y1": 4221
+            },
+            "class": "article",
+            "raw_text": "yHyTIE Commissioners under the Act of December\nID Session 1925, ior receiving subscriptions to the\nstock Of the pennsy ylvania. Delaware and Maryland\nSteam Navigation Company, hereby give notice that\nthe first lnstalment OF Five Dollars per share in said\nCompany is requested to be paid by the Stockhold-\ners who have subscribed at the Franklin Bank of\nBaltimore, or at the Bank of ofDelaware, Wilmington.\non or before the Goth inst. and until such time the\nBooks will he opened for additional subscriptions,\nat the same places.\n\n\nThomas TENANT, JAMES L. HAWKINS,\n\n\nGEORGE RGIsToN, WILLIAM MEETEER,\n\n\nVIM w. SEAroN, EDWARD +. BAILY\n\n\ntN99",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2779,
+                "y0": 3582,
+                "x1": 3049,
+                "y1": 3653
+            },
+            "class": "headline",
+            "raw_text": "N Office.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2506,
+                "y0": 2238,
+                "x1": 3322,
+                "y1": 3562
+            },
+            "class": "article",
+            "raw_text": "1t appears from Newly ork papers, that from in-\nformation received from Ia or Is counties out Of the\nSIS IN the State that the jackson ticket has, in most\nOF those counties. succeeded.\n\n\nIn the city of New York, the Jackson majority is\nabont 5000 More than 21 ,0U0yotes were taken--\nbeing nearly 5000 more than on any former occasion.\n\n\nWild duck' shooting. ng.---Gentlemen who OCCASION\nally indulge in this sport, inform us, says the Ame-\nrican, that the Rivers and Creeks emptying into\nthe upper part Of the Chesapeake bay, have been\nthronged with wild ducks to an unprecedented de-\ngree. The markets ior some days past have been\nabundantly supplied With ca,scassJuchs and rcd-\nheads, at very low rates.\n\n\nThe aUay soe shoot IN Dorchester \"A lad, living\nwi h Mr. Joseph Cation, ON rayor's Island in this\ncounty, killed. on the th ult. .forty-eight acid\nduchs at single Slot-CamJridge Chronicle.\n\n\nThe New York Statesman says, that the SuLpHATE\nof QulNlNE has become an important branch of in\ndustry in France, where, according to the Monthly\nMagazine, several large manufactures have been es-\ntablished for tile purpose. 1t is calculated that nine\nty thousand ounces were prepared last year, which,\nallowing that thirtysix grains administered to\nevery sick person 10 whom it was prescribed, would\nmore than suffice for million, four hundred Il for\nty thousand patients. 1t is hardly probable that it\nhas been administered to so large number in that\nspace of time, and there is therefore cause for hop\ning that the expense fhe article, whichis so burh\nensomc to the poor, may be greatly essened.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2775,
+                "y0": 2190,
+                "x1": 3023,
+                "y1": 2234
+            },
+            "class": "headline",
+            "raw_text": "NEW-yORK.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2475,
+                "y0": 273,
+                "x1": 3301,
+                "y1": 2165
+            },
+            "class": "article",
+            "raw_text": ".Team Maaufacfoyy \"a mandatory Of Britain\nMia Ware, worked BY steam, has been IN operation\nin part for few weeks, in Taunton, Mass. Among\nthe articles manufactured are Coffee pots and tea\n\n\nDts, which, OF the kind, equal to any Of foreign\nmanufacture. Other articles Of this kind of ware\nhave been manufactured. and will be in still greater\nvariety manufactured at this establishment The\nbuilding OF the manuactoly is of brick, two stories\nhigh, 50 by so feet, with l.. projection 50by 90\nfeet. The engine is of six horse power, and will\nbe sufficient it is supposed, to carry as much mach\ninery as will fill the building; at present it is partly\nfilled, and is hardly yet fairly in operation. The\nengine requires the consumption Of but two feet Of\npine wood daily.\n\n\nWe are informed says the National Intelligencer.\nthat the favorable reception of the first volume Of A\nCollection OF Debates the .dd0ptio Of the federuL\nConstitutions has induced Mr.. Elliot to endeayor to\ncomplete the materials necessary for the whole work,\nwith as little delay as possible accordingly, we are\ntod that the second volume is already In the press,\nand will be published early in December pext and\nthat the third and last, will also be given to the pub\nlie i'll the course Of the ensuing year.\n\n\n.Soves.-It has been desideratum with house,\nKeepers to find some plan by which they could COM\nblne the comfort OF template stove and the ecOno-\nmy of anth. lcite coal. II we are not deceived,\ntwo ingenious mechanics have succeeded in supply\ning this want. We called in at the foundry, No.\na94 Market street. yesterday, and saw in full ope-\nration very simple contrivance. but one calculated\nto effect much good. 1t consisted Of an iron box,\nwith CRATE bottom, slid into the furnace body Of\na common ten plate sove--the outward end compile\ntely closing the entrance, excepting an Aperture in\nthe lower part of the box to admit draft Of air.\nThis box was filled with anthracite coal. which bur-\nned admirably, and gave more heat than is usually\nimpaired by the common quantity oi wood. AS\nthis box may be put into the stove and drawn out\nwith as much ease as stick of Wood. there seems\nno reason why it should not be tried in fames-\nthe cost will he about 81 so or S2.--Our opinion\n\n\nis, that it will be found to answer all the purposes 0f\nfamily for cooking and heating roums\n\n\n4 U.S. Gazette",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2554,
+                "y0": 5040,
+                "x1": 3357,
+                "y1": 5240
+            },
+            "class": "article",
+            "raw_text": "A First Rate Stand, in Market-Street, occupied as\nma Dry Good Store, by William b. 1onlinson.\nThe payment to be made to s,it the purchaser.\n\n\nINQUIRE of JOSEPH po9uE, No, lO7, Market\nstreet, Wilmington. 2s-4t",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2757,
+                "y0": 4949,
+                "x1": 3127,
+                "y1": 5023
+            },
+            "class": "headline",
+            "raw_text": "Eos' SAFE,",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 107,
+                "y0": 4836,
+                "x1": 919,
+                "y1": 5262
+            },
+            "class": "article",
+            "raw_text": "The Meetings in Virginia, for the appointment Of\nDelegates to attend the Convention of Friends Of\nthe administration at Richmond, continue to multi\nply.\n\n\nThe State is reused from its apathy, and the Com\noination party feel the coming of public dis\nappreciation of their projects. The friends of Gen.\nJackson, on the other hard, who thought that the\ncontest was over, are buckng on their arnor-\nAfraid to tru to their old machinery Of Legislative\nCaucus sing, hey toe are calling for the aid vf Dele",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 229,
+                "y0": 4749,
+                "x1": 767,
+                "y1": 4798
+            },
+            "class": "headline",
+            "raw_text": "From the National MieAgencer.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -2
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 246,
+                "y0": 4797,
+                "x1": 672,
+                "y1": 4832
+            },
+            "class": "author",
+            "raw_text": "VIRGINIA.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 29,
+                "y0": 225,
+                "x1": 837,
+                "y1": 3930
+            },
+            "class": "article",
+            "raw_text": ".,o,,e HE manufacturers which have spruus ;a.o\nssanca. and attained an unparalleled tuataslty,\nthroughput the United States, during the pcrioa OF\nf,nnnean wars. This source Of national ludepen-\nla,ca and wealth, anxousy Recommend to The\nnrompt and constant guardianship Of Congress-\nDr. Floyd. last winter, writing to friend in Vir\n.;,;, declined the governors char, and preferred\n|,emainng in Congress, where, at the time, the\nl.. Combination Of the large Stat.s\" was in process\n|ofcompletion. 1t was matter quite certain that\nouthny short Of combination\" Of any materials\n,b,t could be useful and Available could prevent\nsc present administration from giving general sat\n;.fction to the country. Inis . Combnaton'\nembraced men--sonlc Of whom were friendly, and\nsou, who had been previously very hostile to General\nlack 3on's pretenioEs. The causes and the objects\nOf their opposition varied but they agreed in most\n,;poro,s assault on the Administration.\n\n\nTie Richmond Enquirer, which had summed up\nil; various denunciatious against the General, by\n|monouncing his election to be : CURSE UPON the\nCouxrnY,\" had, one would suppose,a difficult part\n10 perform. tinined in circulating all those good\ntale, that were supposed to be absolutely necessary\n| 1, the accomplishment Of their object As to real\nqualification for the office, the part of General\nJackson, they knew it would be utterly impossible\n10 convince many men of dispassionate minds, com\nmon sense and moderate information. Hence the\nvital importance of the charges which the Opposition\nmust make, vary, and repeat, in order to degrade\n.le Administration low General jackson The\nEnquirer had been much read, and respected but\nc time has now come, when Nirgnans, IN County\nmeetings, publicly declare that those witnesses who\n\n\nere to support and substantiate those opposition\n\n\nbarees, have mast n.iserably failed that, though\nMr., Adams is not their first CHOICE they certain,\nprefer him to Gen. Jackson, especially as the Gene\nal and his aids have been routed by the very mer\nwhom they relied to gain the battle; and that\n\n\noJrh thev have not been strenuous advocates OF the\nADMINISTRATIONS and were even wiling TO unite III op\nposition 10 It, bad the JacEsonian charges been sub\n\n\nantiatcd they now fully satisfied Of their tal\n\n\nty, aud place the Hero At the very head and iion\nol their circulation\n\n\nSuch men as these, thongh they may have beer\n\n\nranked ia the Opposition, do not belong 10 the Com\n\n\nination. The Combination are persons more IN\nilenced by passion ard personal views than an.\nling else Men may he opposed on much more\npatriotic grounds and oi such men there are, NJ\ndoubt, many in me Opposition. These Nlrgnians\n\n\no whom alusion has been made, do not belong I\n\n\nThe Combination, they never would have iiincl\ned. Have they SO much more brains and intormf\n\n\nton than othcrs--not proiessed friends OF the At\nmnistratou--tbat they have been able duly to est\n\n\nnate the real character of this contest No. u\n\n\nac charges ofthe Combination appear 10 them to\ni false by lii. showing Of their chosen witnesse\n\n\nana DO they ackno,e'sdge i Yes and hence the\n/ have seeded.\n\n\nu This shuuldconvncc the public that though thel\n\n\nare men among the Opposition, whose objects a\n\n\npsrsonrl even at the expense of disorder and co\n\n\nision there are others not beyond the influence\n\n\niac AMI that developenent Of affairs that time a\n\n\nfarther information produce.\n\n\nThe Combination, in reality is but a small pc\nion Of the Opposition but Of the former there\n\n\nno hope, and of the latter, only when they can $\n\n\n.linss as they really are. Then, they will spe\nand act like these Virgnians.\n\n\nCUrTIf.G EARS OFF.\n\n\nThe U. S Telegraph denies the truth of the\nsertion that Gen. jackson threatened to cut off\n/ cara nf Al, IT Snn-fnr In rarlv fhn Rirhmf",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 897,
+                "y0": 3526,
+                "x1": 1709,
+                "y1": 5262
+            },
+            "class": "article",
+            "raw_text": "FFOn3 ire tfutl0NW journal.\n\n\nMeetings of the friends Of the Administration are\ndaily taking place i'll this State, with view to the\nlection Of delegates to the convention winch will\nbe held at Harrisburg the 4th af January next\nThe most cheering antcipatlons are Justified by the\nfrequency of these meetings, and the character and\nnumber of those by whom they are attended. 1he{\nBucks County intelIigencer received yesterday,\nsays =\" We find it impossible to crowd within the\n\n\nlimits of our paper, even suanary notice OF the\nnumerous meetings, friendly to the Administration,\nheld in various parts Of this State' The resolu-\ntions adopted at Montgomery, Fayete, Beaver.\nPerry and Cumberland, all approve the course OF\nthe Administration, and express determinations to\n| support its policy.\n\n\nNEW JERSEY.\n\n\n| numerous and respectable meeting Of gentle\nmen friendly to the Administration from | Of the\nfourteen counties of New Jersey, took place at\nrr,nton on Saturday last. William B. Ewing, Esq.\nwas appointed chairman. The following resolu\ntions were unanimously adopted:\n\n\nResoIUed, That the adoption of vigorous and con-\ncerted measures be recommended to the friends OF\nthe Administration throughout the state, to secure\nthe reelection of that able statesman and patriot,\nJohp O. Adams to the Presidency of the United\nStates.\n\n\nRosolvea, That it is the opinion of this meeting\nthat the friends Of the General Administration soult\n\n\nhold State Convention at lrenton on the ~\n\n\nday Of February next at ten clock A. M. and INA\n\n\nthe friends of the Administration in each township\n\n\nin the state be respectfully requested to choose an'\ni send two delegates to attend the state convention\nIII for the selection Of candidates to form ticket to\ni electors of President and vice president OF the Unit\n\n\ned States, and for the adoption of such other mca\nl., sures as may be deemed expedlent\n\n\nJ, Resolued, that the proceedings OF this meeting b\n!. published by the papers friendly to the Adminisra\ne ton throughout the State.\n\n\n,e Nine Administration meetings, in as many di'\ne tricls are called in sin. lie paper in Kentucky",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 1074,
+                "y0": 3470,
+                "x1": 1475,
+                "y1": 3505
+            },
+            "class": "headline",
+            "raw_text": "PENNSYLVANIA.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -2
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 1061,
+                "y0": 3517,
+                "x1": 1509,
+                "y1": 3549
+            },
+            "class": "headline",
+            "raw_text": "From TIE .NatiONW J0Ufn0I",
+            "legibility": "Questionable",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 845,
+                "y0": 273,
+                "x1": 1652,
+                "y1": 3596
+            },
+            "class": "article",
+            "raw_text": "gates ii counties wheys lie Members of !e i.egis\natlre are known 10 Dc op,nacd 10 them.\n\n\nFrom The 4fg.@itkltu Gazette.\n\n\nHE County meeting, III Fmgi ginla tor The purpose\nOF arrestlng The dangerous mai ch Of Military lanat\ncsin continue 10 be held with increasing spirit and\nconfidence. Every paper we receive from the Did\nDutnlniou brings the proceedings Of some large as\nsenblase Of the most intelligent citizens Of the\nState reused to action by the alarming possibility Of\nhaving their commonwealth converted into Militia\nry Dlstrict-their laws into articles Of wal--and\nthemselves subjected to the summary operations OF\nINDEPENDENT CouRr MAR1IALs,\" whose bloody\ndecisions would be promptly executed, and whose\nacts of mercy and justice would invariably be set\naside as mistaken lenty, or misconceptions of the\nmerits of the case. We once thought that when the\ndenominations were cotapleted'' Virginia would be\nparty; but the late glorious manifestations of her\ndevotion to Civil Government have SO completely\ndlssipated our fears that we count upon her votes\nwith almost as much certainty we do upon those\nof New Jersey, Ohio and Delaware.\n\n\nFrom tie National Journal.\n\n\nBetween fifty and sixty counties of Virginia have\nnow either held meetings and nominated Delegates\nto the Richmond Convention, or have expressed an\nintention to do 50. Richmond Norfolk, and Lynch\nburg have stepped forward in the same cause, and\nthe prophetic declaration of one OF the most en\nnent citizens of the State that the Jackson fire will\nbe extinsuished with more rapidity than it was kin\ndied, is il the progress of expeditions iulhlment\n\n\nThe alarm Of the Editors Of the Enquirer IS ev\ndent in its culun.ns. Their fears become more OBJ\ntrusive every hour. In their last paper, their cal\nOH the jackson party assumes the tone OF an ear\nnest enteaty. They '.are informed\" (by whom,\n'.that the time OF the meeting OF the Caucus vii\nbe fixed early after the meeting OF the Legislature\nthat the distant Delegates may have notice Of it,\nIf there Is no party-no junto (as the Enqure\n| ,1a u th.r. lp,lnrc min pr\nthe Editors Of this arrangement TO get up strong\nCaucus, of jackson members OF the Legislature ant\njackson Delegates mixed!\n\n\nThe movements Of the Administration party ex\ncited Only the contempt Of the Enquirer shol\ntime since. Ihey seem to hnld their own contemp\npretty cheap, as they distribute it 50 freely and yr.\ntuitously. Now, however, they tell US, 1.-THE mend\nOf the Administration avail themselves OF all tn\ninfluence hey can derive from the display OF 'saane'\nTheir cunct.t, and zeal, and activity, are yer\ngreat\" Contempt seems here to have given Llac\n10 admiration, mixed with terror, for the next sen\ntence is q pathetic appeal: '.Nhy should we b\nless animated or iail to employ equal zeal and Ell\nergss\"\n\n\nOFFICIAL RICHMOND JUNrA ORDERS!\n\n\nFrom the following n,a,,doteitis evident the \"Con\n5inaiioa Cnucus party' in Vlrgnaarc getting al\narmed at the signs Of the Times.\n\n\nFrom The Richmond Eiquirer.\n\n\n\n\n\naz The friends of General Jackson throughol\nthe State will see the proprety Of being represente\n, in the CAUCUS to be held in this city during II\nwinter for the nomination OF an Electoral licke\nThose counties whose members of Assembly are f\njackson and will go into Caucus, WILL of course.\nrepresented by them. But, in order that the opp\n: nens oil the Administration in counties where tn\nis not the case, may be represented it IS sugseste\nthat they hold meetings and appoint delegates. l'l\nNp III :\n, Counties and there can be no objection to its ben\ny generally pursued. The time of the meeting Of 4\nCaucus, we are informed, will be fixed early aft\n\n\nthe meeting Of the Legislature, that the distant del\nrates may have notice Of it. The friends ai Z\ne Administration avail themselves Of all the inucn\nl. they can derive from the display of namss lht\n&c concert, and zeal and activity. very great\nu Why should we be less animated, or fail to empl\nequal zeal and energy. -----\n\n\nPENNSYLVANIA.\n\n\nr Fran Ire National Joufnol\nis Meetings OF the friends Of the Administration {\n",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1660,
+                "y0": 360,
+                "x1": 2476,
+                "y1": 4073
+            },
+            "class": "article",
+            "raw_text": "representatives. OF Ver,unt Oh the 3lst ait after an\nanimated discussion. b. vote Of i64 IL -.\n\n\n.'Reso'\"ca, That in the opinion OF this House,\nthe policy adopted by the present Administration\not the Gcneral Government is well calculated To |\npromote the permanent prosperity ai the nation, and\nis approved by the people OF Vermont. And that\nthe reelection of JOHN QulNoY ADAMS to the Pres\nsdency OF the UGlted States, is an object highly de-\nsrable.''\n\n\nHalf Of the SO opponents of the resolution were\nadministration men, who doubted the expediency OF\nacting upon it in the Legislature. The Governor\nand Council. i was confidently expected, would pass\nthe resolution una nimously.\n\n\nEASTERN BouADARy-Ihe question relative to\nour North Eastern Boundary is fast drawing to\ncrisis The outrages recently perpetrated by the\nBritish authorities Of New Brunswick, are such\ncannot be longer winked out of sight. 1t is time\ntnr the people of this state to know that they i'll\ndanger Of being stripped Of one third OF their terri\n\n\ntory. IL this subject has hitherto excited but little\nor no interest among the people Of this state, it Isl\nbecause the nature and extent of the British claim\nhas not until lately been generally understood, and\nwe apprehend is not now understood so generally\n| AS it deserves TO be- The British claim by line\ndrawn from Mars Hill to the Katahdin. and from\nthe Katahdin by line drawn along between the\nheads Of the streams which empty into the Penob-\nscot and those which empty into the st. Johns, un\ntil it strikes the dividing line between Maine and\n\n\nLower Canada. Ii the reader will look at the map\nhe will see that it cats oF from Maine a territory\nequal 10 the aohole Of Massachusetts,. The land it.\nself it is said. exceeds III fertility am tract of equal\n\n\nsize within New England. Here then is the ter\n\n\nritory, capable of sustaining population OF halt\n\n\nmillion; within the rshtful jurisdiction of Maine.\n\n\nwhich we are in danger of having wrested from us\n4 for ever.\n\n\n! Our title to this country, we say, is as clear and\n\n\nindisputabe as it is to any other part Of the state\n4 The British may extend their claims to the kene-\n\n\nbee on the same grounds precisely that they claim,\n\n\nto the Penobseot and if we yield to this VIC cannot\n\n\nknow what pretcnces will be set up afterwards. -\ni The treaty Of 1888 establishes boundary too\n!, clearly to be misunderstood except by hsoe who\nare determined not to understand it. The treaty\n\n\nlis explicit that the people OF this state have never\n\n\nsupposed that it could be brought into doubt, and il\nIs with us much surprise Indignation, that they\nhave seen the and extent OF the British CLAIM\nBut if the attention Of the people has been les.\n\n\ndirected to this ubect than its Importance deserves,\n\n\nTheir feelings will be aroused by AN event that has\n\n\nrecently occurred, in such manner that they vii\nnot be easily queted.\n\n\nMr.. John Baker, pea cable citizen of this state\n\n\nOccupying farm which he holds under joint gran\nfrom Massachusetts, and Maine, has been arrested\nwithin our territorial jurisdiction by the oflcer\nq of the province of New Brunswick, accompanies\ne as we have understood, by armed force. aud car\n\n\nried to Fredericton, to to the British King\nWe have recently learnt that he has been tried, con\nG ycted and sentenced to pay fine OF el50 on 5000\n] and to be imprisoned for six months and that he\nIS now actually ncarcera,ed under the sentence Of tn\nd court in Frederickton Jail. Portland yArgos.\nErtract Of letter from an .4nericaa gentleman a\n= = present tfacelng IN Eng'aad, lated Sept 30th.\n,r \"a few days since visited the Tunnel under til\np Thames, which is Of the most gratifying curos\nties have seen in London. LII is about three mile\n,e below the London bridge, and OH the Kent. side\nil the river. We first descended the shaft, remer\n= dous cavity in the earth, about hundred let\ny deep and then proceeded through one of the a\n\n\nched carriage ways, which was beautifully lit u\n\n\nwith gas. We passed to the extreme end, whe\n\n\nthe workmen are employed, which is sos feet fro\nre the shaft, and OF course considerable distance u\nne der the river, and which believe to be about ha\ni'll way across. As yet they have not recommence\n= their work of boring, but they expect to do so in\nhe fe v days, as the break In the river is complete\nnd stopped, and the Tunnel free from water. T.\nhe Steam Engine down the shalt, draws away the d\n~ in carts. as fast as the wokneu till the, by the OF\nhe er Arch way, which is laid within Rail Roa.i. ha\nhe great confidence IN its success for what is there til\nIN, men cannot do, when they have at their dispos\nlu- plenty Of money, and plenty of force.\n\n\nerr, On the same day we visited the Tower, and\nof spected every thing it contained. The Armu\n\n\nIt. sc",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 1794,
+                "y0": 268,
+                "x1": 2320,
+                "y1": 308
+            },
+            "class": "headline",
+            "raw_text": "The Grces s5..:.sa:as F,1-c,~-.",
+            "legibility": "Illegible",
+            "full_article_id": 18,
+            "reading_order_id": -1
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                10,
+                0
+            ],
+            "headline": "'Hhe EemaAe School IN the\nMIDDLETOWN ACADEMY",
+            "article": "VWT ILL be opened on the first Monday in De-\nw cember next, under the superintendence of\nMiss ISABELLA ANDERSON.\n\n\nTerms Reading, Writing, Spelling, SC. 81 per\nquarter: payable in advance.\n\n\nGeography, arithmetic, and plain needle work,\nIS 80 cts. per quarter.\n\n\nEmbroidery and Painting, IS per quarter.\n\n\nGood boarding can be had in the village on reas-\nenable terms JOHN EDDOWES, Secy.\n\n\n.Hidd,eoeya Del. Nor. 5, 1897. 59--3m\n\n\nThe papers that have published the Advertise\nment for the Classical School in this institution, are\nrequested TO insert the above and send their bills to\nthe Secretary.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2562,
+                    "y0": 4246,
+                    "x1": 3296,
+                    "y1": 4355
+                },
+                {
+                    "x0": 2541,
+                    "y0": 4367,
+                    "x1": 3353,
+                    "y1": 4928
+                }
+            ],
+            "bbox": [
+                2541,
+                4246,
+                3353,
+                4928
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-11-13_p3_sn83025530_00271740220_1827111301_0258.json"
+        },
+        {
+            "object_ids": [
+                14,
+                1
+            ],
+            "headline": "CUTTING EARS OFF.",
+            "article": "The U. Telegraph denies the truth of the as\nserton that Gen. jackson threatened to cut off the\nears Of an u S. Senator. In reply the Richmond\nWing remarks\n\n\ntwas first published in this paper, in Dec. 1896 upon\nte authority uf John y ler Senator OF the u states\nMr. Tyler in iynchbls, sate, it to several yenenen\n'heTe from whom received 1t in October, lo4o ana IN\nAeolownS D-cemocr ila3sied it word tor word as we\nieccs ed it,\n\n\nsnae repnblshng the statement, we are assured upon\nnn1ao!aGle authority that Mr. fazewei knows 1t TO pc\nsubstantially true, aud has frequently spoken OF it IN con-\nversahon therefore rests the althorty OF Mr..\nlazS%ell and MIR Tyler Let tnose gentlemen deny OF\nverify it. Unless they speak their silence is decisive CT\nus truth. Ii they contradict it, which most assuredy hey\nWiiho We shall make aonenent to Gen jackson VIII\nmore pleasure than published the statement\n\n\nThe U. S. Gazette, published in the city where\nCommodore Decatur often resided, states that per\nsons IN that place or vicinity, had the same accoun\nfrom the Conmodorc himself But all this will pro\nhably be an additional recommendation Of the Gcn\neral IN the eyes Of some Of his advocates",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 246,
+                    "y0": 3751,
+                    "x1": 694,
+                    "y1": 3800
+                },
+                {
+                    "x0": 86,
+                    "y0": 3812,
+                    "x1": 893,
+                    "y1": 4724
+                }
+            ],
+            "bbox": [
+                86,
+                3751,
+                893,
+                4724
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-11-13_p3_sn83025530_00271740220_1827111301_0258.json"
+        },
+        {
+            "object_ids": [
+                15,
+                2
+            ],
+            "headline": "from The Irenton True american.",
+            "article": "UN1vERssLIsM.-An attempt having been made by\nsome of the followers of Dir. NneeIaud short time\nsinse, to establish congregation for him near Hack\netstown. in this county, one Of the preachers. after\nharangung his audience for long time, observed.\n.tha in case it was tie desire of the people, he wocd\nreturn and address them again the following week !\"\nAfter waiting considerable length Of time, an old\ngentleman arose and observed \"Sir. it you have\npreached us the truth to night, we don't need you.\nland if you have preached lie: re don't want YOU.\nIS!ight encouragement that.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1834,
+                    "y0": 4740,
+                    "x1": 2407,
+                    "y1": 4785
+                },
+                {
+                    "x0": 1734,
+                    "y0": 4797,
+                    "x1": 2533,
+                    "y1": 5249
+                }
+            ],
+            "bbox": [
+                1734,
+                4740,
+                2533,
+                5249
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-11-13_p3_sn83025530_00271740220_1827111301_0258.json"
+        },
+        {
+            "object_ids": [
+                13,
+                3
+            ],
+            "headline": "N Office.",
+            "article": "yHyTIE Commissioners under the Act of December\nID Session 1925, ior receiving subscriptions to the\nstock Of the pennsy ylvania. Delaware and Maryland\nSteam Navigation Company, hereby give notice that\nthe first lnstalment OF Five Dollars per share in said\nCompany is requested to be paid by the Stockhold-\ners who have subscribed at the Franklin Bank of\nBaltimore, or at the Bank of ofDelaware, Wilmington.\non or before the Goth inst. and until such time the\nBooks will he opened for additional subscriptions,\nat the same places.\n\n\nThomas TENANT, JAMES L. HAWKINS,\n\n\nGEORGE RGIsToN, WILLIAM MEETEER,\n\n\nVIM w. SEAroN, EDWARD +. BAILY\n\n\ntN99",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2779,
+                    "y0": 3582,
+                    "x1": 3049,
+                    "y1": 3653
+                },
+                {
+                    "x0": 2528,
+                    "y0": 3665,
+                    "x1": 3335,
+                    "y1": 4221
+                }
+            ],
+            "bbox": [
+                2528,
+                3582,
+                3335,
+                4221
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-11-13_p3_sn83025530_00271740220_1827111301_0258.json"
+        },
+        {
+            "object_ids": [
+                16,
+                4
+            ],
+            "headline": "NEW-yORK.",
+            "article": "1t appears from Newly ork papers, that from in-\nformation received from Ia or Is counties out Of the\nSIS IN the State that the jackson ticket has, in most\nOF those counties. succeeded.\n\n\nIn the city of New York, the Jackson majority is\nabont 5000 More than 21 ,0U0yotes were taken--\nbeing nearly 5000 more than on any former occasion.\n\n\nWild duck' shooting. ng.---Gentlemen who OCCASION\nally indulge in this sport, inform us, says the Ame-\nrican, that the Rivers and Creeks emptying into\nthe upper part Of the Chesapeake bay, have been\nthronged with wild ducks to an unprecedented de-\ngree. The markets ior some days past have been\nabundantly supplied With ca,scassJuchs and rcd-\nheads, at very low rates.\n\n\nThe aUay soe shoot IN Dorchester \"A lad, living\nwi h Mr. Joseph Cation, ON rayor's Island in this\ncounty, killed. on the th ult. .forty-eight acid\nduchs at single Slot-CamJridge Chronicle.\n\n\nThe New York Statesman says, that the SuLpHATE\nof QulNlNE has become an important branch of in\ndustry in France, where, according to the Monthly\nMagazine, several large manufactures have been es-\ntablished for tile purpose. 1t is calculated that nine\nty thousand ounces were prepared last year, which,\nallowing that thirtysix grains administered to\nevery sick person 10 whom it was prescribed, would\nmore than suffice for million, four hundred Il for\nty thousand patients. 1t is hardly probable that it\nhas been administered to so large number in that\nspace of time, and there is therefore cause for hop\ning that the expense fhe article, whichis so burh\nensomc to the poor, may be greatly essened.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2775,
+                    "y0": 2190,
+                    "x1": 3023,
+                    "y1": 2234
+                },
+                {
+                    "x0": 2506,
+                    "y0": 2238,
+                    "x1": 3322,
+                    "y1": 3562
+                }
+            ],
+            "bbox": [
+                2506,
+                2190,
+                3322,
+                3562
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-11-13_p3_sn83025530_00271740220_1827111301_0258.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": ".Team Maaufacfoyy \"a mandatory Of Britain\nMia Ware, worked BY steam, has been IN operation\nin part for few weeks, in Taunton, Mass. Among\nthe articles manufactured are Coffee pots and tea\n\n\nDts, which, OF the kind, equal to any Of foreign\nmanufacture. Other articles Of this kind of ware\nhave been manufactured. and will be in still greater\nvariety manufactured at this establishment The\nbuilding OF the manuactoly is of brick, two stories\nhigh, 50 by so feet, with l.. projection 50by 90\nfeet. The engine is of six horse power, and will\nbe sufficient it is supposed, to carry as much mach\ninery as will fill the building; at present it is partly\nfilled, and is hardly yet fairly in operation. The\nengine requires the consumption Of but two feet Of\npine wood daily.\n\n\nWe are informed says the National Intelligencer.\nthat the favorable reception of the first volume Of A\nCollection OF Debates the .dd0ptio Of the federuL\nConstitutions has induced Mr.. Elliot to endeayor to\ncomplete the materials necessary for the whole work,\nwith as little delay as possible accordingly, we are\ntod that the second volume is already In the press,\nand will be published early in December pext and\nthat the third and last, will also be given to the pub\nlie i'll the course Of the ensuing year.\n\n\n.Soves.-It has been desideratum with house,\nKeepers to find some plan by which they could COM\nblne the comfort OF template stove and the ecOno-\nmy of anth. lcite coal. II we are not deceived,\ntwo ingenious mechanics have succeeded in supply\ning this want. We called in at the foundry, No.\na94 Market street. yesterday, and saw in full ope-\nration very simple contrivance. but one calculated\nto effect much good. 1t consisted Of an iron box,\nwith CRATE bottom, slid into the furnace body Of\na common ten plate sove--the outward end compile\ntely closing the entrance, excepting an Aperture in\nthe lower part of the box to admit draft Of air.\nThis box was filled with anthracite coal. which bur-\nned admirably, and gave more heat than is usually\nimpaired by the common quantity oi wood. AS\nthis box may be put into the stove and drawn out\nwith as much ease as stick of Wood. there seems\nno reason why it should not be tried in fames-\nthe cost will he about 81 so or S2.--Our opinion\n\n\nis, that it will be found to answer all the purposes 0f\nfamily for cooking and heating roums\n\n\n4 U.S. Gazette",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2475,
+                    "y0": 273,
+                    "x1": 3301,
+                    "y1": 2165
+                }
+            ],
+            "bbox": [
+                2475,
+                273,
+                3301,
+                2165
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-11-13_p3_sn83025530_00271740220_1827111301_0258.json"
+        },
+        {
+            "object_ids": [
+                12,
+                6
+            ],
+            "headline": "Eos' SAFE,",
+            "article": "A First Rate Stand, in Market-Street, occupied as\nma Dry Good Store, by William b. 1onlinson.\nThe payment to be made to s,it the purchaser.\n\n\nINQUIRE of JOSEPH po9uE, No, lO7, Market\nstreet, Wilmington. 2s-4t",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2757,
+                    "y0": 4949,
+                    "x1": 3127,
+                    "y1": 5023
+                },
+                {
+                    "x0": 2554,
+                    "y0": 5040,
+                    "x1": 3357,
+                    "y1": 5240
+                }
+            ],
+            "bbox": [
+                2554,
+                4949,
+                3357,
+                5240
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-11-13_p3_sn83025530_00271740220_1827111301_0258.json"
+        },
+        {
+            "object_ids": [
+                18,
+                22,
+                7
+            ],
+            "headline": "From the National MieAgencer.",
+            "article": "The Meetings in Virginia, for the appointment Of\nDelegates to attend the Convention of Friends Of\nthe administration at Richmond, continue to multi\nply.\n\n\nThe State is reused from its apathy, and the Com\noination party feel the coming of public dis\nappreciation of their projects. The friends of Gen.\nJackson, on the other hard, who thought that the\ncontest was over, are buckng on their arnor-\nAfraid to tru to their old machinery Of Legislative\nCaucus sing, hey toe are calling for the aid vf Dele",
+            "byline": "VIRGINIA.",
+            "bbox_list": [
+                {
+                    "x0": 229,
+                    "y0": 4749,
+                    "x1": 767,
+                    "y1": 4798
+                },
+                {
+                    "x0": 246,
+                    "y0": 4797,
+                    "x1": 672,
+                    "y1": 4832
+                },
+                {
+                    "x0": 107,
+                    "y0": 4836,
+                    "x1": 919,
+                    "y1": 5262
+                }
+            ],
+            "bbox": [
+                107,
+                4749,
+                919,
+                5262
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-11-13_p3_sn83025530_00271740220_1827111301_0258.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": ".,o,,e HE manufacturers which have spruus ;a.o\nssanca. and attained an unparalleled tuataslty,\nthroughput the United States, during the pcrioa OF\nf,nnnean wars. This source Of national ludepen-\nla,ca and wealth, anxousy Recommend to The\nnrompt and constant guardianship Of Congress-\nDr. Floyd. last winter, writing to friend in Vir\n.;,;, declined the governors char, and preferred\n|,emainng in Congress, where, at the time, the\nl.. Combination Of the large Stat.s\" was in process\n|ofcompletion. 1t was matter quite certain that\nouthny short Of combination\" Of any materials\n,b,t could be useful and Available could prevent\nsc present administration from giving general sat\n;.fction to the country. Inis . Combnaton'\nembraced men--sonlc Of whom were friendly, and\nsou, who had been previously very hostile to General\nlack 3on's pretenioEs. The causes and the objects\nOf their opposition varied but they agreed in most\n,;poro,s assault on the Administration.\n\n\nTie Richmond Enquirer, which had summed up\nil; various denunciatious against the General, by\n|monouncing his election to be : CURSE UPON the\nCouxrnY,\" had, one would suppose,a difficult part\n10 perform. tinined in circulating all those good\ntale, that were supposed to be absolutely necessary\n| 1, the accomplishment Of their object As to real\nqualification for the office, the part of General\nJackson, they knew it would be utterly impossible\n10 convince many men of dispassionate minds, com\nmon sense and moderate information. Hence the\nvital importance of the charges which the Opposition\nmust make, vary, and repeat, in order to degrade\n.le Administration low General jackson The\nEnquirer had been much read, and respected but\nc time has now come, when Nirgnans, IN County\nmeetings, publicly declare that those witnesses who\n\n\nere to support and substantiate those opposition\n\n\nbarees, have mast n.iserably failed that, though\nMr., Adams is not their first CHOICE they certain,\nprefer him to Gen. Jackson, especially as the Gene\nal and his aids have been routed by the very mer\nwhom they relied to gain the battle; and that\n\n\noJrh thev have not been strenuous advocates OF the\nADMINISTRATIONS and were even wiling TO unite III op\nposition 10 It, bad the JacEsonian charges been sub\n\n\nantiatcd they now fully satisfied Of their tal\n\n\nty, aud place the Hero At the very head and iion\nol their circulation\n\n\nSuch men as these, thongh they may have beer\n\n\nranked ia the Opposition, do not belong 10 the Com\n\n\nination. The Combination are persons more IN\nilenced by passion ard personal views than an.\nling else Men may he opposed on much more\npatriotic grounds and oi such men there are, NJ\ndoubt, many in me Opposition. These Nlrgnians\n\n\no whom alusion has been made, do not belong I\n\n\nThe Combination, they never would have iiincl\ned. Have they SO much more brains and intormf\n\n\nton than othcrs--not proiessed friends OF the At\nmnistratou--tbat they have been able duly to est\n\n\nnate the real character of this contest No. u\n\n\nac charges ofthe Combination appear 10 them to\ni false by lii. showing Of their chosen witnesse\n\n\nana DO they ackno,e'sdge i Yes and hence the\n/ have seeded.\n\n\nu This shuuldconvncc the public that though thel\n\n\nare men among the Opposition, whose objects a\n\n\npsrsonrl even at the expense of disorder and co\n\n\nision there are others not beyond the influence\n\n\niac AMI that developenent Of affairs that time a\n\n\nfarther information produce.\n\n\nThe Combination, in reality is but a small pc\nion Of the Opposition but Of the former there\n\n\nno hope, and of the latter, only when they can $\n\n\n.linss as they really are. Then, they will spe\nand act like these Virgnians.\n\n\nCUrTIf.G EARS OFF.\n\n\nThe U. S Telegraph denies the truth of the\nsertion that Gen. jackson threatened to cut off\n/ cara nf Al, IT Snn-fnr In rarlv fhn Rirhmf",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 29,
+                    "y0": 225,
+                    "x1": 837,
+                    "y1": 3930
+                }
+            ],
+            "bbox": [
+                29,
+                225,
+                837,
+                3930
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-11-13_p3_sn83025530_00271740220_1827111301_0258.json"
+        },
+        {
+            "object_ids": [
+                19,
+                23,
+                9
+            ],
+            "headline": "PENNSYLVANIA.\n\nFrom TIE .NatiONW J0Ufn0I",
+            "article": "FFOn3 ire tfutl0NW journal.\n\n\nMeetings of the friends Of the Administration are\ndaily taking place i'll this State, with view to the\nlection Of delegates to the convention winch will\nbe held at Harrisburg the 4th af January next\nThe most cheering antcipatlons are Justified by the\nfrequency of these meetings, and the character and\nnumber of those by whom they are attended. 1he{\nBucks County intelIigencer received yesterday,\nsays =\" We find it impossible to crowd within the\n\n\nlimits of our paper, even suanary notice OF the\nnumerous meetings, friendly to the Administration,\nheld in various parts Of this State' The resolu-\ntions adopted at Montgomery, Fayete, Beaver.\nPerry and Cumberland, all approve the course OF\nthe Administration, and express determinations to\n| support its policy.\n\n\nNEW JERSEY.\n\n\n| numerous and respectable meeting Of gentle\nmen friendly to the Administration from | Of the\nfourteen counties of New Jersey, took place at\nrr,nton on Saturday last. William B. Ewing, Esq.\nwas appointed chairman. The following resolu\ntions were unanimously adopted:\n\n\nResoIUed, That the adoption of vigorous and con-\ncerted measures be recommended to the friends OF\nthe Administration throughout the state, to secure\nthe reelection of that able statesman and patriot,\nJohp O. Adams to the Presidency of the United\nStates.\n\n\nRosolvea, That it is the opinion of this meeting\nthat the friends Of the General Administration soult\n\n\nhold State Convention at lrenton on the ~\n\n\nday Of February next at ten clock A. M. and INA\n\n\nthe friends of the Administration in each township\n\n\nin the state be respectfully requested to choose an'\ni send two delegates to attend the state convention\nIII for the selection Of candidates to form ticket to\ni electors of President and vice president OF the Unit\n\n\ned States, and for the adoption of such other mca\nl., sures as may be deemed expedlent\n\n\nJ, Resolued, that the proceedings OF this meeting b\n!. published by the papers friendly to the Adminisra\ne ton throughout the State.\n\n\n,e Nine Administration meetings, in as many di'\ne tricls are called in sin. lie paper in Kentucky",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1074,
+                    "y0": 3470,
+                    "x1": 1475,
+                    "y1": 3505
+                },
+                {
+                    "x0": 1061,
+                    "y0": 3517,
+                    "x1": 1509,
+                    "y1": 3549
+                },
+                {
+                    "x0": 897,
+                    "y0": 3526,
+                    "x1": 1709,
+                    "y1": 5262
+                }
+            ],
+            "bbox": [
+                897,
+                3470,
+                1709,
+                5262
+            ],
+            "full_article_id": 10,
+            "id": "10_1827-11-13_p3_sn83025530_00271740220_1827111301_0258.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "gates ii counties wheys lie Members of !e i.egis\natlre are known 10 Dc op,nacd 10 them.\n\n\nFrom The 4fg.@itkltu Gazette.\n\n\nHE County meeting, III Fmgi ginla tor The purpose\nOF arrestlng The dangerous mai ch Of Military lanat\ncsin continue 10 be held with increasing spirit and\nconfidence. Every paper we receive from the Did\nDutnlniou brings the proceedings Of some large as\nsenblase Of the most intelligent citizens Of the\nState reused to action by the alarming possibility Of\nhaving their commonwealth converted into Militia\nry Dlstrict-their laws into articles Of wal--and\nthemselves subjected to the summary operations OF\nINDEPENDENT CouRr MAR1IALs,\" whose bloody\ndecisions would be promptly executed, and whose\nacts of mercy and justice would invariably be set\naside as mistaken lenty, or misconceptions of the\nmerits of the case. We once thought that when the\ndenominations were cotapleted'' Virginia would be\nparty; but the late glorious manifestations of her\ndevotion to Civil Government have SO completely\ndlssipated our fears that we count upon her votes\nwith almost as much certainty we do upon those\nof New Jersey, Ohio and Delaware.\n\n\nFrom tie National Journal.\n\n\nBetween fifty and sixty counties of Virginia have\nnow either held meetings and nominated Delegates\nto the Richmond Convention, or have expressed an\nintention to do 50. Richmond Norfolk, and Lynch\nburg have stepped forward in the same cause, and\nthe prophetic declaration of one OF the most en\nnent citizens of the State that the Jackson fire will\nbe extinsuished with more rapidity than it was kin\ndied, is il the progress of expeditions iulhlment\n\n\nThe alarm Of the Editors Of the Enquirer IS ev\ndent in its culun.ns. Their fears become more OBJ\ntrusive every hour. In their last paper, their cal\nOH the jackson party assumes the tone OF an ear\nnest enteaty. They '.are informed\" (by whom,\n'.that the time OF the meeting OF the Caucus vii\nbe fixed early after the meeting OF the Legislature\nthat the distant Delegates may have notice Of it,\nIf there Is no party-no junto (as the Enqure\n| ,1a u th.r. lp,lnrc min pr\nthe Editors Of this arrangement TO get up strong\nCaucus, of jackson members OF the Legislature ant\njackson Delegates mixed!\n\n\nThe movements Of the Administration party ex\ncited Only the contempt Of the Enquirer shol\ntime since. Ihey seem to hnld their own contemp\npretty cheap, as they distribute it 50 freely and yr.\ntuitously. Now, however, they tell US, 1.-THE mend\nOf the Administration avail themselves OF all tn\ninfluence hey can derive from the display OF 'saane'\nTheir cunct.t, and zeal, and activity, are yer\ngreat\" Contempt seems here to have given Llac\n10 admiration, mixed with terror, for the next sen\ntence is q pathetic appeal: '.Nhy should we b\nless animated or iail to employ equal zeal and Ell\nergss\"\n\n\nOFFICIAL RICHMOND JUNrA ORDERS!\n\n\nFrom the following n,a,,doteitis evident the \"Con\n5inaiioa Cnucus party' in Vlrgnaarc getting al\narmed at the signs Of the Times.\n\n\nFrom The Richmond Eiquirer.\n\n\n\n\n\naz The friends of General Jackson throughol\nthe State will see the proprety Of being represente\n, in the CAUCUS to be held in this city during II\nwinter for the nomination OF an Electoral licke\nThose counties whose members of Assembly are f\njackson and will go into Caucus, WILL of course.\nrepresented by them. But, in order that the opp\n: nens oil the Administration in counties where tn\nis not the case, may be represented it IS sugseste\nthat they hold meetings and appoint delegates. l'l\nNp III :\n, Counties and there can be no objection to its ben\ny generally pursued. The time of the meeting Of 4\nCaucus, we are informed, will be fixed early aft\n\n\nthe meeting Of the Legislature, that the distant del\nrates may have notice Of it. The friends ai Z\ne Administration avail themselves Of all the inucn\nl. they can derive from the display of namss lht\n&c concert, and zeal and activity. very great\nu Why should we be less animated, or fail to empl\nequal zeal and energy. -----\n\n\nPENNSYLVANIA.\n\n\nr Fran Ire National Joufnol\nis Meetings OF the friends Of the Administration {\n",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 845,
+                    "y0": 273,
+                    "x1": 1652,
+                    "y1": 3596
+                }
+            ],
+            "bbox": [
+                845,
+                273,
+                1652,
+                3596
+            ],
+            "full_article_id": 12,
+            "id": "12_1827-11-13_p3_sn83025530_00271740220_1827111301_0258.json"
+        },
+        {
+            "object_ids": [
+                21,
+                17
+            ],
+            "headline": "The Grces s5..:.sa:as F,1-c,~-.",
+            "article": "representatives. OF Ver,unt Oh the 3lst ait after an\nanimated discussion. b. vote Of i64 IL -.\n\n\n.'Reso'\"ca, That in the opinion OF this House,\nthe policy adopted by the present Administration\not the Gcneral Government is well calculated To |\npromote the permanent prosperity ai the nation, and\nis approved by the people OF Vermont. And that\nthe reelection of JOHN QulNoY ADAMS to the Pres\nsdency OF the UGlted States, is an object highly de-\nsrable.''\n\n\nHalf Of the SO opponents of the resolution were\nadministration men, who doubted the expediency OF\nacting upon it in the Legislature. The Governor\nand Council. i was confidently expected, would pass\nthe resolution una nimously.\n\n\nEASTERN BouADARy-Ihe question relative to\nour North Eastern Boundary is fast drawing to\ncrisis The outrages recently perpetrated by the\nBritish authorities Of New Brunswick, are such\ncannot be longer winked out of sight. 1t is time\ntnr the people of this state to know that they i'll\ndanger Of being stripped Of one third OF their terri\n\n\ntory. IL this subject has hitherto excited but little\nor no interest among the people Of this state, it Isl\nbecause the nature and extent of the British claim\nhas not until lately been generally understood, and\nwe apprehend is not now understood so generally\n| AS it deserves TO be- The British claim by line\ndrawn from Mars Hill to the Katahdin. and from\nthe Katahdin by line drawn along between the\nheads Of the streams which empty into the Penob-\nscot and those which empty into the st. Johns, un\ntil it strikes the dividing line between Maine and\n\n\nLower Canada. Ii the reader will look at the map\nhe will see that it cats oF from Maine a territory\nequal 10 the aohole Of Massachusetts,. The land it.\nself it is said. exceeds III fertility am tract of equal\n\n\nsize within New England. Here then is the ter\n\n\nritory, capable of sustaining population OF halt\n\n\nmillion; within the rshtful jurisdiction of Maine.\n\n\nwhich we are in danger of having wrested from us\n4 for ever.\n\n\n! Our title to this country, we say, is as clear and\n\n\nindisputabe as it is to any other part Of the state\n4 The British may extend their claims to the kene-\n\n\nbee on the same grounds precisely that they claim,\n\n\nto the Penobseot and if we yield to this VIC cannot\n\n\nknow what pretcnces will be set up afterwards. -\ni The treaty Of 1888 establishes boundary too\n!, clearly to be misunderstood except by hsoe who\nare determined not to understand it. The treaty\n\n\nlis explicit that the people OF this state have never\n\n\nsupposed that it could be brought into doubt, and il\nIs with us much surprise Indignation, that they\nhave seen the and extent OF the British CLAIM\nBut if the attention Of the people has been les.\n\n\ndirected to this ubect than its Importance deserves,\n\n\nTheir feelings will be aroused by AN event that has\n\n\nrecently occurred, in such manner that they vii\nnot be easily queted.\n\n\nMr.. John Baker, pea cable citizen of this state\n\n\nOccupying farm which he holds under joint gran\nfrom Massachusetts, and Maine, has been arrested\nwithin our territorial jurisdiction by the oflcer\nq of the province of New Brunswick, accompanies\ne as we have understood, by armed force. aud car\n\n\nried to Fredericton, to to the British King\nWe have recently learnt that he has been tried, con\nG ycted and sentenced to pay fine OF el50 on 5000\n] and to be imprisoned for six months and that he\nIS now actually ncarcera,ed under the sentence Of tn\nd court in Frederickton Jail. Portland yArgos.\nErtract Of letter from an .4nericaa gentleman a\n= = present tfacelng IN Eng'aad, lated Sept 30th.\n,r \"a few days since visited the Tunnel under til\np Thames, which is Of the most gratifying curos\nties have seen in London. LII is about three mile\n,e below the London bridge, and OH the Kent. side\nil the river. We first descended the shaft, remer\n= dous cavity in the earth, about hundred let\ny deep and then proceeded through one of the a\n\n\nched carriage ways, which was beautifully lit u\n\n\nwith gas. We passed to the extreme end, whe\n\n\nthe workmen are employed, which is sos feet fro\nre the shaft, and OF course considerable distance u\nne der the river, and which believe to be about ha\ni'll way across. As yet they have not recommence\n= their work of boring, but they expect to do so in\nhe fe v days, as the break In the river is complete\nnd stopped, and the Tunnel free from water. T.\nhe Steam Engine down the shalt, draws away the d\n~ in carts. as fast as the wokneu till the, by the OF\nhe er Arch way, which is laid within Rail Roa.i. ha\nhe great confidence IN its success for what is there til\nIN, men cannot do, when they have at their dispos\nlu- plenty Of money, and plenty of force.\n\n\nerr, On the same day we visited the Tower, and\nof spected every thing it contained. The Armu\n\n\nIt. sc",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1794,
+                    "y0": 268,
+                    "x1": 2320,
+                    "y1": 308
+                },
+                {
+                    "x0": 1660,
+                    "y0": 360,
+                    "x1": 2476,
+                    "y1": 4073
+                }
+            ],
+            "bbox": [
+                1660,
+                268,
+                2476,
+                4073
+            ],
+            "full_article_id": 18,
+            "id": "18_1827-11-13_p3_sn83025530_00271740220_1827111301_0258.json"
+        }
+    ]
+}

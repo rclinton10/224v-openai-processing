@@ -1,0 +1,793 @@
+{
+    "lccn": {
+        "title": "Delaware journal.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2638-6917",
+        "lccn": "sn83025530",
+        "start_year": "1827",
+        "end_year": "1832",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [
+            "sn85042477"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn83025530",
+        "edition": "ed-01",
+        "date": "1827-10-23",
+        "pages": [
+            "seq-4",
+            "seq-1",
+            "seq-3",
+            "seq-2"
+        ]
+    },
+    "page_number": "3",
+    "scan": {
+        "lccn": "sn83025530",
+        "edition": "ed-01",
+        "date": "1827-10-23",
+        "page": "3",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-10-23/ed-1/seq-3.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-10-23/ed-1/seq-3/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-10-23/ed-1/seq-3/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn83025530/00271740220/1827102301/0228.jp2",
+        "height": 5544,
+        "width": 3584
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 847,
+                "y0": 437,
+                "x1": 1637,
+                "y1": 1257
+            },
+            "class": "article",
+            "raw_text": "The brig Nile, from Canton, and last from Mon\ntevideo, where she was detained l8 to 20 days by\nthe Brazilian squadron, has arrived at Boston. She\nleft the hitter place August 22d. Six Brazilian\nvessels of war we're al that port Admiral Pinto\nGuedes was off Bneuo. Ayres, with frigate, a\nsoop of war, three niasted schooner, and several\nsmaller vessels, some of which were ordered to\ncruise night and day. The Rio Saluda was block\nAIDED by fIigate and some small craft SO that the\nBuenes Ayreans found it very difficult to get their\nprizes to port, several of which we're burnt about\nthe beginning of August. The Patagonia squadron\nwas daily expected at Montevideo. The Brazilians\nwere actively employed in repairing the Notifications\nSO that it was supposed that the war would continue\na long time. Supplies were abundant, and business\ndull.\n\n\nThe expectation of gold and silver from Buenos\nAyres was prevented by the most vigorous mea-\nsures, and new duties was laid on some species Of\nmerchandise.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 1099,
+                "y0": 311,
+                "x1": 1394,
+                "y1": 364
+            },
+            "class": "headline",
+            "raw_text": "FOR RExGN.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -2
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 1021,
+                "y0": 385,
+                "x1": 1463,
+                "y1": 425
+            },
+            "class": "headline",
+            "raw_text": "FROM TIE La PLATA.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2467,
+                "y0": 3603,
+                "x1": 3274,
+                "y1": 4553
+            },
+            "class": "article",
+            "raw_text": "For Sale at Joseph Brnghursts Drug and Chemical\n\n\nStore, No. 81, Market-Street, Wilmington,\n\n\nDenarcotizcd Opium and Laudanum Black Drops,\nthese preparations do not sicken the stomach\nIodine, Hydriodate Of Potash, Extracts ofTaraxaci,\nStramonum, BelladoDa, Ciauta Aconite, Heleh.\nMig Etaterium, Hyosciamus, Quassia, Cinchona &c.\nSeeds of Tincture of Calchicum, Clarified Calamus,\nDigtalis, Balm, Peppermint with variety of fresh\nHerbs. Bleaching Salts by which stains may be re-\nmoved, from white dresses, table cloths, or the\nfinest lace without injury to the article. Salt of Le-\nmon for removing iron mould. Pure Sulphate Of\nQunne in powder, pills and solutions ndelible Ink,\nfor marking white articles, this cannot be washed\nout. Genuine Cologne Waters from Paris. Seidlilz\nand Soda Powders always fresh. Paper pill Boxes,\nCough Drops. Cough Syrup, Syrup squills, Bate\nmans Drops, British Oil, Harlem. Spike, Pepper\nmint, Lemon, Orange. Bergamot, and Roses, God-\nfreys Cordial, Steers Opodeldoc. Match Lights,\nSpunk, Osborne's superior water colours, Pink.\nblue Purple, and Lilac Saucers, Indian Ink Liquid\nBlue Dye, Canary Seed, &c. Together with gen\neral assortment of Medical and Chemical Articles.\nOct 50. 53-3m",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2489,
+                "y0": 3486,
+                "x1": 3230,
+                "y1": 3587
+            },
+            "class": "headline",
+            "raw_text": "MEDICAL AND CHEMICAL\n\n\nreDUrUtlONS",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1649,
+                "y0": 298,
+                "x1": 2442,
+                "y1": 2054
+            },
+            "class": "article",
+            "raw_text": "acquisitions Of Russia as likely to affect at some -\ntpre time, the possessions Of Britain in India. But\nwhen the vast deserts are remembered, which inn\npede hr march in that quater it seems likely that\nmore tempting prize socits her in Turkey. With\nout port on the Mediterranean, CUnstantnople\nwould be the most desirable of acquisitions for her.\n1t would unietter the commerce of the Black Sea,\nand give her the key to that great nursery the Med\ntc\"ranean of the navigation and the civilization of\nantien times and the gre of vast and fertile coasts,\nat this day Astounding in all the material of ofcommerce.\nThat she looks this sGolden Horn\" of the city Of\nConstantine, with desiring eyes, is quite unquesti\nenable and the liberation of Greece itself is by no\nmeans so important question to the European pow\ners as how to secure to themselves portion Of the\nspoil (Which Russia stands most convenient to seize\nthat the decadence of Turkey must presently place\nat the mercy of the strongest.\n\n\nThe Russian Commercial Journal of St. Peters,\nburg gives concise view Of the commerce and nav-\nCATION of all the sea ports Of the empire during the\nfirst half Of the present year. According to this\nstatement, the number of ships that had arrived in\nall the sea ports of the empire, from the opening of\nthe navigation to the lst of this month, was 1857 of\nwhich 1882 were in ballast. The number Of ships\nthat had sailed was 1871, Of which only 25 in bal\nlast. Foreign goods imported, and already cleared\nat the Custom-house, to the value S5,957 800 rub\nles. Russian goods exported lO,747, $40 rubles.\nOoiu, anu Soiu anu silver III DafS, lmpTteu W tle\nvalue Of 5894,188 rubes do. exported only 2,255,\ns34 rubles. Among the principal articles Of Russian\nproduce exported, we're\n\n\nFlax, 1,o46.12i poods\n\n\nIron, 487,143\n\n\nTallow, 1,S70.99l\n\n\nPotashes, 1SS.385\n\n\nRaw and dressed Hides, 10t,9lO\n\n\nCorn, value 1881, Sc rubles\n\n\nTimber, ditto, 1,28S, $40 ditto\n\n\nII n a.\nto the value Of t,6747s rubes; the value Of Russian\nproduce exported \"A, sO1 ,7a9 rubles. The exports\nfrom Archangel, in the same month,we l,ii0, 1924\nrubles.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2463,
+                "y0": 3153,
+                "x1": 3256,
+                "y1": 3465
+            },
+            "class": "article",
+            "raw_text": "OCTOBER f8, 1877\nTHE STOCKHOLDERS in this institution are\nhereby notified, that nstament of Fire Dollars,\nevery share of the capital stock, will be due and\npayable on Thursday the 8th day of November next,\nhalf in gold silver, and the residue in notes\nof specie paying banks. By order Of the Board.\n\n\nS. H. HOD SON, Cash'r.\n\n\n53-3t",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2623,
+                "y0": 3088,
+                "x1": 3075,
+                "y1": 3141
+            },
+            "class": "headline",
+            "raw_text": "Bank Of SMryna,",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1679,
+                "y0": 4876,
+                "x1": 2455,
+                "y1": 5220
+            },
+            "class": "article",
+            "raw_text": "7oleration incident related in the follow\ning communication from the Baltimore Patriot, is\ncredtable to both the individuals concerned, and\nconveys Just rebuke Of those zealots who cannot\nforgive difference of opinion, however honest Or\nconscientious\n\n\nMR. EDITOR: With a very large number of cit\nizens, paid my respects to the President last even\nling, at MIR. Barnum's. He received US with cor",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 1830,
+                "y0": 4820,
+                "x1": 2343,
+                "y1": 4864
+            },
+            "class": "headline",
+            "raw_text": "From, the National LateLlieencer.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1649,
+                "y0": 2165,
+                "x1": 2451,
+                "y1": 4800
+            },
+            "class": "article",
+            "raw_text": "OF JERUSALEM.\n\n\nWithin the last three years several plans have\nbeen formed in Europe, for re-estabshing the order\nOf St. John. For long series Of years previously\nto the capture of Malta by Bonaparte, the knights\nhad been gradually losing their power and territories\nOnce the proud owners of stately castles in Pales-\ntine, and SYRIA and the isles Of the Mediterranean,\nthe champions of the cross and the scourges of the\nOttoman, the gallant opposers of the mighty Soy-\nman, they have for many years been an evidence\namongst others, that the great wheel of change\nspares nothing earth, but rolls alike valor\nand honor, and pride, and strength, and power.\ncrushing the towers of the mighty, as we'll as the\ncottages of the lowly.\n\n\nIn the Gazette de France\" of Aug 81, we\nfind an article relative to Algiers. 1t recommends\nthe occupation of Algers by the christians, and\nthat it should be put under the dominion of the\nknights of ST. John.--ss In the re-establishment Of\nthis order,'' says the writer trust for the main\ntenance eff the conquest, and have read with plea\nsure a letter from VIENNA stating that certain\ngreat power is about to adopt this principle of re-\nestablishment, although mention is made of the\nfuture location of the order which is nevertheless\nmatter of considerable question\" The writer then\nconsiders and answers the objections agans the or\nder of st. John-the VOW of celibacy, and the mix\nture of religious with military character Having\nanswered these, He then considers the claims which\n| the European powers who may unite in conquering\nAlgers. would advance for their share of the prize,\nand argues that they trfng in comparison with\nthe advantages which would arise from bestowing\nthe state upon the knights of st. John.\n\n\nThe close of the article is worthy of translation.\n\"The political existence of Algiers is incompatible\nwith the quiet, the civilization, and the dignity of\nEurope besides, her piratica insolence has exceed\ned all bounds-she deserves an exemplary chastise-\nment.-FTaace cannot conquer Algiers for herself\nalone, without exciting jeaousies prejudcial to that\nunion which the strength and safety of Europe de\npend. 1t is very easy for maritime confederation\nto take Agers, and it is very difficult to form COM\nmon government for the place. The order of st.\nJohn of Jerusalem is the only institution which will\nsuit the purpose Its msfortunes, itslong services,\nits ancient glory, its unjust deposition all plead in\nits behalf, and christian Europe ought eagerly te\nseize this opportunity for its re-estabishment. A.\ngainst the bulwark of Mussuman piracy, good sense\ntells us to oppose bulwark of Christian commerce.\ns'Algiers, more valuable than Rhodes or Malta,\nought to be an indemnity for the losses of an order.\ndear to the Christian world 1t is not impossible\n! that the first moments of its re-estabshment may\nbe attended with troubles, and amongst the proba\n\n\nbilities we must place the appgehensons, and per\n\n\nhaps the resistance of the Crescent. But unless\n\n\nmisapprehend the power of religion and patriotism\nr and that ancient chvalrous honor which is unkno\n\n\nto feudality we shall find La Vaettes L'Isle Adams\nand D'Aubussons* where the enemies of the Chris\n:. tian name will not find Dragut or Baroarossa'\n*Vaette L'Isc Adams and d. Aubusson were formerl,\nGrand Masters of the Order OF ST. John of Jerusalem, and\ndistinguished The first Grand Master the cele\nbated Raymond of 1houlousi part of tile oah taker\no by the Knight was \"never reckon number OF the\n\n\nenemy, and to die rather than surrender\"",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1657,
+                "y0": 2079,
+                "x1": 2438,
+                "y1": 2188
+            },
+            "class": "headline",
+            "raw_text": "From the Npw- Fork Morning Courier.\nALGIERS AND THE KNIGHTS OF ST. JOHN\n\n\nOF JERIJSAI.EM",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 886,
+                "y0": 4452,
+                "x1": 1667,
+                "y1": 5220
+            },
+            "class": "article",
+            "raw_text": "Russia.-The statement below, of the amount of\nRussian commerce, is from the London Courier.\nThe progress of this empire in civilization, and the\nextension of its frontiers all sides, within the last\n\n\ncentury, are the more interesting as they seem to\nhave received their impulse from the genius Of single\nman. 1t was Peter l., who conquered provinces in\norder to obtain port for his dominions, that gave\n\n\nthe first movement to that policy which has been so\nconsistently pursued BY his successors. M The posi-\n\n\nterritorial grandeur. The limit of European civili-\nzaton to the east, she has on several parts of her\nfrontier such weak and unpoHced neighbors, (if we\nNAV use the expression that she can hardly fail to\ncome out Of every conflict with them. with new ac-\n\n\nmisitions. The event of her present war with Per-\nsa will show this truth, and still farther extend the\ndominion which she has been pushing with such sue\ncess in that part Of the world\nII was once the fashion Of the day, to regard the",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 1012,
+                "y0": 4396,
+                "x1": 1515,
+                "y1": 4444
+            },
+            "class": "headline",
+            "raw_text": "From the Baltimore american.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 843,
+                "y0": 1381,
+                "x1": 1637,
+                "y1": 4392
+            },
+            "class": "article",
+            "raw_text": "liam squadron upon merchant vessel OF this coun-\ntry, pursuing lawful trade, within the rules ac-\nknowIedged by the government, appears to US to\ncall for the prompt interference of our own govern\nment to seek redress.\n\n\n1t will be recollected that an understanding had\nbeen established between the Brazilian government\nand Capt. Bdde, representative in the La Plata,\nthat American vessels bound to Buenos Ayres,\nshould not be considered liable to arrest, unless\nbeing warned off and their papers endorsed, they\nshould attempt second time to enter the blockad-\ned port.\n\n\nThe brig Nile, Capt. forbes, belonging to Messrs.\nJ. u /. ii. Perkins Il Sons left Canton for Boston,\nin March last with orders to stop at Buenos Ayres\nto dispose OF such part of her cargo saleable,\nand to proceed with the remainder to Boston. The\nNile entered the La Plata and met with nothing TO\nINFORM her OF the blockade until within few miles\nof Buenos Ayres, where she found the Brazilian\nsquadron at anchor; they boarded and informed him\nOF the blockade !; his papers showed the property\nto be Americana his orders also gave evidence that\nhe was to violate no beligerent right, yet contrary\nto the usage which has been pursued, he order\ned to Mentevideo, under convoy OF four vessels OF\nwar, the Brazilian Commodore declaring at the\nsame time that he did not consider him as prize,\nand leaving him in the command of his vessel and\ncrew. During The passage he separated from\nthe convoy by thick weather, and had frequent op-\nportunities of evadng the Brazilian vessels of\nwar. and of proceeding on his voyage to Boston,\nbringing with him the midshipman who was sent in\ncharge of his papers, had he been so disposed hut\nconhding in the perfect fairness and lawfulness of his\nproceedings, that he had not intended and had not\n\n\nin fact violated any begerent right, and that the\nCommodore Of the Brazilian squadron was also sat\n\n\nstied of the innocence of his conduct and intentions\nand trusting in the assurances he had given him to\nthis effect, he voluntarily proceeded in good faith\nwith his own to Muntevideo, and actually\n| reached there 24 hours before the convoy. Here\nhe found the U. S. ship Boston, Captain Hoffman\nBefore proceeding board the ship of the Brazil\nian Admiral he waited on Capt Hoffman, who as,\nsured him that the conduct pursued towards ouI\ncountrymen in similar circumstances, had been such\nas to justify the belief that his papers would be i'm\nmediately returned to HIM, aud his vessel suffered\nto proceed to Boston without delay, advising him tc\ndeliver his papers to the Brazilian Admiral, Capt\n\n\nForbes having previously demanded and received\n\n\nthem from the mldshipman. He accordingly pro\n\n\nceeded on board the Admral's ship and delivered\n\n\nthem to him, who said all was right, somethn:\n\n\nto that effect. His astonishment may then be i'm\n\n\nagined, on beholdng the next day, without any pre-\n\n\nvious notice or form, his vessel taken possession\n\n\nby two armed launches, brought in near the shore\n\n\nand anchored in an unsafe position, her sails un\n\n\nbent, though wet and sent on shore to rot, and thl\ngang proceeded to unhang the rudder, and dsmantl\n. the vessel This was the situation Of affairs at tn\nlast dates what may be the result can only be cor\njectured.\n\n\ny Every vessel before warned off had been give\nup, but it is apprehended the cupidity of the Ae\n\n\nmral had prevented the liberation of this vessel,\n: her cargo was of great value compared with tn\n\n\nvalue Of the cargoes, generally entering the La n;\n. ia, having cost in China more than hundred thor\n# sand dollars. We understand representation hi\ny been made to the government at Washington on til\nsubject and there is no doubt that prompt measure\na will be taken to interfere for the preservation of til\n~ property. Having no apprehensions of such 8\ny outrage, the owners, we believe, are not insure\nN N against any other than the usual pers of the sea-\n",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 960,
+                "y0": 1286,
+                "x1": 1502,
+                "y1": 1330
+            },
+            "class": "headline",
+            "raw_text": "From the Boston DAILY .Adpertiser.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 115,
+                "y0": 5006,
+                "x1": 883,
+                "y1": 5237
+            },
+            "class": "article",
+            "raw_text": "Willis Anderson, who, some weeks ago, killed\nGerard Arnold, and for whose apprehension Fthe\nPresident of the United States proclaimed a re-\nward of $3.50, was yesterday committed to the Jail\nOf this county, having been arrested in ST. Clairs-\nyilles Ohio.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 410,
+                "y0": 4959,
+                "x1": 861,
+                "y1": 4999
+            },
+            "class": "headline",
+            "raw_text": "ALEXANDRIA, D. c. Oct. II.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2446,
+                "y0": 290,
+                "x1": 3261,
+                "y1": 3045
+            },
+            "class": "article",
+            "raw_text": "diaty wrthy the Chief Magistrate Of free Reppb-\nnc. Among those introduced there was one. whose\naddress was as singular as MIR. Adams reply was\nhappy and appropriate. He observed--''Mr. Pres\nadenf' Though Idi0er fromy you in opinion, am glad\n10 tnd you an good healh.\" The President gave\nhim hearty shake of the hand, and replied-''Sir,\nION withoiM being eaemies.S This circumstance,\nthough trng in itself, is lesson we'll worthy the\nimitation Of every one\n\n\n.qbridgcment of Scotl's Napoleon-An abridge-\nment of this youminous work has just been publish\ned in New York. 1t s comprised in closely pr,n-\nted octave volume of $50 pages. The plan adopt\ned by the editor has been to omit, in the first place.\nthe preliminary view ofthe French revolution, an\nevent in which Bonaparte had but little share, and\nthe account of which, in the pages of Scott mark\ned by some unfayorable statements against Lafay-\nette In the second place, he has excluded certain\nirrelevant political d'squistioDs and narratives OF\nevents of collateral nature and not Immediately\nconnected with the life of Napoleon. In the third\nplace, two, and sometimes four chapters have been\nunited into one, and their headings abbreviated.\nThe editor observes that he has been studous to\ntain all the facts which have an immediate connec-\ntion with the Of Napoleon, and these are CIV\nen- in the very language of the author Of Waverly.\nFrom the Viiiage Record.\n\n\nWe publish Mr.. Eatons letter entire, not because\nwe see, in the greater part of it, any thing to\nmand special attention. but because it has been long\nand anxously looked for, and believe the reader\nwill like to the whole Of it, The public were led\nto believe it would have important bearing upon\nthe Presidential question. To US appears to\ntain very little. touching that matter merely. Two\nthings stated are. however, important. The avow-\nal that Mr.. Eaton furnished the editor OF the Coum-\nbian Observer fifteen hundred dollars! And the\ndeclaration that Mr.. Buchanan proposed to fight\nthe opponents of General Jackson with their.own\nweapons-that is. by intrigue, &c. This is denied.\nand we cannot but believe, that Mr.. Eaton, in this\nparticular, msconceived Mr.. Buchanan--a7olt\nwill be remarked that the letter does not, in the\n| smallest degree. go to raise a suspicion that Mr..\nClay made any proposition to General jackson\nthrough Mr.. Buchanan ; and this, be it remembered\nis the great question at issue between GEN. Jackson\nand the public. --\n\n\n| The editor oftbe Z\" Courier published in Por-\ntage, Ohio, says. We are well assured, that ut\nleast two-hrs of both branches of the next Legis-\nlaure of Ohio will be in favor of the reelection Of\nMr.. Adams. There seventeen members Of the\nsenate, whose term of service have not yet expred\ntareLve ofwhom, and probably thirteen are admins\ntration men. Of the nineteen districts from which\nthe senators are to be chosed at the approaching\nelection not less than twelve will give majortes in\nfavour of the administration. OF the representa-\ntives to the next congress romthis stateeLeUea\nin favour of the administration, and too opposed TO\nit.\" So much for Ohio. q. S. Gazette.\n| -asnio - osR,p-\nI 0E~ THE stated quarterly meeting of the Mana\n\n\ngers of the Wilmngton Union Colonization Society,\n\n\nwill be held at the house of the Hon. Willard Hall,\non Thursday evening next, at O'Clock.\n\n\nIl. A. HEM DERSON, Register.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 107,
+                "y0": 4651,
+                "x1": 879,
+                "y1": 4929
+            },
+            "class": "article",
+            "raw_text": "OREENSVILLE, y. Y. OCt. o'\n\n\nMore Gold.-We have just seen small bar OF\nvery line Gold, exceeding in value one hundred and\nfifty dollars, brought from Tiger river in Spartan\nburg, where Mr.. James II. Randolph, is now wash\ning for this metal. This piece of Gold was not\nfound in one body, but consists Of several parcels\nmelted into one.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 406,
+                "y0": 4634,
+                "x1": 835,
+                "y1": 4670
+            },
+            "class": "headline",
+            "raw_text": "GREENsvILLE, S. c. Oct. G..",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 59,
+                "y0": 285,
+                "x1": 835,
+                "y1": 555
+            },
+            "class": "article",
+            "raw_text": "any reason why be should he preferred to any Of\nthe statesmen iDthe country protesting the same la\n:tudinous construction.\n\n\nYour committee will also declare, that after ex-\nconfidence in the Integrity and honor Of the secre-\ntary Of State.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 42,
+                "y0": 311,
+                "x1": 831,
+                "y1": 3860
+            },
+            "class": "article",
+            "raw_text": "reason Wny .uC niouN kiC'cAS' ~ any b'\nhe statesmen Dthe country protesting the same la\n.itudinous construction.\n\n\nYour committee will also declare, that, after ex-\namining all the proofs, they have still the most entire\nconfidence in the Integrity and honor Of the Secre.\ntary Of State.\n\n\nFrom the papers itappears that, in some parts OF\nour country the result Of the late election in this\nState was unexpected. II must be admitted that\nMIR. Adams had been represented in the worst col\nors for three years. and that these representations\noriginal and selected, had gone, perhaps, to every\nvillage in the state while little, in comparison, Of\na contrary nature had been presented TO our citi-\nzens.--Certain individuals, also, who had con-\nsiderable influence, we're known TO be members Of\nthe I\" Combination in full standing: and this Cir\ncum.,ance in addition to the former, was supposed\n10 be decisive of the fate of Mr.. Adams in Dela-\nware.\n\n\nBut the truth Notwithstanding all the misrep-\nreseptations of prostuted press--and all the la\nbours of the Combination\" asprants among us,\nDelaware has not been at any one moment, friend\n\" to the election Of General Jackson in preference\nto Mr. Adams Had not the people of this State\nbeen able to form their sentiments on this sub\nject, they still would have remembered the denun-\nCitations of the General which proceeded from this\nsame prostuted press, and these political asprans\nand some of their tools. The people remembered\nthese things--and they will long remember them,\nunless they willing to submit to further imposi-\ntions.\n\n\nLet, therefore, writers at distance not suppose\nthat they have \"ga,ned\" Delaware--for Delaware\nwas never in favour of General Jackson, notwth-\nStanding althe labors of prosttuted press and its\nManagers all the tales Of kremer Jackson, lsaacks,\nEaton, and company and all the misrepresentation\nselected from the Kentucky Argus, Noahs Enquir-\ner, and the whole host of =\" improved presses, and\ncirculated semi-weekly, in all parts of the State.\n\n\n1t is true, that there parts of the State which\nneed more fair, Just, and candid view of public\nmen and measures. 1t is true-that things as they\nreally are have not been presented to them but it\nwould be an unjust estimate of the sober sense, the\ndsnterested feeling, and intelligence of the people\nof Delaware, to suppose that they were incapable Of\ndiscovering that the prominent leaders, in the war\nwaging against the Administration we're PERSON\nALL Interested Ill ulC cfcht VI tC Sohtcoi ACJ\nhave seen. nd we'll weighed this striking circum-\nsance and they have told, even. those whom they\nhave delighted to honor, that they are FREEMEN,\nnot to be led or driven in this momentous question.\nThey have spoken amidst all the disadvantages un-\nder which they have labored, by majority OF near\nk 400; and they will hereafter speak, when pos\nsessed Of more just and true state of things, with\nmore decision\n\n\nOCTOBER, 23-Price Of Wheat and Corn, this\n|e.y, at Br.'ndywine,\n\n\nWheat per bushel, ............ 5 90\nCorn, 10. ~\n\n\nFrom tie Nev- York Commercial .qdvertiser\n\n\nThe Plot ihickens. We have satisfactory reason\nfor believing that the good People of this State hav\nbeen betrayed and sold like cattle in the shambles\nWhile they have been reposing i'll apparent. security\nthe Phslines have been upon them, Aplot has bee\nformed. and so far matured, in secresy and silence\nthat we fear it will be difficult, fnot impossible, fu\n\n\nthe friends Of the Administration efectuallyto cour\n\n\nteact the designs Of the conspirators in season tt\n\n\nthe approaching election. We are we'll acquainte\n\n\nwith the political machinery kept at Albany. alway\n\n\noiled and FURNISHED for use, and we have abundal\n\n\npvidnnca that ovnru u;ra haS hppn led. and ever",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 2454,
+                "y0": 2845,
+                "x1": 3256,
+                "y1": 3063
+            },
+            "class": "article",
+            "raw_text": "or THE stated quarterly meeting of the Mana\ngers of the WWuiagton Union Colonization Society,\nwill be held at the house of the Hon. Willard Hall,\non Thursday evening next, at O'Clock.\n\n\nIi. A. HENDERSON, Register.\nOct 90 1897",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                13,
+                14,
+                0
+            ],
+            "headline": "FOR RExGN.\n\nFROM TIE La PLATA.",
+            "article": "The brig Nile, from Canton, and last from Mon\ntevideo, where she was detained l8 to 20 days by\nthe Brazilian squadron, has arrived at Boston. She\nleft the hitter place August 22d. Six Brazilian\nvessels of war we're al that port Admiral Pinto\nGuedes was off Bneuo. Ayres, with frigate, a\nsoop of war, three niasted schooner, and several\nsmaller vessels, some of which were ordered to\ncruise night and day. The Rio Saluda was block\nAIDED by fIigate and some small craft SO that the\nBuenes Ayreans found it very difficult to get their\nprizes to port, several of which we're burnt about\nthe beginning of August. The Patagonia squadron\nwas daily expected at Montevideo. The Brazilians\nwere actively employed in repairing the Notifications\nSO that it was supposed that the war would continue\na long time. Supplies were abundant, and business\ndull.\n\n\nThe expectation of gold and silver from Buenos\nAyres was prevented by the most vigorous mea-\nsures, and new duties was laid on some species Of\nmerchandise.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1099,
+                    "y0": 311,
+                    "x1": 1394,
+                    "y1": 364
+                },
+                {
+                    "x0": 1021,
+                    "y0": 385,
+                    "x1": 1463,
+                    "y1": 425
+                },
+                {
+                    "x0": 847,
+                    "y0": 437,
+                    "x1": 1637,
+                    "y1": 1257
+                }
+            ],
+            "bbox": [
+                847,
+                311,
+                1637,
+                1257
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-10-23_p3_sn83025530_00271740220_1827102301_0228.json"
+        },
+        {
+            "object_ids": [
+                7,
+                1
+            ],
+            "headline": "MEDICAL AND CHEMICAL\n\n\nreDUrUtlONS",
+            "article": "For Sale at Joseph Brnghursts Drug and Chemical\n\n\nStore, No. 81, Market-Street, Wilmington,\n\n\nDenarcotizcd Opium and Laudanum Black Drops,\nthese preparations do not sicken the stomach\nIodine, Hydriodate Of Potash, Extracts ofTaraxaci,\nStramonum, BelladoDa, Ciauta Aconite, Heleh.\nMig Etaterium, Hyosciamus, Quassia, Cinchona &c.\nSeeds of Tincture of Calchicum, Clarified Calamus,\nDigtalis, Balm, Peppermint with variety of fresh\nHerbs. Bleaching Salts by which stains may be re-\nmoved, from white dresses, table cloths, or the\nfinest lace without injury to the article. Salt of Le-\nmon for removing iron mould. Pure Sulphate Of\nQunne in powder, pills and solutions ndelible Ink,\nfor marking white articles, this cannot be washed\nout. Genuine Cologne Waters from Paris. Seidlilz\nand Soda Powders always fresh. Paper pill Boxes,\nCough Drops. Cough Syrup, Syrup squills, Bate\nmans Drops, British Oil, Harlem. Spike, Pepper\nmint, Lemon, Orange. Bergamot, and Roses, God-\nfreys Cordial, Steers Opodeldoc. Match Lights,\nSpunk, Osborne's superior water colours, Pink.\nblue Purple, and Lilac Saucers, Indian Ink Liquid\nBlue Dye, Canary Seed, &c. Together with gen\neral assortment of Medical and Chemical Articles.\nOct 50. 53-3m",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2489,
+                    "y0": 3486,
+                    "x1": 3230,
+                    "y1": 3587
+                },
+                {
+                    "x0": 2467,
+                    "y0": 3603,
+                    "x1": 3274,
+                    "y1": 4553
+                }
+            ],
+            "bbox": [
+                2467,
+                3486,
+                3274,
+                4553
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-10-23_p3_sn83025530_00271740220_1827102301_0228.json"
+        },
+        {
+            "object_ids": [
+                2
+            ],
+            "headline": "",
+            "article": "acquisitions Of Russia as likely to affect at some -\ntpre time, the possessions Of Britain in India. But\nwhen the vast deserts are remembered, which inn\npede hr march in that quater it seems likely that\nmore tempting prize socits her in Turkey. With\nout port on the Mediterranean, CUnstantnople\nwould be the most desirable of acquisitions for her.\n1t would unietter the commerce of the Black Sea,\nand give her the key to that great nursery the Med\ntc\"ranean of the navigation and the civilization of\nantien times and the gre of vast and fertile coasts,\nat this day Astounding in all the material of ofcommerce.\nThat she looks this sGolden Horn\" of the city Of\nConstantine, with desiring eyes, is quite unquesti\nenable and the liberation of Greece itself is by no\nmeans so important question to the European pow\ners as how to secure to themselves portion Of the\nspoil (Which Russia stands most convenient to seize\nthat the decadence of Turkey must presently place\nat the mercy of the strongest.\n\n\nThe Russian Commercial Journal of St. Peters,\nburg gives concise view Of the commerce and nav-\nCATION of all the sea ports Of the empire during the\nfirst half Of the present year. According to this\nstatement, the number of ships that had arrived in\nall the sea ports of the empire, from the opening of\nthe navigation to the lst of this month, was 1857 of\nwhich 1882 were in ballast. The number Of ships\nthat had sailed was 1871, Of which only 25 in bal\nlast. Foreign goods imported, and already cleared\nat the Custom-house, to the value S5,957 800 rub\nles. Russian goods exported lO,747, $40 rubles.\nOoiu, anu Soiu anu silver III DafS, lmpTteu W tle\nvalue Of 5894,188 rubes do. exported only 2,255,\ns34 rubles. Among the principal articles Of Russian\nproduce exported, we're\n\n\nFlax, 1,o46.12i poods\n\n\nIron, 487,143\n\n\nTallow, 1,S70.99l\n\n\nPotashes, 1SS.385\n\n\nRaw and dressed Hides, 10t,9lO\n\n\nCorn, value 1881, Sc rubles\n\n\nTimber, ditto, 1,28S, $40 ditto\n\n\nII n a.\nto the value Of t,6747s rubes; the value Of Russian\nproduce exported \"A, sO1 ,7a9 rubles. The exports\nfrom Archangel, in the same month,we l,ii0, 1924\nrubles.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1649,
+                    "y0": 298,
+                    "x1": 2442,
+                    "y1": 2054
+                }
+            ],
+            "bbox": [
+                1649,
+                298,
+                2442,
+                2054
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-10-23_p3_sn83025530_00271740220_1827102301_0228.json"
+        },
+        {
+            "object_ids": [
+                12,
+                3
+            ],
+            "headline": "Bank Of SMryna,",
+            "article": "OCTOBER f8, 1877\nTHE STOCKHOLDERS in this institution are\nhereby notified, that nstament of Fire Dollars,\nevery share of the capital stock, will be due and\npayable on Thursday the 8th day of November next,\nhalf in gold silver, and the residue in notes\nof specie paying banks. By order Of the Board.\n\n\nS. H. HOD SON, Cash'r.\n\n\n53-3t",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2623,
+                    "y0": 3088,
+                    "x1": 3075,
+                    "y1": 3141
+                },
+                {
+                    "x0": 2463,
+                    "y0": 3153,
+                    "x1": 3256,
+                    "y1": 3465
+                }
+            ],
+            "bbox": [
+                2463,
+                3088,
+                3256,
+                3465
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-10-23_p3_sn83025530_00271740220_1827102301_0228.json"
+        },
+        {
+            "object_ids": [
+                18,
+                4
+            ],
+            "headline": "From, the National LateLlieencer.",
+            "article": "7oleration incident related in the follow\ning communication from the Baltimore Patriot, is\ncredtable to both the individuals concerned, and\nconveys Just rebuke Of those zealots who cannot\nforgive difference of opinion, however honest Or\nconscientious\n\n\nMR. EDITOR: With a very large number of cit\nizens, paid my respects to the President last even\nling, at MIR. Barnum's. He received US with cor",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1830,
+                    "y0": 4820,
+                    "x1": 2343,
+                    "y1": 4864
+                },
+                {
+                    "x0": 1679,
+                    "y0": 4876,
+                    "x1": 2455,
+                    "y1": 5220
+                }
+            ],
+            "bbox": [
+                1679,
+                4820,
+                2455,
+                5220
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-10-23_p3_sn83025530_00271740220_1827102301_0228.json"
+        },
+        {
+            "object_ids": [
+                17,
+                5
+            ],
+            "headline": "From the Npw- Fork Morning Courier.\nALGIERS AND THE KNIGHTS OF ST. JOHN\n\n\nOF JERIJSAI.EM",
+            "article": "OF JERUSALEM.\n\n\nWithin the last three years several plans have\nbeen formed in Europe, for re-estabshing the order\nOf St. John. For long series Of years previously\nto the capture of Malta by Bonaparte, the knights\nhad been gradually losing their power and territories\nOnce the proud owners of stately castles in Pales-\ntine, and SYRIA and the isles Of the Mediterranean,\nthe champions of the cross and the scourges of the\nOttoman, the gallant opposers of the mighty Soy-\nman, they have for many years been an evidence\namongst others, that the great wheel of change\nspares nothing earth, but rolls alike valor\nand honor, and pride, and strength, and power.\ncrushing the towers of the mighty, as we'll as the\ncottages of the lowly.\n\n\nIn the Gazette de France\" of Aug 81, we\nfind an article relative to Algiers. 1t recommends\nthe occupation of Algers by the christians, and\nthat it should be put under the dominion of the\nknights of ST. John.--ss In the re-establishment Of\nthis order,'' says the writer trust for the main\ntenance eff the conquest, and have read with plea\nsure a letter from VIENNA stating that certain\ngreat power is about to adopt this principle of re-\nestablishment, although mention is made of the\nfuture location of the order which is nevertheless\nmatter of considerable question\" The writer then\nconsiders and answers the objections agans the or\nder of st. John-the VOW of celibacy, and the mix\nture of religious with military character Having\nanswered these, He then considers the claims which\n| the European powers who may unite in conquering\nAlgers. would advance for their share of the prize,\nand argues that they trfng in comparison with\nthe advantages which would arise from bestowing\nthe state upon the knights of st. John.\n\n\nThe close of the article is worthy of translation.\n\"The political existence of Algiers is incompatible\nwith the quiet, the civilization, and the dignity of\nEurope besides, her piratica insolence has exceed\ned all bounds-she deserves an exemplary chastise-\nment.-FTaace cannot conquer Algiers for herself\nalone, without exciting jeaousies prejudcial to that\nunion which the strength and safety of Europe de\npend. 1t is very easy for maritime confederation\nto take Agers, and it is very difficult to form COM\nmon government for the place. The order of st.\nJohn of Jerusalem is the only institution which will\nsuit the purpose Its msfortunes, itslong services,\nits ancient glory, its unjust deposition all plead in\nits behalf, and christian Europe ought eagerly te\nseize this opportunity for its re-estabishment. A.\ngainst the bulwark of Mussuman piracy, good sense\ntells us to oppose bulwark of Christian commerce.\ns'Algiers, more valuable than Rhodes or Malta,\nought to be an indemnity for the losses of an order.\ndear to the Christian world 1t is not impossible\n! that the first moments of its re-estabshment may\nbe attended with troubles, and amongst the proba\n\n\nbilities we must place the appgehensons, and per\n\n\nhaps the resistance of the Crescent. But unless\n\n\nmisapprehend the power of religion and patriotism\nr and that ancient chvalrous honor which is unkno\n\n\nto feudality we shall find La Vaettes L'Isle Adams\nand D'Aubussons* where the enemies of the Chris\n:. tian name will not find Dragut or Baroarossa'\n*Vaette L'Isc Adams and d. Aubusson were formerl,\nGrand Masters of the Order OF ST. John of Jerusalem, and\ndistinguished The first Grand Master the cele\nbated Raymond of 1houlousi part of tile oah taker\no by the Knight was \"never reckon number OF the\n\n\nenemy, and to die rather than surrender\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1657,
+                    "y0": 2079,
+                    "x1": 2438,
+                    "y1": 2188
+                },
+                {
+                    "x0": 1649,
+                    "y0": 2165,
+                    "x1": 2451,
+                    "y1": 4800
+                }
+            ],
+            "bbox": [
+                1649,
+                2079,
+                2451,
+                4800
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-10-23_p3_sn83025530_00271740220_1827102301_0228.json"
+        },
+        {
+            "object_ids": [
+                21,
+                6
+            ],
+            "headline": "From the Baltimore american.",
+            "article": "Russia.-The statement below, of the amount of\nRussian commerce, is from the London Courier.\nThe progress of this empire in civilization, and the\nextension of its frontiers all sides, within the last\n\n\ncentury, are the more interesting as they seem to\nhave received their impulse from the genius Of single\nman. 1t was Peter l., who conquered provinces in\norder to obtain port for his dominions, that gave\n\n\nthe first movement to that policy which has been so\nconsistently pursued BY his successors. M The posi-\n\n\nterritorial grandeur. The limit of European civili-\nzaton to the east, she has on several parts of her\nfrontier such weak and unpoHced neighbors, (if we\nNAV use the expression that she can hardly fail to\ncome out Of every conflict with them. with new ac-\n\n\nmisitions. The event of her present war with Per-\nsa will show this truth, and still farther extend the\ndominion which she has been pushing with such sue\ncess in that part Of the world\nII was once the fashion Of the day, to regard the",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1012,
+                    "y0": 4396,
+                    "x1": 1515,
+                    "y1": 4444
+                },
+                {
+                    "x0": 886,
+                    "y0": 4452,
+                    "x1": 1667,
+                    "y1": 5220
+                }
+            ],
+            "bbox": [
+                886,
+                4396,
+                1667,
+                5220
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-10-23_p3_sn83025530_00271740220_1827102301_0228.json"
+        },
+        {
+            "object_ids": [
+                16,
+                8
+            ],
+            "headline": "From the Boston DAILY .Adpertiser.",
+            "article": "liam squadron upon merchant vessel OF this coun-\ntry, pursuing lawful trade, within the rules ac-\nknowIedged by the government, appears to US to\ncall for the prompt interference of our own govern\nment to seek redress.\n\n\n1t will be recollected that an understanding had\nbeen established between the Brazilian government\nand Capt. Bdde, representative in the La Plata,\nthat American vessels bound to Buenos Ayres,\nshould not be considered liable to arrest, unless\nbeing warned off and their papers endorsed, they\nshould attempt second time to enter the blockad-\ned port.\n\n\nThe brig Nile, Capt. forbes, belonging to Messrs.\nJ. u /. ii. Perkins Il Sons left Canton for Boston,\nin March last with orders to stop at Buenos Ayres\nto dispose OF such part of her cargo saleable,\nand to proceed with the remainder to Boston. The\nNile entered the La Plata and met with nothing TO\nINFORM her OF the blockade until within few miles\nof Buenos Ayres, where she found the Brazilian\nsquadron at anchor; they boarded and informed him\nOF the blockade !; his papers showed the property\nto be Americana his orders also gave evidence that\nhe was to violate no beligerent right, yet contrary\nto the usage which has been pursued, he order\ned to Mentevideo, under convoy OF four vessels OF\nwar, the Brazilian Commodore declaring at the\nsame time that he did not consider him as prize,\nand leaving him in the command of his vessel and\ncrew. During The passage he separated from\nthe convoy by thick weather, and had frequent op-\nportunities of evadng the Brazilian vessels of\nwar. and of proceeding on his voyage to Boston,\nbringing with him the midshipman who was sent in\ncharge of his papers, had he been so disposed hut\nconhding in the perfect fairness and lawfulness of his\nproceedings, that he had not intended and had not\n\n\nin fact violated any begerent right, and that the\nCommodore Of the Brazilian squadron was also sat\n\n\nstied of the innocence of his conduct and intentions\nand trusting in the assurances he had given him to\nthis effect, he voluntarily proceeded in good faith\nwith his own to Muntevideo, and actually\n| reached there 24 hours before the convoy. Here\nhe found the U. S. ship Boston, Captain Hoffman\nBefore proceeding board the ship of the Brazil\nian Admiral he waited on Capt Hoffman, who as,\nsured him that the conduct pursued towards ouI\ncountrymen in similar circumstances, had been such\nas to justify the belief that his papers would be i'm\nmediately returned to HIM, aud his vessel suffered\nto proceed to Boston without delay, advising him tc\ndeliver his papers to the Brazilian Admiral, Capt\n\n\nForbes having previously demanded and received\n\n\nthem from the mldshipman. He accordingly pro\n\n\nceeded on board the Admral's ship and delivered\n\n\nthem to him, who said all was right, somethn:\n\n\nto that effect. His astonishment may then be i'm\n\n\nagined, on beholdng the next day, without any pre-\n\n\nvious notice or form, his vessel taken possession\n\n\nby two armed launches, brought in near the shore\n\n\nand anchored in an unsafe position, her sails un\n\n\nbent, though wet and sent on shore to rot, and thl\ngang proceeded to unhang the rudder, and dsmantl\n. the vessel This was the situation Of affairs at tn\nlast dates what may be the result can only be cor\njectured.\n\n\ny Every vessel before warned off had been give\nup, but it is apprehended the cupidity of the Ae\n\n\nmral had prevented the liberation of this vessel,\n: her cargo was of great value compared with tn\n\n\nvalue Of the cargoes, generally entering the La n;\n. ia, having cost in China more than hundred thor\n# sand dollars. We understand representation hi\ny been made to the government at Washington on til\nsubject and there is no doubt that prompt measure\na will be taken to interfere for the preservation of til\n~ property. Having no apprehensions of such 8\ny outrage, the owners, we believe, are not insure\nN N against any other than the usual pers of the sea-\n",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 960,
+                    "y0": 1286,
+                    "x1": 1502,
+                    "y1": 1330
+                },
+                {
+                    "x0": 843,
+                    "y0": 1381,
+                    "x1": 1637,
+                    "y1": 4392
+                }
+            ],
+            "bbox": [
+                843,
+                1286,
+                1637,
+                4392
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-10-23_p3_sn83025530_00271740220_1827102301_0228.json"
+        },
+        {
+            "object_ids": [
+                23,
+                9
+            ],
+            "headline": "ALEXANDRIA, D. c. Oct. II.",
+            "article": "Willis Anderson, who, some weeks ago, killed\nGerard Arnold, and for whose apprehension Fthe\nPresident of the United States proclaimed a re-\nward of $3.50, was yesterday committed to the Jail\nOf this county, having been arrested in ST. Clairs-\nyilles Ohio.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 410,
+                    "y0": 4959,
+                    "x1": 861,
+                    "y1": 4999
+                },
+                {
+                    "x0": 115,
+                    "y0": 5006,
+                    "x1": 883,
+                    "y1": 5237
+                }
+            ],
+            "bbox": [
+                115,
+                4959,
+                883,
+                5237
+            ],
+            "full_article_id": 10,
+            "id": "10_1827-10-23_p3_sn83025530_00271740220_1827102301_0228.json"
+        },
+        {
+            "object_ids": [
+                10
+            ],
+            "headline": "",
+            "article": "diaty wrthy the Chief Magistrate Of free Reppb-\nnc. Among those introduced there was one. whose\naddress was as singular as MIR. Adams reply was\nhappy and appropriate. He observed--''Mr. Pres\nadenf' Though Idi0er fromy you in opinion, am glad\n10 tnd you an good healh.\" The President gave\nhim hearty shake of the hand, and replied-''Sir,\nION withoiM being eaemies.S This circumstance,\nthough trng in itself, is lesson we'll worthy the\nimitation Of every one\n\n\n.qbridgcment of Scotl's Napoleon-An abridge-\nment of this youminous work has just been publish\ned in New York. 1t s comprised in closely pr,n-\nted octave volume of $50 pages. The plan adopt\ned by the editor has been to omit, in the first place.\nthe preliminary view ofthe French revolution, an\nevent in which Bonaparte had but little share, and\nthe account of which, in the pages of Scott mark\ned by some unfayorable statements against Lafay-\nette In the second place, he has excluded certain\nirrelevant political d'squistioDs and narratives OF\nevents of collateral nature and not Immediately\nconnected with the life of Napoleon. In the third\nplace, two, and sometimes four chapters have been\nunited into one, and their headings abbreviated.\nThe editor observes that he has been studous to\ntain all the facts which have an immediate connec-\ntion with the Of Napoleon, and these are CIV\nen- in the very language of the author Of Waverly.\nFrom the Viiiage Record.\n\n\nWe publish Mr.. Eatons letter entire, not because\nwe see, in the greater part of it, any thing to\nmand special attention. but because it has been long\nand anxously looked for, and believe the reader\nwill like to the whole Of it, The public were led\nto believe it would have important bearing upon\nthe Presidential question. To US appears to\ntain very little. touching that matter merely. Two\nthings stated are. however, important. The avow-\nal that Mr.. Eaton furnished the editor OF the Coum-\nbian Observer fifteen hundred dollars! And the\ndeclaration that Mr.. Buchanan proposed to fight\nthe opponents of General Jackson with their.own\nweapons-that is. by intrigue, &c. This is denied.\nand we cannot but believe, that Mr.. Eaton, in this\nparticular, msconceived Mr.. Buchanan--a7olt\nwill be remarked that the letter does not, in the\n| smallest degree. go to raise a suspicion that Mr..\nClay made any proposition to General jackson\nthrough Mr.. Buchanan ; and this, be it remembered\nis the great question at issue between GEN. Jackson\nand the public. --\n\n\n| The editor oftbe Z\" Courier published in Por-\ntage, Ohio, says. We are well assured, that ut\nleast two-hrs of both branches of the next Legis-\nlaure of Ohio will be in favor of the reelection Of\nMr.. Adams. There seventeen members Of the\nsenate, whose term of service have not yet expred\ntareLve ofwhom, and probably thirteen are admins\ntration men. Of the nineteen districts from which\nthe senators are to be chosed at the approaching\nelection not less than twelve will give majortes in\nfavour of the administration. OF the representa-\ntives to the next congress romthis stateeLeUea\nin favour of the administration, and too opposed TO\nit.\" So much for Ohio. q. S. Gazette.\n| -asnio - osR,p-\nI 0E~ THE stated quarterly meeting of the Mana\n\n\ngers of the Wilmngton Union Colonization Society,\n\n\nwill be held at the house of the Hon. Willard Hall,\non Thursday evening next, at O'Clock.\n\n\nIl. A. HEM DERSON, Register.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2446,
+                    "y0": 290,
+                    "x1": 3261,
+                    "y1": 3045
+                }
+            ],
+            "bbox": [
+                2446,
+                290,
+                3261,
+                3045
+            ],
+            "full_article_id": 11,
+            "id": "11_1827-10-23_p3_sn83025530_00271740220_1827102301_0228.json"
+        },
+        {
+            "object_ids": [
+                26,
+                11
+            ],
+            "headline": "GREENsvILLE, S. c. Oct. G..",
+            "article": "OREENSVILLE, y. Y. OCt. o'\n\n\nMore Gold.-We have just seen small bar OF\nvery line Gold, exceeding in value one hundred and\nfifty dollars, brought from Tiger river in Spartan\nburg, where Mr.. James II. Randolph, is now wash\ning for this metal. This piece of Gold was not\nfound in one body, but consists Of several parcels\nmelted into one.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 406,
+                    "y0": 4634,
+                    "x1": 835,
+                    "y1": 4670
+                },
+                {
+                    "x0": 107,
+                    "y0": 4651,
+                    "x1": 879,
+                    "y1": 4929
+                }
+            ],
+            "bbox": [
+                107,
+                4634,
+                879,
+                4929
+            ],
+            "full_article_id": 12,
+            "id": "12_1827-10-23_p3_sn83025530_00271740220_1827102301_0228.json"
+        },
+        {
+            "object_ids": [
+                15
+            ],
+            "headline": "",
+            "article": "any reason why be should he preferred to any Of\nthe statesmen iDthe country protesting the same la\n:tudinous construction.\n\n\nYour committee will also declare, that after ex-\nconfidence in the Integrity and honor Of the secre-\ntary Of State.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 59,
+                    "y0": 285,
+                    "x1": 835,
+                    "y1": 555
+                }
+            ],
+            "bbox": [
+                59,
+                285,
+                835,
+                555
+            ],
+            "full_article_id": 16,
+            "id": "16_1827-10-23_p3_sn83025530_00271740220_1827102301_0228.json"
+        },
+        {
+            "object_ids": [
+                19
+            ],
+            "headline": "",
+            "article": "reason Wny .uC niouN kiC'cAS' ~ any b'\nhe statesmen Dthe country protesting the same la\n.itudinous construction.\n\n\nYour committee will also declare, that, after ex-\namining all the proofs, they have still the most entire\nconfidence in the Integrity and honor Of the Secre.\ntary Of State.\n\n\nFrom the papers itappears that, in some parts OF\nour country the result Of the late election in this\nState was unexpected. II must be admitted that\nMIR. Adams had been represented in the worst col\nors for three years. and that these representations\noriginal and selected, had gone, perhaps, to every\nvillage in the state while little, in comparison, Of\na contrary nature had been presented TO our citi-\nzens.--Certain individuals, also, who had con-\nsiderable influence, we're known TO be members Of\nthe I\" Combination in full standing: and this Cir\ncum.,ance in addition to the former, was supposed\n10 be decisive of the fate of Mr.. Adams in Dela-\nware.\n\n\nBut the truth Notwithstanding all the misrep-\nreseptations of prostuted press--and all the la\nbours of the Combination\" asprants among us,\nDelaware has not been at any one moment, friend\n\" to the election Of General Jackson in preference\nto Mr. Adams Had not the people of this State\nbeen able to form their sentiments on this sub\nject, they still would have remembered the denun-\nCitations of the General which proceeded from this\nsame prostuted press, and these political asprans\nand some of their tools. The people remembered\nthese things--and they will long remember them,\nunless they willing to submit to further imposi-\ntions.\n\n\nLet, therefore, writers at distance not suppose\nthat they have \"ga,ned\" Delaware--for Delaware\nwas never in favour of General Jackson, notwth-\nStanding althe labors of prosttuted press and its\nManagers all the tales Of kremer Jackson, lsaacks,\nEaton, and company and all the misrepresentation\nselected from the Kentucky Argus, Noahs Enquir-\ner, and the whole host of =\" improved presses, and\ncirculated semi-weekly, in all parts of the State.\n\n\n1t is true, that there parts of the State which\nneed more fair, Just, and candid view of public\nmen and measures. 1t is true-that things as they\nreally are have not been presented to them but it\nwould be an unjust estimate of the sober sense, the\ndsnterested feeling, and intelligence of the people\nof Delaware, to suppose that they were incapable Of\ndiscovering that the prominent leaders, in the war\nwaging against the Administration we're PERSON\nALL Interested Ill ulC cfcht VI tC Sohtcoi ACJ\nhave seen. nd we'll weighed this striking circum-\nsance and they have told, even. those whom they\nhave delighted to honor, that they are FREEMEN,\nnot to be led or driven in this momentous question.\nThey have spoken amidst all the disadvantages un-\nder which they have labored, by majority OF near\nk 400; and they will hereafter speak, when pos\nsessed Of more just and true state of things, with\nmore decision\n\n\nOCTOBER, 23-Price Of Wheat and Corn, this\n|e.y, at Br.'ndywine,\n\n\nWheat per bushel, ............ 5 90\nCorn, 10. ~\n\n\nFrom tie Nev- York Commercial .qdvertiser\n\n\nThe Plot ihickens. We have satisfactory reason\nfor believing that the good People of this State hav\nbeen betrayed and sold like cattle in the shambles\nWhile they have been reposing i'll apparent. security\nthe Phslines have been upon them, Aplot has bee\nformed. and so far matured, in secresy and silence\nthat we fear it will be difficult, fnot impossible, fu\n\n\nthe friends Of the Administration efectuallyto cour\n\n\nteact the designs Of the conspirators in season tt\n\n\nthe approaching election. We are we'll acquainte\n\n\nwith the political machinery kept at Albany. alway\n\n\noiled and FURNISHED for use, and we have abundal\n\n\npvidnnca that ovnru u;ra haS hppn led. and ever",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 42,
+                    "y0": 311,
+                    "x1": 831,
+                    "y1": 3860
+                }
+            ],
+            "bbox": [
+                42,
+                311,
+                831,
+                3860
+            ],
+            "full_article_id": 20,
+            "id": "20_1827-10-23_p3_sn83025530_00271740220_1827102301_0228.json"
+        },
+        {
+            "object_ids": [
+                24
+            ],
+            "headline": "",
+            "article": "or THE stated quarterly meeting of the Mana\ngers of the WWuiagton Union Colonization Society,\nwill be held at the house of the Hon. Willard Hall,\non Thursday evening next, at O'Clock.\n\n\nIi. A. HENDERSON, Register.\nOct 90 1897",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2454,
+                    "y0": 2845,
+                    "x1": 3256,
+                    "y1": 3063
+                }
+            ],
+            "bbox": [
+                2454,
+                2845,
+                3256,
+                3063
+            ],
+            "full_article_id": 25,
+            "id": "25_1827-10-23_p3_sn83025530_00271740220_1827102301_0228.json"
+        }
+    ]
+}

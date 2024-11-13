@@ -1,0 +1,126 @@
+{
+    "lccn": {
+        "title": "The Wilmington mercury.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2639-6262",
+        "lccn": "sn88053099",
+        "start_year": "1798",
+        "end_year": "1798",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn88053099",
+        "edition": "ed-01",
+        "date": "1798-10-22",
+        "pages": [
+            "seq-1"
+        ]
+    },
+    "page_number": "1",
+    "scan": {
+        "lccn": "sn88053099",
+        "edition": "ed-01",
+        "date": "1798-10-22",
+        "page": "1",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn88053099/1798-10-22/ed-1/seq-1.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn88053099/1798-10-22/ed-1/seq-1/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn88053099/1798-10-22/ed-1/seq-1/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn88053099/00271740232/1798102201/0046.jp2",
+        "height": 2912,
+        "width": 2368
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1177,
+                "y0": 841,
+                "x1": 1912,
+                "y1": 2865
+            },
+            "class": "article",
+            "raw_text": "Antrim Conrow, I fheep, 2 bufh.\nbuck-wheat, & quarter pork\nLevi Colelberry, lheep\nAndrew Colefberry, 1 fheep, 1\nbulhel tulnips, E fowls. & 6\nheads cabbage\nAnInhabitant Of Newcaifle Hun.\ndred, I fat necr\nWilliam Stidham, fheep\nAbraham Ewes, fheep, 3 bufh.\npotatoes, & \"A heads cabbage\nIfaac Stidhan, l ihcep, 81 buih.\nbuck wheat, 2 do. turnips, &\nload itraw\n\n\nLucas Stidham, fheep, guam\ntty of corn & Rraw, I large &\nfmall pigs\n\n\nPeter Jaquett, jun. I fheep\nA Citizen of Newca1tle Hundred,\nfheep, & l bufhel corn\nHarlin Cloud, l fheep\nJames Barr, bulhel turnips\nSamuel Barr, I bufhel corn\nAndrew King, do. bucll-wheat\nAlexander Finilfer, 2 do. potatoes\nJofeph Brown, II bufh. potatoes,\ndo. turnips, & IS heads cab\nbage\n\n\nNicholas Quin. 2 bu1lel corn,\ndo. buck W heat, and E heads\ncabbage\n\n\nw. NJ. bag potatoes\nA Lady, dollar\n\n\nFulfilled BY Order of tbe Board,\nTHOMAS MENDENHALL,\n\n\nPreGdent\nJAMES LEA, Secretary.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 144,
+                "y0": 509,
+                "x1": 2176,
+                "y1": 740
+            },
+            "class": "headline",
+            "raw_text": "SECOND DAY (non) EVENING, TENTH MO.\n\n\noC7) 1893",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -2
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 781,
+                "y0": 778,
+                "x1": 1635,
+                "y1": 856
+            },
+            "class": "headline",
+            "raw_text": "[CoAe7ed far kbe Wizmingf0n Merea,y.]",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                1,
+                3,
+                2
+            ],
+            "headline": "SECOND DAY (non) EVENING, TENTH MO.\n\n\noC7) 1893\n\n[CoAe7ed far kbe Wizmingf0n Merea,y.]",
+            "article": "Antrim Conrow, I fheep, 2 bufh.\nbuck-wheat, & quarter pork\nLevi Colelberry, lheep\nAndrew Colefberry, 1 fheep, 1\nbulhel tulnips, E fowls. & 6\nheads cabbage\nAnInhabitant Of Newcaifle Hun.\ndred, I fat necr\nWilliam Stidham, fheep\nAbraham Ewes, fheep, 3 bufh.\npotatoes, & \"A heads cabbage\nIfaac Stidhan, l ihcep, 81 buih.\nbuck wheat, 2 do. turnips, &\nload itraw\n\n\nLucas Stidham, fheep, guam\ntty of corn & Rraw, I large &\nfmall pigs\n\n\nPeter Jaquett, jun. I fheep\nA Citizen of Newca1tle Hundred,\nfheep, & l bufhel corn\nHarlin Cloud, l fheep\nJames Barr, bulhel turnips\nSamuel Barr, I bufhel corn\nAndrew King, do. bucll-wheat\nAlexander Finilfer, 2 do. potatoes\nJofeph Brown, II bufh. potatoes,\ndo. turnips, & IS heads cab\nbage\n\n\nNicholas Quin. 2 bu1lel corn,\ndo. buck W heat, and E heads\ncabbage\n\n\nw. NJ. bag potatoes\nA Lady, dollar\n\n\nFulfilled BY Order of tbe Board,\nTHOMAS MENDENHALL,\n\n\nPreGdent\nJAMES LEA, Secretary.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 144,
+                    "y0": 509,
+                    "x1": 2176,
+                    "y1": 740
+                },
+                {
+                    "x0": 781,
+                    "y0": 778,
+                    "x1": 1635,
+                    "y1": 856
+                },
+                {
+                    "x0": 1177,
+                    "y0": 841,
+                    "x1": 1912,
+                    "y1": 2865
+                }
+            ],
+            "bbox": [
+                144,
+                509,
+                2176,
+                2865
+            ],
+            "full_article_id": 3,
+            "id": "3_1798-10-22_p1_sn88053099_00271740232_1798102201_0046.json"
+        }
+    ]
+}

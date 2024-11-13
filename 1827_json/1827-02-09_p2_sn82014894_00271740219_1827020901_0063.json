@@ -1,0 +1,695 @@
+{
+    "lccn": {
+        "title": "American watchman and Delaware advertiser.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2576-7445",
+        "lccn": "sn82014894",
+        "start_year": "1822",
+        "end_year": "1828",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [
+            "sn82014895"
+        ],
+        "successors": [
+            "sn82014393"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn82014894",
+        "edition": "ed-01",
+        "date": "1827-02-09",
+        "pages": [
+            "seq-1",
+            "seq-4",
+            "seq-3",
+            "seq-2"
+        ]
+    },
+    "page_number": "2",
+    "scan": {
+        "lccn": "sn82014894",
+        "edition": "ed-01",
+        "date": "1827-02-09",
+        "page": "2",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn82014894/1827-02-09/ed-1/seq-2.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn82014894/1827-02-09/ed-1/seq-2/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn82014894/1827-02-09/ed-1/seq-2/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn82014894/00271740219/1827020901/0063.jp2",
+        "height": 5632,
+        "width": 3544
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1046,
+                "y0": 1205,
+                "x1": 1847,
+                "y1": 1747
+            },
+            "class": "article",
+            "raw_text": "The following statement, from the .qnerledn Sunday\n\n\nSchool Untoa' exhibits most interesting light, the\n\n\npowerful vet silent and unobtrusve efforts which are\n\n\nmaking to improve the moral condition of society, BY\n\n\nmeans of Sunday Schools.\n\n\nThe American Sunday School Union, instituted in the\nyear 1924 from society which had existed seven\nbefore, under the of the Philadelphia SUNDAY\nand Adult School Union This Society confined its opera\nthe city, until il, influence gradually extended\nthe whole Union, by the advantages which afforded\nand which anxiously sought by those engaged in this\nOf instruction. which has proved efficient for the\neducation Of the poor and ,erae and by the operation Of\nwhich, vice and lnnb'sty SO much checked, and the\nevils Of pnupersm generally reduced At the last anni-\nversary there were connected With this Society,\" 10 the",
+            "legibility": "Questionable",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1279,
+                "y0": 1161,
+                "x1": 1601,
+                "y1": 1197
+            },
+            "class": "headline",
+            "raw_text": "SUNDAY SCHOOLS.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 218,
+                "y0": 3951,
+                "x1": 1029,
+                "y1": 5333
+            },
+            "class": "article",
+            "raw_text": "BY Tie Eclipse, and James Coulter, arrived in\nlhe Delaware, adyices from Laguifa 10 Jan. z, are\nreceived. A letter from the American Consul al\nthat place, dated the 9th, says :--'' Since my last,\nlot 29,h Deco great changes have taken place in\nthis country Bolivar has arrived al Valencia, and\nfrom the feelings Of the people, and Manifestations\nOF himself, every thing will be amicahly and with\nout bloodshed arranged. The market in conse\nquence, will assume more regularity, and conf\ndence be restored\"\n\n\nA letter to the editor Of the Philadelphia Gazette,\nstates that Bolivar arrived at Porto Csvello on the\n3lst Dec. by water from Maracaibo He was At\nValencia on the ID January, and was expected 10 ar.\nrive al Caracas on the 9th or 10th \"The people\nare all rejoicing at the arrival OF The Liber,ador,\nand in act they have good reason, for had he been\na lew weeks later. God only knows what would have\nhetn the consequences. They making great\nprepaf ations TO receive him in Caracas lriumphal\narches erecting in The pubic square, Sec.\n\n\nA report was received a, I.aguira on the evening\n81 the 5'h, that severe engagement had taken place\nbetween Gen, Errmudez aud The Commandment Of\nRio Chico\n\n\nThe Philadelphia Palladium, gives The folio wing\nabstract OF DEGREES issued by Bolivar.\n\n\n\" Decree OF 18th Decembet at Maracabo. signed\nBpiVsr, decrees that he has been mace President\nOf he Republic. That all parties have invoked his\nmediation to settle all disputes. That the depart\nT. ents OF Mal1rin, Venezuela, Orinoco aud Zua are\nSubjected g his immediate orders. That sl de\ni.ands, conf plants, sc from the districts, &C. are\nTO be addressed % his Secretary General. That the\npabilc Authorities arr 10 cease obcYng any other su",
+            "legibility": "Questionable",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 438,
+                "y0": 3898,
+                "x1": 818,
+                "y1": 3938
+            },
+            "class": "headline",
+            "raw_text": "FROM COLOMBIA",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1028,
+                "y0": 2653,
+                "x1": 1838,
+                "y1": 5346
+            },
+            "class": "article",
+            "raw_text": "Total, 2.l39 298 f35O74\nIn all 800 an8arie q 20 schools n 298 cachers and\nTo organize and aid his extensive sstcm Of education\nIS the object for which the society exists and thus i ia\nefficiency has been cyIen y great for during the Yea,\nprevious 70 the last report there added it OOS\nteachers and $3.50 scholars The successful Operations\nOF The American Sunday School Union, chiefly TO be\nattributed to Tie they have furnished in the ahnn\ntan and cheap supply Of books and other requisites fr\nthe Of schools Each school left its own selection\no. books and the management Of its concerns and ali\n.ithelt distinction Of sect or party enjoy the rights\nand privileges These are msnifesy great, that there\ngood reason TO presume that every Sunday School in he\nCnon will Parake of them for with the possession Of an\nlie privileges there is restrictions and no other reou;si\nton han the payment, once Of three dollars and an an\nnlA report q The sa'e Of the schools.\n\n\ng supply all these ,choars with books Of character\nssd y Their comprehension, and at The lowest prices Is\nUS bs aess Of The SOC ely This work has hitherto be en-\naccomplished snder some dic1lti- ard BY the assiduos\nfen9n q We Managers, With scarcely any demands upon\nthc tubla but he- good VII rs h Is tue has been\nNOS abuliatY manifesto the II ospetity If The nst,\n.uton 80\nOne grea dieuy \"a, been Ne \"a. II al III incor\nporston 9hei eoui rn4.te H. soeety tonduc, its\noAsnes %l'the benet u egsl clam agent, and\nbb\"kseilers u dsant places, and BY which, also i NIGH,\nenly sueA ae4 fss as 'fe benevolent dspo,el 10\nsran' e 50 efficient chary\n\n\nllere engaged ii HE sertfoe of lie .dti.ty 81\nmisaeipfa, tte printers, one scfestypt fo1nler ih,r\ntceh boo6pndcrs, one copperple printer, and one e.\ng1avef employing alleeehl-, about sixty persons 10\nwhom wages % considerable amount arc annually nad\nbesides large sums 70 paqernakers To ell iarcs q\nmatter uf moment, that the society should enjoy cs oastf\nprivileges aud these Hoped, Wit not be withheld +,\nhe saic Which enjoys HE advantages Of rs caton ma\n70 winch there than 10000 children receiyinp\ndirectly the benefits which II 50 freely ,lltfises\n\n\nALEXANDER HENRY presjd-.,\n\n\nfnrnKt1ek \". PoRrkR, Corresponding Secru\n\n\nPhiladea ahla, January ), 1927.\n\n\nihe particulars Obtained, but the number exceed\nthat stated\n\n\nChests,to1eu, IMd.1 Jan. 26 --Shockinr Occur.\nrehce.--On the night Of the 23d inst about seyrr\nO'Clock, Mr James Burden, Of this county, and hi,\nWIFE, went 10 neighbours house, distant between\nTwo and three hundred yards. leaving a, home ;\nnephew about lo years old, daughter S, and a sor\no' 10 less than - minutes, We are informed, the\nwere alarmed by FIRE, which was discovered 10 nro\neeed from the habation OF Burden. and SO rapi,\nwere the flames tina, the two smallest children wsr\nconsumed, with the whole Of Burdens effects be\nfore relief could reach them.\n\n\nThere is a law in Maryland, that requires IN,\nofficers Of one Of their state banks 10 swear tn al hr,\nsili not directly indirectly use money for th\npurpose oil usuty, AND that they will not, il in the;\npower to prevent il, suffer any person to obtain dis\ncounts al that bank, whom they know or believe /,\nDC IN the practice Of discounting at unlawful inter\nest.\n\n\nThe amount Of Auction Duties paid into the treasury\nhe state OF New York, during the past year. was\n\n\nA few days since, S S. Howard ESQ and Col\nWatson, OF Port Kent, crossed on the ice from Bur\nllington VI. to Port Kent measuring the distanc\nfrom one wharf to the other. which they ascertsine\nto be nine miles and one hundrsd and forty. .fy\nrods",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1041,
+                "y0": 242,
+                "x1": 1847,
+                "y1": 1136
+            },
+            "class": "article",
+            "raw_text": "preme authority than his All hostilities TO be at\nonce abandoned\n\n\ndecree. dated Valencia, % Jan. signed Bolivar,\nThat he is authorised by the wishes ofthe people 10\nexert extraordinary powers Tor the salvation OF the\ncountry. That no one shall be prosecuted or tried\nfor any thing done said with reference to reform.\nThe persons property aud Offices Of those engaged\nil that cause are guaranteed without exception.\nThe Gen. in Chief, Paez, shall continue TO hold ci'\nvii and mill AIRY command under the name ot high\nand supreme chief Of Venezuela, with the facilities\nproper 10 that station, Santeo Merino being Intend.\nant and Commanding General Of Maturin. That\nfrom the date of the decree. all should acknowledge\nand obey his authority as President oi the RePuo-\nlie, and every act Of hostility committed lhencetor-\nward be treated and punished as crime against the\nstate. That the Grand National Convention should\nhe convoked coniormably to his decree OF the l9.h\nDec. in order to determine the fate the Republic.\nOn The same DAY Paez submitted 10 the decree and\noccupied the title Of Chief conferred by the Libcr-\nalOr,",
+            "legibility": "Questionable",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 883,
+                "y0": 237,
+                "x1": 1852,
+                "y1": 300
+            },
+            "class": "headline",
+            "raw_text": "- Ipreme authority than his All hosli'iea TO DC at",
+            "legibility": "Questionable",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 223,
+                "y0": 294,
+                "x1": 1038,
+                "y1": 3938
+            },
+            "class": "article",
+            "raw_text": "GEORGIA RESOLUTION.\n\n\nSENATE OF MASSACHUSETTS\n\n\nThe Committee on the Judiciary. to whom was re-\n\n\nferrsd the Message OF His Excellency the Cover\n\n\nnor. covering communication from the Execu-\n\n\ni've OF the State of Georgia, have attended TO the\n\n\nsubject, and respectfully Report:\n\n\nrha. the papers transmitted by the Executive OF\n.he State Of Georgia convey information to the Legis\nlalure o! this Commonwealth that the Legislature OF\nGeorgia have instructed their Senators IN Congress\nand requesle their Represen atves 10 promote such\nan atei alton OF the Constitution OF the United States\nas will prevent the election Of the President from\ndeyoping, in any event, on the House OF hepressn-\nalires, and which at the same time will preserve\nnyiolate all the rights Of the States growing out OF\nThe compromises OF the Constitution.\n\n\nNo request is contained in the papers OF the State\nOf Georgia for any cooperation on the part OF this\nCommonwealth, yet j, is believed by the committee\nthat this communication would not have been made\nbut for the purpose OF exciting this Commonwealth\nTO similar effort preparing the minds OF our lei\nTow citizens think tsycraby Of the object when\nthe influence Of The State OF Georgia, shah have SO\nfar succeeded 10 present i, in more formal man.\nner for their adoption.\n\n\n1t is obvious therefore that act OF this Leglsls-\nture is required in the present situation OF the pro-\nposed amendment and the Committee might 80\nreport wi nout further delay, il The preamble TO the\nGeorgia Reso!..cl Gid not require from hem\nstrong expression Of dissent IRON lis propositions.\n\n\nThe Legislature Of Georgia have declared ,ha,\nfrom the past history Of the Government ii is 10 be\nfeared that under the provisions al present embraced\nin the Federal Constitution, the Office OF President\nOf the United States, one giving TO the incumbent\npower which may be effectuallr used for the best\nworst OF purposes, may sometimes be bestowed on\nthe man whom the suffrage, uf the people would\nnot elevate TO that high office, and whose ony hope\nOf continuance therein will be derived from the art\nJul use ct the patronage OF the Government dan\ngerous instrument in the hands OF an ambitious\nman. Your Committee are not aware that any\nfact, in the past history Of the country warrant\n.hese remarks Twice only in the ten elections OF\nPresident Of The United States has the ohoice devo\nsed on the House Of Representatives. On both\nthese momentous occasions, that honorable body\nhas discharged us high and responsible duy in\nmanner worthy Of the patrotismi integrity and\nsirmness which should characterize American\nstatesmen.\n\n\nhe hrst election Terminated 10 the choice OF\nman whose life was practical illustration Of those\ngreat principles oi liaeFiy which he had recorded\n~ the declaration Of his country's Independence\naud whose ecent death has demonstrated how great\nand impsrlshabe is the affection with which free\npeople constctaes his memory\n\n\nThe second election BY the House OF Representa-.\nslves has elevated 70 The Presidency OF the most\npiotoUUU dCCOnpuSUeu statesmen OF Inc age,\nwhose past services in the most difficult and impor\nliant stations are pledges Of his ability TO conduc,\nthe destolrs Of this gfeat people, while the integrity\nOf MS chat acter and the sernness u his republican\nprinciples give assurance that the free institutions\nOF our country will acquire strength and security\nny his administration of constitutional power.\n\n\nThe impulaon that aoy thing in the past hiso\n~ OF Presidential election gives occasion for alarm\naud Tor new and undehned alterations Of the funda.\nmental principles Of confederation derives all is\ntitle TO ion from respect he source from\nwhich il emanaes. Your Committee CO sder ii\ndue the purify Of political ooua, il. d dlscl.m\nthe justice OF the reprosch, and Ii should We !\nmuch regret to find bat personal dlssppo I'm n O.\nparty pride should in any case feel jus.lf-d in cssi\ning ilibera reproach upon distinguished ,lasis\n10 any department Of the government To couo\nty like ours should be universally felt tia, md\nsldual pfeoiectons cannot always ne gra,ifed snt\nthst the day OF good citizens consists rather il a\ngenerous suhmi,son 70 constituted AUTHORITY lEsn\n10 eTpyricai attempts to alter established law. tof\nTemporary purposes.\n\n\nThe Committee therefore report that il Is not ex-\npedient to take any further measures in relation 10\nthe communication Of the Executive OF the State OF\nGeorgia By order.\n\n\nJAMES T. AUSTIN-for the Committee\n\n\nFROM COLOMBIA",
+            "legibility": "Questionable",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 372,
+                "y0": 290,
+                "x1": 901,
+                "y1": 335
+            },
+            "class": "headline",
+            "raw_text": "GEORGLa RESOLUTION.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -2
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 359,
+                "y0": 338,
+                "x1": 950,
+                "y1": 379
+            },
+            "class": "headline",
+            "raw_text": "OF MASSACHUSETTS.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2665,
+                "y0": 501,
+                "x1": 3458,
+                "y1": 4713
+            },
+            "class": "article",
+            "raw_text": "sent 10 the other House for concurrence.\n| The following Message was received from j.\nPresident Of the United States, by the hands Of hi\nprivate Secretary:\n\n\n10 tie Senate and House Of Retresentatves oft6e U S\nWASHINGTON, 5fh Fetruaru, 1897\n! submit to the consideration OF Congress. a b,\nter from the Agent Of the United States with i.\nCreek Indians, who invoke the protection Of n.\nGovernment, OF the United States, in defence Of m\nrights and territory secured 10 that nation by n.\ntreaty concluded al Washington, and ratified, :.\nthe part Of the United S,ates on the twenty second\nOF April last.\n\n\nThe complain, Sc, forth in this letter, that sr,.\nseyors from Georgia have been employs ed in survey.\ning lands within the Indian territory, as secured t\nthat treaty. is authenticated by information inoffcn.\n\n\ny received from other quarters, and there is reaMn\n10 believe that one or more oil the Surveyor, bs,,\nbeen arrested in their progress by the Indians\nTheir fotbearance, and reliance upon the good alb\noi the United States, will, il is hoped avert scene\nof violence and blood, which there s otherwise IL,\nmuch cause TO apprrhend will result from hes,\nproceedings.\n\n\nBY the filth section Of the act OF Congress, Of H.\n3oth OF March, 1902, to regulate trade and inter.\ncourse with the Indian tribes, and to preserve peace\nthe frontiers. is provided, that if any citizen d.\nor cher person iesden, in. the United States sbsl\n4 lHhkS ihHds oc'oubiiR, OF Secl,\nred or granted by treaty with the Uriled State. 10\nany Indian tribe or shall survey, or attempt to sur\nsey, such lands or designate any Of the boundas,\n! by marking trees or otherwise, such offender shall\nforfeit sum not exceeding one thousand dollars\nand suffer Imprisonment not exceeding twelve\nmonths. BY the 10Th and l1th sections OF the sam.\nstatute. two distinct processes are prescribed by\neither or both OF which, the above enactment may\nbe carried into execution. BY the first, is d,ca\nred TO be lawful for The military force OF the United\nStates 10 apprehend every person found III the Indal\ncountry over and beyond The boundary line be,wter\n\n\nthe United States and the ltdlan tribes, in violation\noi any OF the provisions or regulations OF the act\nand immediately to convey them in the nearest con\nvenien and safe route, 10 the civil authority oi til\nZ nted States, in some one oi the three ncx sd\njoining States, or Districts 10 be proceeded agalni\nin due course Of law.\n\n\nby the second, it is directed, that, il any perso\ncharged with violation oi any OF the provisions Q\nregulations oil The act shall be found within any\nthe United States, either Of their territorial d!\ntfIcts, such offender may be there applehended an\nbrought to tra in the same manner as il such cflm\nor offence had been tommitled within such State\nDistrict and that il shall be the duty oi the militia\nry force Of The United States, when called upon b\nthe civil magistrates or any proper officer, ohe\nperson duly authorized for that purpose, and hay\ning lawful warrant, to aid and assist such mags\nirste, officer or other person authorized, in arrest\ning such offender, and committing him 10 sale Gu:\ntody Tor trial according TO law.\n\n\nThe first Of these processes is adapted to the 81\nrest OF the ,respasser upon Indian Territories, 0\nthe spot, and in the act OF committing the ofenl\nBut az II applies the action OF the Government\nthe United States TO places wkeie the civil lroee.\nOF the law has 10 suthoiized course, il is commi,ie\nentirely the functions oi the military io ce 10 al\nrest the person oil the offender, and alter binen\nhim within the reach Of The jurisdiction OF tn\nCourts, there TO deliver him into custody iof ts\nThe second makes the violater OF The law amensbl\nonly alter his offence has been consummaled, an\nwhen he has returned within The civil ,urisdie;io\nOF the Union. This process, in the first instance\nis merely OF civil chatactei but may in like mai\nner, be enforced by calling in, II necessary, the 81\nOf the military force.\n\n\nEntertaining no doubt that in the present csst\nthe resort TO either Of those modes OF process, ort\nboth, was within the discretion OF The executive ~\nthoriy, and penttiated with the duty Of maintain\ning The rights Of the Indians as secure both by Ii\ntreaty and the law, concluded, alter u dt tliberi\nton, 10 have recourse on this occasion, in the hr\ninstance only TO the civil process. Instruction\nhave accordingly bten given Ly The Secretary\nWar, 10 the Attorney and Ntrsha oil the Unite\nStates in the District oil Georgia, 10 comntnc\npiosecu u.ions against the Surveyors complained o. q\nhaving violated the law, while orders have At III\nsame time been fowa ded to the Agent Of the U\nnted States, at once 10 assure The Indians iha\ntheir rights, founded upon the treaty and The law\nare recognized by ihis Government, ard viii b\nfaithfully protected, and earnestly TO exbort then\nby the folbeaance Of every act Of hostility On the\npart, 10 preserve unimpared tina, righ, 10 protelo\nsecured 10 them by the sacred pledge Of the eoo\nfaith OF this nation. Copies Of these in.i.utt tior\nand orders are herewith transmitted TO Cotgfess.\n\n\nIN aosta'nlne. a. this stage oil the proc eedrg\nfrom the application 0! any military force have be\ngoverned by considerations, which will, trus\nmeet the concurrence OF the Legislature. Amen\nhem. one OF ps,amoun, importance has been, tb\nthese surveys have been attempted, and lartly t",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2678,
+                "y0": 242,
+                "x1": 3440,
+                "y1": 304
+            },
+            "class": "headline",
+            "raw_text": "Nineteenth Congress, Second Session",
+            "legibility": "Questionable",
+            "full_article_id": 7,
+            "reading_order_id": -2
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 2876,
+                "y0": 343,
+                "x1": 3277,
+                "y1": 432
+            },
+            "class": "headline",
+            "raw_text": "Monday, FEBRrAar s.\nIN SENATE.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1851,
+                "y0": 228,
+                "x1": 2670,
+                "y1": 4282
+            },
+            "class": "article",
+            "raw_text": "Philadelphia, Feb. 9.\nA case al great importance and interest IS nov\nIN trial in the Supreme Court, Judge Huston, pre-\nsiding 1t is the case Of Levitt Harris vs.. Wilhau\nID. Lewis, brought to recover damages ior inc pun\n\n\ncation Of libel, alleging consular msiieasahce .\"\nthe part Of the Plaintiff while Consul Generai Q. inc\nUnited States al 81. Petersburg, in the year looS,\nand 10. Damages laid 100000 dollars, counsel\nfor the Plaintiff, George nj. Dallas, Charles J. In\ngersoll and Horace Binney, Esquires; ior the de-\nfendant Joseph r. Ingersoll and Charles Chauncey,\nEsquires. Messrs J. Hopkinson and John ser\npeant we're retained in the cause, but Mr. Hopkih-\nson Withdrew on account Of indisposltlon, and Mr.\nSergeant is absent on the Tacubaya Mission. ne\ncase will probably occupy two or three weeks. nc\nJury was empanelled on Monday, and the plaintiffs\ncase, prima facic, was then concluded. Mr. J. x.\ningersoll opened on Tuesday Morning, and is still\nspeaking and reading documentary evidence. lhe\ndeposition of Mr.. j. @. Adams was read; that doc\nument alone with the exhibits makes 100 pages. II\nis believed that 5000 pages will be read as defendants\nand rebutting evidence. Commissions have been\ntaken to many parts Of the United States To Russia\n&c. Several distinguished and some titled Russian\npersonages as we'll as other foreigners attend the\nCour, regularly. Palladium.\n\n\nBulrn vs Boaun \"-There is an amusing contrast be-\nThe declared opinions Of DEWITT CLINTON in lol\nrespecting the pow er Of the general government to\nroads and Canals and the opinions OF the same gen\n\n\neman expressed in his late message to the Newfoik Le.\ns''''' J. 1879. IN 1926,\nDe Jru CLINTON and Cor, Saws Clinton to the legsa.\nernor .r,is proceeded toure, IL think due a\nWashiugon and addressed Of duty and spirit of frank\n\n\nby personal ness say that my opinion\nv to the President OF The u lis equally hostile To ITS pos\nnted aes, and the two sson exercise by, OF its\nHouses Ut Congress- asking investment in, the national\naid for he canal, enter authorities can perceive in\nprise celebrated \"to encou ~ nothing less than THE HAR\nrage agrculture promote BIsGER cEHTAiN DLsTHuc-\nard manufactures, TloN Tns STATE GOVERN.\nfacilitate tree and general in Mgsrs but\ntercoutse between dlferenh il at once breaks down\nparts Of The United States The barrier between gov.\nIzIMENT ernmeh for national or exte.\nor affairs, and loc govern\ntry cossoLIDATE ments for domestic nterl-\nSTRENGTHEN UNION \" thisIor conceIns. +.\n\n\naddress was penned by Cln.I\n\n\nto- himself\n\n\nSo much for consistency NJ III jsmnai\nII has been asked What has Kentucky TO sxpec\nfrom the present course OF The National Govern\n:\" A writer in the Kentucky Commentator\nanswers this question very satisfactorily;\n\n\nMr.. Adams has furnished evidence, that Ken\nlucky and all the states, may expect, from him\nrepublican administration. They may expect the\npeace OF the conntty to be maintained its rights\nvlndcated; its revenues economiztd; the public\ndebts discharged tho constitution preserved invio\nlate; the rights Of the state, protected the princi\npies Of liberty and free government cherished and\nextended Kentucky mBy reasonably expect /.\nThat har domestic manufactures will be encouraged\nQ. Internal Improvements facilitated; and at ali\nevents, 3. That her character will not be degraded\nnor her patriotism stripped Of its reward, nor her\nlocal interests marked out for opposition These\nthings may be expected and every benefit which\ncan result 10 the Union from an able and upright\nadministration. II is TOO true. that their path may\nnot be smooth one we have seen thar lesonf\nhas been formed an opposition has been started\niactious opposition IAN Opposition wnhou, piin-\ncple; made up Of disappointed Office seekers and\nintrguers for power; by whom every useIul mea-\nsure OF the administration ssitempted to be thwar\ned every act oi importance assallcd, every motive\nOf the President impeached. Nevertheless the ad-\nminlslraton have srugsed along so far 10 the salts\nfaction OF the People and will doubtless get along\nbetter when the Opposition shall cease talk away,\nTO no purpose, The time OF both houses oil Congrcss.\n\n\nGeorgetoicn, Ky. Jon O.\n\n\ny Is no, little amusing 10 witness the Efforts oi\nthe Jackson pstisans. both in and out Of the state,\n10 produce the lmptesson abroad that Gener al\nJackson IS rapidly nsing in this state. We scsree-\ny open Jackson paper, without being greeted\nwith an extract or copy OF letter purpoltng 10\nDe written BY some gentleman OF intelligence il\nkentucky, whose opport for obtaining correct\nInformation on the subject, arc equal to any, &c.\nhese letters go on TO give great and wonde .u ac\ncounts OF the increasing popularity Of the General\n10 Kentucky. The writer's frequently undertake 10\ngive an eatmate OF the areng,h OF General Jackson\nIN the different Congressional Districts. We're\nGently saw letter, which was said to be written il\nKentucky, and in which it was stated that even in\nThe District lately represented by MIR. Clay, Gen\nJackson would be stronger than MIR. Adams; and\nthaf the present Representative to Congress- from",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2286,
+                "y0": 220,
+                "x1": 2639,
+                "y1": 260
+            },
+            "class": "headline",
+            "raw_text": "PHILADELPHIA, FEB. 2.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2273,
+                "y0": 1575,
+                "x1": 2661,
+                "y1": 2187
+            },
+            "class": "article",
+            "raw_text": "Saws Clinton to the legisla\nture, Il think il due 70 sense\nOf duty and a spirit of frank\nness, to say, that my opinion\nis equally hostile To its pos\nsession, or exercise by, or it.\ninvestment in, the nationa\nauthorities. can perceive il\nil nothing less than TnE mar\nBINGER OF CEHTAiN DEsTHCC,\nTIoN TO THs STATE GOVERN\nMgsTs, nor can we but see\nthat it at once breaks dowr\nThe barrier between q GOV\nernmeht for national or exte'\nrior affairs, and local govern,\nments for domestic or interi\nor concerns,\n\n\n",
+            "legibility": "Questionable",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2401,
+                "y0": 1540,
+                "x1": 2538,
+                "y1": 1571
+            },
+            "class": "headline",
+            "raw_text": "IN 1926.",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 1864,
+                "y0": 4791,
+                "x1": 2666,
+                "y1": 5351
+            },
+            "class": "article",
+            "raw_text": "-, EuzdbeM Iiy, \" C. Jan 20.\n~ negroes belonging 70 The Society Of Frends and four\nVINO were ee left this place for Norfolk to take\nLiberia 80 'y 80\n\n\nMT. William Fletcher, OF Perquimans, N. C. was\nlost IN the schooner Perqumans al sea, receny n.\nwill has just been opened, which provides. tha, Lila\nslaves, twelve in number. shall, after the ensuing\nyear, be emsncipa,ed !; during which time ihey are\n70 DC hired out, Tor The purpose OF raising funds to\ndeiray the expense OF sending them to Hayti or III\nIBERIA, whichever they may choose.\n\n\nAmbition travels on a road 100 narrpp for friend\nship. too steep for safety.",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1860,
+                "y0": 1562,
+                "x1": 2265,
+                "y1": 2227
+            },
+            "class": "article",
+            "raw_text": "~ 1919\n\n\nDe Hin Ci,nton and Cor.\nern0r .tiorris proceeded to\nWashington, and addressed\nthemselves by le ter personal\nlv to the President Of the IT,\nnited States, and TO the two\nHouses ot Congress, asking\naid for The canal, as an enter\nprise calcilated \"to encou-\nrage agriculture, promote\nCONNIE ce and manufactures,\nfacilitate airee and general in\ntercourse between different\nparts Of he United States,\nTEND TO THE AGGRAN IZEMEST\nAND PROSPERITY OF THE couS\nTRY, Avn CONSOLIDATE AND\nSTRENGTHEN THE UNION \" This\naddress was penned by Clln.I\nto- himself.\n\n\nSo much for consistency .",
+            "legibility": "Questionable",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 2000,
+                "y0": 1548,
+                "x1": 2129,
+                "y1": 1576
+            },
+            "class": "headline",
+            "raw_text": "1el2.",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 3523,
+                "y0": 514,
+                "x1": 4588,
+                "y1": 4708
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 1860,
+                "y0": 1355,
+                "x1": 2661,
+                "y1": 1532
+            },
+            "class": "article",
+            "raw_text": "Buva,n ys Boatun. There is an amusing contrast be\ntween he declared opinions Of DEWITT CLINTON IN lel.\nrespecting the pow er Of the general government\nstrct roads and canals and the opinions Of the gen\n\n\neman expressed in his late message to the NewYork lie",
+            "legibility": "Questionable",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                7,
+                1
+            ],
+            "headline": "SUNDAY SCHOOLS.",
+            "article": "The following statement, from the .qnerledn Sunday\n\n\nSchool Untoa' exhibits most interesting light, the\n\n\npowerful vet silent and unobtrusve efforts which are\n\n\nmaking to improve the moral condition of society, BY\n\n\nmeans of Sunday Schools.\n\n\nThe American Sunday School Union, instituted in the\nyear 1924 from society which had existed seven\nbefore, under the of the Philadelphia SUNDAY\nand Adult School Union This Society confined its opera\nthe city, until il, influence gradually extended\nthe whole Union, by the advantages which afforded\nand which anxiously sought by those engaged in this\nOf instruction. which has proved efficient for the\neducation Of the poor and ,erae and by the operation Of\nwhich, vice and lnnb'sty SO much checked, and the\nevils Of pnupersm generally reduced At the last anni-\nversary there were connected With this Society,\" 10 the",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1279,
+                    "y0": 1161,
+                    "x1": 1601,
+                    "y1": 1197
+                },
+                {
+                    "x0": 1046,
+                    "y0": 1205,
+                    "x1": 1847,
+                    "y1": 1747
+                }
+            ],
+            "bbox": [
+                1046,
+                1161,
+                1847,
+                1747
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-02-09_p2_sn82014894_00271740219_1827020901_0063.json"
+        },
+        {
+            "object_ids": [
+                11,
+                2
+            ],
+            "headline": "FROM COLOMBIA",
+            "article": "BY Tie Eclipse, and James Coulter, arrived in\nlhe Delaware, adyices from Laguifa 10 Jan. z, are\nreceived. A letter from the American Consul al\nthat place, dated the 9th, says :--'' Since my last,\nlot 29,h Deco great changes have taken place in\nthis country Bolivar has arrived al Valencia, and\nfrom the feelings Of the people, and Manifestations\nOF himself, every thing will be amicahly and with\nout bloodshed arranged. The market in conse\nquence, will assume more regularity, and conf\ndence be restored\"\n\n\nA letter to the editor Of the Philadelphia Gazette,\nstates that Bolivar arrived at Porto Csvello on the\n3lst Dec. by water from Maracaibo He was At\nValencia on the ID January, and was expected 10 ar.\nrive al Caracas on the 9th or 10th \"The people\nare all rejoicing at the arrival OF The Liber,ador,\nand in act they have good reason, for had he been\na lew weeks later. God only knows what would have\nhetn the consequences. They making great\nprepaf ations TO receive him in Caracas lriumphal\narches erecting in The pubic square, Sec.\n\n\nA report was received a, I.aguira on the evening\n81 the 5'h, that severe engagement had taken place\nbetween Gen, Errmudez aud The Commandment Of\nRio Chico\n\n\nThe Philadelphia Palladium, gives The folio wing\nabstract OF DEGREES issued by Bolivar.\n\n\n\" Decree OF 18th Decembet at Maracabo. signed\nBpiVsr, decrees that he has been mace President\nOf he Republic. That all parties have invoked his\nmediation to settle all disputes. That the depart\nT. ents OF Mal1rin, Venezuela, Orinoco aud Zua are\nSubjected g his immediate orders. That sl de\ni.ands, conf plants, sc from the districts, &C. are\nTO be addressed % his Secretary General. That the\npabilc Authorities arr 10 cease obcYng any other su",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 438,
+                    "y0": 3898,
+                    "x1": 818,
+                    "y1": 3938
+                },
+                {
+                    "x0": 218,
+                    "y0": 3951,
+                    "x1": 1029,
+                    "y1": 5333
+                }
+            ],
+            "bbox": [
+                218,
+                3898,
+                1029,
+                5333
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-02-09_p2_sn82014894_00271740219_1827020901_0063.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "Total, 2.l39 298 f35O74\nIn all 800 an8arie q 20 schools n 298 cachers and\nTo organize and aid his extensive sstcm Of education\nIS the object for which the society exists and thus i ia\nefficiency has been cyIen y great for during the Yea,\nprevious 70 the last report there added it OOS\nteachers and $3.50 scholars The successful Operations\nOF The American Sunday School Union, chiefly TO be\nattributed to Tie they have furnished in the ahnn\ntan and cheap supply Of books and other requisites fr\nthe Of schools Each school left its own selection\no. books and the management Of its concerns and ali\n.ithelt distinction Of sect or party enjoy the rights\nand privileges These are msnifesy great, that there\ngood reason TO presume that every Sunday School in he\nCnon will Parake of them for with the possession Of an\nlie privileges there is restrictions and no other reou;si\nton han the payment, once Of three dollars and an an\nnlA report q The sa'e Of the schools.\n\n\ng supply all these ,choars with books Of character\nssd y Their comprehension, and at The lowest prices Is\nUS bs aess Of The SOC ely This work has hitherto be en-\naccomplished snder some dic1lti- ard BY the assiduos\nfen9n q We Managers, With scarcely any demands upon\nthc tubla but he- good VII rs h Is tue has been\nNOS abuliatY manifesto the II ospetity If The nst,\n.uton 80\nOne grea dieuy \"a, been Ne \"a. II al III incor\nporston 9hei eoui rn4.te H. soeety tonduc, its\noAsnes %l'the benet u egsl clam agent, and\nbb\"kseilers u dsant places, and BY which, also i NIGH,\nenly sueA ae4 fss as 'fe benevolent dspo,el 10\nsran' e 50 efficient chary\n\n\nllere engaged ii HE sertfoe of lie .dti.ty 81\nmisaeipfa, tte printers, one scfestypt fo1nler ih,r\ntceh boo6pndcrs, one copperple printer, and one e.\ng1avef employing alleeehl-, about sixty persons 10\nwhom wages % considerable amount arc annually nad\nbesides large sums 70 paqernakers To ell iarcs q\nmatter uf moment, that the society should enjoy cs oastf\nprivileges aud these Hoped, Wit not be withheld +,\nhe saic Which enjoys HE advantages Of rs caton ma\n70 winch there than 10000 children receiyinp\ndirectly the benefits which II 50 freely ,lltfises\n\n\nALEXANDER HENRY presjd-.,\n\n\nfnrnKt1ek \". PoRrkR, Corresponding Secru\n\n\nPhiladea ahla, January ), 1927.\n\n\nihe particulars Obtained, but the number exceed\nthat stated\n\n\nChests,to1eu, IMd.1 Jan. 26 --Shockinr Occur.\nrehce.--On the night Of the 23d inst about seyrr\nO'Clock, Mr James Burden, Of this county, and hi,\nWIFE, went 10 neighbours house, distant between\nTwo and three hundred yards. leaving a, home ;\nnephew about lo years old, daughter S, and a sor\no' 10 less than - minutes, We are informed, the\nwere alarmed by FIRE, which was discovered 10 nro\neeed from the habation OF Burden. and SO rapi,\nwere the flames tina, the two smallest children wsr\nconsumed, with the whole Of Burdens effects be\nfore relief could reach them.\n\n\nThere is a law in Maryland, that requires IN,\nofficers Of one Of their state banks 10 swear tn al hr,\nsili not directly indirectly use money for th\npurpose oil usuty, AND that they will not, il in the;\npower to prevent il, suffer any person to obtain dis\ncounts al that bank, whom they know or believe /,\nDC IN the practice Of discounting at unlawful inter\nest.\n\n\nThe amount Of Auction Duties paid into the treasury\nhe state OF New York, during the past year. was\n\n\nA few days since, S S. Howard ESQ and Col\nWatson, OF Port Kent, crossed on the ice from Bur\nllington VI. to Port Kent measuring the distanc\nfrom one wharf to the other. which they ascertsine\nto be nine miles and one hundrsd and forty. .fy\nrods",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1028,
+                    "y0": 2653,
+                    "x1": 1838,
+                    "y1": 5346
+                }
+            ],
+            "bbox": [
+                1028,
+                2653,
+                1838,
+                5346
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-02-09_p2_sn82014894_00271740219_1827020901_0063.json"
+        },
+        {
+            "object_ids": [
+                21,
+                4
+            ],
+            "headline": "- Ipreme authority than his All hosli'iea TO DC at",
+            "article": "preme authority than his All hostilities TO be at\nonce abandoned\n\n\ndecree. dated Valencia, % Jan. signed Bolivar,\nThat he is authorised by the wishes ofthe people 10\nexert extraordinary powers Tor the salvation OF the\ncountry. That no one shall be prosecuted or tried\nfor any thing done said with reference to reform.\nThe persons property aud Offices Of those engaged\nil that cause are guaranteed without exception.\nThe Gen. in Chief, Paez, shall continue TO hold ci'\nvii and mill AIRY command under the name ot high\nand supreme chief Of Venezuela, with the facilities\nproper 10 that station, Santeo Merino being Intend.\nant and Commanding General Of Maturin. That\nfrom the date of the decree. all should acknowledge\nand obey his authority as President oi the RePuo-\nlie, and every act Of hostility committed lhencetor-\nward be treated and punished as crime against the\nstate. That the Grand National Convention should\nhe convoked coniormably to his decree OF the l9.h\nDec. in order to determine the fate the Republic.\nOn The same DAY Paez submitted 10 the decree and\noccupied the title Of Chief conferred by the Libcr-\nalOr,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 883,
+                    "y0": 237,
+                    "x1": 1852,
+                    "y1": 300
+                },
+                {
+                    "x0": 1041,
+                    "y0": 242,
+                    "x1": 1847,
+                    "y1": 1136
+                }
+            ],
+            "bbox": [
+                883,
+                237,
+                1852,
+                1136
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-02-09_p2_sn82014894_00271740219_1827020901_0063.json"
+        },
+        {
+            "object_ids": [
+                9,
+                18,
+                5
+            ],
+            "headline": "GEORGLa RESOLUTION.\n\nOF MASSACHUSETTS.",
+            "article": "GEORGIA RESOLUTION.\n\n\nSENATE OF MASSACHUSETTS\n\n\nThe Committee on the Judiciary. to whom was re-\n\n\nferrsd the Message OF His Excellency the Cover\n\n\nnor. covering communication from the Execu-\n\n\ni've OF the State of Georgia, have attended TO the\n\n\nsubject, and respectfully Report:\n\n\nrha. the papers transmitted by the Executive OF\n.he State Of Georgia convey information to the Legis\nlalure o! this Commonwealth that the Legislature OF\nGeorgia have instructed their Senators IN Congress\nand requesle their Represen atves 10 promote such\nan atei alton OF the Constitution OF the United States\nas will prevent the election Of the President from\ndeyoping, in any event, on the House OF hepressn-\nalires, and which at the same time will preserve\nnyiolate all the rights Of the States growing out OF\nThe compromises OF the Constitution.\n\n\nNo request is contained in the papers OF the State\nOf Georgia for any cooperation on the part OF this\nCommonwealth, yet j, is believed by the committee\nthat this communication would not have been made\nbut for the purpose OF exciting this Commonwealth\nTO similar effort preparing the minds OF our lei\nTow citizens think tsycraby Of the object when\nthe influence Of The State OF Georgia, shah have SO\nfar succeeded 10 present i, in more formal man.\nner for their adoption.\n\n\n1t is obvious therefore that act OF this Leglsls-\nture is required in the present situation OF the pro-\nposed amendment and the Committee might 80\nreport wi nout further delay, il The preamble TO the\nGeorgia Reso!..cl Gid not require from hem\nstrong expression Of dissent IRON lis propositions.\n\n\nThe Legislature Of Georgia have declared ,ha,\nfrom the past history Of the Government ii is 10 be\nfeared that under the provisions al present embraced\nin the Federal Constitution, the Office OF President\nOf the United States, one giving TO the incumbent\npower which may be effectuallr used for the best\nworst OF purposes, may sometimes be bestowed on\nthe man whom the suffrage, uf the people would\nnot elevate TO that high office, and whose ony hope\nOf continuance therein will be derived from the art\nJul use ct the patronage OF the Government dan\ngerous instrument in the hands OF an ambitious\nman. Your Committee are not aware that any\nfact, in the past history Of the country warrant\n.hese remarks Twice only in the ten elections OF\nPresident Of The United States has the ohoice devo\nsed on the House Of Representatives. On both\nthese momentous occasions, that honorable body\nhas discharged us high and responsible duy in\nmanner worthy Of the patrotismi integrity and\nsirmness which should characterize American\nstatesmen.\n\n\nhe hrst election Terminated 10 the choice OF\nman whose life was practical illustration Of those\ngreat principles oi liaeFiy which he had recorded\n~ the declaration Of his country's Independence\naud whose ecent death has demonstrated how great\nand impsrlshabe is the affection with which free\npeople constctaes his memory\n\n\nThe second election BY the House OF Representa-.\nslves has elevated 70 The Presidency OF the most\npiotoUUU dCCOnpuSUeu statesmen OF Inc age,\nwhose past services in the most difficult and impor\nliant stations are pledges Of his ability TO conduc,\nthe destolrs Of this gfeat people, while the integrity\nOf MS chat acter and the sernness u his republican\nprinciples give assurance that the free institutions\nOF our country will acquire strength and security\nny his administration of constitutional power.\n\n\nThe impulaon that aoy thing in the past hiso\n~ OF Presidential election gives occasion for alarm\naud Tor new and undehned alterations Of the funda.\nmental principles Of confederation derives all is\ntitle TO ion from respect he source from\nwhich il emanaes. Your Committee CO sder ii\ndue the purify Of political ooua, il. d dlscl.m\nthe justice OF the reprosch, and Ii should We !\nmuch regret to find bat personal dlssppo I'm n O.\nparty pride should in any case feel jus.lf-d in cssi\ning ilibera reproach upon distinguished ,lasis\n10 any department Of the government To couo\nty like ours should be universally felt tia, md\nsldual pfeoiectons cannot always ne gra,ifed snt\nthst the day OF good citizens consists rather il a\ngenerous suhmi,son 70 constituted AUTHORITY lEsn\n10 eTpyricai attempts to alter established law. tof\nTemporary purposes.\n\n\nThe Committee therefore report that il Is not ex-\npedient to take any further measures in relation 10\nthe communication Of the Executive OF the State OF\nGeorgia By order.\n\n\nJAMES T. AUSTIN-for the Committee\n\n\nFROM COLOMBIA",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 372,
+                    "y0": 290,
+                    "x1": 901,
+                    "y1": 335
+                },
+                {
+                    "x0": 359,
+                    "y0": 338,
+                    "x1": 950,
+                    "y1": 379
+                },
+                {
+                    "x0": 223,
+                    "y0": 294,
+                    "x1": 1038,
+                    "y1": 3938
+                }
+            ],
+            "bbox": [
+                223,
+                290,
+                1038,
+                3938
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-02-09_p2_sn82014894_00271740219_1827020901_0063.json"
+        },
+        {
+            "object_ids": [
+                10,
+                15,
+                6
+            ],
+            "headline": "Nineteenth Congress, Second Session\n\nMonday, FEBRrAar s.\nIN SENATE.",
+            "article": "sent 10 the other House for concurrence.\n| The following Message was received from j.\nPresident Of the United States, by the hands Of hi\nprivate Secretary:\n\n\n10 tie Senate and House Of Retresentatves oft6e U S\nWASHINGTON, 5fh Fetruaru, 1897\n! submit to the consideration OF Congress. a b,\nter from the Agent Of the United States with i.\nCreek Indians, who invoke the protection Of n.\nGovernment, OF the United States, in defence Of m\nrights and territory secured 10 that nation by n.\ntreaty concluded al Washington, and ratified, :.\nthe part Of the United S,ates on the twenty second\nOF April last.\n\n\nThe complain, Sc, forth in this letter, that sr,.\nseyors from Georgia have been employs ed in survey.\ning lands within the Indian territory, as secured t\nthat treaty. is authenticated by information inoffcn.\n\n\ny received from other quarters, and there is reaMn\n10 believe that one or more oil the Surveyor, bs,,\nbeen arrested in their progress by the Indians\nTheir fotbearance, and reliance upon the good alb\noi the United States, will, il is hoped avert scene\nof violence and blood, which there s otherwise IL,\nmuch cause TO apprrhend will result from hes,\nproceedings.\n\n\nBY the filth section Of the act OF Congress, Of H.\n3oth OF March, 1902, to regulate trade and inter.\ncourse with the Indian tribes, and to preserve peace\nthe frontiers. is provided, that if any citizen d.\nor cher person iesden, in. the United States sbsl\n4 lHhkS ihHds oc'oubiiR, OF Secl,\nred or granted by treaty with the Uriled State. 10\nany Indian tribe or shall survey, or attempt to sur\nsey, such lands or designate any Of the boundas,\n! by marking trees or otherwise, such offender shall\nforfeit sum not exceeding one thousand dollars\nand suffer Imprisonment not exceeding twelve\nmonths. BY the 10Th and l1th sections OF the sam.\nstatute. two distinct processes are prescribed by\neither or both OF which, the above enactment may\nbe carried into execution. BY the first, is d,ca\nred TO be lawful for The military force OF the United\nStates 10 apprehend every person found III the Indal\ncountry over and beyond The boundary line be,wter\n\n\nthe United States and the ltdlan tribes, in violation\noi any OF the provisions or regulations OF the act\nand immediately to convey them in the nearest con\nvenien and safe route, 10 the civil authority oi til\nZ nted States, in some one oi the three ncx sd\njoining States, or Districts 10 be proceeded agalni\nin due course Of law.\n\n\nby the second, it is directed, that, il any perso\ncharged with violation oi any OF the provisions Q\nregulations oil The act shall be found within any\nthe United States, either Of their territorial d!\ntfIcts, such offender may be there applehended an\nbrought to tra in the same manner as il such cflm\nor offence had been tommitled within such State\nDistrict and that il shall be the duty oi the militia\nry force Of The United States, when called upon b\nthe civil magistrates or any proper officer, ohe\nperson duly authorized for that purpose, and hay\ning lawful warrant, to aid and assist such mags\nirste, officer or other person authorized, in arrest\ning such offender, and committing him 10 sale Gu:\ntody Tor trial according TO law.\n\n\nThe first Of these processes is adapted to the 81\nrest OF the ,respasser upon Indian Territories, 0\nthe spot, and in the act OF committing the ofenl\nBut az II applies the action OF the Government\nthe United States TO places wkeie the civil lroee.\nOF the law has 10 suthoiized course, il is commi,ie\nentirely the functions oi the military io ce 10 al\nrest the person oil the offender, and alter binen\nhim within the reach Of The jurisdiction OF tn\nCourts, there TO deliver him into custody iof ts\nThe second makes the violater OF The law amensbl\nonly alter his offence has been consummaled, an\nwhen he has returned within The civil ,urisdie;io\nOF the Union. This process, in the first instance\nis merely OF civil chatactei but may in like mai\nner, be enforced by calling in, II necessary, the 81\nOf the military force.\n\n\nEntertaining no doubt that in the present csst\nthe resort TO either Of those modes OF process, ort\nboth, was within the discretion OF The executive ~\nthoriy, and penttiated with the duty Of maintain\ning The rights Of the Indians as secure both by Ii\ntreaty and the law, concluded, alter u dt tliberi\nton, 10 have recourse on this occasion, in the hr\ninstance only TO the civil process. Instruction\nhave accordingly bten given Ly The Secretary\nWar, 10 the Attorney and Ntrsha oil the Unite\nStates in the District oil Georgia, 10 comntnc\npiosecu u.ions against the Surveyors complained o. q\nhaving violated the law, while orders have At III\nsame time been fowa ded to the Agent Of the U\nnted States, at once 10 assure The Indians iha\ntheir rights, founded upon the treaty and The law\nare recognized by ihis Government, ard viii b\nfaithfully protected, and earnestly TO exbort then\nby the folbeaance Of every act Of hostility On the\npart, 10 preserve unimpared tina, righ, 10 protelo\nsecured 10 them by the sacred pledge Of the eoo\nfaith OF this nation. Copies Of these in.i.utt tior\nand orders are herewith transmitted TO Cotgfess.\n\n\nIN aosta'nlne. a. this stage oil the proc eedrg\nfrom the application 0! any military force have be\ngoverned by considerations, which will, trus\nmeet the concurrence OF the Legislature. Amen\nhem. one OF ps,amoun, importance has been, tb\nthese surveys have been attempted, and lartly t",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2678,
+                    "y0": 242,
+                    "x1": 3440,
+                    "y1": 304
+                },
+                {
+                    "x0": 2876,
+                    "y0": 343,
+                    "x1": 3277,
+                    "y1": 432
+                },
+                {
+                    "x0": 2665,
+                    "y0": 501,
+                    "x1": 3458,
+                    "y1": 4713
+                }
+            ],
+            "bbox": [
+                2665,
+                242,
+                3458,
+                4713
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-02-09_p2_sn82014894_00271740219_1827020901_0063.json"
+        },
+        {
+            "object_ids": [
+                12,
+                8
+            ],
+            "headline": "PHILADELPHIA, FEB. 2.",
+            "article": "Philadelphia, Feb. 9.\nA case al great importance and interest IS nov\nIN trial in the Supreme Court, Judge Huston, pre-\nsiding 1t is the case Of Levitt Harris vs.. Wilhau\nID. Lewis, brought to recover damages ior inc pun\n\n\ncation Of libel, alleging consular msiieasahce .\"\nthe part Of the Plaintiff while Consul Generai Q. inc\nUnited States al 81. Petersburg, in the year looS,\nand 10. Damages laid 100000 dollars, counsel\nfor the Plaintiff, George nj. Dallas, Charles J. In\ngersoll and Horace Binney, Esquires; ior the de-\nfendant Joseph r. Ingersoll and Charles Chauncey,\nEsquires. Messrs J. Hopkinson and John ser\npeant we're retained in the cause, but Mr. Hopkih-\nson Withdrew on account Of indisposltlon, and Mr.\nSergeant is absent on the Tacubaya Mission. ne\ncase will probably occupy two or three weeks. nc\nJury was empanelled on Monday, and the plaintiffs\ncase, prima facic, was then concluded. Mr. J. x.\ningersoll opened on Tuesday Morning, and is still\nspeaking and reading documentary evidence. lhe\ndeposition of Mr.. j. @. Adams was read; that doc\nument alone with the exhibits makes 100 pages. II\nis believed that 5000 pages will be read as defendants\nand rebutting evidence. Commissions have been\ntaken to many parts Of the United States To Russia\n&c. Several distinguished and some titled Russian\npersonages as we'll as other foreigners attend the\nCour, regularly. Palladium.\n\n\nBulrn vs Boaun \"-There is an amusing contrast be-\nThe declared opinions Of DEWITT CLINTON in lol\nrespecting the pow er Of the general government to\nroads and Canals and the opinions OF the same gen\n\n\neman expressed in his late message to the Newfoik Le.\ns''''' J. 1879. IN 1926,\nDe Jru CLINTON and Cor, Saws Clinton to the legsa.\nernor .r,is proceeded toure, IL think due a\nWashiugon and addressed Of duty and spirit of frank\n\n\nby personal ness say that my opinion\nv to the President OF The u lis equally hostile To ITS pos\nnted aes, and the two sson exercise by, OF its\nHouses Ut Congress- asking investment in, the national\naid for he canal, enter authorities can perceive in\nprise celebrated \"to encou ~ nothing less than THE HAR\nrage agrculture promote BIsGER cEHTAiN DLsTHuc-\nard manufactures, TloN Tns STATE GOVERN.\nfacilitate tree and general in Mgsrs but\ntercoutse between dlferenh il at once breaks down\nparts Of The United States The barrier between gov.\nIzIMENT ernmeh for national or exte.\nor affairs, and loc govern\ntry cossoLIDATE ments for domestic nterl-\nSTRENGTHEN UNION \" thisIor conceIns. +.\n\n\naddress was penned by Cln.I\n\n\nto- himself\n\n\nSo much for consistency NJ III jsmnai\nII has been asked What has Kentucky TO sxpec\nfrom the present course OF The National Govern\n:\" A writer in the Kentucky Commentator\nanswers this question very satisfactorily;\n\n\nMr.. Adams has furnished evidence, that Ken\nlucky and all the states, may expect, from him\nrepublican administration. They may expect the\npeace OF the conntty to be maintained its rights\nvlndcated; its revenues economiztd; the public\ndebts discharged tho constitution preserved invio\nlate; the rights Of the state, protected the princi\npies Of liberty and free government cherished and\nextended Kentucky mBy reasonably expect /.\nThat har domestic manufactures will be encouraged\nQ. Internal Improvements facilitated; and at ali\nevents, 3. That her character will not be degraded\nnor her patriotism stripped Of its reward, nor her\nlocal interests marked out for opposition These\nthings may be expected and every benefit which\ncan result 10 the Union from an able and upright\nadministration. II is TOO true. that their path may\nnot be smooth one we have seen thar lesonf\nhas been formed an opposition has been started\niactious opposition IAN Opposition wnhou, piin-\ncple; made up Of disappointed Office seekers and\nintrguers for power; by whom every useIul mea-\nsure OF the administration ssitempted to be thwar\ned every act oi importance assallcd, every motive\nOf the President impeached. Nevertheless the ad-\nminlslraton have srugsed along so far 10 the salts\nfaction OF the People and will doubtless get along\nbetter when the Opposition shall cease talk away,\nTO no purpose, The time OF both houses oil Congrcss.\n\n\nGeorgetoicn, Ky. Jon O.\n\n\ny Is no, little amusing 10 witness the Efforts oi\nthe Jackson pstisans. both in and out Of the state,\n10 produce the lmptesson abroad that Gener al\nJackson IS rapidly nsing in this state. We scsree-\ny open Jackson paper, without being greeted\nwith an extract or copy OF letter purpoltng 10\nDe written BY some gentleman OF intelligence il\nkentucky, whose opport for obtaining correct\nInformation on the subject, arc equal to any, &c.\nhese letters go on TO give great and wonde .u ac\ncounts OF the increasing popularity Of the General\n10 Kentucky. The writer's frequently undertake 10\ngive an eatmate OF the areng,h OF General Jackson\nIN the different Congressional Districts. We're\nGently saw letter, which was said to be written il\nKentucky, and in which it was stated that even in\nThe District lately represented by MIR. Clay, Gen\nJackson would be stronger than MIR. Adams; and\nthaf the present Representative to Congress- from",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2286,
+                    "y0": 220,
+                    "x1": 2639,
+                    "y1": 260
+                },
+                {
+                    "x0": 1851,
+                    "y0": 228,
+                    "x1": 2670,
+                    "y1": 4282
+                }
+            ],
+            "bbox": [
+                1851,
+                220,
+                2670,
+                4282
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-02-09_p2_sn82014894_00271740219_1827020901_0063.json"
+        },
+        {
+            "object_ids": [
+                13,
+                14
+            ],
+            "headline": "IN 1926.",
+            "article": "Saws Clinton to the legisla\nture, Il think il due 70 sense\nOf duty and a spirit of frank\nness, to say, that my opinion\nis equally hostile To its pos\nsession, or exercise by, or it.\ninvestment in, the nationa\nauthorities. can perceive il\nil nothing less than TnE mar\nBINGER OF CEHTAiN DEsTHCC,\nTIoN TO THs STATE GOVERN\nMgsTs, nor can we but see\nthat it at once breaks dowr\nThe barrier between q GOV\nernmeht for national or exte'\nrior affairs, and local govern,\nments for domestic or interi\nor concerns,\n\n\n",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2401,
+                    "y0": 1540,
+                    "x1": 2538,
+                    "y1": 1571
+                },
+                {
+                    "x0": 2273,
+                    "y0": 1575,
+                    "x1": 2661,
+                    "y1": 2187
+                }
+            ],
+            "bbox": [
+                2273,
+                1540,
+                2661,
+                2187
+            ],
+            "full_article_id": 15,
+            "id": "15_1827-02-09_p2_sn82014894_00271740219_1827020901_0063.json"
+        },
+        {
+            "object_ids": [
+                16
+            ],
+            "headline": "",
+            "article": "-, EuzdbeM Iiy, \" C. Jan 20.\n~ negroes belonging 70 The Society Of Frends and four\nVINO were ee left this place for Norfolk to take\nLiberia 80 'y 80\n\n\nMT. William Fletcher, OF Perquimans, N. C. was\nlost IN the schooner Perqumans al sea, receny n.\nwill has just been opened, which provides. tha, Lila\nslaves, twelve in number. shall, after the ensuing\nyear, be emsncipa,ed !; during which time ihey are\n70 DC hired out, Tor The purpose OF raising funds to\ndeiray the expense OF sending them to Hayti or III\nIBERIA, whichever they may choose.\n\n\nAmbition travels on a road 100 narrpp for friend\nship. too steep for safety.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1864,
+                    "y0": 4791,
+                    "x1": 2666,
+                    "y1": 5351
+                }
+            ],
+            "bbox": [
+                1864,
+                4791,
+                2666,
+                5351
+            ],
+            "full_article_id": 17,
+            "id": "17_1827-02-09_p2_sn82014894_00271740219_1827020901_0063.json"
+        },
+        {
+            "object_ids": [
+                22,
+                17
+            ],
+            "headline": "1el2.",
+            "article": "~ 1919\n\n\nDe Hin Ci,nton and Cor.\nern0r .tiorris proceeded to\nWashington, and addressed\nthemselves by le ter personal\nlv to the President Of the IT,\nnited States, and TO the two\nHouses ot Congress, asking\naid for The canal, as an enter\nprise calcilated \"to encou-\nrage agriculture, promote\nCONNIE ce and manufactures,\nfacilitate airee and general in\ntercourse between different\nparts Of he United States,\nTEND TO THE AGGRAN IZEMEST\nAND PROSPERITY OF THE couS\nTRY, Avn CONSOLIDATE AND\nSTRENGTHEN THE UNION \" This\naddress was penned by Clln.I\nto- himself.\n\n\nSo much for consistency .",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2000,
+                    "y0": 1548,
+                    "x1": 2129,
+                    "y1": 1576
+                },
+                {
+                    "x0": 1860,
+                    "y0": 1562,
+                    "x1": 2265,
+                    "y1": 2227
+                }
+            ],
+            "bbox": [
+                1860,
+                1548,
+                2265,
+                2227
+            ],
+            "full_article_id": 18,
+            "id": "18_1827-02-09_p2_sn82014894_00271740219_1827020901_0063.json"
+        },
+        {
+            "object_ids": [
+                23
+            ],
+            "headline": "",
+            "article": "Buva,n ys Boatun. There is an amusing contrast be\ntween he declared opinions Of DEWITT CLINTON IN lel.\nrespecting the pow er Of the general government\nstrct roads and canals and the opinions Of the gen\n\n\neman expressed in his late message to the NewYork lie",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1860,
+                    "y0": 1355,
+                    "x1": 2661,
+                    "y1": 1532
+                }
+            ],
+            "bbox": [
+                1860,
+                1355,
+                2661,
+                1532
+            ],
+            "full_article_id": 24,
+            "id": "24_1827-02-09_p2_sn82014894_00271740219_1827020901_0063.json"
+        }
+    ]
+}

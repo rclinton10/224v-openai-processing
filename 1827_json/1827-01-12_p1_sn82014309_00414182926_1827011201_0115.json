@@ -1,0 +1,582 @@
+{
+    "lccn": {
+        "title": "The Litchfield County post.",
+        "geonames_ids": [
+            "4837799"
+        ],
+        "dbpedia_ids": [
+            "Litchfield%2C_Connecticut"
+        ],
+        "issn": "",
+        "lccn": "sn82014309",
+        "start_year": "1826",
+        "end_year": "1829",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [
+            "sn84020071"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn82014309",
+        "edition": "ed-01",
+        "date": "1827-01-12",
+        "pages": [
+            "seq-3",
+            "seq-2",
+            "seq-4",
+            "seq-1"
+        ]
+    },
+    "page_number": "1",
+    "scan": {
+        "lccn": "sn82014309",
+        "edition": "ed-01",
+        "date": "1827-01-12",
+        "page": "1",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-01-12/ed-1/seq-1.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-01-12/ed-1/seq-1/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-01-12/ed-1/seq-1/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/ct_barnum_ver01/data/sn82014309/00414182926/1827011201/0115.jp2",
+        "height": 7251,
+        "width": 5006
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2038,
+                "y0": 623,
+                "x1": 2923,
+                "y1": 2391
+            },
+            "class": "article",
+            "raw_text": "of the keeper, she sneaked into her cage with what she had got.\n\n While this business was going on, the ti- ger himself had begun to look round, and sec what fun could be picked up. On rais- ing his head from the lama, the first thing that struck him was the lion sitting in his cage with great dignity and unconcern'- The tiger showed his teeth; the lion slightly shook his mane. The tiger drew back oil his hind legs to make spring ; the lion rose up with dignity and shot fire from his eyes. The tiger sprung at the cage with great fury, forcing one of his claws ill be- tween two of the bars; and at the same in- stant the lion made grab at the tigers torefoot, caught it firmly between his tusks, pulled the whole leg into the cage, and held him there untll the keeper saw the opportunity, flung himself from the back of the elephant, ran with his moose to the tiger, and secured lim in a moment.\n\n After this was accomplished, the lion generously let go his hold, and the keeper dragged the other to his cage and secured them both. And thus, by singular traiu of circumstances, in which the instinct and trunk of the elephant, no less than the teeth and temper of the lion, bore a con- spicuous part, did the poor keeper get res cued from the jaws of the tiger and tigress. The whole affair has been the table talk of the Bowery for the last week, and we now record it in the Advocate for the a. musement of the children, grand children and great grandchildren of the next gen. eration. Nev- Fork AdvOcdte.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 214,
+                "y0": 832,
+                "x1": 1116,
+                "y1": 2006
+            },
+            "class": "article",
+            "raw_text": "To subscribers ia this Ualage, and subscribers by mail or by post curriers', TWO DOLL.iRS per year, pGydble in adCunce. To companies less hon Ten, by snail, or taken from tte cGFcs, ,ohere there is joint responsibility, schere individual is responsible, $l,5O per gear, in ad- runce. To like companies cf more ham ten, S1,- s5 per yenr, in Gdvance.-Where payment is de- layed to the end Q the ysar 95 cts. a0W De odded to each Of the Gboue prices.\n\n No papers qcU De discontinued until oR CT renrages are paid, except at the discretion cfthe publisher.\n\n Any person o5toining ten responsible sabscri- bers shall receive one paper gratis, and in that proportion for greater or Jess number otf sub scribers.\n\n ADVERTISING.\n\n For holf square, three insertions, or less, 75 cents ;-more than ha!f q square, and less than q square, e7 1-2 cents ;-for one square, S1 ,OO ;; --dnd in the same proportion for more Man c square; for confirming advertisements more than tree tceeks, % per cent per ,veek a0t De charged\n\n PROBATE NOTICES. Administrators aud Executors c1,OO Commissioners S1,25",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 276,
+                "y0": 611,
+                "x1": 1065,
+                "y1": 748
+            },
+            "class": "headline",
+            "raw_text": "BX S. 6. SMITH, EDITOR AND PROPRIETOR.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -2
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 537,
+                "y0": 776,
+                "x1": 798,
+                "y1": 822
+            },
+            "class": "headline",
+            "raw_text": "TIER RMS.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 231,
+                "y0": 6531,
+                "x1": 1121,
+                "y1": 6866
+            },
+            "class": "article",
+            "raw_text": "Dialogue on Ne'cspapers.-A.-How docs it happen, neighbor E. that your chill dren have made so much greater progress in their learning, and knowledge of the world, than mine ? They all attend the sames chool, and for aught I know, enjoy equal advantages",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 350,
+                "y0": 6452,
+                "x1": 980,
+                "y1": 6515
+            },
+            "class": "headline",
+            "raw_text": "HINTS TO PARENTS.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 180,
+                "y0": 1954,
+                "x1": 1116,
+                "y1": 6441
+            },
+            "class": "article",
+            "raw_text": "Commissioners S1,S5 THE GRAVE OF THE YEAR. Be Becompos'd ev'ry toll and each turbulent mo- tion, That encircles the heart in life's treacher- ous snares; And the hour that invites to the calm of de- votion, Cndisturbd by regrets-unincunlber'd with cares. How cheeress the late blooming face of cre- Weary Time seems to pause on his rapid career, And fatigu'd with the work of his own desc latiOn, Looks behind with sme--on the grave of the year. H\"r'<! the wind whistles rudey--the shad- ows are closing That enwrap his broad path in the mantle of night: While pleasures gay sons are in quiet repo- sng,- Undismay'd al the wrecks that have num- bered his flight. From yo;'r temple where Fashions bright ta- pers a'c lighted, Her .ot'ries in crowds, deck'd with garands appear: And (is yet their warm hopes by no spectres afrighted) Assemble to dance--round the grave of the year. Oh. hate the stalccup which the idIers have tasted, When think on the ills of Iifes comfort less day; How the flowers of my childhood their yer dure have wasted, And the friends of my youth have been sto- len away They think not how fruitless the warrnest en- deavour To recall the kind moments neglected, when near; When the hours that Oblivion has cancelPd forever, Arc nterrd by her hand--in the grave of the year. Since the last solemn reign of this day of re- fcction, WAnt.throngs have relinquish'd life's per ishing breath How many have shed the last tear of dejec- ton, And clos'd the dim eye in the darkness of How many have sudden their pilgrimage en- ded, ljClcdtn tue IoH pan euSeIOpeS tIlelF bier Or to Deaths lonesome valley have gently descended, @s And made their cold bed-with the grave oi the year. 'I'is the Year that so 'ate its new beauties dis closing Rose bright on the happy, the careless, and gay, Who now on their pillow of dust are reposing, Where the sod presses damp on their bo- soms of clay, Then talk not of Bliss, while our smiles are expiring, Disappointment still drowns it in Misery's tear: Reflect and be wise; for the day is retiring, And tomorrow will dawn-on the grave of the year. Yet awhile, and no seasons around us will flourish, But silence for each her dark mansion pre- pare, Where beauty no longer her roses shall nour- ish.\n\n Nor the lily o'erspread the wan cheek of Despair, But the eye shall with lustre unfading be brighten'd, When it wakes to true bliss, in yon orient sphere; By sunbeams in splendour immortal enght- end, Which no more shall go down-on the grave of the year. MONTGARNIER.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 316,
+                "y0": 2028,
+                "x1": 1031,
+                "y1": 2091
+            },
+            "class": "headline",
+            "raw_text": "THE GRAVE OF THE YEAR.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3851,
+                "y0": 6531,
+                "x1": 4735,
+                "y1": 6866
+            },
+            "class": "article",
+            "raw_text": "Ertraets from MT. RGsh's IFeasary Report.\n\n The articles of American Manufacture exported from the United States in 1926. will, it is, believed, be found to exceed six millions of dollars in value. Of the a. mount ofAmerican Manufactures, prosa- ced for consumption within the United",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 4043,
+                "y0": 6401,
+                "x1": 4543,
+                "y1": 6447
+            },
+            "class": "author",
+            "raw_text": "To Je concIuded m our s,ers.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -2
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 4066,
+                "y0": 6474,
+                "x1": 4520,
+                "y1": 6521
+            },
+            "class": "headline",
+            "raw_text": "MANUFACTURES",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3839,
+                "y0": 821,
+                "x1": 4747,
+                "y1": 6249
+            },
+            "class": "article",
+            "raw_text": "\n\n the language to form any impartial estimate of the national character, and they come in con- tact chiefly with those classes upon whom the long suhjectiun to the Turks has had the great est effect; such as persons in authority under the government, or otherwise in Turkish em- piOy-serVants interpreters, the EOwer order of traders, and generally the inhabitants of those towns in which the Turkish pOpu- latlon has great preponderence of num- bers'.'\n\n e It is obviously not in those situations, but ] in the more unfrequented islands, and on the continent of European Greece, where the Turks do not form tenth part of the pOpula- lation, that the inquiry ought to be made, whether any of the ancient talents and virtues of the Greeks have survived the centuries of Mussulman oppression which supervened up- on the dcbasement caused by Byzantine des- potisn. weakness and superstition. In such an inquiry it would be further necessary. to distinguish between the inhabitants of the plains and those of the mountains; for those two classes have been placed in very different circumstances since the establishment of the Ottoman powerin Greece\"\n\n The Turkish oppression has been so direct ly the source of the chief defects in the char acter of the Greek. of our day, that in exact proportion as that fatal influence is enfeebled. so rises the national character. Its nature is elastic, and springs up even in every nomen- tary removal of the pressure but its true dis plays are to be found where the Turk dares not come. The most remarkable contrast to the inhabitants of the plains is to be found in those Islands of the Egcan, \"where there are no Turkish inhabitants ;'' and in the mountain ous parts of Crete, ofLaconia, Arcadia, Eto- lia, Locris, Epirus, Thessaly, and Macedonia. Here the Greeks bear \"the most striking re- scmbiance, in both their virtues and their yi- ces, to their lllustrlous ancestors\" industri- ous, hardy, cnterprising, heroic; living on little, or lovers of wine and gaiety, as the oc- cason prompts; sanguine, quick, ingenious initiative\" The picture has i:s dark side\n\n 'Vain, inconstant, envious, treacherous. and turbulent\" This picture is not from the hand of an enthusiast; the stains are too faithfully marked. But we must remember, that these defects would be the natural qualities of any people leading the distracted and uncertain life of the Greeks-even in his strongest place of security, pent up amid wild tracts of bar ren country, shut out from general communi- cation. condemned to the habits of the hunter and the marauder liable to annual nroads of d merciless enemy and from his cradle to his grave, either the spoil or the antagonists of the oppressor. Poverty, suspicion, loneliness -the incemency of the weather--a life of haZard-fiight or attack--what original con- stitution of virtue could have attained fits true stature ! There is not national character un- der heaven that would not have hardened and darkened under this perpetual rudeness of fortune. That the Greek retains any qualities emitting him to rank among men, is the phe- nomenon-the powerful evidence of what it. iustrious qualities he may yet show forth, when misery and shame shall cover him no more, and he shall be called to take his armed stand in the great field, where nations struggle for more than the glory of the sword.\n\n Providence has commanded that yarious climates shall bring forth various fruits out of that vast treasure of fertility and bounty which it has laid up for the enjoyment of man. It has commanded that among the races tjfman, there shall be variety of intellectual powers for the general good. Why should it not have followed up this palpable law of benif- cence as far as nations, and appointed those distinctions among the mightier masses of so- ciety. which have been found essential to the system of individual communities? Why shall not the nation and the land be made for each other--The dweller on the shore of the ocean be gifted with an innate spirit of adven- ture, with hardihood of frame, steady intre- pidity and the love of the storm-The dwell Ter m the bosom of great fertile continent l no e\".eu \"''l tiie sturuy strength of agrcul- ture, the sober diligence, the unambitious love of home-The dweller in the land, that was to he the first stepin the advance of the East crn colonies to fill the solitudes of the West. the splendid school from which the arts of Europe were to rise, be gifted with the rich peculiar faculties for his noble designa- tion!\n\n Why shall we doubt that that suitableness of means which in the lower creation awakes our homage and wonder, should be abandon ed in the great scale of society, ard that na- lions should be suffered to drop into their nla- ces upon the earth like seeds borne upon the VagraH wind! Montesquieu, with the short slghtedness of French philosophy, attributed all national character to climate. Others. not less shortsighted, have attributeditto to govern mcnt: But the Turk, under the sky of Greece. IS still the barbarian of the In1ails the Greek under the government of the Sultan, is stillthe man whose ancestors were the living flame that kIndled the mind of half the world. But for Greece' that mind might have flowed away liNe the vapor from the mineral, noxious or wasted till it was turnedsin into light. Every view that history or reason can give us of the purposes, the spirit, aad the capabilities of Greece and her people, impresses the conclu- sion that she was made the original and se- .G L k>AA",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2927,
+                "y0": 821,
+                "x1": 3835,
+                "y1": 6249
+            },
+            "class": "article",
+            "raw_text": "l S malned behind; the Turk was privileged to compel the Greek peasant to sell his produce | for the public use, of either the Sultan, or the | local government, at whatever price the mer- 1 cy of his tyrant pleased. There were per petual demands of contributions in money or 1 kind soldiers were quartered on them; they were compelled to supply labour for the pub lie works. This system of harassing ani 1 plunder was carried through the whole gov ernment, and the peasants were reduced to the lowest privatiOn. In all the cOnquests the inhabitants of thesopen country pay heavy price for the luXuriance of the plain, and in the levels of Thessaly and Eubma, Bgtia and Macedonia, the peasantry lived under the sword. In the mountain districts, the Mo req, and the country south of Mount Etna, the Turks were more reluctant to settle, and the religious houses retained a portion of their former lands. A curious tenure preserved the rights of some other Greeks even in the more exposed territory. 1t had been the old custom of the Asiatic sovereigns to set apart cities and districts for the peculiar provision of their queens or households. The custom had been retained by the Sultans, and large dis tricts of the more fertile parts of Greece be- 1 lOnged to the Sultanas, or to the Harem in general, or even to the Mosques. The ten antry in possession were comparatively secure, and the eXactiOns were comparatively mild.- The gentleness of female influence was felt even in this system of tyranny; and the complaints of the Greek who supplied the toilets Of the Harem were seldom neglected by his imperial mistresses. The Greek of the Islands was still less subject to injury. In the Egean, excepting in portions of the Isi- ands nearest the Asiatic shore, Rhodes, Cos, and Lesbos the Greeks paid only the land tax, and capitaton. But on the whole this memorable people was in the most distressed state of any Christian nation. Neither life nor property was their own. Their govern ment was tyranny, their revenue was extor- ton, their law was the sword they lived un- 1 der the heel of a barbdrous domination, ,haugh- ty from its very ignorance, and merciless a. like by its nature and its creed. In the freedom and security of our country, we possibly cannot conceive the long misery of life passed under the wild caprice and per petual irritation of Turkish tyranny-the ex- posture of the deepest and dearest interests of our blood and being to brutal passion or ma lignant pOwer-the bitter and constant fear that the fruits of life of lahour would be sacrificed to the avarice of some insolent slave, raised into sudden authority by his s,l- perior villiany. and sent forth to live by plum der, and tread down every hope of honor and\n\n \n\n in the sincerity of our souls, that this should last, even if the subject nation were but a step above the beasts that perish; even if there was no seed of manliness among them-t, in the long series of ages, they had given proof of a noble thought, or an action Wor- t.y of human nature. God forbid that man, bearing his image, however hunlated, and defiled with the dust of slavery, should not at length clear away the stain that the day of Opprt ssion should not have an end, and the lash and the letter at length cease to resound in this mighty dungeon; or still more, that England, the very throne of Christianity and Freedom. should not be the first to command this mcrcess dcsolnton of gallant hearts and Christian faith to be at an end and if her remonstrances should fail, in the majesty of CT, delegated for such things, finally wiring the scourge from the hand of the goddess opprcs- SOr.\n\n But that this unfortunate people are eml- nently worthy of the interference and interest of enlightened Europe, we have evidences of the most sufficient kind. Of this order is Col. Leake, who, from his official residence, his professional rank, and his peculiar study of the people and language, is undeniable au- thority, This officer tells us, in his late very interesting MemOir,* that \"thOugh the con 1 ditiOn of the peasant is, on the whole, miSer0- bie, he is in general industrious, much attach l ed to his family, anxious for the education of his children, and equal, if not superior, in in- telgence, to the peasantry of the most civiIi- zed countries of Europe\" | He proceeds to tell us, that this distinguish ed characteristic of the ancient Greeks is re- taned by their descendants ofevery condition in degree 90 striking as to attract the atten- tion of all strangers, even of those most dis posed to think harshly of the Greeks; that among the most uncultivated and ignorant of this unhappy people, even in those provinces where the Turkish tyranny would have been almost enough to extinguish the heart and understanding of man, the stranger is for ced to acknowledge the curiosity ingenuity, keenness, and elocution of their famous fore fathers, and the natural effect of which upon the present race was an extreme impaticnce 1 of their present condition Mot traveller from Europe conld pass without exciting the hope that some interference in their favor was 1 in contemplation and he never failed to hear from them many bitter reproaches againstus for allowing our fellow Christians to remain enslaved under the yoke ofinfidels.\"\n\n Ccl.Leake attributes large portion of the misrepresentation of the Greek character to the route pursued by the ordinary tourists",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1132,
+                "y0": 645,
+                "x1": 2028,
+                "y1": 6062
+            },
+            "class": "article",
+            "raw_text": "D.-Do you taKe the he\"sPdPo''\"0'Su- bor 4 i?\n\n A.-No sir, I do not take them myself, but | now and then borrow one, just to read. Pray sir what have newspapers to do with the education of children!\n\n B.-Why, sir, they have vast deal to do with it, I assure you l should as soon think of keeping them from school, as to withhold from them the newspaper. Indeed anewspaper is a little school fitselt. Be- ing new every week, it attracts their atten- ton, and they are sure to peruse 1t. Thus while they are storing their minds with uS- ful knowledge, they are at the same time acq quiring the art of reading &c. have been surprised that men of understanding should overlook the importance of news paper in a family.\n\n A.-In truth neiehbor E. I frequently think I should like to take them ; can not we'll afford the expense.\n\n B.-can't afford the expense what, let me ask, is the value of two or three dollars year, ill comparason with the pleasure and advantage to be derived from a well conducted newspaper ? As poor as I am l would not for fifty dollars year, deprive myself of the happiness enjoy in reading, and hearing my children read and talk about what they have read in the paper. And then the reflection, that they are growing up intelligent and useful members of socie- ty-Oh, don't mention the expense; pay it inadvance every year, and you will think no more oft.\n\n Al believe you arc right. I now be- gin to see my folly. will go home and order the printer to send me his paper m- meJiately.--\n\n Singular Preservation. A few days ago a very amusing and somewhat dangerous occurrence took place at d small circus in the Bowery, in which there is an exhib;- ton of wild beasts, such as elephants, ti- gers, lions, &c. The keeper of the col lection one day went to dnueI, as usual, under the impression that his four footed actors were quite snug in their cages. IL was not so. The cage that contained a tiger and tigress, was in a state of de- cTepitude, so that the terocious couple hroke loose. If their keeper was to eat his beef steak, Mir. and Mrs. Tiger thought they ought to have something fresh too.- Accordingly, being free as air, they cast their eyes round the habitatiol, as a gor- mandser would in cook-shop, and so sc- lected fine foreign animal, called a Lama, on which to dine. At the approach of the tiyering couple the poor lama got scared and set up grunt. It would not do.- One of the tiger family i've have tiger families elsewhere) sprung at his throat, brought him down, and tapped his jugular vein in twinkling. Here both the ani- mals slipped away with great perseverance,, as fast and as cordially as the cobler and his wife hung over cider barrel in New Jersey, which they soon emitted of its con- tents. The heart of the poor lama was soon drunk dry by these two feline topers In the mean time the keeper had fin ished his dinner, drunk his glass, and was putiing away at the but end of Spanish segar, when he entered and found the woTk that had been going on. He was a. larmed at first, but his personal courage did not ooze away, as Across did in the play. He ventured into the ring with moose to fling over the heads of the two ferocious animals, while they were sucking out the last drop of blood from the poor lama.- The tigress finishing her repast sooner than her mate, turned round while the keeper was in the very act of catching them, and made preparations to spring upon him, in the same way that a cat does when 'e sees mouse. The keeper felt tlc dan ger of his situation, but with great pres ence of mind he made retreat behind his elephant, who, from the other sido of the circus, was looking on the scene with great con,posure. The tigrcss did not forgo her intent. She made spring at the keeper, past the elephant, but just at this moment, the sagacous animal observ- ing. it would seem, the danger ofhis keep er let out his trunk with the swiftness of an arrow from the bow and pitched the tigrcss to the further end ofthe circus.\n\n A wonderful hurley hurley was now kicked up. All the monkies and balloons scampcrcd up to the rafters, and the glar- ing eyes of the enraged tigress struck dread into the whole, except the elephant, who folded up his trunk with neatncss after his feat, and the lion who sat in his cage on his hips like dog, looking on with great dig nifty and composure. The keeper now run out from behind the elephant, and ap- preaching his trunk, uttered certain words",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 1149,
+                "y0": 617,
+                "x1": 2005,
+                "y1": 675
+            },
+            "class": "headline",
+            "raw_text": "B.-Do you take the newspaper, neigh",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2032,
+                "y0": 2520,
+                "x1": 2923,
+                "y1": 6889
+            },
+            "class": "article",
+            "raw_text": "COntinued.\n\n The Greek insurrection assumes to us an aspect of loftier importance from those con- alterations. Whatever might be our sympa- thles with the fortunes of brave and unhap- py people, striving with their naked hands to tear off the manacles that have cut them to the soul, we feel still stronger interest in this generous struggle, from its giving the sig nal of mightier changes perhaps throughout the whole extent of the civilized world. It may be extinguished, and the time, which shall yet surely come, may be thus deferred but if it should succeed, it will have made the only permanent aggression on the fabric of the Turkish power, the only permanent n- road into that great interdicted desert, it will have stricken the first blow on the Talisman on which is engraved the spell which has for ages kept the Ottoman throne inaccessible to the hostility of human nature.\n\n It is impossible that this goddess, corrupt, and mfdel kingdom, should be tolerated but for the purposes of punishing. There have been other criminals revolters from the faith, abusers of the heneyOlence of Heaven, on whom the Ottoman has been brought as the locust, to destroy the %living vegetation of their strength and prosperity. The pcstilence 1 and famine are the inferior agents of wrath,\n\n \n\n may be as deeply determined as for it's ;nflic- tion; and then comes the retribntion of the punlshcr Human violence was used in the whole course of the Jewish Annals tor the castigatiOn of the crimes of Israel. The As syrian ido!ator was made great for his day by the fall of the chosen people. But when the hour of deverance was ordained, there was l ordained with it the ruin of the instrument of slavery and blood, and Assyria was cast from her golden supremacy, and Babylon was con demned into the haunt of the vulture and the lion forever s\n\n The Geographical description of Greece a. dopted by the Provisional Government, is as follows:-\n\n INHABITANTS.\n\n Eastern Hellas, containing 8O.0Oo Western Hellas, 10000 The MOrea, 100000 l Crete and the Islands, S50,OOO Epirus, 100000 Thessaly, 3GO,OOO Macedonia, 100000 Total, 2,35O,O | Of this population but about one third can be called original Greeks. The rest are Albani- nians and Turks, with some thousands of Franks and Jews. The mountainous regions had never been completely reduced under the Turks. The horse and scymitar had made them masters ofthe plain, they became feudal possessors of the territory under the usual tenure of military service to the Sultan, and held the remaining Greeks as ca!tivators ! and serfs of the soil But multitudes had re- ] treated to the freedom and security of the mountain tracts, and as the Turkish chainOk- came heavier, muItitudes flung it off and flew to their free coIntrymen. The vacancy pro duced by this flight was partially filled up by forced or voluntary accessiOns of Christian inhabitants from Albania and Bulgaria. A. bout two hundred years ago, large emigra- ton of Christian Albanians entered BGtia, Attica, and Argos, where their language is still retained. The island of Hydra, the seat of the commercial and naval enterprise of Greece, was peoped by this race, and in whatever quarter they settled, they have been hardy, active and brave.\n\n l Another multitude of original Greeks had passed over into Asia Minor during the last half century They fled from the increased oppression of the Turks, yet they passed un- der a Turkish Government but it was that of the Kara Osman Oglu family, the singular Iy mild vceroys of tllc valleys of the Hemus and Caicus.\n\n There was but little severity in the estab- Iished tributes of the Greeks under even the European Turks. The mode of appOrtion- ing the rent had been adopted from the usages of the Greek Empire. A seventh of the pro- duce was set apart for the land tax. The landlord received half the remainder, or a larger portion, according to his supply of seed. stock, and agricultural tools The cap",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2191,
+                "y0": 2418,
+                "x1": 2764,
+                "y1": 2538
+            },
+            "class": "headline",
+            "raw_text": "From Black,Uood's Magaziae.\n\n GREECE.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": -2
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 2384,
+                "y0": 2537,
+                "x1": 2583,
+                "y1": 2567
+            },
+            "class": "author",
+            "raw_text": "COntinased.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": -1
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                0
+            ],
+            "headline": "",
+            "article": "of the keeper, she sneaked into her cage with what she had got.\n\n While this business was going on, the ti- ger himself had begun to look round, and sec what fun could be picked up. On rais- ing his head from the lama, the first thing that struck him was the lion sitting in his cage with great dignity and unconcern'- The tiger showed his teeth; the lion slightly shook his mane. The tiger drew back oil his hind legs to make spring ; the lion rose up with dignity and shot fire from his eyes. The tiger sprung at the cage with great fury, forcing one of his claws ill be- tween two of the bars; and at the same in- stant the lion made grab at the tigers torefoot, caught it firmly between his tusks, pulled the whole leg into the cage, and held him there untll the keeper saw the opportunity, flung himself from the back of the elephant, ran with his moose to the tiger, and secured lim in a moment.\n\n After this was accomplished, the lion generously let go his hold, and the keeper dragged the other to his cage and secured them both. And thus, by singular traiu of circumstances, in which the instinct and trunk of the elephant, no less than the teeth and temper of the lion, bore a con- spicuous part, did the poor keeper get res cued from the jaws of the tiger and tigress. The whole affair has been the table talk of the Bowery for the last week, and we now record it in the Advocate for the a. musement of the children, grand children and great grandchildren of the next gen. eration. Nev- Fork AdvOcdte.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2038,
+                    "y0": 623,
+                    "x1": 2923,
+                    "y1": 2391
+                }
+            ],
+            "bbox": [
+                2038,
+                623,
+                2923,
+                2391
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-01-12_p1_sn82014309_00414182926_1827011201_0115.json"
+        },
+        {
+            "object_ids": [
+                8,
+                12,
+                1
+            ],
+            "headline": "BX S. 6. SMITH, EDITOR AND PROPRIETOR.\n\nTIER RMS.",
+            "article": "To subscribers ia this Ualage, and subscribers by mail or by post curriers', TWO DOLL.iRS per year, pGydble in adCunce. To companies less hon Ten, by snail, or taken from tte cGFcs, ,ohere there is joint responsibility, schere individual is responsible, $l,5O per gear, in ad- runce. To like companies cf more ham ten, S1,- s5 per yenr, in Gdvance.-Where payment is de- layed to the end Q the ysar 95 cts. a0W De odded to each Of the Gboue prices.\n\n No papers qcU De discontinued until oR CT renrages are paid, except at the discretion cfthe publisher.\n\n Any person o5toining ten responsible sabscri- bers shall receive one paper gratis, and in that proportion for greater or Jess number otf sub scribers.\n\n ADVERTISING.\n\n For holf square, three insertions, or less, 75 cents ;-more than ha!f q square, and less than q square, e7 1-2 cents ;-for one square, S1 ,OO ;; --dnd in the same proportion for more Man c square; for confirming advertisements more than tree tceeks, % per cent per ,veek a0t De charged\n\n PROBATE NOTICES. Administrators aud Executors c1,OO Commissioners S1,25",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 276,
+                    "y0": 611,
+                    "x1": 1065,
+                    "y1": 748
+                },
+                {
+                    "x0": 537,
+                    "y0": 776,
+                    "x1": 798,
+                    "y1": 822
+                },
+                {
+                    "x0": 214,
+                    "y0": 832,
+                    "x1": 1116,
+                    "y1": 2006
+                }
+            ],
+            "bbox": [
+                214,
+                611,
+                1116,
+                2006
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-01-12_p1_sn82014309_00414182926_1827011201_0115.json"
+        },
+        {
+            "object_ids": [
+                10,
+                2
+            ],
+            "headline": "HINTS TO PARENTS.",
+            "article": "Dialogue on Ne'cspapers.-A.-How docs it happen, neighbor E. that your chill dren have made so much greater progress in their learning, and knowledge of the world, than mine ? They all attend the sames chool, and for aught I know, enjoy equal advantages",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 350,
+                    "y0": 6452,
+                    "x1": 980,
+                    "y1": 6515
+                },
+                {
+                    "x0": 231,
+                    "y0": 6531,
+                    "x1": 1121,
+                    "y1": 6866
+                }
+            ],
+            "bbox": [
+                231,
+                6452,
+                1121,
+                6866
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-01-12_p1_sn82014309_00414182926_1827011201_0115.json"
+        },
+        {
+            "object_ids": [
+                15,
+                3
+            ],
+            "headline": "THE GRAVE OF THE YEAR.",
+            "article": "Commissioners S1,S5 THE GRAVE OF THE YEAR. Be Becompos'd ev'ry toll and each turbulent mo- tion, That encircles the heart in life's treacher- ous snares; And the hour that invites to the calm of de- votion, Cndisturbd by regrets-unincunlber'd with cares. How cheeress the late blooming face of cre- Weary Time seems to pause on his rapid career, And fatigu'd with the work of his own desc latiOn, Looks behind with sme--on the grave of the year. H\"r'<! the wind whistles rudey--the shad- ows are closing That enwrap his broad path in the mantle of night: While pleasures gay sons are in quiet repo- sng,- Undismay'd al the wrecks that have num- bered his flight. From yo;'r temple where Fashions bright ta- pers a'c lighted, Her .ot'ries in crowds, deck'd with garands appear: And (is yet their warm hopes by no spectres afrighted) Assemble to dance--round the grave of the year. Oh. hate the stalccup which the idIers have tasted, When think on the ills of Iifes comfort less day; How the flowers of my childhood their yer dure have wasted, And the friends of my youth have been sto- len away They think not how fruitless the warrnest en- deavour To recall the kind moments neglected, when near; When the hours that Oblivion has cancelPd forever, Arc nterrd by her hand--in the grave of the year. Since the last solemn reign of this day of re- fcction, WAnt.throngs have relinquish'd life's per ishing breath How many have shed the last tear of dejec- ton, And clos'd the dim eye in the darkness of How many have sudden their pilgrimage en- ded, ljClcdtn tue IoH pan euSeIOpeS tIlelF bier Or to Deaths lonesome valley have gently descended, @s And made their cold bed-with the grave oi the year. 'I'is the Year that so 'ate its new beauties dis closing Rose bright on the happy, the careless, and gay, Who now on their pillow of dust are reposing, Where the sod presses damp on their bo- soms of clay, Then talk not of Bliss, while our smiles are expiring, Disappointment still drowns it in Misery's tear: Reflect and be wise; for the day is retiring, And tomorrow will dawn-on the grave of the year. Yet awhile, and no seasons around us will flourish, But silence for each her dark mansion pre- pare, Where beauty no longer her roses shall nour- ish.\n\n Nor the lily o'erspread the wan cheek of Despair, But the eye shall with lustre unfading be brighten'd, When it wakes to true bliss, in yon orient sphere; By sunbeams in splendour immortal enght- end, Which no more shall go down-on the grave of the year. MONTGARNIER.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 316,
+                    "y0": 2028,
+                    "x1": 1031,
+                    "y1": 2091
+                },
+                {
+                    "x0": 180,
+                    "y0": 1954,
+                    "x1": 1116,
+                    "y1": 6441
+                }
+            ],
+            "bbox": [
+                180,
+                1954,
+                1116,
+                6441
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-01-12_p1_sn82014309_00414182926_1827011201_0115.json"
+        },
+        {
+            "object_ids": [
+                18,
+                14,
+                4
+            ],
+            "headline": "MANUFACTURES",
+            "article": "Ertraets from MT. RGsh's IFeasary Report.\n\n The articles of American Manufacture exported from the United States in 1926. will, it is, believed, be found to exceed six millions of dollars in value. Of the a. mount ofAmerican Manufactures, prosa- ced for consumption within the United",
+            "byline": "To Je concIuded m our s,ers.",
+            "bbox_list": [
+                {
+                    "x0": 4043,
+                    "y0": 6401,
+                    "x1": 4543,
+                    "y1": 6447
+                },
+                {
+                    "x0": 4066,
+                    "y0": 6474,
+                    "x1": 4520,
+                    "y1": 6521
+                },
+                {
+                    "x0": 3851,
+                    "y0": 6531,
+                    "x1": 4735,
+                    "y1": 6866
+                }
+            ],
+            "bbox": [
+                3851,
+                6401,
+                4735,
+                6866
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-01-12_p1_sn82014309_00414182926_1827011201_0115.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "\n\n the language to form any impartial estimate of the national character, and they come in con- tact chiefly with those classes upon whom the long suhjectiun to the Turks has had the great est effect; such as persons in authority under the government, or otherwise in Turkish em- piOy-serVants interpreters, the EOwer order of traders, and generally the inhabitants of those towns in which the Turkish pOpu- latlon has great preponderence of num- bers'.'\n\n e It is obviously not in those situations, but ] in the more unfrequented islands, and on the continent of European Greece, where the Turks do not form tenth part of the pOpula- lation, that the inquiry ought to be made, whether any of the ancient talents and virtues of the Greeks have survived the centuries of Mussulman oppression which supervened up- on the dcbasement caused by Byzantine des- potisn. weakness and superstition. In such an inquiry it would be further necessary. to distinguish between the inhabitants of the plains and those of the mountains; for those two classes have been placed in very different circumstances since the establishment of the Ottoman powerin Greece\"\n\n The Turkish oppression has been so direct ly the source of the chief defects in the char acter of the Greek. of our day, that in exact proportion as that fatal influence is enfeebled. so rises the national character. Its nature is elastic, and springs up even in every nomen- tary removal of the pressure but its true dis plays are to be found where the Turk dares not come. The most remarkable contrast to the inhabitants of the plains is to be found in those Islands of the Egcan, \"where there are no Turkish inhabitants ;'' and in the mountain ous parts of Crete, ofLaconia, Arcadia, Eto- lia, Locris, Epirus, Thessaly, and Macedonia. Here the Greeks bear \"the most striking re- scmbiance, in both their virtues and their yi- ces, to their lllustrlous ancestors\" industri- ous, hardy, cnterprising, heroic; living on little, or lovers of wine and gaiety, as the oc- cason prompts; sanguine, quick, ingenious initiative\" The picture has i:s dark side\n\n 'Vain, inconstant, envious, treacherous. and turbulent\" This picture is not from the hand of an enthusiast; the stains are too faithfully marked. But we must remember, that these defects would be the natural qualities of any people leading the distracted and uncertain life of the Greeks-even in his strongest place of security, pent up amid wild tracts of bar ren country, shut out from general communi- cation. condemned to the habits of the hunter and the marauder liable to annual nroads of d merciless enemy and from his cradle to his grave, either the spoil or the antagonists of the oppressor. Poverty, suspicion, loneliness -the incemency of the weather--a life of haZard-fiight or attack--what original con- stitution of virtue could have attained fits true stature ! There is not national character un- der heaven that would not have hardened and darkened under this perpetual rudeness of fortune. That the Greek retains any qualities emitting him to rank among men, is the phe- nomenon-the powerful evidence of what it. iustrious qualities he may yet show forth, when misery and shame shall cover him no more, and he shall be called to take his armed stand in the great field, where nations struggle for more than the glory of the sword.\n\n Providence has commanded that yarious climates shall bring forth various fruits out of that vast treasure of fertility and bounty which it has laid up for the enjoyment of man. It has commanded that among the races tjfman, there shall be variety of intellectual powers for the general good. Why should it not have followed up this palpable law of benif- cence as far as nations, and appointed those distinctions among the mightier masses of so- ciety. which have been found essential to the system of individual communities? Why shall not the nation and the land be made for each other--The dweller on the shore of the ocean be gifted with an innate spirit of adven- ture, with hardihood of frame, steady intre- pidity and the love of the storm-The dwell Ter m the bosom of great fertile continent l no e\".eu \"''l tiie sturuy strength of agrcul- ture, the sober diligence, the unambitious love of home-The dweller in the land, that was to he the first stepin the advance of the East crn colonies to fill the solitudes of the West. the splendid school from which the arts of Europe were to rise, be gifted with the rich peculiar faculties for his noble designa- tion!\n\n Why shall we doubt that that suitableness of means which in the lower creation awakes our homage and wonder, should be abandon ed in the great scale of society, ard that na- lions should be suffered to drop into their nla- ces upon the earth like seeds borne upon the VagraH wind! Montesquieu, with the short slghtedness of French philosophy, attributed all national character to climate. Others. not less shortsighted, have attributeditto to govern mcnt: But the Turk, under the sky of Greece. IS still the barbarian of the In1ails the Greek under the government of the Sultan, is stillthe man whose ancestors were the living flame that kIndled the mind of half the world. But for Greece' that mind might have flowed away liNe the vapor from the mineral, noxious or wasted till it was turnedsin into light. Every view that history or reason can give us of the purposes, the spirit, aad the capabilities of Greece and her people, impresses the conclu- sion that she was made the original and se- .G L k>AA",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3839,
+                    "y0": 821,
+                    "x1": 4747,
+                    "y1": 6249
+                }
+            ],
+            "bbox": [
+                3839,
+                821,
+                4747,
+                6249
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-01-12_p1_sn82014309_00414182926_1827011201_0115.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "l S malned behind; the Turk was privileged to compel the Greek peasant to sell his produce | for the public use, of either the Sultan, or the | local government, at whatever price the mer- 1 cy of his tyrant pleased. There were per petual demands of contributions in money or 1 kind soldiers were quartered on them; they were compelled to supply labour for the pub lie works. This system of harassing ani 1 plunder was carried through the whole gov ernment, and the peasants were reduced to the lowest privatiOn. In all the cOnquests the inhabitants of thesopen country pay heavy price for the luXuriance of the plain, and in the levels of Thessaly and Eubma, Bgtia and Macedonia, the peasantry lived under the sword. In the mountain districts, the Mo req, and the country south of Mount Etna, the Turks were more reluctant to settle, and the religious houses retained a portion of their former lands. A curious tenure preserved the rights of some other Greeks even in the more exposed territory. 1t had been the old custom of the Asiatic sovereigns to set apart cities and districts for the peculiar provision of their queens or households. The custom had been retained by the Sultans, and large dis tricts of the more fertile parts of Greece be- 1 lOnged to the Sultanas, or to the Harem in general, or even to the Mosques. The ten antry in possession were comparatively secure, and the eXactiOns were comparatively mild.- The gentleness of female influence was felt even in this system of tyranny; and the complaints of the Greek who supplied the toilets Of the Harem were seldom neglected by his imperial mistresses. The Greek of the Islands was still less subject to injury. In the Egean, excepting in portions of the Isi- ands nearest the Asiatic shore, Rhodes, Cos, and Lesbos the Greeks paid only the land tax, and capitaton. But on the whole this memorable people was in the most distressed state of any Christian nation. Neither life nor property was their own. Their govern ment was tyranny, their revenue was extor- ton, their law was the sword they lived un- 1 der the heel of a barbdrous domination, ,haugh- ty from its very ignorance, and merciless a. like by its nature and its creed. In the freedom and security of our country, we possibly cannot conceive the long misery of life passed under the wild caprice and per petual irritation of Turkish tyranny-the ex- posture of the deepest and dearest interests of our blood and being to brutal passion or ma lignant pOwer-the bitter and constant fear that the fruits of life of lahour would be sacrificed to the avarice of some insolent slave, raised into sudden authority by his s,l- perior villiany. and sent forth to live by plum der, and tread down every hope of honor and\n\n \n\n in the sincerity of our souls, that this should last, even if the subject nation were but a step above the beasts that perish; even if there was no seed of manliness among them-t, in the long series of ages, they had given proof of a noble thought, or an action Wor- t.y of human nature. God forbid that man, bearing his image, however hunlated, and defiled with the dust of slavery, should not at length clear away the stain that the day of Opprt ssion should not have an end, and the lash and the letter at length cease to resound in this mighty dungeon; or still more, that England, the very throne of Christianity and Freedom. should not be the first to command this mcrcess dcsolnton of gallant hearts and Christian faith to be at an end and if her remonstrances should fail, in the majesty of CT, delegated for such things, finally wiring the scourge from the hand of the goddess opprcs- SOr.\n\n But that this unfortunate people are eml- nently worthy of the interference and interest of enlightened Europe, we have evidences of the most sufficient kind. Of this order is Col. Leake, who, from his official residence, his professional rank, and his peculiar study of the people and language, is undeniable au- thority, This officer tells us, in his late very interesting MemOir,* that \"thOugh the con 1 ditiOn of the peasant is, on the whole, miSer0- bie, he is in general industrious, much attach l ed to his family, anxious for the education of his children, and equal, if not superior, in in- telgence, to the peasantry of the most civiIi- zed countries of Europe\" | He proceeds to tell us, that this distinguish ed characteristic of the ancient Greeks is re- taned by their descendants ofevery condition in degree 90 striking as to attract the atten- tion of all strangers, even of those most dis posed to think harshly of the Greeks; that among the most uncultivated and ignorant of this unhappy people, even in those provinces where the Turkish tyranny would have been almost enough to extinguish the heart and understanding of man, the stranger is for ced to acknowledge the curiosity ingenuity, keenness, and elocution of their famous fore fathers, and the natural effect of which upon the present race was an extreme impaticnce 1 of their present condition Mot traveller from Europe conld pass without exciting the hope that some interference in their favor was 1 in contemplation and he never failed to hear from them many bitter reproaches againstus for allowing our fellow Christians to remain enslaved under the yoke ofinfidels.\"\n\n Ccl.Leake attributes large portion of the misrepresentation of the Greek character to the route pursued by the ordinary tourists",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2927,
+                    "y0": 821,
+                    "x1": 3835,
+                    "y1": 6249
+                }
+            ],
+            "bbox": [
+                2927,
+                821,
+                3835,
+                6249
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-01-12_p1_sn82014309_00414182926_1827011201_0115.json"
+        },
+        {
+            "object_ids": [
+                16,
+                9
+            ],
+            "headline": "B.-Do you take the newspaper, neigh",
+            "article": "D.-Do you taKe the he\"sPdPo''\"0'Su- bor 4 i?\n\n A.-No sir, I do not take them myself, but | now and then borrow one, just to read. Pray sir what have newspapers to do with the education of children!\n\n B.-Why, sir, they have vast deal to do with it, I assure you l should as soon think of keeping them from school, as to withhold from them the newspaper. Indeed anewspaper is a little school fitselt. Be- ing new every week, it attracts their atten- ton, and they are sure to peruse 1t. Thus while they are storing their minds with uS- ful knowledge, they are at the same time acq quiring the art of reading &c. have been surprised that men of understanding should overlook the importance of news paper in a family.\n\n A.-In truth neiehbor E. I frequently think I should like to take them ; can not we'll afford the expense.\n\n B.-can't afford the expense what, let me ask, is the value of two or three dollars year, ill comparason with the pleasure and advantage to be derived from a well conducted newspaper ? As poor as I am l would not for fifty dollars year, deprive myself of the happiness enjoy in reading, and hearing my children read and talk about what they have read in the paper. And then the reflection, that they are growing up intelligent and useful members of socie- ty-Oh, don't mention the expense; pay it inadvance every year, and you will think no more oft.\n\n Al believe you arc right. I now be- gin to see my folly. will go home and order the printer to send me his paper m- meJiately.--\n\n Singular Preservation. A few days ago a very amusing and somewhat dangerous occurrence took place at d small circus in the Bowery, in which there is an exhib;- ton of wild beasts, such as elephants, ti- gers, lions, &c. The keeper of the col lection one day went to dnueI, as usual, under the impression that his four footed actors were quite snug in their cages. IL was not so. The cage that contained a tiger and tigress, was in a state of de- cTepitude, so that the terocious couple hroke loose. If their keeper was to eat his beef steak, Mir. and Mrs. Tiger thought they ought to have something fresh too.- Accordingly, being free as air, they cast their eyes round the habitatiol, as a gor- mandser would in cook-shop, and so sc- lected fine foreign animal, called a Lama, on which to dine. At the approach of the tiyering couple the poor lama got scared and set up grunt. It would not do.- One of the tiger family i've have tiger families elsewhere) sprung at his throat, brought him down, and tapped his jugular vein in twinkling. Here both the ani- mals slipped away with great perseverance,, as fast and as cordially as the cobler and his wife hung over cider barrel in New Jersey, which they soon emitted of its con- tents. The heart of the poor lama was soon drunk dry by these two feline topers In the mean time the keeper had fin ished his dinner, drunk his glass, and was putiing away at the but end of Spanish segar, when he entered and found the woTk that had been going on. He was a. larmed at first, but his personal courage did not ooze away, as Across did in the play. He ventured into the ring with moose to fling over the heads of the two ferocious animals, while they were sucking out the last drop of blood from the poor lama.- The tigress finishing her repast sooner than her mate, turned round while the keeper was in the very act of catching them, and made preparations to spring upon him, in the same way that a cat does when 'e sees mouse. The keeper felt tlc dan ger of his situation, but with great pres ence of mind he made retreat behind his elephant, who, from the other sido of the circus, was looking on the scene with great con,posure. The tigrcss did not forgo her intent. She made spring at the keeper, past the elephant, but just at this moment, the sagacous animal observ- ing. it would seem, the danger ofhis keep er let out his trunk with the swiftness of an arrow from the bow and pitched the tigrcss to the further end ofthe circus.\n\n A wonderful hurley hurley was now kicked up. All the monkies and balloons scampcrcd up to the rafters, and the glar- ing eyes of the enraged tigress struck dread into the whole, except the elephant, who folded up his trunk with neatncss after his feat, and the lion who sat in his cage on his hips like dog, looking on with great dig nifty and composure. The keeper now run out from behind the elephant, and ap- preaching his trunk, uttered certain words",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1149,
+                    "y0": 617,
+                    "x1": 2005,
+                    "y1": 675
+                },
+                {
+                    "x0": 1132,
+                    "y0": 645,
+                    "x1": 2028,
+                    "y1": 6062
+                }
+            ],
+            "bbox": [
+                1132,
+                617,
+                2028,
+                6062
+            ],
+            "full_article_id": 10,
+            "id": "10_1827-01-12_p1_sn82014309_00414182926_1827011201_0115.json"
+        },
+        {
+            "object_ids": [
+                7,
+                17,
+                13
+            ],
+            "headline": "From Black,Uood's Magaziae.\n\n GREECE.",
+            "article": "COntinued.\n\n The Greek insurrection assumes to us an aspect of loftier importance from those con- alterations. Whatever might be our sympa- thles with the fortunes of brave and unhap- py people, striving with their naked hands to tear off the manacles that have cut them to the soul, we feel still stronger interest in this generous struggle, from its giving the sig nal of mightier changes perhaps throughout the whole extent of the civilized world. It may be extinguished, and the time, which shall yet surely come, may be thus deferred but if it should succeed, it will have made the only permanent aggression on the fabric of the Turkish power, the only permanent n- road into that great interdicted desert, it will have stricken the first blow on the Talisman on which is engraved the spell which has for ages kept the Ottoman throne inaccessible to the hostility of human nature.\n\n It is impossible that this goddess, corrupt, and mfdel kingdom, should be tolerated but for the purposes of punishing. There have been other criminals revolters from the faith, abusers of the heneyOlence of Heaven, on whom the Ottoman has been brought as the locust, to destroy the %living vegetation of their strength and prosperity. The pcstilence 1 and famine are the inferior agents of wrath,\n\n \n\n may be as deeply determined as for it's ;nflic- tion; and then comes the retribntion of the punlshcr Human violence was used in the whole course of the Jewish Annals tor the castigatiOn of the crimes of Israel. The As syrian ido!ator was made great for his day by the fall of the chosen people. But when the hour of deverance was ordained, there was l ordained with it the ruin of the instrument of slavery and blood, and Assyria was cast from her golden supremacy, and Babylon was con demned into the haunt of the vulture and the lion forever s\n\n The Geographical description of Greece a. dopted by the Provisional Government, is as follows:-\n\n INHABITANTS.\n\n Eastern Hellas, containing 8O.0Oo Western Hellas, 10000 The MOrea, 100000 l Crete and the Islands, S50,OOO Epirus, 100000 Thessaly, 3GO,OOO Macedonia, 100000 Total, 2,35O,O | Of this population but about one third can be called original Greeks. The rest are Albani- nians and Turks, with some thousands of Franks and Jews. The mountainous regions had never been completely reduced under the Turks. The horse and scymitar had made them masters ofthe plain, they became feudal possessors of the territory under the usual tenure of military service to the Sultan, and held the remaining Greeks as ca!tivators ! and serfs of the soil But multitudes had re- ] treated to the freedom and security of the mountain tracts, and as the Turkish chainOk- came heavier, muItitudes flung it off and flew to their free coIntrymen. The vacancy pro duced by this flight was partially filled up by forced or voluntary accessiOns of Christian inhabitants from Albania and Bulgaria. A. bout two hundred years ago, large emigra- ton of Christian Albanians entered BGtia, Attica, and Argos, where their language is still retained. The island of Hydra, the seat of the commercial and naval enterprise of Greece, was peoped by this race, and in whatever quarter they settled, they have been hardy, active and brave.\n\n l Another multitude of original Greeks had passed over into Asia Minor during the last half century They fled from the increased oppression of the Turks, yet they passed un- der a Turkish Government but it was that of the Kara Osman Oglu family, the singular Iy mild vceroys of tllc valleys of the Hemus and Caicus.\n\n There was but little severity in the estab- Iished tributes of the Greeks under even the European Turks. The mode of appOrtion- ing the rent had been adopted from the usages of the Greek Empire. A seventh of the pro- duce was set apart for the land tax. The landlord received half the remainder, or a larger portion, according to his supply of seed. stock, and agricultural tools The cap",
+            "byline": "COntinased.",
+            "bbox_list": [
+                {
+                    "x0": 2191,
+                    "y0": 2418,
+                    "x1": 2764,
+                    "y1": 2538
+                },
+                {
+                    "x0": 2384,
+                    "y0": 2537,
+                    "x1": 2583,
+                    "y1": 2567
+                },
+                {
+                    "x0": 2032,
+                    "y0": 2520,
+                    "x1": 2923,
+                    "y1": 6889
+                }
+            ],
+            "bbox": [
+                2032,
+                2418,
+                2923,
+                6889
+            ],
+            "full_article_id": 14,
+            "id": "14_1827-01-12_p1_sn82014309_00414182926_1827011201_0115.json"
+        }
+    ]
+}

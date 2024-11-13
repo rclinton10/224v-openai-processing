@@ -1,0 +1,995 @@
+{
+    "lccn": {
+        "title": "Delaware journal.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2638-6917",
+        "lccn": "sn83025530",
+        "start_year": "1827",
+        "end_year": "1832",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [
+            "sn85042477"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn83025530",
+        "edition": "ed-01",
+        "date": "1827-10-26",
+        "pages": [
+            "seq-3",
+            "seq-1",
+            "seq-2",
+            "seq-4"
+        ]
+    },
+    "page_number": "4",
+    "scan": {
+        "lccn": "sn83025530",
+        "edition": "ed-01",
+        "date": "1827-10-26",
+        "page": "4",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-10-26/ed-1/seq-4.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-10-26/ed-1/seq-4/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-10-26/ed-1/seq-4/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn83025530/00271740220/1827102601/0235.jp2",
+        "height": 5544,
+        "width": 3512
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 1037,
+                "y0": 1528,
+                "x1": 1830,
+                "y1": 2192
+            },
+            "class": "article",
+            "raw_text": "The subscriber has just received large and ex-\nteusive supply Of fresh imported and seasonable Dry\nGoods such as Cloths, Casslmers, Satt'netts flan-\nels Baizes, Tartan and Circassan Plaids, Camblets\nCacos, Bombazetts BombaZenes, Merlno Shawls,\nBang up cords. Irish Linens, Cambria and long\ncloth Muslins. Book Muslins, Lambs wool and\nworsted Hose, Tckings. Domestic Palds, Stripes,\nand Muslins, Pittsburgh Cords, Fusang. Drlllings'\nChecks, Bearskins, Kerseys, Umbrellas, Russia\nShcetinss, Blankets, rose and point sacking bot,\ntoms, sc. SC. all of which will be sold low tor cash.\n\n\nJOHN M'LEAR,\n\n\nNo. So Market street, Wilmington.\ng \". B. Also. grey HORSE. rising six years o!d\nand goes gently in harness, and is an excellent sad\ndie horse, warranted sound.\n\n\nOct. 5. 4o-4t",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 1192,
+                "y0": 1437,
+                "x1": 1653,
+                "y1": 1516
+            },
+            "class": "headline",
+            "raw_text": "DRY Goods.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1058,
+                "y0": 2702,
+                "x1": 1847,
+                "y1": 3184
+            },
+            "class": "article",
+            "raw_text": "THE Subscriber offers for private sale, valua-\nbic Farm, lying on the turnpike, leading to Elk,\nabout two miles below Cnistiana-B Bridge. 1t con-\ntans l2 acres, SO of which are under thriving tim\nDer, and the remainder under tillage, with good\nproportion well set with clover: there's asoon the\npremises a good bearing orchard--the fences are in\ngood order. The buildings are good dwa'l;r-\nhouse, stable and granary. A further Gcsarfu\"a\nwill be given, and the land shewn to any one 1py-\ning, by the subscriber living on the Plantation\n\n\nWILLIAM i. MINTtRE.\n\n\nl5--t1 Dec",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 1210,
+                "y0": 2624,
+                "x1": 1696,
+                "y1": 2677
+            },
+            "class": "headline",
+            "raw_text": "\"A PLANTATION.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 205,
+                "y0": 415,
+                "x1": 1016,
+                "y1": 2300
+            },
+            "class": "article",
+            "raw_text": "CHARLES POLK, Governor of the said State.\nTO al! persons to whom these presents shall come.\nWHEREAS, on the first Tuesday of October,\nbeing the second day of that month, in the year Of\nour Lord One Thousand Eight Hundred and Twen-\nsy-seVen, Elections tor choice of Representative\nof and for the said State, in the twentieth Congress\nof the United States, in lieu of the Honorable Louis\nM.Lane, and to supply the vacancy in the Represen\ntaton OF this State, occasoned by his election to-\nand acceptance of, the Office of Senator for this\nState in the Senate OF the United States for the term\nof six years from the fourth day Of March last past\nwere held according the laws of said State in the\nseveral Counties thereof, in obedience to wrl!s of\nele ;ton for that purpose issue And whereas,\nole leturns for the said elections, in due manner made\nmu:, signed and executed, have been delivered to\nthe, according to the laws Of the said State, by thu\nresp ctlve Sheras otthe said Counties, and having\nexamined said returns and enumerated and\ntanned the number of votes or each and every can\nddate or person voted for as such Representative,\nl have found Kensey Johns, Junior, Esquire, to be\nthe person highest in vote, and therefore duly cleo\nted the Representative of, and for the said State, in\nlieu OF the Honorable Louis NJ Lane, and to supply\nthe vacancy in the Representation of this State for\nthe Twentieth Congress, in the House OF Repre-\nsentatives of the United States\n\n\n!, the said Charles Polk, Governor aforesaid do\ntherefore, according to the form Of act of the\nGeneral Assembly of the said State, in such case\nmade and provided, declare the said kensey Johns,\nJunior, the person highest in vote at the election\naforesaid and therefore duly elected the Represen-\ntative OF and for the said State of Delaware, to sup\nply the vacancy aforesaid in the Twentieth Congress\nOF the United States.\n\n\nGiven under my hand and the Great\n\n\nSeal. }Seal oft'e State, at Dover, this eleventh\n\n\nS,,,,,,$ day of October, in the year of our Lore\nOne Thous md Eight Hundred and Twenty\nand Of the Independence Of the said State the Fifty\nsecond\n\n\nCHARLES POLK,\n\n\nBy the Gove rnor.\n\n\nJOHN \". CL.IfTON, Secretary Of State.\n\n\nOct. is. 51-4t",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 365,
+                "y0": 311,
+                "x1": 838,
+                "y1": 364
+            },
+            "class": "headline",
+            "raw_text": "EX AUTHORITY",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -2
+        },
+        {
+            "id": 33,
+            "bbox": {
+                "x0": 313,
+                "y0": 372,
+                "x1": 890,
+                "y1": 412
+            },
+            "class": "author",
+            "raw_text": "OF THE ST.lI'E OF DELAWARE",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1024,
+                "y0": 459,
+                "x1": 1817,
+                "y1": 1408
+            },
+            "class": "article",
+            "raw_text": "THIS Institution will be opened on Monday\n\n\nthe 22d. of October Inst, under the care\n\n\nof the Rev. JOSEPH WILSON.\n\n\nIn this Seminary students will be thoroughly in\nstructed in the different branches of good English\nand Classical Education, viz Reading, Writing,\nArithmetic, English Grammar, Geography, Compo-\nsit,ou. Elocution, Mathematics, and the Greek and\nLatin Languages. The terms of tuition will be- for\nthe English branches, exclusive of Mathematics,\nS8 per session, or s 10. including the Mathematics;\nfor the Languages, including the English, $40 per\nsession. Tuition money to be paid in advance.\nThere will be two sessions in the year, with .\nshort vacation between each.\n\n\nGood boarding can be obtained in respectable\nfamilies in the village, at the rate OF Forty Dollars\nper session and few boarders can be acconlmo\ndated in the family of the Principal\n\n\nJOHN EDDOWES. Sec'y.\n1GJJjcto,,,n October / 1927 I8--3m\noe-'ro be published in the Elkton Press, s,--ches\ntertown elegrapt--Centreville Tmes-and IN TIT\nE;ston (Md.) papers for three months, and then\nbills forwarded to the Secretary.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1024,
+                "y0": 298,
+                "x1": 1804,
+                "y1": 438
+            },
+            "class": "headline",
+            "raw_text": ".NidcyyetO,cm .Acnden,y.\n\n\nCLASSICAL DEPARTMENT..",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1050,
+                "y0": 2269,
+                "x1": 1843,
+                "y1": 2604
+            },
+            "class": "article",
+            "raw_text": "FOR the residue of the present yeaf, and for the\nensuing twelve months, and possession given on the\n10th November, Mrs. Dauphn's large Stone Man\nsion on Quaker lIill now occupied by the Subs:ri-\nber. To tins airy, commcdious and healthy resi-\n,lcncc is attached III extensive and fertile garden,\ntogether with valuable grass lot. For terms apply\nto II. l.. DAVIS.\n\n\nIFtmington, Oct. 2, 1927. 46-4t",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1171,
+                "y0": 2204,
+                "x1": 1705,
+                "y1": 2261
+            },
+            "class": "headline",
+            "raw_text": "TO BE RENTED,",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 36,
+            "bbox": {
+                "x0": 1864,
+                "y0": 2858,
+                "x1": 2662,
+                "y1": 3041
+            },
+            "class": "article",
+            "raw_text": "For suls ut r. PORTER q SONS Book Store,\n~. %, .Nurket- Street general assortment Of\nBO0kS. in elegant gilt binding and plain,\nl.dTIO.t:QhY. F.1JNCI .aRIICLES, 4c",
+            "legibility": "Legible",
+            "full_article_id": 37,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 1868,
+                "y0": 2793,
+                "x1": 2653,
+                "y1": 2846
+            },
+            "class": "headline",
+            "raw_text": "BOOKS 6. TAMcY ARTICLES",
+            "legibility": "Legible",
+            "full_article_id": 37,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2674,
+                "y0": 2542,
+                "x1": 3467,
+                "y1": 4895
+            },
+            "class": "article",
+            "raw_text": "A sovereign remedy for Colds, obstinate Cougls,\n.Asthnas, sore Ihroafs, and approachiag Con.\nsummionS, and most disorders of The breast & hags\nA SINGLE TRIAL WILL PROVE, that it\nrestores he deIe, mna,on of the fluids the surface ote\nbody; and bri\"gs on the common healtifu perspuun;\nthat il disodges and tough yscld phepm or\nmucus, stregtens the weakened vessels of the lungs\nheathes the acrimonious humor which rriates them and\nfinally discharges it Thus Striking the root of the dis.\nprde the symptoms of eiIectually and perma\nnen,ly conquered, the of common medicines which\nweaken the constitution and give strength to the DISORDER\nfor the sake OF modeang for the present some of its nam.\niul effects.\n\n\nTo parents who have children afflicted with the\nWHOOPLAG COUGH.\n\n\nThis discoyeryls of the first magnitude as il aiirls i'm\nmediate reef, checks the progress and short time\nrey removes the most cruel disorders which children\narc abe.-rhe elixir is perfectly agreeable and the\ndose 50 SMALL tina M difficulty arises in taking it.\nHanuhon's genuine Essence and erract of Mustard\nsafe and ciiec'ual remedy for acute and chronic rhu\nmatism gout, rheumatic gou pasey, lunlaro numbness.\nwhite s~engs, chilbans sprans, bruises, pain in the\n| lace and neck, &c &c.\nLees AltaiHdle .4gue and Fsuer Drops\n\n\nFor the cure ut asues, remit,en and intermittent evers.\nLEES PERSIAN LOTION,\n\n\nIs an invaluable cosmetic perfectly innocent and safe\nut unparalleled efficacy preventing & removing benses\nIN The face and SKIN, OF every kind particularly ecscs,\npmpes scurt, teers ringworms sun burns &c. rend,t\ning the skn delcaey soft and clear and improving the\ncompieAloD\n\n\nTOOTH ACHE DROPS.\n\n\nThe only remedy yet discovered which gives immediate\nand lasting relief in The most instances.\nTHE RESTORATIVE POWDER FOR THE TEETH\n| AND GUMS.\nThis excellent preparation comforts and strengthens the\ngums preserves the enamel from decay, and ceanses and\nwhlens the teeth absorbing all that acrimonious smeand\nioulness, which, suffered to accumulate, never fails to III\nJure and finally rnin them.\nTIE D.4yMASK LIP SALVE,\n\n\nIs recommended, (particularly the ades) an ee'\ngiant and pleasant preparation for capped aud sore ps\nand every bemsh and Inconvenience occasoned by colds\nf,ers, &c speedily restoring beautiful rosy colour ana\ndelicate sUftness to the lips.\n\n\nHahn's Genuine Eye Uafcr.\n! sovereign remedy for all diseases of the eyes.\n| CORN PLASTER.\n\n\nAn infallble remedy for corns speedily removing theHl\nroot and branch, without giving pain.\n\n\nITCH CURED.\n| Lees Ointment for the Itch.\n\n\nWarranted inallbe remedy one applica'ion rot\ncontaining particle ofmcrcuy any dangerous ingred\nent whatever.\n\n\nThe subscribers have just received the above ar\nticles, fresh from LEES Family Medicine Store in\nMaden-Lane, New ork, and for sale by particular\nappointment in Wilmington,\n\n\n\". Porter G. Son.\n\n\nJuly IS, 1897. s4-h",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 2760,
+                "y0": 2486,
+                "x1": 3376,
+                "y1": 2530
+            },
+            "class": "headline",
+            "raw_text": "HAMIETON'S ELIXIR.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 240,
+                "y0": 2382,
+                "x1": 1046,
+                "y1": 4986
+            },
+            "class": "article",
+            "raw_text": "NEW SCHOOL. BOOKS, and improved editions. lust\n~ published aud for sale by JOHN 'lRiGG. No 9. N.\nFourth street. rhadepha and for sale by bookscis and\ncountry merchants gcnefaly\n\n\nTorreys Primer, or First Book for Ch ldren.\n\n\nTorreys Spelling Book, or Second Book Ior Children\n| have examined Mr. j. rorrey's familiar Spelling Book,\nthink great improvement in the primitive and ne less\nimportant branches of education. and small introduce ii\ninto the Seminares under my care, superior to any\nwhich has yet appeared.\n\n\nFebruary 2nd, io2G. IRA HILL, A. NJ\nPleasing Coi,rim for little Girls and Boys, blending\ninstruction with amusement being selection ofnterest\nng stories, dialogues, tables, and poetry Designed for the\nOF primary schools domestic nurseries BY Jesse Tor\nrey, Jr Preferred generally to Murays Introduction and\nworks OF that class. 1orrey Mo- al Instructor, and Guide\nto Virtue This work svttng to be generally alop cd\nin schools and academies, IN place Of Muray Reader and\nworks ofthat class.\n\n\nSmiley Geography anil Atlas, and Sacred and Ancient\nGeography for schoos The increasing demand for these\nbooks, the best evidence nf their value elementary\nworhs. Smiley's Arithmetic. the New Federal Cacua\ntor in collars and celts. ins work contls among other\nimpcstnt improvement Questions the rules and theor!\nArtnnetc which considered by teachers generally\nvery conducive to tl. improvement Of the pupil\n\n\nlhe suns being stugetherin dollars and cents will give\nit decided preference Overany othel arithmetic\nThe future editions will be found very correct.\n\n\na KY 10 the above Arithmetic, in which all the Exam\npies necessary for learner wrought az large and also\nsolutions given for all the rules. Designed prlnci-\npaiy to facilitate the LABOR of tcachers and ,s such\nhave not he opportunity oi tutors aid BY I. T. Smiley,\nauthor OF the New Federal Calculator, &c,\n\n\nThe United States Speaker Compiled by L. L. Smiley\npretered generally to the COLUMBIAN Orator and SCOTS\nLessons and works o that kd by teachers who have ex\namintd it.\n\n\ntrimshaws History If the United Sates.--Also, ques-\ntons adapted to the aoove History, and Key adapted to\nthe Questions, for the use OF teachers\n\n\nGodsnt's England lnprovelb by Grnishaw, with lucs.\ntiuns and key.\n\n\nGoisinh's History OF Greece, improved by CIR msaaw\nwitnn Vocabulary OF the proper names contained III the\nwork and the prosodal accents, ntorts 18th the pro\nnlnclation OF Lempnere-witli Questions and Ky, as\nabove.\n\n\nGolsmth'' History of Rome improved BY Grimshaw\nwith Vocabulary, &c and questions and key, Sc above\nTe,;hers generally, who have examined Grllnsha@ :\nHistory OF the United States, and the improved editions\nSiosns Eng iand Grgece, and Rome. having given them\ndecided preference TO any other histories in Sctoo\nBonkS-aud any person who will examine them wall find A.\nbout 1JoO errors IN each ced; an Teachers o ring\nthese works Will do we'll to say. Gunsnaw's improy\nEdition.\n\n\nAn chronological Dictionary, Analysis Of the Engisi\nLanguage, containing tine Rucas ala. Definitions OF ord\nderived from tne Gre elk. l.tn and rtnch auguagcs\nall the generally used technical and polite phrases adopted\nfrom the French and Latin By William Grlnlsiaw, auho\nct the United States, En-; land, &C.\n\n\nThe second edition greatly improved, and viii b,\nfound valuable class book for acadc mics and schools\n\n\nConversations on Natural Philosophy, i'll which the ele\nmehts ct that tamlArly explained ILLUSTRATED\nwith plates. BY the author Of Conversations un Chemis\n1ry &c With considerable additions, corrections, and in\nPrVemens IN tile body Of the work. app opate qu son\nand glossary II, DR.. Thomas Jones' professor OF\nciancs III the Franklin institute of the of Penasy\nwanna\n\n\nLives OF Marion and Washington, by Weens.\n\n\nWIN aSeiieti and eAeuslye ct all the schot\nbooks IN general USE; All viii be sold on MOI\nreasonable terms.\n\n\n- Teachers particularly requested tie examine tn\nabove school books. Auul IL 1927\n\n\nGr r. Porter Son keeps all the above Books for sa\nat the Publishes plile.",
+            "legibility": "Questionable",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 257,
+                "y0": 2317,
+                "x1": 1020,
+                "y1": 2365
+            },
+            "class": "headline",
+            "raw_text": "TO .qLL TEACHERS .lJN'D P.aRE.rTS.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2661,
+                "y0": 1645,
+                "x1": 3454,
+                "y1": 2482
+            },
+            "class": "article",
+            "raw_text": "Which have within sixteen years past cured an immense\nnumber OF persons OF sexes every age and in every\nsituation, OF dangerous complaints arising from\nWORMS, and from obsructons founess in the stomach\nbowels.\n\n\nseason, will effectually prevent the \"yomtnS and\npuiging OF children, dreadful disorder which annually\ndestroys thsAsands Of the infant part Of citizens It s\nlikewise t'e mildest aud most certain remeuy known and\nhas esored 10 health and strength great number when\nin advanced stage of this fatal complaint. Particular\nand plain instructions given for every part of the neces\nsary treatment in such cases.\n\n\nChildren generally take thus medicine with cageness\nhaving pleasing appearance and an agreeable taste\n\n\nHAMlLTON'S GRAND RESTORATIVE\n\n\nIs recommended invaluable medicine for the speedv\nrelief and pei iInanenl Of\nNervous Disorders, Violent Cramps in the\nC\"hSumpuons, stomach and back,\nLowness of Spirits Indigestion,\nLoss Of Appetite, Nelanchoy\n\n\nlmpurity Of the blood, Gout IN the Stomach.\nilystericai hrectohs, Pans in the Limbs\ninward weakness, and Debility, Relaxaions SC. &C.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 34,
+            "bbox": {
+                "x0": 2661,
+                "y0": 1585,
+                "x1": 3415,
+                "y1": 1638
+            },
+            "class": "headline",
+            "raw_text": "Hamilton's Worm Destroying Lozengt",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 283,
+                "y0": 5097,
+                "x1": 1068,
+                "y1": 5250
+            },
+            "class": "article",
+            "raw_text": "The subscribers keep constant supply of Super\nroyal such as this fuper is printed price S3 50\nalso Medium a'G vher print'ns and 'eriag pupers.\nSep. IL. Il. PORTER s. son.",
+            "legibility": "Questionable",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 357,
+                "y0": 5011,
+                "x1": 999,
+                "y1": 5090
+            },
+            "class": "headline",
+            "raw_text": "Super-royai Paper.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2643,
+                "y0": 355,
+                "x1": 3437,
+                "y1": 737
+            },
+            "class": "article",
+            "raw_text": "The Bonds and Notes given for property purchas.\ned at the Sales of DAVID HleeINs, deeds ner.\nsoual property are all now due. Those indebted\nrespectfully informed that the situation Of the Es\ntate admits Of delay; and that they must not eY.\npect any indulgence. Payment may be made to eth.\ner of the subscribers.\n\n\nhl THOMAS .oH ]. HiGGiNs.S Gii Alm''s.\n\n\nSep 90, 1897. 46-4t",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 2903,
+                "y0": 268,
+                "x1": 3181,
+                "y1": 343
+            },
+            "class": "headline",
+            "raw_text": "Notice.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1829,
+                "y0": 671,
+                "x1": 2644,
+                "y1": 2651
+            },
+            "class": "article",
+            "raw_text": "South Vest Of, and near to, Brdmdy1etne MAILS,\nIn and adjoining the store formerly conducted by\nMr.. John Rice, as grocery--where II may net DC\nof disadvantage to call and examine ior themselves\nThe following compose part of their assortment\n\n\nDRY GOODS\nSuperline broad cloths and cassimers,. assorted\ncolors; linen and cotton drings, yellow and blue\nimpored and domestic nankn, Vaentla, Marseilies,\ntonet and Florentine vestngs; black, PLAN and\ntwillcd bombazets; Circasslan ginghams, calicoes,\ncanbric, bleached and brown shirtlng and sheeting\nmusns, Irish linens, long lawns and cambria linens\nLeyentines, Florences, Gros de Naples, lutestrins\ntlag and bandanna hdlts. Cotton ard linen do. white\nand coored canton Grape and Grape shawls, green,\nwhite and black Italian do. worsted and cotton hose\nand suspenders, Yorl-tan and beaver gloves, lla\"-\nskins make of kid gloves of superior quality, white\nand colored domestic plaids and stripes; taDby,\nbane-up and Ptsbnrg cords; fustnas and drillings,\nilannels, furniture and apron check; SWISS, null,\nbook and Jackonet muslins; Sd, 5-4 and I'D diIny,\ncrash, diaper and table linens, bedtlckng hussla\nand imitation sheeting, bleached and unbleached ;\ncoarse linens Osnaburg and Bu;lap's, Porter and\nLancashire sheetngs; Wilmington, Jackson, Adams,\nand jefferson stripes jeans, Garcia stripe, glng-\nhams, black and brown holland, sacklns- bottoms,\nsowing silks and sowing cottons, senshaw sarsenet,\nblack and light coiorcd lasting, &c.\n\n\nGROCERIES.\n\n\nSugar, tea Coffee molasses. ionr, mackerel, in\nbbls and half bbls. ginger, alspce, pepper ground\nand in the grain, nutmcgs, cloves, sc. Together\nwith general variety of liquors and sea stores.\n: P.lLN9IS .4.ND OILS.\n\n\nWhite lead, black lead, red lead blue, red ycl-\nlow oclirc, Prussia blue, chronic yellow verdiglls\nground and dry, patent green, fig blue, logwood\n&c. winter, Summer, common, castor, linseed, ant\nsweet oils\n\n\nEartten China, glass and Queensoarf.\n:. Having purchased the above goods chiefly at auc\nton We are certain we can sell them at the mos\nreduced prices TO those who may favor us will\ntheir custom.\n\n\n, SAMUEL. M'CAULLEY,\nJOHN RICE.\n\n\nJune 22, 1927.\n\n\nn. p. We have in addition to the above just re\n. cniued nln.,r.l un.nrtInnnt of LnShionnhIe Hoo",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 1872,
+                "y0": 576,
+                "x1": 2588,
+                "y1": 659
+            },
+            "class": "headline",
+            "raw_text": ".M Cnullcy g. Rice,",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 1864,
+                "y0": 3001,
+                "x1": 2675,
+                "y1": 5046
+            },
+            "class": "article",
+            "raw_text": "SIaTIONahY, FaNC( .AR1ICLES, Sc.\n\n\n&c. &c. at reduced prices among 7ptich are\nFANNY aud pock, i,ibes Websle's Spelling Books\nWalkers Dictionary Enslsn headers\n,lnsworths Latin do ntioductions\nVirgil Delphai sequels\niI.racc do slur.ay's Grammars\nGrt ok Lcxcons Comly's do\n\n\ndo. .,staments Ca des do.\nPaul and Amcus Gree nlcat's do.\nRollins Ancient History lack iayard\nspectator tiarts OF Steel\nNJ 1ses' Amer'n. Revolution nighanders\nHutton, Mathematics Spy\nGunmery' IS surveying Randolph\nrl.yia'r's Euclid segur's Expedition\nVillage sermons Flanck\nJosephus ltedgaunret\nLees Campaigns Three spanards\nByron's Works Mathematical Instruments\nBurns do. Scales and Dlyiders\nScottish Chiefs Penknves\nGil Bias Scissors\nTestaments plain and gilt Gold and silver Pens\nPsalmsgl HYMNS do. do Pocket Books\nMorses' Gazetteer Windsor & Fancy soap\nCommon Prayer Book Seating Wax\nHawkins Plea to the Crown Office Waters\nt,rlnshaW's U. States common do.\n\n\nDO. do. England kued writing & letter paper\nAdams Geography & Atlass Paint Boxes\nWUrcesteps do. do. ICamels Hair Pencils\nCummns' do. do. nlack Lead do.\nSmieys do. do Visiting Cards\nBcnnet's Arithmetcs Shaving Boxes and Brushes\nJess do. Razor Straps\nPixies do. Pocket Ivory Combs\nLewis do. Durable Ink,\nDo. Algebra 'lnkstal,ds\n\nBonnt caste's do. States\nDo Mensuration Do Pencils\nComlys spelling Books lParchment fine quality &c.\nCopy and Cyphering, Memorandum and Receipt\nBooks, &c.\n| White and Blue Bonnet Boards.\n| Day Books and Ledgcrs.\nWriting paper, hot pressed, gilt. &c.\n| Letter do. do. Wrapping do,\n\n\nMagistrates and other Blanks.\n\n\nPAPER AZ sSs .:.4ANG.NGsa\n\n\nGreat variety, from 25 to 60 cents per peice.\n\n\nBEANzk BOOKS,\n\n\nor every size; made to any pattern, elegant du.\nrable and cheap, suitable for Banks Public Offices,\nMerchants, &c.\n\n\nX. Porter & Son, having laid in fresh and\nextensive stock of goods in their line, at very reduc\ned prices, will be enabled to supply them wholesale\nand retail, at Philadelphia prices generally.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 2648,
+                "y0": 922,
+                "x1": 3446,
+                "y1": 1581
+            },
+            "class": "article",
+            "raw_text": "The operation of tl--e Pills is perfectly mild so b\nthey may be used with safety by persons every saor\nand of every age. '''\n\n\nThey excellently adapted carry off supe auou.\nbile, and prevent it's morbid secretionsio restore aJ\namend the appee-to procure free perspiraton. AMI\nthereby prevent colds, which often have fat\n\n\ndose fails cold, if taken on its r,, an\npearalce.\n\n\nThey celebrated for removing habitual co,t,eoc\nsickness the stomach, and head ache and on\n10 be taken by all persons change of climate o\"'\n\n\ndose of these pills, taken every two weeks drr\nthe prevalence of bilious fevers, will prove AN nl\nBILE prevenye and in the earlier stages Of those diseases\n\n\ntheir will very generally succeed in restoring health\nand frequently esteemed desperate and beyond ,e\npower of common remedies\n\n\nThey found remarkably eicacous in preventing ,pa\ncuring disorders attendant long voyages, and should be\nprocured and carefully preserved for by every seaman",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 2682,
+                "y0": 753,
+                "x1": 3407,
+                "y1": 841
+            },
+            "class": "headline",
+            "raw_text": "Valuable Medicines.",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": -2
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 2726,
+                "y0": 861,
+                "x1": 3372,
+                "y1": 910
+            },
+            "class": "headline",
+            "raw_text": "HAIIN'S .9NTTBILIOI7S PILLS",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": -1
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 1825,
+                "y0": 433,
+                "x1": 2627,
+                "y1": 577
+            },
+            "class": "article",
+            "raw_text": "The subscribers beg leave to inform their tr'cnas\nand the public generally that they have commenced\nthe Dry Goods and Grocery Business, under the\nfinn nf",
+            "legibility": "Legible",
+            "full_article_id": 29,
+            "reading_order_id": 0
+        },
+        {
+            "id": 32,
+            "bbox": {
+                "x0": 1916,
+                "y0": 277,
+                "x1": 2523,
+                "y1": 421
+            },
+            "class": "headline",
+            "raw_text": "NEW STORE\nJust OpeneN",
+            "legibility": "Legible",
+            "full_article_id": 29,
+            "reading_order_id": -1
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 1859,
+                "y0": 2546,
+                "x1": 2662,
+                "y1": 2772
+            },
+            "class": "article",
+            "raw_text": "June 22, 1927.\n\n\nn. p. We have in addition to the abo, just re-\nceived Il general aasortnen; of fashionable Moot\nand Fur HATS, commission, from the well\nknown factory of lsAAc snorwrLl, No, AZ, south\nFront Street, Phladcph pha--which will be sold low.",
+            "legibility": "Legible",
+            "full_article_id": 30,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                14,
+                0
+            ],
+            "headline": "DRY Goods.",
+            "article": "The subscriber has just received large and ex-\nteusive supply Of fresh imported and seasonable Dry\nGoods such as Cloths, Casslmers, Satt'netts flan-\nels Baizes, Tartan and Circassan Plaids, Camblets\nCacos, Bombazetts BombaZenes, Merlno Shawls,\nBang up cords. Irish Linens, Cambria and long\ncloth Muslins. Book Muslins, Lambs wool and\nworsted Hose, Tckings. Domestic Palds, Stripes,\nand Muslins, Pittsburgh Cords, Fusang. Drlllings'\nChecks, Bearskins, Kerseys, Umbrellas, Russia\nShcetinss, Blankets, rose and point sacking bot,\ntoms, sc. SC. all of which will be sold low tor cash.\n\n\nJOHN M'LEAR,\n\n\nNo. So Market street, Wilmington.\ng \". B. Also. grey HORSE. rising six years o!d\nand goes gently in harness, and is an excellent sad\ndie horse, warranted sound.\n\n\nOct. 5. 4o-4t",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1192,
+                    "y0": 1437,
+                    "x1": 1653,
+                    "y1": 1516
+                },
+                {
+                    "x0": 1037,
+                    "y0": 1528,
+                    "x1": 1830,
+                    "y1": 2192
+                }
+            ],
+            "bbox": [
+                1037,
+                1437,
+                1830,
+                2192
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-10-26_p4_sn83025530_00271740220_1827102601_0235.json"
+        },
+        {
+            "object_ids": [
+                18,
+                1
+            ],
+            "headline": "\"A PLANTATION.",
+            "article": "THE Subscriber offers for private sale, valua-\nbic Farm, lying on the turnpike, leading to Elk,\nabout two miles below Cnistiana-B Bridge. 1t con-\ntans l2 acres, SO of which are under thriving tim\nDer, and the remainder under tillage, with good\nproportion well set with clover: there's asoon the\npremises a good bearing orchard--the fences are in\ngood order. The buildings are good dwa'l;r-\nhouse, stable and granary. A further Gcsarfu\"a\nwill be given, and the land shewn to any one 1py-\ning, by the subscriber living on the Plantation\n\n\nWILLIAM i. MINTtRE.\n\n\nl5--t1 Dec",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1210,
+                    "y0": 2624,
+                    "x1": 1696,
+                    "y1": 2677
+                },
+                {
+                    "x0": 1058,
+                    "y0": 2702,
+                    "x1": 1847,
+                    "y1": 3184
+                }
+            ],
+            "bbox": [
+                1058,
+                2624,
+                1847,
+                3184
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-10-26_p4_sn83025530_00271740220_1827102601_0235.json"
+        },
+        {
+            "object_ids": [
+                20,
+                33,
+                2
+            ],
+            "headline": "EX AUTHORITY",
+            "article": "CHARLES POLK, Governor of the said State.\nTO al! persons to whom these presents shall come.\nWHEREAS, on the first Tuesday of October,\nbeing the second day of that month, in the year Of\nour Lord One Thousand Eight Hundred and Twen-\nsy-seVen, Elections tor choice of Representative\nof and for the said State, in the twentieth Congress\nof the United States, in lieu of the Honorable Louis\nM.Lane, and to supply the vacancy in the Represen\ntaton OF this State, occasoned by his election to-\nand acceptance of, the Office of Senator for this\nState in the Senate OF the United States for the term\nof six years from the fourth day Of March last past\nwere held according the laws of said State in the\nseveral Counties thereof, in obedience to wrl!s of\nele ;ton for that purpose issue And whereas,\nole leturns for the said elections, in due manner made\nmu:, signed and executed, have been delivered to\nthe, according to the laws Of the said State, by thu\nresp ctlve Sheras otthe said Counties, and having\nexamined said returns and enumerated and\ntanned the number of votes or each and every can\nddate or person voted for as such Representative,\nl have found Kensey Johns, Junior, Esquire, to be\nthe person highest in vote, and therefore duly cleo\nted the Representative of, and for the said State, in\nlieu OF the Honorable Louis NJ Lane, and to supply\nthe vacancy in the Representation of this State for\nthe Twentieth Congress, in the House OF Repre-\nsentatives of the United States\n\n\n!, the said Charles Polk, Governor aforesaid do\ntherefore, according to the form Of act of the\nGeneral Assembly of the said State, in such case\nmade and provided, declare the said kensey Johns,\nJunior, the person highest in vote at the election\naforesaid and therefore duly elected the Represen-\ntative OF and for the said State of Delaware, to sup\nply the vacancy aforesaid in the Twentieth Congress\nOF the United States.\n\n\nGiven under my hand and the Great\n\n\nSeal. }Seal oft'e State, at Dover, this eleventh\n\n\nS,,,,,,$ day of October, in the year of our Lore\nOne Thous md Eight Hundred and Twenty\nand Of the Independence Of the said State the Fifty\nsecond\n\n\nCHARLES POLK,\n\n\nBy the Gove rnor.\n\n\nJOHN \". CL.IfTON, Secretary Of State.\n\n\nOct. is. 51-4t",
+            "byline": "OF THE ST.lI'E OF DELAWARE",
+            "bbox_list": [
+                {
+                    "x0": 365,
+                    "y0": 311,
+                    "x1": 838,
+                    "y1": 364
+                },
+                {
+                    "x0": 313,
+                    "y0": 372,
+                    "x1": 890,
+                    "y1": 412
+                },
+                {
+                    "x0": 205,
+                    "y0": 415,
+                    "x1": 1016,
+                    "y1": 2300
+                }
+            ],
+            "bbox": [
+                205,
+                311,
+                1016,
+                2300
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-10-26_p4_sn83025530_00271740220_1827102601_0235.json"
+        },
+        {
+            "object_ids": [
+                9,
+                3
+            ],
+            "headline": ".NidcyyetO,cm .Acnden,y.\n\n\nCLASSICAL DEPARTMENT..",
+            "article": "THIS Institution will be opened on Monday\n\n\nthe 22d. of October Inst, under the care\n\n\nof the Rev. JOSEPH WILSON.\n\n\nIn this Seminary students will be thoroughly in\nstructed in the different branches of good English\nand Classical Education, viz Reading, Writing,\nArithmetic, English Grammar, Geography, Compo-\nsit,ou. Elocution, Mathematics, and the Greek and\nLatin Languages. The terms of tuition will be- for\nthe English branches, exclusive of Mathematics,\nS8 per session, or s 10. including the Mathematics;\nfor the Languages, including the English, $40 per\nsession. Tuition money to be paid in advance.\nThere will be two sessions in the year, with .\nshort vacation between each.\n\n\nGood boarding can be obtained in respectable\nfamilies in the village, at the rate OF Forty Dollars\nper session and few boarders can be acconlmo\ndated in the family of the Principal\n\n\nJOHN EDDOWES. Sec'y.\n1GJJjcto,,,n October / 1927 I8--3m\noe-'ro be published in the Elkton Press, s,--ches\ntertown elegrapt--Centreville Tmes-and IN TIT\nE;ston (Md.) papers for three months, and then\nbills forwarded to the Secretary.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1024,
+                    "y0": 298,
+                    "x1": 1804,
+                    "y1": 438
+                },
+                {
+                    "x0": 1024,
+                    "y0": 459,
+                    "x1": 1817,
+                    "y1": 1408
+                }
+            ],
+            "bbox": [
+                1024,
+                298,
+                1817,
+                1408
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-10-26_p4_sn83025530_00271740220_1827102601_0235.json"
+        },
+        {
+            "object_ids": [
+                15,
+                4
+            ],
+            "headline": "TO BE RENTED,",
+            "article": "FOR the residue of the present yeaf, and for the\nensuing twelve months, and possession given on the\n10th November, Mrs. Dauphn's large Stone Man\nsion on Quaker lIill now occupied by the Subs:ri-\nber. To tins airy, commcdious and healthy resi-\n,lcncc is attached III extensive and fertile garden,\ntogether with valuable grass lot. For terms apply\nto II. l.. DAVIS.\n\n\nIFtmington, Oct. 2, 1927. 46-4t",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1171,
+                    "y0": 2204,
+                    "x1": 1705,
+                    "y1": 2261
+                },
+                {
+                    "x0": 1050,
+                    "y0": 2269,
+                    "x1": 1843,
+                    "y1": 2604
+                }
+            ],
+            "bbox": [
+                1050,
+                2204,
+                1843,
+                2604
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-10-26_p4_sn83025530_00271740220_1827102601_0235.json"
+        },
+        {
+            "object_ids": [
+                24,
+                36
+            ],
+            "headline": "BOOKS 6. TAMcY ARTICLES",
+            "article": "For suls ut r. PORTER q SONS Book Store,\n~. %, .Nurket- Street general assortment Of\nBO0kS. in elegant gilt binding and plain,\nl.dTIO.t:QhY. F.1JNCI .aRIICLES, 4c",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1868,
+                    "y0": 2793,
+                    "x1": 2653,
+                    "y1": 2846
+                },
+                {
+                    "x0": 1864,
+                    "y0": 2858,
+                    "x1": 2662,
+                    "y1": 3041
+                }
+            ],
+            "bbox": [
+                1864,
+                2793,
+                2662,
+                3041
+            ],
+            "full_article_id": 37,
+            "id": "37_1827-10-26_p4_sn83025530_00271740220_1827102601_0235.json"
+        },
+        {
+            "object_ids": [
+                27,
+                6
+            ],
+            "headline": "HAMIETON'S ELIXIR.",
+            "article": "A sovereign remedy for Colds, obstinate Cougls,\n.Asthnas, sore Ihroafs, and approachiag Con.\nsummionS, and most disorders of The breast & hags\nA SINGLE TRIAL WILL PROVE, that it\nrestores he deIe, mna,on of the fluids the surface ote\nbody; and bri\"gs on the common healtifu perspuun;\nthat il disodges and tough yscld phepm or\nmucus, stregtens the weakened vessels of the lungs\nheathes the acrimonious humor which rriates them and\nfinally discharges it Thus Striking the root of the dis.\nprde the symptoms of eiIectually and perma\nnen,ly conquered, the of common medicines which\nweaken the constitution and give strength to the DISORDER\nfor the sake OF modeang for the present some of its nam.\niul effects.\n\n\nTo parents who have children afflicted with the\nWHOOPLAG COUGH.\n\n\nThis discoyeryls of the first magnitude as il aiirls i'm\nmediate reef, checks the progress and short time\nrey removes the most cruel disorders which children\narc abe.-rhe elixir is perfectly agreeable and the\ndose 50 SMALL tina M difficulty arises in taking it.\nHanuhon's genuine Essence and erract of Mustard\nsafe and ciiec'ual remedy for acute and chronic rhu\nmatism gout, rheumatic gou pasey, lunlaro numbness.\nwhite s~engs, chilbans sprans, bruises, pain in the\n| lace and neck, &c &c.\nLees AltaiHdle .4gue and Fsuer Drops\n\n\nFor the cure ut asues, remit,en and intermittent evers.\nLEES PERSIAN LOTION,\n\n\nIs an invaluable cosmetic perfectly innocent and safe\nut unparalleled efficacy preventing & removing benses\nIN The face and SKIN, OF every kind particularly ecscs,\npmpes scurt, teers ringworms sun burns &c. rend,t\ning the skn delcaey soft and clear and improving the\ncompieAloD\n\n\nTOOTH ACHE DROPS.\n\n\nThe only remedy yet discovered which gives immediate\nand lasting relief in The most instances.\nTHE RESTORATIVE POWDER FOR THE TEETH\n| AND GUMS.\nThis excellent preparation comforts and strengthens the\ngums preserves the enamel from decay, and ceanses and\nwhlens the teeth absorbing all that acrimonious smeand\nioulness, which, suffered to accumulate, never fails to III\nJure and finally rnin them.\nTIE D.4yMASK LIP SALVE,\n\n\nIs recommended, (particularly the ades) an ee'\ngiant and pleasant preparation for capped aud sore ps\nand every bemsh and Inconvenience occasoned by colds\nf,ers, &c speedily restoring beautiful rosy colour ana\ndelicate sUftness to the lips.\n\n\nHahn's Genuine Eye Uafcr.\n! sovereign remedy for all diseases of the eyes.\n| CORN PLASTER.\n\n\nAn infallble remedy for corns speedily removing theHl\nroot and branch, without giving pain.\n\n\nITCH CURED.\n| Lees Ointment for the Itch.\n\n\nWarranted inallbe remedy one applica'ion rot\ncontaining particle ofmcrcuy any dangerous ingred\nent whatever.\n\n\nThe subscribers have just received the above ar\nticles, fresh from LEES Family Medicine Store in\nMaden-Lane, New ork, and for sale by particular\nappointment in Wilmington,\n\n\n\". Porter G. Son.\n\n\nJuly IS, 1897. s4-h",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2760,
+                    "y0": 2486,
+                    "x1": 3376,
+                    "y1": 2530
+                },
+                {
+                    "x0": 2674,
+                    "y0": 2542,
+                    "x1": 3467,
+                    "y1": 4895
+                }
+            ],
+            "bbox": [
+                2674,
+                2486,
+                3467,
+                4895
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-10-26_p4_sn83025530_00271740220_1827102601_0235.json"
+        },
+        {
+            "object_ids": [
+                23,
+                7
+            ],
+            "headline": "TO .qLL TEACHERS .lJN'D P.aRE.rTS.",
+            "article": "NEW SCHOOL. BOOKS, and improved editions. lust\n~ published aud for sale by JOHN 'lRiGG. No 9. N.\nFourth street. rhadepha and for sale by bookscis and\ncountry merchants gcnefaly\n\n\nTorreys Primer, or First Book for Ch ldren.\n\n\nTorreys Spelling Book, or Second Book Ior Children\n| have examined Mr. j. rorrey's familiar Spelling Book,\nthink great improvement in the primitive and ne less\nimportant branches of education. and small introduce ii\ninto the Seminares under my care, superior to any\nwhich has yet appeared.\n\n\nFebruary 2nd, io2G. IRA HILL, A. NJ\nPleasing Coi,rim for little Girls and Boys, blending\ninstruction with amusement being selection ofnterest\nng stories, dialogues, tables, and poetry Designed for the\nOF primary schools domestic nurseries BY Jesse Tor\nrey, Jr Preferred generally to Murays Introduction and\nworks OF that class. 1orrey Mo- al Instructor, and Guide\nto Virtue This work svttng to be generally alop cd\nin schools and academies, IN place Of Muray Reader and\nworks ofthat class.\n\n\nSmiley Geography anil Atlas, and Sacred and Ancient\nGeography for schoos The increasing demand for these\nbooks, the best evidence nf their value elementary\nworhs. Smiley's Arithmetic. the New Federal Cacua\ntor in collars and celts. ins work contls among other\nimpcstnt improvement Questions the rules and theor!\nArtnnetc which considered by teachers generally\nvery conducive to tl. improvement Of the pupil\n\n\nlhe suns being stugetherin dollars and cents will give\nit decided preference Overany othel arithmetic\nThe future editions will be found very correct.\n\n\na KY 10 the above Arithmetic, in which all the Exam\npies necessary for learner wrought az large and also\nsolutions given for all the rules. Designed prlnci-\npaiy to facilitate the LABOR of tcachers and ,s such\nhave not he opportunity oi tutors aid BY I. T. Smiley,\nauthor OF the New Federal Calculator, &c,\n\n\nThe United States Speaker Compiled by L. L. Smiley\npretered generally to the COLUMBIAN Orator and SCOTS\nLessons and works o that kd by teachers who have ex\namintd it.\n\n\ntrimshaws History If the United Sates.--Also, ques-\ntons adapted to the aoove History, and Key adapted to\nthe Questions, for the use OF teachers\n\n\nGodsnt's England lnprovelb by Grnishaw, with lucs.\ntiuns and key.\n\n\nGoisinh's History OF Greece, improved by CIR msaaw\nwitnn Vocabulary OF the proper names contained III the\nwork and the prosodal accents, ntorts 18th the pro\nnlnclation OF Lempnere-witli Questions and Ky, as\nabove.\n\n\nGolsmth'' History of Rome improved BY Grimshaw\nwith Vocabulary, &c and questions and key, Sc above\nTe,;hers generally, who have examined Grllnsha@ :\nHistory OF the United States, and the improved editions\nSiosns Eng iand Grgece, and Rome. having given them\ndecided preference TO any other histories in Sctoo\nBonkS-aud any person who will examine them wall find A.\nbout 1JoO errors IN each ced; an Teachers o ring\nthese works Will do we'll to say. Gunsnaw's improy\nEdition.\n\n\nAn chronological Dictionary, Analysis Of the Engisi\nLanguage, containing tine Rucas ala. Definitions OF ord\nderived from tne Gre elk. l.tn and rtnch auguagcs\nall the generally used technical and polite phrases adopted\nfrom the French and Latin By William Grlnlsiaw, auho\nct the United States, En-; land, &C.\n\n\nThe second edition greatly improved, and viii b,\nfound valuable class book for acadc mics and schools\n\n\nConversations on Natural Philosophy, i'll which the ele\nmehts ct that tamlArly explained ILLUSTRATED\nwith plates. BY the author Of Conversations un Chemis\n1ry &c With considerable additions, corrections, and in\nPrVemens IN tile body Of the work. app opate qu son\nand glossary II, DR.. Thomas Jones' professor OF\nciancs III the Franklin institute of the of Penasy\nwanna\n\n\nLives OF Marion and Washington, by Weens.\n\n\nWIN aSeiieti and eAeuslye ct all the schot\nbooks IN general USE; All viii be sold on MOI\nreasonable terms.\n\n\n- Teachers particularly requested tie examine tn\nabove school books. Auul IL 1927\n\n\nGr r. Porter Son keeps all the above Books for sa\nat the Publishes plile.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 257,
+                    "y0": 2317,
+                    "x1": 1020,
+                    "y1": 2365
+                },
+                {
+                    "x0": 240,
+                    "y0": 2382,
+                    "x1": 1046,
+                    "y1": 4986
+                }
+            ],
+            "bbox": [
+                240,
+                2317,
+                1046,
+                4986
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-10-26_p4_sn83025530_00271740220_1827102601_0235.json"
+        },
+        {
+            "object_ids": [
+                34,
+                8
+            ],
+            "headline": "Hamilton's Worm Destroying Lozengt",
+            "article": "Which have within sixteen years past cured an immense\nnumber OF persons OF sexes every age and in every\nsituation, OF dangerous complaints arising from\nWORMS, and from obsructons founess in the stomach\nbowels.\n\n\nseason, will effectually prevent the \"yomtnS and\npuiging OF children, dreadful disorder which annually\ndestroys thsAsands Of the infant part Of citizens It s\nlikewise t'e mildest aud most certain remeuy known and\nhas esored 10 health and strength great number when\nin advanced stage of this fatal complaint. Particular\nand plain instructions given for every part of the neces\nsary treatment in such cases.\n\n\nChildren generally take thus medicine with cageness\nhaving pleasing appearance and an agreeable taste\n\n\nHAMlLTON'S GRAND RESTORATIVE\n\n\nIs recommended invaluable medicine for the speedv\nrelief and pei iInanenl Of\nNervous Disorders, Violent Cramps in the\nC\"hSumpuons, stomach and back,\nLowness of Spirits Indigestion,\nLoss Of Appetite, Nelanchoy\n\n\nlmpurity Of the blood, Gout IN the Stomach.\nilystericai hrectohs, Pans in the Limbs\ninward weakness, and Debility, Relaxaions SC. &C.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2661,
+                    "y0": 1585,
+                    "x1": 3415,
+                    "y1": 1638
+                },
+                {
+                    "x0": 2661,
+                    "y0": 1645,
+                    "x1": 3454,
+                    "y1": 2482
+                }
+            ],
+            "bbox": [
+                2661,
+                1585,
+                3454,
+                2482
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-10-26_p4_sn83025530_00271740220_1827102601_0235.json"
+        },
+        {
+            "object_ids": [
+                16,
+                10
+            ],
+            "headline": "Super-royai Paper.",
+            "article": "The subscribers keep constant supply of Super\nroyal such as this fuper is printed price S3 50\nalso Medium a'G vher print'ns and 'eriag pupers.\nSep. IL. Il. PORTER s. son.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 357,
+                    "y0": 5011,
+                    "x1": 999,
+                    "y1": 5090
+                },
+                {
+                    "x0": 283,
+                    "y0": 5097,
+                    "x1": 1068,
+                    "y1": 5250
+                }
+            ],
+            "bbox": [
+                283,
+                5011,
+                1068,
+                5250
+            ],
+            "full_article_id": 11,
+            "id": "11_1827-10-26_p4_sn83025530_00271740220_1827102601_0235.json"
+        },
+        {
+            "object_ids": [
+                25,
+                11
+            ],
+            "headline": "Notice.",
+            "article": "The Bonds and Notes given for property purchas.\ned at the Sales of DAVID HleeINs, deeds ner.\nsoual property are all now due. Those indebted\nrespectfully informed that the situation Of the Es\ntate admits Of delay; and that they must not eY.\npect any indulgence. Payment may be made to eth.\ner of the subscribers.\n\n\nhl THOMAS .oH ]. HiGGiNs.S Gii Alm''s.\n\n\nSep 90, 1897. 46-4t",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2903,
+                    "y0": 268,
+                    "x1": 3181,
+                    "y1": 343
+                },
+                {
+                    "x0": 2643,
+                    "y0": 355,
+                    "x1": 3437,
+                    "y1": 737
+                }
+            ],
+            "bbox": [
+                2643,
+                268,
+                3437,
+                737
+            ],
+            "full_article_id": 12,
+            "id": "12_1827-10-26_p4_sn83025530_00271740220_1827102601_0235.json"
+        },
+        {
+            "object_ids": [
+                31,
+                12
+            ],
+            "headline": ".M Cnullcy g. Rice,",
+            "article": "South Vest Of, and near to, Brdmdy1etne MAILS,\nIn and adjoining the store formerly conducted by\nMr.. John Rice, as grocery--where II may net DC\nof disadvantage to call and examine ior themselves\nThe following compose part of their assortment\n\n\nDRY GOODS\nSuperline broad cloths and cassimers,. assorted\ncolors; linen and cotton drings, yellow and blue\nimpored and domestic nankn, Vaentla, Marseilies,\ntonet and Florentine vestngs; black, PLAN and\ntwillcd bombazets; Circasslan ginghams, calicoes,\ncanbric, bleached and brown shirtlng and sheeting\nmusns, Irish linens, long lawns and cambria linens\nLeyentines, Florences, Gros de Naples, lutestrins\ntlag and bandanna hdlts. Cotton ard linen do. white\nand coored canton Grape and Grape shawls, green,\nwhite and black Italian do. worsted and cotton hose\nand suspenders, Yorl-tan and beaver gloves, lla\"-\nskins make of kid gloves of superior quality, white\nand colored domestic plaids and stripes; taDby,\nbane-up and Ptsbnrg cords; fustnas and drillings,\nilannels, furniture and apron check; SWISS, null,\nbook and Jackonet muslins; Sd, 5-4 and I'D diIny,\ncrash, diaper and table linens, bedtlckng hussla\nand imitation sheeting, bleached and unbleached ;\ncoarse linens Osnaburg and Bu;lap's, Porter and\nLancashire sheetngs; Wilmington, Jackson, Adams,\nand jefferson stripes jeans, Garcia stripe, glng-\nhams, black and brown holland, sacklns- bottoms,\nsowing silks and sowing cottons, senshaw sarsenet,\nblack and light coiorcd lasting, &c.\n\n\nGROCERIES.\n\n\nSugar, tea Coffee molasses. ionr, mackerel, in\nbbls and half bbls. ginger, alspce, pepper ground\nand in the grain, nutmcgs, cloves, sc. Together\nwith general variety of liquors and sea stores.\n: P.lLN9IS .4.ND OILS.\n\n\nWhite lead, black lead, red lead blue, red ycl-\nlow oclirc, Prussia blue, chronic yellow verdiglls\nground and dry, patent green, fig blue, logwood\n&c. winter, Summer, common, castor, linseed, ant\nsweet oils\n\n\nEartten China, glass and Queensoarf.\n:. Having purchased the above goods chiefly at auc\nton We are certain we can sell them at the mos\nreduced prices TO those who may favor us will\ntheir custom.\n\n\n, SAMUEL. M'CAULLEY,\nJOHN RICE.\n\n\nJune 22, 1927.\n\n\nn. p. We have in addition to the above just re\n. cniued nln.,r.l un.nrtInnnt of LnShionnhIe Hoo",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1872,
+                    "y0": 576,
+                    "x1": 2588,
+                    "y1": 659
+                },
+                {
+                    "x0": 1829,
+                    "y0": 671,
+                    "x1": 2644,
+                    "y1": 2651
+                }
+            ],
+            "bbox": [
+                1829,
+                576,
+                2644,
+                2651
+            ],
+            "full_article_id": 13,
+            "id": "13_1827-10-26_p4_sn83025530_00271740220_1827102601_0235.json"
+        },
+        {
+            "object_ids": [
+                19
+            ],
+            "headline": "",
+            "article": "SIaTIONahY, FaNC( .AR1ICLES, Sc.\n\n\n&c. &c. at reduced prices among 7ptich are\nFANNY aud pock, i,ibes Websle's Spelling Books\nWalkers Dictionary Enslsn headers\n,lnsworths Latin do ntioductions\nVirgil Delphai sequels\niI.racc do slur.ay's Grammars\nGrt ok Lcxcons Comly's do\n\n\ndo. .,staments Ca des do.\nPaul and Amcus Gree nlcat's do.\nRollins Ancient History lack iayard\nspectator tiarts OF Steel\nNJ 1ses' Amer'n. Revolution nighanders\nHutton, Mathematics Spy\nGunmery' IS surveying Randolph\nrl.yia'r's Euclid segur's Expedition\nVillage sermons Flanck\nJosephus ltedgaunret\nLees Campaigns Three spanards\nByron's Works Mathematical Instruments\nBurns do. Scales and Dlyiders\nScottish Chiefs Penknves\nGil Bias Scissors\nTestaments plain and gilt Gold and silver Pens\nPsalmsgl HYMNS do. do Pocket Books\nMorses' Gazetteer Windsor & Fancy soap\nCommon Prayer Book Seating Wax\nHawkins Plea to the Crown Office Waters\nt,rlnshaW's U. States common do.\n\n\nDO. do. England kued writing & letter paper\nAdams Geography & Atlass Paint Boxes\nWUrcesteps do. do. ICamels Hair Pencils\nCummns' do. do. nlack Lead do.\nSmieys do. do Visiting Cards\nBcnnet's Arithmetcs Shaving Boxes and Brushes\nJess do. Razor Straps\nPixies do. Pocket Ivory Combs\nLewis do. Durable Ink,\nDo. Algebra 'lnkstal,ds\n\nBonnt caste's do. States\nDo Mensuration Do Pencils\nComlys spelling Books lParchment fine quality &c.\nCopy and Cyphering, Memorandum and Receipt\nBooks, &c.\n| White and Blue Bonnet Boards.\n| Day Books and Ledgcrs.\nWriting paper, hot pressed, gilt. &c.\n| Letter do. do. Wrapping do,\n\n\nMagistrates and other Blanks.\n\n\nPAPER AZ sSs .:.4ANG.NGsa\n\n\nGreat variety, from 25 to 60 cents per peice.\n\n\nBEANzk BOOKS,\n\n\nor every size; made to any pattern, elegant du.\nrable and cheap, suitable for Banks Public Offices,\nMerchants, &c.\n\n\nX. Porter & Son, having laid in fresh and\nextensive stock of goods in their line, at very reduc\ned prices, will be enabled to supply them wholesale\nand retail, at Philadelphia prices generally.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1864,
+                    "y0": 3001,
+                    "x1": 2675,
+                    "y1": 5046
+                }
+            ],
+            "bbox": [
+                1864,
+                3001,
+                2675,
+                5046
+            ],
+            "full_article_id": 20,
+            "id": "20_1827-10-26_p4_sn83025530_00271740220_1827102601_0235.json"
+        },
+        {
+            "object_ids": [
+                22,
+                30,
+                26
+            ],
+            "headline": "Valuable Medicines.\n\nHAIIN'S .9NTTBILIOI7S PILLS",
+            "article": "The operation of tl--e Pills is perfectly mild so b\nthey may be used with safety by persons every saor\nand of every age. '''\n\n\nThey excellently adapted carry off supe auou.\nbile, and prevent it's morbid secretionsio restore aJ\namend the appee-to procure free perspiraton. AMI\nthereby prevent colds, which often have fat\n\n\ndose fails cold, if taken on its r,, an\npearalce.\n\n\nThey celebrated for removing habitual co,t,eoc\nsickness the stomach, and head ache and on\n10 be taken by all persons change of climate o\"'\n\n\ndose of these pills, taken every two weeks drr\nthe prevalence of bilious fevers, will prove AN nl\nBILE prevenye and in the earlier stages Of those diseases\n\n\ntheir will very generally succeed in restoring health\nand frequently esteemed desperate and beyond ,e\npower of common remedies\n\n\nThey found remarkably eicacous in preventing ,pa\ncuring disorders attendant long voyages, and should be\nprocured and carefully preserved for by every seaman",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2682,
+                    "y0": 753,
+                    "x1": 3407,
+                    "y1": 841
+                },
+                {
+                    "x0": 2726,
+                    "y0": 861,
+                    "x1": 3372,
+                    "y1": 910
+                },
+                {
+                    "x0": 2648,
+                    "y0": 922,
+                    "x1": 3446,
+                    "y1": 1581
+                }
+            ],
+            "bbox": [
+                2648,
+                753,
+                3446,
+                1581
+            ],
+            "full_article_id": 27,
+            "id": "27_1827-10-26_p4_sn83025530_00271740220_1827102601_0235.json"
+        },
+        {
+            "object_ids": [
+                32,
+                28
+            ],
+            "headline": "NEW STORE\nJust OpeneN",
+            "article": "The subscribers beg leave to inform their tr'cnas\nand the public generally that they have commenced\nthe Dry Goods and Grocery Business, under the\nfinn nf",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1916,
+                    "y0": 277,
+                    "x1": 2523,
+                    "y1": 421
+                },
+                {
+                    "x0": 1825,
+                    "y0": 433,
+                    "x1": 2627,
+                    "y1": 577
+                }
+            ],
+            "bbox": [
+                1825,
+                277,
+                2627,
+                577
+            ],
+            "full_article_id": 29,
+            "id": "29_1827-10-26_p4_sn83025530_00271740220_1827102601_0235.json"
+        },
+        {
+            "object_ids": [
+                29
+            ],
+            "headline": "",
+            "article": "June 22, 1927.\n\n\nn. p. We have in addition to the abo, just re-\nceived Il general aasortnen; of fashionable Moot\nand Fur HATS, commission, from the well\nknown factory of lsAAc snorwrLl, No, AZ, south\nFront Street, Phladcph pha--which will be sold low.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1859,
+                    "y0": 2546,
+                    "x1": 2662,
+                    "y1": 2772
+                }
+            ],
+            "bbox": [
+                1859,
+                2546,
+                2662,
+                2772
+            ],
+            "full_article_id": 30,
+            "id": "30_1827-10-26_p4_sn83025530_00271740220_1827102601_0235.json"
+        }
+    ]
+}

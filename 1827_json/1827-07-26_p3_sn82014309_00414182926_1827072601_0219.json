@@ -1,0 +1,1004 @@
+{
+    "lccn": {
+        "title": "The Litchfield County post.",
+        "geonames_ids": [
+            "4837799"
+        ],
+        "dbpedia_ids": [
+            "Litchfield%2C_Connecticut"
+        ],
+        "issn": "",
+        "lccn": "sn82014309",
+        "start_year": "1826",
+        "end_year": "1829",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [
+            "sn84020071"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn82014309",
+        "edition": "ed-01",
+        "date": "1827-07-26",
+        "pages": [
+            "seq-3",
+            "seq-1",
+            "seq-4",
+            "seq-2"
+        ]
+    },
+    "page_number": "3",
+    "scan": {
+        "lccn": "sn82014309",
+        "edition": "ed-01",
+        "date": "1827-07-26",
+        "page": "3",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-07-26/ed-1/seq-3.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-07-26/ed-1/seq-3/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-07-26/ed-1/seq-3/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/ct_barnum_ver01/data/sn82014309/00414182926/1827072601/0219.jp2",
+        "height": 7424,
+        "width": 5059
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2894,
+                "y0": 6072,
+                "x1": 3771,
+                "y1": 6821
+            },
+            "class": "article",
+            "raw_text": "Tn Plymouth, Mass. after short illness, Alexander Bliss, Esq Counsellor at Law, of Boston, nd partner of the Hon. Daniel Webster Mir. B.graduatcd at Yale College, in 1912.\n\n In Bethlem, on the 9th inst. Mir. Spencer Gibbs a Revolutionary Pcnsoner, aged 67. On the l9th sud- denly, Mir. John Lines Strong aged 38.\n\n In Harwnton, on the 18th inst. Dr. Benjamin Gris- wod, aged70.\n\n In Edgartown, Mass on the 18th inst. the Rev. Jo- seph Thaxter, aged 83-the last of the Revolutionary Chaplains.\n\n InPcersham, Mrs. Lydia, wife of Mir. Israel Hough- ton. The circumstances attending her death were vc- ry singular. Mir. H. had just returned from meeting went to the closet for refrcshment, and while eating became choked. After recovering, he returned to his wife and said, If this violent cough had continucd one moment longer. you would have been widow !'' \"Then, said she, i've should have both gone togeth- err\" and immediately expired.",
+            "legibility": "Questionable",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 3231,
+                "y0": 6008,
+                "x1": 3441,
+                "y1": 6061
+            },
+            "class": "headline",
+            "raw_text": "DfED",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1091,
+                "y0": 249,
+                "x1": 1973,
+                "y1": 720
+            },
+            "class": "article",
+            "raw_text": "Sc known that the \"OrpOstiOA\" WAs nOs al 'haa tESe ''organzcd\" 1\" and of oOurse kneN nOt whaaehargcs it would Dc necessary bring against the adminisra tion who should be put forward as public accasers; and ef course, exposition of corruption, intrigue, &c., the charges not having then been invented could be brought forward in opposition to Mir. Clay's ap pOinunent. .\"-tWOnder whether George Kremer, of Penn. had not hand in inventing the charge of bar gain and sale ,-it looks very like him.l",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3793,
+                "y0": 5382,
+                "x1": 4676,
+                "y1": 5998
+            },
+            "class": "article",
+            "raw_text": "\\ HE subscribers being, by the Hon. Court of Pro. bate for the district of Sharon appointed Commission CTS to receive, examine and adjust the claims of the several creditors to the estate of\n\n ANDREW CHAPIN,\n\n late of Wocott, county of Wayne, and state of New York, deceased, represented insolvent hereby give notice that we shall meet the business of the atore- said appointment at the dwelling-house of Phineas vember and December next, at one o'clock in the af- ternoon on each of said days Six months are allow ed from the 16th of inst June for said creditors to exhibit their claims. II]\n\n ROBERT BALL, ! sioners ,, Salisbury, June Seth. l827 $",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 3828,
+                "y0": 5307,
+                "x1": 4635,
+                "y1": 5365
+            },
+            "class": "headline",
+            "raw_text": "ANDREW CHAPIN'S ESTATE.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 3788,
+                "y0": 835,
+                "x1": 4664,
+                "y1": 1462
+            },
+            "class": "article",
+            "raw_text": "w ILL be sold at public Auction by order of the Hon. Court of Probate for the District of LitchIed, on Monday the 18th day of August next at o'clock in the afternoon all the personal and much of the Real Estate of Capt. Joseph Mansfield, late of said Litchfeld deceased, as will raise the of six hun dred and nnety-nine dollars and seventeen cents.- The sale vii be made on the premises, at which time and place the terms will be made known.\n\n Dated Litchfcld, July 20, 1927.\n\n JOHN T. MANSFIELD, ErccutOr.\n\n By his authorized agent,\n\n 6 ELIHU HARRISON.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 4078,
+                "y0": 748,
+                "x1": 4369,
+                "y1": 812
+            },
+            "class": "headline",
+            "raw_text": "NOTICE.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3793,
+                "y0": 290,
+                "x1": 4676,
+                "y1": 731
+            },
+            "class": "article",
+            "raw_text": "9 To lhe writer of the bcsi Original Poem, of not more thaa 100 or less thaa 6olincs, e3o.\n\n 3. To the writer of the bcss Original EsSsy, S00.\n\n {. To the writer of the bca Original Biographical Sketch, S20.\n\n The Prizes to be distribused January lst, 1893.\n\n All communications intended Ior the premiums must Dc addressed postpaid, the publisher, hp Price, Philadelphia accompanied by sealed nOte, contain ing the name of the wier which will in no case be opened unless when the prize has been awarded.",
+            "legibility": "Questionable",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3770,
+                "y0": 1461,
+                "x1": 4670,
+                "y1": 5354
+            },
+            "class": "article",
+            "raw_text": "LtTCHFIELD COUNTY SS.\n\n SUPERIOR COURT, FEBRUARY TERM AID. 1G27 Philo Collins and others, }\n\n Samuel Chapin and others\n\n TPON the petition of Philo Collins of Goshen in \" said County, and of Moses Wadhanls and Lewis C. Wadhams both of said Goshen, as Administrators upon the estate of Moses Wadhams late of said Co., shen deceased, and of Heman Beach, of Ltchfeld in said County, shewngt to this Court that Guy Wadhams and Augustus c. Chapin, both of said Goshen mer- chants in company under the name and firm of Wad- hams S5 Chapin, sold, transferred, and conveyed to David Wadbams, Samuel c. Chapn, Truman Starr and Timothy Collins, all of said Goshen, a large a. mount of personal property, by deed of assignment bearing date on the 4th day of March, A. D. 1919, in trust for the payment of debts due to sundry creditors therein specified (viz pay, first certain debts due from them to the President Directors and Company of the Bank of the United States and to the President Directors and Company of the Phoenix Bank, and to indemnify Amasa Cook, late ofsaid Goshen, deceased John Osborne of said Goshen, and said Philo Collins and said Heman Beach, against certain liabilities therein specifed assumed to said Corporations by the said Amasa, John, Pho, and Heman, to secure said debts at the request and for tho benefit of said Wad l hams & Chapn. 4a\n\n Secondly, to pay certain debts due from them to said David Wadhams, Thomas Griswold, Amasa Cook, Timothy Childs, Philo Collins Augustus Miles, Sam uel Chapin and David Thompson, all of said Goshen and Matthew Grant of Torrington in said County.- Thirdly to pay certain debts due from them to Timo- thy Collins, Truman Starr, Moses Wadhams, and Phi\n\n \n\n otsaid Ltchfeld. Fourthly, to pay certain debts due from them to Thomas Burtch Jonathan Buel, and Mi cajah Barnum, all of said Goshen, Luther Miner, of Cornwalli in said Couny, Wm Denison of Stockbrdge County of Berkshire and Commonwealth of MasSa. chusetts, David Page ofsaid Litchfeld and Matthew Grant of said Iorrington Fifthly, to pay certain debts due from them to Isaac Baldwin, Joseph Gay lord, and Beebe Wadhams, all of said Goshen, Abi- lah Barber and Benjamin Phelps, of said Torrington, Benjamin Carter, of Warren in said County and Isra. el Coe, of ofWaterbury in New Haven County, and f. nay, to apply and appropriate the residue If any) af ter the deduction of reasonable cost and expenses to the payment of all other debts due from said Wadhams & Chapn in just and equal proportion, ayerring that the creditors referred to in said last clause are not known to the petitioners, and praying that the said Wadhams x Chapin may disclose the same that they may be made parties to said B and that an account may be taken of said property and othe avails there debts due as aforesaid from said Wadhams & Chapin to said petitioners and the said Wadhams & Chapin having appeared in Court have disclosed tue names of said i creditors, viz Ceghas Ives, Tyranus Futile, mos Webster, and Archibald Austin nall of said Goshen Amos Bishop of said Litchfeld, James Kidney Benia- min Doole, and Albert Blake, ofsad Cornwall, Eie- said Warrcn, Jehiel Forbes and William J. Forbes. l Hezekiah BeldeR and Wm. c. Leiingwel John Bab- cock and Sidney Babcock, all of New Haven in New Haven County, excepting Hezekiah Belden, who is of cock, who is absent from this State in parts unk nown ! John Aspenwall, Wm. W. Woosey and Abraham M Woolsey, Robert Chcesebrough and Robert Patterson, l John Cheesebrough and Wm. Cheesebrough all of the city, county, and state of New ofk and Philemon k. Starr of said city, and Garrit Smith of Watertown in said Itchfeld County, being all of the creditors of the said Wadhams & Chapin referred to in said last clause.\n\n Ordered, that this petition be continued to the Su- perior Court to be holden at Litchfed on the Sd Tues day of August next and that notice be given to all of the said creditors residing of this stae by publish ing this order in the County Post paper published ii, said Lhchfeld, three weeks successively before the twentieth day in August next, and that the said cred tors disclosed as aforesaid residing within this State be summoned and notified to appear before said Court by reading this petition citation and order in their presence and hearing by leaving true and attest ed copy of the at their usual place of abode, by some proper officer orndierent person, twelve days before the said ad Tuesday of August A. D. Isag when and where each and every of said creditors are requested to appear to shew reason f any they have why the prayer of said petition shall not be granted. | By the Court, l5 FREDERICK WOLCOTT, Clerk. ANDREW CHAPIN'S ESTATE",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 3776,
+                "y0": 1484,
+                "x1": 4653,
+                "y1": 1595
+            },
+            "class": "headline",
+            "raw_text": "LtTCHFIELD COUNTY SS.\n\n SUPERIOR COURT, FEBRUARY TERM AID. 1927. Phlo Collins and others, }",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2894,
+                "y0": 5753,
+                "x1": 3771,
+                "y1": 5998
+            },
+            "class": "article",
+            "raw_text": "In North Haven on the 18th inst. by the Rev Mir. Moves, Rev. Samuel H. RiddeIl, of Glastonbury, to Miss Harriet Angeine Ray, of the former place.\n\n In Goshen, Mir. William T. Clark to Miss Chloe Lobdeil.\n\n In Berlin, MT. Cyrus Francis to Mss Nancy D. Pratt.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3138,
+                "y0": 5689,
+                "x1": 3528,
+                "y1": 5742
+            },
+            "class": "headline",
+            "raw_text": "@aR9 D",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2900,
+                "y0": 6861,
+                "x1": 3777,
+                "y1": 7071
+            },
+            "class": "article",
+            "raw_text": "Premiums. editor of \"The Souvenr,\" a weekly miscellaneous paper just commenced in Phila- dclphia, oHcrs the following Premiums.\n\n ]. To the writer of she best Original Tale, &3n",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1079,
+                "y0": 841,
+                "x1": 1973,
+                "y1": 6398
+            },
+            "class": "article",
+            "raw_text": "London Courier of the evening of June 9th, contains the foowing:-\n\n l \"The Algemine Zeitung of the 2d of June states | that the British Ambassador at COnstantinope had of despatch, announcing the entire defeat of the Turks before Athens, on the 18th of April, loss said to be 10000 men. Ratesbon letters of the 29th of May, confirm the above and states that the Turks successvely driven from ali their entrenchments and forced to abandon all their artillery and baggage 1 The Lord High Commissioner of the Ionian Islands on the 18th of May, despatched Courier from Cor tu to London with another confirmation of the aboVe.\" It is likewise stated under the date of Augsburgh May 3l, that the British Ambassador at Consantino pie had of despatch announcing the grate i ful intelligence.\n\n dressed circular to its aes in which 1t is intlmated that in consequence of the latest declaration of the Porte, there remained scarcely any hope that it would listen the dictates of justice and moderation, unless cOersve measures adopted, and proposed that certain time be peremptory fixed, within which ! the Porte must declare itself and which period 1 fixed for the middle of June.\n\n The Paris Etoile of the 7th contains article menting on one in the London Times, respecting the interference of the great powers in the affairs of Greece. The observations of the Etoile correspond with those of the Times, and 1t is therefore inferred by the London Sun, that the question respecting Gre l cian independence will be soon set at rest. 1 The Paris Moniteur of the 9th that val division has sailed from Toulon, for the purpose of obtaining satisfaction for gross insult offered to the Consul General of France at Agiers, by the Dey, well as for other causes of complaint.\n\n The engagements of the government of Hayti with France, are likely to be fulfilled Two vessels had rived at Havre, with assignments account of the indemnity, and two six months nsalments to be | paid on the Both of June\n\n The English ports open until the 18th of Au- gust for foreign oats, at 4d. per quarter.\n\n The Marquis of Anglesea is said to be actually ap pointed Lord Lieutenant of Ireland\n\n SPAIM.-Madrid letters announced the appear ance of Constitutional Gueras in Arrogan and other ntn 5nfS Sno1n fro ft nnoh my is withdrawn from Spain, another struggle for Constitutional liberty would be the consequence. In deed from the details given in the French official papers, appears that Spain is convused from one extremity to the oher.-But have the bgots of that country repented of their work, their preten- slons less lofty By no means.\n\n In the meantime the Archbishop of Toledo thinks all will be well if he only exclude foreign books and journals and prevent transations. No mercy is shown to the translation of the psalms of David. The Spanards not very nice in theIr Chronology, | and as David was unquestonaby Jew, the good Archbishop probably deems him affected by the laws against Moors and Jews in that Kingdom old Chris ! tians. latterer wished to compliment Spaish Gran dee compared him Solomon, which the Grandee, not being read in Scriptures, deemed comparing him to usrer or old cloathsman, and considered mor- tai affront. 1t IS dangerous to have Old Tesa- ment name in Spain as a New Testament name in | England\n\n ! The ship Chariot, Pratt at Boston, from London, has brought paper of the 9th of June It appears that Lord Cochrane in the vicinity of Poros, and had purchased forty vessels, which would be ready a. bout the middle of May; with which he intended to attack the Turkish fleet at Tenedos. Capt. Hastings had taken six Turkish vessels laden with provisions Sc. Every thing tends assure us, that the Greek cause is in favorable train.\n\n letter received in Salem, states that a war had l been raging for six months between the Raiahs of Qualabattoo, Sooso and Anaaboo, and the Raiah of Troumond. A ship of IA guns was bIockadng the port of ouaabatoo, preventing all vessels from ra- m were prevented from trading. There was considera- ble pepcr at Quaabatoo and the natives desir- l ous of having the Dephos trade when she stopped, but Capt. Porter did not think it prudent he would have been exposed to the fire from battery shore, 1 and from the ship.\n\n 1 The New Times of June 9th says, \"From the Pa- Etoile of Thursday we extract some articles of n- terest with respect to Greece, both regards the military operations still carrying on there, and the progress of the negotiations for converting into ty, common to all the allied powers the Protocol of St. Petersbugh The latter seems to be drawing to a close, and we hope the time is not far distant now, when the voice of civilized Europe will be authora-\n\n lively raised to arrest the sanguinary strife, between fanacism on the one hand and serni-barbarous sp- | rit of liberty the other. The struggle has now been carried on long enough to prove that the i. sceptre of Mahomedan despotisin is forever bro ken; and itbehoves the great and influential of Christen ndom to unite in one common effort to stay !\n\n l Extract of mercantile letter, dated Constantino- pie, May 10 :- Lord COchrane was in the vicinity of Paros, and purchased forty Greek vessels which he was furnishing with rockets and other mplments of destruction. It asserted that this armament would be ready on the 18th May, and that Lord Cochrane would then sail for Tenedos, to wait for the Turkish\n\n fleet. Meantime, Capt. Hastings has taken in the | Gulf of Seo, six Turkish vessels laden with amuni- ton, and has burned four others. He thus has pla- ced the Seraskier, who depended upon these supplies\n\n in very embarrassing situation. All these accounts\n\n have considerably irritaed the Sultan and the Divan. | \"On the other hand, it is said that Tartar is gone the Dardenells with orders to the fleet not | to quit the Hellespont. After several meetings of\n\n the Council of State the Porte is said have eau l scd Mr. Stratford Canning to be asked if it at\n\n war with England, since it's troops had to combat fewer Greeks than English Every thing appears to\n\n announce cr,ss, which must lead to decisive re- | suit the question of the affairs of Greece From the Palladium office, Boston, July l6.l FROM CANTON.\n\n | Extract of letter from an officer of an American\n\n merchant vessel, dated at Lintin, March 20, 1897.\n\n .\"On the lst inst. there was battle between five\n\n boats of the Americans and English lying in this port\n\n and two Chinese Mandarin boats, and one of their men Ot wars launches, occasi0ned by pass boat l coming down with orders for the ship Citizen, of 1 New-York to proceed up to Canton. The Manda-\n\n rins took the pass boa and were towing her towards the Chinese vessel of war--when the Americans and\n\n English manned their boats and went in pursuit. In\n\n about half an hour the foremost boat came up with\n\n them---muskets were fired and stones were thrown\n\n from the Mandarin boats but other boats coming\n\n up they began an attack and succeeded in re-takius\n\n the pass boat and orders, and proceeded the Cit zen. | heard the 2d that MandaFines were",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1212,
+                "y0": 748,
+                "x1": 1857,
+                "y1": 801
+            },
+            "class": "headline",
+            "raw_text": "GREAT NEWS FROM GREECE!",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2877,
+                "y0": 353,
+                "x1": 3760,
+                "y1": 5737
+            },
+            "class": "article",
+            "raw_text": "as'ical Society in this town lo become ihcifpas,or and it is expected she will beoTdained the 3dlday Oct. neNi.-In mentioning this cireumaance,so pleas ing to the Church and Society,\" have been rcquos, cd to insert the following hymn:-\n\n The Peopie's Praysr fSr thsiy: Minister. With heavenly power o Lord, defend\n\n Him whom we now to thee commend\n\n His person bless, his soul secure,\n\n And make him to the end endure.\n\n Gird him with 'aII-suficient grace, Direct his feet inpaths of peace; Thy truth and faithfuness fulfil,\n\n And help him to obey thy will.\n\n Before him thy protection send:\n\n love him, save him to the end!\n\n Nor let him, as thy pilgrim, rove\n\n Without the convoy of thy love.\n\n Enlarge, enfiamc, and Gl. his heart,\n\n In him thy mighty power eNert\n\n That thousands yet unborn may praise\n\n Tine wonders of redeeming grace.\n\n Spontaneous Com6ustion.-On Sabbath evening the 10th inst between 10 and Il o'clock the people in the the vicinity of the Wooen Factory belonging to Cha pin, Collins Walter, of Goshen, were alarmed with the cry of fire. It was found to proceed from small quantity of card waste, which had! been removed from the Factory only three days previous and placed Tn situation from communicating to any build- ing, Ill order to try the experiment.; there had been ran upon it-but Ii was exposed to the ravsof the sum- and was quite warm when 1t was removed.\n\n lhs may another admonition to Manufac- urerS not to Ietthe waste from the cards remain where It can communicate with any combustibe material, as experience fully proves the danger of the practice.\n\n There is no one sentiment advanced by the friends of Theatrical amusements more contemptiby rdicu- lous then that theatres are schools of virtue i\" oras Southern writer has it, next to the pulpit the best aac. said, in his day, when characters Hike Johnson, Young, and many others were ranked patrons of the Stage, that the theatre was Stew oflicentious- ness\" How we'll the New-York managers exempli- fy ths assertions may be learned from the following short extract from the N Y. Spy, or Dramatic Re postory, paper devoted almost exclusively the n- terest of the theatre, whose editor approves of Mad am Hutln, the halt-naked female dancer will serve to show. Yet this editor admits communication, Whlch charges the managers 0a one of the thea tres with admitting prostitutes to the plays gratis for the purpose of making money. The words of the writer are :-\n\n \"Free admissions now being dispensed to the pub- c courezans Of the town, in order that their vile par amours may be induced to follow them, whereby the receipts of the house may be nightly increased: and the profits oflesees of the saloons greatly enhanced in consequence of the greater demand for the various species of intoxicating beverage\" These, fellow citizens, Sse some of the teachers in this school of morals !\n\n The editors of the N Y. Observer farther, saw The National Anniversary of Independence was celebrated in this city on Wed lesday, and more fight and other vices of the Thcatre-schoo we never witnessed in one day before. And why should it not be SO? Formerly we had but one Theatre. Now the number IS increased to six, and if the number of pu- competition has produced refinement in the method of instruction which cannot be without its effects\"\n\n From all parts of the country We have the most cheering reports in relation thesabundanco of the crops. It is said that the crops in Vermont have not given greater promise of an abundant harvest for the last twenty, than they do this year. With us, grass and English grain were better than they this and certain garden vegetables are some- what backward but the plants look healthy and the farmers indulge the well grounded hope, that the at- ter harvest will as amply repay their oIs the har- vest now gathering in. ...\n\n We yesterday visited the cheese dairy of Can't Tim othy Collins, of Goshen and are free to declare it the most pleasing sight of the kind we ever witnessed Mr. Collins makes what are very appropriately called, \"Pine Apple cheeses,\" from the great resemblance they bear to that elegant and delicious fruit The cess ofpressng drying and preparing them for market IS both novel and interesting to those who only guainted with the common method of cheese making. Mr. C. makes about l2 these cheeses daily weighing seven pounds each and which will sell for from 12 to 20 cts per pound. With the exception of the orna- mcnt which these cheeses would be to well set ta- ble, they can possess advantage over the common kind, but for transportation to clmates,in which they will keep perfectly safe There several other large daires in Goshen, where cheeses of the same kind made.\n\n l The F.anklin Bank of Neac Jersey has stopped payment. But the President of the Bank has ad- vised the holders of the bills not to make any sacri- | flee.\n\n Caution-At Southington, C,. mother gave her little child an open knife, in compliance with its i'm. pOrtunity, and passed out of the room. In nome n she heard her infant scream, returned, and beheld corpse. The child had fallen upon the point which entered its left side, and pierced it's heart. ! Morgun.-I'he excitement relative to the abduction l of Morgan to have been subsided generally It is said, however, that convention of about 300( persons lately assembled at Batavia, and passed spir 1 tied resolutions; and that a company are engaged l in dragging the river and lake, to find the body O | the victim.\n\n ] 4 green old age.-Mr. Joseph Moore, of Ellsworth Me. now in his 78h year, is stated in the Ellsworth Courier to have made with his own hands, during the last nine months, 56,000 good shingles, which have been sold for $l66 besides attending to the work of l farm. He can lIoe now rake much in a day as I common man can do.\n\n It is reported that the venerable Charles Carroll the ony survivor of the Signers of the Declaration of In dependence, has given $70,000 towards the Maryland and Ohio Rail Road. The Rail Road Scrip. is at 100 l D. C. advance. Aa4R3RE7sn",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1972,
+                "y0": 469,
+                "x1": 2878,
+                "y1": 6015
+            },
+            "class": "article",
+            "raw_text": "POndcnce is now demanded by several of the public papers:\n\n So far as VIC have been able to find out, Tumor is, | that Mir. Southard in conversation with somebody, | somewhere took occasion tO state that some of the credit of defending New-Orleans, should be paid to Mir. Monroe, then Secretary of War, for the promp- titude with which ho had moved men and munitions | for its defence &c.--Gen. Jackson was informed of the remark, took offence at the terms in which this was expressed by Mir. $. and sent him angry note thereupon by friend, perhaps by Gen. Eaton. To this note Mir. SOuthard wrote reply and handed it to Gen. E. who refused to receive it because was seal 1 cd He had brought an open note and expected the } reply to be accordingly. 1 Mir. s. remarked, that he had only known Gen. Ea- ton as the bearer of note from Gen. Jackson, and supposed he would have no objection to take the an he had prepared for that note. As he declined however, he would avail himself of the Post Office 1 through which he accordingly sent it. Upon receiving this letter Gen. Jackson immediate y wrote again Mr. Southard. It is this last letter which has excited the most remarks. It was shown by Mir. $. to friend two matter of actual cu- rlosity. Some of Gen. Jackson's friends obtain cd rnmr ot It's contents, and called to request Mir. 5. to show 1t to him-and upon perusal requested fur ther, as friend of Gen. Jackson, to withdraw that letter. Mir. s. consented and it was withdrawn ac- cOrdingly So the tale goes; shall have more of it perhaps,-Marylaad RepubIican. | Duel We learn from the Providence American\n\n that duel was fought Pawtucket the 18th inst. l between French gentleman of high responsibility, who acts tn official capacity under the French Gov l ernnent, and PolOnese, formerly General in the 1 French Army during the revoution-the names of the individuals cannot learn. l. seems that they came with their seconds and surgeons from Boston to Paw\n\n ucket on Tuesday evening, selected their ground l on the new Turnpike short distance from the Vil- age, met at o'clock in the morning, and the first bre the Frenchman was shot through the feshy part | ot both thighs. His antagonist who uninjured saw him conveyed to Blake's tavern, where cordial { forgiveness exchanged, and then took abrupt leave of the State, having departed is said in the NeW-York steamboat. The wounded gentleman is ! f0 hn rni Inv h IS to be very dangerous. The affair conducted with so much secrecy that nothing was known of the par ties till the whole had terminated.\n\n l Pauperism.--Covernor Pumer, of New Hamp- I shire, who Is writing in the Portsmouth Journal, | Tn one of his numbers treats of pauperism. He says \"In some towns the project has been adopted to purchase house and farm, and appoint an agent to supernend the labor of the paupers in cuitvang and improving 1t. In nne times out of ten this mode, n stead of diminishing, increases the expense of supp porting the poor. The eligible and cheapest mode have known for country towns is annually to vendue the board, clothing, and taking care of the poor to the lowest bidder, whom the selectmen con- sder suitable for that purpose This will place the poor of the town in families, where they will be well treated, and where the interest of the dertakers will require the paupers to labor and be in duStrlous, and in some measure support themselves\n\n If we except sickness and old age, all assistance to the poor which does not promote industry IS rather premium to idleness and improVidence, than acts of l be wholesome, but cheap and their clothing plain but sufficient to protect them aganstte nnccmency otthe seasons\"\n\n That distant events strike with more surprise, andy take more entire possession of minds than those \\ which pass almost under eyes, is remark as ancient as it is unqucsonably true. At this time our papers pretty generally occupied in noticing fact l stated in the House of Commons by Mir. Huskisson, that SiAf Ba\"da''na Ha'akerchiss are made in Eng land and exported India. This is curious fact, exhibiting the revolutions of commerce, aud the tri- umohs of skill and ingenuity. A few years ago, near\n\n y all the white cotton goods consumed in the United che cotton goods from the port of Philadelphia to Can l ton, as an article of commerce. We may also add, that large quantities of cotton goods are exported from the port of Boston to Smyrna.\n\n Militia Trniningi in l686.-We notice that at the last May training in the town of Alsead, in Massa- chusetts, the exercises commenced with prayer and what is equally commendable, large majority of the soldiers voted to abstain on that day from ali noxica- ting liquors. The commencing military trainings with prayer seems to be the revival Of custom long and devoutly cherished by ancestors in primitive times John Dunton an Enishman, who visited New Eng\n\n land in 1886, gives the following account of compa- ey training, which he attendcd:-\"I It is their custom here for all that can bear to go out training day; but thought pike was best for young sol tier, and so carried pike. And between you and reader there another for it too, and that was, knew not how to shoot off nusket but it was the first time ever was in Being come into the field, the captain called all into close order, in order go to prayer, and then prayed himself. And when our exercises were done, the captain likewise concluded with prayer. Solemn prayer in feld,up- | on day of training, never knew but in New Eng land, where it seems it IS common custom. About three of the clock both exercises and our prayers being over, we had a very noble dinner, to which all the clergy were invited\"\n\n | Colon;z ation Socety-The Secretary of the Ameri- can Colonization Society has given notice that the | Managers making arrangements to fit out or two expeditions for the colony of Liberia, funds shall be received adequate to the accomplish\n\n nent of this object. The applicants for removal numerous the season most favorable for their depar tnre is near, and the cooperation of the several Aux Hilary Societies, and of all friendly the nsution is earnestly invited in obtaining the necessary effect this important purpose.\n\n Commemoration by the Atiicans.-On the 9th inst. the various Societies viz: Matua Relief Wilberorce Clarkson, Union, Brooklyn, Sc. and large body of colored people from Brooklyn, and other towns in this statc the number of between three and four thou sand, formed a line in Hudson-square, and marched through the principal streets, under their respective banners, with music and directed by Marshal on horseback, to Zion Church where an oration was delivered by Mir. John Mitchell. The church was decorated with banners The audience were remar- kaby we'll dressed, and conducted themselves in the procession with great propriety.\n\n \". Y. Daily Advertiser.\n\n Beec-We are told that about 340 beevesfrom New York and Ohio have been sold at Brighton within a few weeks. few years since, about half ofthe cat tie fattened in the vicinity of Connecticut River were\n\n ",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 186,
+                "y0": 243,
+                "x1": 1074,
+                "y1": 853
+            },
+            "class": "article",
+            "raw_text": "degtaki8gtWhl excecs your highest oxpecsas,aas Ol a tho psrtSes that have known Cor the last fifty years in this countTy--aad have scdulouSy watched and observed thcm--l have never known one so corrupt and unprincpcd, who have 60 fcaricssly disSegar ded truth, and set the public interes, defiance, the presentpaTy who are opposed to the AdminisrR- ton of the United States. Such an organized sys- tcm of oppOsson, ought to excite the vigilance of ev ory friend to his country, to protect and guard our rights against their encroachments Such faction appears to me more dangerous to freedom than a hostile army invading shores. -four free govern ment, which is the best on earth, is doomed to de- sructiOn it will eventually fall by the parricdal hands of our own sons.\n\n Accept the assurances of my respect,",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 168,
+                "y0": 841,
+                "x1": 1074,
+                "y1": 6398
+            },
+            "class": "article",
+            "raw_text": "WILLIAM PLUMBER.\n\n In another part of our paper we have said thatthere many leading politicians in this state, who Op posed to the present administration. Unquestonably more than nine-tenhs of the honest, intelligent free of the state perfectly satisfied with the gene- ra course of the administration and will again give their support to Mir. Adams. Especially this is the fact in Ltchfeld County. We not in the habit of say ing oh relative To ourself but in connexion with the above assertion, which belive to be true, we feel strongly inclined this week saya few wordsup on our own affairs. The have ever taken in relation politics, and especially pending the late state electoneerng campaign, completely in accordance with that pursued by the editor of the Hartford Times, that in instance did he dissent from us or offer one objection expressed opin ions indeed of the offensive articles which appeared in paper,-ofensive to class of poll cians-were extracted from his paper. It is true we accused of commencing the attack upon Legislative caucusses and of taking the lead in the contest but this honor suspect brother Wells will be dis posed to dispute with us. It was not until pol tics calmly settling down for the present year and occasion could be offered for political contro versy that the editor of the Times and his agents in this county recommended an attack upon the republ can character of this paper. To such people as may still feel sort of political horror the name fcde ral beg to be excused for saying that not the value of fig whether we are called federal or democrat; the terms are perfectly indefinite app- ed at the present time, andmean any thing nothlng as suits the convenience of the politician using them is in vain that have called upon the editor ofthe = Il i 4 lcan principles in papcrthe reiterated reply is 'you are an Adams amalgamaton federast.\" .\"-Now with intelligent candid persons, such like indefinite assertions would pass for their real worth, it not for the efforts of certain gentemen who have hereto fore been allowed to exercise some considerable po litical dctation, and who ready to back up such charges with the assertion that the republicans of this county do not support this press approve of the course pursued by it's editor; and that the HART FORD TIMES is the only TRUE republican paper in the state, and the paper of all ohers which THE PAR rY are bound to support. With some few people this argument is unaas,cerabe because the assertions of their political leaders have been questioned ''the good of THE PARTY requiring that they should be be- lieyed and obeyed.\" Although this course has not n- jurcd us it has caused change in the names of our subscribers. Invariably where efforts have been made to stop the circulation of the Post efforts have been made, with equal success, to sustain it, Now if these attacks from the Times, backed up by certain leading politicians in this county, not evil denty owing to national politics, know what fact can be capable of demonstration. Why is the Hart ford Times the only republican paper in the state which accuses of federalism ?-be it remembered, the a,cfI political sin is charged upon Mir. Ad ams and his whole cabinet council, by this republican paragon that at least found in good compa- ny.-Why not these charges preferred against us pending the last state election? Why the prnci pies then advocated so well sustained in ths coun- ty, ifthey were the offspring of political error? Why are leading republican politicians, who known friends the administration, still the supporters ofths press? Why do certain preended friends to the ad- minstration, who think Gen. Jackson very excel lent man, and have objection to try him o,ce as President of the United States\" choose the Times as substitute for this paper ins toad of the Register Mercury, old republican papers, and firmly atachedto Mr. Adams? If streams show which way the tide sets, facts stubborn these show incontestiby that the efforts which the editor of the Times, and few ndi- vduals in this county making to destroy this press originate solely account of national instead of state politics; and that it is not the federalism of this paper which ofends them-but it's opposition to the faction which would elevate Gen. Jackson and his satellites the moral virtue and political liberty the coun- try. Let the freemen look to it--let them learn the motives of their enticers before they are induced to look to the Hartford Times alone for knowledge of political events. Letthem be prepared to discard from the councils of country the greatest and the best men in land, if they determined to believe in the political rcctitude of that paper Let them be pre- pared to reject internal improvements. encouragement to domestic industry, ,and yield implicit submission to Virginia dctatioD, if they prepared reject political herecs all whom the puere editor of the Hartford Times sees fit to prescribe. We shall not suffer by this course, however unwilling we maybe to see individuals under the garb offrcndship labourng assduously support the measures of the open enc. my-individuals who ready to plead their preten- sions of friendship should Mr. Adams again succeed in election, their acts should Gen. Jackson obtain the ascendancy in the tremendous political contest which is approaching.\n\n Speaking of the debates which were had in the Sen ate upon the nomination of Mir. Clay that body by Mir. Adams the Times asks if the corrupt coalition not then exposed! and adds. 'he administration had that time majority in the Senate, and hence the debates that appointment arc wrapt in obliv\n\n ",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 534,
+                "y0": 823,
+                "x1": 1051,
+                "y1": 888
+            },
+            "class": "headline",
+            "raw_text": "ices of my respect,\n\n WILLIAM PLUMER..",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 3799,
+                "y0": 6878,
+                "x1": 4688,
+                "y1": 7065
+            },
+            "class": "article",
+            "raw_text": "meeting of the Brotherhood will be held on Fri day evening at the usual hour on business of ipost. anes. m 1n 7\n\n July 26th. M",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 3880,
+                "y0": 6745,
+                "x1": 4583,
+                "y1": 6868
+            },
+            "class": "headline",
+            "raw_text": "Quicqaid taeies respice fnem. :\" -BACKWOODSMEN-.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": -1
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 3799,
+                "y0": 6409,
+                "x1": 4682,
+                "y1": 6728
+            },
+            "class": "article",
+            "raw_text": "E BROKE into tn. inelo,ure of. the XM W subscriber on the 9th inst. a Red eTR KN HEIFER, two three years old- &A&AsAAssas no artificial mark.-The owner is requested to prove property, pay chargcs and take her away. PHlLANDEK HATCH.\n\n sharon, Ellsworth Society, July l6, 1927. 5",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 4199,
+                "y0": 6020,
+                "x1": 4514,
+                "y1": 6090
+            },
+            "class": "headline",
+            "raw_text": "ESTRAY.",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": -2
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 4083,
+                "y0": 6368,
+                "x1": 4392,
+                "y1": 6433
+            },
+            "class": "headline",
+            "raw_text": "ESTRAY.",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": -1
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 1102,
+                "y0": 6820,
+                "x1": 1979,
+                "y1": 7053
+            },
+            "class": "article",
+            "raw_text": "An English provincial newspaper, giving an account of violent hurricane, says, that il shattered tains by the roots, and carried them tro' the air to grea, distance dismantled churches, laid villages waste and--orerBrasa q hdv0ack'",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 1096,
+                "y0": 5788,
+                "x1": 1979,
+                "y1": 6839
+            },
+            "class": "article",
+            "raw_text": "Extract of letter from an officer of an American merchant vessel, dated at Lintn, March 20, 1897. \"On the lst inst there was battle between five boats of the Americans and English lying in this port and two Chinese Mandarin boats, and one of their men of wars launches occasioned by a pass boat coming down with orders for the ship Citizen, of New-York to proceed up to Canton. The Manda- rins took the pass boat and towing her towards the Chinese vessel of war-when the Americans and English manned their boats and went in pursuit. In about half an hour the foremost boat came up with them---muskets were fired and stones were thrown from the Mandarin boats but other boats coming up, they began attack and succeeded in re-taking the pass boat and orders, and proceeded to the Ct- zen. heard on the 2d that two yiandarines were killed and two Chinese were wounded. There are three four Chinese vessels of lying here now, and there are said to be thirty nfore coming down from town, distance sixty miles. We now lie with all our guns double shotted ready for battle. The vessels that here I think more than match for them. It will probably put stop to business for sometime at Whampoa, where the vessels lie that are bound to Canton. There were two men slightly wounded with stones, being the only ones injured on our side in the affair.\"\"\n\n ",
+            "legibility": "Legible",
+            "full_article_id": 28,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 1137,
+                "y0": 5707,
+                "x1": 1950,
+                "y1": 5783
+            },
+            "class": "headline",
+            "raw_text": "From the Palladium office, Boston, July l6l\n\n FROM CANTON.",
+            "legibility": "Legible",
+            "full_article_id": 28,
+            "reading_order_id": -1
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 1990,
+                "y0": 5614,
+                "x1": 2884,
+                "y1": 7059
+            },
+            "class": "article",
+            "raw_text": "horseback, to Zion Church where an oraton was delivered by Mir. John Mitchell. The church was decorated with banners The audience were remar- kably well dressed, and conducted themselves in the procession with great propriety.\n\n \". Y. Daily Aapertiser. Beec-We are told that about 340 beeves from New York and Ohio have been sold at Brighton within few weeks. A few years snce about half ofthe cat tie faened in the vicinity of Connecticut River consumed in New-York; now our feeders have to tend in markets with grazers from the Genessee, the Ohio, and Lake Erie, and no bullocks are pur- chased here for the NewYork market\n\n Hamp. Gazette. Accidents on the Fourth o Juiy.--At Buffalo N. Y. two young men with families were severely injured when loading field piece. The hand Of one arm so mangled as to require amputation.-At Will mington, Del. two young men were dreadfnlly torn and bruised in the same way. One of them had large wound made in his forehead side of sace taken off, and part of hts breast torn away The oth- CT, Mir. Hyatt, had his right hand literally torn pie ces, land has since undergone amputatOD ofthe arm) besides other woundsfor the former there verylit- tie hope of recovery the latter may be restored-At Someryille, N. Y. young man was severely injured His left arm has been amputated and fears are enter taiRed for his lne.-Andrew Patrick, of Roxbury, Mass. was so wounded by another's blunder at gun, at Wilmington, N. C. that his life is desparcd oE-At Middlebury, Vt. party Of young men went from the village on a hunting excursion On their return they stopped at the house of Mir. Piper, where the acci. dental discharge of a muskct wounded n daughter of Mr. F. About 90 shot penetrated her face neck aud breast",
+            "legibility": "Legible",
+            "full_article_id": 31,
+            "reading_order_id": 0
+        },
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 1091,
+                "y0": 3462,
+                "x1": 1967,
+                "y1": 3788
+            },
+            "class": "article",
+            "raw_text": "The ship Chariot, Pratt, at Boston, from London, has brought paper of the 9th of June. It appears that Lord Cochrane in the vicinity of Poros and had purchased forty vessels, which would be ready a. bout the middle of May; with which he intended to attack the Turkish fleet at Tenedos. Capt. Hastings had taken six Turkish vessels laden with provisions Sc. Every thing tends to us, that the Greek cause is in favorable train.",
+            "legibility": "Legible",
+            "full_article_id": 32,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                17,
+                0
+            ],
+            "headline": "DfED",
+            "article": "Tn Plymouth, Mass. after short illness, Alexander Bliss, Esq Counsellor at Law, of Boston, nd partner of the Hon. Daniel Webster Mir. B.graduatcd at Yale College, in 1912.\n\n In Bethlem, on the 9th inst. Mir. Spencer Gibbs a Revolutionary Pcnsoner, aged 67. On the l9th sud- denly, Mir. John Lines Strong aged 38.\n\n In Harwnton, on the 18th inst. Dr. Benjamin Gris- wod, aged70.\n\n In Edgartown, Mass on the 18th inst. the Rev. Jo- seph Thaxter, aged 83-the last of the Revolutionary Chaplains.\n\n InPcersham, Mrs. Lydia, wife of Mir. Israel Hough- ton. The circumstances attending her death were vc- ry singular. Mir. H. had just returned from meeting went to the closet for refrcshment, and while eating became choked. After recovering, he returned to his wife and said, If this violent cough had continucd one moment longer. you would have been widow !'' \"Then, said she, i've should have both gone togeth- err\" and immediately expired.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3231,
+                    "y0": 6008,
+                    "x1": 3441,
+                    "y1": 6061
+                },
+                {
+                    "x0": 2894,
+                    "y0": 6072,
+                    "x1": 3771,
+                    "y1": 6821
+                }
+            ],
+            "bbox": [
+                2894,
+                6008,
+                3771,
+                6821
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-07-26_p3_sn82014309_00414182926_1827072601_0219.json"
+        },
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "Sc known that the \"OrpOstiOA\" WAs nOs al 'haa tESe ''organzcd\" 1\" and of oOurse kneN nOt whaaehargcs it would Dc necessary bring against the adminisra tion who should be put forward as public accasers; and ef course, exposition of corruption, intrigue, &c., the charges not having then been invented could be brought forward in opposition to Mir. Clay's ap pOinunent. .\"-tWOnder whether George Kremer, of Penn. had not hand in inventing the charge of bar gain and sale ,-it looks very like him.l",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1091,
+                    "y0": 249,
+                    "x1": 1973,
+                    "y1": 720
+                }
+            ],
+            "bbox": [
+                1091,
+                249,
+                1973,
+                720
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-07-26_p3_sn82014309_00414182926_1827072601_0219.json"
+        },
+        {
+            "object_ids": [
+                16,
+                2
+            ],
+            "headline": "ANDREW CHAPIN'S ESTATE.",
+            "article": "\\ HE subscribers being, by the Hon. Court of Pro. bate for the district of Sharon appointed Commission CTS to receive, examine and adjust the claims of the several creditors to the estate of\n\n ANDREW CHAPIN,\n\n late of Wocott, county of Wayne, and state of New York, deceased, represented insolvent hereby give notice that we shall meet the business of the atore- said appointment at the dwelling-house of Phineas vember and December next, at one o'clock in the af- ternoon on each of said days Six months are allow ed from the 16th of inst June for said creditors to exhibit their claims. II]\n\n ROBERT BALL, ! sioners ,, Salisbury, June Seth. l827 $",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3828,
+                    "y0": 5307,
+                    "x1": 4635,
+                    "y1": 5365
+                },
+                {
+                    "x0": 3793,
+                    "y0": 5382,
+                    "x1": 4676,
+                    "y1": 5998
+                }
+            ],
+            "bbox": [
+                3793,
+                5307,
+                4676,
+                5998
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-07-26_p3_sn82014309_00414182926_1827072601_0219.json"
+        },
+        {
+            "object_ids": [
+                11,
+                3
+            ],
+            "headline": "NOTICE.",
+            "article": "w ILL be sold at public Auction by order of the Hon. Court of Probate for the District of LitchIed, on Monday the 18th day of August next at o'clock in the afternoon all the personal and much of the Real Estate of Capt. Joseph Mansfield, late of said Litchfeld deceased, as will raise the of six hun dred and nnety-nine dollars and seventeen cents.- The sale vii be made on the premises, at which time and place the terms will be made known.\n\n Dated Litchfcld, July 20, 1927.\n\n JOHN T. MANSFIELD, ErccutOr.\n\n By his authorized agent,\n\n 6 ELIHU HARRISON.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 4078,
+                    "y0": 748,
+                    "x1": 4369,
+                    "y1": 812
+                },
+                {
+                    "x0": 3788,
+                    "y0": 835,
+                    "x1": 4664,
+                    "y1": 1462
+                }
+            ],
+            "bbox": [
+                3788,
+                748,
+                4664,
+                1462
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-07-26_p3_sn82014309_00414182926_1827072601_0219.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "9 To lhe writer of the bcsi Original Poem, of not more thaa 100 or less thaa 6olincs, e3o.\n\n 3. To the writer of the bcss Original EsSsy, S00.\n\n {. To the writer of the bca Original Biographical Sketch, S20.\n\n The Prizes to be distribused January lst, 1893.\n\n All communications intended Ior the premiums must Dc addressed postpaid, the publisher, hp Price, Philadelphia accompanied by sealed nOte, contain ing the name of the wier which will in no case be opened unless when the prize has been awarded.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3793,
+                    "y0": 290,
+                    "x1": 4676,
+                    "y1": 731
+                }
+            ],
+            "bbox": [
+                3793,
+                290,
+                4676,
+                731
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-07-26_p3_sn82014309_00414182926_1827072601_0219.json"
+        },
+        {
+            "object_ids": [
+                29,
+                5
+            ],
+            "headline": "LtTCHFIELD COUNTY SS.\n\n SUPERIOR COURT, FEBRUARY TERM AID. 1927. Phlo Collins and others, }",
+            "article": "LtTCHFIELD COUNTY SS.\n\n SUPERIOR COURT, FEBRUARY TERM AID. 1G27 Philo Collins and others, }\n\n Samuel Chapin and others\n\n TPON the petition of Philo Collins of Goshen in \" said County, and of Moses Wadhanls and Lewis C. Wadhams both of said Goshen, as Administrators upon the estate of Moses Wadhams late of said Co., shen deceased, and of Heman Beach, of Ltchfeld in said County, shewngt to this Court that Guy Wadhams and Augustus c. Chapin, both of said Goshen mer- chants in company under the name and firm of Wad- hams S5 Chapin, sold, transferred, and conveyed to David Wadbams, Samuel c. Chapn, Truman Starr and Timothy Collins, all of said Goshen, a large a. mount of personal property, by deed of assignment bearing date on the 4th day of March, A. D. 1919, in trust for the payment of debts due to sundry creditors therein specified (viz pay, first certain debts due from them to the President Directors and Company of the Bank of the United States and to the President Directors and Company of the Phoenix Bank, and to indemnify Amasa Cook, late ofsaid Goshen, deceased John Osborne of said Goshen, and said Philo Collins and said Heman Beach, against certain liabilities therein specifed assumed to said Corporations by the said Amasa, John, Pho, and Heman, to secure said debts at the request and for tho benefit of said Wad l hams & Chapn. 4a\n\n Secondly, to pay certain debts due from them to said David Wadhams, Thomas Griswold, Amasa Cook, Timothy Childs, Philo Collins Augustus Miles, Sam uel Chapin and David Thompson, all of said Goshen and Matthew Grant of Torrington in said County.- Thirdly to pay certain debts due from them to Timo- thy Collins, Truman Starr, Moses Wadhams, and Phi\n\n \n\n otsaid Ltchfeld. Fourthly, to pay certain debts due from them to Thomas Burtch Jonathan Buel, and Mi cajah Barnum, all of said Goshen, Luther Miner, of Cornwalli in said Couny, Wm Denison of Stockbrdge County of Berkshire and Commonwealth of MasSa. chusetts, David Page ofsaid Litchfeld and Matthew Grant of said Iorrington Fifthly, to pay certain debts due from them to Isaac Baldwin, Joseph Gay lord, and Beebe Wadhams, all of said Goshen, Abi- lah Barber and Benjamin Phelps, of said Torrington, Benjamin Carter, of Warren in said County and Isra. el Coe, of ofWaterbury in New Haven County, and f. nay, to apply and appropriate the residue If any) af ter the deduction of reasonable cost and expenses to the payment of all other debts due from said Wadhams & Chapn in just and equal proportion, ayerring that the creditors referred to in said last clause are not known to the petitioners, and praying that the said Wadhams x Chapin may disclose the same that they may be made parties to said B and that an account may be taken of said property and othe avails there debts due as aforesaid from said Wadhams & Chapin to said petitioners and the said Wadhams & Chapin having appeared in Court have disclosed tue names of said i creditors, viz Ceghas Ives, Tyranus Futile, mos Webster, and Archibald Austin nall of said Goshen Amos Bishop of said Litchfeld, James Kidney Benia- min Doole, and Albert Blake, ofsad Cornwall, Eie- said Warrcn, Jehiel Forbes and William J. Forbes. l Hezekiah BeldeR and Wm. c. Leiingwel John Bab- cock and Sidney Babcock, all of New Haven in New Haven County, excepting Hezekiah Belden, who is of cock, who is absent from this State in parts unk nown ! John Aspenwall, Wm. W. Woosey and Abraham M Woolsey, Robert Chcesebrough and Robert Patterson, l John Cheesebrough and Wm. Cheesebrough all of the city, county, and state of New ofk and Philemon k. Starr of said city, and Garrit Smith of Watertown in said Itchfeld County, being all of the creditors of the said Wadhams & Chapin referred to in said last clause.\n\n Ordered, that this petition be continued to the Su- perior Court to be holden at Litchfed on the Sd Tues day of August next and that notice be given to all of the said creditors residing of this stae by publish ing this order in the County Post paper published ii, said Lhchfeld, three weeks successively before the twentieth day in August next, and that the said cred tors disclosed as aforesaid residing within this State be summoned and notified to appear before said Court by reading this petition citation and order in their presence and hearing by leaving true and attest ed copy of the at their usual place of abode, by some proper officer orndierent person, twelve days before the said ad Tuesday of August A. D. Isag when and where each and every of said creditors are requested to appear to shew reason f any they have why the prayer of said petition shall not be granted. | By the Court, l5 FREDERICK WOLCOTT, Clerk. ANDREW CHAPIN'S ESTATE",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3776,
+                    "y0": 1484,
+                    "x1": 4653,
+                    "y1": 1595
+                },
+                {
+                    "x0": 3770,
+                    "y0": 1461,
+                    "x1": 4670,
+                    "y1": 5354
+                }
+            ],
+            "bbox": [
+                3770,
+                1461,
+                4670,
+                5354
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-07-26_p3_sn82014309_00414182926_1827072601_0219.json"
+        },
+        {
+            "object_ids": [
+                14,
+                6
+            ],
+            "headline": "@aR9 D",
+            "article": "In North Haven on the 18th inst. by the Rev Mir. Moves, Rev. Samuel H. RiddeIl, of Glastonbury, to Miss Harriet Angeine Ray, of the former place.\n\n In Goshen, Mir. William T. Clark to Miss Chloe Lobdeil.\n\n In Berlin, MT. Cyrus Francis to Mss Nancy D. Pratt.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3138,
+                    "y0": 5689,
+                    "x1": 3528,
+                    "y1": 5742
+                },
+                {
+                    "x0": 2894,
+                    "y0": 5753,
+                    "x1": 3771,
+                    "y1": 5998
+                }
+            ],
+            "bbox": [
+                2894,
+                5689,
+                3771,
+                5998
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-07-26_p3_sn82014309_00414182926_1827072601_0219.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "Premiums. editor of \"The Souvenr,\" a weekly miscellaneous paper just commenced in Phila- dclphia, oHcrs the following Premiums.\n\n ]. To the writer of she best Original Tale, &3n",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2900,
+                    "y0": 6861,
+                    "x1": 3777,
+                    "y1": 7071
+                }
+            ],
+            "bbox": [
+                2900,
+                6861,
+                3777,
+                7071
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-07-26_p3_sn82014309_00414182926_1827072601_0219.json"
+        },
+        {
+            "object_ids": [
+                15,
+                8
+            ],
+            "headline": "GREAT NEWS FROM GREECE!",
+            "article": "London Courier of the evening of June 9th, contains the foowing:-\n\n l \"The Algemine Zeitung of the 2d of June states | that the British Ambassador at COnstantinope had of despatch, announcing the entire defeat of the Turks before Athens, on the 18th of April, loss said to be 10000 men. Ratesbon letters of the 29th of May, confirm the above and states that the Turks successvely driven from ali their entrenchments and forced to abandon all their artillery and baggage 1 The Lord High Commissioner of the Ionian Islands on the 18th of May, despatched Courier from Cor tu to London with another confirmation of the aboVe.\" It is likewise stated under the date of Augsburgh May 3l, that the British Ambassador at Consantino pie had of despatch announcing the grate i ful intelligence.\n\n dressed circular to its aes in which 1t is intlmated that in consequence of the latest declaration of the Porte, there remained scarcely any hope that it would listen the dictates of justice and moderation, unless cOersve measures adopted, and proposed that certain time be peremptory fixed, within which ! the Porte must declare itself and which period 1 fixed for the middle of June.\n\n The Paris Etoile of the 7th contains article menting on one in the London Times, respecting the interference of the great powers in the affairs of Greece. The observations of the Etoile correspond with those of the Times, and 1t is therefore inferred by the London Sun, that the question respecting Gre l cian independence will be soon set at rest. 1 The Paris Moniteur of the 9th that val division has sailed from Toulon, for the purpose of obtaining satisfaction for gross insult offered to the Consul General of France at Agiers, by the Dey, well as for other causes of complaint.\n\n The engagements of the government of Hayti with France, are likely to be fulfilled Two vessels had rived at Havre, with assignments account of the indemnity, and two six months nsalments to be | paid on the Both of June\n\n The English ports open until the 18th of Au- gust for foreign oats, at 4d. per quarter.\n\n The Marquis of Anglesea is said to be actually ap pointed Lord Lieutenant of Ireland\n\n SPAIM.-Madrid letters announced the appear ance of Constitutional Gueras in Arrogan and other ntn 5nfS Sno1n fro ft nnoh my is withdrawn from Spain, another struggle for Constitutional liberty would be the consequence. In deed from the details given in the French official papers, appears that Spain is convused from one extremity to the oher.-But have the bgots of that country repented of their work, their preten- slons less lofty By no means.\n\n In the meantime the Archbishop of Toledo thinks all will be well if he only exclude foreign books and journals and prevent transations. No mercy is shown to the translation of the psalms of David. The Spanards not very nice in theIr Chronology, | and as David was unquestonaby Jew, the good Archbishop probably deems him affected by the laws against Moors and Jews in that Kingdom old Chris ! tians. latterer wished to compliment Spaish Gran dee compared him Solomon, which the Grandee, not being read in Scriptures, deemed comparing him to usrer or old cloathsman, and considered mor- tai affront. 1t IS dangerous to have Old Tesa- ment name in Spain as a New Testament name in | England\n\n ! The ship Chariot, Pratt at Boston, from London, has brought paper of the 9th of June It appears that Lord Cochrane in the vicinity of Poros, and had purchased forty vessels, which would be ready a. bout the middle of May; with which he intended to attack the Turkish fleet at Tenedos. Capt. Hastings had taken six Turkish vessels laden with provisions Sc. Every thing tends assure us, that the Greek cause is in favorable train.\n\n letter received in Salem, states that a war had l been raging for six months between the Raiahs of Qualabattoo, Sooso and Anaaboo, and the Raiah of Troumond. A ship of IA guns was bIockadng the port of ouaabatoo, preventing all vessels from ra- m were prevented from trading. There was considera- ble pepcr at Quaabatoo and the natives desir- l ous of having the Dephos trade when she stopped, but Capt. Porter did not think it prudent he would have been exposed to the fire from battery shore, 1 and from the ship.\n\n 1 The New Times of June 9th says, \"From the Pa- Etoile of Thursday we extract some articles of n- terest with respect to Greece, both regards the military operations still carrying on there, and the progress of the negotiations for converting into ty, common to all the allied powers the Protocol of St. Petersbugh The latter seems to be drawing to a close, and we hope the time is not far distant now, when the voice of civilized Europe will be authora-\n\n lively raised to arrest the sanguinary strife, between fanacism on the one hand and serni-barbarous sp- | rit of liberty the other. The struggle has now been carried on long enough to prove that the i. sceptre of Mahomedan despotisin is forever bro ken; and itbehoves the great and influential of Christen ndom to unite in one common effort to stay !\n\n l Extract of mercantile letter, dated Constantino- pie, May 10 :- Lord COchrane was in the vicinity of Paros, and purchased forty Greek vessels which he was furnishing with rockets and other mplments of destruction. It asserted that this armament would be ready on the 18th May, and that Lord Cochrane would then sail for Tenedos, to wait for the Turkish\n\n fleet. Meantime, Capt. Hastings has taken in the | Gulf of Seo, six Turkish vessels laden with amuni- ton, and has burned four others. He thus has pla- ced the Seraskier, who depended upon these supplies\n\n in very embarrassing situation. All these accounts\n\n have considerably irritaed the Sultan and the Divan. | \"On the other hand, it is said that Tartar is gone the Dardenells with orders to the fleet not | to quit the Hellespont. After several meetings of\n\n the Council of State the Porte is said have eau l scd Mr. Stratford Canning to be asked if it at\n\n war with England, since it's troops had to combat fewer Greeks than English Every thing appears to\n\n announce cr,ss, which must lead to decisive re- | suit the question of the affairs of Greece From the Palladium office, Boston, July l6.l FROM CANTON.\n\n | Extract of letter from an officer of an American\n\n merchant vessel, dated at Lintin, March 20, 1897.\n\n .\"On the lst inst. there was battle between five\n\n boats of the Americans and English lying in this port\n\n and two Chinese Mandarin boats, and one of their men Ot wars launches, occasi0ned by pass boat l coming down with orders for the ship Citizen, of 1 New-York to proceed up to Canton. The Manda-\n\n rins took the pass boa and were towing her towards the Chinese vessel of war--when the Americans and\n\n English manned their boats and went in pursuit. In\n\n about half an hour the foremost boat came up with\n\n them---muskets were fired and stones were thrown\n\n from the Mandarin boats but other boats coming\n\n up they began an attack and succeeded in re-takius\n\n the pass boat and orders, and proceeded the Cit zen. | heard the 2d that MandaFines were",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1212,
+                    "y0": 748,
+                    "x1": 1857,
+                    "y1": 801
+                },
+                {
+                    "x0": 1079,
+                    "y0": 841,
+                    "x1": 1973,
+                    "y1": 6398
+                }
+            ],
+            "bbox": [
+                1079,
+                748,
+                1973,
+                6398
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-07-26_p3_sn82014309_00414182926_1827072601_0219.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "as'ical Society in this town lo become ihcifpas,or and it is expected she will beoTdained the 3dlday Oct. neNi.-In mentioning this cireumaance,so pleas ing to the Church and Society,\" have been rcquos, cd to insert the following hymn:-\n\n The Peopie's Praysr fSr thsiy: Minister. With heavenly power o Lord, defend\n\n Him whom we now to thee commend\n\n His person bless, his soul secure,\n\n And make him to the end endure.\n\n Gird him with 'aII-suficient grace, Direct his feet inpaths of peace; Thy truth and faithfuness fulfil,\n\n And help him to obey thy will.\n\n Before him thy protection send:\n\n love him, save him to the end!\n\n Nor let him, as thy pilgrim, rove\n\n Without the convoy of thy love.\n\n Enlarge, enfiamc, and Gl. his heart,\n\n In him thy mighty power eNert\n\n That thousands yet unborn may praise\n\n Tine wonders of redeeming grace.\n\n Spontaneous Com6ustion.-On Sabbath evening the 10th inst between 10 and Il o'clock the people in the the vicinity of the Wooen Factory belonging to Cha pin, Collins Walter, of Goshen, were alarmed with the cry of fire. It was found to proceed from small quantity of card waste, which had! been removed from the Factory only three days previous and placed Tn situation from communicating to any build- ing, Ill order to try the experiment.; there had been ran upon it-but Ii was exposed to the ravsof the sum- and was quite warm when 1t was removed.\n\n lhs may another admonition to Manufac- urerS not to Ietthe waste from the cards remain where It can communicate with any combustibe material, as experience fully proves the danger of the practice.\n\n There is no one sentiment advanced by the friends of Theatrical amusements more contemptiby rdicu- lous then that theatres are schools of virtue i\" oras Southern writer has it, next to the pulpit the best aac. said, in his day, when characters Hike Johnson, Young, and many others were ranked patrons of the Stage, that the theatre was Stew oflicentious- ness\" How we'll the New-York managers exempli- fy ths assertions may be learned from the following short extract from the N Y. Spy, or Dramatic Re postory, paper devoted almost exclusively the n- terest of the theatre, whose editor approves of Mad am Hutln, the halt-naked female dancer will serve to show. Yet this editor admits communication, Whlch charges the managers 0a one of the thea tres with admitting prostitutes to the plays gratis for the purpose of making money. The words of the writer are :-\n\n \"Free admissions now being dispensed to the pub- c courezans Of the town, in order that their vile par amours may be induced to follow them, whereby the receipts of the house may be nightly increased: and the profits oflesees of the saloons greatly enhanced in consequence of the greater demand for the various species of intoxicating beverage\" These, fellow citizens, Sse some of the teachers in this school of morals !\n\n The editors of the N Y. Observer farther, saw The National Anniversary of Independence was celebrated in this city on Wed lesday, and more fight and other vices of the Thcatre-schoo we never witnessed in one day before. And why should it not be SO? Formerly we had but one Theatre. Now the number IS increased to six, and if the number of pu- competition has produced refinement in the method of instruction which cannot be without its effects\"\n\n From all parts of the country We have the most cheering reports in relation thesabundanco of the crops. It is said that the crops in Vermont have not given greater promise of an abundant harvest for the last twenty, than they do this year. With us, grass and English grain were better than they this and certain garden vegetables are some- what backward but the plants look healthy and the farmers indulge the well grounded hope, that the at- ter harvest will as amply repay their oIs the har- vest now gathering in. ...\n\n We yesterday visited the cheese dairy of Can't Tim othy Collins, of Goshen and are free to declare it the most pleasing sight of the kind we ever witnessed Mr. Collins makes what are very appropriately called, \"Pine Apple cheeses,\" from the great resemblance they bear to that elegant and delicious fruit The cess ofpressng drying and preparing them for market IS both novel and interesting to those who only guainted with the common method of cheese making. Mr. C. makes about l2 these cheeses daily weighing seven pounds each and which will sell for from 12 to 20 cts per pound. With the exception of the orna- mcnt which these cheeses would be to well set ta- ble, they can possess advantage over the common kind, but for transportation to clmates,in which they will keep perfectly safe There several other large daires in Goshen, where cheeses of the same kind made.\n\n l The F.anklin Bank of Neac Jersey has stopped payment. But the President of the Bank has ad- vised the holders of the bills not to make any sacri- | flee.\n\n Caution-At Southington, C,. mother gave her little child an open knife, in compliance with its i'm. pOrtunity, and passed out of the room. In nome n she heard her infant scream, returned, and beheld corpse. The child had fallen upon the point which entered its left side, and pierced it's heart. ! Morgun.-I'he excitement relative to the abduction l of Morgan to have been subsided generally It is said, however, that convention of about 300( persons lately assembled at Batavia, and passed spir 1 tied resolutions; and that a company are engaged l in dragging the river and lake, to find the body O | the victim.\n\n ] 4 green old age.-Mr. Joseph Moore, of Ellsworth Me. now in his 78h year, is stated in the Ellsworth Courier to have made with his own hands, during the last nine months, 56,000 good shingles, which have been sold for $l66 besides attending to the work of l farm. He can lIoe now rake much in a day as I common man can do.\n\n It is reported that the venerable Charles Carroll the ony survivor of the Signers of the Declaration of In dependence, has given $70,000 towards the Maryland and Ohio Rail Road. The Rail Road Scrip. is at 100 l D. C. advance. Aa4R3RE7sn",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2877,
+                    "y0": 353,
+                    "x1": 3760,
+                    "y1": 5737
+                }
+            ],
+            "bbox": [
+                2877,
+                353,
+                3760,
+                5737
+            ],
+            "full_article_id": 10,
+            "id": "10_1827-07-26_p3_sn82014309_00414182926_1827072601_0219.json"
+        },
+        {
+            "object_ids": [
+                10
+            ],
+            "headline": "",
+            "article": "POndcnce is now demanded by several of the public papers:\n\n So far as VIC have been able to find out, Tumor is, | that Mir. Southard in conversation with somebody, | somewhere took occasion tO state that some of the credit of defending New-Orleans, should be paid to Mir. Monroe, then Secretary of War, for the promp- titude with which ho had moved men and munitions | for its defence &c.--Gen. Jackson was informed of the remark, took offence at the terms in which this was expressed by Mir. $. and sent him angry note thereupon by friend, perhaps by Gen. Eaton. To this note Mir. SOuthard wrote reply and handed it to Gen. E. who refused to receive it because was seal 1 cd He had brought an open note and expected the } reply to be accordingly. 1 Mir. s. remarked, that he had only known Gen. Ea- ton as the bearer of note from Gen. Jackson, and supposed he would have no objection to take the an he had prepared for that note. As he declined however, he would avail himself of the Post Office 1 through which he accordingly sent it. Upon receiving this letter Gen. Jackson immediate y wrote again Mr. Southard. It is this last letter which has excited the most remarks. It was shown by Mir. $. to friend two matter of actual cu- rlosity. Some of Gen. Jackson's friends obtain cd rnmr ot It's contents, and called to request Mir. 5. to show 1t to him-and upon perusal requested fur ther, as friend of Gen. Jackson, to withdraw that letter. Mir. s. consented and it was withdrawn ac- cOrdingly So the tale goes; shall have more of it perhaps,-Marylaad RepubIican. | Duel We learn from the Providence American\n\n that duel was fought Pawtucket the 18th inst. l between French gentleman of high responsibility, who acts tn official capacity under the French Gov l ernnent, and PolOnese, formerly General in the 1 French Army during the revoution-the names of the individuals cannot learn. l. seems that they came with their seconds and surgeons from Boston to Paw\n\n ucket on Tuesday evening, selected their ground l on the new Turnpike short distance from the Vil- age, met at o'clock in the morning, and the first bre the Frenchman was shot through the feshy part | ot both thighs. His antagonist who uninjured saw him conveyed to Blake's tavern, where cordial { forgiveness exchanged, and then took abrupt leave of the State, having departed is said in the NeW-York steamboat. The wounded gentleman is ! f0 hn rni Inv h IS to be very dangerous. The affair conducted with so much secrecy that nothing was known of the par ties till the whole had terminated.\n\n l Pauperism.--Covernor Pumer, of New Hamp- I shire, who Is writing in the Portsmouth Journal, | Tn one of his numbers treats of pauperism. He says \"In some towns the project has been adopted to purchase house and farm, and appoint an agent to supernend the labor of the paupers in cuitvang and improving 1t. In nne times out of ten this mode, n stead of diminishing, increases the expense of supp porting the poor. The eligible and cheapest mode have known for country towns is annually to vendue the board, clothing, and taking care of the poor to the lowest bidder, whom the selectmen con- sder suitable for that purpose This will place the poor of the town in families, where they will be well treated, and where the interest of the dertakers will require the paupers to labor and be in duStrlous, and in some measure support themselves\n\n If we except sickness and old age, all assistance to the poor which does not promote industry IS rather premium to idleness and improVidence, than acts of l be wholesome, but cheap and their clothing plain but sufficient to protect them aganstte nnccmency otthe seasons\"\n\n That distant events strike with more surprise, andy take more entire possession of minds than those \\ which pass almost under eyes, is remark as ancient as it is unqucsonably true. At this time our papers pretty generally occupied in noticing fact l stated in the House of Commons by Mir. Huskisson, that SiAf Ba\"da''na Ha'akerchiss are made in Eng land and exported India. This is curious fact, exhibiting the revolutions of commerce, aud the tri- umohs of skill and ingenuity. A few years ago, near\n\n y all the white cotton goods consumed in the United che cotton goods from the port of Philadelphia to Can l ton, as an article of commerce. We may also add, that large quantities of cotton goods are exported from the port of Boston to Smyrna.\n\n Militia Trniningi in l686.-We notice that at the last May training in the town of Alsead, in Massa- chusetts, the exercises commenced with prayer and what is equally commendable, large majority of the soldiers voted to abstain on that day from ali noxica- ting liquors. The commencing military trainings with prayer seems to be the revival Of custom long and devoutly cherished by ancestors in primitive times John Dunton an Enishman, who visited New Eng\n\n land in 1886, gives the following account of compa- ey training, which he attendcd:-\"I It is their custom here for all that can bear to go out training day; but thought pike was best for young sol tier, and so carried pike. And between you and reader there another for it too, and that was, knew not how to shoot off nusket but it was the first time ever was in Being come into the field, the captain called all into close order, in order go to prayer, and then prayed himself. And when our exercises were done, the captain likewise concluded with prayer. Solemn prayer in feld,up- | on day of training, never knew but in New Eng land, where it seems it IS common custom. About three of the clock both exercises and our prayers being over, we had a very noble dinner, to which all the clergy were invited\"\n\n | Colon;z ation Socety-The Secretary of the Ameri- can Colonization Society has given notice that the | Managers making arrangements to fit out or two expeditions for the colony of Liberia, funds shall be received adequate to the accomplish\n\n nent of this object. The applicants for removal numerous the season most favorable for their depar tnre is near, and the cooperation of the several Aux Hilary Societies, and of all friendly the nsution is earnestly invited in obtaining the necessary effect this important purpose.\n\n Commemoration by the Atiicans.-On the 9th inst. the various Societies viz: Matua Relief Wilberorce Clarkson, Union, Brooklyn, Sc. and large body of colored people from Brooklyn, and other towns in this statc the number of between three and four thou sand, formed a line in Hudson-square, and marched through the principal streets, under their respective banners, with music and directed by Marshal on horseback, to Zion Church where an oration was delivered by Mir. John Mitchell. The church was decorated with banners The audience were remar- kaby we'll dressed, and conducted themselves in the procession with great propriety.\n\n \". Y. Daily Advertiser.\n\n Beec-We are told that about 340 beevesfrom New York and Ohio have been sold at Brighton within a few weeks. few years since, about half ofthe cat tie fattened in the vicinity of Connecticut River were\n\n ",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1972,
+                    "y0": 469,
+                    "x1": 2878,
+                    "y1": 6015
+                }
+            ],
+            "bbox": [
+                1972,
+                469,
+                2878,
+                6015
+            ],
+            "full_article_id": 11,
+            "id": "11_1827-07-26_p3_sn82014309_00414182926_1827072601_0219.json"
+        },
+        {
+            "object_ids": [
+                12
+            ],
+            "headline": "",
+            "article": "degtaki8gtWhl excecs your highest oxpecsas,aas Ol a tho psrtSes that have known Cor the last fifty years in this countTy--aad have scdulouSy watched and observed thcm--l have never known one so corrupt and unprincpcd, who have 60 fcaricssly disSegar ded truth, and set the public interes, defiance, the presentpaTy who are opposed to the AdminisrR- ton of the United States. Such an organized sys- tcm of oppOsson, ought to excite the vigilance of ev ory friend to his country, to protect and guard our rights against their encroachments Such faction appears to me more dangerous to freedom than a hostile army invading shores. -four free govern ment, which is the best on earth, is doomed to de- sructiOn it will eventually fall by the parricdal hands of our own sons.\n\n Accept the assurances of my respect,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 186,
+                    "y0": 243,
+                    "x1": 1074,
+                    "y1": 853
+                }
+            ],
+            "bbox": [
+                186,
+                243,
+                1074,
+                853
+            ],
+            "full_article_id": 13,
+            "id": "13_1827-07-26_p3_sn82014309_00414182926_1827072601_0219.json"
+        },
+        {
+            "object_ids": [
+                22,
+                13
+            ],
+            "headline": "ices of my respect,\n\n WILLIAM PLUMER..",
+            "article": "WILLIAM PLUMBER.\n\n In another part of our paper we have said thatthere many leading politicians in this state, who Op posed to the present administration. Unquestonably more than nine-tenhs of the honest, intelligent free of the state perfectly satisfied with the gene- ra course of the administration and will again give their support to Mir. Adams. Especially this is the fact in Ltchfeld County. We not in the habit of say ing oh relative To ourself but in connexion with the above assertion, which belive to be true, we feel strongly inclined this week saya few wordsup on our own affairs. The have ever taken in relation politics, and especially pending the late state electoneerng campaign, completely in accordance with that pursued by the editor of the Hartford Times, that in instance did he dissent from us or offer one objection expressed opin ions indeed of the offensive articles which appeared in paper,-ofensive to class of poll cians-were extracted from his paper. It is true we accused of commencing the attack upon Legislative caucusses and of taking the lead in the contest but this honor suspect brother Wells will be dis posed to dispute with us. It was not until pol tics calmly settling down for the present year and occasion could be offered for political contro versy that the editor of the Times and his agents in this county recommended an attack upon the republ can character of this paper. To such people as may still feel sort of political horror the name fcde ral beg to be excused for saying that not the value of fig whether we are called federal or democrat; the terms are perfectly indefinite app- ed at the present time, andmean any thing nothlng as suits the convenience of the politician using them is in vain that have called upon the editor ofthe = Il i 4 lcan principles in papcrthe reiterated reply is 'you are an Adams amalgamaton federast.\" .\"-Now with intelligent candid persons, such like indefinite assertions would pass for their real worth, it not for the efforts of certain gentemen who have hereto fore been allowed to exercise some considerable po litical dctation, and who ready to back up such charges with the assertion that the republicans of this county do not support this press approve of the course pursued by it's editor; and that the HART FORD TIMES is the only TRUE republican paper in the state, and the paper of all ohers which THE PAR rY are bound to support. With some few people this argument is unaas,cerabe because the assertions of their political leaders have been questioned ''the good of THE PARTY requiring that they should be be- lieyed and obeyed.\" Although this course has not n- jurcd us it has caused change in the names of our subscribers. Invariably where efforts have been made to stop the circulation of the Post efforts have been made, with equal success, to sustain it, Now if these attacks from the Times, backed up by certain leading politicians in this county, not evil denty owing to national politics, know what fact can be capable of demonstration. Why is the Hart ford Times the only republican paper in the state which accuses of federalism ?-be it remembered, the a,cfI political sin is charged upon Mir. Ad ams and his whole cabinet council, by this republican paragon that at least found in good compa- ny.-Why not these charges preferred against us pending the last state election? Why the prnci pies then advocated so well sustained in ths coun- ty, ifthey were the offspring of political error? Why are leading republican politicians, who known friends the administration, still the supporters ofths press? Why do certain preended friends to the ad- minstration, who think Gen. Jackson very excel lent man, and have objection to try him o,ce as President of the United States\" choose the Times as substitute for this paper ins toad of the Register Mercury, old republican papers, and firmly atachedto Mr. Adams? If streams show which way the tide sets, facts stubborn these show incontestiby that the efforts which the editor of the Times, and few ndi- vduals in this county making to destroy this press originate solely account of national instead of state politics; and that it is not the federalism of this paper which ofends them-but it's opposition to the faction which would elevate Gen. Jackson and his satellites the moral virtue and political liberty the coun- try. Let the freemen look to it--let them learn the motives of their enticers before they are induced to look to the Hartford Times alone for knowledge of political events. Letthem be prepared to discard from the councils of country the greatest and the best men in land, if they determined to believe in the political rcctitude of that paper Let them be pre- pared to reject internal improvements. encouragement to domestic industry, ,and yield implicit submission to Virginia dctatioD, if they prepared reject political herecs all whom the puere editor of the Hartford Times sees fit to prescribe. We shall not suffer by this course, however unwilling we maybe to see individuals under the garb offrcndship labourng assduously support the measures of the open enc. my-individuals who ready to plead their preten- sions of friendship should Mr. Adams again succeed in election, their acts should Gen. Jackson obtain the ascendancy in the tremendous political contest which is approaching.\n\n Speaking of the debates which were had in the Sen ate upon the nomination of Mir. Clay that body by Mir. Adams the Times asks if the corrupt coalition not then exposed! and adds. 'he administration had that time majority in the Senate, and hence the debates that appointment arc wrapt in obliv\n\n ",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 534,
+                    "y0": 823,
+                    "x1": 1051,
+                    "y1": 888
+                },
+                {
+                    "x0": 168,
+                    "y0": 841,
+                    "x1": 1074,
+                    "y1": 6398
+                }
+            ],
+            "bbox": [
+                168,
+                823,
+                1074,
+                6398
+            ],
+            "full_article_id": 14,
+            "id": "14_1827-07-26_p3_sn82014309_00414182926_1827072601_0219.json"
+        },
+        {
+            "object_ids": [
+                20,
+                19
+            ],
+            "headline": "Quicqaid taeies respice fnem. :\" -BACKWOODSMEN-.",
+            "article": "meeting of the Brotherhood will be held on Fri day evening at the usual hour on business of ipost. anes. m 1n 7\n\n July 26th. M",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3880,
+                    "y0": 6745,
+                    "x1": 4583,
+                    "y1": 6868
+                },
+                {
+                    "x0": 3799,
+                    "y0": 6878,
+                    "x1": 4688,
+                    "y1": 7065
+                }
+            ],
+            "bbox": [
+                3799,
+                6745,
+                4688,
+                7065
+            ],
+            "full_article_id": 20,
+            "id": "20_1827-07-26_p3_sn82014309_00414182926_1827072601_0219.json"
+        },
+        {
+            "object_ids": [
+                23,
+                28,
+                21
+            ],
+            "headline": "ESTRAY.\n\nESTRAY.",
+            "article": "E BROKE into tn. inelo,ure of. the XM W subscriber on the 9th inst. a Red eTR KN HEIFER, two three years old- &A&AsAAssas no artificial mark.-The owner is requested to prove property, pay chargcs and take her away. PHlLANDEK HATCH.\n\n sharon, Ellsworth Society, July l6, 1927. 5",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 4199,
+                    "y0": 6020,
+                    "x1": 4514,
+                    "y1": 6090
+                },
+                {
+                    "x0": 4083,
+                    "y0": 6368,
+                    "x1": 4392,
+                    "y1": 6433
+                },
+                {
+                    "x0": 3799,
+                    "y0": 6409,
+                    "x1": 4682,
+                    "y1": 6728
+                }
+            ],
+            "bbox": [
+                3799,
+                6020,
+                4682,
+                6728
+            ],
+            "full_article_id": 22,
+            "id": "22_1827-07-26_p3_sn82014309_00414182926_1827072601_0219.json"
+        },
+        {
+            "object_ids": [
+                26
+            ],
+            "headline": "",
+            "article": "An English provincial newspaper, giving an account of violent hurricane, says, that il shattered tains by the roots, and carried them tro' the air to grea, distance dismantled churches, laid villages waste and--orerBrasa q hdv0ack'",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1102,
+                    "y0": 6820,
+                    "x1": 1979,
+                    "y1": 7053
+                }
+            ],
+            "bbox": [
+                1102,
+                6820,
+                1979,
+                7053
+            ],
+            "full_article_id": 27,
+            "id": "27_1827-07-26_p3_sn82014309_00414182926_1827072601_0219.json"
+        },
+        {
+            "object_ids": [
+                24,
+                27
+            ],
+            "headline": "From the Palladium office, Boston, July l6l\n\n FROM CANTON.",
+            "article": "Extract of letter from an officer of an American merchant vessel, dated at Lintn, March 20, 1897. \"On the lst inst there was battle between five boats of the Americans and English lying in this port and two Chinese Mandarin boats, and one of their men of wars launches occasioned by a pass boat coming down with orders for the ship Citizen, of New-York to proceed up to Canton. The Manda- rins took the pass boat and towing her towards the Chinese vessel of war-when the Americans and English manned their boats and went in pursuit. In about half an hour the foremost boat came up with them---muskets were fired and stones were thrown from the Mandarin boats but other boats coming up, they began attack and succeeded in re-taking the pass boat and orders, and proceeded to the Ct- zen. heard on the 2d that two yiandarines were killed and two Chinese were wounded. There are three four Chinese vessels of lying here now, and there are said to be thirty nfore coming down from town, distance sixty miles. We now lie with all our guns double shotted ready for battle. The vessels that here I think more than match for them. It will probably put stop to business for sometime at Whampoa, where the vessels lie that are bound to Canton. There were two men slightly wounded with stones, being the only ones injured on our side in the affair.\"\"\n\n ",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1137,
+                    "y0": 5707,
+                    "x1": 1950,
+                    "y1": 5783
+                },
+                {
+                    "x0": 1096,
+                    "y0": 5788,
+                    "x1": 1979,
+                    "y1": 6839
+                }
+            ],
+            "bbox": [
+                1096,
+                5707,
+                1979,
+                6839
+            ],
+            "full_article_id": 28,
+            "id": "28_1827-07-26_p3_sn82014309_00414182926_1827072601_0219.json"
+        },
+        {
+            "object_ids": [
+                30
+            ],
+            "headline": "",
+            "article": "horseback, to Zion Church where an oraton was delivered by Mir. John Mitchell. The church was decorated with banners The audience were remar- kably well dressed, and conducted themselves in the procession with great propriety.\n\n \". Y. Daily Aapertiser. Beec-We are told that about 340 beeves from New York and Ohio have been sold at Brighton within few weeks. A few years snce about half ofthe cat tie faened in the vicinity of Connecticut River consumed in New-York; now our feeders have to tend in markets with grazers from the Genessee, the Ohio, and Lake Erie, and no bullocks are pur- chased here for the NewYork market\n\n Hamp. Gazette. Accidents on the Fourth o Juiy.--At Buffalo N. Y. two young men with families were severely injured when loading field piece. The hand Of one arm so mangled as to require amputation.-At Will mington, Del. two young men were dreadfnlly torn and bruised in the same way. One of them had large wound made in his forehead side of sace taken off, and part of hts breast torn away The oth- CT, Mir. Hyatt, had his right hand literally torn pie ces, land has since undergone amputatOD ofthe arm) besides other woundsfor the former there verylit- tie hope of recovery the latter may be restored-At Someryille, N. Y. young man was severely injured His left arm has been amputated and fears are enter taiRed for his lne.-Andrew Patrick, of Roxbury, Mass. was so wounded by another's blunder at gun, at Wilmington, N. C. that his life is desparcd oE-At Middlebury, Vt. party Of young men went from the village on a hunting excursion On their return they stopped at the house of Mir. Piper, where the acci. dental discharge of a muskct wounded n daughter of Mr. F. About 90 shot penetrated her face neck aud breast",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1990,
+                    "y0": 5614,
+                    "x1": 2884,
+                    "y1": 7059
+                }
+            ],
+            "bbox": [
+                1990,
+                5614,
+                2884,
+                7059
+            ],
+            "full_article_id": 31,
+            "id": "31_1827-07-26_p3_sn82014309_00414182926_1827072601_0219.json"
+        },
+        {
+            "object_ids": [
+                31
+            ],
+            "headline": "",
+            "article": "The ship Chariot, Pratt, at Boston, from London, has brought paper of the 9th of June. It appears that Lord Cochrane in the vicinity of Poros and had purchased forty vessels, which would be ready a. bout the middle of May; with which he intended to attack the Turkish fleet at Tenedos. Capt. Hastings had taken six Turkish vessels laden with provisions Sc. Every thing tends to us, that the Greek cause is in favorable train.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1091,
+                    "y0": 3462,
+                    "x1": 1967,
+                    "y1": 3788
+                }
+            ],
+            "bbox": [
+                1091,
+                3462,
+                1967,
+                3788
+            ],
+            "full_article_id": 32,
+            "id": "32_1827-07-26_p3_sn82014309_00414182926_1827072601_0219.json"
+        }
+    ]
+}

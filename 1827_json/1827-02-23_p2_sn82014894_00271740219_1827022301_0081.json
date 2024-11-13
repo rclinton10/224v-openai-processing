@@ -1,0 +1,875 @@
+{
+    "lccn": {
+        "title": "American watchman and Delaware advertiser.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2576-7445",
+        "lccn": "sn82014894",
+        "start_year": "1822",
+        "end_year": "1828",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [
+            "sn82014895"
+        ],
+        "successors": [
+            "sn82014393"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn82014894",
+        "edition": "ed-01",
+        "date": "1827-02-23",
+        "pages": [
+            "seq-2",
+            "seq-4",
+            "seq-1",
+            "seq-3"
+        ]
+    },
+    "page_number": "2",
+    "scan": {
+        "lccn": "sn82014894",
+        "edition": "ed-01",
+        "date": "1827-02-23",
+        "page": "2",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn82014894/1827-02-23/ed-1/seq-2.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn82014894/1827-02-23/ed-1/seq-2/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn82014894/1827-02-23/ed-1/seq-2/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn82014894/00271740219/1827022301/0081.jp2",
+        "height": 5640,
+        "width": 3512
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 205,
+                "y0": 251,
+                "x1": 1021,
+                "y1": 1829
+            },
+            "class": "article",
+            "raw_text": "abc surveys and shall furnish to tile Surveyor OF the\npublic lands Florida such information as VIII enable MN\n10 exhibit accurately the SAID claims on his township Pias\nand the lands thus claimed shall be reserved from sale\nyovidsd The information required 10 enable the Survey\nor to exhibit them the Township plas shall have been\nfurnished him within year after the lines OF the town\nShips within which such claims may lie, shall have been\nrun or where the township lines have already been run\nwithin year from the passage Of this act.\n\n\nSec l3. And be further enacted That i shall be me\nduty Of the Register and Receiver at Tallahassee 10 de-\nliver 10 the keeper of the public archives OF west\nFlorida all the records and papers OF the late BOARD o.\nCommissioners for West Florida and it shall be the duty\nOf the Register and Receiver OF the Land Oce TOT East\nFlorida to deliver the keeper Of the public archives Of\nEast Florida all the records and papers the late Board of\nCommissioners for East Florida, relating TO claims conhrm\ncd by this act.\n\n\nSec. a. and be il further enasd That It shall be law.\nfull for the Governor and Legislative Council to sell one OF\nthe reserved quarter sections Of and Tallahassee and\napply the proceeds to the erection of public bildngs\nand it shall be lawful for them to reserve such portion OF\nthe quarter section the Of Tallahassee contiguous\nTO the creek and fall may their opinion, con-\ntribute the health and convenience of the inhabitants\nand they shall have power to laws for the preservation\nOf and expulsion froH the other two reserved quarter\nsections all ntruders, and TO abae all huisances which\nsaid reserved quarter sections shall be reserved for\nand vested in the State should that Territory ever be\nerected into one.\n\n\nSec IS qnd be further enacted That the three per-\nwhose Improvements included in the reserves\nmade Indian Chiefs in the treaty With the Florida\nIndians Of the eighteenth of September one thousand\neight hundred and shall be entitled to pre-\nemp,on to the same quantity Of land said district, upon\nthe terms and conditions other pre-empons to be\nlocated under the direction Of the Receiver and Regster\nupon the production of proof that they would have been\nentitled to the provisions Of the act anng the right OF\nprc-emptioR if the reserves had not been made.\n\n\nJOHN w TAYLOR,\n\n\nSpeaker Of the House Of Representatives.\n\n\nNATH'I. MACON,\n\n\nPresident of the Senate pro tempore.\nApproved: 9th Feb. 1897.\n\n\nJOHN QUINCY ADAMS.",
+            "legibility": "Questionable",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1852,
+                "y0": 2282,
+                "x1": 2660,
+                "y1": 2992
+            },
+            "class": "article",
+            "raw_text": "Major Sa,erlee Clark, great Jackson man. late\neditor OF Coram's Champion in New York. has pub\nlished an article in the Alexandra Gazette in which\nhe declares, tha, an attempt to make fosl Of him\nwas once made by means Of letters written by some\nOF MIR. Calhoun's creatures, and frnnksd BY Mr..\nCalhoun himseli. The mnjor then saith, that were\nhe capable Of becoming tool, he should have en-\n\n\nlisted in Mr.. Calhoun's service, because he paid\nhis tools better than any other man, out of Uncle\nSANS treasury\" The Major then doth moreover\naffirm ,ha, the rule observed hy General Duff Green,\neditor o. the Jackson Warrington Telegraph, is\nto lie, in where to speak the truth would\nbetter serve his rn.\"-Thus do The officers Of the\nGeneral Jackson Corps, incon.ineny 20 to war with\neach other; thus do they give the public their own\nopinions Of each other, and thus the public not\nto give credit to any Of them. Dem. Press.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1949,
+                "y0": 2220,
+                "x1": 2550,
+                "y1": 2274
+            },
+            "class": "headline",
+            "raw_text": "SKY HIGH. SIR, SKY HIGH.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1046,
+                "y0": 3604,
+                "x1": 1849,
+                "y1": 5187
+            },
+            "class": "article",
+            "raw_text": "Mr.. EDITOR Reports appear 10 be carefully\ncirculated among members Of Congress and others,\nthat New Jersey, at the next Presidents election,\nwill give its electoral vote to Gen. Jackson The au\nthors OF such untounded declarations must take\ncounsel from their Wishss rather than their know\nledge, when they hazard such an opnsn. From an\nintimate acqusin,snee with the people of that State\nin oil s counties, from AZ extensive rrespondenee\ncarried on with gentlemen OF intelligence in each Of\nthose countless frsn personal observation, and the\nmost correct data that indubi,abc evidence can fur\nnsh, the writer Of this solemnly auers, that a,\nno antecedent period has the cause OF the Admins\ntraton stood fair in that State il does pres\nen-. AT the last Congressional election, when the\nparties were fairly arrayed, when the tickets we're\nheaded with the names OF jackson or .gdams. and\nevery possible efor! used by the friends OF the\ntormer to elect their candidates, the result was\nmajority OF $500 votes in favor OF the Administra-\nton ticket and had the friends OF the Adminisra-\ntim exerted themselves they eugh, to have done\nIN all the counties the majority would have been\niwelled 10 at east 10000. Eleven out of the four\nteen counties gave majorites for the Administrator\ncandidates. With such result before them, the\nfriends OF General Jackson mus. be literally mad 10\nclaim NewJersey as an Opposition State. Since\nthen, the writer Of this is well assured that the csuse\nOF the Administraten has been growing in New.\nJersey. and that many active and influential men\nhave signi6ed their appreciation Of its measures and\nare prepared 10 give it their most cordial support\nII the reelection OF Mr.. Adams depends upon New\nJersey, it is as infaitibly certain as any future\nevent can be. To General Jackson, as brave ans\nsuccessful commander, tho people of New-Jersey\nare friendly; but from him ~ a candidate for lhs\nPresidency, their attachments have long since beer\nWithdrawn.\n\n\nA JERSEYMAN.\nWashington, Jan. 80.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1209,
+                "y0": 3547,
+                "x1": 1682,
+                "y1": 3592
+            },
+            "class": "headline",
+            "raw_text": "From the National Journal.",
+            "legibility": "Questionable",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 209,
+                "y0": 1951,
+                "x1": 1025,
+                "y1": 4614
+            },
+            "class": "article",
+            "raw_text": "Mr.. Boon, az chairman OF the committee therein\nmentioned, delivered a report, recommending the\nadoption oi the accompanying preamble and rsso\nlutions; which we're read, laid the table, and are\na. follow, via.\n\n\nThe committee TO whom was referred the memo.\nrial Of \" The Visitors and Governors OF Washing\nton College, in The State Of Maryland\" have had\nthe same under confederation, and recommend the\nadoption Of the following preamble and resolutions :\n\n\nWhereas the encouragement, Of literature in all\nits branches, from the rudments 10 be taught in our\nprimary schools, to the more elevated and scientific\nhbors oil collegiate course. 10 sublec, deeply al\nfectng to the character and best interest OF free\nstate and there can, it 10 conceived, be national\nundertaking better calculated TO insure the perms\nnent prosperity Of the republic. 1t enhances the\nvalue OF free institutions by making them better\nunderstood it gives yigor to the laws by ii whole\nsome influence in their for nation and il strength\nems tbs energies OF governmsnt by enlistng in its\nauppor, . greater ms.a Of intellectual force.\n\n\nThese considerations entle it TO the highest re-\ngard from ssery enlightened community. but more\nespecially from one whose government is maintain\ned by a representation mutable in its nature. and\nselected indiscriminately from the great body Of\nche people.\n\n\nAnd whereas, the college at Chester town. honor\ned by the veneralsd name of ths Father of his\nCountry, for some years past, notwithstanding The\nfeeble aid OF the state and the formidable obstacles\nit conended with, had been dfusing its blessings,\nas we'll into Souncs, over the state at large\naud the buildings Of this institution having recently\nbeen destroyed BY FIRE, Communicated, ~ is conf\nIDENTIFY believed, By the hand of an ineendiary And\nwhereas, from the petition Of the Visitors and Gov\nernors Of this institution, and from the known wish.\nes and arden, desires OF large portion Of the\ncommunity on this subject, is believed TO be proper,\nand in high degree wise and polite, for the sate\n20 appropriate fund tor rebuilding this edihce,\nwhich, when erected, was designed by i.s immedi\nate founders, and BY the intelligent legislature oi\nour aiate, to be in honorable and perpetual memory\nOf the illustrious and vir,uous Washington there\nfore,\n\n\nResolved, That the treasurer OF the Western\nahere be and he is hereby authorized and required\nto pay unto \"ths Visitor. and Governors OF Wash.\ningten College in the State Of Maryland or to\ntheir order, the sum Of ten thousand dollars, the\nsame 10 be paid in the following manner viz. The\naum of Ave thousand dollars on the hrst day o\nMay in the year 1928 the sum Of two thousant\nEve hundred dollars on the 6rs. day Of May in the\nyear 1893: and the sum OF two thousand FIVE hun\ndred dollars ON the hrst day of May in the year\n1880.\n\n\nResolved. Tha, when ihe said full sum Of ter\nthousand dollars shall be received BY the said Viii\ntors and Governors the same shall be in full pay\nment, satisfaction and dischsrge OF all claim ane\ndemand whatsoever. which \"the Visitors and Gov\nernors OF Warrington College in the State o\nMaryland\" may or can have under, or by virtue o\nthe act. entitled. \" An ACT to provide permanen\nfund for the further enc oursgement and establish\nmen, Of Washington College,\" passed at Novsm\nhsr session 1884, chapter Z.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 293,
+                "y0": 1855,
+                "x1": 937,
+                "y1": 1952
+            },
+            "class": "headline",
+            "raw_text": "LEGISLATURE OF MARYLAND.\nHouse Of Delegates-Feb. 9, 1897.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1852,
+                "y0": 1872,
+                "x1": 2660,
+                "y1": 2190
+            },
+            "class": "article",
+            "raw_text": "One circumstance Of the history Of the Vice Presidents\nappeal cannot fail strike every reader The report Of\nthe Committee read to hs House Of Representatives\nand ordered lie the table and to be printed dis\nposition Of it which retained within the power, and placed\nil among the pending business Of the House It being,\ntherefore, finally acted on, the Vice Presidents\nsumption of the Chair remsre end not reconcilea\nBile with the ground for abandoning taken in his letter\nto the Senate. Nat. Journal",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 2483,
+                "y0": 1810,
+                "x1": 2620,
+                "y1": 1851
+            },
+            "class": "headline",
+            "raw_text": "Journal.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1857,
+                "y0": 4014,
+                "x1": 2660,
+                "y1": 5354
+            },
+            "class": "article",
+            "raw_text": "We have before US . most interesting letter from\nan American Lady, written at +\" Lagrange, Decem-\nber 9th, 1896\" where she had, for some time, been\non 4 visit 10 the venerable and excellent Lafayette.\nWe have much pleasure in submitting the following\nextracts. They rub out foul caumny which, We\nare al loss 10 know upon wha, authority, has been\nextensively circulated against the American people\n\n\nDem. Press.\n\n\nby the American papers see, q letter said TO\nDC written BY very respecisble gentleman, giving\nan account OF visi, TO Lagrange: among numer\nGus errors in lhia production, there is one which has\ngiven General Lafayette real pain. 1t 10 where the\nwriter says, he is iniormed that nine applications Is\nhad been made to the General for money, the pre-\ncedlng week. by young men from the United States.\nLast night, the General said, with much animation,\nthat this was as great mistake, as ever WAS made,\nand that he had never had single application OF\nthat nature that tbs Young Americans Who had\ncalled upon him, had uniformly conducted them.\nselves with the creates, proprie.y, and tha, there\nwas no Foundation Whatever, for the report.\n\n\n~ have, says the letter writer, seen enough oI\nother parts OF the world to teach me 10 ioye nv own\ncountry more, and TO estlmats its advantages high\ner' every day. Ours may emphatieally be called\nthe Land OF Liberty. The truth il, we have &c\nmuch freedom and so little opper tunity Of contrast\ning our condition with other ceuntries, that We dc\nnot sufficiently appreciate our happnsss. The yea\ntor and love OF county, feel, makes me anxou,\nthat the above declaration of our beloved Genera\nmay be given in reEu,aon Of the libel which ha,\nbeen published\"",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 231,
+                "y0": 4723,
+                "x1": 1034,
+                "y1": 5138
+            },
+            "class": "article",
+            "raw_text": "The bill sppropriatng $1,000 per annum from\nshe treasury OF the s,as, to the objects Of the A.\nmercan Colonization society, upon condition that\nthe treasurer sha be satisfied that said sum is ex.\npended in the removal Of free coloured people\nwho have been actual residents This state for twelve\nmonths preceding the time Of their embarka,ion and\nfrom each county and city Of the siate in proportion\n10 the number Of applicants. Saturday las, passsd\nlhs house Of delegates by vote OF 40 10 \"a\n\n\nRepublican.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 403,
+                "y0": 4657,
+                "x1": 1003,
+                "y1": 4728
+            },
+            "class": "headline",
+            "raw_text": "annapolis, Nd. FEB. IS.\nCOLONIZATION BILL.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 227,
+                "y0": 5199,
+                "x1": 1043,
+                "y1": 5350
+            },
+            "class": "article",
+            "raw_text": "The fawfng resolution has been adopted by both hou\nses Of the General Assembly Of Kentucky.\n\n\nResoiueR. &c. That they view with deep and friendly\ninterest e esetons Of the American Colonization Soce-",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 425,
+                "y0": 5155,
+                "x1": 853,
+                "y1": 5191
+            },
+            "class": "headline",
+            "raw_text": "COLONIZATION SOCIETY.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1852,
+                "y0": 3066,
+                "x1": 2660,
+                "y1": 3988
+            },
+            "class": "article",
+            "raw_text": "\n\n\n@THE UNITED STATES AND GkoaeIA.-Wc\ndo not hesitate TO say, that the Pfesidenrs Message\nTO- both Houaes OF Congress. 10 no, the production\nOf q state,man. A puritan nigh, have penned the\ncanting phrase Of - superadded obligation even\nhigher than that Of human authoriiy.'' &c. &c.\n\n\nWhat think the American people OF this Are\nthe politicians of Virginia preparing TO de,hrone the\nDeity, and like the jacobns Of France, 10 proclaim\nGoddess Of Reasonf Do they then acknowledge\nno higher than human aulhority1 Tor ourselves, il\nthe Presidents Message relative to the Greeks and\nGeorgisns be puritanical. We should like to enrol\nourselves with the puritans. If auch exalted SEN\ntmcn,s, and such Roman fitmness Of purpose, are\nthe consequences ofpuranism, long may we have\na purtsnicsl President. If the opposition wish TO\nbreak down the President, they mus, attack him in\nmore vulnerable point than that Mesiage.-\nThat document will form of the brigh,es st leaves\nIN the ehaplct with which the muse OF history will\nentwine the brow Of ITS author No, no, gentlemen\nVrginisns You have no, struck the heel OF Achil\nles yes \". York Commercial.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 1919,
+                "y0": 3031,
+                "x1": 2607,
+                "y1": 3076
+            },
+            "class": "headline",
+            "raw_text": "From the Richmond Enquirer Of FEB. 10.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1051,
+                "y0": 5225,
+                "x1": 1862,
+                "y1": 5354
+            },
+            "class": "article",
+            "raw_text": "The good people who manage the opposition, in\nVirginia, thrown into . state Of tcrribls alarm,\ntthe discovery that GoWrner Tyler, the newly e.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 1513,
+                "y0": 5102,
+                "x1": 1827,
+                "y1": 5151
+            },
+            "class": "author",
+            "raw_text": "A JERSEYMAN.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -2
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 1090,
+                "y0": 5137,
+                "x1": 1452,
+                "y1": 5187
+            },
+            "class": "headline",
+            "raw_text": "Warrington, Jan. 30.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 2668,
+                "y0": 1220,
+                "x1": 3466,
+                "y1": 5416
+            },
+            "class": "article",
+            "raw_text": "nnr\ngood fortune 10 stand terms of perfect intimacy u,\nyou from the first of our acquaintance and, more ,D,\npecialy since you intimately acquainted with the l\nings and sentiments political Subjects which h,y, en-\ntertaned since the origin Of Acquaintance Upon no\nhave you distinctly understood me, than in reaiou\nthe late Presidential election and the principal actors On\nthat interesting occasion. Te you made known thefu\nOf my having written to MIR. Clay, in day two after\nhad done and with you along with many etheno\nfriends was my fortune. while differing in some measure\ncertain political TOPICS to avow openly, eien 6es.\nsed whatsoever you may please Such destination .,\nmay give il viii entirely satisfy\n\n\nYour friend and servant,\nJOHN TYLER |\n\n\nThs we'll established responsibility Of the Editors\nOF the Enquirer, renders any statement OF fact on\ntheir own responsibility, worthy Of no,ice-,ud /\nreadily concede that il hsy fall into any error such\nerror would be purely uninlenienal. The sceoun\nwhich Is given By them in their paper Of this morn\ning Of = conversatsn held BY enc OF them with N.\non the subject Of letter written by myself TO MI\nClay shortly alter the Presidential elecsn, is eatu\nlated to make the impression that was disposed\ncomplain Of MIR. Clay for the mere fact OF having\nspoken Of letter prirate, it il trae. bat not conf\ntdential-thus leaving The public at liberty TO ina\nthat ! had acted with concealmsnt, ard had kept\nreserve q set Of opinions to be acted on when had\nreached the Senate Chamber. am sure that such\ncould not have been, and was not the intention\nWhateser regre. l may have experienced al IL,\ndegrees Of ynupsraton, as to which no man ri s,ns,\nby can be wholly Indifferent, 10 which The Win\nchester paragraph may have unjusty subjected m.\nye, had no righ, to complain Of Mr. Clay. andin\nfact no possible motive, to do so, merely becaussh\nhad spoken Of letter not confidential. and the sen\ntiments OF which myself had over and over again\navowed, as those which honestly entertained. Nov\nthe circumstances attendant on that converslicn\nwere these-being in the lobby Of the H. .oi D,\n| which, ut the time was somewhat crouded. Ce\n| Gooch with whom ! had been 10 habits Of friendly\ninlercourse, approac ached me and placed in my hand,\n,hs Winchester paper containing the SO much tlf.\ned OF paragraph. have no precise recollection\nthe very terms Of the conversation. In conyersng\nwith one supposed TO be friend, do not iressur\nup every syllable for future use. ] can therefor\nonly deny what did not say, il q manifestiy ialR\nascriptron is made to me, but cannot repeat The\nprecise words uttered. That man is surely TO be\nenvied whose memory is so acute and 10 retenliven\nto retail with entire accuracy whole sentences po.\nken in conversation, under The circumstances al.\ntsndans on this. In this instance can only speak\nwith perfect confidence OF the impressions made on\nmy mind from reading the Winchcstcr paragraph\nhen Tor the hrst time seen by ms. From the sp.\nparent eagerness with which he sought The inter.\n\n\n\n\n\nsion that stood committed TO the Adminisralion,\nand At the moment il also occurred 10 ms ihs, Mr.\nClay by speaking publicly Of the letter sought\ncreate that impression with the public, and thereby\nTO render all men opposed 10 the Administrator re-\nserved and distant towards me, and thus ulimatel!\n10 cause me 10 sds with ths Administrations\nthis ascrlption am convinced was mistaken. and\n! hesitate not to retract the imputaon.-My better\nreflection advises me that his was entire\ny natural in itself. and which any one placed in hN\nsituation would have been apt to have adopted. The\nobject then, with me in utterinR any thing 10 Col\nY. could only have been 10 remove from his mind\nthe impression Of my commitment; and the Ian.\nguage used was to this effect: I\" did write 10 Mr.\nClay abou, the time ol the Presidential Election--\nThe precise terms OF the letter do not now remem.\nDer. but haze copy and uiH rfcur to it-bul, il\nMr. Clay thinks that he binds me to the Admins\niraion By breaking the seal Of private cerrespon\ndencs Tor BY making public the contents OF my lslts\nhs expressions are OF the same mport) that ein\nbe driven from my principles he deceives himself\nThe coldnesa OF my friends may repel me from\ntheir intercourse, but nothing can cause me absh\ndon my principles\" | further stated that II vaf\ntrue should have voted for Mr.. Adams, MIR. Crsw\nford aside, but that tina. created obligation sustain\nhim aferwards-to which Col. Gooch as well a. J\nremember replied\" Virginia would have done\nthen tbs same thing, but not 80 now''-or that .\npreference for Mr.. Adams At the time OF his cleo\nlion cid not necessarily imply = preference for him\nnow\" repeat could no, vouch for the precise\nform OF expression. but that the object Of any re.\nmark used by me, was a. above stated. am pos\ntive, could have had no motive to speak Of itn\nany other manner, since the TACT ,hst that letter h\nbeen written had been made known by me to MANI\nand my opinion, relative to Mr.. Clsy's conduct h'a\nbeen divulged in instances wahou, number.\nIn adyertinR TO that letter, shall content myself\nWith stating its substance but if MIR. Clay shs sec\ncause TO crafty the appetites Of newspaper Editof\nhe is az liberty TO publish IT, shall have cau'e\nto complain Of it. 1t is then perfectly Tue, that J",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 3099,
+                "y0": 1048,
+                "x1": 3426,
+                "y1": 1093
+            },
+            "class": "headline",
+            "raw_text": "ROBERT DoUTHAT.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 1852,
+                "y0": 224,
+                "x1": 2655,
+                "y1": 1847
+            },
+            "class": "article",
+            "raw_text": "lected Senator OF that state, wroas ieuer 70 sl'\nC,v. lust after The presidential question, approving\nn. co,,y.e Of conduct Of Mr. Clay, on the occasion OF\n,he election and congraua,ing him and the country\non the result. They consider this as hish treason\n,rains, Tho principles Of their party and one paper\nthe Virginia Jackson Republican, has put on moa.'\nming, in consequence. But this Is not 1n-'hs\nsame MIR. Tyler, while member OF ms 1,ou'e =,\nREPRESENTATIVES., made q speech on the saoject o.\nC,n. jackson. conduct, in the Seminsls war, IN\nwhich he severely animadver,ed upon what ne con-\neeiyed to be his high handed measures, and was 10\nfavor Of his being publicly censared, a. his vote on\nreeord will show Truly, this Mr.. Tyler, who was\nclsiuned as the witch\" Of the party, In virginia\nmus. be strange sort of Jackson mnn,slncs Inc Zen.\nerals friends put themselves in mourning on ac-\ncoup, of his election. II il ressy 10 be feared, that\nhe will on some occasion, forget his duies so lar\n90 10 vote with the administration. What on 10\ndeble stain would this be upon the pure principles\nOf the ancient dominion.\n\n\nTrenton (.v. ~ yamerican.\n\n\nWashington, February l5-The Telegraph OF\nYesterday asserts that Mr.. Clay was in the House,\non Tuesday. 10 superintend the Report Of the MIX\nCommittee\" We have good reasons lor stating\ntha, Mr.. Clay did no, reach the House Of AsPre\nscntaives until after that Report had been read and\nthat his visit to the Capitol was to see some speci-\nmens OF American manufacture which wsrs exhlbi-\nted in the Ro,unda. A system Of espionage, more\nremarkable for any thing than for the fidelity OF ts\nreports, seems to be prac,ised in regard 10 every\nmovement Of this gentleman and It has at last\ncaught him in the fact OF examining some OF the\npractical results of those measures Tor the encsur'\nagemcst si American industry, and the promotion\nOf American greatness, TO which his abilities have\nso long and so successfully been devoted.\n\n\nJournal.",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1028,
+                "y0": 158,
+                "x1": 1840,
+                "y1": 3649
+            },
+            "class": "article",
+            "raw_text": "Nv ~ establishing Asylum on the eoaN Of Africa for the\nree people Of color of the United States and that the\nSenator's add Representatives in Congress from TINS\n% facilitate the removal Of such free persons OF color IS\nNAV desire to emgate from the United States to the COL\nony, and insure them the protection and patronage Of\nthe general government far may be compatible with\nthe safety Of the United States.\n\n\nJackson in Ksntucky. The Legislature OF Ken\nlucky adjourned on the 25th Of January. II is gen.\norally known that an attempt was made TO bring that\nbody out against the administration and in avor OF\nGen. Jackson, II may not be amiss to give briei\nstatement of the proceeding.\n\n\nThe Tennessee amendment Of the constitution OF\nthe United States was set foot 40 kind OF enter\ning wedge for the General. Accordingly his sup.\nporters broug il, before the legislature OF Kentucky\nal their late session. The Senate passed resolutions\nrecommending the amendment. They were amen\nded in the House, passed and sent back to the Senate\nfor concurrence in the amendments. They were\nlaid on the table in the Senats, and remained there\nwhen the session ended.\n\n\nOne OF the amendments made in the House, was\nthe insertion Of proviso in The following words:\n\n\nProvided, that nothing in the foregoing resolu.\nen s intended to convey the idea that the charges\nOf corruption which have been imputed TO the pre-\n\n\n\n\n\nelection OF Presden at the late election BY congress\narc founded in truth, or are believed by this Gene\nraj Assembly.\"\n\n\nThis provso was adopted in the House by vote\nOF 81 TO As.\n\n\nWhile the subject was under discussion, another\nprovso was offered asserting that the resolution OF\nthe Legislature, in 1924, declaring that majority\nOf the people preferred General Jackson, was true.\n\n\nThis proyiso was laid upon The table until the frs.\n- Tkns o fks\nLegislature Of Kentucky have indicated pretty\nstrongly, that they are not yet prepared to 60 for\nthe Hero. And majority Of the House have pro-\nnounced the often repeated charge Of corruption in\nthe Presidential election to be . ialsehood.\n\n\nGin. Gns.\n| From Louisiana, we received some days sgo, the\nMessage Of her worthy Governor, Henry johnson,\na, the opening Of the Session cf the Legislature II\nis distinguished BY all those amiable and benevolent\ntraits which mark the msn. We should be glad 10\ndo BY it, by many Of the excellent Messages Tor\nannual Exposes) Of the Executives Of the States\nbut are prevented BY the want Of room. The fol-\nlowing extract is, however, so short that We may ven\nture 10 insert III a. being that part OF ths Message\nwhich bears Immediately upon tho concerns OF the\nGeneral Government:-- Vat Intelligencer.\n\"The condition OF the United States 10 preem-\nnently happy and prosperous. They continue to\nadvance rapidly IN population, IN wealth. IN power,\nin responsibility The last half ceRtury has wilneAD-\ned immense Improvements in science, literature,\nand oil the arts. The success Of our political sy..\ntenn has been commensurate with the expectations.\nand smost with the wishes of It's llustrous Trainers\nUnited under the principles Of the Federal Consti-\ntuition, we he under TWO fold obligation to support\nthe National Government in al it's constitutional\niuncons and TO msin,ain, at the same time, the\nrights of the States. The one 10 intimately blended\nwith our existence IS powerful nation the other\nis indispensable TO the preservation Of free Govern\nment.\n\n\n\" In The attsc hment Of the People TO the Union\nin the wisdom and integrity OF the men in whom\nthey conhde in the eoun,cr-poise OF reciprocal au-\nshori,es and dependencies, have security sgains\nall encroschments Of any portion Of Inc community\nupon the rights Of another And while the Gene\nraj Government is lsboring TO preserve honor able\npeace with foreign nations, and. by wise inca.\nsures OF administration, to promote prosperity al\nhome, il is incumbent W to use every effort to\nrender our local Institutions perfee, ~ possible .\n\n\nFrom the National Journal\n\n\nMa. EDlroR Reports appear 10 be carefully",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 2668,
+                "y0": 348,
+                "x1": 3444,
+                "y1": 1089
+            },
+            "class": "article",
+            "raw_text": "Gentlemen You win perceive by the enclosed le.V 4.\nGovernor Tyler, that authorised to use the stasn\nreceived in the envelope Of that letter. as NAV n.s\nPublic curiosity much .iptoe in relation p'Ne, ~ 4\nmatters contained in that statement have deerm;r.,\nCRAFTY all desirous to be informed Of them by h'n%N\nover 10 publication the letter and statement. Ii h,.\nton Mr. Tyler the and devoted advocate n u\nCrawford and in all public meetings. did not hs,a\nproclaim that Crawford aside, Mr. Adams was hi, r.s\nchoice. ~\nremember well to have heard Mr.. Tyler ,peat os h\ncorrespondence with MIR. Clay, and know that he nr m\nmany occasions among our constituents, uncond,;orry\nly ayowsd that he would have voted with Mr. c.'\nand that he did not believe in the charge, ne ~\nthought il proper TO add these remarks as they NAV\nsome measure, from the minds of all candid NV\nthe charge Of conceament. unkndly made BY The n\nlie. Yours respectfully.\n\n\nROBERT DoUTHAr",
+            "legibility": "Questionable",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2826,
+                "y0": 233,
+                "x1": 3330,
+                "y1": 327
+            },
+            "class": "headline",
+            "raw_text": "From the Richmond Enquirer.\nTO the Editors Of the ENQUIRER.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": -2
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 3073,
+                "y0": 339,
+                "x1": 3255,
+                "y1": 362
+            },
+            "class": "author",
+            "raw_text": "RrcHMown",
+            "legibility": "Illegible",
+            "full_article_id": 20,
+            "reading_order_id": -1
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 1028,
+                "y0": 242,
+                "x1": 1840,
+                "y1": 538
+            },
+            "class": "article",
+            "raw_text": "IT, II ESTABLISHING an Asylum the coat Of Africa for the\nre- peope Of color Of the United States and that the\nsenators add Representatives in Congress from this state\nand they hereby requested to use their beat efforts\nfacilitate the removal Of such free persons Of color IS\nNAV desire to emgate from the United States to the col\nony and to insure them the protection and patronage OF\nthe general government far may be compatible with\nthe safety Of the United States.",
+            "legibility": "Questionable",
+            "full_article_id": 26,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                0
+            ],
+            "headline": "",
+            "article": "abc surveys and shall furnish to tile Surveyor OF the\npublic lands Florida such information as VIII enable MN\n10 exhibit accurately the SAID claims on his township Pias\nand the lands thus claimed shall be reserved from sale\nyovidsd The information required 10 enable the Survey\nor to exhibit them the Township plas shall have been\nfurnished him within year after the lines OF the town\nShips within which such claims may lie, shall have been\nrun or where the township lines have already been run\nwithin year from the passage Of this act.\n\n\nSec l3. And be further enacted That i shall be me\nduty Of the Register and Receiver at Tallahassee 10 de-\nliver 10 the keeper of the public archives OF west\nFlorida all the records and papers OF the late BOARD o.\nCommissioners for West Florida and it shall be the duty\nOf the Register and Receiver OF the Land Oce TOT East\nFlorida to deliver the keeper Of the public archives Of\nEast Florida all the records and papers the late Board of\nCommissioners for East Florida, relating TO claims conhrm\ncd by this act.\n\n\nSec. a. and be il further enasd That It shall be law.\nfull for the Governor and Legislative Council to sell one OF\nthe reserved quarter sections Of and Tallahassee and\napply the proceeds to the erection of public bildngs\nand it shall be lawful for them to reserve such portion OF\nthe quarter section the Of Tallahassee contiguous\nTO the creek and fall may their opinion, con-\ntribute the health and convenience of the inhabitants\nand they shall have power to laws for the preservation\nOf and expulsion froH the other two reserved quarter\nsections all ntruders, and TO abae all huisances which\nsaid reserved quarter sections shall be reserved for\nand vested in the State should that Territory ever be\nerected into one.\n\n\nSec IS qnd be further enacted That the three per-\nwhose Improvements included in the reserves\nmade Indian Chiefs in the treaty With the Florida\nIndians Of the eighteenth of September one thousand\neight hundred and shall be entitled to pre-\nemp,on to the same quantity Of land said district, upon\nthe terms and conditions other pre-empons to be\nlocated under the direction Of the Receiver and Regster\nupon the production of proof that they would have been\nentitled to the provisions Of the act anng the right OF\nprc-emptioR if the reserves had not been made.\n\n\nJOHN w TAYLOR,\n\n\nSpeaker Of the House Of Representatives.\n\n\nNATH'I. MACON,\n\n\nPresident of the Senate pro tempore.\nApproved: 9th Feb. 1897.\n\n\nJOHN QUINCY ADAMS.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 205,
+                    "y0": 251,
+                    "x1": 1021,
+                    "y1": 1829
+                }
+            ],
+            "bbox": [
+                205,
+                251,
+                1021,
+                1829
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-02-23_p2_sn82014894_00271740219_1827022301_0081.json"
+        },
+        {
+            "object_ids": [
+                10,
+                1
+            ],
+            "headline": "SKY HIGH. SIR, SKY HIGH.",
+            "article": "Major Sa,erlee Clark, great Jackson man. late\neditor OF Coram's Champion in New York. has pub\nlished an article in the Alexandra Gazette in which\nhe declares, tha, an attempt to make fosl Of him\nwas once made by means Of letters written by some\nOF MIR. Calhoun's creatures, and frnnksd BY Mr..\nCalhoun himseli. The mnjor then saith, that were\nhe capable Of becoming tool, he should have en-\n\n\nlisted in Mr.. Calhoun's service, because he paid\nhis tools better than any other man, out of Uncle\nSANS treasury\" The Major then doth moreover\naffirm ,ha, the rule observed hy General Duff Green,\neditor o. the Jackson Warrington Telegraph, is\nto lie, in where to speak the truth would\nbetter serve his rn.\"-Thus do The officers Of the\nGeneral Jackson Corps, incon.ineny 20 to war with\neach other; thus do they give the public their own\nopinions Of each other, and thus the public not\nto give credit to any Of them. Dem. Press.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1949,
+                    "y0": 2220,
+                    "x1": 2550,
+                    "y1": 2274
+                },
+                {
+                    "x0": 1852,
+                    "y0": 2282,
+                    "x1": 2660,
+                    "y1": 2992
+                }
+            ],
+            "bbox": [
+                1852,
+                2220,
+                2660,
+                2992
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-02-23_p2_sn82014894_00271740219_1827022301_0081.json"
+        },
+        {
+            "object_ids": [
+                12,
+                2
+            ],
+            "headline": "From the National Journal.",
+            "article": "Mr.. EDITOR Reports appear 10 be carefully\ncirculated among members Of Congress and others,\nthat New Jersey, at the next Presidents election,\nwill give its electoral vote to Gen. Jackson The au\nthors OF such untounded declarations must take\ncounsel from their Wishss rather than their know\nledge, when they hazard such an opnsn. From an\nintimate acqusin,snee with the people of that State\nin oil s counties, from AZ extensive rrespondenee\ncarried on with gentlemen OF intelligence in each Of\nthose countless frsn personal observation, and the\nmost correct data that indubi,abc evidence can fur\nnsh, the writer Of this solemnly auers, that a,\nno antecedent period has the cause OF the Admins\ntraton stood fair in that State il does pres\nen-. AT the last Congressional election, when the\nparties were fairly arrayed, when the tickets we're\nheaded with the names OF jackson or .gdams. and\nevery possible efor! used by the friends OF the\ntormer to elect their candidates, the result was\nmajority OF $500 votes in favor OF the Administra-\nton ticket and had the friends OF the Adminisra-\ntim exerted themselves they eugh, to have done\nIN all the counties the majority would have been\niwelled 10 at east 10000. Eleven out of the four\nteen counties gave majorites for the Administrator\ncandidates. With such result before them, the\nfriends OF General Jackson mus. be literally mad 10\nclaim NewJersey as an Opposition State. Since\nthen, the writer Of this is well assured that the csuse\nOF the Administraten has been growing in New.\nJersey. and that many active and influential men\nhave signi6ed their appreciation Of its measures and\nare prepared 10 give it their most cordial support\nII the reelection OF Mr.. Adams depends upon New\nJersey, it is as infaitibly certain as any future\nevent can be. To General Jackson, as brave ans\nsuccessful commander, tho people of New-Jersey\nare friendly; but from him ~ a candidate for lhs\nPresidency, their attachments have long since beer\nWithdrawn.\n\n\nA JERSEYMAN.\nWashington, Jan. 80.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1209,
+                    "y0": 3547,
+                    "x1": 1682,
+                    "y1": 3592
+                },
+                {
+                    "x0": 1046,
+                    "y0": 3604,
+                    "x1": 1849,
+                    "y1": 5187
+                }
+            ],
+            "bbox": [
+                1046,
+                3547,
+                1849,
+                5187
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-02-23_p2_sn82014894_00271740219_1827022301_0081.json"
+        },
+        {
+            "object_ids": [
+                13,
+                3
+            ],
+            "headline": "LEGISLATURE OF MARYLAND.\nHouse Of Delegates-Feb. 9, 1897.",
+            "article": "Mr.. Boon, az chairman OF the committee therein\nmentioned, delivered a report, recommending the\nadoption oi the accompanying preamble and rsso\nlutions; which we're read, laid the table, and are\na. follow, via.\n\n\nThe committee TO whom was referred the memo.\nrial Of \" The Visitors and Governors OF Washing\nton College, in The State Of Maryland\" have had\nthe same under confederation, and recommend the\nadoption Of the following preamble and resolutions :\n\n\nWhereas the encouragement, Of literature in all\nits branches, from the rudments 10 be taught in our\nprimary schools, to the more elevated and scientific\nhbors oil collegiate course. 10 sublec, deeply al\nfectng to the character and best interest OF free\nstate and there can, it 10 conceived, be national\nundertaking better calculated TO insure the perms\nnent prosperity Of the republic. 1t enhances the\nvalue OF free institutions by making them better\nunderstood it gives yigor to the laws by ii whole\nsome influence in their for nation and il strength\nems tbs energies OF governmsnt by enlistng in its\nauppor, . greater ms.a Of intellectual force.\n\n\nThese considerations entle it TO the highest re-\ngard from ssery enlightened community. but more\nespecially from one whose government is maintain\ned by a representation mutable in its nature. and\nselected indiscriminately from the great body Of\nche people.\n\n\nAnd whereas, the college at Chester town. honor\ned by the veneralsd name of ths Father of his\nCountry, for some years past, notwithstanding The\nfeeble aid OF the state and the formidable obstacles\nit conended with, had been dfusing its blessings,\nas we'll into Souncs, over the state at large\naud the buildings Of this institution having recently\nbeen destroyed BY FIRE, Communicated, ~ is conf\nIDENTIFY believed, By the hand of an ineendiary And\nwhereas, from the petition Of the Visitors and Gov\nernors Of this institution, and from the known wish.\nes and arden, desires OF large portion Of the\ncommunity on this subject, is believed TO be proper,\nand in high degree wise and polite, for the sate\n20 appropriate fund tor rebuilding this edihce,\nwhich, when erected, was designed by i.s immedi\nate founders, and BY the intelligent legislature oi\nour aiate, to be in honorable and perpetual memory\nOf the illustrious and vir,uous Washington there\nfore,\n\n\nResolved, That the treasurer OF the Western\nahere be and he is hereby authorized and required\nto pay unto \"ths Visitor. and Governors OF Wash.\ningten College in the State Of Maryland or to\ntheir order, the sum Of ten thousand dollars, the\nsame 10 be paid in the following manner viz. The\naum of Ave thousand dollars on the hrst day o\nMay in the year 1928 the sum Of two thousant\nEve hundred dollars on the 6rs. day Of May in the\nyear 1893: and the sum OF two thousand FIVE hun\ndred dollars ON the hrst day of May in the year\n1880.\n\n\nResolved. Tha, when ihe said full sum Of ter\nthousand dollars shall be received BY the said Viii\ntors and Governors the same shall be in full pay\nment, satisfaction and dischsrge OF all claim ane\ndemand whatsoever. which \"the Visitors and Gov\nernors OF Warrington College in the State o\nMaryland\" may or can have under, or by virtue o\nthe act. entitled. \" An ACT to provide permanen\nfund for the further enc oursgement and establish\nmen, Of Washington College,\" passed at Novsm\nhsr session 1884, chapter Z.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 293,
+                    "y0": 1855,
+                    "x1": 937,
+                    "y1": 1952
+                },
+                {
+                    "x0": 209,
+                    "y0": 1951,
+                    "x1": 1025,
+                    "y1": 4614
+                }
+            ],
+            "bbox": [
+                209,
+                1855,
+                1025,
+                4614
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-02-23_p2_sn82014894_00271740219_1827022301_0081.json"
+        },
+        {
+            "object_ids": [
+                28,
+                4
+            ],
+            "headline": "Journal.",
+            "article": "One circumstance Of the history Of the Vice Presidents\nappeal cannot fail strike every reader The report Of\nthe Committee read to hs House Of Representatives\nand ordered lie the table and to be printed dis\nposition Of it which retained within the power, and placed\nil among the pending business Of the House It being,\ntherefore, finally acted on, the Vice Presidents\nsumption of the Chair remsre end not reconcilea\nBile with the ground for abandoning taken in his letter\nto the Senate. Nat. Journal",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2483,
+                    "y0": 1810,
+                    "x1": 2620,
+                    "y1": 1851
+                },
+                {
+                    "x0": 1852,
+                    "y0": 1872,
+                    "x1": 2660,
+                    "y1": 2190
+                }
+            ],
+            "bbox": [
+                1852,
+                1810,
+                2660,
+                2190
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-02-23_p2_sn82014894_00271740219_1827022301_0081.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "We have before US . most interesting letter from\nan American Lady, written at +\" Lagrange, Decem-\nber 9th, 1896\" where she had, for some time, been\non 4 visit 10 the venerable and excellent Lafayette.\nWe have much pleasure in submitting the following\nextracts. They rub out foul caumny which, We\nare al loss 10 know upon wha, authority, has been\nextensively circulated against the American people\n\n\nDem. Press.\n\n\nby the American papers see, q letter said TO\nDC written BY very respecisble gentleman, giving\nan account OF visi, TO Lagrange: among numer\nGus errors in lhia production, there is one which has\ngiven General Lafayette real pain. 1t 10 where the\nwriter says, he is iniormed that nine applications Is\nhad been made to the General for money, the pre-\ncedlng week. by young men from the United States.\nLast night, the General said, with much animation,\nthat this was as great mistake, as ever WAS made,\nand that he had never had single application OF\nthat nature that tbs Young Americans Who had\ncalled upon him, had uniformly conducted them.\nselves with the creates, proprie.y, and tha, there\nwas no Foundation Whatever, for the report.\n\n\n~ have, says the letter writer, seen enough oI\nother parts OF the world to teach me 10 ioye nv own\ncountry more, and TO estlmats its advantages high\ner' every day. Ours may emphatieally be called\nthe Land OF Liberty. The truth il, we have &c\nmuch freedom and so little opper tunity Of contrast\ning our condition with other ceuntries, that We dc\nnot sufficiently appreciate our happnsss. The yea\ntor and love OF county, feel, makes me anxou,\nthat the above declaration of our beloved Genera\nmay be given in reEu,aon Of the libel which ha,\nbeen published\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1857,
+                    "y0": 4014,
+                    "x1": 2660,
+                    "y1": 5354
+                }
+            ],
+            "bbox": [
+                1857,
+                4014,
+                2660,
+                5354
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-02-23_p2_sn82014894_00271740219_1827022301_0081.json"
+        },
+        {
+            "object_ids": [
+                20,
+                6
+            ],
+            "headline": "annapolis, Nd. FEB. IS.\nCOLONIZATION BILL.",
+            "article": "The bill sppropriatng $1,000 per annum from\nshe treasury OF the s,as, to the objects Of the A.\nmercan Colonization society, upon condition that\nthe treasurer sha be satisfied that said sum is ex.\npended in the removal Of free coloured people\nwho have been actual residents This state for twelve\nmonths preceding the time Of their embarka,ion and\nfrom each county and city Of the siate in proportion\n10 the number Of applicants. Saturday las, passsd\nlhs house Of delegates by vote OF 40 10 \"a\n\n\nRepublican.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 403,
+                    "y0": 4657,
+                    "x1": 1003,
+                    "y1": 4728
+                },
+                {
+                    "x0": 231,
+                    "y0": 4723,
+                    "x1": 1034,
+                    "y1": 5138
+                }
+            ],
+            "bbox": [
+                231,
+                4657,
+                1034,
+                5138
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-02-23_p2_sn82014894_00271740219_1827022301_0081.json"
+        },
+        {
+            "object_ids": [
+                14,
+                7
+            ],
+            "headline": "COLONIZATION SOCIETY.",
+            "article": "The fawfng resolution has been adopted by both hou\nses Of the General Assembly Of Kentucky.\n\n\nResoiueR. &c. That they view with deep and friendly\ninterest e esetons Of the American Colonization Soce-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 425,
+                    "y0": 5155,
+                    "x1": 853,
+                    "y1": 5191
+                },
+                {
+                    "x0": 227,
+                    "y0": 5199,
+                    "x1": 1043,
+                    "y1": 5350
+                }
+            ],
+            "bbox": [
+                227,
+                5155,
+                1043,
+                5350
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-02-23_p2_sn82014894_00271740219_1827022301_0081.json"
+        },
+        {
+            "object_ids": [
+                18,
+                8
+            ],
+            "headline": "From the Richmond Enquirer Of FEB. 10.",
+            "article": "\n\n\n@THE UNITED STATES AND GkoaeIA.-Wc\ndo not hesitate TO say, that the Pfesidenrs Message\nTO- both Houaes OF Congress. 10 no, the production\nOf q state,man. A puritan nigh, have penned the\ncanting phrase Of - superadded obligation even\nhigher than that Of human authoriiy.'' &c. &c.\n\n\nWhat think the American people OF this Are\nthe politicians of Virginia preparing TO de,hrone the\nDeity, and like the jacobns Of France, 10 proclaim\nGoddess Of Reasonf Do they then acknowledge\nno higher than human aulhority1 Tor ourselves, il\nthe Presidents Message relative to the Greeks and\nGeorgisns be puritanical. We should like to enrol\nourselves with the puritans. If auch exalted SEN\ntmcn,s, and such Roman fitmness Of purpose, are\nthe consequences ofpuranism, long may we have\na purtsnicsl President. If the opposition wish TO\nbreak down the President, they mus, attack him in\nmore vulnerable point than that Mesiage.-\nThat document will form of the brigh,es st leaves\nIN the ehaplct with which the muse OF history will\nentwine the brow Of ITS author No, no, gentlemen\nVrginisns You have no, struck the heel OF Achil\nles yes \". York Commercial.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1919,
+                    "y0": 3031,
+                    "x1": 2607,
+                    "y1": 3076
+                },
+                {
+                    "x0": 1852,
+                    "y0": 3066,
+                    "x1": 2660,
+                    "y1": 3988
+                }
+            ],
+            "bbox": [
+                1852,
+                3031,
+                2660,
+                3988
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-02-23_p2_sn82014894_00271740219_1827022301_0081.json"
+        },
+        {
+            "object_ids": [
+                21,
+                22,
+                9
+            ],
+            "headline": "Warrington, Jan. 30.",
+            "article": "The good people who manage the opposition, in\nVirginia, thrown into . state Of tcrribls alarm,\ntthe discovery that GoWrner Tyler, the newly e.",
+            "byline": "A JERSEYMAN.",
+            "bbox_list": [
+                {
+                    "x0": 1513,
+                    "y0": 5102,
+                    "x1": 1827,
+                    "y1": 5151
+                },
+                {
+                    "x0": 1090,
+                    "y0": 5137,
+                    "x1": 1452,
+                    "y1": 5187
+                },
+                {
+                    "x0": 1051,
+                    "y0": 5225,
+                    "x1": 1862,
+                    "y1": 5354
+                }
+            ],
+            "bbox": [
+                1051,
+                5102,
+                1862,
+                5354
+            ],
+            "full_article_id": 10,
+            "id": "10_1827-02-23_p2_sn82014894_00271740219_1827022301_0081.json"
+        },
+        {
+            "object_ids": [
+                27,
+                15
+            ],
+            "headline": "ROBERT DoUTHAT.",
+            "article": "nnr\ngood fortune 10 stand terms of perfect intimacy u,\nyou from the first of our acquaintance and, more ,D,\npecialy since you intimately acquainted with the l\nings and sentiments political Subjects which h,y, en-\ntertaned since the origin Of Acquaintance Upon no\nhave you distinctly understood me, than in reaiou\nthe late Presidential election and the principal actors On\nthat interesting occasion. Te you made known thefu\nOf my having written to MIR. Clay, in day two after\nhad done and with you along with many etheno\nfriends was my fortune. while differing in some measure\ncertain political TOPICS to avow openly, eien 6es.\nsed whatsoever you may please Such destination .,\nmay give il viii entirely satisfy\n\n\nYour friend and servant,\nJOHN TYLER |\n\n\nThs we'll established responsibility Of the Editors\nOF the Enquirer, renders any statement OF fact on\ntheir own responsibility, worthy Of no,ice-,ud /\nreadily concede that il hsy fall into any error such\nerror would be purely uninlenienal. The sceoun\nwhich Is given By them in their paper Of this morn\ning Of = conversatsn held BY enc OF them with N.\non the subject Of letter written by myself TO MI\nClay shortly alter the Presidential elecsn, is eatu\nlated to make the impression that was disposed\ncomplain Of MIR. Clay for the mere fact OF having\nspoken Of letter prirate, it il trae. bat not conf\ntdential-thus leaving The public at liberty TO ina\nthat ! had acted with concealmsnt, ard had kept\nreserve q set Of opinions to be acted on when had\nreached the Senate Chamber. am sure that such\ncould not have been, and was not the intention\nWhateser regre. l may have experienced al IL,\ndegrees Of ynupsraton, as to which no man ri s,ns,\nby can be wholly Indifferent, 10 which The Win\nchester paragraph may have unjusty subjected m.\nye, had no righ, to complain Of Mr. Clay. andin\nfact no possible motive, to do so, merely becaussh\nhad spoken Of letter not confidential. and the sen\ntiments OF which myself had over and over again\navowed, as those which honestly entertained. Nov\nthe circumstances attendant on that converslicn\nwere these-being in the lobby Of the H. .oi D,\n| which, ut the time was somewhat crouded. Ce\n| Gooch with whom ! had been 10 habits Of friendly\ninlercourse, approac ached me and placed in my hand,\n,hs Winchester paper containing the SO much tlf.\ned OF paragraph. have no precise recollection\nthe very terms Of the conversation. In conyersng\nwith one supposed TO be friend, do not iressur\nup every syllable for future use. ] can therefor\nonly deny what did not say, il q manifestiy ialR\nascriptron is made to me, but cannot repeat The\nprecise words uttered. That man is surely TO be\nenvied whose memory is so acute and 10 retenliven\nto retail with entire accuracy whole sentences po.\nken in conversation, under The circumstances al.\ntsndans on this. In this instance can only speak\nwith perfect confidence OF the impressions made on\nmy mind from reading the Winchcstcr paragraph\nhen Tor the hrst time seen by ms. From the sp.\nparent eagerness with which he sought The inter.\n\n\n\n\n\nsion that stood committed TO the Adminisralion,\nand At the moment il also occurred 10 ms ihs, Mr.\nClay by speaking publicly Of the letter sought\ncreate that impression with the public, and thereby\nTO render all men opposed 10 the Administrator re-\nserved and distant towards me, and thus ulimatel!\n10 cause me 10 sds with ths Administrations\nthis ascrlption am convinced was mistaken. and\n! hesitate not to retract the imputaon.-My better\nreflection advises me that his was entire\ny natural in itself. and which any one placed in hN\nsituation would have been apt to have adopted. The\nobject then, with me in utterinR any thing 10 Col\nY. could only have been 10 remove from his mind\nthe impression Of my commitment; and the Ian.\nguage used was to this effect: I\" did write 10 Mr.\nClay abou, the time ol the Presidential Election--\nThe precise terms OF the letter do not now remem.\nDer. but haze copy and uiH rfcur to it-bul, il\nMr. Clay thinks that he binds me to the Admins\niraion By breaking the seal Of private cerrespon\ndencs Tor BY making public the contents OF my lslts\nhs expressions are OF the same mport) that ein\nbe driven from my principles he deceives himself\nThe coldnesa OF my friends may repel me from\ntheir intercourse, but nothing can cause me absh\ndon my principles\" | further stated that II vaf\ntrue should have voted for Mr.. Adams, MIR. Crsw\nford aside, but that tina. created obligation sustain\nhim aferwards-to which Col. Gooch as well a. J\nremember replied\" Virginia would have done\nthen tbs same thing, but not 80 now''-or that .\npreference for Mr.. Adams At the time OF his cleo\nlion cid not necessarily imply = preference for him\nnow\" repeat could no, vouch for the precise\nform OF expression. but that the object Of any re.\nmark used by me, was a. above stated. am pos\ntive, could have had no motive to speak Of itn\nany other manner, since the TACT ,hst that letter h\nbeen written had been made known by me to MANI\nand my opinion, relative to Mr.. Clsy's conduct h'a\nbeen divulged in instances wahou, number.\nIn adyertinR TO that letter, shall content myself\nWith stating its substance but if MIR. Clay shs sec\ncause TO crafty the appetites Of newspaper Editof\nhe is az liberty TO publish IT, shall have cau'e\nto complain Of it. 1t is then perfectly Tue, that J",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3099,
+                    "y0": 1048,
+                    "x1": 3426,
+                    "y1": 1093
+                },
+                {
+                    "x0": 2668,
+                    "y0": 1220,
+                    "x1": 3466,
+                    "y1": 5416
+                }
+            ],
+            "bbox": [
+                2668,
+                1048,
+                3466,
+                5416
+            ],
+            "full_article_id": 16,
+            "id": "16_1827-02-23_p2_sn82014894_00271740219_1827022301_0081.json"
+        },
+        {
+            "object_ids": [
+                16
+            ],
+            "headline": "",
+            "article": "lected Senator OF that state, wroas ieuer 70 sl'\nC,v. lust after The presidential question, approving\nn. co,,y.e Of conduct Of Mr. Clay, on the occasion OF\n,he election and congraua,ing him and the country\non the result. They consider this as hish treason\n,rains, Tho principles Of their party and one paper\nthe Virginia Jackson Republican, has put on moa.'\nming, in consequence. But this Is not 1n-'hs\nsame MIR. Tyler, while member OF ms 1,ou'e =,\nREPRESENTATIVES., made q speech on the saoject o.\nC,n. jackson. conduct, in the Seminsls war, IN\nwhich he severely animadver,ed upon what ne con-\neeiyed to be his high handed measures, and was 10\nfavor Of his being publicly censared, a. his vote on\nreeord will show Truly, this Mr.. Tyler, who was\nclsiuned as the witch\" Of the party, In virginia\nmus. be strange sort of Jackson mnn,slncs Inc Zen.\nerals friends put themselves in mourning on ac-\ncoup, of his election. II il ressy 10 be feared, that\nhe will on some occasion, forget his duies so lar\n90 10 vote with the administration. What on 10\ndeble stain would this be upon the pure principles\nOf the ancient dominion.\n\n\nTrenton (.v. ~ yamerican.\n\n\nWashington, February l5-The Telegraph OF\nYesterday asserts that Mr.. Clay was in the House,\non Tuesday. 10 superintend the Report Of the MIX\nCommittee\" We have good reasons lor stating\ntha, Mr.. Clay did no, reach the House Of AsPre\nscntaives until after that Report had been read and\nthat his visit to the Capitol was to see some speci-\nmens OF American manufacture which wsrs exhlbi-\nted in the Ro,unda. A system Of espionage, more\nremarkable for any thing than for the fidelity OF ts\nreports, seems to be prac,ised in regard 10 every\nmovement Of this gentleman and It has at last\ncaught him in the fact OF examining some OF the\npractical results of those measures Tor the encsur'\nagemcst si American industry, and the promotion\nOf American greatness, TO which his abilities have\nso long and so successfully been devoted.\n\n\nJournal.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1852,
+                    "y0": 224,
+                    "x1": 2655,
+                    "y1": 1847
+                }
+            ],
+            "bbox": [
+                1852,
+                224,
+                2655,
+                1847
+            ],
+            "full_article_id": 17,
+            "id": "17_1827-02-23_p2_sn82014894_00271740219_1827022301_0081.json"
+        },
+        {
+            "object_ids": [
+                17
+            ],
+            "headline": "",
+            "article": "Nv ~ establishing Asylum on the eoaN Of Africa for the\nree people Of color of the United States and that the\nSenator's add Representatives in Congress from TINS\n% facilitate the removal Of such free persons OF color IS\nNAV desire to emgate from the United States to the COL\nony, and insure them the protection and patronage Of\nthe general government far may be compatible with\nthe safety Of the United States.\n\n\nJackson in Ksntucky. The Legislature OF Ken\nlucky adjourned on the 25th Of January. II is gen.\norally known that an attempt was made TO bring that\nbody out against the administration and in avor OF\nGen. Jackson, II may not be amiss to give briei\nstatement of the proceeding.\n\n\nThe Tennessee amendment Of the constitution OF\nthe United States was set foot 40 kind OF enter\ning wedge for the General. Accordingly his sup.\nporters broug il, before the legislature OF Kentucky\nal their late session. The Senate passed resolutions\nrecommending the amendment. They were amen\nded in the House, passed and sent back to the Senate\nfor concurrence in the amendments. They were\nlaid on the table in the Senats, and remained there\nwhen the session ended.\n\n\nOne OF the amendments made in the House, was\nthe insertion Of proviso in The following words:\n\n\nProvided, that nothing in the foregoing resolu.\nen s intended to convey the idea that the charges\nOf corruption which have been imputed TO the pre-\n\n\n\n\n\nelection OF Presden at the late election BY congress\narc founded in truth, or are believed by this Gene\nraj Assembly.\"\n\n\nThis provso was adopted in the House by vote\nOF 81 TO As.\n\n\nWhile the subject was under discussion, another\nprovso was offered asserting that the resolution OF\nthe Legislature, in 1924, declaring that majority\nOf the people preferred General Jackson, was true.\n\n\nThis proyiso was laid upon The table until the frs.\n- Tkns o fks\nLegislature Of Kentucky have indicated pretty\nstrongly, that they are not yet prepared to 60 for\nthe Hero. And majority Of the House have pro-\nnounced the often repeated charge Of corruption in\nthe Presidential election to be . ialsehood.\n\n\nGin. Gns.\n| From Louisiana, we received some days sgo, the\nMessage Of her worthy Governor, Henry johnson,\na, the opening Of the Session cf the Legislature II\nis distinguished BY all those amiable and benevolent\ntraits which mark the msn. We should be glad 10\ndo BY it, by many Of the excellent Messages Tor\nannual Exposes) Of the Executives Of the States\nbut are prevented BY the want Of room. The fol-\nlowing extract is, however, so short that We may ven\nture 10 insert III a. being that part OF ths Message\nwhich bears Immediately upon tho concerns OF the\nGeneral Government:-- Vat Intelligencer.\n\"The condition OF the United States 10 preem-\nnently happy and prosperous. They continue to\nadvance rapidly IN population, IN wealth. IN power,\nin responsibility The last half ceRtury has wilneAD-\ned immense Improvements in science, literature,\nand oil the arts. The success Of our political sy..\ntenn has been commensurate with the expectations.\nand smost with the wishes of It's llustrous Trainers\nUnited under the principles Of the Federal Consti-\ntuition, we he under TWO fold obligation to support\nthe National Government in al it's constitutional\niuncons and TO msin,ain, at the same time, the\nrights of the States. The one 10 intimately blended\nwith our existence IS powerful nation the other\nis indispensable TO the preservation Of free Govern\nment.\n\n\n\" In The attsc hment Of the People TO the Union\nin the wisdom and integrity OF the men in whom\nthey conhde in the eoun,cr-poise OF reciprocal au-\nshori,es and dependencies, have security sgains\nall encroschments Of any portion Of Inc community\nupon the rights Of another And while the Gene\nraj Government is lsboring TO preserve honor able\npeace with foreign nations, and. by wise inca.\nsures OF administration, to promote prosperity al\nhome, il is incumbent W to use every effort to\nrender our local Institutions perfee, ~ possible .\n\n\nFrom the National Journal\n\n\nMa. EDlroR Reports appear 10 be carefully",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1028,
+                    "y0": 158,
+                    "x1": 1840,
+                    "y1": 3649
+                }
+            ],
+            "bbox": [
+                1028,
+                158,
+                1840,
+                3649
+            ],
+            "full_article_id": 18,
+            "id": "18_1827-02-23_p2_sn82014894_00271740219_1827022301_0081.json"
+        },
+        {
+            "object_ids": [
+                11,
+                23,
+                19
+            ],
+            "headline": "From the Richmond Enquirer.\nTO the Editors Of the ENQUIRER.",
+            "article": "Gentlemen You win perceive by the enclosed le.V 4.\nGovernor Tyler, that authorised to use the stasn\nreceived in the envelope Of that letter. as NAV n.s\nPublic curiosity much .iptoe in relation p'Ne, ~ 4\nmatters contained in that statement have deerm;r.,\nCRAFTY all desirous to be informed Of them by h'n%N\nover 10 publication the letter and statement. Ii h,.\nton Mr. Tyler the and devoted advocate n u\nCrawford and in all public meetings. did not hs,a\nproclaim that Crawford aside, Mr. Adams was hi, r.s\nchoice. ~\nremember well to have heard Mr.. Tyler ,peat os h\ncorrespondence with MIR. Clay, and know that he nr m\nmany occasions among our constituents, uncond,;orry\nly ayowsd that he would have voted with Mr. c.'\nand that he did not believe in the charge, ne ~\nthought il proper TO add these remarks as they NAV\nsome measure, from the minds of all candid NV\nthe charge Of conceament. unkndly made BY The n\nlie. Yours respectfully.\n\n\nROBERT DoUTHAr",
+            "byline": "RrcHMown",
+            "bbox_list": [
+                {
+                    "x0": 2826,
+                    "y0": 233,
+                    "x1": 3330,
+                    "y1": 327
+                },
+                {
+                    "x0": 3073,
+                    "y0": 339,
+                    "x1": 3255,
+                    "y1": 362
+                },
+                {
+                    "x0": 2668,
+                    "y0": 348,
+                    "x1": 3444,
+                    "y1": 1089
+                }
+            ],
+            "bbox": [
+                2668,
+                233,
+                3444,
+                1089
+            ],
+            "full_article_id": 20,
+            "id": "20_1827-02-23_p2_sn82014894_00271740219_1827022301_0081.json"
+        },
+        {
+            "object_ids": [
+                25
+            ],
+            "headline": "",
+            "article": "IT, II ESTABLISHING an Asylum the coat Of Africa for the\nre- peope Of color Of the United States and that the\nsenators add Representatives in Congress from this state\nand they hereby requested to use their beat efforts\nfacilitate the removal Of such free persons Of color IS\nNAV desire to emgate from the United States to the col\nony and to insure them the protection and patronage OF\nthe general government far may be compatible with\nthe safety Of the United States.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1028,
+                    "y0": 242,
+                    "x1": 1840,
+                    "y1": 538
+                }
+            ],
+            "bbox": [
+                1028,
+                242,
+                1840,
+                538
+            ],
+            "full_article_id": 26,
+            "id": "26_1827-02-23_p2_sn82014894_00271740219_1827022301_0081.json"
+        }
+    ]
+}

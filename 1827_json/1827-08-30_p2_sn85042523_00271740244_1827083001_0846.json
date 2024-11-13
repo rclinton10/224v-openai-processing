@@ -1,0 +1,590 @@
+{
+    "lccn": {
+        "title": "The Wilmingtonian, and Delaware advertiser.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2638-1117",
+        "lccn": "sn85042523",
+        "start_year": "1825",
+        "end_year": "1827",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [
+            "sn88053080"
+        ],
+        "successors": [
+            "sn84020426"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn85042523",
+        "edition": "ed-01",
+        "date": "1827-08-30",
+        "pages": [
+            "seq-2",
+            "seq-1",
+            "seq-3",
+            "seq-4"
+        ]
+    },
+    "page_number": "2",
+    "scan": {
+        "lccn": "sn85042523",
+        "edition": "ed-01",
+        "date": "1827-08-30",
+        "page": "2",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn85042523/1827-08-30/ed-1/seq-2.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn85042523/1827-08-30/ed-1/seq-2/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn85042523/1827-08-30/ed-1/seq-2/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn85042523/00271740244/1827083001/0846.jp2",
+        "height": 5608,
+        "width": 3648
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 1547,
+                "y0": 201,
+                "x1": 2210,
+                "y1": 1714
+            },
+            "class": "article",
+            "raw_text": "unfounded clamor, Or base einslnuation' 10 run\ndown public man.\n\n\nFrom the Georgia Consthutionaiist, cf dug\n10.\n\n\n\"Mr. Claws speech at the Lexington din\n\n\nner, is now going the rounds, ana very\n| fine and ingenious speech it is. What may\n| be its effects upon others, we preteha not 10\nsay-but il confirms our belief that there\n\n\nwas no bargain between Mr.. Adams and\nhimself when he became Secretary OF state\nThat Mr.. Clay expected the Office to be\nrendered to him when he voted for Mr. Ad-\nans, is probable enough his talents ana\neminence, vanity apart, authorized such an\nexnrctation and it is likely he would have\n\n\nndulgcd it had his vote and influence been\neiyen to Mr.. Crawford or General Jackson,\nWe are not friendly to the Administration,\nbut we would do justice both to the fresi'\ndent and his Secretary-we do not believe\nthat either the one or the other would aes-\ncend TO drive corrupt bargain for power\nThe error actually committed is one OF MI\nnor importance--it lies in the acceptance OF\nOffice by Mr.. Clay, under circumstances\ncalculated to beget suspicious OF MS purity,\nand to do great injury to his character ior\ncisintcrestedness; it was his duty tor the sake\nof himself-of his country-to look to ms\nreputation with as much caution as CEsar\ndie to his wife\"\n\n\nTThe Constitutionalist is undoubtedly\nright The error of MIR. Clay, if an error,\nis placed by it to the proper account. II he\ncommitted any error, it was in having too\nclear \"A consciousness of the directness and\nfrmness of his own conduct, to suspect that\nany attempt would be made from respect\nable source to impeach it. He is not man\nwho will shrink from danger, even if he is\nsensible of its approach; and he Boldly met\nil in this case-which is \"the head and front\nof his offending\" as far as the Public are\nWat. Int.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1539,
+                "y0": 1791,
+                "x1": 2206,
+                "y1": 2800
+            },
+            "class": "article",
+            "raw_text": "The following extract from the address\nof Mr. Trimble. one Of the Kentucky dele\ncation in Congress, and one Of Mr.. Clay's\nmost steadfast friends. is, we think ot itself\nconclusive answer to the secretary's long\nand abusive speech.\n\n\n\"When We got to Washington, we found\nthat CrQvford was out of the question. We\noScc1lained that if Gen. Jackson was elect\ned he gpDuia nor appoint our friend Clay\nSecretary of State. We THEN dscrrtuin-\ned, DISTINCTLY. that if Mr.. Adams\nshould be elected. he wouid appoint Mr..\nClay Secretary of State: Under these Cir\ncumstances we determined to vote for him\" !\"\n\n\nIs not this proof Of the bargain. out of the\nmouth Of one of the parties concerned? At.\nter this, is the testimony of General Jackson\nor any Of his friends necessary to establish\nthe fact.-.fmcr. Sentinel.\n\n\nThe above has the fault common to most\nproductions from the Jackson presses-that\nis, il contains nor one yuord Of truth. Mr..\n'rrimble's address now lies before us. 1t\nis patriotic and truly republican in its char\nac;er. and has not single syllable OF the a\nhove in it. The paragraph IS BASE\nFORGERY, issued forth to supply the\nplace of the exploded story retallrd to the\nvisitors of the Hermitage. I'D. Eraminer.",
+            "legibility": "Questionable",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 1604,
+                "y0": 1743,
+                "x1": 2131,
+                "y1": 1788
+            },
+            "class": "headline",
+            "raw_text": "COL. TRIMBLE'S ADDRESS.",
+            "legibility": "Questionable",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 873,
+                "y0": 210,
+                "x1": 1540,
+                "y1": 715
+            },
+            "class": "article",
+            "raw_text": "ing tree, and having three fingers dangling\nby little bit of skin. They who thus lay\ntheir own lives against that of pheasant,\nmay be making fair bet; but think mine\nworth trlhc more, and besides, l hate to\nbe giving unnecessary trouble to coroner =\n\n\nHere we parted, and as pursued my\nride alone, had leisure to reflect upon the\nfolly OF laying the long oddf, for had been\none of the simpletons who had wagered\npretty deeply against the Alderman's being\nin at the death, all which bets were decided\nto have been lost, although he had not iegu-\nlarly followed the hounds, and was only pres\nens by accident at the destruction of the hare.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 868,
+                "y0": 906,
+                "x1": 1531,
+                "y1": 1245
+            },
+            "class": "article",
+            "raw_text": "We have some further returns from this\nstate, of contest which, it appears, has\nbeen waged with great violence. Some blood\nhas been shed at the poles, but as yet we\nhave heard of no lives being lost.-We have\ncertain information Of the recollection OF\nJames Clark, Robert p. Letcher, Thomas\nMetcalte, and David Trimble, friends to the\npresent Administration. and Thomas P.\nMoore, opposed to it.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1022,
+                "y0": 740,
+                "x1": 1382,
+                "y1": 798
+            },
+            "class": "headline",
+            "raw_text": "POLITICAL.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -2
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 956,
+                "y0": 819,
+                "x1": 1452,
+                "y1": 899
+            },
+            "class": "headline",
+            "raw_text": "From the National Mteiiigencer.\nKENTUCKY ELECTION.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1552,
+                "y0": 2825,
+                "x1": 2219,
+                "y1": 5249
+            },
+            "class": "article",
+            "raw_text": "The writer Of the following communica-\ntion was formerly ain officer in the Navy of\nthe United States, and has directed that his\nname may be given to any person properly\nauthorized by any Of the persons mentioned\ntherein to require It.\n\n\n70 (aftam Jehm Rodgers, ofthe o. S. shin\n\n\nNorth Carolina\n\n\nSir During your absence, on cruise\nto the Mediterranean. the case of Captain\nisaac Phillips has been submitted to the\nconstituted authorities the country, claim\ning his rank III the Navy of the U. States,\nand TO be rc-instated in command; the ma\nture of the application necessarily caused an\ninvestigation into the management OF the at\nfairs Of the Navy Department for many\nyears back, and one Of the grounds upon\nwhich Captain Phillips justified the propri.\ncty Of his application was. that he was lille\ngally dismissed by Mr. Secretary Stoddart,\nand without the order of the President of\nthe United States; and by references to the\nbooks Q. the Navy Department, brings into\nview the case of Yourself, who had been le-\ngally dismissed by the President, as is stat\ncd in letter Of Mr.. Robert Smith of the\n22d October, 1901, directed to YOU, and re-\ncorded on the books of the Navy Depart\ni,\nyou were again taken into the service, with\nin or about twelve months after. Now Sir,\nas the case of your dismission, must become\n:; subject Of consideration, and affect the\nrank of the Captains in the Naval service,\nand as many reflections and observations\nhave been made through the public prints\nof the nation, not only as respects the lille\ngality of the commission you hold, but in re-\nspect to your individual department, and\nunjustifahlc treatment subordinatcs under\nyour command, it appears to have become\nvery necessary, to quiet the minds of the\nnaval officers and others, who have taker\nexceptions to your conduct, that you une.\nquivocalv declare 7chether yon did, or did\n\n\nnot, receive that letter of dismission, record\ned on the Navy books, and dated the 22t\n\n\nOctober, Holland fso, did you receive\n\n\nnew commission, or were you again reap\n\n\npointed to the service. 1t is by many alledg\n\n\ned that you did receive that letter, and tina\n\n\nyou were thereby. decidedly removed from\nthe service, under the law of the Sd o\nMarch, 1901. reducing the Navy the peac\n, ablishment--newspaper paragraphs hav\nasserted there is no doubt Of it, ard that cir\n! cumstanccs can be traced, and living wit\nnesses produced, to establish the fact an\nfurther, that your letter of dismission wa\n! in consequence OF your having cruelty beat\nwith your fist, and MANNED a young gentle\nman, midshipman, on board the U. State\nd ship Maryland, under your command, an\ni that he and his friends made an applicatio\n: to Mr.. Robert Smith, the then Secretary\n{ the Navy, to have you brought to trial. an\n. that you escaped the Court Martial, by\nu dismission from the service; it is therefor\n\n\nincumbent upon you, as it is due to the N;\n! val Officers and to the public, that you al\n\\ swer candidly those interrogatories.\n\n\ny \"DncH amor Pdtrioe\" HONESTUS.",
+            "legibility": "Illegible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1587,
+                "y0": 5261,
+                "x1": 2245,
+                "y1": 5525
+            },
+            "class": "article",
+            "raw_text": "SIR JONAH BARRINGTON'S SKETCHES.\n\n\nAmong the early adventures of the author\nthere is one of considerable drollery, which\nwe are tempted to extract. An entertain\nment was given by his brother by way of\nhouse-warming to a new hunting lodge, and\nthe company, consisting of \"hard going\nsportsmen,\" counted among them Captain",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2897,
+                "y0": 499,
+                "x1": 3568,
+                "y1": 4693
+            },
+            "class": "article",
+            "raw_text": "= IL\nmentlng upon the terms of the treaty of ~.\nAllied Powers in relation to Greece. re-\nmarks:\n\n\nShould the Porte refuse to accent the sr-\nmlstice which is to be in the first instance\nproposed, or should the Greeks object 10\nil, it is to be announced to that one of the\neontending parties who shall wish to contin.\ntie hostilities, or to both, if necessary, that\nthe allies intend to use all the means which\ncircumstances may place at their command\nto obtain the effect of the proposed armisiice\nby preventing as far as may be in their\npower, all collision between the belligerents.\nwithout. however, taking any part in their\nhostillties by siding with or against the o.\nthcr Thus, ii need be, to employ an eff\ncient intervention against the Turks and\nthe Greeks, # both are obstinately bent on\nwar\n\n\nTreaty. for the Settlement Of Greece\n\n\nIn the name Of the most holy and undyil.\ned Trinity.\n\n\nHis Majesty the King of the United King.\ndom OF Great Britain and Ireland, his Ma\njcsty the King of France and Navarro, and\nhis Majesty the Emperor of all the Russias,\npenetrated with the necessity OF putting an\nend to the sanguinary contest, which BY de-\nlivering up the Greek provinces and the\nisles OF the Archipelago to all the disorders\nof anarchy, produces daily, fresh impede\nmcnts to the commerce Of the European\nStates, and gives occasion to piracies which\nnot only cNpos- the subjects of the High\nContracting Parties to considerable losses,\nbut besides render necessary burdensome\nmeasures of protection and repression his\nmaesty the king of the united kingdom of\nGreat Britain and Ireland, and his majesty\nthe king of France and Navarro, having be-\nsides received on the part Of the Greeks,\nPr, ssing request to iuterposc their med,a-\nton with the Ottoman Porte, and being as\nwell as his majesty the emperor of all the\nRussias animated by the desire of stopping\nthe riiusion OF blood, and OF arresting the e.\nwills Of all kinds which might arise from the\ncontinuance Of such a state OF things, have\nresolved TO unite their efforts, and to regu-\ntate the opperation thereof BY formal\ntreaty, with the view of re-establishing\npeace between the coEtcndng parties by\nmeans Of an arrangement which is called for\nas much by humanity by the interest OF\nthe reposc Of Europe.\n\n\nWherefore they have nominated their\nplenpotentiaris to discuss, agree upon and\nSign the said Treaty, VIZ =\n\n\nHis Majesty the King ot the United King\ndom of Great Britain ard ireland the Right\nHon VIM. Niscount Dudley, Peer of the\nUnited Kingdom of Great Britain and Ire\nland. Councillor of his Britannia Majesty IN\nhis Privv Council, and his principal Secre-\ntarv Of STATE for the department OF foreign\nI AiFirs -\n\n\nHis Msjcstv the Eingof France and Nav\naree, the Prince Joles, Count de Polignacs\nPeer of France, Knight of the order OF ms\nMost Christian Majesty. Major General OF\nhis armies, Grand Gross Of the order OF at,\nMaurice of Sardinia, &c. and his Amoas-\nsador to his Brit .nnc Majesty.\n\n\nAud his NJ iesty the Emperor Of all the\n| Russias, Christopher Prince dc Lieven,\nGeneral of Infantry nf the Armies OF his\nlnperi. Majesty, his Aidte-camp, Gen\neral Knight of the nr,iers Of Russia, of those\n| of the Black + sle and Of the Red Eagle OF\n4 Prussia, Of that Of the Guelphs of Hanover,\nCommader Grand Cross OF the Order ot thc\nSword, and of the Order of st. John OF Jeiu-\nsllem, his Ambassador Extraordinary aud\nllenpotentiary t. his Britannia NJ jesty\n\n\nMha after having communicated their\nfnll nawers, aad found the same in good and\ndue form, agreed upon the following artl-\ncles - y,\n\n\nArticle 1.-The contracting powers wll\noffer to the Ottoman Porte their mediation\nwith the view Of bringing about recohcii-\natiou between il and the Greeks.\n\n\nThis offer of meditation shall be made 10\nthis Power immediately after the ratlfca-\nlion nf the treaty, bv means of a collective\ndeclar tion signed by the Plenipotentlafies OF\ni the Allied Courts at Constantlnople; ana\nthere shall be made. at the slme time 10\nthe two contending parties, demand OF an\nImmediate armistice between them, as\npreliminary condition indispensable to the\nopening Of anv negotiation.\n\n\nArt II-Thc arrangement to be propos-\ned to the Ottoman Porte shall rest on thc\n! following bases: The Greeks shall l,ad OF\nthe Sultan. MS Of superior lord; and IN con-\n\n\nsequence of this superiority, they shall pay\nto the Ottoman Empire an annual tilnate'\nEreirfJ the amount of which shall be lxea.\nonce for ALL bv common agreement. hcv\nshall be governed by the authorities wnom\n\n\nthey shall themselves chose and nomInate,\nbut in the nomination OF whom the foFe\n\n\nshall have determinatr view.\nTo bring about complete separation oe-\ntween the individuals of the two nations.\nand to prevent thr collisions which are the\ninevitable consequence of so long struggle,\nthe Greeks shall enter upon possession y.\nthe Turkish property situated either on the\n) continent or in the isles of Greece, on the\ncondition of indemnifying the formei prop,\n, critics, either hy the payment oi ali ahnh1'\nsum, to be added to the tribute winch IS u",
+            "legibility": "Questionable",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2936,
+                "y0": 324,
+                "x1": 3520,
+                "y1": 373
+            },
+            "class": "headline",
+            "raw_text": "FOREIGN INTELLIGEvcr",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -2
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2919,
+                "y0": 394,
+                "x1": 3529,
+                "y1": 465
+            },
+            "class": "headline",
+            "raw_text": "TREATY FOR THE SETTLEMENT op\n\n\nGREECE,",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2218,
+                "y0": 236,
+                "x1": 2885,
+                "y1": 4412
+            },
+            "class": "article",
+            "raw_text": "| On his arrival al the scene OF action ABOUT\nten O'Clock in the mnrning, after the first\ndays debauch, Sill J. thus describes appear\nanCcs:-\n\n\n| \"The room wasstrewed with empty bot\ntles-some broken some interspersed with\nglasses; plates, dishes, knives, Spoons, &c.\nall in glorious confusion. Here and there\nwere heaps of bones, relics Of the former\ndays entertainment, which tile dogs, seiang\ntheir opportunity, had cleahly picked\n\n\nThree or four of the Bacchanaians lay fast\nasleep upon chairs-one or two others on\nthe floor, among whom piper lay on his\nback, apparently dead, with table-cloth\nspread over him, and surrounded by four or\nFIVE candles, burnt to the sockets; his chanter\nand bags were laid scientifically across his\nbody, his mouth was quite open and his nose\nmade ample amends for the silence Of his\ndrone. Joe Kelly and Mr.. Peter Alley\nwere fast asleep in their chairs, close to the\nwall. Had never viewed such scene be-\nfore, it would have almost terrified me; but\nit was nothing more than the ordinary GUS\ntom which we call 7yaking The fihcr, when\nhe had got too drunk. to make any more mu-\nsic. No servant was to be seen,\nman or woman. ! went to the stables, where\nin found three or four more of the guodly\ncompany, who had just been able to reach\ntheir horses, but were seized bv Morpheus\nbefore they could mount them. and so lay\nin the managers awaiting a more favourable\nopportunity. Returning hence to the cot\ntage, found my brother, also asleep, on the\nonly bed which it then afforded: he had no\noccasion to put on his clothes, since he had\nnever taken them off next walked Dan\nTryon, a wood rangerof Lord Ashbrook,\nwho had acted rs maitre d'hotef in making\nthe arrangements, and providing horse\nload of game to fill up the banquet. ! then\ninspected the parlour, and insisted on break\nfast. Dan Fryon set to work; an old wo-\nman was called in from an adjoining cabin;\nthe windows were opened, the rooms clear\ned, the room swept, the relics removed,\nand the fire lighted in the Kitchen. The pi-\nper was taken away senselcsS, but ny bro\nther would not suffer either Joe or Alley TO\nbe disturbed till breakfast was ready No\ntime was lost and, aftera very brief inter\nval we had before us abundance Of line eggs.\nand milk fresh from the COW, with brandy,\nsugar and nutmeg, in plenty; large loaf,\nfresh butter. cold round of beef which had\nnot been produced on the preceding day, red\nherrings, and bowl dish of potatoes roast\nell on the turf ashes; in addition 10 which,\nale, whiskey, and port, made up the re-\nfreshments. All being duly in order. We at\nlength awakened Joe Kelly, and Peter Al.\nley, his neighbour: they had slept soundly,\nthough with no other pillow than the wall;\nand my brother announced breakfast with\na view halo! The twain Immediately\nstarted and roared in unison with their host\nmost tremendously it was however in We\nry different tone from the view halo, and\nperpetuated much longer Come, boys,\nsaid French. giving Joe pnll--'conlep oh,\nmurder!' saws JOE, Il can'G' Murder mur.\nderl'-cchoctl Peter French pulled them\nagain. upon which they roarcd the more\nstill retaining their places. | have in my\nlifetime laughed ill ! nearly became spas,\nmodic; but never was my rislble muscles put\nto greater tension than upon this occasion\n\n\nThe wall had only that day recei ed Coat\nof mortar, and of course WAS quite soft ant\nWelding when Joe and Peer thought proper\nto make it their piiio~; it was nevertheless\nsetting fast from the heat and lights of al\neighteen hours carousal; and in the morn\n\n\ning when my brother awakened his guests\n\n\nthe mortar had completely set, and thPil\nhair being the thing most calculated to anal\n\n\ngamate herewith, the cDtire OF Inc's stork\n\n\ntogether with his gneHs, and hall his head\n\n\nwas thoroughly and irrecoverably bcddet\n| in the greedy and now marble element I; St\n4 that, if determined 70 move. he must have\ntaken the wall along with him, for sepcrat,\nit would not One side of Peter, head \" =\n\n\nin the same state Of imprisonment. NJ 30\n\n\ndy was able to assist them, and there thel\n\n\nboth stuck fast a consultation was nov\n\n\nheld on their pitiful case which malicioush\n\n\nentleavored to prolong as much as could\n\n\ninterrupted by roar from Peter or Joe, q\n\n\nthey made fresh Efforts to rise At length\nit was proposed BY Dan Tryon 10 send to\n\n\nthe stone. cutter and get hun to cut then\n\n\nout of the wall with his chissel. | was lit\n\n\nerallv unable to speak two sentences to\n\n\nlaughing. The old woman meanwhile trie'\n\n\nto soften the obdurate wall with melted but\n\n\nter and new mlk--hut in vain. | related tn\n\n\nschool story. how Hannibal had worked hi\n\n\nway through the Alps with hot vinegar an\n\n\nhot irons:-ths experiment likewise wa\n, made, but Hannibal's solvent had no bette\n|; success than the old crone's. Peter being c\n\n\na more passionate nature, grew ultmatcl\nteeth, and swore vengeance again-t the ma\n: son-but as he was only held by one side,\n. thought at last struck him; he asked 70\n. two knives. which being brought, he whet\n, ted one against the other, and introducin\nthe blades close to his skull, sawed ava\n| at cross corners till lie was liberated, wit\nthe loss only of half his hair and piece\nI Ii cralr ,,I ~ hal Al, nfg",
+            "legibility": "Illegible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 176,
+                "y0": 350,
+                "x1": 861,
+                "y1": 4553
+            },
+            "class": "article",
+            "raw_text": "vldua; for genuine son Of the turf never\nloses the opportunity OF wager.\n\n\n\"Doyou think she'll make for the Downs?\"\nsaid the Squire, addressing spare elderly,\nhalf dried huntsman, with streaky patch\nOF red upon either cheek that gave him the\nappearance OF winter apple.\n\n\nLord love you sir, how can you dream of\nher running smack into the wind? No; she'll\neither run upon side, or SO right down the\nwind towards Chippendale, or the water\nmills Spread yourselves wide gentlemen,\nand don't beat the bushes where the water\nlies, but keep the dogs higher up, or we\nshall only have a measly hare, that will\nkeep us crossing all day i'll the puddles and\nFLASHES. But, hark ye there's challenge;\nthere's Lightfoot giving tongue, who's\nnever wrong; you had better mount gentle\nmen, we shall have her out presently\" And\nscarcely were the words uttered, when out\njumps fin. hare, and scampcrs away over\nThorlcy Bottom-thc huntsman winds his\nhorn, the whole field gives the view halo\nthe hounds come up, and the whole pack,\nas they burst away set up loud smultane-\non anil sonorous cry, the cheerful melody\nof which is wasted by the wind over the\nstartled plains, meads, and woodlands,\n\n\n\"While echo on high\n\n\nGives reply to the cry,\n\n\nAs fthcy were chasing hare through the sky,\nUnable to keep up with the speed Of the\nfirst burst the Alderman quilted the melee,\ncutting across the country in the direction\nof the dogs, and rejoiniEg the hunt after\nshort ramble upon newly plonshed held,\nwhere the whole party were \".' fault =\n''It's this poughcd field where the scent has\nbeen lost\" cried the Squire.-\"Nor it, re-\npiled the huntsman,\" pointing to some sheep\nstains--\"this has done all the mischief\nthey spoil every thing-shouldn't wonder\nwe didn't recover the scent all day. But\npray be silent, gentlemen, keep together,\nand don't meet hound in the face, Or you\nmay turn him jnst when he's picking it up.\nhear haloo\"\n\n\n$50 do L.\" cried the Squire, \"she's found,\ndepend upon it\"\n\n\nCheryil's cnerring eye reconnoitered,\nwhen he shook his head, and pointed with\nhis whip to boy halloong the birds away\nfrom the seed. \"There's another, do you\nhear II, Che y,i''--\"AY, ay, but it's up in\nthe wind, and she can't have doubled ye,.-\nBut look We Wonder sir, dye see those sheep\nscudding away on the side Of Penwick Hill?\nshe's among 'ein, I'll lay my life; the crows\nare all on the wing, and here comes mag\npie chattering from the same field, we shall\nhave the other presently; ay, said so, she's\nthere, sure enough But stop. that's Sweet\nlips cry in the next field, and lghtfoot fol-\nlows her and gives tonsuc-fonnd found\nfound\n\n\nAt this cheering notice the whole field\ngave glad halloo, and made simultane-\nGUS charge after the dogs. The Alderman\nambed towards gap in one corner, when\nwe'll known brewer in the neighborhood\nwho, l am afraid, had ieayy interest IN\ndisabling him from being III Al the death.\ngaloped towards the spot on his powerful\nhunter. with the brutal design Of upsetting\nthe poney and its rider. The sagacous an\nimal, however. bolted on one side by which\nne would intailbly have made a transfer Of\nhis rider, had the rider not appealed to tho\npumlnel and the manc, when, accepting the\nomen of his poney' $ ears, which now pointed\nhomewards, he quilted the hunt, and as.\ncended little eminence whence he again\ncommanded full view OF the field. From\nthis point he saw the poor hare, after hav-\ning exhausted her starting speed, and lett\nthe dogs long way behind her, make hel\nfirst double and return upon a different\ntrack towards the form from which she had\nbeen dislodged. At intervals she halted, as\nil considering what strasagens and subter-\nfuges she could adopt, after which hasty\ncounsel with her own sad thoughts, she\nwould describe a labyrinth Of turnings ant\nwindings, and again spring forward in ,\nstraight line.\n\n\nBut the sure and relentless hounds track\ned her through all her crossings and doub\nlings, forced her from sheepcot into which\nshe had stolen for refuge, and the Alderman\npresently saw her limpmg sorely and pain\nfully towards him, stopping to listen, thel\ntottering little farther, and again stopping\nwhile the beleagucring ours, fraught with\nhundred deaths, grew nearer and louder\nand poured down her large open ears, ant\nseemed to madden her very brain. At thi\nspectacle his bosom melted with compass\nsion and as the poor animal, with las\nconvulsive effort, leapcd upon a clippe,\nquickest hedge close beneath him, an,\nscrambled along its top to cheat her enc\nmics of the scent, he hastily took out hi\npurse, in the omnipotence of which he ha\ngreat confidence, and offered FIVE pounds t\nany that would save her. But it was to\nlate; the ravcning dogs rushed in upon thei\nprey as she tumbed from the hedge, and\nshort piteous shrek that went to his yer\nheart, announced the consumation OF VIII.\nis unfeelingly denominated days sport.\n\n\nSuch were the Aiderman's feelings, as\nhimself related them to me during our rid\nhome together, calculating in conclusion,-\n'It's a bad spec sir, Flemish account,\nlosing concern, this hunting; men, horse\n\n\n",
+            "legibility": "Questionable",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 917,
+                "y0": 5380,
+                "x1": 1579,
+                "y1": 5525
+            },
+            "class": "article",
+            "raw_text": "In the following article. from the Georgia\nConsttutionalist, paper decidedly adverse\nto this Administration, we have evidence of\nsuch honesty as disdains to avail itself Of an",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 860,
+                "y0": 1086,
+                "x1": 1531,
+                "y1": 5254
+            },
+            "class": "article",
+            "raw_text": "| certain Information OF the re-electlon OF\nJames Clark, Robert p. Letchcr, Thomas\n/ Metcalte. and David Trnible, friends TO the\n\n\npresent Administration. and Thomas i.\n/ Moore, opposed to 1t.\n\n\nJEFFERSON'SO OPINION OFJACKSON.\n\n\n70 tie Editors Of tie Tirginia .fdvoeate.\n\n\nGENTLEMEN I'm reply to your written\n\n\napplication for a statement OF certain polt-\n\n\nical sentiments uttered by MIR. Jefferson some\ntune in the year 1925, ] must first remark,\n\n\nthat do not now consider myself at liberty,\nafter your request, to withhold II from your\n\n\npaper. My opinion has ever been TINS, that\n\n\nin free and equal society, upon public mat\n\n\ntiers of such extreme Importance, the public\nare entitlee! to demand, through any of their\n\n\norgans Of communication, the sentiments OF\npublic characters OF long and high standing.\n\n\nfrom themselves; and mos. assureciy SO, at,\n\n\nter their decease. from persons to whom\n\n\nthey have been unreservetly made known.\n\n\nwas induced to relate what ! had heard\n\n\nthe first time did relate it, by some iiiiher-\n\n\nal expressions applied to Gen. jackson;\n\n\notduct which would have been perhaps\nstill more revolving 70 my feelings IN regard\n10 Mir. Adams; f4l both are fully worthy in\nmy estimation Of the high honor they re-\nceivc from their fellow citizens at present;\n\n\nbut the former have never yet seen.\n\n\n| The occasion OF which you speak, when\n\n\nWe were all present at the reading of Gem\neral Jackson's reply to MIR. Clay, was,\n\n\ncandidly think, the second time mentioned\n\n\nthe fact in question. am very sure ] did\nhear MIR. Jefferson say, and think il was\n\n\nabout the last of July CT the first Of August,\n| i,,t : i,bt hpt n llrcpmh\nthat it was fortunate for the country that\n\n\nGen. Jackson was likely 70 be lit for public\n| life for four wears after; for in him seemed\n\n\nto be the only hope left Of avoiding the dan\n\n\ngers manifesty about to arise out OF the\nbroad construction now again given to the\n\n\nConstitution of the United States, which e.\n\n\nfaced all limitations Of powers, and left the\n| General Government. by theory, altogether\n\n\nnnrestraned. That its character was\n\n\nplainly enough about 70 be totally changed,\nand that revolution, which had been NTH\n! erto indistinctly contemplated az a very\n\n\ngreat distance, was now suddenly, and uncX\n\n\npectedly, brought close to our view. OF\n! Gen Jackson, Mr. Jefferson often said, that\nhe was an honest, sincere, firm, clcar-hrad-\n\n\ned aud strong minded man, OF the soundesl\n\n\npolitical principles. which he knew we'll\n\n\nfrom having observed his conduct while d\n\n\nSenator Of the United States. when he wa:\n\n\nVice President himself. He had no doubt\n\n\nthat il en- Jackson should be brought into\nOffice 10 correct the alarming tendency To\nwards formidable, and otherwise lrremedla\nBILE evils, beginning to devclope itself in III,\nadministration of the General Government\nhe feouM he entirely faiMfnifo Mat otjert\n: This conversation took place either imme\ndiately after the Convention in Staunton o\n1925, or in December following; and it wa\nthe last free expression OF his sentiments\never heard: calamitous change IN the pri\n\n\nvate affairs of both having occurred shortl,\nafter, which prevented my being much will\n: him, by placing him through impcrious cir\nJ cumstances, in situation requiring him 4\n. be unfriendly to my greatest interests.\n\n\nHaving been an elector myself in 1894\ny when Mr.. Crawford's personal condition\n!, was deemed so very doubtful, know ccr\na tanly that Mr.. Jefferson did then prefe\n:, Mr.. Adams, after him. lndced, | neve\ni heard Mr.. Jefferson speak of Mr.. Adams\n$ from the year 1892, without Acknowledge\nthat he was an able, learned, and homes\nt man, to which he often added, before til\nd period mentioned, that Mr.. Adams woul\nq make safe Chief Magistrate of the Uniol\n: and was the most fit of all the New Eng\nS land men. Towards Mr. Clay as polit\nq clan, MIR. Jefferson constantly manifested\no very strong repugnance, and often said thi\n70 he was merely splendid orator, witho'\nII any valuable knowledge from experience c\na study or any determined public principle\ny founded in sound political science, eitht\n1t practical OF theoretical With this impress\n\n\nion on my mind, left MIR Clay at Mont\n'e cello, when went to the Legislature, thrt\nlie days before the meeting Of the electoral CO\n: leges, in December 1924. ! had heard soT\nlittle discussion between him and Mr.. Je\ns. ierson, Of those important points Of const\nIS, tutional doctrine, and political economy, NJ\nie on which they differed so widely. we\nre determined to vote for Mr.. Adams in Ca\n\" Mr.. Crawford should be acknowledged i\ncn disputably out of condition to serve. 1t d\nhe not appea. to me that Mr.. Jefferson ev\n\n\nviewed Mr.. Clay in the light he is now VIE\nnd ed by numbers, as man likely to\nint dangerous to the Union from his prncipl,\nan or that he ever contemplated for him a\n- elevation shan what he had already enjo\nis, ed in the House ofReprcscntatives of Shou\nnut Mr.. Clay demonstrate to the world I'll\nlie Mr.. Jefferson underrated him, l shall be\nlat mong the first to acknowledge genui\n~ feeling of Civic pride at it; for he is V\n- ginan, and my strongest public attAchm.\nny of all is to the prosperity and honor of V\n,re ginia. If what have said should excite\nhe Sentiment shall hold Mr.. Clay, and h\nin only, responsible to me for any improT\n\n\nayrrercinn nft that feeling.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 3646,
+                "y0": 337,
+                "x1": 4633,
+                "y1": 4386
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                0
+            ],
+            "headline": "",
+            "article": "unfounded clamor, Or base einslnuation' 10 run\ndown public man.\n\n\nFrom the Georgia Consthutionaiist, cf dug\n10.\n\n\n\"Mr. Claws speech at the Lexington din\n\n\nner, is now going the rounds, ana very\n| fine and ingenious speech it is. What may\n| be its effects upon others, we preteha not 10\nsay-but il confirms our belief that there\n\n\nwas no bargain between Mr.. Adams and\nhimself when he became Secretary OF state\nThat Mr.. Clay expected the Office to be\nrendered to him when he voted for Mr. Ad-\nans, is probable enough his talents ana\neminence, vanity apart, authorized such an\nexnrctation and it is likely he would have\n\n\nndulgcd it had his vote and influence been\neiyen to Mr.. Crawford or General Jackson,\nWe are not friendly to the Administration,\nbut we would do justice both to the fresi'\ndent and his Secretary-we do not believe\nthat either the one or the other would aes-\ncend TO drive corrupt bargain for power\nThe error actually committed is one OF MI\nnor importance--it lies in the acceptance OF\nOffice by Mr.. Clay, under circumstances\ncalculated to beget suspicious OF MS purity,\nand to do great injury to his character ior\ncisintcrestedness; it was his duty tor the sake\nof himself-of his country-to look to ms\nreputation with as much caution as CEsar\ndie to his wife\"\n\n\nTThe Constitutionalist is undoubtedly\nright The error of MIR. Clay, if an error,\nis placed by it to the proper account. II he\ncommitted any error, it was in having too\nclear \"A consciousness of the directness and\nfrmness of his own conduct, to suspect that\nany attempt would be made from respect\nable source to impeach it. He is not man\nwho will shrink from danger, even if he is\nsensible of its approach; and he Boldly met\nil in this case-which is \"the head and front\nof his offending\" as far as the Public are\nWat. Int.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1547,
+                    "y0": 201,
+                    "x1": 2210,
+                    "y1": 1714
+                }
+            ],
+            "bbox": [
+                1547,
+                201,
+                2210,
+                1714
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-08-30_p2_sn85042523_00271740244_1827083001_0846.json"
+        },
+        {
+            "object_ids": [
+                13,
+                1
+            ],
+            "headline": "COL. TRIMBLE'S ADDRESS.",
+            "article": "The following extract from the address\nof Mr. Trimble. one Of the Kentucky dele\ncation in Congress, and one Of Mr.. Clay's\nmost steadfast friends. is, we think ot itself\nconclusive answer to the secretary's long\nand abusive speech.\n\n\n\"When We got to Washington, we found\nthat CrQvford was out of the question. We\noScc1lained that if Gen. Jackson was elect\ned he gpDuia nor appoint our friend Clay\nSecretary of State. We THEN dscrrtuin-\ned, DISTINCTLY. that if Mr.. Adams\nshould be elected. he wouid appoint Mr..\nClay Secretary of State: Under these Cir\ncumstances we determined to vote for him\" !\"\n\n\nIs not this proof Of the bargain. out of the\nmouth Of one of the parties concerned? At.\nter this, is the testimony of General Jackson\nor any Of his friends necessary to establish\nthe fact.-.fmcr. Sentinel.\n\n\nThe above has the fault common to most\nproductions from the Jackson presses-that\nis, il contains nor one yuord Of truth. Mr..\n'rrimble's address now lies before us. 1t\nis patriotic and truly republican in its char\nac;er. and has not single syllable OF the a\nhove in it. The paragraph IS BASE\nFORGERY, issued forth to supply the\nplace of the exploded story retallrd to the\nvisitors of the Hermitage. I'D. Eraminer.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1604,
+                    "y0": 1743,
+                    "x1": 2131,
+                    "y1": 1788
+                },
+                {
+                    "x0": 1539,
+                    "y0": 1791,
+                    "x1": 2206,
+                    "y1": 2800
+                }
+            ],
+            "bbox": [
+                1539,
+                1743,
+                2206,
+                2800
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-08-30_p2_sn85042523_00271740244_1827083001_0846.json"
+        },
+        {
+            "object_ids": [
+                2
+            ],
+            "headline": "",
+            "article": "ing tree, and having three fingers dangling\nby little bit of skin. They who thus lay\ntheir own lives against that of pheasant,\nmay be making fair bet; but think mine\nworth trlhc more, and besides, l hate to\nbe giving unnecessary trouble to coroner =\n\n\nHere we parted, and as pursued my\nride alone, had leisure to reflect upon the\nfolly OF laying the long oddf, for had been\none of the simpletons who had wagered\npretty deeply against the Alderman's being\nin at the death, all which bets were decided\nto have been lost, although he had not iegu-\nlarly followed the hounds, and was only pres\nens by accident at the destruction of the hare.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 873,
+                    "y0": 210,
+                    "x1": 1540,
+                    "y1": 715
+                }
+            ],
+            "bbox": [
+                873,
+                210,
+                1540,
+                715
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-08-30_p2_sn85042523_00271740244_1827083001_0846.json"
+        },
+        {
+            "object_ids": [
+                9,
+                16,
+                3
+            ],
+            "headline": "POLITICAL.\n\nFrom the National Mteiiigencer.\nKENTUCKY ELECTION.",
+            "article": "We have some further returns from this\nstate, of contest which, it appears, has\nbeen waged with great violence. Some blood\nhas been shed at the poles, but as yet we\nhave heard of no lives being lost.-We have\ncertain information Of the recollection OF\nJames Clark, Robert p. Letcher, Thomas\nMetcalte, and David Trimble, friends to the\npresent Administration. and Thomas P.\nMoore, opposed to it.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1022,
+                    "y0": 740,
+                    "x1": 1382,
+                    "y1": 798
+                },
+                {
+                    "x0": 956,
+                    "y0": 819,
+                    "x1": 1452,
+                    "y1": 899
+                },
+                {
+                    "x0": 868,
+                    "y0": 906,
+                    "x1": 1531,
+                    "y1": 1245
+                }
+            ],
+            "bbox": [
+                868,
+                740,
+                1531,
+                1245
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-08-30_p2_sn85042523_00271740244_1827083001_0846.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "The writer Of the following communica-\ntion was formerly ain officer in the Navy of\nthe United States, and has directed that his\nname may be given to any person properly\nauthorized by any Of the persons mentioned\ntherein to require It.\n\n\n70 (aftam Jehm Rodgers, ofthe o. S. shin\n\n\nNorth Carolina\n\n\nSir During your absence, on cruise\nto the Mediterranean. the case of Captain\nisaac Phillips has been submitted to the\nconstituted authorities the country, claim\ning his rank III the Navy of the U. States,\nand TO be rc-instated in command; the ma\nture of the application necessarily caused an\ninvestigation into the management OF the at\nfairs Of the Navy Department for many\nyears back, and one Of the grounds upon\nwhich Captain Phillips justified the propri.\ncty Of his application was. that he was lille\ngally dismissed by Mr. Secretary Stoddart,\nand without the order of the President of\nthe United States; and by references to the\nbooks Q. the Navy Department, brings into\nview the case of Yourself, who had been le-\ngally dismissed by the President, as is stat\ncd in letter Of Mr.. Robert Smith of the\n22d October, 1901, directed to YOU, and re-\ncorded on the books of the Navy Depart\ni,\nyou were again taken into the service, with\nin or about twelve months after. Now Sir,\nas the case of your dismission, must become\n:; subject Of consideration, and affect the\nrank of the Captains in the Naval service,\nand as many reflections and observations\nhave been made through the public prints\nof the nation, not only as respects the lille\ngality of the commission you hold, but in re-\nspect to your individual department, and\nunjustifahlc treatment subordinatcs under\nyour command, it appears to have become\nvery necessary, to quiet the minds of the\nnaval officers and others, who have taker\nexceptions to your conduct, that you une.\nquivocalv declare 7chether yon did, or did\n\n\nnot, receive that letter of dismission, record\ned on the Navy books, and dated the 22t\n\n\nOctober, Holland fso, did you receive\n\n\nnew commission, or were you again reap\n\n\npointed to the service. 1t is by many alledg\n\n\ned that you did receive that letter, and tina\n\n\nyou were thereby. decidedly removed from\nthe service, under the law of the Sd o\nMarch, 1901. reducing the Navy the peac\n, ablishment--newspaper paragraphs hav\nasserted there is no doubt Of it, ard that cir\n! cumstanccs can be traced, and living wit\nnesses produced, to establish the fact an\nfurther, that your letter of dismission wa\n! in consequence OF your having cruelty beat\nwith your fist, and MANNED a young gentle\nman, midshipman, on board the U. State\nd ship Maryland, under your command, an\ni that he and his friends made an applicatio\n: to Mr.. Robert Smith, the then Secretary\n{ the Navy, to have you brought to trial. an\n. that you escaped the Court Martial, by\nu dismission from the service; it is therefor\n\n\nincumbent upon you, as it is due to the N;\n! val Officers and to the public, that you al\n\\ swer candidly those interrogatories.\n\n\ny \"DncH amor Pdtrioe\" HONESTUS.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1552,
+                    "y0": 2825,
+                    "x1": 2219,
+                    "y1": 5249
+                }
+            ],
+            "bbox": [
+                1552,
+                2825,
+                2219,
+                5249
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-08-30_p2_sn85042523_00271740244_1827083001_0846.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "SIR JONAH BARRINGTON'S SKETCHES.\n\n\nAmong the early adventures of the author\nthere is one of considerable drollery, which\nwe are tempted to extract. An entertain\nment was given by his brother by way of\nhouse-warming to a new hunting lodge, and\nthe company, consisting of \"hard going\nsportsmen,\" counted among them Captain",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1587,
+                    "y0": 5261,
+                    "x1": 2245,
+                    "y1": 5525
+                }
+            ],
+            "bbox": [
+                1587,
+                5261,
+                2245,
+                5525
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-08-30_p2_sn85042523_00271740244_1827083001_0846.json"
+        },
+        {
+            "object_ids": [
+                12,
+                14,
+                6
+            ],
+            "headline": "FOREIGN INTELLIGEvcr\n\nTREATY FOR THE SETTLEMENT op\n\n\nGREECE,",
+            "article": "= IL\nmentlng upon the terms of the treaty of ~.\nAllied Powers in relation to Greece. re-\nmarks:\n\n\nShould the Porte refuse to accent the sr-\nmlstice which is to be in the first instance\nproposed, or should the Greeks object 10\nil, it is to be announced to that one of the\neontending parties who shall wish to contin.\ntie hostilities, or to both, if necessary, that\nthe allies intend to use all the means which\ncircumstances may place at their command\nto obtain the effect of the proposed armisiice\nby preventing as far as may be in their\npower, all collision between the belligerents.\nwithout. however, taking any part in their\nhostillties by siding with or against the o.\nthcr Thus, ii need be, to employ an eff\ncient intervention against the Turks and\nthe Greeks, # both are obstinately bent on\nwar\n\n\nTreaty. for the Settlement Of Greece\n\n\nIn the name Of the most holy and undyil.\ned Trinity.\n\n\nHis Majesty the King of the United King.\ndom OF Great Britain and Ireland, his Ma\njcsty the King of France and Navarro, and\nhis Majesty the Emperor of all the Russias,\npenetrated with the necessity OF putting an\nend to the sanguinary contest, which BY de-\nlivering up the Greek provinces and the\nisles OF the Archipelago to all the disorders\nof anarchy, produces daily, fresh impede\nmcnts to the commerce Of the European\nStates, and gives occasion to piracies which\nnot only cNpos- the subjects of the High\nContracting Parties to considerable losses,\nbut besides render necessary burdensome\nmeasures of protection and repression his\nmaesty the king of the united kingdom of\nGreat Britain and Ireland, and his majesty\nthe king of France and Navarro, having be-\nsides received on the part Of the Greeks,\nPr, ssing request to iuterposc their med,a-\nton with the Ottoman Porte, and being as\nwell as his majesty the emperor of all the\nRussias animated by the desire of stopping\nthe riiusion OF blood, and OF arresting the e.\nwills Of all kinds which might arise from the\ncontinuance Of such a state OF things, have\nresolved TO unite their efforts, and to regu-\ntate the opperation thereof BY formal\ntreaty, with the view of re-establishing\npeace between the coEtcndng parties by\nmeans Of an arrangement which is called for\nas much by humanity by the interest OF\nthe reposc Of Europe.\n\n\nWherefore they have nominated their\nplenpotentiaris to discuss, agree upon and\nSign the said Treaty, VIZ =\n\n\nHis Majesty the King ot the United King\ndom of Great Britain ard ireland the Right\nHon VIM. Niscount Dudley, Peer of the\nUnited Kingdom of Great Britain and Ire\nland. Councillor of his Britannia Majesty IN\nhis Privv Council, and his principal Secre-\ntarv Of STATE for the department OF foreign\nI AiFirs -\n\n\nHis Msjcstv the Eingof France and Nav\naree, the Prince Joles, Count de Polignacs\nPeer of France, Knight of the order OF ms\nMost Christian Majesty. Major General OF\nhis armies, Grand Gross Of the order OF at,\nMaurice of Sardinia, &c. and his Amoas-\nsador to his Brit .nnc Majesty.\n\n\nAud his NJ iesty the Emperor Of all the\n| Russias, Christopher Prince dc Lieven,\nGeneral of Infantry nf the Armies OF his\nlnperi. Majesty, his Aidte-camp, Gen\neral Knight of the nr,iers Of Russia, of those\n| of the Black + sle and Of the Red Eagle OF\n4 Prussia, Of that Of the Guelphs of Hanover,\nCommader Grand Cross OF the Order ot thc\nSword, and of the Order of st. John OF Jeiu-\nsllem, his Ambassador Extraordinary aud\nllenpotentiary t. his Britannia NJ jesty\n\n\nMha after having communicated their\nfnll nawers, aad found the same in good and\ndue form, agreed upon the following artl-\ncles - y,\n\n\nArticle 1.-The contracting powers wll\noffer to the Ottoman Porte their mediation\nwith the view Of bringing about recohcii-\natiou between il and the Greeks.\n\n\nThis offer of meditation shall be made 10\nthis Power immediately after the ratlfca-\nlion nf the treaty, bv means of a collective\ndeclar tion signed by the Plenipotentlafies OF\ni the Allied Courts at Constantlnople; ana\nthere shall be made. at the slme time 10\nthe two contending parties, demand OF an\nImmediate armistice between them, as\npreliminary condition indispensable to the\nopening Of anv negotiation.\n\n\nArt II-Thc arrangement to be propos-\ned to the Ottoman Porte shall rest on thc\n! following bases: The Greeks shall l,ad OF\nthe Sultan. MS Of superior lord; and IN con-\n\n\nsequence of this superiority, they shall pay\nto the Ottoman Empire an annual tilnate'\nEreirfJ the amount of which shall be lxea.\nonce for ALL bv common agreement. hcv\nshall be governed by the authorities wnom\n\n\nthey shall themselves chose and nomInate,\nbut in the nomination OF whom the foFe\n\n\nshall have determinatr view.\nTo bring about complete separation oe-\ntween the individuals of the two nations.\nand to prevent thr collisions which are the\ninevitable consequence of so long struggle,\nthe Greeks shall enter upon possession y.\nthe Turkish property situated either on the\n) continent or in the isles of Greece, on the\ncondition of indemnifying the formei prop,\n, critics, either hy the payment oi ali ahnh1'\nsum, to be added to the tribute winch IS u",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2936,
+                    "y0": 324,
+                    "x1": 3520,
+                    "y1": 373
+                },
+                {
+                    "x0": 2919,
+                    "y0": 394,
+                    "x1": 3529,
+                    "y1": 465
+                },
+                {
+                    "x0": 2897,
+                    "y0": 499,
+                    "x1": 3568,
+                    "y1": 4693
+                }
+            ],
+            "bbox": [
+                2897,
+                324,
+                3568,
+                4693
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-08-30_p2_sn85042523_00271740244_1827083001_0846.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "| On his arrival al the scene OF action ABOUT\nten O'Clock in the mnrning, after the first\ndays debauch, Sill J. thus describes appear\nanCcs:-\n\n\n| \"The room wasstrewed with empty bot\ntles-some broken some interspersed with\nglasses; plates, dishes, knives, Spoons, &c.\nall in glorious confusion. Here and there\nwere heaps of bones, relics Of the former\ndays entertainment, which tile dogs, seiang\ntheir opportunity, had cleahly picked\n\n\nThree or four of the Bacchanaians lay fast\nasleep upon chairs-one or two others on\nthe floor, among whom piper lay on his\nback, apparently dead, with table-cloth\nspread over him, and surrounded by four or\nFIVE candles, burnt to the sockets; his chanter\nand bags were laid scientifically across his\nbody, his mouth was quite open and his nose\nmade ample amends for the silence Of his\ndrone. Joe Kelly and Mr.. Peter Alley\nwere fast asleep in their chairs, close to the\nwall. Had never viewed such scene be-\nfore, it would have almost terrified me; but\nit was nothing more than the ordinary GUS\ntom which we call 7yaking The fihcr, when\nhe had got too drunk. to make any more mu-\nsic. No servant was to be seen,\nman or woman. ! went to the stables, where\nin found three or four more of the guodly\ncompany, who had just been able to reach\ntheir horses, but were seized bv Morpheus\nbefore they could mount them. and so lay\nin the managers awaiting a more favourable\nopportunity. Returning hence to the cot\ntage, found my brother, also asleep, on the\nonly bed which it then afforded: he had no\noccasion to put on his clothes, since he had\nnever taken them off next walked Dan\nTryon, a wood rangerof Lord Ashbrook,\nwho had acted rs maitre d'hotef in making\nthe arrangements, and providing horse\nload of game to fill up the banquet. ! then\ninspected the parlour, and insisted on break\nfast. Dan Fryon set to work; an old wo-\nman was called in from an adjoining cabin;\nthe windows were opened, the rooms clear\ned, the room swept, the relics removed,\nand the fire lighted in the Kitchen. The pi-\nper was taken away senselcsS, but ny bro\nther would not suffer either Joe or Alley TO\nbe disturbed till breakfast was ready No\ntime was lost and, aftera very brief inter\nval we had before us abundance Of line eggs.\nand milk fresh from the COW, with brandy,\nsugar and nutmeg, in plenty; large loaf,\nfresh butter. cold round of beef which had\nnot been produced on the preceding day, red\nherrings, and bowl dish of potatoes roast\nell on the turf ashes; in addition 10 which,\nale, whiskey, and port, made up the re-\nfreshments. All being duly in order. We at\nlength awakened Joe Kelly, and Peter Al.\nley, his neighbour: they had slept soundly,\nthough with no other pillow than the wall;\nand my brother announced breakfast with\na view halo! The twain Immediately\nstarted and roared in unison with their host\nmost tremendously it was however in We\nry different tone from the view halo, and\nperpetuated much longer Come, boys,\nsaid French. giving Joe pnll--'conlep oh,\nmurder!' saws JOE, Il can'G' Murder mur.\nderl'-cchoctl Peter French pulled them\nagain. upon which they roarcd the more\nstill retaining their places. | have in my\nlifetime laughed ill ! nearly became spas,\nmodic; but never was my rislble muscles put\nto greater tension than upon this occasion\n\n\nThe wall had only that day recei ed Coat\nof mortar, and of course WAS quite soft ant\nWelding when Joe and Peer thought proper\nto make it their piiio~; it was nevertheless\nsetting fast from the heat and lights of al\neighteen hours carousal; and in the morn\n\n\ning when my brother awakened his guests\n\n\nthe mortar had completely set, and thPil\nhair being the thing most calculated to anal\n\n\ngamate herewith, the cDtire OF Inc's stork\n\n\ntogether with his gneHs, and hall his head\n\n\nwas thoroughly and irrecoverably bcddet\n| in the greedy and now marble element I; St\n4 that, if determined 70 move. he must have\ntaken the wall along with him, for sepcrat,\nit would not One side of Peter, head \" =\n\n\nin the same state Of imprisonment. NJ 30\n\n\ndy was able to assist them, and there thel\n\n\nboth stuck fast a consultation was nov\n\n\nheld on their pitiful case which malicioush\n\n\nentleavored to prolong as much as could\n\n\ninterrupted by roar from Peter or Joe, q\n\n\nthey made fresh Efforts to rise At length\nit was proposed BY Dan Tryon 10 send to\n\n\nthe stone. cutter and get hun to cut then\n\n\nout of the wall with his chissel. | was lit\n\n\nerallv unable to speak two sentences to\n\n\nlaughing. The old woman meanwhile trie'\n\n\nto soften the obdurate wall with melted but\n\n\nter and new mlk--hut in vain. | related tn\n\n\nschool story. how Hannibal had worked hi\n\n\nway through the Alps with hot vinegar an\n\n\nhot irons:-ths experiment likewise wa\n, made, but Hannibal's solvent had no bette\n|; success than the old crone's. Peter being c\n\n\na more passionate nature, grew ultmatcl\nteeth, and swore vengeance again-t the ma\n: son-but as he was only held by one side,\n. thought at last struck him; he asked 70\n. two knives. which being brought, he whet\n, ted one against the other, and introducin\nthe blades close to his skull, sawed ava\n| at cross corners till lie was liberated, wit\nthe loss only of half his hair and piece\nI Ii cralr ,,I ~ hal Al, nfg",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2218,
+                    "y0": 236,
+                    "x1": 2885,
+                    "y1": 4412
+                }
+            ],
+            "bbox": [
+                2218,
+                236,
+                2885,
+                4412
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-08-30_p2_sn85042523_00271740244_1827083001_0846.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "vldua; for genuine son Of the turf never\nloses the opportunity OF wager.\n\n\n\"Doyou think she'll make for the Downs?\"\nsaid the Squire, addressing spare elderly,\nhalf dried huntsman, with streaky patch\nOF red upon either cheek that gave him the\nappearance OF winter apple.\n\n\nLord love you sir, how can you dream of\nher running smack into the wind? No; she'll\neither run upon side, or SO right down the\nwind towards Chippendale, or the water\nmills Spread yourselves wide gentlemen,\nand don't beat the bushes where the water\nlies, but keep the dogs higher up, or we\nshall only have a measly hare, that will\nkeep us crossing all day i'll the puddles and\nFLASHES. But, hark ye there's challenge;\nthere's Lightfoot giving tongue, who's\nnever wrong; you had better mount gentle\nmen, we shall have her out presently\" And\nscarcely were the words uttered, when out\njumps fin. hare, and scampcrs away over\nThorlcy Bottom-thc huntsman winds his\nhorn, the whole field gives the view halo\nthe hounds come up, and the whole pack,\nas they burst away set up loud smultane-\non anil sonorous cry, the cheerful melody\nof which is wasted by the wind over the\nstartled plains, meads, and woodlands,\n\n\n\"While echo on high\n\n\nGives reply to the cry,\n\n\nAs fthcy were chasing hare through the sky,\nUnable to keep up with the speed Of the\nfirst burst the Alderman quilted the melee,\ncutting across the country in the direction\nof the dogs, and rejoiniEg the hunt after\nshort ramble upon newly plonshed held,\nwhere the whole party were \".' fault =\n''It's this poughcd field where the scent has\nbeen lost\" cried the Squire.-\"Nor it, re-\npiled the huntsman,\" pointing to some sheep\nstains--\"this has done all the mischief\nthey spoil every thing-shouldn't wonder\nwe didn't recover the scent all day. But\npray be silent, gentlemen, keep together,\nand don't meet hound in the face, Or you\nmay turn him jnst when he's picking it up.\nhear haloo\"\n\n\n$50 do L.\" cried the Squire, \"she's found,\ndepend upon it\"\n\n\nCheryil's cnerring eye reconnoitered,\nwhen he shook his head, and pointed with\nhis whip to boy halloong the birds away\nfrom the seed. \"There's another, do you\nhear II, Che y,i''--\"AY, ay, but it's up in\nthe wind, and she can't have doubled ye,.-\nBut look We Wonder sir, dye see those sheep\nscudding away on the side Of Penwick Hill?\nshe's among 'ein, I'll lay my life; the crows\nare all on the wing, and here comes mag\npie chattering from the same field, we shall\nhave the other presently; ay, said so, she's\nthere, sure enough But stop. that's Sweet\nlips cry in the next field, and lghtfoot fol-\nlows her and gives tonsuc-fonnd found\nfound\n\n\nAt this cheering notice the whole field\ngave glad halloo, and made simultane-\nGUS charge after the dogs. The Alderman\nambed towards gap in one corner, when\nwe'll known brewer in the neighborhood\nwho, l am afraid, had ieayy interest IN\ndisabling him from being III Al the death.\ngaloped towards the spot on his powerful\nhunter. with the brutal design Of upsetting\nthe poney and its rider. The sagacous an\nimal, however. bolted on one side by which\nne would intailbly have made a transfer Of\nhis rider, had the rider not appealed to tho\npumlnel and the manc, when, accepting the\nomen of his poney' $ ears, which now pointed\nhomewards, he quilted the hunt, and as.\ncended little eminence whence he again\ncommanded full view OF the field. From\nthis point he saw the poor hare, after hav-\ning exhausted her starting speed, and lett\nthe dogs long way behind her, make hel\nfirst double and return upon a different\ntrack towards the form from which she had\nbeen dislodged. At intervals she halted, as\nil considering what strasagens and subter-\nfuges she could adopt, after which hasty\ncounsel with her own sad thoughts, she\nwould describe a labyrinth Of turnings ant\nwindings, and again spring forward in ,\nstraight line.\n\n\nBut the sure and relentless hounds track\ned her through all her crossings and doub\nlings, forced her from sheepcot into which\nshe had stolen for refuge, and the Alderman\npresently saw her limpmg sorely and pain\nfully towards him, stopping to listen, thel\ntottering little farther, and again stopping\nwhile the beleagucring ours, fraught with\nhundred deaths, grew nearer and louder\nand poured down her large open ears, ant\nseemed to madden her very brain. At thi\nspectacle his bosom melted with compass\nsion and as the poor animal, with las\nconvulsive effort, leapcd upon a clippe,\nquickest hedge close beneath him, an,\nscrambled along its top to cheat her enc\nmics of the scent, he hastily took out hi\npurse, in the omnipotence of which he ha\ngreat confidence, and offered FIVE pounds t\nany that would save her. But it was to\nlate; the ravcning dogs rushed in upon thei\nprey as she tumbed from the hedge, and\nshort piteous shrek that went to his yer\nheart, announced the consumation OF VIII.\nis unfeelingly denominated days sport.\n\n\nSuch were the Aiderman's feelings, as\nhimself related them to me during our rid\nhome together, calculating in conclusion,-\n'It's a bad spec sir, Flemish account,\nlosing concern, this hunting; men, horse\n\n\n",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 176,
+                    "y0": 350,
+                    "x1": 861,
+                    "y1": 4553
+                }
+            ],
+            "bbox": [
+                176,
+                350,
+                861,
+                4553
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-08-30_p2_sn85042523_00271740244_1827083001_0846.json"
+        },
+        {
+            "object_ids": [
+                10
+            ],
+            "headline": "",
+            "article": "In the following article. from the Georgia\nConsttutionalist, paper decidedly adverse\nto this Administration, we have evidence of\nsuch honesty as disdains to avail itself Of an",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 917,
+                    "y0": 5380,
+                    "x1": 1579,
+                    "y1": 5525
+                }
+            ],
+            "bbox": [
+                917,
+                5380,
+                1579,
+                5525
+            ],
+            "full_article_id": 11,
+            "id": "11_1827-08-30_p2_sn85042523_00271740244_1827083001_0846.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "| certain Information OF the re-electlon OF\nJames Clark, Robert p. Letchcr, Thomas\n/ Metcalte. and David Trnible, friends TO the\n\n\npresent Administration. and Thomas i.\n/ Moore, opposed to 1t.\n\n\nJEFFERSON'SO OPINION OFJACKSON.\n\n\n70 tie Editors Of tie Tirginia .fdvoeate.\n\n\nGENTLEMEN I'm reply to your written\n\n\napplication for a statement OF certain polt-\n\n\nical sentiments uttered by MIR. Jefferson some\ntune in the year 1925, ] must first remark,\n\n\nthat do not now consider myself at liberty,\nafter your request, to withhold II from your\n\n\npaper. My opinion has ever been TINS, that\n\n\nin free and equal society, upon public mat\n\n\ntiers of such extreme Importance, the public\nare entitlee! to demand, through any of their\n\n\norgans Of communication, the sentiments OF\npublic characters OF long and high standing.\n\n\nfrom themselves; and mos. assureciy SO, at,\n\n\nter their decease. from persons to whom\n\n\nthey have been unreservetly made known.\n\n\nwas induced to relate what ! had heard\n\n\nthe first time did relate it, by some iiiiher-\n\n\nal expressions applied to Gen. jackson;\n\n\notduct which would have been perhaps\nstill more revolving 70 my feelings IN regard\n10 Mir. Adams; f4l both are fully worthy in\nmy estimation Of the high honor they re-\nceivc from their fellow citizens at present;\n\n\nbut the former have never yet seen.\n\n\n| The occasion OF which you speak, when\n\n\nWe were all present at the reading of Gem\neral Jackson's reply to MIR. Clay, was,\n\n\ncandidly think, the second time mentioned\n\n\nthe fact in question. am very sure ] did\nhear MIR. Jefferson say, and think il was\n\n\nabout the last of July CT the first Of August,\n| i,,t : i,bt hpt n llrcpmh\nthat it was fortunate for the country that\n\n\nGen. Jackson was likely 70 be lit for public\n| life for four wears after; for in him seemed\n\n\nto be the only hope left Of avoiding the dan\n\n\ngers manifesty about to arise out OF the\nbroad construction now again given to the\n\n\nConstitution of the United States, which e.\n\n\nfaced all limitations Of powers, and left the\n| General Government. by theory, altogether\n\n\nnnrestraned. That its character was\n\n\nplainly enough about 70 be totally changed,\nand that revolution, which had been NTH\n! erto indistinctly contemplated az a very\n\n\ngreat distance, was now suddenly, and uncX\n\n\npectedly, brought close to our view. OF\n! Gen Jackson, Mr. Jefferson often said, that\nhe was an honest, sincere, firm, clcar-hrad-\n\n\ned aud strong minded man, OF the soundesl\n\n\npolitical principles. which he knew we'll\n\n\nfrom having observed his conduct while d\n\n\nSenator Of the United States. when he wa:\n\n\nVice President himself. He had no doubt\n\n\nthat il en- Jackson should be brought into\nOffice 10 correct the alarming tendency To\nwards formidable, and otherwise lrremedla\nBILE evils, beginning to devclope itself in III,\nadministration of the General Government\nhe feouM he entirely faiMfnifo Mat otjert\n: This conversation took place either imme\ndiately after the Convention in Staunton o\n1925, or in December following; and it wa\nthe last free expression OF his sentiments\never heard: calamitous change IN the pri\n\n\nvate affairs of both having occurred shortl,\nafter, which prevented my being much will\n: him, by placing him through impcrious cir\nJ cumstances, in situation requiring him 4\n. be unfriendly to my greatest interests.\n\n\nHaving been an elector myself in 1894\ny when Mr.. Crawford's personal condition\n!, was deemed so very doubtful, know ccr\na tanly that Mr.. Jefferson did then prefe\n:, Mr.. Adams, after him. lndced, | neve\ni heard Mr.. Jefferson speak of Mr.. Adams\n$ from the year 1892, without Acknowledge\nthat he was an able, learned, and homes\nt man, to which he often added, before til\nd period mentioned, that Mr.. Adams woul\nq make safe Chief Magistrate of the Uniol\n: and was the most fit of all the New Eng\nS land men. Towards Mr. Clay as polit\nq clan, MIR. Jefferson constantly manifested\no very strong repugnance, and often said thi\n70 he was merely splendid orator, witho'\nII any valuable knowledge from experience c\na study or any determined public principle\ny founded in sound political science, eitht\n1t practical OF theoretical With this impress\n\n\nion on my mind, left MIR Clay at Mont\n'e cello, when went to the Legislature, thrt\nlie days before the meeting Of the electoral CO\n: leges, in December 1924. ! had heard soT\nlittle discussion between him and Mr.. Je\ns. ierson, Of those important points Of const\nIS, tutional doctrine, and political economy, NJ\nie on which they differed so widely. we\nre determined to vote for Mr.. Adams in Ca\n\" Mr.. Crawford should be acknowledged i\ncn disputably out of condition to serve. 1t d\nhe not appea. to me that Mr.. Jefferson ev\n\n\nviewed Mr.. Clay in the light he is now VIE\nnd ed by numbers, as man likely to\nint dangerous to the Union from his prncipl,\nan or that he ever contemplated for him a\n- elevation shan what he had already enjo\nis, ed in the House ofReprcscntatives of Shou\nnut Mr.. Clay demonstrate to the world I'll\nlie Mr.. Jefferson underrated him, l shall be\nlat mong the first to acknowledge genui\n~ feeling of Civic pride at it; for he is V\n- ginan, and my strongest public attAchm.\nny of all is to the prosperity and honor of V\n,re ginia. If what have said should excite\nhe Sentiment shall hold Mr.. Clay, and h\nin only, responsible to me for any improT\n\n\nayrrercinn nft that feeling.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 860,
+                    "y0": 1086,
+                    "x1": 1531,
+                    "y1": 5254
+                }
+            ],
+            "bbox": [
+                860,
+                1086,
+                1531,
+                5254
+            ],
+            "full_article_id": 12,
+            "id": "12_1827-08-30_p2_sn85042523_00271740244_1827083001_0846.json"
+        }
+    ]
+}

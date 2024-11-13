@@ -1,0 +1,1185 @@
+{
+    "lccn": {
+        "title": "The Litchfield County post.",
+        "geonames_ids": [
+            "4837799"
+        ],
+        "dbpedia_ids": [
+            "Litchfield%2C_Connecticut"
+        ],
+        "issn": "",
+        "lccn": "sn82014309",
+        "start_year": "1826",
+        "end_year": "1829",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [
+            "sn84020071"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn82014309",
+        "edition": "ed-01",
+        "date": "1827-06-28",
+        "pages": [
+            "seq-3",
+            "seq-4",
+            "seq-2",
+            "seq-1"
+        ]
+    },
+    "page_number": "3",
+    "scan": {
+        "lccn": "sn82014309",
+        "edition": "ed-01",
+        "date": "1827-06-28",
+        "page": "3",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-06-28/ed-1/seq-3.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-06-28/ed-1/seq-3/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-06-28/ed-1/seq-3/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/ct_barnum_ver01/data/sn82014309/00414182926/1827062801/0203.jp2",
+        "height": 7433,
+        "width": 5089
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2045,
+                "y0": 4843,
+                "x1": 2934,
+                "y1": 5947
+            },
+            "class": "article",
+            "raw_text": "\\ HE publick are informed that the 51st Anniversa- ry of American Independence will be celebrated on Wednesday, the 4th of July, by the Students of the Law Office in this town.-A procession will bo form- ed at Mr. Demngs Hotel and at Il o'clock precisely, will move to the Episcopal Church where after prayer, the Declaration of Independence will be read and an Grafton delivered in commemoration of the day, at which the inhabitants of Litchfcld and its vicinity respectfully invited to attend.-The ten first pews the south side of the middle aisle will be reserved for the students and those who join the procession, the whole of those the north side of the church. erc sivey for the accommodation of the ladies, and the mander for the citizens generallyA dinner will be provided by Mir. Deming at t'co o'clock ;-those gen. tlemen who may feel disposed to partake, reques- ted notify Mr. D. it will be prepared for ose ~ whose names are handed in.\n\n JOSEPH L. SKATER,\n\n A. D. PARKER, Commsittee\n\n HENRY MORRIS, y\n\n R. H. SPEED, Arrangements.\n\n C. c. YOUNG. ,>",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 2056,
+                "y0": 4744,
+                "x1": 2911,
+                "y1": 4838
+            },
+            "class": "headline",
+            "raw_text": "ANNIVERSARY OF AMERICAN INDEPEN.\n\n DENCE.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3856,
+                "y0": 4837,
+                "x1": 4757,
+                "y1": 6545
+            },
+            "class": "article",
+            "raw_text": "The June No. of \"The Casket,\" which is publish cd monthly at this office, contains view of the cor FACE OF ST. LEONARDS, in Scotland with a particular description of that celebrated scene so beau tifuly illustrated in Walter Scott's novel of \"The Heart of Midlothian\" Also view of QUEBECK. taken from the Chaudere, at sun-settng, with an ap proprate narrative of it's romantic and picturesutie scenery copied from Silliman's Tour. Nos 26 2I, song, from the pen of our admired correspondent \"SELIM,\" set to the music. The contents of this number abound with original Tales Essays and Po- ery, diversified by anecdote and useful miscellany.\n\n Enlarged and improved as {\" the Casket has recent y been, presents to the lovers of literature one of the cheapest compendiums of Miscellany to be found in the United States; the engravings (threc companying each No) are in themselves worthy of end of the year of upwards of thitsx, superceedng in value the amount of the subscription We do not hesitate to say that the appearance and character of this work win continue to afford the most ample and The price of subscription is $2,50 in advance. The vou to consist of nearly five hundred pages large oc- List of the Portraits aud Vecs already published s\n\n os the Nos. for thiS year.\n\n John Adams late President of the United States {: John c. Calhoun present Vice President of the Uni ted States; Robert Fulton Esq the original projec- tor of steam to the propelling of boats Fair Mount Water Works, near Philadelphia; The Capitol of Pine Orchard, N. Y; Trenton Falls in the state of New-York; The Cottage of St. Leonards, in Scot land; The Port of Bufialow, on Lake Erie Quebec, from the Chaudiere River besides 9 cuts JPlants embeishing the \"School of Florida,\" which is con- tained in Nos. ofths work; and also several popular airs, set to Music.4\n\n Orders for the Casket (enclosing one years sub- scripton) addressed to ATKINSON & ALEXAN- DER, Philadelphia, will be promptly, attended to.\n\n wiu confer particular obligation by inserting the bove once in their respective papers.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 3955,
+                "y0": 4761,
+                "x1": 4624,
+                "y1": 4832
+            },
+            "class": "headline",
+            "raw_text": "THE CASKET.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2050,
+                "y0": 6033,
+                "x1": 2934,
+                "y1": 6493
+            },
+            "class": "article",
+            "raw_text": "In Brookfed, by Rev. A. Brundage, MT Leman Ackley, of New Preston to Mrs Kinda Hubbel, of the former place.\n\n In New Preston Society, by Rev. c. A. Boardman, Mir Joel Morehouse to Miss Eleanor Byington.\n\n In Haven, on the 18thinst by Rev. Mir Bacon, Mir George Treadway, of this town, to Miss Mary Wise, of the former place.\n\n Also, by Rev. Mir Merwin, MT Noble G. Catlin of Albany, to Miss Philomela Edwards, of Watertown\n\n In South Farms by the Rev Mir. Robinson Mir. AL yah Clark to Miss Mary Ensign l.",
+            "legibility": "Questionable",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2306,
+                "y0": 5975,
+                "x1": 2684,
+                "y1": 6022
+            },
+            "class": "headline",
+            "raw_text": "maaR. .H. F3E 1a",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 3862,
+                "y0": 3902,
+                "x1": 4752,
+                "y1": 4739
+            },
+            "class": "article",
+            "raw_text": "w E the Subscribers having been appointed by the Hon. Court of Probate for the District of Ltchfeld Commissioners to receive, examine and adjust the claims of the Creditors of the estate of -\n\n URIEL HOLMES,\n\n late of Ltchfeld in said dstrct deceased represen- ted nsolvent give notice that six months from the 2d day of July will be allowed by said Court for the Creditors to exhibit their claims, and that shall meet in pursuance of our said appointment at the late dwell ling House of the deceased, in Ltchfed, on the 2d days of August and October 1897, and the 2dday of January 1928. All claims not exhibited within said time will be debarred recovery.\n\n Dated at Litchfeld, June 22d, 1897. $sHsH s$#Sai s$SS StfSH; I; f2SiS: ;s",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 4147,
+                "y0": 3826,
+                "x1": 4456,
+                "y1": 3885
+            },
+            "class": "headline",
+            "raw_text": "NOTICE.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2962,
+                "y0": 6509,
+                "x1": 3846,
+                "y1": 6969
+            },
+            "class": "article",
+            "raw_text": "We would refer those who are interested-and who that wears fine dresses, but is interested Ito ad- vertsement of Mir. Trench in this days paper. We have seen Mr. T. remove in three minutes lamp oil from the finest of white figured silk, and also from oth- CT coours without the least injury the colour or tex ture of the cloth. That for sale the Lchfed Book\n\n Store is genuine, having been procured by the editor personally from Mir. Trench, and the retail price the same as at the manufactory. 8",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3862,
+                "y0": 3002,
+                "x1": 4763,
+                "y1": 3566
+            },
+            "class": "article",
+            "raw_text": "DY order of the Court of Probate for the district of Litchfeld will be sold at public Auction, on Tuesday, the 17h of July next (unless previously disposed of at private sale) so much of the real estate of\n\n SAMUEL GUNN, late of Ltchfed in said district deceased as will raise the of one thousand and fifty dollars. Sale to commence at 10 o'clock A. M. at the late. residence of tle deceased.\n\n THOMAS J. GUNN, A,u;,,..\n\n RALPH R. GUNN, 5 1h\"\"''\" 'E' Litchfied, June 21, 1927. ,",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 35,
+            "bbox": {
+                "x0": 3885,
+                "y0": 2862,
+                "x1": 4130,
+                "y1": 2910
+            },
+            "class": "author",
+            "raw_text": "June 27, 1927",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -2
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 4141,
+                "y0": 2926,
+                "x1": 4479,
+                "y1": 2991
+            },
+            "class": "headline",
+            "raw_text": "AUCTION.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2056,
+                "y0": 6579,
+                "x1": 2940,
+                "y1": 6975
+            },
+            "class": "article",
+            "raw_text": "In town, daughter of Mir Reuben Tenyl.\n\n Near Matanzas, on the 23d of April, Hon. Israel Pickens late Governor of the state of Alabama and more recently Senator to Congress from that state.\n\n In Derby, on the l6th inst Dr Liberty Kimberly, aged 60.\n\n In Hartford, Capt. Daniel Hnsdale, aged s. MT Benjamin WiDtonbury, aged 59, and his wife. They died in about l5 minutes of each other. sa\n\n At Dresden, May 5th, after an illness of 21 days, his Majesty, the king of Saxony, aged v.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2399,
+                "y0": 6527,
+                "x1": 2609,
+                "y1": 6574
+            },
+            "class": "headline",
+            "raw_text": ".AE5sn",
+            "legibility": "Questionable",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2039,
+                "y0": 325,
+                "x1": 2946,
+                "y1": 4797
+            },
+            "class": "article",
+            "raw_text": "which has so long been visiser eA our coaa.\" This ishar Cor whales n the river three sailes above Poursunou,h must have been rare pastime Cor. the spOrtsmen Of that place.\n\n The Spring Session Of the Legislature of Massschn. ses was closed the 10th inst. An appropriation Of SlO 900 was made for the survey ofa Rail Road from Boston to Albany. This indicates a serious purpose on the part of Massachusetts of constructing possi ble, such road. We wish success every underta- king for facilitating intercommunicaon in our coun- try. In anticipation ofthe completion of this great work an ingenious mechanist, of Stockbridge has i- vented an improved Rait,oay Carriage, which so re- duces friction, that horse may draw with perfect ease, upon a level road, Fifty Tons Mir. Morgan the inventor has proved this fact by various expermens One pound attached carriage this construction and suspended bully, moved quickly seren hun- dred pounds\n\n The general government has sent several engineers to Vermont, to be employed in surveying, ascertain the practcaby of connecting Connecticut river with Lake Champlain, by canal One route proposed is through Orange county; another by the way of White River and of Wells River and athrd proposed route is from Magog Lake, by way of Lamoile River to lake Champlain.\n\n Maior Laing:-The following is the account pub lished in Paris paper of the death of Mai Laing ,the traveller in Africa It is to be hoped it may prove al fabrication, is stated in the London Courier that despaches received at the Colonial Department from the British Consul in Trpol ,says that there sreason to believe the report unfounded. It does not appear however, whether the Consul at the time of express ing this opinion, was in possession of the particulars as here stated, and the authority which they are said to rest\n\n hoy olyb thn K A pri :-Major Laing whose tragical fate had been an nounced, has fallen victim to his courageous perse verance, not however until he had visited the fa- nous city of Tombuctoo. The Pacha of Trpoli has communicated this intelligence the auhorthority of letter, which his vassal the governor of Ghada mes, wrote to apprse him of the event, and which let ter reached him in less than en days, being convey ed by an extraordinary courier. The British travel\n\n ers, who were at first stated to have fallen under the weapons of the robbers, in the territory of Tonal, had then been only wounded, that after having es capped this first danger, through the philanthropy of Marabout, they at length reached Tombuctoo. Shortly after their arrival in that city, the Feans, which powerful and warlike tribe now reigns exclu- siveiy over the immense deserts of Central Africa, appeared to the number of 3O,OOO, and imperiously demanded that the travellers should be given up to them in order that they might put them to death and thereby prevent the Christians from availing them selves of the information to be gained by their means, and from penetrating some day into these remote countries to enslave the people. Such are the ex- pressions of the Schek of Ghadames in his letter to the Pacha. The Prince commanding Tombuctoo re- fused to give up the strangers whom he had received with benevolence; and in order to withdraw them from the enmity of their prosecutors whose resent ment he was unwilling to provoke, he sent them off secretly to Bambara escorted by fifteen horsmen, se- lected from his own body guard but being speedily oyertaken by party oiTellans, who had rapidly Pur- ed them on hearing of their escape, the unfortunate Laing mercilessly strangled with all his compan- ions Such was the trag gca end of the intrepid uav- eler, who the first to penetrate into the precincts 1 s ,n9 sx 3 of which is still likely to es cape the best directed inquiries, according to all appearance, there is no hope of recovering the pa Pers of the unfortunate Laing. Meanwhile the Eel ans whose ambition equal their fcrocity, avail\n\n ing themselves of Major Laings arrival at Tombucoo and of the species of protection which he had recev- ed there, seized upon that city, and imposed an an- nual tribute, which the inhabitants unable to offer re- sistance, in future to pay for having as 1t IS sad, made themselves accomplices in a project of invasion medtated by the infdels. These last accounts have been communicated by Trpolitan Scheik, who has long resided at Tombuctoo. He declares that there exists very interesting account of that city, which carries back it's foundation to the year 5l0 of the He gira, \"A. D. 1l16) and the author of which is Sid- Hamet-Baba, native of Arawaw, small borough of the Rents county considerable colony ofthe Sultan\n\n memorial has been presented to the Governor of Delaware, desiring him appoint another judge. There is a to be tried in the high Court of Errors and Appeals in that state, in which the Chancellor IS party and his absence deprives the bench of con- sttuiona majority. There must be flaw in the con- suon of that state, if has provided for such an exigency.\n\n Killed instantly Mr. Stephen Evitts of the town of Pike, Bradford County Pennsylvania by stone thrown at his head on training day. the person who committed the murder is in prison to await his rla- Mir. Evitts formerly from Newprestcn in this County where most of his children reside to la- ment his untimely end. Communicdted.\n\n ANNIVERSARY OF AMERICAN INDEPEN-",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 210,
+                "y0": 290,
+                "x1": 1122,
+                "y1": 5848
+            },
+            "class": "article",
+            "raw_text": "t\"e' 9e b&aoa oi lUten ss4ance' waalch has bccn let loose upon our laRd carries not in his train rrca Ger amount of real suffering than follows in the track ot Famine, Pestcncc, or the Sword. These last may bc sent as judgments and not be of our choosing the former can only come in at tho door of our own will\n\n As nation, have invited his approach; and al . though hts tarrying has been often nominally lamen- ted and his progress deprecated he has been cher ished as national guest the expense of every thing sacred and divine; and long as we virtually attrb ute to him. that glory which belongeth another so\n\n long will his poisonous breath tend to wither the fair tree of Liberty which planted July 4th, 1776.-To the busy crowd who blind to the special provi- dence exercised by the God of Heaven towards all his creatures, this may appear weak and entlusiastca; :; but when the assembled universe shall the great day ofjuagment be called around the throne of the judge ot the whole earth, this doctrine will appear correct, though now to many men, absorbed in the calculations ofworldly wisdom it may appear deIusive.\n\n We do not wish that this anniversary may be spent as day of fasting and prayer;\" but as a day of thanksgiving and praise,' day of ''joy and gadness with rational enjoyment of the many bIes- sings which have been richly poured upon us ;-as calculated to call forth that social flow of kinder feelings which do honour to humanity of re- u full bestowa of portion of our substance for aleva- ting his sufferings.\n\n Ofall other seasons in tue year, this, our Free doms Birth Day., is the period when the rich, whose property is protected by our wise and prudent laws, when the man of moderate wealth. and the poor, who rest secure under the which Liberty has planted, should give each according his ability prepare the way for the restoration to freedom of some of the t' million and half of slaves' who groan in bondage in our country The American Colonization Society, with the utmost proprie, calls upon the friends of hu manity to remember with their aims, on this day. the in which they engaged; and they do call in vain In many places large contributions are taken up either on the Fourth of July the Sabbath preceding or succeeding it, Such course offers sub stantal proof that the day is only remembered but honoured in the best possible manner.\n\n We will close this long article with one remark A short time since, the authority i've bceve of the city of New-Haven made enquiries into the cause of in- temperance and passed several spirited resolves upon the subject. As a upon that act, this same authority have recently voted hundred dollars to be expended in powder Sc. &c. the ap- preaching Fourth of Jnly.' Here then they foster the very evil which they depore by doing pro-\n\n \n\n to check it. We doubt not but large majority of the rateabe polls in that city friends to temperance and also to tire Colonization Society; and that had the question been understandingy put to each of these cit izens whether hundred dollars should be spent in promoting noise x intemperance, agreeably to the aforementioned vote, or wheh it should go into the treasury of the Col Society,\" and the day be spent season of thanksgiving and praise, nineenths would have voted for the atter rather than the former mode of celebrating the birthday of American Libcrty\"- by such public appropriations of money, that the evil complained of becomes national sin; and such it will be punished with national caamities.\n\n Upon tue least calculation which can be made, not less than two thousand dollars annually spent the \"Fourth of July in Litchfeld County; the greates: share of which is worse than thrown away. May not quarter part of this be this year given for the relief the oppressed African who groans in slavery, in land whose triumphant motto is |\" All men are born equally free and independently The American Colonization Society,-composed principally of dis tngushed individuals of the South, where the evils of slavery felt by the master well the slave are engaged in great and good work; and they look to the friends of humanity for assistance. They have called upon to remember them on the coming anni- versary of American Independence. Shall they call in vain Can the friends of temperance and morality, who have heretofore spent this day, one two or three dollars, simply for the graacon of their appe- ttcs render consistent tribute of gratitude to Heaven for the blessings of liberty than by bestowing like sum in favor ofuniversal emancipation Would not conscience approve such act, as calculated to procure for hegyer, tn, blessing of thousands ready 10 perish I've know of many who are disposed to give, bat who plead want of opportunity, there being public asscmblage in their vicinity, which they wish to join and they are therefore under the ne cessity of tarryng at home, and no call is made upon their charity. To obviate this difficulty if it may be viewed thus, we engage to report minutely in the County Post, every donation which may be made to this object, through the editor, giving either the name Of the donor, Or any signature which he may choose; the whole amount of (which shall be transmit cd to the Treasurer of the Colonization Society,\" to some agent in York; this state, and the Treas urers receipt published as above mentioned We do confidently trust that either in this way, in some other agreeable to the feelings of our citizens, solid testimonial of respect will be manifested for the anniversary of our national Independence.\n\n A large and respectable meeting has been recently held at Concord, N H. of gentlemen interested in the growing and manufacturing of wool for the purpose of",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3856,
+                "y0": 1858,
+                "x1": 4757,
+                "y1": 2910
+            },
+            "class": "article",
+            "raw_text": "Sole Agent for the T'o,Ce of fLitchfeld It is requested that any Lady or Gentleman, who. entertans any doubt of the superior excellence of the above compostion will bring any of their garments stained above described, for trial; and the same will be removed, in their presence, gratis; and the most satisfactory proof given that the practice of send ing fine dresses account of such stains, the Dy CTS, may in such cases be dispensed with. MT. r. makes the above request, that Ladies aud Gentlemen may be able to distinguish the genuine articles, from numerous counterfets that imposed upon the pub lie under the above ttIes It may be had all times by Wholesale at the subscriber's and by retail only at Doyles Bookstore, Broadway, and MT. Eggleso's, Mo- 81. Bowery.\n\n 7he Agents tor the sale of these articles m Cooec- ticut o'e, Messrs Price 4 MLeaa, Nor.calk; Doct. Dyer, Bridgeport; Batdaoin & Bea,s Ne,oto,cn; \" < S. Comstock, Danbmy; M 4. Durand, Nesc Haven; Doct. Dyer Middleto'on; Mr Ro6inson, Nor aoch; Peter Morton, Hartford; s, S. Smith, Litch- feid. GjA very E6araL aiLo,cGnce aciH be made to person n each toon co may purchase to sell Gguie application to a-\n\n J. TRENCH,\n\n Inventer and manutacturer, No. 245,\n\n Green,cich-Street, Ne,v- York. June 27, 1897. 8'o 54",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 4019,
+                "y0": 1759,
+                "x1": 4688,
+                "y1": 1818
+            },
+            "class": "headline",
+            "raw_text": "Sold by s. s. SMITH,",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -3
+        },
+        {
+            "id": 36,
+            "bbox": {
+                "x0": 4100,
+                "y0": 1823,
+                "x1": 4653,
+                "y1": 1859
+            },
+            "class": "author",
+            "raw_text": "At the \"LitchfeId Bo0k- Stor",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -2
+        },
+        {
+            "id": 37,
+            "bbox": {
+                "x0": 4013,
+                "y0": 1858,
+                "x1": 4711,
+                "y1": 1905
+            },
+            "class": "headline",
+            "raw_text": "Sole Agent for the To.c,e of Litchfel",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1121,
+                "y0": 470,
+                "x1": 2028,
+                "y1": 6034
+            },
+            "class": "article",
+            "raw_text": "nor of Ncw-lIsmPshirc. During his administration his cratic that at the annual cleo ton overwhelming vote from his party thrust him into retirement. Possessing very handsome tal ents, and protesting deep repentance for his past TOTS, and strong attachment the administration party in New-Hampshire, he caoled the legislature into appointment of himself to the United States Senate. His course there is well known. Heedless of the wishes of his constituents, his found foremost amongst the opposition He appears fully that in his state he has committed political suicide, and his only hope for future support from 1 the of the \"Combination.' We have ever thought that when men in office have calmly and de- liberatey betrayed their constituents upon an import question,-the Missouri question: and others of e. qual interest-it is madness in the people, future e gislaures, to trust them again, under the mistaken notion that C they will do better hereafer.' New Hampshire acted under this false and deceitf impress sion and they reaping the bitter fruits of this folly, in having in reality but one Senator in Congress, while he who should have been their second has leagued himself with the Virginia interest, and acts with her Senators upon every important questions Delegates have been appointed to the Harrsburgh Pa. Convention of Manufacturers, to be holden in July\n\n \n\n shire and meetings have been called in Vermont for the purpose of making similar appointments. Would it be well for Connecticut have voice in that great meetingl We have yet heard of no move ments which indicate that such step will be taken, but know not why citizens should be back ward in such an important measure.\n\n Since writing the above, observe in the eastern papers that the manufacturers and wool growers in the eastern part of the state, proposing hold meet ing at Brooklyn Friday, the 29th inst for the pur pose of appointing delegates to the above mentioned important meeting.\n\n \"In a conversation with of us Mr. Jefferson de- carcd that Gen. Jackson had more of the old Roman in his character, than any man livng.\"-Bah. Repwb The above copied into the Hartford Times for special benefit in reply to Jeersons opinion of Jack sons qualifications for the Presidency, inserted in last. For the special benefit of whom it may concern will say-there can he doubt that MT. Jefferson made the above remark, because it is true true.- Gen. Jackson has much of Julius Cesar in his tenn perament, that we tremble for the liberties of our country should they be- placed in his safe keeping. fine recommendation for candidate for the Presiden cy of peaceful Republic that he has \"more of the old Roman in him than any man living\" It was this very fact which led the illustrious Jefferson trem ble for the stability of our Republic We know Gen. Jackson is brave,-so was Julius Cesar-war is the native element of the former-so of the atter- ambition, selfsh reckless ambition, is prominent trait in hecharacter of the Hero of Oreanssuit it in the conqueror of ancient Briton-but we will pur- sue the comparison farther, closing with request that Mr. Wells will give us another good an argu- against the claims of Gen. Jackson tor the Pres idency, as is the caption of this article.\n\n We have received the first number of a very neat little publications intended to be issued monthly by the Methodist Episcopal Sunday School Union, of New York. The work recommends itself both by the price, being only 25 per year, where eight copies are aken and also by the choice selection of matter, suit able for the instruction and benefit of Sabbath School children, for whom it is intended.\n\n We perhaps ought also to mention weekly paper issued from the office of the Boston Recorder, edited by Mir. N. Willis and Rev. A. Rand entitled \"Youth's Companion\" published weekly at one dollar peryear, in advance, terms fraction less than the above men, toned, considering the number printed in year,-l2 at 25 cents-52 at $1 ,00. Both are cheap, and both admirably calculated benefit the rising generation. Three numbers of the: \" Youths Companion\" have been published, containing rich variety of useful and entertaining matter, as far can judge from the contents Can young friends do better than join together in small companies and put in their nne- pence apece money usually spentfor \"sugar plumbs\" and \" raisns '-and send on to Boston or New-York, for one of these interesting publications? Would not parents do well encourage such step in their chil- dren Children should be early taught that much good may be done only to themselves, but to oth- CTS, by liberal and proper application ofmoney and we know of nothing which would make them feel that money possessed an intrinsic value, better than to ap- ply small portion for newspaper published express y for their good and containing matter calculated to interest instruct and enlarge the liberal feelings of their nature.\n\n The newspaper mania in New-York runs at present very high-beatng the canal and banking mania all hollow. Daily, sem-weekly, and weekly papers, are multiplying there alarming degree, especially to the publishing interest Among the many otherswhich have of,ate appeared is one entitled \"The Age\" to be edited by the late publisher of the Albany Mic- yoscope.\" In his prospectus the editor says we shall endeavor to hold up mirror, in which mankind may see the foies and vices of the age in which we live, reflected in their true colors.\" Had he said, i've shall hold up mirror in which mankind may see the folies and vices of\" The Age\" he would have come nearer the truth as will be manifest by his columns",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2950,
+                "y0": 5667,
+                "x1": 3840,
+                "y1": 6475
+            },
+            "class": "article",
+            "raw_text": "An Act in addition to an act concerning fences and common fields.\n\n Be G enacted by the Senate and House of Represen- tntiues in General Assembly conuened That when any town shall have made bylaw restrain cattle, ny other from going at large,n the highway and any creature intended to be restrained by such provisions of such bylaws and in there of shall enter upon the lands of any person. otherthan the owner of such creatures which lands unnclo- sed, not sufficiently fenced, and do damage thereon the occupier the lands trespassed upon may impound such cattle other creatures if taken upon said lands, may damages in any prop CT action, in the if said lands had been sufficiently fenced.\n\n EBENEZER YOUNG, Speaker of the House of Representatives. JOHN $. PETERS,\n\n Speaker of the Senate. May 18, 1827-Approved. GIDEON TONILINSON.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 2956,
+                "y0": 452,
+                "x1": 3840,
+                "y1": 1359
+            },
+            "class": "article",
+            "raw_text": "An Act ln addition Co Act entitled \" An Act for the settlement of estates, teststc ntcsalc and nsO vent\"\n\n Be enacted by ste SsRate and House Of RepreSen- tdttueS % General ASSemby convened That when any w shall be set aside to the devise or devses of the real estate contained therein, because such will shall not have been duly executed pass such real estate but shall be established the other dcvses and be- quests m such will if the devsee or lcgatee of such other estate be an heir at law the esator and ent tied to adisributve share of the real estate as heir at law the estate received under and by virtue of such will by such devisee egatee, shall he considered and treated advanced portion to suchdevsee or legatee as respects hIs or their right to the real estae contained in such will and intended to pass for the same and such devsee or legatee shall not share therein until the other heirs made equal in the said real estate to such adyancements.\n\n EBNEZER YOUNG,\n\n Speaker the House of Representatives.\n\n JOHN $. PETERS,\n\n President of the Senate. June l, 1S2z~-Approved.\n\n GIDEON TOMLINSON,",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 3055,
+                "y0": 301,
+                "x1": 3735,
+                "y1": 378
+            },
+            "class": "headline",
+            "raw_text": "PUBITC ACTS,",
+            "legibility": "Questionable",
+            "full_article_id": 18,
+            "reading_order_id": -2
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 3078,
+                "y0": 383,
+                "x1": 3747,
+                "y1": 424
+            },
+            "class": "headline",
+            "raw_text": "PASSED MAf SESSEO.N Is2s.",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": -1
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 2050,
+                "y0": 278,
+                "x1": 2940,
+                "y1": 512
+            },
+            "class": "article",
+            "raw_text": "iOa efCol. Decatur ,ha, this Is, ,le very Sss Seapa, which has so long been visiscr ea our cOan\" This \" fishing Cor whales in the river three miles above Poursmou,h must have been rare pasime Cor. the spoFtsmen of that place.",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        },
+        {
+            "id": 34,
+            "bbox": {
+                "x0": 2730,
+                "y0": 226,
+                "x1": 2841,
+                "y1": 279
+            },
+            "class": "headline",
+            "raw_text": "q",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 2956,
+                "y0": 5034,
+                "x1": 3834,
+                "y1": 5645
+            },
+            "class": "article",
+            "raw_text": "An Act in addition an Act entitled An act relating to Weights and Measures\"\n\n Bet enacted by te Senate and House of Repreccnta- tpes n General Assembly convened, That in the sale of all articles by avoirdupos weight which shall be made pounds shall constitute hundred weight, and two thousand pounds shall constitute ton, and the ali quot parts of hundred weight and of ton shall be reckoned accordingly, any law, usage customto the contrary notwithstanding.\n\n EBENEZER YOUNG,\n\n Speaker of the House of Representatives, JOHN s. PETERS,\n\n President of the Senate. June l, l827-Approved. GIDEON TOMLINSON.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 2985,
+                "y0": 4959,
+                "x1": 3811,
+                "y1": 5012
+            },
+            "class": "headline",
+            "raw_text": "' '''' 'rp GIDEON ToMLINsoN.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": -1
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 3880,
+                "y0": 6637,
+                "x1": 4763,
+                "y1": 6963
+            },
+            "class": "article",
+            "raw_text": "BROKE into the inclosure 3kWTSNSSSEN EN%NM of the Subscriber about the ist of June instant Bril- dled BULL 2 years old, no\n\n artificial mark. The own W V CT is reQuested to pay char ssazzAzsl se ges and take him away.\n\n RODERICK YALE. Scuth.Csna Icth June, l8H, !",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 4158,
+                "y0": 6567,
+                "x1": 4467,
+                "y1": 6621
+            },
+            "class": "headline",
+            "raw_text": "ESTRAY.",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": -1
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 3856,
+                "y0": 662,
+                "x1": 4752,
+                "y1": 1783
+            },
+            "class": "article",
+            "raw_text": "UT me GENERAL RESTORAIJVES ot LadieS Dresses mud GcntIemen's Clothing,\n\n cf eUery description Of colour and\n\n Qt0tity, WithOWt doing tue\n\n teGst injury to either.\n\n THE above composition so justly celebrated in Europe, and also in the principal cities and towns in the United States; the former, the Vegetable OH for it's superior quality in extracting oil, grease of any kind aIso paint, c. from GentIemens Cloath- ing, and woolen cloth and carpeting of every dis crPhon restoring the their former condition without doing the least injury quality or coor And IS eminenty useful to sea-faring and travellers, Possessing the singular quality of washing in sea or salt water, well other soap do in rain water; and will be sovereign remedy for scurbutc and otIl- CT eruptions of the face and skin.\n\n And the latter, the Imperial Renorater, for it is ve ry extraordinary qualities in extracting spots or stains caused by grease, o soil of any kind, from Silks, Sattens, Merinos, Canton Grapes, Bombazines and Ladies' dresses of every description restoring the same to their former condton without doing the least injury to either Gloss Color Quality, let the be whatever it may, and in most in very few minutes too without the aid of any kind ofquid, hea ted irons, or any thing else; and may be left upon silks of the most delicate coors for whole months getler, with the greatest safety.\n\n ",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3880,
+                "y0": 307,
+                "x1": 4740,
+                "y1": 628
+            },
+            "class": "headline",
+            "raw_text": "LONDON BOTANIC, VEGETABLE OIL SOAP,\n\n AND ALSO THE Imperial RemOrGter",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": -1
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 2945,
+                "y0": 1196,
+                "x1": 3840,
+                "y1": 4995
+            },
+            "class": "article",
+            "raw_text": "speaker ofthe House of Representatives.\n\n JOHN 5. PETERS,\n\n President of the Senate. June I, 1827-Approved.\n\n GIDEON TOMLINSON. An Act in addont to and alteration of an Act entitled An Actreiating to weights and measures\"\n\n Be enacted 6y the Senate aud House of Represen- tottceS Gn General Assembly conuened That the half bushel measure which shall be the standard measure for charcoal shall be of the capacity of one thousand two hundred and eghty-two cubic inches.\n\n SEC z Be further enacted, that so much of the fifth section of the act which this is an addition and alteration relates to the measure of charcoal be and the same Is hereby repealed.\n\n EBENEZER YOUNG, Speaker of the House of Representatives. JOHN s. PETERS, President ofthe Senate.\n\n GIDEON ToMLINsoN. An act in alteration of act entitled an act to regu late the inspection of provisions and other articles of Commerce.\n\n Be n enacted 6y the Senate and House of Represen- said act requires prime beef No. g. to be branded with the mark No. g be and the is hereby pealed.\n\n EBENEZER YOUNG, Speaker of the House of Representatives. JOHN s. PETERS, Speaker of the Senate. GIDEON ToMLINsoN. An Act prescribing the number of Jurymen for each town m the State. Be enacted 6y the Senate and House of Represe,- tatiues m General Assembly convened That the several towns in this State shall be entitled to select in the manner prescribed in the \"Act for the regulation of civil actions and for the purposes therein mentioned the number ofJurymen here annexed to each town, wit: Hartford thirty, Berlin twelve, Bristol six, East Windsor fifteen, Canton sx Burlington sx Manches- ter six, East Hartford nine Enfield nine Pennington thirteen, Glastonbury foureen Granby thireen Hart land six, Marlborough four, Smsbury nine, Southing ton eight, Sufield twelve, Wethersfeld seventeen Windsor thirteen. SEC. 2. New Haven forty-fve, Branford thirteen, Cheshire twelve, Derby thirteen Eas-IIaven seven, Guford toureen Hampden ten, Madison eleven, Mer- southbury ten, Wsllingford thirteen, Waterbury if teen, Wolcott six, Woodbridge twelve. SEC. 3. New London fifteen, Norwich sixteen, Boz rah five, Colchester ten, Franklin five. Griswoid eight Groton twenty-nne, Lebanon thirteen, Lisbon hve' Lyme eighteen, Montvle nine, Salem five, Stoning- ton fourteen, Waterford ten.\n\n SEC. 4. Fairfield sixteen, Bridgeport eight, Brook field four, Danbury fifteen, Darien fcur, Greenwich fourteen, Huntington six, Monroe six, New Canaan six, Newfairheld three, Newtown eleven Norwalk leven, Redding six Ridsefeld nine, sherman four, Stamford twelve Sratford six Trumbull five, Weston ten, Wilton seven.\n\n SEC. g. Brooklyn six, Ashford fourteen, Canterbury ten, Chaplin four, Hampton six, Kingly fourteen, Plainfeld ten, Pomret ten Sterling six, Thompson fifteen, Voluntown six, Windham eleven, Woodstock fifteen.\n\n SEC. 6. Litchield twenty-one, Barkhamstead sev- en, Bethlehem four, Canaan eleven, Colebrook six, Cornwall eight, Goshen seven, Harwnton seven Kent nine, New Hartford eight, New Milford seventeen, Norfolk six, Plymouth eight, Roxbury five, Salisbury twelve, sharon eleven, Torrington seven, Warren four, Washington seven, Watertown seven Winches- ter seven, Woodbury nine.\n\n SEC. 7. Middletown thirty-eght, Haddam fourteen, Chatham eighteen Durham seven, East Haddam ff teen, Kiingworth fourteen, Saybrook twenty-four. SEC. B. Holland twelve, Bolton six, Columbia five, Coventry fifteen, Ellington nine, Hebron sixteen, Mansfield fourteen, Somers ten, Stafford eighteen, Union six, Vernon seven, Wilmington nine.\n\n SEC. 9. Be t further enacted, That the act entitled an act prescribing the number of Jurymen for each town in this state, passed in the revised Statutes of 182 and so much of the statutes subsequently enact ed, prescribes the number of Jurymen to each or any towns in this state be and the hereby eaed-Prov;ded, that the several Jurymen who have been legally choson, and whose names remain in the jury boxes shall be liable be drawn and serve as jurors in the same though this act had not passed. \"\n\n EBENEZER YOUNG,\n\n Speaker of the House of Representative. F ,s. JOHN s. PETERS, President of the Senate.\n\n GInEON TONTJ TNSON",
+            "legibility": "Legible",
+            "full_article_id": 28,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 1127,
+                "y0": 5383,
+                "x1": 2028,
+                "y1": 6998
+            },
+            "class": "article",
+            "raw_text": "The newspaper mania in New York runs at present very high-beating the canal and banking mania all hollow. Daily, semi-weekly, and weekly papers, are multiplying there to alarming degree, especially to the publishing interest. Among the many otherswhch have of,ate appeared, is entitled \"1he Age, to he edited by the late publisher of the Albany Wic- roscope\" In his prospectus the editor says, we shall endeavor to hold up mirror, in which mankind may see the follies and vices of the age in which we live, reflected in their true colors.\" Had he said, i've shall hold up mirror in which mankind may see the follies and vices of\" The Age,\" he would have come nearer the truth, as will be manifest by his columns unless great moral change has taken place in him since he edited the Microscope. Such public criticisms upon the \"foes and the vices of the age,\" by such man, looks too much like person up to his ears in tar barrel declaimng against the filth and misery of the rest of mankind and boastng of his own neat oca ton.\n\n The whale, noticed ourlas page, as having pass ed the bridge across the Piscaapua at Portsmouth N l Fl. has been taken. He was harpooned by Col. De- catur of the Navy Yard, on Tuesday evening, l2th inst and continued towing the two boats attached to him until Wednesday morning, at o'clock, when he was despatched in view of the thousands who had Aocked to see him. The Pourtsnaouth Advertiser says. \"The length of the whale is about 5O feet and has breadth about 16 feet; his head is shaped like that of tho horse and he differs from all others that have been seen by those acquainted with that species ot6sh His motion wss undulatoTy andit is the opin-",
+            "legibility": "Legible",
+            "full_article_id": 29,
+            "reading_order_id": 0
+        },
+        {
+            "id": 32,
+            "bbox": {
+                "x0": 2039,
+                "y0": 4459,
+                "x1": 2934,
+                "y1": 4710
+            },
+            "class": "article",
+            "raw_text": "Killed instantly Mir. Stephen Evitts of the town of Pike, Bradford County Pennsylvania, by stone thrown at his head training day; the person who Mir. Evitts was formerly from Newpreston in this County where most of his children now reside to la ment his untimely end. Communicated.",
+            "legibility": "Legible",
+            "full_article_id": 33,
+            "reading_order_id": 0
+        },
+        {
+            "id": 38,
+            "bbox": {
+                "x0": 2045,
+                "y0": 4152,
+                "x1": 2928,
+                "y1": 4443
+            },
+            "class": "article",
+            "raw_text": "A memorial has been presented to the Governor oi Delaware, desiring him appoint another judge There is now case to be tried in the high Court of Errors and Appeals in that state, in which the Chancellor is\n\n party, and his absence deprives the bench of con- stitutiona majority There must be flaw in the con- stituton of that state, if it has not provided for such an exigency.",
+            "legibility": "Legible",
+            "full_article_id": 39,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                24,
+                0
+            ],
+            "headline": "ANNIVERSARY OF AMERICAN INDEPEN.\n\n DENCE.",
+            "article": "\\ HE publick are informed that the 51st Anniversa- ry of American Independence will be celebrated on Wednesday, the 4th of July, by the Students of the Law Office in this town.-A procession will bo form- ed at Mr. Demngs Hotel and at Il o'clock precisely, will move to the Episcopal Church where after prayer, the Declaration of Independence will be read and an Grafton delivered in commemoration of the day, at which the inhabitants of Litchfcld and its vicinity respectfully invited to attend.-The ten first pews the south side of the middle aisle will be reserved for the students and those who join the procession, the whole of those the north side of the church. erc sivey for the accommodation of the ladies, and the mander for the citizens generallyA dinner will be provided by Mir. Deming at t'co o'clock ;-those gen. tlemen who may feel disposed to partake, reques- ted notify Mr. D. it will be prepared for ose ~ whose names are handed in.\n\n JOSEPH L. SKATER,\n\n A. D. PARKER, Commsittee\n\n HENRY MORRIS, y\n\n R. H. SPEED, Arrangements.\n\n C. c. YOUNG. ,>",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2056,
+                    "y0": 4744,
+                    "x1": 2911,
+                    "y1": 4838
+                },
+                {
+                    "x0": 2045,
+                    "y0": 4843,
+                    "x1": 2934,
+                    "y1": 5947
+                }
+            ],
+            "bbox": [
+                2045,
+                4744,
+                2934,
+                5947
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-06-28_p3_sn82014309_00414182926_1827062801_0203.json"
+        },
+        {
+            "object_ids": [
+                11,
+                1
+            ],
+            "headline": "THE CASKET.",
+            "article": "The June No. of \"The Casket,\" which is publish cd monthly at this office, contains view of the cor FACE OF ST. LEONARDS, in Scotland with a particular description of that celebrated scene so beau tifuly illustrated in Walter Scott's novel of \"The Heart of Midlothian\" Also view of QUEBECK. taken from the Chaudere, at sun-settng, with an ap proprate narrative of it's romantic and picturesutie scenery copied from Silliman's Tour. Nos 26 2I, song, from the pen of our admired correspondent \"SELIM,\" set to the music. The contents of this number abound with original Tales Essays and Po- ery, diversified by anecdote and useful miscellany.\n\n Enlarged and improved as {\" the Casket has recent y been, presents to the lovers of literature one of the cheapest compendiums of Miscellany to be found in the United States; the engravings (threc companying each No) are in themselves worthy of end of the year of upwards of thitsx, superceedng in value the amount of the subscription We do not hesitate to say that the appearance and character of this work win continue to afford the most ample and The price of subscription is $2,50 in advance. The vou to consist of nearly five hundred pages large oc- List of the Portraits aud Vecs already published s\n\n os the Nos. for thiS year.\n\n John Adams late President of the United States {: John c. Calhoun present Vice President of the Uni ted States; Robert Fulton Esq the original projec- tor of steam to the propelling of boats Fair Mount Water Works, near Philadelphia; The Capitol of Pine Orchard, N. Y; Trenton Falls in the state of New-York; The Cottage of St. Leonards, in Scot land; The Port of Bufialow, on Lake Erie Quebec, from the Chaudiere River besides 9 cuts JPlants embeishing the \"School of Florida,\" which is con- tained in Nos. ofths work; and also several popular airs, set to Music.4\n\n Orders for the Casket (enclosing one years sub- scripton) addressed to ATKINSON & ALEXAN- DER, Philadelphia, will be promptly, attended to.\n\n wiu confer particular obligation by inserting the bove once in their respective papers.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3955,
+                    "y0": 4761,
+                    "x1": 4624,
+                    "y1": 4832
+                },
+                {
+                    "x0": 3856,
+                    "y0": 4837,
+                    "x1": 4757,
+                    "y1": 6545
+                }
+            ],
+            "bbox": [
+                3856,
+                4761,
+                4757,
+                6545
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-06-28_p3_sn82014309_00414182926_1827062801_0203.json"
+        },
+        {
+            "object_ids": [
+                14,
+                2
+            ],
+            "headline": "maaR. .H. F3E 1a",
+            "article": "In Brookfed, by Rev. A. Brundage, MT Leman Ackley, of New Preston to Mrs Kinda Hubbel, of the former place.\n\n In New Preston Society, by Rev. c. A. Boardman, Mir Joel Morehouse to Miss Eleanor Byington.\n\n In Haven, on the 18thinst by Rev. Mir Bacon, Mir George Treadway, of this town, to Miss Mary Wise, of the former place.\n\n Also, by Rev. Mir Merwin, MT Noble G. Catlin of Albany, to Miss Philomela Edwards, of Watertown\n\n In South Farms by the Rev Mir. Robinson Mir. AL yah Clark to Miss Mary Ensign l.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2306,
+                    "y0": 5975,
+                    "x1": 2684,
+                    "y1": 6022
+                },
+                {
+                    "x0": 2050,
+                    "y0": 6033,
+                    "x1": 2934,
+                    "y1": 6493
+                }
+            ],
+            "bbox": [
+                2050,
+                5975,
+                2934,
+                6493
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-06-28_p3_sn82014309_00414182926_1827062801_0203.json"
+        },
+        {
+            "object_ids": [
+                25,
+                3
+            ],
+            "headline": "NOTICE.",
+            "article": "w E the Subscribers having been appointed by the Hon. Court of Probate for the District of Ltchfeld Commissioners to receive, examine and adjust the claims of the Creditors of the estate of -\n\n URIEL HOLMES,\n\n late of Ltchfeld in said dstrct deceased represen- ted nsolvent give notice that six months from the 2d day of July will be allowed by said Court for the Creditors to exhibit their claims, and that shall meet in pursuance of our said appointment at the late dwell ling House of the deceased, in Ltchfed, on the 2d days of August and October 1897, and the 2dday of January 1928. All claims not exhibited within said time will be debarred recovery.\n\n Dated at Litchfeld, June 22d, 1897. $sHsH s$#Sai s$SS StfSH; I; f2SiS: ;s",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 4147,
+                    "y0": 3826,
+                    "x1": 4456,
+                    "y1": 3885
+                },
+                {
+                    "x0": 3862,
+                    "y0": 3902,
+                    "x1": 4752,
+                    "y1": 4739
+                }
+            ],
+            "bbox": [
+                3862,
+                3826,
+                4752,
+                4739
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-06-28_p3_sn82014309_00414182926_1827062801_0203.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "We would refer those who are interested-and who that wears fine dresses, but is interested Ito ad- vertsement of Mir. Trench in this days paper. We have seen Mr. T. remove in three minutes lamp oil from the finest of white figured silk, and also from oth- CT coours without the least injury the colour or tex ture of the cloth. That for sale the Lchfed Book\n\n Store is genuine, having been procured by the editor personally from Mir. Trench, and the retail price the same as at the manufactory. 8",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2962,
+                    "y0": 6509,
+                    "x1": 3846,
+                    "y1": 6969
+                }
+            ],
+            "bbox": [
+                2962,
+                6509,
+                3846,
+                6969
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-06-28_p3_sn82014309_00414182926_1827062801_0203.json"
+        },
+        {
+            "object_ids": [
+                35,
+                26,
+                5
+            ],
+            "headline": "AUCTION.",
+            "article": "DY order of the Court of Probate for the district of Litchfeld will be sold at public Auction, on Tuesday, the 17h of July next (unless previously disposed of at private sale) so much of the real estate of\n\n SAMUEL GUNN, late of Ltchfed in said district deceased as will raise the of one thousand and fifty dollars. Sale to commence at 10 o'clock A. M. at the late. residence of tle deceased.\n\n THOMAS J. GUNN, A,u;,,..\n\n RALPH R. GUNN, 5 1h\"\"''\" 'E' Litchfied, June 21, 1927. ,",
+            "byline": "June 27, 1927",
+            "bbox_list": [
+                {
+                    "x0": 3885,
+                    "y0": 2862,
+                    "x1": 4130,
+                    "y1": 2910
+                },
+                {
+                    "x0": 4141,
+                    "y0": 2926,
+                    "x1": 4479,
+                    "y1": 2991
+                },
+                {
+                    "x0": 3862,
+                    "y0": 3002,
+                    "x1": 4763,
+                    "y1": 3566
+                }
+            ],
+            "bbox": [
+                3862,
+                2862,
+                4763,
+                3566
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-06-28_p3_sn82014309_00414182926_1827062801_0203.json"
+        },
+        {
+            "object_ids": [
+                16,
+                6
+            ],
+            "headline": ".AE5sn",
+            "article": "In town, daughter of Mir Reuben Tenyl.\n\n Near Matanzas, on the 23d of April, Hon. Israel Pickens late Governor of the state of Alabama and more recently Senator to Congress from that state.\n\n In Derby, on the l6th inst Dr Liberty Kimberly, aged 60.\n\n In Hartford, Capt. Daniel Hnsdale, aged s. MT Benjamin WiDtonbury, aged 59, and his wife. They died in about l5 minutes of each other. sa\n\n At Dresden, May 5th, after an illness of 21 days, his Majesty, the king of Saxony, aged v.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2399,
+                    "y0": 6527,
+                    "x1": 2609,
+                    "y1": 6574
+                },
+                {
+                    "x0": 2056,
+                    "y0": 6579,
+                    "x1": 2940,
+                    "y1": 6975
+                }
+            ],
+            "bbox": [
+                2056,
+                6527,
+                2940,
+                6975
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-06-28_p3_sn82014309_00414182926_1827062801_0203.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "which has so long been visiser eA our coaa.\" This ishar Cor whales n the river three sailes above Poursunou,h must have been rare pastime Cor. the spOrtsmen Of that place.\n\n The Spring Session Of the Legislature of Massschn. ses was closed the 10th inst. An appropriation Of SlO 900 was made for the survey ofa Rail Road from Boston to Albany. This indicates a serious purpose on the part of Massachusetts of constructing possi ble, such road. We wish success every underta- king for facilitating intercommunicaon in our coun- try. In anticipation ofthe completion of this great work an ingenious mechanist, of Stockbridge has i- vented an improved Rait,oay Carriage, which so re- duces friction, that horse may draw with perfect ease, upon a level road, Fifty Tons Mir. Morgan the inventor has proved this fact by various expermens One pound attached carriage this construction and suspended bully, moved quickly seren hun- dred pounds\n\n The general government has sent several engineers to Vermont, to be employed in surveying, ascertain the practcaby of connecting Connecticut river with Lake Champlain, by canal One route proposed is through Orange county; another by the way of White River and of Wells River and athrd proposed route is from Magog Lake, by way of Lamoile River to lake Champlain.\n\n Maior Laing:-The following is the account pub lished in Paris paper of the death of Mai Laing ,the traveller in Africa It is to be hoped it may prove al fabrication, is stated in the London Courier that despaches received at the Colonial Department from the British Consul in Trpol ,says that there sreason to believe the report unfounded. It does not appear however, whether the Consul at the time of express ing this opinion, was in possession of the particulars as here stated, and the authority which they are said to rest\n\n hoy olyb thn K A pri :-Major Laing whose tragical fate had been an nounced, has fallen victim to his courageous perse verance, not however until he had visited the fa- nous city of Tombuctoo. The Pacha of Trpoli has communicated this intelligence the auhorthority of letter, which his vassal the governor of Ghada mes, wrote to apprse him of the event, and which let ter reached him in less than en days, being convey ed by an extraordinary courier. The British travel\n\n ers, who were at first stated to have fallen under the weapons of the robbers, in the territory of Tonal, had then been only wounded, that after having es capped this first danger, through the philanthropy of Marabout, they at length reached Tombuctoo. Shortly after their arrival in that city, the Feans, which powerful and warlike tribe now reigns exclu- siveiy over the immense deserts of Central Africa, appeared to the number of 3O,OOO, and imperiously demanded that the travellers should be given up to them in order that they might put them to death and thereby prevent the Christians from availing them selves of the information to be gained by their means, and from penetrating some day into these remote countries to enslave the people. Such are the ex- pressions of the Schek of Ghadames in his letter to the Pacha. The Prince commanding Tombuctoo re- fused to give up the strangers whom he had received with benevolence; and in order to withdraw them from the enmity of their prosecutors whose resent ment he was unwilling to provoke, he sent them off secretly to Bambara escorted by fifteen horsmen, se- lected from his own body guard but being speedily oyertaken by party oiTellans, who had rapidly Pur- ed them on hearing of their escape, the unfortunate Laing mercilessly strangled with all his compan- ions Such was the trag gca end of the intrepid uav- eler, who the first to penetrate into the precincts 1 s ,n9 sx 3 of which is still likely to es cape the best directed inquiries, according to all appearance, there is no hope of recovering the pa Pers of the unfortunate Laing. Meanwhile the Eel ans whose ambition equal their fcrocity, avail\n\n ing themselves of Major Laings arrival at Tombucoo and of the species of protection which he had recev- ed there, seized upon that city, and imposed an an- nual tribute, which the inhabitants unable to offer re- sistance, in future to pay for having as 1t IS sad, made themselves accomplices in a project of invasion medtated by the infdels. These last accounts have been communicated by Trpolitan Scheik, who has long resided at Tombuctoo. He declares that there exists very interesting account of that city, which carries back it's foundation to the year 5l0 of the He gira, \"A. D. 1l16) and the author of which is Sid- Hamet-Baba, native of Arawaw, small borough of the Rents county considerable colony ofthe Sultan\n\n memorial has been presented to the Governor of Delaware, desiring him appoint another judge. There is a to be tried in the high Court of Errors and Appeals in that state, in which the Chancellor IS party and his absence deprives the bench of con- sttuiona majority. There must be flaw in the con- suon of that state, if has provided for such an exigency.\n\n Killed instantly Mr. Stephen Evitts of the town of Pike, Bradford County Pennsylvania by stone thrown at his head on training day. the person who committed the murder is in prison to await his rla- Mir. Evitts formerly from Newprestcn in this County where most of his children reside to la- ment his untimely end. Communicdted.\n\n ANNIVERSARY OF AMERICAN INDEPEN-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2039,
+                    "y0": 325,
+                    "x1": 2946,
+                    "y1": 4797
+                }
+            ],
+            "bbox": [
+                2039,
+                325,
+                2946,
+                4797
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-06-28_p3_sn82014309_00414182926_1827062801_0203.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "t\"e' 9e b&aoa oi lUten ss4ance' waalch has bccn let loose upon our laRd carries not in his train rrca Ger amount of real suffering than follows in the track ot Famine, Pestcncc, or the Sword. These last may bc sent as judgments and not be of our choosing the former can only come in at tho door of our own will\n\n As nation, have invited his approach; and al . though hts tarrying has been often nominally lamen- ted and his progress deprecated he has been cher ished as national guest the expense of every thing sacred and divine; and long as we virtually attrb ute to him. that glory which belongeth another so\n\n long will his poisonous breath tend to wither the fair tree of Liberty which planted July 4th, 1776.-To the busy crowd who blind to the special provi- dence exercised by the God of Heaven towards all his creatures, this may appear weak and entlusiastca; :; but when the assembled universe shall the great day ofjuagment be called around the throne of the judge ot the whole earth, this doctrine will appear correct, though now to many men, absorbed in the calculations ofworldly wisdom it may appear deIusive.\n\n We do not wish that this anniversary may be spent as day of fasting and prayer;\" but as a day of thanksgiving and praise,' day of ''joy and gadness with rational enjoyment of the many bIes- sings which have been richly poured upon us ;-as calculated to call forth that social flow of kinder feelings which do honour to humanity of re- u full bestowa of portion of our substance for aleva- ting his sufferings.\n\n Ofall other seasons in tue year, this, our Free doms Birth Day., is the period when the rich, whose property is protected by our wise and prudent laws, when the man of moderate wealth. and the poor, who rest secure under the which Liberty has planted, should give each according his ability prepare the way for the restoration to freedom of some of the t' million and half of slaves' who groan in bondage in our country The American Colonization Society, with the utmost proprie, calls upon the friends of hu manity to remember with their aims, on this day. the in which they engaged; and they do call in vain In many places large contributions are taken up either on the Fourth of July the Sabbath preceding or succeeding it, Such course offers sub stantal proof that the day is only remembered but honoured in the best possible manner.\n\n We will close this long article with one remark A short time since, the authority i've bceve of the city of New-Haven made enquiries into the cause of in- temperance and passed several spirited resolves upon the subject. As a upon that act, this same authority have recently voted hundred dollars to be expended in powder Sc. &c. the ap- preaching Fourth of Jnly.' Here then they foster the very evil which they depore by doing pro-\n\n \n\n to check it. We doubt not but large majority of the rateabe polls in that city friends to temperance and also to tire Colonization Society; and that had the question been understandingy put to each of these cit izens whether hundred dollars should be spent in promoting noise x intemperance, agreeably to the aforementioned vote, or wheh it should go into the treasury of the Col Society,\" and the day be spent season of thanksgiving and praise, nineenths would have voted for the atter rather than the former mode of celebrating the birthday of American Libcrty\"- by such public appropriations of money, that the evil complained of becomes national sin; and such it will be punished with national caamities.\n\n Upon tue least calculation which can be made, not less than two thousand dollars annually spent the \"Fourth of July in Litchfeld County; the greates: share of which is worse than thrown away. May not quarter part of this be this year given for the relief the oppressed African who groans in slavery, in land whose triumphant motto is |\" All men are born equally free and independently The American Colonization Society,-composed principally of dis tngushed individuals of the South, where the evils of slavery felt by the master well the slave are engaged in great and good work; and they look to the friends of humanity for assistance. They have called upon to remember them on the coming anni- versary of American Independence. Shall they call in vain Can the friends of temperance and morality, who have heretofore spent this day, one two or three dollars, simply for the graacon of their appe- ttcs render consistent tribute of gratitude to Heaven for the blessings of liberty than by bestowing like sum in favor ofuniversal emancipation Would not conscience approve such act, as calculated to procure for hegyer, tn, blessing of thousands ready 10 perish I've know of many who are disposed to give, bat who plead want of opportunity, there being public asscmblage in their vicinity, which they wish to join and they are therefore under the ne cessity of tarryng at home, and no call is made upon their charity. To obviate this difficulty if it may be viewed thus, we engage to report minutely in the County Post, every donation which may be made to this object, through the editor, giving either the name Of the donor, Or any signature which he may choose; the whole amount of (which shall be transmit cd to the Treasurer of the Colonization Society,\" to some agent in York; this state, and the Treas urers receipt published as above mentioned We do confidently trust that either in this way, in some other agreeable to the feelings of our citizens, solid testimonial of respect will be manifested for the anniversary of our national Independence.\n\n A large and respectable meeting has been recently held at Concord, N H. of gentlemen interested in the growing and manufacturing of wool for the purpose of",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 210,
+                    "y0": 290,
+                    "x1": 1122,
+                    "y1": 5848
+                }
+            ],
+            "bbox": [
+                210,
+                290,
+                1122,
+                5848
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-06-28_p3_sn82014309_00414182926_1827062801_0203.json"
+        },
+        {
+            "object_ids": [
+                29,
+                36,
+                37,
+                9
+            ],
+            "headline": "Sold by s. s. SMITH,\n\nSole Agent for the To.c,e of Litchfel",
+            "article": "Sole Agent for the T'o,Ce of fLitchfeld It is requested that any Lady or Gentleman, who. entertans any doubt of the superior excellence of the above compostion will bring any of their garments stained above described, for trial; and the same will be removed, in their presence, gratis; and the most satisfactory proof given that the practice of send ing fine dresses account of such stains, the Dy CTS, may in such cases be dispensed with. MT. r. makes the above request, that Ladies aud Gentlemen may be able to distinguish the genuine articles, from numerous counterfets that imposed upon the pub lie under the above ttIes It may be had all times by Wholesale at the subscriber's and by retail only at Doyles Bookstore, Broadway, and MT. Eggleso's, Mo- 81. Bowery.\n\n 7he Agents tor the sale of these articles m Cooec- ticut o'e, Messrs Price 4 MLeaa, Nor.calk; Doct. Dyer, Bridgeport; Batdaoin & Bea,s Ne,oto,cn; \" < S. Comstock, Danbmy; M 4. Durand, Nesc Haven; Doct. Dyer Middleto'on; Mr Ro6inson, Nor aoch; Peter Morton, Hartford; s, S. Smith, Litch- feid. GjA very E6araL aiLo,cGnce aciH be made to person n each toon co may purchase to sell Gguie application to a-\n\n J. TRENCH,\n\n Inventer and manutacturer, No. 245,\n\n Green,cich-Street, Ne,v- York. June 27, 1897. 8'o 54",
+            "byline": "At the \"LitchfeId Bo0k- Stor",
+            "bbox_list": [
+                {
+                    "x0": 4019,
+                    "y0": 1759,
+                    "x1": 4688,
+                    "y1": 1818
+                },
+                {
+                    "x0": 4100,
+                    "y0": 1823,
+                    "x1": 4653,
+                    "y1": 1859
+                },
+                {
+                    "x0": 4013,
+                    "y0": 1858,
+                    "x1": 4711,
+                    "y1": 1905
+                },
+                {
+                    "x0": 3856,
+                    "y0": 1858,
+                    "x1": 4757,
+                    "y1": 2910
+                }
+            ],
+            "bbox": [
+                3856,
+                1759,
+                4757,
+                2910
+            ],
+            "full_article_id": 10,
+            "id": "10_1827-06-28_p3_sn82014309_00414182926_1827062801_0203.json"
+        },
+        {
+            "object_ids": [
+                12
+            ],
+            "headline": "",
+            "article": "nor of Ncw-lIsmPshirc. During his administration his cratic that at the annual cleo ton overwhelming vote from his party thrust him into retirement. Possessing very handsome tal ents, and protesting deep repentance for his past TOTS, and strong attachment the administration party in New-Hampshire, he caoled the legislature into appointment of himself to the United States Senate. His course there is well known. Heedless of the wishes of his constituents, his found foremost amongst the opposition He appears fully that in his state he has committed political suicide, and his only hope for future support from 1 the of the \"Combination.' We have ever thought that when men in office have calmly and de- liberatey betrayed their constituents upon an import question,-the Missouri question: and others of e. qual interest-it is madness in the people, future e gislaures, to trust them again, under the mistaken notion that C they will do better hereafer.' New Hampshire acted under this false and deceitf impress sion and they reaping the bitter fruits of this folly, in having in reality but one Senator in Congress, while he who should have been their second has leagued himself with the Virginia interest, and acts with her Senators upon every important questions Delegates have been appointed to the Harrsburgh Pa. Convention of Manufacturers, to be holden in July\n\n \n\n shire and meetings have been called in Vermont for the purpose of making similar appointments. Would it be well for Connecticut have voice in that great meetingl We have yet heard of no move ments which indicate that such step will be taken, but know not why citizens should be back ward in such an important measure.\n\n Since writing the above, observe in the eastern papers that the manufacturers and wool growers in the eastern part of the state, proposing hold meet ing at Brooklyn Friday, the 29th inst for the pur pose of appointing delegates to the above mentioned important meeting.\n\n \"In a conversation with of us Mr. Jefferson de- carcd that Gen. Jackson had more of the old Roman in his character, than any man livng.\"-Bah. Repwb The above copied into the Hartford Times for special benefit in reply to Jeersons opinion of Jack sons qualifications for the Presidency, inserted in last. For the special benefit of whom it may concern will say-there can he doubt that MT. Jefferson made the above remark, because it is true true.- Gen. Jackson has much of Julius Cesar in his tenn perament, that we tremble for the liberties of our country should they be- placed in his safe keeping. fine recommendation for candidate for the Presiden cy of peaceful Republic that he has \"more of the old Roman in him than any man living\" It was this very fact which led the illustrious Jefferson trem ble for the stability of our Republic We know Gen. Jackson is brave,-so was Julius Cesar-war is the native element of the former-so of the atter- ambition, selfsh reckless ambition, is prominent trait in hecharacter of the Hero of Oreanssuit it in the conqueror of ancient Briton-but we will pur- sue the comparison farther, closing with request that Mr. Wells will give us another good an argu- against the claims of Gen. Jackson tor the Pres idency, as is the caption of this article.\n\n We have received the first number of a very neat little publications intended to be issued monthly by the Methodist Episcopal Sunday School Union, of New York. The work recommends itself both by the price, being only 25 per year, where eight copies are aken and also by the choice selection of matter, suit able for the instruction and benefit of Sabbath School children, for whom it is intended.\n\n We perhaps ought also to mention weekly paper issued from the office of the Boston Recorder, edited by Mir. N. Willis and Rev. A. Rand entitled \"Youth's Companion\" published weekly at one dollar peryear, in advance, terms fraction less than the above men, toned, considering the number printed in year,-l2 at 25 cents-52 at $1 ,00. Both are cheap, and both admirably calculated benefit the rising generation. Three numbers of the: \" Youths Companion\" have been published, containing rich variety of useful and entertaining matter, as far can judge from the contents Can young friends do better than join together in small companies and put in their nne- pence apece money usually spentfor \"sugar plumbs\" and \" raisns '-and send on to Boston or New-York, for one of these interesting publications? Would not parents do well encourage such step in their chil- dren Children should be early taught that much good may be done only to themselves, but to oth- CTS, by liberal and proper application ofmoney and we know of nothing which would make them feel that money possessed an intrinsic value, better than to ap- ply small portion for newspaper published express y for their good and containing matter calculated to interest instruct and enlarge the liberal feelings of their nature.\n\n The newspaper mania in New-York runs at present very high-beatng the canal and banking mania all hollow. Daily, sem-weekly, and weekly papers, are multiplying there alarming degree, especially to the publishing interest Among the many otherswhich have of,ate appeared is one entitled \"The Age\" to be edited by the late publisher of the Albany Mic- yoscope.\" In his prospectus the editor says we shall endeavor to hold up mirror, in which mankind may see the foies and vices of the age in which we live, reflected in their true colors.\" Had he said, i've shall hold up mirror in which mankind may see the folies and vices of\" The Age\" he would have come nearer the truth as will be manifest by his columns",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1121,
+                    "y0": 470,
+                    "x1": 2028,
+                    "y1": 6034
+                }
+            ],
+            "bbox": [
+                1121,
+                470,
+                2028,
+                6034
+            ],
+            "full_article_id": 13,
+            "id": "13_1827-06-28_p3_sn82014309_00414182926_1827062801_0203.json"
+        },
+        {
+            "object_ids": [
+                13
+            ],
+            "headline": "",
+            "article": "An Act in addition to an act concerning fences and common fields.\n\n Be G enacted by the Senate and House of Represen- tntiues in General Assembly conuened That when any town shall have made bylaw restrain cattle, ny other from going at large,n the highway and any creature intended to be restrained by such provisions of such bylaws and in there of shall enter upon the lands of any person. otherthan the owner of such creatures which lands unnclo- sed, not sufficiently fenced, and do damage thereon the occupier the lands trespassed upon may impound such cattle other creatures if taken upon said lands, may damages in any prop CT action, in the if said lands had been sufficiently fenced.\n\n EBENEZER YOUNG, Speaker of the House of Representatives. JOHN $. PETERS,\n\n Speaker of the Senate. May 18, 1827-Approved. GIDEON TONILINSON.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2950,
+                    "y0": 5667,
+                    "x1": 3840,
+                    "y1": 6475
+                }
+            ],
+            "bbox": [
+                2950,
+                5667,
+                3840,
+                6475
+            ],
+            "full_article_id": 14,
+            "id": "14_1827-06-28_p3_sn82014309_00414182926_1827062801_0203.json"
+        },
+        {
+            "object_ids": [
+                21,
+                30,
+                17
+            ],
+            "headline": "PUBITC ACTS,\n\nPASSED MAf SESSEO.N Is2s.",
+            "article": "An Act ln addition Co Act entitled \" An Act for the settlement of estates, teststc ntcsalc and nsO vent\"\n\n Be enacted by ste SsRate and House Of RepreSen- tdttueS % General ASSemby convened That when any w shall be set aside to the devise or devses of the real estate contained therein, because such will shall not have been duly executed pass such real estate but shall be established the other dcvses and be- quests m such will if the devsee or lcgatee of such other estate be an heir at law the esator and ent tied to adisributve share of the real estate as heir at law the estate received under and by virtue of such will by such devisee egatee, shall he considered and treated advanced portion to suchdevsee or legatee as respects hIs or their right to the real estae contained in such will and intended to pass for the same and such devsee or legatee shall not share therein until the other heirs made equal in the said real estate to such adyancements.\n\n EBNEZER YOUNG,\n\n Speaker the House of Representatives.\n\n JOHN $. PETERS,\n\n President of the Senate. June l, 1S2z~-Approved.\n\n GIDEON TOMLINSON,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3055,
+                    "y0": 301,
+                    "x1": 3735,
+                    "y1": 378
+                },
+                {
+                    "x0": 3078,
+                    "y0": 383,
+                    "x1": 3747,
+                    "y1": 424
+                },
+                {
+                    "x0": 2956,
+                    "y0": 452,
+                    "x1": 3840,
+                    "y1": 1359
+                }
+            ],
+            "bbox": [
+                2956,
+                301,
+                3840,
+                1359
+            ],
+            "full_article_id": 18,
+            "id": "18_1827-06-28_p3_sn82014309_00414182926_1827062801_0203.json"
+        },
+        {
+            "object_ids": [
+                34,
+                18
+            ],
+            "headline": "q",
+            "article": "iOa efCol. Decatur ,ha, this Is, ,le very Sss Seapa, which has so long been visiscr ea our cOan\" This \" fishing Cor whales in the river three miles above Poursmou,h must have been rare pasime Cor. the spoFtsmen of that place.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2730,
+                    "y0": 226,
+                    "x1": 2841,
+                    "y1": 279
+                },
+                {
+                    "x0": 2050,
+                    "y0": 278,
+                    "x1": 2940,
+                    "y1": 512
+                }
+            ],
+            "bbox": [
+                2050,
+                226,
+                2940,
+                512
+            ],
+            "full_article_id": 19,
+            "id": "19_1827-06-28_p3_sn82014309_00414182926_1827062801_0203.json"
+        },
+        {
+            "object_ids": [
+                31,
+                19
+            ],
+            "headline": "' '''' 'rp GIDEON ToMLINsoN.",
+            "article": "An Act in addition an Act entitled An act relating to Weights and Measures\"\n\n Bet enacted by te Senate and House of Repreccnta- tpes n General Assembly convened, That in the sale of all articles by avoirdupos weight which shall be made pounds shall constitute hundred weight, and two thousand pounds shall constitute ton, and the ali quot parts of hundred weight and of ton shall be reckoned accordingly, any law, usage customto the contrary notwithstanding.\n\n EBENEZER YOUNG,\n\n Speaker of the House of Representatives, JOHN s. PETERS,\n\n President of the Senate. June l, l827-Approved. GIDEON TOMLINSON.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2985,
+                    "y0": 4959,
+                    "x1": 3811,
+                    "y1": 5012
+                },
+                {
+                    "x0": 2956,
+                    "y0": 5034,
+                    "x1": 3834,
+                    "y1": 5645
+                }
+            ],
+            "bbox": [
+                2956,
+                4959,
+                3834,
+                5645
+            ],
+            "full_article_id": 20,
+            "id": "20_1827-06-28_p3_sn82014309_00414182926_1827062801_0203.json"
+        },
+        {
+            "object_ids": [
+                22,
+                20
+            ],
+            "headline": "ESTRAY.",
+            "article": "BROKE into the inclosure 3kWTSNSSSEN EN%NM of the Subscriber about the ist of June instant Bril- dled BULL 2 years old, no\n\n artificial mark. The own W V CT is reQuested to pay char ssazzAzsl se ges and take him away.\n\n RODERICK YALE. Scuth.Csna Icth June, l8H, !",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 4158,
+                    "y0": 6567,
+                    "x1": 4467,
+                    "y1": 6621
+                },
+                {
+                    "x0": 3880,
+                    "y0": 6637,
+                    "x1": 4763,
+                    "y1": 6963
+                }
+            ],
+            "bbox": [
+                3880,
+                6567,
+                4763,
+                6963
+            ],
+            "full_article_id": 21,
+            "id": "21_1827-06-28_p3_sn82014309_00414182926_1827062801_0203.json"
+        },
+        {
+            "object_ids": [
+                15,
+                23
+            ],
+            "headline": "LONDON BOTANIC, VEGETABLE OIL SOAP,\n\n AND ALSO THE Imperial RemOrGter",
+            "article": "UT me GENERAL RESTORAIJVES ot LadieS Dresses mud GcntIemen's Clothing,\n\n cf eUery description Of colour and\n\n Qt0tity, WithOWt doing tue\n\n teGst injury to either.\n\n THE above composition so justly celebrated in Europe, and also in the principal cities and towns in the United States; the former, the Vegetable OH for it's superior quality in extracting oil, grease of any kind aIso paint, c. from GentIemens Cloath- ing, and woolen cloth and carpeting of every dis crPhon restoring the their former condition without doing the least injury quality or coor And IS eminenty useful to sea-faring and travellers, Possessing the singular quality of washing in sea or salt water, well other soap do in rain water; and will be sovereign remedy for scurbutc and otIl- CT eruptions of the face and skin.\n\n And the latter, the Imperial Renorater, for it is ve ry extraordinary qualities in extracting spots or stains caused by grease, o soil of any kind, from Silks, Sattens, Merinos, Canton Grapes, Bombazines and Ladies' dresses of every description restoring the same to their former condton without doing the least injury to either Gloss Color Quality, let the be whatever it may, and in most in very few minutes too without the aid of any kind ofquid, hea ted irons, or any thing else; and may be left upon silks of the most delicate coors for whole months getler, with the greatest safety.\n\n ",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3880,
+                    "y0": 307,
+                    "x1": 4740,
+                    "y1": 628
+                },
+                {
+                    "x0": 3856,
+                    "y0": 662,
+                    "x1": 4752,
+                    "y1": 1783
+                }
+            ],
+            "bbox": [
+                3856,
+                307,
+                4752,
+                1783
+            ],
+            "full_article_id": 24,
+            "id": "24_1827-06-28_p3_sn82014309_00414182926_1827062801_0203.json"
+        },
+        {
+            "object_ids": [
+                27
+            ],
+            "headline": "",
+            "article": "speaker ofthe House of Representatives.\n\n JOHN 5. PETERS,\n\n President of the Senate. June I, 1827-Approved.\n\n GIDEON TOMLINSON. An Act in addont to and alteration of an Act entitled An Actreiating to weights and measures\"\n\n Be enacted 6y the Senate aud House of Represen- tottceS Gn General Assembly conuened That the half bushel measure which shall be the standard measure for charcoal shall be of the capacity of one thousand two hundred and eghty-two cubic inches.\n\n SEC z Be further enacted, that so much of the fifth section of the act which this is an addition and alteration relates to the measure of charcoal be and the same Is hereby repealed.\n\n EBENEZER YOUNG, Speaker of the House of Representatives. JOHN s. PETERS, President ofthe Senate.\n\n GIDEON ToMLINsoN. An act in alteration of act entitled an act to regu late the inspection of provisions and other articles of Commerce.\n\n Be n enacted 6y the Senate and House of Represen- said act requires prime beef No. g. to be branded with the mark No. g be and the is hereby pealed.\n\n EBENEZER YOUNG, Speaker of the House of Representatives. JOHN s. PETERS, Speaker of the Senate. GIDEON ToMLINsoN. An Act prescribing the number of Jurymen for each town m the State. Be enacted 6y the Senate and House of Represe,- tatiues m General Assembly convened That the several towns in this State shall be entitled to select in the manner prescribed in the \"Act for the regulation of civil actions and for the purposes therein mentioned the number ofJurymen here annexed to each town, wit: Hartford thirty, Berlin twelve, Bristol six, East Windsor fifteen, Canton sx Burlington sx Manches- ter six, East Hartford nine Enfield nine Pennington thirteen, Glastonbury foureen Granby thireen Hart land six, Marlborough four, Smsbury nine, Southing ton eight, Sufield twelve, Wethersfeld seventeen Windsor thirteen. SEC. 2. New Haven forty-fve, Branford thirteen, Cheshire twelve, Derby thirteen Eas-IIaven seven, Guford toureen Hampden ten, Madison eleven, Mer- southbury ten, Wsllingford thirteen, Waterbury if teen, Wolcott six, Woodbridge twelve. SEC. 3. New London fifteen, Norwich sixteen, Boz rah five, Colchester ten, Franklin five. Griswoid eight Groton twenty-nne, Lebanon thirteen, Lisbon hve' Lyme eighteen, Montvle nine, Salem five, Stoning- ton fourteen, Waterford ten.\n\n SEC. 4. Fairfield sixteen, Bridgeport eight, Brook field four, Danbury fifteen, Darien fcur, Greenwich fourteen, Huntington six, Monroe six, New Canaan six, Newfairheld three, Newtown eleven Norwalk leven, Redding six Ridsefeld nine, sherman four, Stamford twelve Sratford six Trumbull five, Weston ten, Wilton seven.\n\n SEC. g. Brooklyn six, Ashford fourteen, Canterbury ten, Chaplin four, Hampton six, Kingly fourteen, Plainfeld ten, Pomret ten Sterling six, Thompson fifteen, Voluntown six, Windham eleven, Woodstock fifteen.\n\n SEC. 6. Litchield twenty-one, Barkhamstead sev- en, Bethlehem four, Canaan eleven, Colebrook six, Cornwall eight, Goshen seven, Harwnton seven Kent nine, New Hartford eight, New Milford seventeen, Norfolk six, Plymouth eight, Roxbury five, Salisbury twelve, sharon eleven, Torrington seven, Warren four, Washington seven, Watertown seven Winches- ter seven, Woodbury nine.\n\n SEC. 7. Middletown thirty-eght, Haddam fourteen, Chatham eighteen Durham seven, East Haddam ff teen, Kiingworth fourteen, Saybrook twenty-four. SEC. B. Holland twelve, Bolton six, Columbia five, Coventry fifteen, Ellington nine, Hebron sixteen, Mansfield fourteen, Somers ten, Stafford eighteen, Union six, Vernon seven, Wilmington nine.\n\n SEC. 9. Be t further enacted, That the act entitled an act prescribing the number of Jurymen for each town in this state, passed in the revised Statutes of 182 and so much of the statutes subsequently enact ed, prescribes the number of Jurymen to each or any towns in this state be and the hereby eaed-Prov;ded, that the several Jurymen who have been legally choson, and whose names remain in the jury boxes shall be liable be drawn and serve as jurors in the same though this act had not passed. \"\n\n EBENEZER YOUNG,\n\n Speaker of the House of Representative. F ,s. JOHN s. PETERS, President of the Senate.\n\n GInEON TONTJ TNSON",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2945,
+                    "y0": 1196,
+                    "x1": 3840,
+                    "y1": 4995
+                }
+            ],
+            "bbox": [
+                2945,
+                1196,
+                3840,
+                4995
+            ],
+            "full_article_id": 28,
+            "id": "28_1827-06-28_p3_sn82014309_00414182926_1827062801_0203.json"
+        },
+        {
+            "object_ids": [
+                28
+            ],
+            "headline": "",
+            "article": "The newspaper mania in New York runs at present very high-beating the canal and banking mania all hollow. Daily, semi-weekly, and weekly papers, are multiplying there to alarming degree, especially to the publishing interest. Among the many otherswhch have of,ate appeared, is entitled \"1he Age, to he edited by the late publisher of the Albany Wic- roscope\" In his prospectus the editor says, we shall endeavor to hold up mirror, in which mankind may see the follies and vices of the age in which we live, reflected in their true colors.\" Had he said, i've shall hold up mirror in which mankind may see the follies and vices of\" The Age,\" he would have come nearer the truth, as will be manifest by his columns unless great moral change has taken place in him since he edited the Microscope. Such public criticisms upon the \"foes and the vices of the age,\" by such man, looks too much like person up to his ears in tar barrel declaimng against the filth and misery of the rest of mankind and boastng of his own neat oca ton.\n\n The whale, noticed ourlas page, as having pass ed the bridge across the Piscaapua at Portsmouth N l Fl. has been taken. He was harpooned by Col. De- catur of the Navy Yard, on Tuesday evening, l2th inst and continued towing the two boats attached to him until Wednesday morning, at o'clock, when he was despatched in view of the thousands who had Aocked to see him. The Pourtsnaouth Advertiser says. \"The length of the whale is about 5O feet and has breadth about 16 feet; his head is shaped like that of tho horse and he differs from all others that have been seen by those acquainted with that species ot6sh His motion wss undulatoTy andit is the opin-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1127,
+                    "y0": 5383,
+                    "x1": 2028,
+                    "y1": 6998
+                }
+            ],
+            "bbox": [
+                1127,
+                5383,
+                2028,
+                6998
+            ],
+            "full_article_id": 29,
+            "id": "29_1827-06-28_p3_sn82014309_00414182926_1827062801_0203.json"
+        },
+        {
+            "object_ids": [
+                32
+            ],
+            "headline": "",
+            "article": "Killed instantly Mir. Stephen Evitts of the town of Pike, Bradford County Pennsylvania, by stone thrown at his head training day; the person who Mir. Evitts was formerly from Newpreston in this County where most of his children now reside to la ment his untimely end. Communicated.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2039,
+                    "y0": 4459,
+                    "x1": 2934,
+                    "y1": 4710
+                }
+            ],
+            "bbox": [
+                2039,
+                4459,
+                2934,
+                4710
+            ],
+            "full_article_id": 33,
+            "id": "33_1827-06-28_p3_sn82014309_00414182926_1827062801_0203.json"
+        },
+        {
+            "object_ids": [
+                38
+            ],
+            "headline": "",
+            "article": "A memorial has been presented to the Governor oi Delaware, desiring him appoint another judge There is now case to be tried in the high Court of Errors and Appeals in that state, in which the Chancellor is\n\n party, and his absence deprives the bench of con- stitutiona majority There must be flaw in the con- stituton of that state, if it has not provided for such an exigency.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2045,
+                    "y0": 4152,
+                    "x1": 2928,
+                    "y1": 4443
+                }
+            ],
+            "bbox": [
+                2045,
+                4152,
+                2928,
+                4443
+            ],
+            "full_article_id": 39,
+            "id": "39_1827-06-28_p3_sn82014309_00414182926_1827062801_0203.json"
+        }
+    ]
+}

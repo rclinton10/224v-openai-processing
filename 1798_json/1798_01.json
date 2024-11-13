@@ -1,0 +1,822 @@
+{
+    "lccn": {
+        "title": "The gazette.",
+        "geonames_ids": [
+            "4975802"
+        ],
+        "dbpedia_ids": [
+            "Portland%2C_Maine"
+        ],
+        "issn": "2575-0038",
+        "lccn": "sn83045634",
+        "start_year": "1798",
+        "end_year": "1799",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [
+            "sn83016063"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn83045634",
+        "edition": "ed-01",
+        "date": "1798-05-21",
+        "pages": [
+            "seq-1",
+            "seq-2",
+            "seq-3",
+            "seq-4"
+        ]
+    },
+    "page_number": "1",
+    "scan": {
+        "lccn": "sn83045634",
+        "edition": "ed-01",
+        "date": "1798-05-21",
+        "page": "1",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn83045634/1798-05-21/ed-1/seq-1.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn83045634/1798-05-21/ed-1/seq-1/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn83045634/1798-05-21/ed-1/seq-1/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/me_bangor_ver02/data/sn83045634/00332895059/1798052101/0016.jp2",
+        "height": 8589,
+        "width": 5241
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 3828,
+                "y0": 5193,
+                "x1": 5043,
+                "y1": 8241
+            },
+            "class": "article",
+            "raw_text": "n\n\n\nOf tbe FRENCH REPUBLIC.\n\n\nCITIZEN MINISTER,\n\n\nTHE underGgned envoys Extraor-\ndinary, and Mipifers PIenipotentiarv.\nfrom the United States of America 10\nthe French Republic, have been hither-\nto reltraihed by the expectations of en-\ntering on the object Of their milton, fl\nthe forms ufual among nations, from\naddre0ing to the Executive Directory;\nthro' you, thofe explanations and re-\nclamatons with which they arecharged\nby the government they reprefent. II\nthis expectation is TO be relinquilhed,\nyet the unfei6hed with Of the United\nStates, to reifore that harmony between\nthe two republics, which they have 70\nunFemittingly fought TO pteferve, rem\nderS il the duty of the undersigned, to\nlay before the government Of France,\nhowever informal the communication\nmay be deemed, fome confdcrations.\nin addition TO thofe already fubmitted,\nrelative to the fulfilling differences be-\ntween the two nations. fst-t\n\n\nOpenly and repeatedly have France\nand America interchanged unequivocal\ntelfimonials Of reciprocal regard\nTheie teifimoniais were given by the\nUnited States with all the ardor and\nfincerity Of youth. It's ftiH believed\nthat on the part of France they were\nlikeviie the offspring Of real eteem.-\nThey confidered on the other fde\nOF the Atlantic as evidencing a nature\nfriendiFiP, tobe as durable as the Re-\nPublics themfelves. unhappily, The\nicene is changed; and America looks\naround in vain for the ally OF the friend.\nThe contraf' both Of Language and cf\n\n\n",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 4170,
+                "y0": 4791,
+                "x1": 4668,
+                "y1": 4959
+            },
+            "class": "headline",
+            "raw_text": "CHA RLES z. PI\nJ, MARSHALL.\nL. GERRY.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -3
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 3835,
+                "y0": 4972,
+                "x1": 4715,
+                "y1": 5107
+            },
+            "class": "author",
+            "raw_text": "Col. PtoKgRINc, 2\nSecretary Of the United States.",
+            "legibility": "Questionable",
+            "full_article_id": 1,
+            "reading_order_id": -2
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 3828,
+                "y0": 5146,
+                "x1": 5030,
+                "y1": 5302
+            },
+            "class": "headline",
+            "raw_text": "To TIE MINISTER efFOREIGN AFFAIRS\n\n\nef tbe FRENCH REPUBLIC.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2607,
+                "y0": 999,
+                "x1": 3782,
+                "y1": 1772
+            },
+            "class": "article",
+            "raw_text": "danger, and glory of our defence, is to\nme, and TO your country, fure and\npleafng pledge, that your birth-rights\nwill never be ignobly bartered or fur\nrendered : bat that you will in your\nturn, tranlrnit to future generations the\nfair Inheritance, obtained by the un-\nconquerable fpirit of your Fathers.\n\n\nJOHN ADAMS.\nPhiladelphia, May7.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3814,
+                "y0": 2241,
+                "x1": 5037,
+                "y1": 5040
+            },
+            "class": "article",
+            "raw_text": "DEAR Sir,\n\n\nWE tranfnit to you in this in\ncloiure, our lait letter to the Miniler of\nForeign Relations although dated the\n18TH ult. it was not on account Of the\ntime taken to trau1ate 70 long a letter,\ndelivered until the gift. In our com\nmunications here, although we have,\nagreeably to your infru6tions, written\nin our own language, we at the fame\ntime have taken the precaution, LEFT our\nmeaning fhould be mifrebrefented or\nmilunderitood, to accompany them\nwith an accurate tran1ation. We have\nnot yet received any anfwer TO this\ncommunication, and lhould no notice\nbe taken of it in few days, we fhaII\napply in more explicit manner for\nour pahports.\n\n\nThe councils have paded the decree\nmentioned in No. s, as having been re-\ncommended by the Directory, to cap\nture and condemn all neutral vefels\nladen in part or in whole with the ma\nnufa6tures or productions. Of England,\nor IFS pofiefiions. We inclofe you the\nofficial copy of the report on that fub-\njet. and hall rePreGent to this govern\nRment the injuifice and injury which il\nmutt inevitably occaGon US.\nWe have the honor to be, with great\nrefpea, Your mott obedient humble\nieryants,\n\n\nCHARLES &. PTNCNNEY.\n\n\nJ. MARSHALL,\n\n\nf. GERRY\n\n\nCol. PtoKERINc,",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 4110,
+                "y0": 2180,
+                "x1": 4943,
+                "y1": 2289
+            },
+            "class": "headline",
+            "raw_text": "Paris, February y. 1898.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 178,
+                "y0": 2610,
+                "x1": 1353,
+                "y1": 3094
+            },
+            "class": "article",
+            "raw_text": "On Monday the 18th infant, p-oce6fon Of up\nwards Of Twelve Hundred YouNc MEN, be-\ntween the years of IS and g, attended by an\nimmenfe cOncOurle of fPecators, martial mu-\nfc, the American ftandard, and charaaenfic\ncockades, waited on the PREsIDENr Of the\nUnited States, and Prefcnted the following\nAddrefs.-",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 500,
+                "y0": 2529,
+                "x1": 1011,
+                "y1": 2597
+            },
+            "class": "headline",
+            "raw_text": "At PHILADELPHIA,",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 198,
+                "y0": 1274,
+                "x1": 1346,
+                "y1": 1899
+            },
+            "class": "article",
+            "raw_text": "HOSE gentlemen soJO ab5 -e7gsbcy5 in tie Uad Siatef,\nare rsqAsL 1Sgrssa5Lc, 70 sasbaags oAzETTEs rvHh tie\nEditor, and orzpara Laa By re a45 Sf E. A, JENks\n\n\nP0yzah\" TJss liberal Printer zOb0 7vjG for dszti\n\n\nnation # Federal Principles, is extremity st5s Union,\nvUiH den5tl5f esp-AI II Eers froptr 10 itoyn f5 vrb0\nbrvs rcsVs4 ey5 9ag sqrivzleat gne4 By fbe bsys\nzoo was bags been concerned in M paper that t5ey are\n7oi4 on Szy part and that The GAZETTE ezy is H.\n4ealj. PriaferJ of daily gazettes, zvW f-l many as\nthey 51E and Teivz tbs csr1aL asks of t5eir Bpsze\nisT1'zHf, z. A. JENKs.",
+            "legibility": "Questionable",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 224,
+                "y0": 959,
+                "x1": 1306,
+                "y1": 1108
+            },
+            "class": "headline",
+            "raw_text": "Moaday, Nay Fl, 1898.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -2
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 238,
+                "y0": 1187,
+                "x1": 1239,
+                "y1": 1262
+            },
+            "class": "headline",
+            "raw_text": "A CAM. to PubIifhers of Papers",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 144,
+                "y0": 3187,
+                "x1": 1366,
+                "y1": 8187
+            },
+            "class": "article",
+            "raw_text": "PRESIDENT OF THE UNITED STATES.\nTbe ADDREss Of the 9IoUvc Men of t5e\n\n\ncity Of philadelphia, the di2ria Of\nSoRtbwark, q the Nsrtberu Liberties.\nSIR,\n\n\nAT period 70 interefing to the\nUnited States, permit us to believe that\nan Addrefs from the Youth Of Philadel-\nphia, anxious to prelerve the honour\nand independence of their county, will\nnot be unwelcome TO their Chief MagiG-\ntrate.\n\n\nA6tuated by the fame principles on\nwnichour fore fathers achieved their\nindependence, the recent attempts of a\nforeign power to derogate from the dig\nnifty and rights cur country, awaken\nour Iivelielt fepfbihty, and our Rrong-\neft indignation.\n\n\nThe Executive Of the United States,\nfilled with a fpirit Of friendfhip towards\nthe whole world, has relorted to every\niult and honourable means of concilia-\nting the affections Of the French repub-\nlie, who have received their proportions\nOfPeace with determined holtility and\ncontempt; have wounded our national\nindependence by infulting its Repre-\n9entatives and calumniated the hon\nour and virtue of our citizens, by in\niinuating thatwe were I divided, fub-\nordinate people.\n\n\nThe Youth Of the American nation\nwill claim fome fhare of difficulty, dan\nger, and glory of its defence; and al\nthough we do not hold ourfclve8 com\nPctent to form an opinion refpc6ing\nthe tendency of every meafure, vet we\nhave no hciitation in declaring, that we\nplace the mott entire confidence in your\nwiidom, integrity and patriotifm !. that\nWe regard our liberty and independence\nrs the richcf portion given US by our\nanceforS that we perceive no differ\nence between the illegal and opprelilye\nnealuzeS OF one government and the\nial0lent attempts now made to. ufurp\nour rights by another I; that as. our an\nceifors have magnaninlouly reiited\nthe encroachments of the one, we will\n10 lcfS VigoroHly oppofe the attacks of\nthe other that at the call Of our coun-\ntry, evil afemble with promptitude,\nobey the orders Of the confitpted au-\nshorities with alacrity, and on every\nQccafon act with all the exertion Of\nwhich We are. capable and for this We\npledge ourlelyes to you, to our country,\nand TO the world.\n\n\nThe FOREGOING Addrefs was received By the\n\n\nPREsIDFNT in perlon who with a counts-\n\n\nnance eTprefflrc cf the plcafure he felt, re.\n\n\nturned The folou~lrx AnTwer; in wh ch i\n\n\naapPil9 blended The 4 gniy Of the Chief Nd\n\n\ncitrate and the affection Of the Fa.her.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 432,
+                "y0": 3113,
+                "x1": 1111,
+                "y1": 3195
+            },
+            "class": "headline",
+            "raw_text": "10 TOHN ADAMS,",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 204,
+                "y0": 2100,
+                "x1": 1306,
+                "y1": 2477
+            },
+            "class": "article",
+            "raw_text": "IT'S good, tits noble, 10 fee the manly youth\nOf our free country, warm'd by the godlrke\nSpirit of their fires, rife thodrm bulwark\nOF their nations rights. The aged natesmen.\nAnd the good old chiefs, with Joy glance backward\nFrom the cold eve Of Ife, and with delight\nBehold their long-fought freedom fafe.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 298,
+                "y0": 1939,
+                "x1": 1239,
+                "y1": 2054
+            },
+            "class": "headline",
+            "raw_text": "Wort6y 9fAmerican5 I",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2607,
+                "y0": 2207,
+                "x1": 3795,
+                "y1": 8207
+            },
+            "class": "article",
+            "raw_text": "Young Men, from the age OF 10 10 \"A.\n\n\n70 JOHN ADAMS,\n\n\nPrGFdent Of the, United States.\n\n\nAT period, when po50sytul and\npcrfdi9us nation, afpiring to the domi-\nnation of the world, annuls in the ca\nreer Of her pride, all bonds Of national\namity; when, the mott conciliating\nmeaiureS which the pacific difpoftion Of\nour government has adopted, have been\n.rePelled with indignity, SILENCE\nwould become COWARDICE, and\nNEUTRALITY, TREASON.\n\n\nAt this eventful crif8, the 1cmg Men\nof Bolton, folemnly imprefed with the\nideas OF independence, which they have\nderived from their ance(tors, in that\nunequivocal language which admits Of\nno adulation, beg leave to exprefS to the\nFirlt Magitrate, of the Union, their\niendments and refolutions.\n\n\nUlhered into life at time when our\nfathers were fruggling for the rights to\nwhich God and Nature entitled them,\nwe date our exiftence coeval with the\niAu-Pendence Of our country. With\nour frlt breath we imbibed deteitation\nof (srviLty to any nati0n, and we have\nnot yet learned to fubmit TO the humi-\nliation Of foreign controul.\n\n\nAs Americans, we feel an enthufafm\nin apPlauding your arduous adminiltra-\nton, together with that Of your illuftri-\nGus predecehor, ever deignated by the\nfrmei virtue, which danger has not\nbeen able TO ab3aI and obioquy has in\nvain a0ailed. While we have admired\nthe dignihed moderation, which has\nmarked the fuccefive attempts at a re-\nCancellation with our Gallo allies, we\nhave witnefed with regret our Profered\nterms of adjultment, contemptuouly\nreje9ed by the rabacity of aparire, and\nthe mt6ienoe Of P02cer, The infulting\ndemands by which Francehas 70 glar-\ningly developed her Punic taitb, and her\ninfidious deGgns, We conceive would\nbe more Characteristic of the defpotic\n.requifitions Of conquerer, than Of pro-\npoIalS to high fpirited, and we believe\nan uncomfortable people.\n\n\nAlthough we prefumc not 10 AFRO\ngate. to ourfeKes the Office Of Judging\non Intricate queitionS Of politics, yet\nwhere gratitude claims the tribute, we\nmutt feelingly eulogize the unfullied\npatriotifm and uniform Wildom Of our\nSupreme Executive.\n\n\nJutlyappreciating the fweets ofpeace\nand the reign Of equal laws, fpurning\nacquiefcence to any Prefhmptuous pow\nerto the degradation of national hon\nour, and determined to guard the in\nviolability of our Contribution, as the\npalladium Of our rights, we the Youth\nof Bolton, united by indinoluble ties in\none common love to our country, mon\nlolemnly offer, when its voice demands\nthe energy Of acfion to facrifce our\nyouthful ProfPe6s, and our lives, in\n-unnerving the arm Of iedition, andre\n.pelling the inroads Of oPPrefion fer\n.vently according in thoie noble fenti-\nments that neutrality ongbt never 10\nbe Pavcbaicd By The vioLafi0n Of public\ntaifb, tie tarmibing of moral cbdraHer,\nor fbe abandonment 9f ndepcndsnrs.'",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 2855,
+                "y0": 2274,
+                "x1": 3560,
+                "y1": 2349
+            },
+            "class": "headline",
+            "raw_text": "TO JOHN ADAMS,",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1372,
+                "y0": 1415,
+                "x1": 2567,
+                "y1": 7831
+            },
+            "class": "article",
+            "raw_text": "d\nfrom the ingenious Youth of Philadel-\nPhia, in their virtuous anxiety to pre-\nierve the honour and independence of\ntheir country.\n\n\nFor long courfe Of years, my ami\nable friends, before the birth of the\noldeit Of you, was called to act with\nyour fathers, in concerting meafureS\nthe mott difagreeable and dangerous,\nnot from defire of innovation, not\nfrom dilcontent with the Government\nunder which we were born and bred,\nbut 70 prelerve the honour of our\ncountry, and vindicate the immemorial\nLiberties Of our AnceforS. In purfuit\nOF thefe mea(uresit became not an obie6t\nOF prediction and choice, but Of indil-\npeniable neceflity, to afert our indepen-\ndence, which with many difficulties\nand much Iufering, wa at length fe-\ncured. l have long fattered myfclf\nthat might be gathered to the alheS\nOf my Fathers, leaving unimpaired and\nunafiailed, the liberties 70 dearly pur-\nchaled f; and that | ihould be fummon-\ned iecond time to act, in fuch fcenes\nOf anxiety, perplexity and danger as\nWar Of any kind always exhibits. II\nmy good fortune fhould not correfpond\nwith my earnef wilhes, and | ihould\nbe obliged, TO act with you, as with\nyour ancefors, in defence of the hon.\nour and independence Of our country.\nfincerelY with that none of gou may\never have your contancy of mind, and\nltrength Of body put to 10 fevere a triaI\nas to be compelled again in your ad.\nvanced age to the contemplation and\nnear profpe6t, Of any war Of offence OF\ndefence.\n\n\n1t would neither Be conftent with\nmy character nor yours, on this occa-\nlion, to read leaonS to gentlemen ol\nyour education, conduit, and character;\nIf however might be indulged the pri.\nvilege of father, fhould with the\ntendereft affection recommend to your\nferrous and confant confederation that\ntcience and morals are the great pillars\non which this country has been raifed\nto its prefent population, opulencc and\nprolpsrity; and that thefe alone can\nadvance, fupport and.preferve.it.\n\n\nWithout wilhing to damp the. ardour\nOF curioiity, or influence the freedom\nOf inquiry, viii hazard prediction\nthat, after the mott indultrious and inn\npartial relearches, the longef liver Of\nyou all, will find no principles, inltitu.\ntons, or fyltenis Of education more fiji\nin general, to be tranfmitted to your\nPolterity than thole YOU haye received\nfrom your anceltors.\n\n\nNo Profpe6 or fpe6taclc could excite\nitronger icnGbiIity ii my bolom than\nthis which now prelents itfelf before me.\n| with you all the pure Joys, the fan\nguine hopes, and bright prolpe6swhich\nare decent ar your age; and that your\nlives may belong, honourable and prof\nporous, in the conltant practice Of be.\nnevolence 10 men, and reverence to the\ndivinity, in country pcrfcvering in\nliberty, and increafng in virtue, power\nand glory.\n\n\n/ The ientiments of. this addrefa, every\nwhere expreded in language as chale\nand plodel, as it iS.elegant and matter\nly, which would 10 honour to the youth\nOF any country, have raiied a monument\nto your fame, more durable than brafS\normarble.-Thc Youth of all America\nmutt exult in this carly famPle, at the\nfeat ofgovernment, Of their talents, sc",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 1379,
+                "y0": 979,
+                "x1": 2574,
+                "y1": 1215
+            },
+            "class": "headline",
+            "raw_text": "To the ToUNc MEN sf the city Of Pbila-\ndelPbia, the dJ2fid Of Soutb90ark, and\nthe NoYtbe7n Liberties,",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -2
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 1526,
+                "y0": 1234,
+                "x1": 1950,
+                "y1": 1275
+            },
+            "class": "headline",
+            "raw_text": "CENTLEMEN.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3828,
+                "y0": 1872,
+                "x1": 5023,
+                "y1": 2134
+            },
+            "class": "article",
+            "raw_text": "CThe following are The Documents mentioned\nin the lat Gazete-which the PTeGdent tranf\nmitted to both houfes Of Congrels On the\n4th infant.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3902,
+                "y0": 986,
+                "x1": 4923,
+                "y1": 1121
+            },
+            "class": "headline",
+            "raw_text": "National Concerns.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -2
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3855,
+                "y0": 1717,
+                "x1": 4976,
+                "y1": 1826
+            },
+            "class": "headline",
+            "raw_text": "Documents from our EnOoys.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2607,
+                "y0": 1932,
+                "x1": 3795,
+                "y1": 2255
+            },
+            "class": "article",
+            "raw_text": "The Young Men have no lefs difpIayed love\nfor their country The following Addrefs\nhas been forwarded 10 the Prcfdent, Ggned\nby upwards of ELEVEN HUNDRED\nYoung Men, from the age of I6 TO \"A.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 3029,
+                "y0": 1831,
+                "x1": 3373,
+                "y1": 1913
+            },
+            "class": "headline",
+            "raw_text": "lit Boeoa,",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 191,
+                "y0": 7770,
+                "x1": 1373,
+                "y1": 8173
+            },
+            "class": "article",
+            "raw_text": "The FOREGOING Addrefs was received By the\nPREsTDENT in Perlon; who with counts\nnance eHprsifirc cf the plcafure he felt, re-\nturned The folou~lrS AnT~er in wh ch i\nhappily blended the 4 gni;y Of the Chief Nd\nCitrate and The affection Of the Father.",
+            "legibility": "Legible",
+            "full_article_id": 29,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                30,
+                22,
+                27,
+                0
+            ],
+            "headline": "CHA RLES z. PI\nJ, MARSHALL.\nL. GERRY.\n\nTo TIE MINISTER efFOREIGN AFFAIRS\n\n\nef tbe FRENCH REPUBLIC.",
+            "article": "n\n\n\nOf tbe FRENCH REPUBLIC.\n\n\nCITIZEN MINISTER,\n\n\nTHE underGgned envoys Extraor-\ndinary, and Mipifers PIenipotentiarv.\nfrom the United States of America 10\nthe French Republic, have been hither-\nto reltraihed by the expectations of en-\ntering on the object Of their milton, fl\nthe forms ufual among nations, from\naddre0ing to the Executive Directory;\nthro' you, thofe explanations and re-\nclamatons with which they arecharged\nby the government they reprefent. II\nthis expectation is TO be relinquilhed,\nyet the unfei6hed with Of the United\nStates, to reifore that harmony between\nthe two republics, which they have 70\nunFemittingly fought TO pteferve, rem\nderS il the duty of the undersigned, to\nlay before the government Of France,\nhowever informal the communication\nmay be deemed, fome confdcrations.\nin addition TO thofe already fubmitted,\nrelative to the fulfilling differences be-\ntween the two nations. fst-t\n\n\nOpenly and repeatedly have France\nand America interchanged unequivocal\ntelfimonials Of reciprocal regard\nTheie teifimoniais were given by the\nUnited States with all the ardor and\nfincerity Of youth. It's ftiH believed\nthat on the part of France they were\nlikeviie the offspring Of real eteem.-\nThey confidered on the other fde\nOF the Atlantic as evidencing a nature\nfriendiFiP, tobe as durable as the Re-\nPublics themfelves. unhappily, The\nicene is changed; and America looks\naround in vain for the ally OF the friend.\nThe contraf' both Of Language and cf\n\n\n",
+            "byline": "Col. PtoKgRINc, 2\nSecretary Of the United States.",
+            "bbox_list": [
+                {
+                    "x0": 4170,
+                    "y0": 4791,
+                    "x1": 4668,
+                    "y1": 4959
+                },
+                {
+                    "x0": 3835,
+                    "y0": 4972,
+                    "x1": 4715,
+                    "y1": 5107
+                },
+                {
+                    "x0": 3828,
+                    "y0": 5146,
+                    "x1": 5030,
+                    "y1": 5302
+                },
+                {
+                    "x0": 3828,
+                    "y0": 5193,
+                    "x1": 5043,
+                    "y1": 8241
+                }
+            ],
+            "bbox": [
+                3828,
+                4791,
+                5043,
+                8241
+            ],
+            "full_article_id": 1,
+            "id": "1_1798-05-21_p1_sn83045634_00332895059_1798052101_0016.json"
+        },
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "danger, and glory of our defence, is to\nme, and TO your country, fure and\npleafng pledge, that your birth-rights\nwill never be ignobly bartered or fur\nrendered : bat that you will in your\nturn, tranlrnit to future generations the\nfair Inheritance, obtained by the un-\nconquerable fpirit of your Fathers.\n\n\nJOHN ADAMS.\nPhiladelphia, May7.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2607,
+                    "y0": 999,
+                    "x1": 3782,
+                    "y1": 1772
+                }
+            ],
+            "bbox": [
+                2607,
+                999,
+                3782,
+                1772
+            ],
+            "full_article_id": 2,
+            "id": "2_1798-05-21_p1_sn83045634_00332895059_1798052101_0016.json"
+        },
+        {
+            "object_ids": [
+                25,
+                2
+            ],
+            "headline": "Paris, February y. 1898.",
+            "article": "DEAR Sir,\n\n\nWE tranfnit to you in this in\ncloiure, our lait letter to the Miniler of\nForeign Relations although dated the\n18TH ult. it was not on account Of the\ntime taken to trau1ate 70 long a letter,\ndelivered until the gift. In our com\nmunications here, although we have,\nagreeably to your infru6tions, written\nin our own language, we at the fame\ntime have taken the precaution, LEFT our\nmeaning fhould be mifrebrefented or\nmilunderitood, to accompany them\nwith an accurate tran1ation. We have\nnot yet received any anfwer TO this\ncommunication, and lhould no notice\nbe taken of it in few days, we fhaII\napply in more explicit manner for\nour pahports.\n\n\nThe councils have paded the decree\nmentioned in No. s, as having been re-\ncommended by the Directory, to cap\nture and condemn all neutral vefels\nladen in part or in whole with the ma\nnufa6tures or productions. Of England,\nor IFS pofiefiions. We inclofe you the\nofficial copy of the report on that fub-\njet. and hall rePreGent to this govern\nRment the injuifice and injury which il\nmutt inevitably occaGon US.\nWe have the honor to be, with great\nrefpea, Your mott obedient humble\nieryants,\n\n\nCHARLES &. PTNCNNEY.\n\n\nJ. MARSHALL,\n\n\nf. GERRY\n\n\nCol. PtoKERINc,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 4110,
+                    "y0": 2180,
+                    "x1": 4943,
+                    "y1": 2289
+                },
+                {
+                    "x0": 3814,
+                    "y0": 2241,
+                    "x1": 5037,
+                    "y1": 5040
+                }
+            ],
+            "bbox": [
+                3814,
+                2180,
+                5037,
+                5040
+            ],
+            "full_article_id": 3,
+            "id": "3_1798-05-21_p1_sn83045634_00332895059_1798052101_0016.json"
+        },
+        {
+            "object_ids": [
+                17,
+                3
+            ],
+            "headline": "At PHILADELPHIA,",
+            "article": "On Monday the 18th infant, p-oce6fon Of up\nwards Of Twelve Hundred YouNc MEN, be-\ntween the years of IS and g, attended by an\nimmenfe cOncOurle of fPecators, martial mu-\nfc, the American ftandard, and charaaenfic\ncockades, waited on the PREsIDENr Of the\nUnited States, and Prefcnted the following\nAddrefs.-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 500,
+                    "y0": 2529,
+                    "x1": 1011,
+                    "y1": 2597
+                },
+                {
+                    "x0": 178,
+                    "y0": 2610,
+                    "x1": 1353,
+                    "y1": 3094
+                }
+            ],
+            "bbox": [
+                178,
+                2529,
+                1353,
+                3094
+            ],
+            "full_article_id": 4,
+            "id": "4_1798-05-21_p1_sn83045634_00332895059_1798052101_0016.json"
+        },
+        {
+            "object_ids": [
+                11,
+                19,
+                4
+            ],
+            "headline": "Moaday, Nay Fl, 1898.\n\nA CAM. to PubIifhers of Papers",
+            "article": "HOSE gentlemen soJO ab5 -e7gsbcy5 in tie Uad Siatef,\nare rsqAsL 1Sgrssa5Lc, 70 sasbaags oAzETTEs rvHh tie\nEditor, and orzpara Laa By re a45 Sf E. A, JENks\n\n\nP0yzah\" TJss liberal Printer zOb0 7vjG for dszti\n\n\nnation # Federal Principles, is extremity st5s Union,\nvUiH den5tl5f esp-AI II Eers froptr 10 itoyn f5 vrb0\nbrvs rcsVs4 ey5 9ag sqrivzleat gne4 By fbe bsys\nzoo was bags been concerned in M paper that t5ey are\n7oi4 on Szy part and that The GAZETTE ezy is H.\n4ealj. PriaferJ of daily gazettes, zvW f-l many as\nthey 51E and Teivz tbs csr1aL asks of t5eir Bpsze\nisT1'zHf, z. A. JENKs.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 224,
+                    "y0": 959,
+                    "x1": 1306,
+                    "y1": 1108
+                },
+                {
+                    "x0": 238,
+                    "y0": 1187,
+                    "x1": 1239,
+                    "y1": 1262
+                },
+                {
+                    "x0": 198,
+                    "y0": 1274,
+                    "x1": 1346,
+                    "y1": 1899
+                }
+            ],
+            "bbox": [
+                198,
+                959,
+                1346,
+                1899
+            ],
+            "full_article_id": 5,
+            "id": "5_1798-05-21_p1_sn83045634_00332895059_1798052101_0016.json"
+        },
+        {
+            "object_ids": [
+                13,
+                5
+            ],
+            "headline": "10 TOHN ADAMS,",
+            "article": "PRESIDENT OF THE UNITED STATES.\nTbe ADDREss Of the 9IoUvc Men of t5e\n\n\ncity Of philadelphia, the di2ria Of\nSoRtbwark, q the Nsrtberu Liberties.\nSIR,\n\n\nAT period 70 interefing to the\nUnited States, permit us to believe that\nan Addrefs from the Youth Of Philadel-\nphia, anxious to prelerve the honour\nand independence of their county, will\nnot be unwelcome TO their Chief MagiG-\ntrate.\n\n\nA6tuated by the fame principles on\nwnichour fore fathers achieved their\nindependence, the recent attempts of a\nforeign power to derogate from the dig\nnifty and rights cur country, awaken\nour Iivelielt fepfbihty, and our Rrong-\neft indignation.\n\n\nThe Executive Of the United States,\nfilled with a fpirit Of friendfhip towards\nthe whole world, has relorted to every\niult and honourable means of concilia-\nting the affections Of the French repub-\nlie, who have received their proportions\nOfPeace with determined holtility and\ncontempt; have wounded our national\nindependence by infulting its Repre-\n9entatives and calumniated the hon\nour and virtue of our citizens, by in\niinuating thatwe were I divided, fub-\nordinate people.\n\n\nThe Youth Of the American nation\nwill claim fome fhare of difficulty, dan\nger, and glory of its defence; and al\nthough we do not hold ourfclve8 com\nPctent to form an opinion refpc6ing\nthe tendency of every meafure, vet we\nhave no hciitation in declaring, that we\nplace the mott entire confidence in your\nwiidom, integrity and patriotifm !. that\nWe regard our liberty and independence\nrs the richcf portion given US by our\nanceforS that we perceive no differ\nence between the illegal and opprelilye\nnealuzeS OF one government and the\nial0lent attempts now made to. ufurp\nour rights by another I; that as. our an\nceifors have magnaninlouly reiited\nthe encroachments of the one, we will\n10 lcfS VigoroHly oppofe the attacks of\nthe other that at the call Of our coun-\ntry, evil afemble with promptitude,\nobey the orders Of the confitpted au-\nshorities with alacrity, and on every\nQccafon act with all the exertion Of\nwhich We are. capable and for this We\npledge ourlelyes to you, to our country,\nand TO the world.\n\n\nThe FOREGOING Addrefs was received By the\n\n\nPREsIDFNT in perlon who with a counts-\n\n\nnance eTprefflrc cf the plcafure he felt, re.\n\n\nturned The folou~lrx AnTwer; in wh ch i\n\n\naapPil9 blended The 4 gniy Of the Chief Nd\n\n\ncitrate and the affection Of the Fa.her.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 432,
+                    "y0": 3113,
+                    "x1": 1111,
+                    "y1": 3195
+                },
+                {
+                    "x0": 144,
+                    "y0": 3187,
+                    "x1": 1366,
+                    "y1": 8187
+                }
+            ],
+            "bbox": [
+                144,
+                3113,
+                1366,
+                8187
+            ],
+            "full_article_id": 6,
+            "id": "6_1798-05-21_p1_sn83045634_00332895059_1798052101_0016.json"
+        },
+        {
+            "object_ids": [
+                12,
+                6
+            ],
+            "headline": "Wort6y 9fAmerican5 I",
+            "article": "IT'S good, tits noble, 10 fee the manly youth\nOf our free country, warm'd by the godlrke\nSpirit of their fires, rife thodrm bulwark\nOF their nations rights. The aged natesmen.\nAnd the good old chiefs, with Joy glance backward\nFrom the cold eve Of Ife, and with delight\nBehold their long-fought freedom fafe.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 298,
+                    "y0": 1939,
+                    "x1": 1239,
+                    "y1": 2054
+                },
+                {
+                    "x0": 204,
+                    "y0": 2100,
+                    "x1": 1306,
+                    "y1": 2477
+                }
+            ],
+            "bbox": [
+                204,
+                1939,
+                1306,
+                2477
+            ],
+            "full_article_id": 7,
+            "id": "7_1798-05-21_p1_sn83045634_00332895059_1798052101_0016.json"
+        },
+        {
+            "object_ids": [
+                20,
+                7
+            ],
+            "headline": "TO JOHN ADAMS,",
+            "article": "Young Men, from the age OF 10 10 \"A.\n\n\n70 JOHN ADAMS,\n\n\nPrGFdent Of the, United States.\n\n\nAT period, when po50sytul and\npcrfdi9us nation, afpiring to the domi-\nnation of the world, annuls in the ca\nreer Of her pride, all bonds Of national\namity; when, the mott conciliating\nmeaiureS which the pacific difpoftion Of\nour government has adopted, have been\n.rePelled with indignity, SILENCE\nwould become COWARDICE, and\nNEUTRALITY, TREASON.\n\n\nAt this eventful crif8, the 1cmg Men\nof Bolton, folemnly imprefed with the\nideas OF independence, which they have\nderived from their ance(tors, in that\nunequivocal language which admits Of\nno adulation, beg leave to exprefS to the\nFirlt Magitrate, of the Union, their\niendments and refolutions.\n\n\nUlhered into life at time when our\nfathers were fruggling for the rights to\nwhich God and Nature entitled them,\nwe date our exiftence coeval with the\niAu-Pendence Of our country. With\nour frlt breath we imbibed deteitation\nof (srviLty to any nati0n, and we have\nnot yet learned to fubmit TO the humi-\nliation Of foreign controul.\n\n\nAs Americans, we feel an enthufafm\nin apPlauding your arduous adminiltra-\nton, together with that Of your illuftri-\nGus predecehor, ever deignated by the\nfrmei virtue, which danger has not\nbeen able TO ab3aI and obioquy has in\nvain a0ailed. While we have admired\nthe dignihed moderation, which has\nmarked the fuccefive attempts at a re-\nCancellation with our Gallo allies, we\nhave witnefed with regret our Profered\nterms of adjultment, contemptuouly\nreje9ed by the rabacity of aparire, and\nthe mt6ienoe Of P02cer, The infulting\ndemands by which Francehas 70 glar-\ningly developed her Punic taitb, and her\ninfidious deGgns, We conceive would\nbe more Characteristic of the defpotic\n.requifitions Of conquerer, than Of pro-\npoIalS to high fpirited, and we believe\nan uncomfortable people.\n\n\nAlthough we prefumc not 10 AFRO\ngate. to ourfeKes the Office Of Judging\non Intricate queitionS Of politics, yet\nwhere gratitude claims the tribute, we\nmutt feelingly eulogize the unfullied\npatriotifm and uniform Wildom Of our\nSupreme Executive.\n\n\nJutlyappreciating the fweets ofpeace\nand the reign Of equal laws, fpurning\nacquiefcence to any Prefhmptuous pow\nerto the degradation of national hon\nour, and determined to guard the in\nviolability of our Contribution, as the\npalladium Of our rights, we the Youth\nof Bolton, united by indinoluble ties in\none common love to our country, mon\nlolemnly offer, when its voice demands\nthe energy Of acfion to facrifce our\nyouthful ProfPe6s, and our lives, in\n-unnerving the arm Of iedition, andre\n.pelling the inroads Of oPPrefion fer\n.vently according in thoie noble fenti-\nments that neutrality ongbt never 10\nbe Pavcbaicd By The vioLafi0n Of public\ntaifb, tie tarmibing of moral cbdraHer,\nor fbe abandonment 9f ndepcndsnrs.'",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2855,
+                    "y0": 2274,
+                    "x1": 3560,
+                    "y1": 2349
+                },
+                {
+                    "x0": 2607,
+                    "y0": 2207,
+                    "x1": 3795,
+                    "y1": 8207
+                }
+            ],
+            "bbox": [
+                2607,
+                2207,
+                3795,
+                8207
+            ],
+            "full_article_id": 8,
+            "id": "8_1798-05-21_p1_sn83045634_00332895059_1798052101_0016.json"
+        },
+        {
+            "object_ids": [
+                16,
+                26,
+                8
+            ],
+            "headline": "To the ToUNc MEN sf the city Of Pbila-\ndelPbia, the dJ2fid Of Soutb90ark, and\nthe NoYtbe7n Liberties,\n\nCENTLEMEN.",
+            "article": "d\nfrom the ingenious Youth of Philadel-\nPhia, in their virtuous anxiety to pre-\nierve the honour and independence of\ntheir country.\n\n\nFor long courfe Of years, my ami\nable friends, before the birth of the\noldeit Of you, was called to act with\nyour fathers, in concerting meafureS\nthe mott difagreeable and dangerous,\nnot from defire of innovation, not\nfrom dilcontent with the Government\nunder which we were born and bred,\nbut 70 prelerve the honour of our\ncountry, and vindicate the immemorial\nLiberties Of our AnceforS. In purfuit\nOF thefe mea(uresit became not an obie6t\nOF prediction and choice, but Of indil-\npeniable neceflity, to afert our indepen-\ndence, which with many difficulties\nand much Iufering, wa at length fe-\ncured. l have long fattered myfclf\nthat might be gathered to the alheS\nOf my Fathers, leaving unimpaired and\nunafiailed, the liberties 70 dearly pur-\nchaled f; and that | ihould be fummon-\ned iecond time to act, in fuch fcenes\nOf anxiety, perplexity and danger as\nWar Of any kind always exhibits. II\nmy good fortune fhould not correfpond\nwith my earnef wilhes, and | ihould\nbe obliged, TO act with you, as with\nyour ancefors, in defence of the hon.\nour and independence Of our country.\nfincerelY with that none of gou may\never have your contancy of mind, and\nltrength Of body put to 10 fevere a triaI\nas to be compelled again in your ad.\nvanced age to the contemplation and\nnear profpe6t, Of any war Of offence OF\ndefence.\n\n\n1t would neither Be conftent with\nmy character nor yours, on this occa-\nlion, to read leaonS to gentlemen ol\nyour education, conduit, and character;\nIf however might be indulged the pri.\nvilege of father, fhould with the\ntendereft affection recommend to your\nferrous and confant confederation that\ntcience and morals are the great pillars\non which this country has been raifed\nto its prefent population, opulencc and\nprolpsrity; and that thefe alone can\nadvance, fupport and.preferve.it.\n\n\nWithout wilhing to damp the. ardour\nOF curioiity, or influence the freedom\nOf inquiry, viii hazard prediction\nthat, after the mott indultrious and inn\npartial relearches, the longef liver Of\nyou all, will find no principles, inltitu.\ntons, or fyltenis Of education more fiji\nin general, to be tranfmitted to your\nPolterity than thole YOU haye received\nfrom your anceltors.\n\n\nNo Profpe6 or fpe6taclc could excite\nitronger icnGbiIity ii my bolom than\nthis which now prelents itfelf before me.\n| with you all the pure Joys, the fan\nguine hopes, and bright prolpe6swhich\nare decent ar your age; and that your\nlives may belong, honourable and prof\nporous, in the conltant practice Of be.\nnevolence 10 men, and reverence to the\ndivinity, in country pcrfcvering in\nliberty, and increafng in virtue, power\nand glory.\n\n\n/ The ientiments of. this addrefa, every\nwhere expreded in language as chale\nand plodel, as it iS.elegant and matter\nly, which would 10 honour to the youth\nOF any country, have raiied a monument\nto your fame, more durable than brafS\normarble.-Thc Youth of all America\nmutt exult in this carly famPle, at the\nfeat ofgovernment, Of their talents, sc",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1379,
+                    "y0": 979,
+                    "x1": 2574,
+                    "y1": 1215
+                },
+                {
+                    "x0": 1526,
+                    "y0": 1234,
+                    "x1": 1950,
+                    "y1": 1275
+                },
+                {
+                    "x0": 1372,
+                    "y0": 1415,
+                    "x1": 2567,
+                    "y1": 7831
+                }
+            ],
+            "bbox": [
+                1372,
+                979,
+                2574,
+                7831
+            ],
+            "full_article_id": 9,
+            "id": "9_1798-05-21_p1_sn83045634_00332895059_1798052101_0016.json"
+        },
+        {
+            "object_ids": [
+                14,
+                15,
+                9
+            ],
+            "headline": "National Concerns.\n\nDocuments from our EnOoys.",
+            "article": "CThe following are The Documents mentioned\nin the lat Gazete-which the PTeGdent tranf\nmitted to both houfes Of Congrels On the\n4th infant.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3902,
+                    "y0": 986,
+                    "x1": 4923,
+                    "y1": 1121
+                },
+                {
+                    "x0": 3855,
+                    "y0": 1717,
+                    "x1": 4976,
+                    "y1": 1826
+                },
+                {
+                    "x0": 3828,
+                    "y0": 1872,
+                    "x1": 5023,
+                    "y1": 2134
+                }
+            ],
+            "bbox": [
+                3828,
+                986,
+                5023,
+                2134
+            ],
+            "full_article_id": 10,
+            "id": "10_1798-05-21_p1_sn83045634_00332895059_1798052101_0016.json"
+        },
+        {
+            "object_ids": [
+                24,
+                10
+            ],
+            "headline": "lit Boeoa,",
+            "article": "The Young Men have no lefs difpIayed love\nfor their country The following Addrefs\nhas been forwarded 10 the Prcfdent, Ggned\nby upwards of ELEVEN HUNDRED\nYoung Men, from the age of I6 TO \"A.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3029,
+                    "y0": 1831,
+                    "x1": 3373,
+                    "y1": 1913
+                },
+                {
+                    "x0": 2607,
+                    "y0": 1932,
+                    "x1": 3795,
+                    "y1": 2255
+                }
+            ],
+            "bbox": [
+                2607,
+                1831,
+                3795,
+                2255
+            ],
+            "full_article_id": 11,
+            "id": "11_1798-05-21_p1_sn83045634_00332895059_1798052101_0016.json"
+        },
+        {
+            "object_ids": [
+                28
+            ],
+            "headline": "",
+            "article": "The FOREGOING Addrefs was received By the\nPREsTDENT in Perlon; who with counts\nnance eHprsifirc cf the plcafure he felt, re-\nturned The folou~lrS AnT~er in wh ch i\nhappily blended the 4 gni;y Of the Chief Nd\nCitrate and The affection Of the Father.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 191,
+                    "y0": 7770,
+                    "x1": 1373,
+                    "y1": 8173
+                }
+            ],
+            "bbox": [
+                191,
+                7770,
+                1373,
+                8173
+            ],
+            "full_article_id": 29,
+            "id": "29_1798-05-21_p1_sn83045634_00332895059_1798052101_0016.json"
+        }
+    ]
+}

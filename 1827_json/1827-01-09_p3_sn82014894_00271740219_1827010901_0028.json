@@ -1,0 +1,968 @@
+{
+    "lccn": {
+        "title": "American watchman and Delaware advertiser.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2576-7445",
+        "lccn": "sn82014894",
+        "start_year": "1822",
+        "end_year": "1828",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [
+            "sn82014895"
+        ],
+        "successors": [
+            "sn82014393"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn82014894",
+        "edition": "ed-01",
+        "date": "1827-01-09",
+        "pages": [
+            "seq-4",
+            "seq-1",
+            "seq-3",
+            "seq-2"
+        ]
+    },
+    "page_number": "3",
+    "scan": {
+        "lccn": "sn82014894",
+        "edition": "ed-01",
+        "date": "1827-01-09",
+        "page": "3",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn82014894/1827-01-09/ed-1/seq-3.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn82014894/1827-01-09/ed-1/seq-3/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn82014894/1827-01-09/ed-1/seq-3/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn82014894/00271740219/1827010901/0028.jp2",
+        "height": 5616,
+        "width": 3560
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2473,
+                "y0": 3395,
+                "x1": 3285,
+                "y1": 4129
+            },
+            "class": "article",
+            "raw_text": "yVyHE subscriber will expose to public sale The house\n\n\nOf Nathaniel Wolfe Chrstiana Bridge, on Saturday\nthe 9th of January, 1897 at O'Clock, valuable FARM\nhighly improyed situate thin mile Of the village Of\nChrsana Bridge, and eight miles Of the Borough of Will\nmineton Newcastle County. The farm contains eglty-\nfive acres, more or less The soil il of superior quality\nand IN very fertile and productive state. There is pro.\nporonabe part of woodland and meadow and ,e residue\narabic land divided into five fels with never\nfailing stream of water head Of which on said\nfarm spring neary equal to the celebraed Spa Part\nOf which farm is welset and divided with young aud l.\nOf the best selection The improvements consist Of\ncomfortable dwelling house With kitchen adjoining,\nwith necessary out buildings The situation is high and\nhealthy and convenient different markets Possession\nwill be given The 25h of March, 1927 and an ndspu-\ntable title. further description of the premises is deem\ned unnecessary il is presumed any person wishing\npurchase would view the previously Conditions\nmade known the day of sale JAMES EVANS.\n\n\nChristiana Bridge, January S, 1897. 18-6p",
+            "legibility": "Questionable",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2556,
+                "y0": 3338,
+                "x1": 3171,
+                "y1": 3388
+            },
+            "class": "headline",
+            "raw_text": "Public Sale Of Real Estate.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 38,
+                "y0": 4703,
+                "x1": 837,
+                "y1": 5292
+            },
+            "class": "article",
+            "raw_text": "SRmbIy\n\n\nGentlemen Of the Senate\n\n\nAnd Of The House Of Representatives..\n\n\nIn closing my exercise of he supreme executive\npowers Of the Stale do not perceive the neccSsty\nOf recommending to your consideration any mea\nsures which have not been heretofore submitted TO\nyou by myself or by my predecessors, or which the\nGeneral Assembly has not already had under its\nnotice. This consider strong proof Of the\nhappy condition of our fellow citizens. We are in\nmore danger OF suffering by innovations, than from\ndeficiency OF legislation. Our State constitution\nand the constitution Of the United States arc sui\nClient to insure us all our rights and privileges a\npeople, and, a, long as they BE- preserved, to",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 297,
+                "y0": 4593,
+                "x1": 596,
+                "y1": 4642
+            },
+            "class": "headline",
+            "raw_text": "MESSAGE",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -2
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 38,
+                "y0": 4650,
+                "x1": 837,
+                "y1": 4730
+            },
+            "class": "author",
+            "raw_text": "0fthe Governor Of Detaipare to the General As.\n\n\nsembly",
+            "legibility": "Questionable",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2477,
+                "y0": 2698,
+                "x1": 3290,
+                "y1": 3037
+            },
+            "class": "article",
+            "raw_text": "AN Saturday next. the 13 inst at 10 O'Clock in the\n\" morning. viii be sold at public sale the ia, occ-\npied By Robert McFaln, about mile from Wilmington,\non the turnpike road leading 10 Newport all the joint\nstock belonging Robert McFarin and the assgnees OF\nWilliam Warner. The stock is follows: pair of ex.\nceent oxen, IL cows-1 bull, herse and colts The\nterms will be made known al the sale by\n\n\nROBERT McFARIIN,\n\n\nAnd The .4ssiynees Of Hin Ttarney.\nJan. 3, 1927. l8--2t",
+            "legibility": "Questionable",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 2503,
+                "y0": 2641,
+                "x1": 3246,
+                "y1": 2694
+            },
+            "class": "headline",
+            "raw_text": "Positive Sale, to Close Concern.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1670,
+                "y0": 206,
+                "x1": 2478,
+                "y1": 1282
+            },
+            "class": "article",
+            "raw_text": "lion OF slaves ;\"--snd also resolution Of the Geo\neral Assembly Of the State of Louisiana non con\ncuring in the aforesaid resolutions adopted by The\nGeneral Assembly Of the State OF Ohio, al their\nsession 10 1924, proposing plan for the gradual\nemancipation of slaves.\n\n\nBlessed as we are and have been with peace at\nhome and abroad, with plenty in our land, and with\nreasonable degree Of health at presen, and through\nthe last summer and autumn, propose to you,\ngentlemen, that you should Sc: apar, day, during\nyour session, and recommend the same to be kept\nby the people of the State, as day Of prayer and\nThanksgiving TO Almighty God for his goodness\nhis raerces and all other blessings of his providence\nThe sincere alteration and grateful offering OF\nthanks OF a whole people may be an acceptable ser\nvice to Him, from whom cometh every good and\nperfect gift and who hath bountfuy bestowed on US\nthe comforts OF this lfe and the means of eyerlast\nng salvation.\n\n\nBefore bid you adieu, must beg you, gentle\nmen, to accept my sincere thanks for the courtesy\nwhich have received from the Legislature during\nmy adminisration-an administration certainly not\nfaul,less. but without any faults arising from nen-\n!ion, or from any evil motives\n\n\nSAMUEL PAINTER.\n\n\nDorer, January a, 1897.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1661,
+                "y0": 1926,
+                "x1": 2465,
+                "y1": 2339
+            },
+            "class": "article",
+            "raw_text": "Messrs. r. PORTER & G. W. MrTz Of this BOROUGH\nhave issued Proposals for publishing the Fifth Volume Of\nThe Laws of Delaware II is seldom that even a second\nhand copy Of the 5h vol Of the Of this State can be\nhad, and then only at very high price. Persons, there\nfore, who wish 10 procure copy reasonable terms,\nwould do well to avail themselves Of this opportunity with\nout delay, the work will he put press in ABOUT 5\nweeks, and few if any, copies will be printed than\nare subscribed for The volume will be ready for delivery\nabout the first Of June next and the price TO subscribers\nwill be 81, bound.\n\n\nsubscriptions received at this Office",
+            "legibility": "Questionable",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2473,
+                "y0": 3101,
+                "x1": 3285,
+                "y1": 3317
+            },
+            "class": "article",
+            "raw_text": "IL persons having demands against the of JoHx\nIA FLEMING, deceased, late Of this Borough, are re-\nqested to present them duly aested for settlcuent and\neither of the subscribers ALLEN THOMSON\n\n\nJAMES GARDNER, Erecntors.\nWilmington, Del, 9th JAM, 1897 l6-2m",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 2495,
+                "y0": 3001,
+                "x1": 2689,
+                "y1": 3032
+            },
+            "class": "headline",
+            "raw_text": "Jan. 3, 1927.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -2
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2754,
+                "y0": 3044,
+                "x1": 3000,
+                "y1": 3094
+            },
+            "class": "headline",
+            "raw_text": "NOTICE.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2486,
+                "y0": 329,
+                "x1": 3307,
+                "y1": 2620
+            },
+            "class": "article",
+            "raw_text": "\nThe ship Josephine. Captain Coles. fiom Liver.\npool, anchored below the Narrows yesterday alter\nnoon. BY this arrival The Editors OF the CONNER\ncial Hduertispr have reeeived regular file Of Lon.\ndon papers TO the evening Of tile 18th inclusive.\n\n\nParliament re-assembsd on the 18th.\n\n\nA letter from Liverpool, says-TEe complaints\nOf dullness in trade rather increase We have very\nfiat accounts from Manchester.\n\n\na Glasgow paper says G the poor laboring peo\nple are now obliged 10 wash their clothes without\nsoap, go to bed without candle, and to live on\noatmeal, potatoes, and fish, and such other articles\nas are the produce Of the districts in which they\nreside\n\n\nThe woolen trade OF Saddle worth, which depends\nmuch upon exports, principally to The States con.\ntinues extremely depressed. In the township Of\nDELPHI alone, there are At present no fewer than\n$500 persons Oh the list of paupers.\n\n\nThe artisans in Lancashire and Yorkshire are in\ndeplorabie state. Many families once in the en-\nIoyment OF many comforts, now unable by the\nmost arduous labor, to procure the common neces-\nsaries of life.\n\n\nA branch Of the Bank # England is to be opened\nin Liverpool. Samuel Turner, Esq. ia appointed\nchief manager.\n\n\nA paper of the last date says--\"It is stated on\ngood authority that the Turks have at last yielded\nto the remonstrances of England and France on The\nsubject oi the Greeks and that arrangement los\nthe independence of Greece will be made, on terms\nless favorable to the Porte than has been formerly\nproposed\"\n\n\nThe Calcutta Government Gazette contains an\naccount OF the British agent at he Burmese court\ntaking possession Ct the newly acquired territory in\nBuim nah, which was performed about the end of\nMarch, by the agent, MIR. Crawfnrd, 10 company\nwith several officers, and Mr. Judson, the American\nmissionary.\n\n\nThe Portuguese Minister Of War writes from\nFaro. that the rebellion OF Tavira is wholly pus\ndown, and that it was almost entirely confined to\nthe military; not 20 Agai yians being found imph-\nGated,\n\n\nBY the ship Cowper, Capt. Uran, arrived a, New\nYork on Saturday last, from London, London papers\nto the evening Of the 2lst Of November, inclusive.\nhave been received.\n\n\nThe Russian beiligerent operations against Persia\nare suspended by the accounts from Odessa\nNothing will be done Till next spring. The Rus\nslams have great deserts and mountains TO cross be-\nfore they reach the Persians. Abbar Mira\nwas defeated on The l3ih September.\n\n\nThe Turkish feet has returned TO The Dardanel.\nles without attack king Samos. The Mediterranean\nswarms with Greek pirates.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 2618,
+                "y0": 250,
+                "x1": 3277,
+                "y1": 330
+            },
+            "class": "headline",
+            "raw_text": "ApW FORK. jan. 6.\nLATEST EROM ENGLAND.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1661,
+                "y0": 5058,
+                "x1": 2465,
+                "y1": 5287
+            },
+            "class": "article",
+            "raw_text": "DlED-On FRIDAY morning last, Mr. JOHN FLEMING,\nGrocer, native of Scotland, and for many years nhab\nliant Of this Borough.\n\n\nMIR FLEMING held in the highest estimation by his\ncircle Of acquantances truly honest man,\nwho studied 10 discharge his duty 10 God and bis fellow\ncreatures",
+            "legibility": "Questionable",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1665,
+                "y0": 4918,
+                "x1": 2461,
+                "y1": 5033
+            },
+            "class": "article",
+            "raw_text": "MARRlED-On Thursday the 4h inst, by the Rev.\nJohn r. Peckworth, Mr.. JOHN HEAzLETT Of Philade.\nphia, to Miss ANN ROBINSON of this Borough.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 836,
+                "y0": 355,
+                "x1": 1640,
+                "y1": 4555
+            },
+            "class": "article",
+            "raw_text": "out the Union, iearfuliy iorebode, that the love {\ncountry Is becoming weak principle Of action, an\nhat seihshness 81 powerfully enters into all tn\nmotives for such novelties, that the noble strucur\nwhich has been erected \"to form more perfec\n=\" union, establish justice, ensure domestic tran\nqui!lity. provide for the common defence, promot\nk\" The general welfare and secure the blessings q\nLiberty to ourselves and our posterity,\" will b\nOverwhelmed in destruction, and that from it's ru\nms VIII arise dlscor1, the foterunner of slavery an\ntyranny. Evils of this kind should be resisted il\ntheir origin. and emphacslly so by us for OF al\nthe States in the Union. TO none other is it so pre-\ncminently important that the General Governmen\nshould be preserved entire and unimpared Shou\nthe constitution of the United States be so patche\nand altered that the warm attachment now felt 70\nI, by the people should grow cold or even lukewarn\nso that it shall be injured by every unfriendy attack\n10 what ark shall we fly for temporal safety ant\nhappiness! My apprehensons such that wou\nmoi, had The power. permit single pin to be re\nmoved from his sacred temple OF liberty nor wou\n\n\nsuffer any lrappings 10 be added under the pre-\ntence OF establishment improvement :-and\nearnestly recommend 10 you, Gentlemen, not /,\nlisten with favor to any propositions of the kind.\n\n\nAnother subject, often repeated, bu, still no, h\nless important, IS SO forcbly impressed on my mnt\nthat will not omit this last opportunity Of urging\nupon your consideration. ! refer TO edncation,-\n\n\n\n\n\nand writing, and Of the knowledge OF arithmetic\nand Of foreign and dead languages-bu, to the for\nnation oil the manners and minds Of youth and t,\nthe observance OF moral duties. The cplne 0\nthe taind. the resistance and correction us the evi\npropeusiies oi cur nature the restraining and keep\ning within bounds our wful appetites, he cultiva\n/ ion of benesolence to man and love to our Creator\nshould be the first and constant lessen taught Il\nyouth well TO promote their own indvidua\nI t,r,p nIaa tba,, hair\nrake them incnfruplible patriots. So powerful wa\nthe effect OF education amnng the l.acedemonian'\nthat although beaten in battle, they could not bt\nconquered until their manner of educating thei\n! children was changed Education must depens\nupon The public institutions, and SUI sffec, pa\nrents and ss soon as they sc; the example and in\nsill into the children proper principles. The childret\nwill become good aud .rtuous ciZens, and thei\nurg passion will be the lore Of their country\nThe learning TO be gained in schools is sesondar,\noalect--nselul IN ptapo ton TO The subsection o\nThe passions, aud calculated to cmbellish the virtues\nOf we'll regulated mind TO enlarge and stimulate\nhe depra,uy OF corrupt heart.\n\n\n| received on the fourth day Of June last cerl\nfea'e under the corporate seal of the President\n| Directors and Company OF the Bank OF Smyrna\nani the hand OF Isaac Davis, PresIden. OF the salo\nBank, dated at Smyrna, the first day of June, one\nthousand eight hundred and twenty six, whereby\nThe SAID President, Directors and Company OF the\nBank Of Smyrna do certify That they, the p rsi\ndent, Directors and Company Of the Bank OF Smyr\nma aforesaid have accepted and do accept the act O\nthe General Assembly OF the State of Delaware\nentitled An additional supplement TO the act tc\nestablish Bank and to incorporate company IN\nder the name of the Bank oil Smyrna\" passed .,\nDover. January 25 h. 1895, as part Of their char\nOf iucor poratinn - which certificate is filed in\nthe Office OF the Secretary Of State.\n\n\n/ also received on the nneteenth day Of October\nlast, certificate under the corporate seal OF the\nPresident, Directors ard Company Of the Bank o\nDelaware and the hand Of Joseph Baily, President\nOf the said Bank. dated the sixteenth day OF October\none thousand eight hundvcd and twenty six, whsre\nby the said President, Directors and Company o\nthe Bank of Delaware, do certify that they, the\nsaid President, Directors and Company Of the Bank\nOF Delaware, have accepted and do accept the ac,\nOf the General Assembly OF the State OF Delaware\nentitled, \" an act securing payment by the Banks o\nthis State, ot their notes in specie\" passed the Soh\nday Of January. eighteen hundred and twenty five\nas par. Of the charter Of incorpor alton oi the\nPresident, Directors and Company of the Bank o\nDelaware, pursuant 10 the provisions Of said act anc\nthe supplement thereto, passed on the Cd day o.\nFebruary, 1926 (which said certificate is filed il\nthe office of Secretary OF State.\n\n\n| lay before you resolutions Of the General AS\nsemblies Of The States OF Maine, Vermont and In\ndiana disappearing the amendments 10 the Const\ntuition OF the United States proposed by the reso\nluilons Of the General Assembly Of the State o.\nTennessee Of the 25th November, 1895. relative\nto the election of Psesidrnt and Vice President o\nthe United States, and providing that no membel\noil Congress shall be eligible TO any Office within\nthe gift nomination Of the President of the Uni\nted States during the period for which he shall have\nbeen elected, and for six months thereafter cxcep\nappointments in the regular army or navy OF the\nUnited States.\n\n\n| l also communicate a resolution of the Genera\nAssembly OF the State Of Kentucky disappearing\nthe amendments to the Constitution OF the United\nStates, proposed by the resolution Of the Genera",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2473,
+                "y0": 4194,
+                "x1": 3294,
+                "y1": 5292
+            },
+            "class": "article",
+            "raw_text": "at ROBERTsO.N' & LITTLE'S OFFICE!!\n18 80 SIS aprize Of S15l4-a whole ticket,\nl8 80 IS prize of $1,000 ditto.\nBesides number of prizes of $780, $50, &c, in the De-\nSTATE Lottery, 5 Glass; vhic at se4rcas-\ntie We.lesday last. all obtained Robertson g LIZ\ntea\n\n\nThe fortunate holder Of the prize of sl5l4 citizen\n\n\nof Mar Wand.\n\n\nOf the prize Of $1,000 is een,le-\n\n\nman Of this Borough.\n\n\nTOMORROW\n\n\nCVednesday January 1oM, 1927 J\nviii be drawn at Philadelphia, the brilliant scheme\ntwenty-sixh class, Union Canal Lottery,\nprize OF S25000; of 10000 l Of 5000; of 1900;\nof 3O00 Of 1882 Is OF 1000; IS Of 500 50 OF lU0\nlo4 Of 50; 1900 Of i2 10 SOB ef 6. 1920 Hrizes.\nTicket only Sc 90 Quarter 81 so\nHalf So 10 Eighth rs\nOn Wednesday, the I7h January will be drawn Hartford,\nCon- the Connecticut Ssate Iorp fourth Glass; for the\nbenefit of the Bishops Fund. so number Lottery\ndrawn ballots.\n\n\n4scieme.-1 prize Of $4,000; of 1000; / of 1914; S\nOf 1000; 10 Of 40o So If 100; 50 uf so; i04 OF 10;\n1900 Of a; 10608 Of 2 1920 Prizes.\n\n\nTickets S2z-llalves Sl-Quarters so Gents\nTickets and Shares, in great variety OF numbers for\nsale\n\n\nRobertson s Iittle's,\nLottery of.ce, No %. Market S., Wilmington\nJanuary 9Th",
+            "legibility": "Questionable",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 2648,
+                "y0": 4141,
+                "x1": 3110,
+                "y1": 4195
+            },
+            "class": "headline",
+            "raw_text": "MORE PRIZES II!",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -2
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 2477,
+                "y0": 4198,
+                "x1": 3184,
+                "y1": 4239
+            },
+            "class": "author",
+            "raw_text": ".qT ROBERTsO.r &. LIT1LE's Off",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1657,
+                "y0": 2369,
+                "x1": 2456,
+                "y1": 4866
+            },
+            "class": "article",
+            "raw_text": "\n\n\nThe Natonsl Tnteligencer Of Friday and Saturday ba\nnot been received at this Office This is snail dsap\ncontinent, as we depend principally that paper for\ncongressional news. We understand that only two\noers OF the lnelgencer have been received the Pos\nOffice in this place since Friday morning, and those w,\ncame yesterday.\n\n\nSince the above written have received the In\nteligencer of Monday which to hand this morning\nWe as well all the subscribers (two only excepted)\nthai paper who receive it the Post Office here are still\nwithout numbers for Friday and Saturday last We\nassure the Editors OF the Inehgencer that the sappoint\nment to their subscribers particularly at this\nson.\n\n\nWe again acknowledge our obligations to ID. RoDsRY\nEsq to whom indebted for copy Of the Documents\nfrom The Navy Department. the Post Master General and\nthe Commissioner of the General Land Office Such Of\nreaders may wish to examine them, can do SO By\ncalling at the Office\n\n\nWe have nothing from Dover except the Governor.\nMessage which is certainly remarkable for thing, in\nthis day OF long speeches. and that is, its breyity.\nThe Richmond Enquirer says that the paintings and\nbuss belonging to the estate Ut Mr. Jefferson will not be\noffered for sale at the vendue which is to take place al\nMonticello the 18th inst but will be to Of\nlarge cities. and there sold after due notice.\n\n\nrh0ss young persons desTos Of forming J4S,\nSaturday evening at 6t O'clock, at JAMES C. AILEs's\n\n\n\n\n\n100000\n\n\nAPPOINTMENTS\nBY the President Of te United Sates NTH the ad,ice aiia\n\n\nconsent Of The SenGfe\n\n\nWILLIAM BEACH LAwREsCE, of New York. 10 be Secre\ntay of Legation to Great Britain, place of John A. King\nresigned.\n\n\nWILLIAM RossELL, of New Jersey, to be Judge Of the\nUnited States for the District Of New Jersey n the place\nOf WIN S. PEESISGToN deceased.\n\n\nSAMUEL BErTs. of New York, to be District Judge\nfor the Southern District Of the State Of New York, vice\nJudge VAN NESS, deceased.\n\n\nTHOMAS FINDLAr Of Maryland, to be Marshal of the\nUnited States for the District of Maryland, vice Paul\nBENTALoU deceased.\n\n\nWashington, January 4.-It is reported (and\nbeleved) tina. JOEL X. PoINsETT has been\nnominated by the PRESIDENT Of the United States\nto the Senate, to be Minister to Panama, alias Tacu\nbaya, vice RICHARD c. ANDERSON deceased.\n1t is also reported (and belieyed) that WILLIAM\nJONES has been nominated to be Collector Of the\nRevenue for the port of Philadelphia, vice JOHN\nSTEELE, resigned.\n\n\nWe learn, unofficially, that the following gentle\nmen have been appointed by the President OF the\nUnited States, with the advice and consent of the\nSenate, to be Directors Of the Bank Of the United\nSa,es the part Of the Government, for the ensu.\ning year, riz:\n\n\nNicholas Biddie, oi Pennsylvania.\n\n\nJOHN .N'Kim, Jr. Of Maryland.\n\n\nTictor Da Pont, Of Delaware.\n\n\nCampbell p. White, OF New York.\n\n\n-. Hu4nI zEI",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 20,
+                "y0": 508,
+                "x1": 842,
+                "y1": 4559
+            },
+            "class": "article",
+            "raw_text": "Sates 10 cause the reserved Salt Springs, in the\nState of Missouri, to be exposed to sale; and the\n\n\nbill 10 provide for taking evidence in the Courts oil\nthe United States in certain cases; were severally\nread third time and passed.\n\n\nThe Senate adjourned 10 Monday.\nHOUSE OF REPRESENTATIVES.\nOn motion Of Mr.. Wright, il was\nResolued, That the Committee of Ways and\nMeans be instructed to inquire into The expedency\nOf remitting to the Theological Seminary OF the\nProtestant Episcopal Church, and 10 Kenyon Col\n\n\nlege in Ohio, the duties imposed on certain arll\ncles pratuitously presented to said seminary and\ncollege by certain benevolent citizens in England\nand imported into the United States for the use o.\nsaid seminary and college\n\n\nThis being day appropriated for the conSldera-\n\n\nton OF private business, the opeaher called The or\nders Of the day, when\n\n\nMr. Burges moved to postpone all the othe,\n\n\nders Of the day TO take up the bill to provide for the\n\n\nsurviving officers OF the army OF the rcsolution SC\nAyes 80. Noes 81.\n\n\non motion of Mr.. Burges, the House resolved\nitself into Committee of the whole these bills\nMr.. Condict 10 the Chair.\n\n\nSaturday. JANUARY 6.\nThe Senate did not sil 10 day.\nHOUSE OF REPRESENTATIVES\nOn motion OF Mr.. Brent, il was\nRESOLVED, That the Committee Of Ways and\n\n\nMeans be instructed TO inquire into the expediency\nof making an appropriation to increase the salary\nof the Postmaster General\n\n\nEXPLOITATION OF FREE PERSONS OF COLOR.\nMr. lYeems offered the following ssoution.\nResolved, That special Commit, ee be appointed\n\n\nby this House 10 inquire into the et ediency OF ma\n\n\nking an appropriation Tor the transpo tatnn Of hu,h\nfree People oi color as may wish TO oe sent 10 The\nCOLONY at Liberia\n\n\nMr. Peems said il his n,c ton, at the\n\n\nOF offering subject Of tins nature iur the conserat ion of\n\n\nthis honorable b,dy, attempt enterg into the merits\n\n\nthe proposition, because he wond ash it remain for\n\n\nconsideration; but with HE Indulgence OF tue House, he\nwould stale, in condensed pnss blc,\n\n\nthat had influenced his mind, with the hope thai i\n\n\nmight induce every member Of Congress to examine wei\n\n\nThe subject In Mary and, SAID he, the State which have\n\n\nthe honnr in part to represent ii has been found mprac\n\n\ntcabe to extend to this unhappy part of community,\n\n\nequal rsht, crmauls in the blessings OF peniten\n\n\niay confinement. Al FIRST, did, un wa, found tha,\n\n\nin few years, building covering en- Or twelve acres\nwould not, perhaps contain them. Banishment, there.\n\n\nfore, has been substituted, and although furnished with\n\n\ncopy Of the record they have security for future ber\n\n\ny On the contrary, hey are purchased aud carried to\n\n\ndistance and, it is verify believed that they\n\n\nbeyond the coafnes Of Sate, than they robocd ut\n\n\nthat evidence and carried into slavery for life Regretted,\n\n\nthis must be, by all men Of feeling there is no remedy\nit would seem, leG that u tru, whilst en-\n\n\ncavong prevent the slave trade being any longer carri\ned by American xbroal, are, in fact, carry\ning On at home\n\n\nAnother reason is SIR that satisfied of their dcgra\nded sitaton, large number Of the free blacs Of Mary\nland have citizens Of Baltimore the\nsubject, making strong sppea 10 ,cr best feelings OF\ncharity and justice; inviting assa Sufficient only to\nwatt them the land OF their oietatiefs-to the young\n\n\ncolony Liberia, where they expec 10 be able as humble\nInstruments in the hands OF the treat Ai 10 cause ne\n\n\nwilderness to rejoice, and te heather become the Worship\n\n\npers of the living God. They have reminded Of our\n\n\nancestors when forced by persecution 10 emsrae 10 this\ncountryhen savage wilderness no\" the Paradise OF\nthe world And shall not enleayo TO do something 10\nthis call thereby aiding in the very oblec, perhaps,\nwhich intended to be Produced whea tui !oretahes\nQdaI hpInU tlRtn here nnAP q\nSent sir, to view any other hight, bele eS a. do,\nthat the right of properly of this purchase th\n\n\nmoney has been recognized under every pcnsston from\nGod 10 Il is the justice and humanity q tc act sir,\nthat influences my conduct, and not bcie thai there\nany thing like mine that may be blo@nup with match\nMr.. w. was here interrupted ny Mr.. Webster,\nwho made point OF order inqui1ing if il in\norder to discuss resolution when the person who\noffered it himself expressed his intention to move\nthat il lie the table-a mo'lon 10 lay any propo\nsltlon upon the table not beng debatshle.\nAlter some explanations by the Chdtr,\nMIR. Webster demanded that the previous ques\nlion Of consideration be taken.\nThe question was accordingly taken, viii the\nHouse now consider the resolution Aud it was dc.\ncded in the negative by large majority.\nSo, for the present, the subject passed off.\nMr.. Barney moved the following resolution:\nResolved, That the Committee Of Ways and\nIl Means be instructed to inquire into the expedency\nOf reducing the duties on Teas. Wines Coffee, and\n\\ Salt Also, into the propriety Of requiring cash\n4 payments for duties on foreign manufactures.\nThis resolution was read aud was rejected by the\nHouse.\n\n\nThe engrossed joint resolution directing the Sec\nretary OF the Navy to apply to the Government Of\nPennsylvania for jurisdiction over certain ands at\nthe Navy Yard at Philadelphia, was read the third\n\n\n'Ime passed. and sent to the Senate for concurrence.",
+            "legibility": "Questionable",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 42,
+                "y0": 197,
+                "x1": 855,
+                "y1": 273
+            },
+            "class": "headline",
+            "raw_text": "Committee then rose, reported progress, and o..\ntanned leave TO sit again.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": -1
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 1665,
+                "y0": 1842,
+                "x1": 2469,
+                "y1": 1900
+            },
+            "class": "article",
+            "raw_text": "Frowa indgnantyupon the dawning\nono portion OF the Union from another' WASHINGTON.",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 1797,
+                "y0": 1781,
+                "x1": 2325,
+                "y1": 1826
+            },
+            "class": "author",
+            "raw_text": "TUESDAY, January 8, 1927",
+            "legibility": "Questionable",
+            "full_article_id": 23,
+            "reading_order_id": -1
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 1652,
+                "y0": 3088,
+                "x1": 2456,
+                "y1": 3199
+            },
+            "class": "article",
+            "raw_text": "We have nothing from Dover except the Governor,\nMessage, which certainly remarkable for thing\nthis day of long speeches, and that is its breyity",
+            "legibility": "Questionable",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 1652,
+                "y0": 3444,
+                "x1": 2461,
+                "y1": 3585
+            },
+            "class": "article",
+            "raw_text": "gT Those young persons desrous of forming JUNIOR\nDebating Society,\"\" requested to attend meeting\nSaturday evening at 64 O'clock. at JAMES C. ALIENS\nSchool Room in Orange ST. Jan. 9, 1897.",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 1652,
+                "y0": 3237,
+                "x1": 2461,
+                "y1": 3405
+            },
+            "class": "article",
+            "raw_text": "The Richmond Enquirer says that the paintings and\nbusts belonging to the estate Of Mr. Jefferson will be\noffered for sale at the vendue which is take place\nMonticello the 18th inst but will be of our\nlarge cities, and there sold after due notice.",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 1657,
+                "y0": 2873,
+                "x1": 2456,
+                "y1": 3054
+            },
+            "class": "article",
+            "raw_text": "We again acknowledge obligations to ID. RoDsRr\nEsq to whom indebted for copy Of the Documents\nfrom the Navy Department. the Post Master General and\nthe Commissioner of the General Land Office Such Of\n\n\nreaders may wish examine them, can do SO b,\nallnr al tho ofic.",
+            "legibility": "Questionable",
+            "full_article_id": 28,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                10,
+                0
+            ],
+            "headline": "Public Sale Of Real Estate.",
+            "article": "yVyHE subscriber will expose to public sale The house\n\n\nOf Nathaniel Wolfe Chrstiana Bridge, on Saturday\nthe 9th of January, 1897 at O'Clock, valuable FARM\nhighly improyed situate thin mile Of the village Of\nChrsana Bridge, and eight miles Of the Borough of Will\nmineton Newcastle County. The farm contains eglty-\nfive acres, more or less The soil il of superior quality\nand IN very fertile and productive state. There is pro.\nporonabe part of woodland and meadow and ,e residue\narabic land divided into five fels with never\nfailing stream of water head Of which on said\nfarm spring neary equal to the celebraed Spa Part\nOf which farm is welset and divided with young aud l.\nOf the best selection The improvements consist Of\ncomfortable dwelling house With kitchen adjoining,\nwith necessary out buildings The situation is high and\nhealthy and convenient different markets Possession\nwill be given The 25h of March, 1927 and an ndspu-\ntable title. further description of the premises is deem\ned unnecessary il is presumed any person wishing\npurchase would view the previously Conditions\nmade known the day of sale JAMES EVANS.\n\n\nChristiana Bridge, January S, 1897. 18-6p",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2556,
+                    "y0": 3338,
+                    "x1": 3171,
+                    "y1": 3388
+                },
+                {
+                    "x0": 2473,
+                    "y0": 3395,
+                    "x1": 3285,
+                    "y1": 4129
+                }
+            ],
+            "bbox": [
+                2473,
+                3338,
+                3285,
+                4129
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-01-09_p3_sn82014894_00271740219_1827010901_0028.json"
+        },
+        {
+            "object_ids": [
+                14,
+                21,
+                1
+            ],
+            "headline": "MESSAGE",
+            "article": "SRmbIy\n\n\nGentlemen Of the Senate\n\n\nAnd Of The House Of Representatives..\n\n\nIn closing my exercise of he supreme executive\npowers Of the Stale do not perceive the neccSsty\nOf recommending to your consideration any mea\nsures which have not been heretofore submitted TO\nyou by myself or by my predecessors, or which the\nGeneral Assembly has not already had under its\nnotice. This consider strong proof Of the\nhappy condition of our fellow citizens. We are in\nmore danger OF suffering by innovations, than from\ndeficiency OF legislation. Our State constitution\nand the constitution Of the United States arc sui\nClient to insure us all our rights and privileges a\npeople, and, a, long as they BE- preserved, to",
+            "byline": "0fthe Governor Of Detaipare to the General As.\n\n\nsembly",
+            "bbox_list": [
+                {
+                    "x0": 297,
+                    "y0": 4593,
+                    "x1": 596,
+                    "y1": 4642
+                },
+                {
+                    "x0": 38,
+                    "y0": 4650,
+                    "x1": 837,
+                    "y1": 4730
+                },
+                {
+                    "x0": 38,
+                    "y0": 4703,
+                    "x1": 837,
+                    "y1": 5292
+                }
+            ],
+            "bbox": [
+                38,
+                4593,
+                837,
+                5292
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-01-09_p3_sn82014894_00271740219_1827010901_0028.json"
+        },
+        {
+            "object_ids": [
+                15,
+                2
+            ],
+            "headline": "Positive Sale, to Close Concern.",
+            "article": "AN Saturday next. the 13 inst at 10 O'Clock in the\n\" morning. viii be sold at public sale the ia, occ-\npied By Robert McFaln, about mile from Wilmington,\non the turnpike road leading 10 Newport all the joint\nstock belonging Robert McFarin and the assgnees OF\nWilliam Warner. The stock is follows: pair of ex.\nceent oxen, IL cows-1 bull, herse and colts The\nterms will be made known al the sale by\n\n\nROBERT McFARIIN,\n\n\nAnd The .4ssiynees Of Hin Ttarney.\nJan. 3, 1927. l8--2t",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2503,
+                    "y0": 2641,
+                    "x1": 3246,
+                    "y1": 2694
+                },
+                {
+                    "x0": 2477,
+                    "y0": 2698,
+                    "x1": 3290,
+                    "y1": 3037
+                }
+            ],
+            "bbox": [
+                2477,
+                2641,
+                3290,
+                3037
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-01-09_p3_sn82014894_00271740219_1827010901_0028.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "lion OF slaves ;\"--snd also resolution Of the Geo\neral Assembly Of the State of Louisiana non con\ncuring in the aforesaid resolutions adopted by The\nGeneral Assembly Of the State OF Ohio, al their\nsession 10 1924, proposing plan for the gradual\nemancipation of slaves.\n\n\nBlessed as we are and have been with peace at\nhome and abroad, with plenty in our land, and with\nreasonable degree Of health at presen, and through\nthe last summer and autumn, propose to you,\ngentlemen, that you should Sc: apar, day, during\nyour session, and recommend the same to be kept\nby the people of the State, as day Of prayer and\nThanksgiving TO Almighty God for his goodness\nhis raerces and all other blessings of his providence\nThe sincere alteration and grateful offering OF\nthanks OF a whole people may be an acceptable ser\nvice to Him, from whom cometh every good and\nperfect gift and who hath bountfuy bestowed on US\nthe comforts OF this lfe and the means of eyerlast\nng salvation.\n\n\nBefore bid you adieu, must beg you, gentle\nmen, to accept my sincere thanks for the courtesy\nwhich have received from the Legislature during\nmy adminisration-an administration certainly not\nfaul,less. but without any faults arising from nen-\n!ion, or from any evil motives\n\n\nSAMUEL PAINTER.\n\n\nDorer, January a, 1897.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1670,
+                    "y0": 206,
+                    "x1": 2478,
+                    "y1": 1282
+                }
+            ],
+            "bbox": [
+                1670,
+                206,
+                2478,
+                1282
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-01-09_p3_sn82014894_00271740219_1827010901_0028.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "Messrs. r. PORTER & G. W. MrTz Of this BOROUGH\nhave issued Proposals for publishing the Fifth Volume Of\nThe Laws of Delaware II is seldom that even a second\nhand copy Of the 5h vol Of the Of this State can be\nhad, and then only at very high price. Persons, there\nfore, who wish 10 procure copy reasonable terms,\nwould do well to avail themselves Of this opportunity with\nout delay, the work will he put press in ABOUT 5\nweeks, and few if any, copies will be printed than\nare subscribed for The volume will be ready for delivery\nabout the first Of June next and the price TO subscribers\nwill be 81, bound.\n\n\nsubscriptions received at this Office",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1661,
+                    "y0": 1926,
+                    "x1": 2465,
+                    "y1": 2339
+                }
+            ],
+            "bbox": [
+                1661,
+                1926,
+                2465,
+                2339
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-01-09_p3_sn82014894_00271740219_1827010901_0028.json"
+        },
+        {
+            "object_ids": [
+                28,
+                16,
+                5
+            ],
+            "headline": "Jan. 3, 1927.\n\nNOTICE.",
+            "article": "IL persons having demands against the of JoHx\nIA FLEMING, deceased, late Of this Borough, are re-\nqested to present them duly aested for settlcuent and\neither of the subscribers ALLEN THOMSON\n\n\nJAMES GARDNER, Erecntors.\nWilmington, Del, 9th JAM, 1897 l6-2m",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2495,
+                    "y0": 3001,
+                    "x1": 2689,
+                    "y1": 3032
+                },
+                {
+                    "x0": 2754,
+                    "y0": 3044,
+                    "x1": 3000,
+                    "y1": 3094
+                },
+                {
+                    "x0": 2473,
+                    "y0": 3101,
+                    "x1": 3285,
+                    "y1": 3317
+                }
+            ],
+            "bbox": [
+                2473,
+                3001,
+                3285,
+                3317
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-01-09_p3_sn82014894_00271740219_1827010901_0028.json"
+        },
+        {
+            "object_ids": [
+                18,
+                6
+            ],
+            "headline": "ApW FORK. jan. 6.\nLATEST EROM ENGLAND.",
+            "article": "\nThe ship Josephine. Captain Coles. fiom Liver.\npool, anchored below the Narrows yesterday alter\nnoon. BY this arrival The Editors OF the CONNER\ncial Hduertispr have reeeived regular file Of Lon.\ndon papers TO the evening Of tile 18th inclusive.\n\n\nParliament re-assembsd on the 18th.\n\n\nA letter from Liverpool, says-TEe complaints\nOf dullness in trade rather increase We have very\nfiat accounts from Manchester.\n\n\na Glasgow paper says G the poor laboring peo\nple are now obliged 10 wash their clothes without\nsoap, go to bed without candle, and to live on\noatmeal, potatoes, and fish, and such other articles\nas are the produce Of the districts in which they\nreside\n\n\nThe woolen trade OF Saddle worth, which depends\nmuch upon exports, principally to The States con.\ntinues extremely depressed. In the township Of\nDELPHI alone, there are At present no fewer than\n$500 persons Oh the list of paupers.\n\n\nThe artisans in Lancashire and Yorkshire are in\ndeplorabie state. Many families once in the en-\nIoyment OF many comforts, now unable by the\nmost arduous labor, to procure the common neces-\nsaries of life.\n\n\nA branch Of the Bank # England is to be opened\nin Liverpool. Samuel Turner, Esq. ia appointed\nchief manager.\n\n\nA paper of the last date says--\"It is stated on\ngood authority that the Turks have at last yielded\nto the remonstrances of England and France on The\nsubject oi the Greeks and that arrangement los\nthe independence of Greece will be made, on terms\nless favorable to the Porte than has been formerly\nproposed\"\n\n\nThe Calcutta Government Gazette contains an\naccount OF the British agent at he Burmese court\ntaking possession Ct the newly acquired territory in\nBuim nah, which was performed about the end of\nMarch, by the agent, MIR. Crawfnrd, 10 company\nwith several officers, and Mr. Judson, the American\nmissionary.\n\n\nThe Portuguese Minister Of War writes from\nFaro. that the rebellion OF Tavira is wholly pus\ndown, and that it was almost entirely confined to\nthe military; not 20 Agai yians being found imph-\nGated,\n\n\nBY the ship Cowper, Capt. Uran, arrived a, New\nYork on Saturday last, from London, London papers\nto the evening Of the 2lst Of November, inclusive.\nhave been received.\n\n\nThe Russian beiligerent operations against Persia\nare suspended by the accounts from Odessa\nNothing will be done Till next spring. The Rus\nslams have great deserts and mountains TO cross be-\nfore they reach the Persians. Abbar Mira\nwas defeated on The l3ih September.\n\n\nThe Turkish feet has returned TO The Dardanel.\nles without attack king Samos. The Mediterranean\nswarms with Greek pirates.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2618,
+                    "y0": 250,
+                    "x1": 3277,
+                    "y1": 330
+                },
+                {
+                    "x0": 2486,
+                    "y0": 329,
+                    "x1": 3307,
+                    "y1": 2620
+                }
+            ],
+            "bbox": [
+                2486,
+                250,
+                3307,
+                2620
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-01-09_p3_sn82014894_00271740219_1827010901_0028.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "DlED-On FRIDAY morning last, Mr. JOHN FLEMING,\nGrocer, native of Scotland, and for many years nhab\nliant Of this Borough.\n\n\nMIR FLEMING held in the highest estimation by his\ncircle Of acquantances truly honest man,\nwho studied 10 discharge his duty 10 God and bis fellow\ncreatures",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1661,
+                    "y0": 5058,
+                    "x1": 2465,
+                    "y1": 5287
+                }
+            ],
+            "bbox": [
+                1661,
+                5058,
+                2465,
+                5287
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-01-09_p3_sn82014894_00271740219_1827010901_0028.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "MARRlED-On Thursday the 4h inst, by the Rev.\nJohn r. Peckworth, Mr.. JOHN HEAzLETT Of Philade.\nphia, to Miss ANN ROBINSON of this Borough.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1665,
+                    "y0": 4918,
+                    "x1": 2461,
+                    "y1": 5033
+                }
+            ],
+            "bbox": [
+                1665,
+                4918,
+                2461,
+                5033
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-01-09_p3_sn82014894_00271740219_1827010901_0028.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "out the Union, iearfuliy iorebode, that the love {\ncountry Is becoming weak principle Of action, an\nhat seihshness 81 powerfully enters into all tn\nmotives for such novelties, that the noble strucur\nwhich has been erected \"to form more perfec\n=\" union, establish justice, ensure domestic tran\nqui!lity. provide for the common defence, promot\nk\" The general welfare and secure the blessings q\nLiberty to ourselves and our posterity,\" will b\nOverwhelmed in destruction, and that from it's ru\nms VIII arise dlscor1, the foterunner of slavery an\ntyranny. Evils of this kind should be resisted il\ntheir origin. and emphacslly so by us for OF al\nthe States in the Union. TO none other is it so pre-\ncminently important that the General Governmen\nshould be preserved entire and unimpared Shou\nthe constitution of the United States be so patche\nand altered that the warm attachment now felt 70\nI, by the people should grow cold or even lukewarn\nso that it shall be injured by every unfriendy attack\n10 what ark shall we fly for temporal safety ant\nhappiness! My apprehensons such that wou\nmoi, had The power. permit single pin to be re\nmoved from his sacred temple OF liberty nor wou\n\n\nsuffer any lrappings 10 be added under the pre-\ntence OF establishment improvement :-and\nearnestly recommend 10 you, Gentlemen, not /,\nlisten with favor to any propositions of the kind.\n\n\nAnother subject, often repeated, bu, still no, h\nless important, IS SO forcbly impressed on my mnt\nthat will not omit this last opportunity Of urging\nupon your consideration. ! refer TO edncation,-\n\n\n\n\n\nand writing, and Of the knowledge OF arithmetic\nand Of foreign and dead languages-bu, to the for\nnation oil the manners and minds Of youth and t,\nthe observance OF moral duties. The cplne 0\nthe taind. the resistance and correction us the evi\npropeusiies oi cur nature the restraining and keep\ning within bounds our wful appetites, he cultiva\n/ ion of benesolence to man and love to our Creator\nshould be the first and constant lessen taught Il\nyouth well TO promote their own indvidua\nI t,r,p nIaa tba,, hair\nrake them incnfruplible patriots. So powerful wa\nthe effect OF education amnng the l.acedemonian'\nthat although beaten in battle, they could not bt\nconquered until their manner of educating thei\n! children was changed Education must depens\nupon The public institutions, and SUI sffec, pa\nrents and ss soon as they sc; the example and in\nsill into the children proper principles. The childret\nwill become good aud .rtuous ciZens, and thei\nurg passion will be the lore Of their country\nThe learning TO be gained in schools is sesondar,\noalect--nselul IN ptapo ton TO The subsection o\nThe passions, aud calculated to cmbellish the virtues\nOf we'll regulated mind TO enlarge and stimulate\nhe depra,uy OF corrupt heart.\n\n\n| received on the fourth day Of June last cerl\nfea'e under the corporate seal of the President\n| Directors and Company OF the Bank OF Smyrna\nani the hand OF Isaac Davis, PresIden. OF the salo\nBank, dated at Smyrna, the first day of June, one\nthousand eight hundred and twenty six, whereby\nThe SAID President, Directors and Company OF the\nBank Of Smyrna do certify That they, the p rsi\ndent, Directors and Company Of the Bank OF Smyr\nma aforesaid have accepted and do accept the act O\nthe General Assembly OF the State of Delaware\nentitled An additional supplement TO the act tc\nestablish Bank and to incorporate company IN\nder the name of the Bank oil Smyrna\" passed .,\nDover. January 25 h. 1895, as part Of their char\nOf iucor poratinn - which certificate is filed in\nthe Office OF the Secretary Of State.\n\n\n/ also received on the nneteenth day Of October\nlast, certificate under the corporate seal OF the\nPresident, Directors ard Company Of the Bank o\nDelaware and the hand Of Joseph Baily, President\nOf the said Bank. dated the sixteenth day OF October\none thousand eight hundvcd and twenty six, whsre\nby the said President, Directors and Company o\nthe Bank of Delaware, do certify that they, the\nsaid President, Directors and Company Of the Bank\nOF Delaware, have accepted and do accept the ac,\nOf the General Assembly OF the State OF Delaware\nentitled, \" an act securing payment by the Banks o\nthis State, ot their notes in specie\" passed the Soh\nday Of January. eighteen hundred and twenty five\nas par. Of the charter Of incorpor alton oi the\nPresident, Directors and Company of the Bank o\nDelaware, pursuant 10 the provisions Of said act anc\nthe supplement thereto, passed on the Cd day o.\nFebruary, 1926 (which said certificate is filed il\nthe office of Secretary OF State.\n\n\n| lay before you resolutions Of the General AS\nsemblies Of The States OF Maine, Vermont and In\ndiana disappearing the amendments 10 the Const\ntuition OF the United States proposed by the reso\nluilons Of the General Assembly Of the State o.\nTennessee Of the 25th November, 1895. relative\nto the election of Psesidrnt and Vice President o\nthe United States, and providing that no membel\noil Congress shall be eligible TO any Office within\nthe gift nomination Of the President of the Uni\nted States during the period for which he shall have\nbeen elected, and for six months thereafter cxcep\nappointments in the regular army or navy OF the\nUnited States.\n\n\n| l also communicate a resolution of the Genera\nAssembly OF the State Of Kentucky disappearing\nthe amendments to the Constitution OF the United\nStates, proposed by the resolution Of the Genera",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 836,
+                    "y0": 355,
+                    "x1": 1640,
+                    "y1": 4555
+                }
+            ],
+            "bbox": [
+                836,
+                355,
+                1640,
+                4555
+            ],
+            "full_article_id": 10,
+            "id": "10_1827-01-09_p3_sn82014894_00271740219_1827010901_0028.json"
+        },
+        {
+            "object_ids": [
+                19,
+                30,
+                11
+            ],
+            "headline": "MORE PRIZES II!",
+            "article": "at ROBERTsO.N' & LITTLE'S OFFICE!!\n18 80 SIS aprize Of S15l4-a whole ticket,\nl8 80 IS prize of $1,000 ditto.\nBesides number of prizes of $780, $50, &c, in the De-\nSTATE Lottery, 5 Glass; vhic at se4rcas-\ntie We.lesday last. all obtained Robertson g LIZ\ntea\n\n\nThe fortunate holder Of the prize of sl5l4 citizen\n\n\nof Mar Wand.\n\n\nOf the prize Of $1,000 is een,le-\n\n\nman Of this Borough.\n\n\nTOMORROW\n\n\nCVednesday January 1oM, 1927 J\nviii be drawn at Philadelphia, the brilliant scheme\ntwenty-sixh class, Union Canal Lottery,\nprize OF S25000; of 10000 l Of 5000; of 1900;\nof 3O00 Of 1882 Is OF 1000; IS Of 500 50 OF lU0\nlo4 Of 50; 1900 Of i2 10 SOB ef 6. 1920 Hrizes.\nTicket only Sc 90 Quarter 81 so\nHalf So 10 Eighth rs\nOn Wednesday, the I7h January will be drawn Hartford,\nCon- the Connecticut Ssate Iorp fourth Glass; for the\nbenefit of the Bishops Fund. so number Lottery\ndrawn ballots.\n\n\n4scieme.-1 prize Of $4,000; of 1000; / of 1914; S\nOf 1000; 10 Of 40o So If 100; 50 uf so; i04 OF 10;\n1900 Of a; 10608 Of 2 1920 Prizes.\n\n\nTickets S2z-llalves Sl-Quarters so Gents\nTickets and Shares, in great variety OF numbers for\nsale\n\n\nRobertson s Iittle's,\nLottery of.ce, No %. Market S., Wilmington\nJanuary 9Th",
+            "byline": ".qT ROBERTsO.r &. LIT1LE's Off",
+            "bbox_list": [
+                {
+                    "x0": 2648,
+                    "y0": 4141,
+                    "x1": 3110,
+                    "y1": 4195
+                },
+                {
+                    "x0": 2477,
+                    "y0": 4198,
+                    "x1": 3184,
+                    "y1": 4239
+                },
+                {
+                    "x0": 2473,
+                    "y0": 4194,
+                    "x1": 3294,
+                    "y1": 5292
+                }
+            ],
+            "bbox": [
+                2473,
+                4141,
+                3294,
+                5292
+            ],
+            "full_article_id": 12,
+            "id": "12_1827-01-09_p3_sn82014894_00271740219_1827010901_0028.json"
+        },
+        {
+            "object_ids": [
+                12
+            ],
+            "headline": "",
+            "article": "\n\n\nThe Natonsl Tnteligencer Of Friday and Saturday ba\nnot been received at this Office This is snail dsap\ncontinent, as we depend principally that paper for\ncongressional news. We understand that only two\noers OF the lnelgencer have been received the Pos\nOffice in this place since Friday morning, and those w,\ncame yesterday.\n\n\nSince the above written have received the In\nteligencer of Monday which to hand this morning\nWe as well all the subscribers (two only excepted)\nthai paper who receive it the Post Office here are still\nwithout numbers for Friday and Saturday last We\nassure the Editors OF the Inehgencer that the sappoint\nment to their subscribers particularly at this\nson.\n\n\nWe again acknowledge our obligations to ID. RoDsRY\nEsq to whom indebted for copy Of the Documents\nfrom The Navy Department. the Post Master General and\nthe Commissioner of the General Land Office Such Of\nreaders may wish to examine them, can do SO By\ncalling at the Office\n\n\nWe have nothing from Dover except the Governor.\nMessage which is certainly remarkable for thing, in\nthis day OF long speeches. and that is, its breyity.\nThe Richmond Enquirer says that the paintings and\nbuss belonging to the estate Ut Mr. Jefferson will not be\noffered for sale at the vendue which is to take place al\nMonticello the 18th inst but will be to Of\nlarge cities. and there sold after due notice.\n\n\nrh0ss young persons desTos Of forming J4S,\nSaturday evening at 6t O'clock, at JAMES C. AILEs's\n\n\n\n\n\n100000\n\n\nAPPOINTMENTS\nBY the President Of te United Sates NTH the ad,ice aiia\n\n\nconsent Of The SenGfe\n\n\nWILLIAM BEACH LAwREsCE, of New York. 10 be Secre\ntay of Legation to Great Britain, place of John A. King\nresigned.\n\n\nWILLIAM RossELL, of New Jersey, to be Judge Of the\nUnited States for the District Of New Jersey n the place\nOf WIN S. PEESISGToN deceased.\n\n\nSAMUEL BErTs. of New York, to be District Judge\nfor the Southern District Of the State Of New York, vice\nJudge VAN NESS, deceased.\n\n\nTHOMAS FINDLAr Of Maryland, to be Marshal of the\nUnited States for the District of Maryland, vice Paul\nBENTALoU deceased.\n\n\nWashington, January 4.-It is reported (and\nbeleved) tina. JOEL X. PoINsETT has been\nnominated by the PRESIDENT Of the United States\nto the Senate, to be Minister to Panama, alias Tacu\nbaya, vice RICHARD c. ANDERSON deceased.\n1t is also reported (and belieyed) that WILLIAM\nJONES has been nominated to be Collector Of the\nRevenue for the port of Philadelphia, vice JOHN\nSTEELE, resigned.\n\n\nWe learn, unofficially, that the following gentle\nmen have been appointed by the President OF the\nUnited States, with the advice and consent of the\nSenate, to be Directors Of the Bank Of the United\nSa,es the part Of the Government, for the ensu.\ning year, riz:\n\n\nNicholas Biddie, oi Pennsylvania.\n\n\nJOHN .N'Kim, Jr. Of Maryland.\n\n\nTictor Da Pont, Of Delaware.\n\n\nCampbell p. White, OF New York.\n\n\n-. Hu4nI zEI",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1657,
+                    "y0": 2369,
+                    "x1": 2456,
+                    "y1": 4866
+                }
+            ],
+            "bbox": [
+                1657,
+                2369,
+                2456,
+                4866
+            ],
+            "full_article_id": 13,
+            "id": "13_1827-01-09_p3_sn82014894_00271740219_1827010901_0028.json"
+        },
+        {
+            "object_ids": [
+                31,
+                13
+            ],
+            "headline": "Committee then rose, reported progress, and o..\ntanned leave TO sit again.",
+            "article": "Sates 10 cause the reserved Salt Springs, in the\nState of Missouri, to be exposed to sale; and the\n\n\nbill 10 provide for taking evidence in the Courts oil\nthe United States in certain cases; were severally\nread third time and passed.\n\n\nThe Senate adjourned 10 Monday.\nHOUSE OF REPRESENTATIVES.\nOn motion Of Mr.. Wright, il was\nResolued, That the Committee of Ways and\nMeans be instructed to inquire into The expedency\nOf remitting to the Theological Seminary OF the\nProtestant Episcopal Church, and 10 Kenyon Col\n\n\nlege in Ohio, the duties imposed on certain arll\ncles pratuitously presented to said seminary and\ncollege by certain benevolent citizens in England\nand imported into the United States for the use o.\nsaid seminary and college\n\n\nThis being day appropriated for the conSldera-\n\n\nton OF private business, the opeaher called The or\nders Of the day, when\n\n\nMr. Burges moved to postpone all the othe,\n\n\nders Of the day TO take up the bill to provide for the\n\n\nsurviving officers OF the army OF the rcsolution SC\nAyes 80. Noes 81.\n\n\non motion of Mr.. Burges, the House resolved\nitself into Committee of the whole these bills\nMr.. Condict 10 the Chair.\n\n\nSaturday. JANUARY 6.\nThe Senate did not sil 10 day.\nHOUSE OF REPRESENTATIVES\nOn motion OF Mr.. Brent, il was\nRESOLVED, That the Committee Of Ways and\n\n\nMeans be instructed TO inquire into the expediency\nof making an appropriation to increase the salary\nof the Postmaster General\n\n\nEXPLOITATION OF FREE PERSONS OF COLOR.\nMr. lYeems offered the following ssoution.\nResolved, That special Commit, ee be appointed\n\n\nby this House 10 inquire into the et ediency OF ma\n\n\nking an appropriation Tor the transpo tatnn Of hu,h\nfree People oi color as may wish TO oe sent 10 The\nCOLONY at Liberia\n\n\nMr. Peems said il his n,c ton, at the\n\n\nOF offering subject Of tins nature iur the conserat ion of\n\n\nthis honorable b,dy, attempt enterg into the merits\n\n\nthe proposition, because he wond ash it remain for\n\n\nconsideration; but with HE Indulgence OF tue House, he\nwould stale, in condensed pnss blc,\n\n\nthat had influenced his mind, with the hope thai i\n\n\nmight induce every member Of Congress to examine wei\n\n\nThe subject In Mary and, SAID he, the State which have\n\n\nthe honnr in part to represent ii has been found mprac\n\n\ntcabe to extend to this unhappy part of community,\n\n\nequal rsht, crmauls in the blessings OF peniten\n\n\niay confinement. Al FIRST, did, un wa, found tha,\n\n\nin few years, building covering en- Or twelve acres\nwould not, perhaps contain them. Banishment, there.\n\n\nfore, has been substituted, and although furnished with\n\n\ncopy Of the record they have security for future ber\n\n\ny On the contrary, hey are purchased aud carried to\n\n\ndistance and, it is verify believed that they\n\n\nbeyond the coafnes Of Sate, than they robocd ut\n\n\nthat evidence and carried into slavery for life Regretted,\n\n\nthis must be, by all men Of feeling there is no remedy\nit would seem, leG that u tru, whilst en-\n\n\ncavong prevent the slave trade being any longer carri\ned by American xbroal, are, in fact, carry\ning On at home\n\n\nAnother reason is SIR that satisfied of their dcgra\nded sitaton, large number Of the free blacs Of Mary\nland have citizens Of Baltimore the\nsubject, making strong sppea 10 ,cr best feelings OF\ncharity and justice; inviting assa Sufficient only to\nwatt them the land OF their oietatiefs-to the young\n\n\ncolony Liberia, where they expec 10 be able as humble\nInstruments in the hands OF the treat Ai 10 cause ne\n\n\nwilderness to rejoice, and te heather become the Worship\n\n\npers of the living God. They have reminded Of our\n\n\nancestors when forced by persecution 10 emsrae 10 this\ncountryhen savage wilderness no\" the Paradise OF\nthe world And shall not enleayo TO do something 10\nthis call thereby aiding in the very oblec, perhaps,\nwhich intended to be Produced whea tui !oretahes\nQdaI hpInU tlRtn here nnAP q\nSent sir, to view any other hight, bele eS a. do,\nthat the right of properly of this purchase th\n\n\nmoney has been recognized under every pcnsston from\nGod 10 Il is the justice and humanity q tc act sir,\nthat influences my conduct, and not bcie thai there\nany thing like mine that may be blo@nup with match\nMr.. w. was here interrupted ny Mr.. Webster,\nwho made point OF order inqui1ing if il in\norder to discuss resolution when the person who\noffered it himself expressed his intention to move\nthat il lie the table-a mo'lon 10 lay any propo\nsltlon upon the table not beng debatshle.\nAlter some explanations by the Chdtr,\nMIR. Webster demanded that the previous ques\nlion Of consideration be taken.\nThe question was accordingly taken, viii the\nHouse now consider the resolution Aud it was dc.\ncded in the negative by large majority.\nSo, for the present, the subject passed off.\nMr.. Barney moved the following resolution:\nResolved, That the Committee Of Ways and\nIl Means be instructed to inquire into the expedency\nOf reducing the duties on Teas. Wines Coffee, and\n\\ Salt Also, into the propriety Of requiring cash\n4 payments for duties on foreign manufactures.\nThis resolution was read aud was rejected by the\nHouse.\n\n\nThe engrossed joint resolution directing the Sec\nretary OF the Navy to apply to the Government Of\nPennsylvania for jurisdiction over certain ands at\nthe Navy Yard at Philadelphia, was read the third\n\n\n'Ime passed. and sent to the Senate for concurrence.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 42,
+                    "y0": 197,
+                    "x1": 855,
+                    "y1": 273
+                },
+                {
+                    "x0": 20,
+                    "y0": 508,
+                    "x1": 842,
+                    "y1": 4559
+                }
+            ],
+            "bbox": [
+                20,
+                197,
+                855,
+                4559
+            ],
+            "full_article_id": 14,
+            "id": "14_1827-01-09_p3_sn82014894_00271740219_1827010901_0028.json"
+        },
+        {
+            "object_ids": [
+                20,
+                22
+            ],
+            "headline": "",
+            "article": "Frowa indgnantyupon the dawning\nono portion OF the Union from another' WASHINGTON.",
+            "byline": "TUESDAY, January 8, 1927",
+            "bbox_list": [
+                {
+                    "x0": 1797,
+                    "y0": 1781,
+                    "x1": 2325,
+                    "y1": 1826
+                },
+                {
+                    "x0": 1665,
+                    "y0": 1842,
+                    "x1": 2469,
+                    "y1": 1900
+                }
+            ],
+            "bbox": [
+                1665,
+                1781,
+                2469,
+                1900
+            ],
+            "full_article_id": 23,
+            "id": "23_1827-01-09_p3_sn82014894_00271740219_1827010901_0028.json"
+        },
+        {
+            "object_ids": [
+                23
+            ],
+            "headline": "",
+            "article": "We have nothing from Dover except the Governor,\nMessage, which certainly remarkable for thing\nthis day of long speeches, and that is its breyity",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1652,
+                    "y0": 3088,
+                    "x1": 2456,
+                    "y1": 3199
+                }
+            ],
+            "bbox": [
+                1652,
+                3088,
+                2456,
+                3199
+            ],
+            "full_article_id": 24,
+            "id": "24_1827-01-09_p3_sn82014894_00271740219_1827010901_0028.json"
+        },
+        {
+            "object_ids": [
+                24
+            ],
+            "headline": "",
+            "article": "gT Those young persons desrous of forming JUNIOR\nDebating Society,\"\" requested to attend meeting\nSaturday evening at 64 O'clock. at JAMES C. ALIENS\nSchool Room in Orange ST. Jan. 9, 1897.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1652,
+                    "y0": 3444,
+                    "x1": 2461,
+                    "y1": 3585
+                }
+            ],
+            "bbox": [
+                1652,
+                3444,
+                2461,
+                3585
+            ],
+            "full_article_id": 25,
+            "id": "25_1827-01-09_p3_sn82014894_00271740219_1827010901_0028.json"
+        },
+        {
+            "object_ids": [
+                26
+            ],
+            "headline": "",
+            "article": "The Richmond Enquirer says that the paintings and\nbusts belonging to the estate Of Mr. Jefferson will be\noffered for sale at the vendue which is take place\nMonticello the 18th inst but will be of our\nlarge cities, and there sold after due notice.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1652,
+                    "y0": 3237,
+                    "x1": 2461,
+                    "y1": 3405
+                }
+            ],
+            "bbox": [
+                1652,
+                3237,
+                2461,
+                3405
+            ],
+            "full_article_id": 27,
+            "id": "27_1827-01-09_p3_sn82014894_00271740219_1827010901_0028.json"
+        },
+        {
+            "object_ids": [
+                27
+            ],
+            "headline": "",
+            "article": "We again acknowledge obligations to ID. RoDsRr\nEsq to whom indebted for copy Of the Documents\nfrom the Navy Department. the Post Master General and\nthe Commissioner of the General Land Office Such Of\n\n\nreaders may wish examine them, can do SO b,\nallnr al tho ofic.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1657,
+                    "y0": 2873,
+                    "x1": 2456,
+                    "y1": 3054
+                }
+            ],
+            "bbox": [
+                1657,
+                2873,
+                2456,
+                3054
+            ],
+            "full_article_id": 28,
+            "id": "28_1827-01-09_p3_sn82014894_00271740219_1827010901_0028.json"
+        }
+    ]
+}

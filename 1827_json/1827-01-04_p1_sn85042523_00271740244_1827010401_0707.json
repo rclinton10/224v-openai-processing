@@ -1,0 +1,757 @@
+{
+    "lccn": {
+        "title": "The Wilmingtonian, and Delaware advertiser.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2638-1117",
+        "lccn": "sn85042523",
+        "start_year": "1825",
+        "end_year": "1827",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [
+            "sn88053080"
+        ],
+        "successors": [
+            "sn84020426"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn85042523",
+        "edition": "ed-01",
+        "date": "1827-01-04",
+        "pages": [
+            "seq-4",
+            "seq-1",
+            "seq-3",
+            "seq-2"
+        ]
+    },
+    "page_number": "1",
+    "scan": {
+        "lccn": "sn85042523",
+        "edition": "ed-01",
+        "date": "1827-01-04",
+        "page": "1",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn85042523/1827-01-04/ed-1/seq-1.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn85042523/1827-01-04/ed-1/seq-1/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn85042523/1827-01-04/ed-1/seq-1/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn85042523/00271740244/1827010401/0707.jp2",
+        "height": 5552,
+        "width": 3584
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 677,
+                "y0": 793,
+                "x1": 1354,
+                "y1": 2078
+            },
+            "class": "article",
+            "raw_text": "the nature of true dignity and real manii-\nness. That the most perfect dignity OF\ncharacter and manner is consistent with\nthese virtues, was eminently manifested in\nHim who was beyond all others, ''meek\nand lowly in heart\" That $hirit which is\nby some SO greatly admired, would, upon in\nvestigation, be found to be made up of the\nmost mean and pitifu qualities, and topro-\ncoed from contemplate species of vanity.\n\n\nDo we need inducements to cultivate this\ntemper? Let us make the trial for one day;\nlet us be peaceable, meek, forbeal'ing, sub\nmissiye; determining not to be provoked by\nprovocaton; and remark, if that day will not\nbe more productive ofhappincss to ourselves\nas we'll as to all around us, than another in\nwhich rights have been maintained, privi-\nleges asserted, insults returned, and wrongs\never so successfully revenged. This, IN\ndeed, must be the case, because holiness and\nhappiness, our duty and our interest, are in\nseparately connected.\n\n\nLet our young readers then, while they\nwisely repress that inordinate attention to\nexternal decoration which SO generally pre-\nwalls, be ambitious to win and wear this\nchoice array, these precious ornaments. Let\nthem \"learn of Him who was meek and\nlowly in heart, and they shall find peace in\ntheir consciences and rest to their SOULS\"",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 685,
+                "y0": 2233,
+                "x1": 1354,
+                "y1": 3653
+            },
+            "class": "article",
+            "raw_text": "Perhaps there is no country in the world\nwhere the women are more completely DO\nmestic, than they are in our country; and\nnone where female influence is more gen\norally felt. This is the most happy. clrcum-\nstance; and it affords a most powerful argu-\nment in favor of female education.\n\n\n1t is trite ! know, but very important to\nremark, that when ladies are distinguished\nfor domestic habits and virtues, their mu-\ntual influence is very great\n\n\nThey mould the hearts, and to great\ndegree, from the understanding of the fu-\nture fathers and mothers in our country.\nNow they who have in their hands so great\na part Of early education, certainly ought\nto receive that cultivation of heart and mind\nwhich would fit them for the discharge OF\nthe very important duties oftheir station\nThis is no easy work. 1t demands skiliand\nJudgment as we'll as attention. surely prep\naration ought to be made for it, that 1T may\nbe done we'll. Look at the majority OF girls\nof eighteen, in the country, and see what\nare their qualifications for place at the\nhead of household.\n\n\nBut female influence IS felt not only in\ndomestic life; it reaches to every part o:\nsocity. Every where it ought to be intel\nlectual as we'll as sensitive; intelligent as\nwe'll as affablc, good as we'll as pretty. NC\nwhere indeed are they more pure and deli\ncate than among ourselves; but II to those\ngraces of the female character were added\nsuitable mental improvement, the$ef on\nthe whole. community would be most happy\nA higher spirit of literature woulds'pervade\nour states; and young men would spend that\ntime in study, which they now waste in dis\nsipation. A lofter tone or. moral feeling\n\n\nwould be awakened, and wegmight hope tt\n\n\nwitness the purity without the extravagan\n/ ces of chivalry.",
+            "legibility": "Questionable",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 751,
+                "y0": 2095,
+                "x1": 1289,
+                "y1": 2148
+            },
+            "class": "headline",
+            "raw_text": "\nTHE LADIES' FRIEND.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -2
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 846,
+                "y0": 2177,
+                "x1": 1198,
+                "y1": 2217
+            },
+            "class": "headline",
+            "raw_text": "AMERICAN LADIES.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2052,
+                "y0": 1071,
+                "x1": 2725,
+                "y1": 2872
+            },
+            "class": "article",
+            "raw_text": "1t is astonishinghow little has been writ\nten or spoken upon that most exalted Of all\nthe sacrifices ever made by mere mortals,\nwhich is recorded in the eleventh chapter\nof JUDGES The divine historian has not e.\nven given us the name of the fair victim.\nJephthah, returning from the slaughter of\ntwenty cities, and the complete conquest of\nthe enemies of Israel, rashly vowed, that\nwhatsoever come forth of the doors of his\nhouse to meet him, should surely be the\nLords, and should be sacrificed with fire !\nHis daughter, an only daughter! for she is\nemphaticaly called \"the daughter of Jeph-\nthah, the Gileadite,\" indeed an only child,\ngay in all the loyeiness of youth and beauty,\nand animated to enthusiasm by the pros\npect of her brave fathers approaching tri-\numph, came out to meet him with timbrels\nand with dances, unconcious of the awful\ndoom to which she was destined! When,\nin all the agony of regret and sorrow. he an\nnounced to her the vows which he deemed\nirrevocable, how dignihed her composure,\nhow unparalleled her heroism She resort\ned to no sophistical evasions to avert the\nblow that impended over her; scarcely con-\ndescended to express regret for her untme-\nly fate. My father, if thou hast opened thy\nmouth unto the Lord, do to me according to\nthat which hath proceeded out OF tiny mouth\n-forasmuch as the Lord hath taken venge-\nancc for thee of thine enemies. even OF the\nchildren of Ammon. All she requested,\nwas that herself and the companions of her\nintantie pleasures might be permitted to\nwander for two months upon the lonely\nmountains, to prepare herself for death\nmore glorious than that of the most cele-\nbrated hero of ancient or modern ages\nCompared with this, how trif1ing the boast\nell sacrifice of Lhhigema, which indeed, from\nthe silence OF Homer, who could neither\nhave forgotten nor despised ahincident SO\nsuited to his taste. and SO capable OF en-\nbellshi g his poem, we ought to regard as\naltogether fabulous.\n\n\nSweet simplicity of the patriarchal ages,\nennobled by self-devotion more sublime than\nthat of Codorus or Curtins 1t is the busi-\nness Of soldier and king to die in the\nfield of battle, but what could poor rural\ngirl feel of martial enthusiasm. or expect of\nfuture fame!",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 2160,
+                "y0": 1019,
+                "x1": 2617,
+                "y1": 1063
+            },
+            "class": "headline",
+            "raw_text": "JEPHTHAH'S DAUGHTER.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 26,
+                "y0": 806,
+                "x1": 660,
+                "y1": 1345
+            },
+            "class": "article",
+            "raw_text": "nER ACKNOWLEDGEMENTS not exceeding\nsquare will be inserted four t<les for one\nbar and 90 cents for each subsequent inser-\n1 If continued for three months, 50 50-for\nmonths, S4 so; or for one year S8.\n\n\nr. subscribers are entitled to the privilege of\nk;np their names, place ofresidcncc, and occu-\n;on inserted in the Register, anATIs.\nE,EPMy OF SEBSCRIP1TOM-To those\n4 receive this paper by mail, t,co dollars, and\npse who do not, t,co dollars andtwenty.fre cents\n\n\near. IN ApyAScs: lfnot paid in advance, s2 SO\n4 be charged; and if not paid before the cxpi-\n\n\nion Of the year, SO.\nr1rNosubstription will be observation-disclosures\n3 wcek'snoticc is given and all arrcarages are\n,",
+            "legibility": "Questionable",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 26,
+                "y0": 702,
+                "x1": 192,
+                "y1": 768
+            },
+            "class": "headline",
+            "raw_text": "DL. ~.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 707,
+                "y0": 3730,
+                "x1": 1376,
+                "y1": 5487
+            },
+            "class": "article",
+            "raw_text": "Mercy on us who is that female so loud\nupon our right! Of a surety, she must be\nthe original woman who hired the devil to\nteach her how to outscold all her neighbors.\n\n\nBartholomew Fair.\n\n\nMY tale is not so much about the log cab\nin as its contents, though every one who had\ntravelled from Alesbury to Burling Ford,\nmust remember the three-cornered pine-log\nhut at the foot ot the Red Ridge, rooted\nwith loose slabs, with a mud and straw CHM\nney, and a large hole cut out of one side for\nthe double purpose of door and window.\nAnd if there was not such another Cabin IN\nthe country, neither was there just such an\nother pair as the honest couple who inhab-\ntied 1.-THE land on which it stood belong\ned to a distant proprietor. as such lands\nwere considered \"free'', the present tenant,\nPeter Keltzer, had put up the dwelling him\nself, with such assistance as two quarts OF\nwhiskey commanded on the raising day, and\nlived as one would readily imagine from his\nmanner of living, entirely unincnmbered\nwith ground rent.\n\n\nPeter had scarcely troubled himself to cut\naway the bushes that>grew by his door. He\nminded neither the grubbing hoe nor the\npruning knife, his only implement of hus-\nbandry, if may call it so, was rough bor-\ned rifle, which he kept in admirable order,\nand with which he never failed to do excel\nlent service, whenever necessity or whim\ndrove him to scour the forest, and climb the\nrugged mountains, or trace up the winding\nstreams in pursuit of game--and, in truth,\nnecessity or whim kept the poor man pref\nty constantly on the scout, tor when their\nvenison was not out, Madame Keltzer's tenn\nper always was, and the failure of the one\nor the other was An equal misfortune for Pc\nter.\n\n\nDame Keltzer was thin, sharp visaged\nlady, about five feet two; with black pierc.\ning eye, and but three teeth; the others, a:\nPeter affirmed, having been utterly worn\nout'of her mouth by the constant concus-\nsions of her tongues, which also, were Mret\nin number, if his word might pass for value\nindeed he gravely asserted that it was ir\nconsequence Of these remarkable and coin\nGliding anomalies, that the Dame had COM\nPEELED him after years fire to build three.",
+            "legibility": "Questionable",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 876,
+                "y0": 3686,
+                "x1": 1190,
+                "y1": 3722
+            },
+            "class": "headline",
+            "raw_text": "THE LOG CABIN,",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2056,
+                "y0": 2914,
+                "x1": 2734,
+                "y1": 5470
+            },
+            "class": "article",
+            "raw_text": "We have read, with good deal Of inter-\nest, Capt. Weddell's Narrative of Voyage\ntowards the South Pole. He succeeded in\nreaching considerably higher latitude than\nCapt. Cook, or any preceding navigator;\nand when he put back, had before him a\nclear sea, without land once in view, to OBJ\nstruct an onward course. Being however\non mercantile voyage, and in very small\nand, for the purposes of discovery, unpro-\nvided vessel, he was compelled to torego\nthe honor of penetrating further. The in\nformation he has impaired will, we doubt\nnot, lead to some better organized undertake\ning for discovery in that region.-Capt.\nWedteil visited the Falkland Islands, the\ninhabitants Of that place, and their quiet,\ninohensive manners, he gives an interesting\naccount. We have made some extracts\nfrom the work, which will we think, be\nfound interestng-among them the follow\n\n\ning story, which is new to us, in all its parts.\n\n\nNJ r. american.\n\n\nNew Island is remarkable tor having been,\nfor two years, the solitary residence OF\nCapt. j. Barnard, an American; whose ves-\nsci was run away with in the year 1914, by\nthe crew of all English ship, which, ON her\npassage flom Port Jackson, had been wreck\n| ed on the south side of these islands. met\nwith Captain Barnard in 1914, at the place\n| of his exile, and his conversation naturally\nto that subject, which, being interesting 81\ngreedily devoured.\" A particular account of\n| his residence on an uninhabited island.\nwould not fail of being considered almost as\nwonderful as the celebrated fiction of Rob-\ninson Crusoe, since there was great sinii\n! larity in their situations. The principal ihi\ncidents attendant upon this event were al\nfollows:-Capt. Barnard was at New Island\nwithAlis vessel in the performance of voyi\nage for seal furs, and when on the south\nj Side of the island, he met with the crew of\nthe wrecked English ship. Their. number\n\n\nmight be about 80, including several passed.\ngers, some of whom were ladies. He kind\ni ly took them to his vessel, and treated them\n\n\nwith all the hospitality which their destd-\ntute situation required. Captain Barnard\nwas then at war, and this circumstance crc-\nated doubts as to the cerity of their friend\nly intentions to one another, though he had\ni promised to land them on their passage\nhome at some port in the Brazils.\n\n\nOwing TO the additional number of people,\nhunting parties were frequently sent ont; to\nprocure supplies; and when the Captain,\nwith four of his people, we're on an excpr-\nsion of this kind, the wrecked crew cut the\ncable, and in defiance of the Americans Dho\n\n\nwere on BOARD, ran away with the ship to\nRio Janeiro; whence they proceeded tot N.\nAmerica.\n\n\n! On Capt. Barnard's return to New-Island,\nhe was struck with astonishment at finding\nhis ship carried off. as he never suspected\nany design of the kind. rOn reflection, how\never. he soon guessed the cause. as it was\nquite apparent. that the fear of being taken\nto America, where they would become\n\n\nprisoners of war. had been the motive to the\nI commission of this action, which was bad\n\n\nreturn for the asylum Capt. Barnard had\nafforded the perpetrators of it. His conduct\ntowards them certainly did not justify their",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 17,
+                "y0": 1808,
+                "x1": 634,
+                "y1": 3687
+            },
+            "class": "article",
+            "raw_text": "has! am an Orphan Boy,\nWith nought on earth to cheer my heart\n|o fathers love, nor mothers joy,\nNor kin nor kind to take my part.\nN lodging is the cold, cold ground.\nT eat the bread of charity:\nInd when the kiss of love goes round,\nThere is no kiss, alas, fos me.\nlet once had father dear,\nA mother, too, wont to prize:\nWith ready hand to wipe the tear,\n| If chanc'd the transient tear to rise.\nklt cause of tears was rarely found,\n! For all my heart was youthful giec;\nInd when the kiss of love went round,\n+ How sweet kiss there was tor me!\nUt, all! there came a war, they say;\nWhat is warl-I cannot tell;-\nhe drums and flies did sweetly play,\n| And loudly rang our village bell.\n= truth, it was pretty sound\n| thought; nor could thence foresee,\n| hat when the kiss of love went round,\nThere soon would be no kiss for me.\n\n\nscarlet coat my father took,\n| And sword as bright as bright could bci\nInd feathers, that SO gaily look,\nAll in shining cap had he.\nlhenhow my little heart did bound,\nAlas, thought it fine to see;\nbor dreamt that when the kiss went round,\nThere soon would be o.kiss for me.\nII length the bell again didring--\nThere was victory. they said;\ntwas what my father SAID he'd bring,\nBut, ah! it brought my fatherd dead!\n\" mother shriek'd, her heart was woe,\n| She clasp'd me to her trembling knee\n! God, that you may never know,\n\n\nHow wild u kiss she gaveto me!\n\n\nut once again,--but once again.,\n\n\nThese lips mothers kisses felt; q\n\n\nhat once again,-that once again,\n\n\nThetale a heart of stone would melt. Is\n\n\nTwas when upon her death bed laid,\n| 70 God! o God! that sight to see,)\n\n\nby child, my child\" she fecbly said,\n\n\nAnd gave parting kiss to me.\n\n\n% now I am an Orphan Boy,\n\n\nWith noughtsbelow my heart to cheer;\n\n\nNo mothers love, no fathers joy,\nNor kin nor kind to wipe the tear. 4.\n\n\nNy lodgingis is the cold, cold ground,\n\n\neat the bread of charity!\n\n\nInd whensthe kiss of love goes-round,a.\n\n\nThere is, alas, no kiss for me!",
+            "legibility": "Questionable",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 148,
+                "y0": 1761,
+                "x1": 491,
+                "y1": 1801
+            },
+            "class": "headline",
+            "raw_text": "TIE ORPHAN BOY.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2056,
+                "y0": 789,
+                "x1": 2729,
+                "y1": 994
+            },
+            "class": "article",
+            "raw_text": "much like it. At the end OF every evil and\nimprovident course there is corresponding\npunishment; and they are comparatively\nhappy, who like Peter and Polly Keltzer,\nare made wise by misfortune, while there is\nyet time to profit by repentance.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 35,
+                "y0": 3856,
+                "x1": 695,
+                "y1": 4741
+            },
+            "class": "article",
+            "raw_text": "\"The great danger to virtuous man a.\nEses from the excess of his virtuous propen-\n|ities. 1t is his duty to preserve with the\npost religious care, just balance among all\n|he natural sentiments and moral principles\ny his character; and to watch with the ut\npost vigilance the first symptom of any ten\n|ency to excess. in any single principle or\npassion. He must never forget the maxim\n\n\nancient wisdom, \"omnes virtutes medic\nfritate quadan esse moderatas..\" If he a.\nPandon himself to the guidance of any sin\n\n\nle principle. it matters not whether it be\n\n\nzeal for the glory of God, or for the saliva\nion Of man. for the quiet of society, or for\n\n\nhe establishment of liberty; for Popery or\nCalvanism; for Monarchy or Democracy; it\nsure equally to drown the voice of reason,\n\n\nb silence the feelings ofnature, to dishonor\n\n\nlis own character, and, if he be armed with\npower. to vex and scourge the human fam\n&y.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 113,
+                "y0": 3712,
+                "x1": 587,
+                "y1": 3774
+            },
+            "class": "headline",
+            "raw_text": "THE MONITOR.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -2
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 260,
+                "y0": 3803,
+                "x1": 452,
+                "y1": 3839
+            },
+            "class": "headline",
+            "raw_text": "EXTRACT.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 22,
+                "y0": 1470,
+                "x1": 665,
+                "y1": 1753
+            },
+            "class": "article",
+            "raw_text": "From tie Eurohean Magazine.\n\n\nWhen we speak of simplicity. it were in\n|,tice to the names of the unknown bard,\nn to introduce % notice, piece of former\nmes, the author of which has sided down\n|c current of oblivion, but which it will be\nmerit in any publication'to be the medium\nfrestoring.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 143,
+                "y0": 1383,
+                "x1": 500,
+                "y1": 1445
+            },
+            "class": "headline",
+            "raw_text": "tPG)-HH'tRYa",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2737,
+                "y0": 902,
+                "x1": 3423,
+                "y1": 5062
+            },
+            "class": "article",
+            "raw_text": "land them IN the bTaZllS.\n\n\nNothing in the way of supplies having\nbeen left for poor Barnard and his four COM\npanions, of which even the captors of his\nship ought have thought, he was forced to\nconsider how they were to subsist; and re-\ncollecting that he had planted a few potatoes,\nthey directed their attention to them, and in\nthe course of the second season, obtained\nserviceable supply. They had dog which\nnow and then caught pig; and the eggs of\nthe albatross, which were stored at the prop\ner season, with potatoes, formed substitute\nfor bread; and the skins Of the seals for\nclothes. They built house OF stone, still\nremaining on the island, which was strong\nenough to withstand the storms of wiRter,\nand they might have been comparatively\nhappy, but that they were cut off from their\nrelations and friends, without any immediate\nprospect of being removed from the island.\n\n\nTo add to the misfortunes of Captain\nBarnard in being separated from his wife\nand children, his companions. over whom he\nexercised no authority. but merely dictated\nwhat he considered was for their mutual adj\nvantage, became impatient even of this\nmild controul, took an opportunity to steal\nthe boat, and he was left on the island alone.\nAfter being thus entirely abandoned, he\nspent the time in preparing clothes from\nthe skin of the seal, and in collecting food\ntor winter. Once or twice day he used to\nascend hill, from which there was wide\nprospect of the ocean, to see if any vessel\napproached, but always retired disappoint-\ned and forlorn--no ship was to be observed.\nThe four sailors, in the meanwhile, having\nexperienced their own inability to provide\nproperly for themselves, returned to him afs\nter an absence Of some months.\n\n\nHe still found some difficulty in preserv-\ning peace among his companions; indeed,\none of them had planned his death, but for\ntunately it was discovered in time to be pre-\nvented. He placed this man alone with some\nprovisions, ON small island in Quaker har-\nbour, and in the course of three weeks, so\ngreat change was made on his mind, that\nwhen Captain Barnard took him off, he was\nworn down with reflection on his crimes,\nand truly penitent.\n\n\nThey were now attentive to the advice Of\ntheir commander, and the above mentioned\noffender became truly religious and exem-\nplary in his behaviour. In this way they\ncontinued to live, occasionally visiting the\nneghboring island in search of provisions,\ntill the end of two years when they were TAX =\nen- off in the month of December, 1915, by\nan English whaler, bound for the Pacific.\nCaptain Barnard informed me, that British\nman of war had been sent expressly from\nRio Janeiro, to take them off, but by some\naccident the vessel. though at the islands.\ndid not fall IN with them.\n\n\nCaptain Weddell thus describes the PEN\ngums, which abound in great numbers in\nSouth Georgia, an island east of Cape Horn.\n\n\nNo land quadrupeds are found here; birds\nand amphibious animals are the only inhab-\ntants. Of the bird tribe, the king penguin\nis the most worthy of notice. The penguns\nCor. as they ought properly to be called, pir-\ngums, the name being evidently derived\nfrom the Latin word hinguedo. on account\nof its fatness) are OF very gregarious ma\nture. They go in large hocks along the shore,\nerect, and with waddling gait. When seen\nthrough hazy atmosphere, they may not\nbe inaptly mistaken for a body of men--and\nindeed, Sir John Marlborough has whimsic-\nally likened them to 'little children stand\ning up in white aprons\" These he describes,\nhowever, were avery diminutive species in\ncomparison with the king penguin, the bird\nto which l refer.\n\n\nIn pride these birds are not surpassed even\nby the peacock, to which in beanty of plu-\nmage they are indeed very little inferior as.\nmay be seen in our principal museums.\nDuring the time of moulting, they seem to\nrepel each other with disgust, on account Of\nthe ragged state of their coats; but as they\narrived at the maximum of splendour, they\nre-assemble; and no one who has not COM\nplcted his plumase, is allowed to enter the\ncommunity. They frequently looking down\ntheir front and Sides in order to contemplate\nthe perfection .of their exterior brilliancy,\nand to remove ANY speck which might sully\nit, rs truly amazing to All observer.\n\n\nAbout the BEGINNING of January they pair,\nand lay their neggs During the 6ime of\nMatching, the fnale' is remarkably assidu-\nous> so that wltsn tie hen has occasion to go\noff I'd feed and Yist;the egg is transported\n\n\nto hiR, which is a61k'by placing their toes\ntogether, and folling'it from one to the other.\n\n\nusing their bessks q, place it properly. As\n\n\nthey have no nesk,itfs to be remarked, that\n\n\nthe esq is carrieT between the tail and legs,\n\n\nwhere the feuals iin L, particular, has cavi-\n\n\nty for thepurposse; -, ~.\n\n\nThe hen keeps eharge,of her young near\n\n\n\" twelve laonth, during which time they\nchange and complete their plumagc; and\n\n\nin teaching them to swim the mother has\n\n\nfrequently to use some artiticc; for when the\n\n\nYoung one refuses to take the water. she en-\n\n\ntccs it to tlle side of a'rock, and cunningly\n\n\npushes it inj and this is repeated until it\ntakes the seq ofiss own accord. There are\nthree other. kinds, of. penguins. all of them\nnearly OF the same size, but little more than\nhalf the bipDess of that which have describ-",
+            "legibility": "Questionable",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1362,
+                "y0": 906,
+                "x1": 2044,
+                "y1": 5062
+            },
+            "class": "article",
+            "raw_text": "ner account, TO ODllRe MIN TO Tolerate anOln-\ner trio in the chain of his misfortune. Pc\nter himself, though he possessed but COM\nparatively small portion of his mates volu-\nbility, was man of much courage, and\nwhile in the frequent rencontress between\nhimself and madame Keltzer, to which he\nwas subjected, he was uniformly obliged to\nbeat the retreat, he turned his back with an\nair of lortlly defiance, and his visage showed\nevident signs of threatening retaliation.\n\n\nBetween parties so often belligerent, it\nwas hardly to be expected that every con-\ntest should end in smoke. Peter complained\nto all his neighbors of his wife's reasonable\nwar upon his liberty, and accp>ed her with\ndesign of reducing him to downright slave\nry; while she was not less prompt in charg-\ning him with an idle rambling disposition,\nan entire neglect of all home AFFAIRS, and e.\nven with being guilty of amours with Some\nof her good neighbours wives-whom he had\noccasionally furnished with saddle OF ven.\nison or string of squirrels. AS the danes\nsuspicious seemed founded on this, the last\ncharge was probably untrue, but the others\nwere doubtless substantial, and incontroyert-\nible on either side.\n\n\nNo one who has seen any thing of the\n\n\nworld, need be told what kind OF advice the\nfriends Of our honest couple gave them on\nthese occasions, or that its tendency was not\n\n\nin the smallest degree of a conciatory kind;\n\n\ninstead of growing better, things grew evil\nIDENTIFY worse, and from oft repeated threats\non both Sides plans OF execution were re-\n\n\nsolved in the minds of both Peter and his\n\n\nwife. The dame, in one particular, acquit-\nted herself with honor; she improved the\nhumble dwelling nightly in the course of\nfew years, and instead of a ground floor\n,F ,rIp all, h,I\nkind of trap door cut in the middle, di-\nrectly under which she commenced hollow\ning out something like cellar, and made\nsuch progress during one of Peters long\nrambles that on his return, he began to sus\n\n\npcct the object oe SO much secrecy and des-\npatch had some reference to himself. He\nseriously believed Dame keltzer designed\npreparing dungeon in which to immure\nhim. soul and body, and thereby execute\nlong standing threat that she would break\nhis rambling. In the confidence of his\nstrength, he determined to assist her, and\non the slightest symptom of the outbreak\ning of the conspiracy, to turn the punish\n\n\nment upon her.\n\n\nWe have now the worthy couple. each, in\nthe others absence, alternately embracing\nthe opportunity of following out deep cav\n\n\nern under the floor of the log cabin; and it\nwas persisted in, until it was actually, as\n| found by measurement, nine feet deep. A\nladder was now tburst into it, and the dame\nmade use of it as temporary cellar, using\n\n\ngreat precdut,on, however, never to enter it\n\n\nwhile Peter was about home, and at the\n\n\nsame time seizng occasional opportunities of\n! persuading him to SO down himself, under\n\n\none prctencc or another, for all of which she\n\n\nfound him too wisely cautious. At length\n\n\nwearied with hope deferred, and Peter be.\n\n\ncoming in no wise reformed from his old in\n\n\nveterate habits, on his return to the cabin\n\n\none dull damp evening. she took care to\n\n\nhave the door opened and the ladder drawn\n\n\nup in readiness. The moment he set his\n\n\nfoot upon the threshold, she seized his arm,\n\n\nand made a desperate attempt to accomplish\n\n\nby force what she slespaired ever being a.\nbic to do by stratagcm. A doubtful strug-\n\n\ngle ensued and Peter partly disengaging him\nself, so that as he fell, he seized and drag\nged the good woman after him, and she\n\n\ncatching at the door to stay herself, prccip-\n\n\nitated it down over them both. The fan\n\n\ndid no injury. The dame in tenderness Tor\n\n\nher husband, had deposited a quantity OF\n\n\nfax which she had taken to spin, so that il\n\n\nreceived them both, and when they fairly\n\n\nrecovered themselves on their feet, they\nfound neither had sustained damage, alft\nboth were fairly vanquished.\n\n\n, At first they took separate corners of ths\ncell, avowing themselves quite conten.ce\nand comfortable. Then the dame began {\n: commentary Of Peters evil life, which last\n. ed untifnoon next days though poon broueh\nsmall change from flight to them. Hunger\nbegan its work; nothing to eat or drink wa\nto be had, The business of mutual punish\nment went on apace, and long time. wa\n5 borne with unacknowtedging obstinacy-h\n, nally, however, neither could stand it longe\n: \"a truce was agreed upon-mutual ac\n+ knowledgements passed; and at last the par\nties, thoroughly reconciled, agreed to assis\nS each other out of this dreary confinement\nThis was no easy task, and had they no\n\n\nabandoned all their jralousies and ill-will\nt and abored in the closest concert, it woult\nG never have been accomplished. Finally, b.\ne gathering considerable pile of gravel be\n: low, Peter took his wife upon his shoulder\n: and she succeed from thence in climbing OH\n:, The ladder was then put down and Pete\n: himself obtained deliverance. What al\nn the arguments in the world could never hav\ne effected, this single incident did effect\n6 thorough reform; and whenever afterwards\n!, Peter was about doing amss, or dame kelt\n: zer's voice exceeded common key, the re\nr collection of the nine foot cellar, and thre\n! days and nights passed therein, set all mat\ne ters right.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 1462,
+                "y0": 685,
+                "x1": 1953,
+                "y1": 747
+            },
+            "class": "headline",
+            "raw_text": "JANUARY 4, 1927",
+            "legibility": "Questionable",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 52,
+                "y0": 4797,
+                "x1": 708,
+                "y1": 5492
+            },
+            "class": "article",
+            "raw_text": "And what is this ornament on which we\nlught to set so high value?-A meek and\n(uiet spirit. o, what different world ours\nFould be. if this heavenly jewellery were to\nYecome fashionable but alas how rarely\n70 We see it worn, we hear much outcry OF\nProng, insult, ingratitude. The peace OF\n'sery private circle is interrupted, more or\nFss by some petty contention. And here\n\n\nsimple means which would heal every\nreach, calm every storm. allay every irrita-\non' There isa certain temper called shirit in\n0me young people, which is altogether op-\n\n\nSEQ to meekuess and quietness. The We\n\n\nterms, indeed. would probably excite in\n\n\ns% . smile of contempt. But this would\n\n\nDrove them 20 be unacQua ipteu wi",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                0
+            ],
+            "headline": "",
+            "article": "the nature of true dignity and real manii-\nness. That the most perfect dignity OF\ncharacter and manner is consistent with\nthese virtues, was eminently manifested in\nHim who was beyond all others, ''meek\nand lowly in heart\" That $hirit which is\nby some SO greatly admired, would, upon in\nvestigation, be found to be made up of the\nmost mean and pitifu qualities, and topro-\ncoed from contemplate species of vanity.\n\n\nDo we need inducements to cultivate this\ntemper? Let us make the trial for one day;\nlet us be peaceable, meek, forbeal'ing, sub\nmissiye; determining not to be provoked by\nprovocaton; and remark, if that day will not\nbe more productive ofhappincss to ourselves\nas we'll as to all around us, than another in\nwhich rights have been maintained, privi-\nleges asserted, insults returned, and wrongs\never so successfully revenged. This, IN\ndeed, must be the case, because holiness and\nhappiness, our duty and our interest, are in\nseparately connected.\n\n\nLet our young readers then, while they\nwisely repress that inordinate attention to\nexternal decoration which SO generally pre-\nwalls, be ambitious to win and wear this\nchoice array, these precious ornaments. Let\nthem \"learn of Him who was meek and\nlowly in heart, and they shall find peace in\ntheir consciences and rest to their SOULS\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 677,
+                    "y0": 793,
+                    "x1": 1354,
+                    "y1": 2078
+                }
+            ],
+            "bbox": [
+                677,
+                793,
+                1354,
+                2078
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-01-04_p1_sn85042523_00271740244_1827010401_0707.json"
+        },
+        {
+            "object_ids": [
+                14,
+                16,
+                1
+            ],
+            "headline": "\nTHE LADIES' FRIEND.\n\nAMERICAN LADIES.",
+            "article": "Perhaps there is no country in the world\nwhere the women are more completely DO\nmestic, than they are in our country; and\nnone where female influence is more gen\norally felt. This is the most happy. clrcum-\nstance; and it affords a most powerful argu-\nment in favor of female education.\n\n\n1t is trite ! know, but very important to\nremark, that when ladies are distinguished\nfor domestic habits and virtues, their mu-\ntual influence is very great\n\n\nThey mould the hearts, and to great\ndegree, from the understanding of the fu-\nture fathers and mothers in our country.\nNow they who have in their hands so great\na part Of early education, certainly ought\nto receive that cultivation of heart and mind\nwhich would fit them for the discharge OF\nthe very important duties oftheir station\nThis is no easy work. 1t demands skiliand\nJudgment as we'll as attention. surely prep\naration ought to be made for it, that 1T may\nbe done we'll. Look at the majority OF girls\nof eighteen, in the country, and see what\nare their qualifications for place at the\nhead of household.\n\n\nBut female influence IS felt not only in\ndomestic life; it reaches to every part o:\nsocity. Every where it ought to be intel\nlectual as we'll as sensitive; intelligent as\nwe'll as affablc, good as we'll as pretty. NC\nwhere indeed are they more pure and deli\ncate than among ourselves; but II to those\ngraces of the female character were added\nsuitable mental improvement, the$ef on\nthe whole. community would be most happy\nA higher spirit of literature woulds'pervade\nour states; and young men would spend that\ntime in study, which they now waste in dis\nsipation. A lofter tone or. moral feeling\n\n\nwould be awakened, and wegmight hope tt\n\n\nwitness the purity without the extravagan\n/ ces of chivalry.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 751,
+                    "y0": 2095,
+                    "x1": 1289,
+                    "y1": 2148
+                },
+                {
+                    "x0": 846,
+                    "y0": 2177,
+                    "x1": 1198,
+                    "y1": 2217
+                },
+                {
+                    "x0": 685,
+                    "y0": 2233,
+                    "x1": 1354,
+                    "y1": 3653
+                }
+            ],
+            "bbox": [
+                685,
+                2095,
+                1354,
+                3653
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-01-04_p1_sn85042523_00271740244_1827010401_0707.json"
+        },
+        {
+            "object_ids": [
+                17,
+                2
+            ],
+            "headline": "JEPHTHAH'S DAUGHTER.",
+            "article": "1t is astonishinghow little has been writ\nten or spoken upon that most exalted Of all\nthe sacrifices ever made by mere mortals,\nwhich is recorded in the eleventh chapter\nof JUDGES The divine historian has not e.\nven given us the name of the fair victim.\nJephthah, returning from the slaughter of\ntwenty cities, and the complete conquest of\nthe enemies of Israel, rashly vowed, that\nwhatsoever come forth of the doors of his\nhouse to meet him, should surely be the\nLords, and should be sacrificed with fire !\nHis daughter, an only daughter! for she is\nemphaticaly called \"the daughter of Jeph-\nthah, the Gileadite,\" indeed an only child,\ngay in all the loyeiness of youth and beauty,\nand animated to enthusiasm by the pros\npect of her brave fathers approaching tri-\numph, came out to meet him with timbrels\nand with dances, unconcious of the awful\ndoom to which she was destined! When,\nin all the agony of regret and sorrow. he an\nnounced to her the vows which he deemed\nirrevocable, how dignihed her composure,\nhow unparalleled her heroism She resort\ned to no sophistical evasions to avert the\nblow that impended over her; scarcely con-\ndescended to express regret for her untme-\nly fate. My father, if thou hast opened thy\nmouth unto the Lord, do to me according to\nthat which hath proceeded out OF tiny mouth\n-forasmuch as the Lord hath taken venge-\nancc for thee of thine enemies. even OF the\nchildren of Ammon. All she requested,\nwas that herself and the companions of her\nintantie pleasures might be permitted to\nwander for two months upon the lonely\nmountains, to prepare herself for death\nmore glorious than that of the most cele-\nbrated hero of ancient or modern ages\nCompared with this, how trif1ing the boast\nell sacrifice of Lhhigema, which indeed, from\nthe silence OF Homer, who could neither\nhave forgotten nor despised ahincident SO\nsuited to his taste. and SO capable OF en-\nbellshi g his poem, we ought to regard as\naltogether fabulous.\n\n\nSweet simplicity of the patriarchal ages,\nennobled by self-devotion more sublime than\nthat of Codorus or Curtins 1t is the busi-\nness Of soldier and king to die in the\nfield of battle, but what could poor rural\ngirl feel of martial enthusiasm. or expect of\nfuture fame!",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2160,
+                    "y0": 1019,
+                    "x1": 2617,
+                    "y1": 1063
+                },
+                {
+                    "x0": 2052,
+                    "y0": 1071,
+                    "x1": 2725,
+                    "y1": 2872
+                }
+            ],
+            "bbox": [
+                2052,
+                1019,
+                2725,
+                2872
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-01-04_p1_sn85042523_00271740244_1827010401_0707.json"
+        },
+        {
+            "object_ids": [
+                23,
+                3
+            ],
+            "headline": "DL. ~.",
+            "article": "nER ACKNOWLEDGEMENTS not exceeding\nsquare will be inserted four t<les for one\nbar and 90 cents for each subsequent inser-\n1 If continued for three months, 50 50-for\nmonths, S4 so; or for one year S8.\n\n\nr. subscribers are entitled to the privilege of\nk;np their names, place ofresidcncc, and occu-\n;on inserted in the Register, anATIs.\nE,EPMy OF SEBSCRIP1TOM-To those\n4 receive this paper by mail, t,co dollars, and\npse who do not, t,co dollars andtwenty.fre cents\n\n\near. IN ApyAScs: lfnot paid in advance, s2 SO\n4 be charged; and if not paid before the cxpi-\n\n\nion Of the year, SO.\nr1rNosubstription will be observation-disclosures\n3 wcek'snoticc is given and all arrcarages are\n,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 26,
+                    "y0": 702,
+                    "x1": 192,
+                    "y1": 768
+                },
+                {
+                    "x0": 26,
+                    "y0": 806,
+                    "x1": 660,
+                    "y1": 1345
+                }
+            ],
+            "bbox": [
+                26,
+                702,
+                660,
+                1345
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-01-04_p1_sn85042523_00271740244_1827010401_0707.json"
+        },
+        {
+            "object_ids": [
+                18,
+                4
+            ],
+            "headline": "THE LOG CABIN,",
+            "article": "Mercy on us who is that female so loud\nupon our right! Of a surety, she must be\nthe original woman who hired the devil to\nteach her how to outscold all her neighbors.\n\n\nBartholomew Fair.\n\n\nMY tale is not so much about the log cab\nin as its contents, though every one who had\ntravelled from Alesbury to Burling Ford,\nmust remember the three-cornered pine-log\nhut at the foot ot the Red Ridge, rooted\nwith loose slabs, with a mud and straw CHM\nney, and a large hole cut out of one side for\nthe double purpose of door and window.\nAnd if there was not such another Cabin IN\nthe country, neither was there just such an\nother pair as the honest couple who inhab-\ntied 1.-THE land on which it stood belong\ned to a distant proprietor. as such lands\nwere considered \"free'', the present tenant,\nPeter Keltzer, had put up the dwelling him\nself, with such assistance as two quarts OF\nwhiskey commanded on the raising day, and\nlived as one would readily imagine from his\nmanner of living, entirely unincnmbered\nwith ground rent.\n\n\nPeter had scarcely troubled himself to cut\naway the bushes that>grew by his door. He\nminded neither the grubbing hoe nor the\npruning knife, his only implement of hus-\nbandry, if may call it so, was rough bor-\ned rifle, which he kept in admirable order,\nand with which he never failed to do excel\nlent service, whenever necessity or whim\ndrove him to scour the forest, and climb the\nrugged mountains, or trace up the winding\nstreams in pursuit of game--and, in truth,\nnecessity or whim kept the poor man pref\nty constantly on the scout, tor when their\nvenison was not out, Madame Keltzer's tenn\nper always was, and the failure of the one\nor the other was An equal misfortune for Pc\nter.\n\n\nDame Keltzer was thin, sharp visaged\nlady, about five feet two; with black pierc.\ning eye, and but three teeth; the others, a:\nPeter affirmed, having been utterly worn\nout'of her mouth by the constant concus-\nsions of her tongues, which also, were Mret\nin number, if his word might pass for value\nindeed he gravely asserted that it was ir\nconsequence Of these remarkable and coin\nGliding anomalies, that the Dame had COM\nPEELED him after years fire to build three.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 876,
+                    "y0": 3686,
+                    "x1": 1190,
+                    "y1": 3722
+                },
+                {
+                    "x0": 707,
+                    "y0": 3730,
+                    "x1": 1376,
+                    "y1": 5487
+                }
+            ],
+            "bbox": [
+                707,
+                3686,
+                1376,
+                5487
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-01-04_p1_sn85042523_00271740244_1827010401_0707.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "We have read, with good deal Of inter-\nest, Capt. Weddell's Narrative of Voyage\ntowards the South Pole. He succeeded in\nreaching considerably higher latitude than\nCapt. Cook, or any preceding navigator;\nand when he put back, had before him a\nclear sea, without land once in view, to OBJ\nstruct an onward course. Being however\non mercantile voyage, and in very small\nand, for the purposes of discovery, unpro-\nvided vessel, he was compelled to torego\nthe honor of penetrating further. The in\nformation he has impaired will, we doubt\nnot, lead to some better organized undertake\ning for discovery in that region.-Capt.\nWedteil visited the Falkland Islands, the\ninhabitants Of that place, and their quiet,\ninohensive manners, he gives an interesting\naccount. We have made some extracts\nfrom the work, which will we think, be\nfound interestng-among them the follow\n\n\ning story, which is new to us, in all its parts.\n\n\nNJ r. american.\n\n\nNew Island is remarkable tor having been,\nfor two years, the solitary residence OF\nCapt. j. Barnard, an American; whose ves-\nsci was run away with in the year 1914, by\nthe crew of all English ship, which, ON her\npassage flom Port Jackson, had been wreck\n| ed on the south side of these islands. met\nwith Captain Barnard in 1914, at the place\n| of his exile, and his conversation naturally\nto that subject, which, being interesting 81\ngreedily devoured.\" A particular account of\n| his residence on an uninhabited island.\nwould not fail of being considered almost as\nwonderful as the celebrated fiction of Rob-\ninson Crusoe, since there was great sinii\n! larity in their situations. The principal ihi\ncidents attendant upon this event were al\nfollows:-Capt. Barnard was at New Island\nwithAlis vessel in the performance of voyi\nage for seal furs, and when on the south\nj Side of the island, he met with the crew of\nthe wrecked English ship. Their. number\n\n\nmight be about 80, including several passed.\ngers, some of whom were ladies. He kind\ni ly took them to his vessel, and treated them\n\n\nwith all the hospitality which their destd-\ntute situation required. Captain Barnard\nwas then at war, and this circumstance crc-\nated doubts as to the cerity of their friend\nly intentions to one another, though he had\ni promised to land them on their passage\nhome at some port in the Brazils.\n\n\nOwing TO the additional number of people,\nhunting parties were frequently sent ont; to\nprocure supplies; and when the Captain,\nwith four of his people, we're on an excpr-\nsion of this kind, the wrecked crew cut the\ncable, and in defiance of the Americans Dho\n\n\nwere on BOARD, ran away with the ship to\nRio Janeiro; whence they proceeded tot N.\nAmerica.\n\n\n! On Capt. Barnard's return to New-Island,\nhe was struck with astonishment at finding\nhis ship carried off. as he never suspected\nany design of the kind. rOn reflection, how\never. he soon guessed the cause. as it was\nquite apparent. that the fear of being taken\nto America, where they would become\n\n\nprisoners of war. had been the motive to the\nI commission of this action, which was bad\n\n\nreturn for the asylum Capt. Barnard had\nafforded the perpetrators of it. His conduct\ntowards them certainly did not justify their",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2056,
+                    "y0": 2914,
+                    "x1": 2734,
+                    "y1": 5470
+                }
+            ],
+            "bbox": [
+                2056,
+                2914,
+                2734,
+                5470
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-01-04_p1_sn85042523_00271740244_1827010401_0707.json"
+        },
+        {
+            "object_ids": [
+                21,
+                6
+            ],
+            "headline": "TIE ORPHAN BOY.",
+            "article": "has! am an Orphan Boy,\nWith nought on earth to cheer my heart\n|o fathers love, nor mothers joy,\nNor kin nor kind to take my part.\nN lodging is the cold, cold ground.\nT eat the bread of charity:\nInd when the kiss of love goes round,\nThere is no kiss, alas, fos me.\nlet once had father dear,\nA mother, too, wont to prize:\nWith ready hand to wipe the tear,\n| If chanc'd the transient tear to rise.\nklt cause of tears was rarely found,\n! For all my heart was youthful giec;\nInd when the kiss of love went round,\n+ How sweet kiss there was tor me!\nUt, all! there came a war, they say;\nWhat is warl-I cannot tell;-\nhe drums and flies did sweetly play,\n| And loudly rang our village bell.\n= truth, it was pretty sound\n| thought; nor could thence foresee,\n| hat when the kiss of love went round,\nThere soon would be no kiss for me.\n\n\nscarlet coat my father took,\n| And sword as bright as bright could bci\nInd feathers, that SO gaily look,\nAll in shining cap had he.\nlhenhow my little heart did bound,\nAlas, thought it fine to see;\nbor dreamt that when the kiss went round,\nThere soon would be o.kiss for me.\nII length the bell again didring--\nThere was victory. they said;\ntwas what my father SAID he'd bring,\nBut, ah! it brought my fatherd dead!\n\" mother shriek'd, her heart was woe,\n| She clasp'd me to her trembling knee\n! God, that you may never know,\n\n\nHow wild u kiss she gaveto me!\n\n\nut once again,--but once again.,\n\n\nThese lips mothers kisses felt; q\n\n\nhat once again,-that once again,\n\n\nThetale a heart of stone would melt. Is\n\n\nTwas when upon her death bed laid,\n| 70 God! o God! that sight to see,)\n\n\nby child, my child\" she fecbly said,\n\n\nAnd gave parting kiss to me.\n\n\n% now I am an Orphan Boy,\n\n\nWith noughtsbelow my heart to cheer;\n\n\nNo mothers love, no fathers joy,\nNor kin nor kind to wipe the tear. 4.\n\n\nNy lodgingis is the cold, cold ground,\n\n\neat the bread of charity!\n\n\nInd whensthe kiss of love goes-round,a.\n\n\nThere is, alas, no kiss for me!",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 148,
+                    "y0": 1761,
+                    "x1": 491,
+                    "y1": 1801
+                },
+                {
+                    "x0": 17,
+                    "y0": 1808,
+                    "x1": 634,
+                    "y1": 3687
+                }
+            ],
+            "bbox": [
+                17,
+                1761,
+                634,
+                3687
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-01-04_p1_sn85042523_00271740244_1827010401_0707.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "much like it. At the end OF every evil and\nimprovident course there is corresponding\npunishment; and they are comparatively\nhappy, who like Peter and Polly Keltzer,\nare made wise by misfortune, while there is\nyet time to profit by repentance.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2056,
+                    "y0": 789,
+                    "x1": 2729,
+                    "y1": 994
+                }
+            ],
+            "bbox": [
+                2056,
+                789,
+                2729,
+                994
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-01-04_p1_sn85042523_00271740244_1827010401_0707.json"
+        },
+        {
+            "object_ids": [
+                13,
+                20,
+                8
+            ],
+            "headline": "THE MONITOR.\n\nEXTRACT.",
+            "article": "\"The great danger to virtuous man a.\nEses from the excess of his virtuous propen-\n|ities. 1t is his duty to preserve with the\npost religious care, just balance among all\n|he natural sentiments and moral principles\ny his character; and to watch with the ut\npost vigilance the first symptom of any ten\n|ency to excess. in any single principle or\npassion. He must never forget the maxim\n\n\nancient wisdom, \"omnes virtutes medic\nfritate quadan esse moderatas..\" If he a.\nPandon himself to the guidance of any sin\n\n\nle principle. it matters not whether it be\n\n\nzeal for the glory of God, or for the saliva\nion Of man. for the quiet of society, or for\n\n\nhe establishment of liberty; for Popery or\nCalvanism; for Monarchy or Democracy; it\nsure equally to drown the voice of reason,\n\n\nb silence the feelings ofnature, to dishonor\n\n\nlis own character, and, if he be armed with\npower. to vex and scourge the human fam\n&y.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 113,
+                    "y0": 3712,
+                    "x1": 587,
+                    "y1": 3774
+                },
+                {
+                    "x0": 260,
+                    "y0": 3803,
+                    "x1": 452,
+                    "y1": 3839
+                },
+                {
+                    "x0": 35,
+                    "y0": 3856,
+                    "x1": 695,
+                    "y1": 4741
+                }
+            ],
+            "bbox": [
+                35,
+                3712,
+                695,
+                4741
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-01-04_p1_sn85042523_00271740244_1827010401_0707.json"
+        },
+        {
+            "object_ids": [
+                11,
+                9
+            ],
+            "headline": "tPG)-HH'tRYa",
+            "article": "From tie Eurohean Magazine.\n\n\nWhen we speak of simplicity. it were in\n|,tice to the names of the unknown bard,\nn to introduce % notice, piece of former\nmes, the author of which has sided down\n|c current of oblivion, but which it will be\nmerit in any publication'to be the medium\nfrestoring.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 143,
+                    "y0": 1383,
+                    "x1": 500,
+                    "y1": 1445
+                },
+                {
+                    "x0": 22,
+                    "y0": 1470,
+                    "x1": 665,
+                    "y1": 1753
+                }
+            ],
+            "bbox": [
+                22,
+                1383,
+                665,
+                1753
+            ],
+            "full_article_id": 10,
+            "id": "10_1827-01-04_p1_sn85042523_00271740244_1827010401_0707.json"
+        },
+        {
+            "object_ids": [
+                10
+            ],
+            "headline": "",
+            "article": "land them IN the bTaZllS.\n\n\nNothing in the way of supplies having\nbeen left for poor Barnard and his four COM\npanions, of which even the captors of his\nship ought have thought, he was forced to\nconsider how they were to subsist; and re-\ncollecting that he had planted a few potatoes,\nthey directed their attention to them, and in\nthe course of the second season, obtained\nserviceable supply. They had dog which\nnow and then caught pig; and the eggs of\nthe albatross, which were stored at the prop\ner season, with potatoes, formed substitute\nfor bread; and the skins Of the seals for\nclothes. They built house OF stone, still\nremaining on the island, which was strong\nenough to withstand the storms of wiRter,\nand they might have been comparatively\nhappy, but that they were cut off from their\nrelations and friends, without any immediate\nprospect of being removed from the island.\n\n\nTo add to the misfortunes of Captain\nBarnard in being separated from his wife\nand children, his companions. over whom he\nexercised no authority. but merely dictated\nwhat he considered was for their mutual adj\nvantage, became impatient even of this\nmild controul, took an opportunity to steal\nthe boat, and he was left on the island alone.\nAfter being thus entirely abandoned, he\nspent the time in preparing clothes from\nthe skin of the seal, and in collecting food\ntor winter. Once or twice day he used to\nascend hill, from which there was wide\nprospect of the ocean, to see if any vessel\napproached, but always retired disappoint-\ned and forlorn--no ship was to be observed.\nThe four sailors, in the meanwhile, having\nexperienced their own inability to provide\nproperly for themselves, returned to him afs\nter an absence Of some months.\n\n\nHe still found some difficulty in preserv-\ning peace among his companions; indeed,\none of them had planned his death, but for\ntunately it was discovered in time to be pre-\nvented. He placed this man alone with some\nprovisions, ON small island in Quaker har-\nbour, and in the course of three weeks, so\ngreat change was made on his mind, that\nwhen Captain Barnard took him off, he was\nworn down with reflection on his crimes,\nand truly penitent.\n\n\nThey were now attentive to the advice Of\ntheir commander, and the above mentioned\noffender became truly religious and exem-\nplary in his behaviour. In this way they\ncontinued to live, occasionally visiting the\nneghboring island in search of provisions,\ntill the end of two years when they were TAX =\nen- off in the month of December, 1915, by\nan English whaler, bound for the Pacific.\nCaptain Barnard informed me, that British\nman of war had been sent expressly from\nRio Janeiro, to take them off, but by some\naccident the vessel. though at the islands.\ndid not fall IN with them.\n\n\nCaptain Weddell thus describes the PEN\ngums, which abound in great numbers in\nSouth Georgia, an island east of Cape Horn.\n\n\nNo land quadrupeds are found here; birds\nand amphibious animals are the only inhab-\ntants. Of the bird tribe, the king penguin\nis the most worthy of notice. The penguns\nCor. as they ought properly to be called, pir-\ngums, the name being evidently derived\nfrom the Latin word hinguedo. on account\nof its fatness) are OF very gregarious ma\nture. They go in large hocks along the shore,\nerect, and with waddling gait. When seen\nthrough hazy atmosphere, they may not\nbe inaptly mistaken for a body of men--and\nindeed, Sir John Marlborough has whimsic-\nally likened them to 'little children stand\ning up in white aprons\" These he describes,\nhowever, were avery diminutive species in\ncomparison with the king penguin, the bird\nto which l refer.\n\n\nIn pride these birds are not surpassed even\nby the peacock, to which in beanty of plu-\nmage they are indeed very little inferior as.\nmay be seen in our principal museums.\nDuring the time of moulting, they seem to\nrepel each other with disgust, on account Of\nthe ragged state of their coats; but as they\narrived at the maximum of splendour, they\nre-assemble; and no one who has not COM\nplcted his plumase, is allowed to enter the\ncommunity. They frequently looking down\ntheir front and Sides in order to contemplate\nthe perfection .of their exterior brilliancy,\nand to remove ANY speck which might sully\nit, rs truly amazing to All observer.\n\n\nAbout the BEGINNING of January they pair,\nand lay their neggs During the 6ime of\nMatching, the fnale' is remarkably assidu-\nous> so that wltsn tie hen has occasion to go\noff I'd feed and Yist;the egg is transported\n\n\nto hiR, which is a61k'by placing their toes\ntogether, and folling'it from one to the other.\n\n\nusing their bessks q, place it properly. As\n\n\nthey have no nesk,itfs to be remarked, that\n\n\nthe esq is carrieT between the tail and legs,\n\n\nwhere the feuals iin L, particular, has cavi-\n\n\nty for thepurposse; -, ~.\n\n\nThe hen keeps eharge,of her young near\n\n\n\" twelve laonth, during which time they\nchange and complete their plumagc; and\n\n\nin teaching them to swim the mother has\n\n\nfrequently to use some artiticc; for when the\n\n\nYoung one refuses to take the water. she en-\n\n\ntccs it to tlle side of a'rock, and cunningly\n\n\npushes it inj and this is repeated until it\ntakes the seq ofiss own accord. There are\nthree other. kinds, of. penguins. all of them\nnearly OF the same size, but little more than\nhalf the bipDess of that which have describ-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2737,
+                    "y0": 902,
+                    "x1": 3423,
+                    "y1": 5062
+                }
+            ],
+            "bbox": [
+                2737,
+                902,
+                3423,
+                5062
+            ],
+            "full_article_id": 11,
+            "id": "11_1827-01-04_p1_sn85042523_00271740244_1827010401_0707.json"
+        },
+        {
+            "object_ids": [
+                22,
+                12
+            ],
+            "headline": "JANUARY 4, 1927",
+            "article": "ner account, TO ODllRe MIN TO Tolerate anOln-\ner trio in the chain of his misfortune. Pc\nter himself, though he possessed but COM\nparatively small portion of his mates volu-\nbility, was man of much courage, and\nwhile in the frequent rencontress between\nhimself and madame Keltzer, to which he\nwas subjected, he was uniformly obliged to\nbeat the retreat, he turned his back with an\nair of lortlly defiance, and his visage showed\nevident signs of threatening retaliation.\n\n\nBetween parties so often belligerent, it\nwas hardly to be expected that every con-\ntest should end in smoke. Peter complained\nto all his neighbors of his wife's reasonable\nwar upon his liberty, and accp>ed her with\ndesign of reducing him to downright slave\nry; while she was not less prompt in charg-\ning him with an idle rambling disposition,\nan entire neglect of all home AFFAIRS, and e.\nven with being guilty of amours with Some\nof her good neighbours wives-whom he had\noccasionally furnished with saddle OF ven.\nison or string of squirrels. AS the danes\nsuspicious seemed founded on this, the last\ncharge was probably untrue, but the others\nwere doubtless substantial, and incontroyert-\nible on either side.\n\n\nNo one who has seen any thing of the\n\n\nworld, need be told what kind OF advice the\nfriends Of our honest couple gave them on\nthese occasions, or that its tendency was not\n\n\nin the smallest degree of a conciatory kind;\n\n\ninstead of growing better, things grew evil\nIDENTIFY worse, and from oft repeated threats\non both Sides plans OF execution were re-\n\n\nsolved in the minds of both Peter and his\n\n\nwife. The dame, in one particular, acquit-\nted herself with honor; she improved the\nhumble dwelling nightly in the course of\nfew years, and instead of a ground floor\n,F ,rIp all, h,I\nkind of trap door cut in the middle, di-\nrectly under which she commenced hollow\ning out something like cellar, and made\nsuch progress during one of Peters long\nrambles that on his return, he began to sus\n\n\npcct the object oe SO much secrecy and des-\npatch had some reference to himself. He\nseriously believed Dame keltzer designed\npreparing dungeon in which to immure\nhim. soul and body, and thereby execute\nlong standing threat that she would break\nhis rambling. In the confidence of his\nstrength, he determined to assist her, and\non the slightest symptom of the outbreak\ning of the conspiracy, to turn the punish\n\n\nment upon her.\n\n\nWe have now the worthy couple. each, in\nthe others absence, alternately embracing\nthe opportunity of following out deep cav\n\n\nern under the floor of the log cabin; and it\nwas persisted in, until it was actually, as\n| found by measurement, nine feet deep. A\nladder was now tburst into it, and the dame\nmade use of it as temporary cellar, using\n\n\ngreat precdut,on, however, never to enter it\n\n\nwhile Peter was about home, and at the\n\n\nsame time seizng occasional opportunities of\n! persuading him to SO down himself, under\n\n\none prctencc or another, for all of which she\n\n\nfound him too wisely cautious. At length\n\n\nwearied with hope deferred, and Peter be.\n\n\ncoming in no wise reformed from his old in\n\n\nveterate habits, on his return to the cabin\n\n\none dull damp evening. she took care to\n\n\nhave the door opened and the ladder drawn\n\n\nup in readiness. The moment he set his\n\n\nfoot upon the threshold, she seized his arm,\n\n\nand made a desperate attempt to accomplish\n\n\nby force what she slespaired ever being a.\nbic to do by stratagcm. A doubtful strug-\n\n\ngle ensued and Peter partly disengaging him\nself, so that as he fell, he seized and drag\nged the good woman after him, and she\n\n\ncatching at the door to stay herself, prccip-\n\n\nitated it down over them both. The fan\n\n\ndid no injury. The dame in tenderness Tor\n\n\nher husband, had deposited a quantity OF\n\n\nfax which she had taken to spin, so that il\n\n\nreceived them both, and when they fairly\n\n\nrecovered themselves on their feet, they\nfound neither had sustained damage, alft\nboth were fairly vanquished.\n\n\n, At first they took separate corners of ths\ncell, avowing themselves quite conten.ce\nand comfortable. Then the dame began {\n: commentary Of Peters evil life, which last\n. ed untifnoon next days though poon broueh\nsmall change from flight to them. Hunger\nbegan its work; nothing to eat or drink wa\nto be had, The business of mutual punish\nment went on apace, and long time. wa\n5 borne with unacknowtedging obstinacy-h\n, nally, however, neither could stand it longe\n: \"a truce was agreed upon-mutual ac\n+ knowledgements passed; and at last the par\nties, thoroughly reconciled, agreed to assis\nS each other out of this dreary confinement\nThis was no easy task, and had they no\n\n\nabandoned all their jralousies and ill-will\nt and abored in the closest concert, it woult\nG never have been accomplished. Finally, b.\ne gathering considerable pile of gravel be\n: low, Peter took his wife upon his shoulder\n: and she succeed from thence in climbing OH\n:, The ladder was then put down and Pete\n: himself obtained deliverance. What al\nn the arguments in the world could never hav\ne effected, this single incident did effect\n6 thorough reform; and whenever afterwards\n!, Peter was about doing amss, or dame kelt\n: zer's voice exceeded common key, the re\nr collection of the nine foot cellar, and thre\n! days and nights passed therein, set all mat\ne ters right.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1462,
+                    "y0": 685,
+                    "x1": 1953,
+                    "y1": 747
+                },
+                {
+                    "x0": 1362,
+                    "y0": 906,
+                    "x1": 2044,
+                    "y1": 5062
+                }
+            ],
+            "bbox": [
+                1362,
+                685,
+                2044,
+                5062
+            ],
+            "full_article_id": 13,
+            "id": "13_1827-01-04_p1_sn85042523_00271740244_1827010401_0707.json"
+        },
+        {
+            "object_ids": [
+                19
+            ],
+            "headline": "",
+            "article": "And what is this ornament on which we\nlught to set so high value?-A meek and\n(uiet spirit. o, what different world ours\nFould be. if this heavenly jewellery were to\nYecome fashionable but alas how rarely\n70 We see it worn, we hear much outcry OF\nProng, insult, ingratitude. The peace OF\n'sery private circle is interrupted, more or\nFss by some petty contention. And here\n\n\nsimple means which would heal every\nreach, calm every storm. allay every irrita-\non' There isa certain temper called shirit in\n0me young people, which is altogether op-\n\n\nSEQ to meekuess and quietness. The We\n\n\nterms, indeed. would probably excite in\n\n\ns% . smile of contempt. But this would\n\n\nDrove them 20 be unacQua ipteu wi",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 52,
+                    "y0": 4797,
+                    "x1": 708,
+                    "y1": 5492
+                }
+            ],
+            "bbox": [
+                52,
+                4797,
+                708,
+                5492
+            ],
+            "full_article_id": 20,
+            "id": "20_1827-01-04_p1_sn85042523_00271740244_1827010401_0707.json"
+        }
+    ]
+}

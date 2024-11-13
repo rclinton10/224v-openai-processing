@@ -1,0 +1,862 @@
+{
+    "lccn": {
+        "title": "American watchman and Delaware advertiser.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2576-7445",
+        "lccn": "sn82014894",
+        "start_year": "1822",
+        "end_year": "1828",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [
+            "sn82014895"
+        ],
+        "successors": [
+            "sn82014393"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn82014894",
+        "edition": "ed-01",
+        "date": "1827-01-30",
+        "pages": [
+            "seq-4",
+            "seq-1",
+            "seq-2",
+            "seq-3"
+        ]
+    },
+    "page_number": "1",
+    "scan": {
+        "lccn": "sn82014894",
+        "edition": "ed-01",
+        "date": "1827-01-30",
+        "page": "1",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn82014894/1827-01-30/ed-1/seq-1.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn82014894/1827-01-30/ed-1/seq-1/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn82014894/1827-01-30/ed-1/seq-1/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn82014894/00271740219/1827013001/0050.jp2",
+        "height": 5624,
+        "width": 3568
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 30,
+                "y0": 1436,
+                "x1": 853,
+                "y1": 3221
+            },
+            "class": "article",
+            "raw_text": "MyHE Subscriber DocTOR MEDICINE and PnAcTIcAL\n\n\nCHEMIST respectfully informs the Ladies and Gentle.\n\n\nEN- of Wilmington and its vicinity, that he has con-\nhenced to prepare Medicine, in MARKET STREET,\ngilmington Delaware, in the house opposite Mr. Henry\nooDes q Co's Lumber Yardwhere he prepares the fol\nbwng Medicines The sulphate of Quinne. This med\n\n\nline contains the active principle Of the Peruvian Bark and\n\n\nhen properly prepared is the best medicine yet dis\novered the of Agucs, Rement aud Ine mittent\nlevers. lie also prepares Balssnc Restorative for dis\nases Of the Breast and Lungs, Pulmonary Consumption\nPhthisic; and medicine which will cffec u.'y cure the\nhost distressing Headache, matter how long lis contn-\nlance may be. He also cures the Too nache in few\n\n\nnutes without making OF any of the corrodng acds\nred hot iron, or plugging the teeth with gold leaf or\nheet lead The medicine he makes use of will preserve\nteeth for years. lie prepares Tooth Powder that Ill\n\n\nhen the teeth be they ever so black from taking med\n8ne any other DIR. p. prepares Eye Water\nhat will remove all nflammaons from the eyes have\nured numbers from the rheumatism and some Of them\ntrpples for years from it Names signatures do no,\nequre as see it is too much he custom with quackery.\nFrom my practice of medicine and my experience and\nknowledge of chemistry, am able to extract medicinal\n\n\nvirtues contained in animals, vegetables and minerals and\nan apply them for the different diseases constitutions\nbf people may hem Persons afflicted with Cancers,\nIf they make timely application, be cured.\n\n\nThere is medicine sold BY the of Syaims Pdna\n\n\na which did not hear OF until saw Mr. s\"sm's adver,\nhe most eminent physicians in Philadelphia and spoke\nhem respecting the Psnacca, and informed them that\nlad the authors works who Invented the medicine ant\n\n\ndiscovered its effects in the Of certain diseases. AL\nthe gentlemen spoke to on the subject, said they we\ncertain that Mr. Swain not the inventor Of the med\ncine The that nveaed the Panacca one of HE\ngreatest chemists that Europe Produced and Is dead neal\ntwo hundred years; and his writings are difficult 10 be had\nTha MIR. Swain has got part of his works, some\nperson gave him receip from the work. have no doubt\nIof have prepared chemical and real preparation\nof the PANACEA, which will sell a. dollar per bot\n\n\ne by the dozen, and dollar and fifty cents single\n\n\nDR. Y. prepares Wash for the Ladies which removes\nall Spot Erup,ions and Teter from the face and hands,\nand clears and beauties the skin lie also prepares\nSave that will take Corns by the roots from the toes\nand not give the eas sensation OF main\n\n\nLadies or Gentlemen who afflicted with any disease\nthat is durable, if they pleased to call me- ea be\nattended TO with the s,rictest punctalnv\n\n\nJAS. PURCELL. NJ. d. g. p c.\nWilmington, Del, Jan 23, 1877. 22-1y",
+            "legibility": "Questionable",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 171,
+                "y0": 1370,
+                "x1": 717,
+                "y1": 1420
+            },
+            "class": "headline",
+            "raw_text": "MEDICAL NOTICE,",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 39,
+                "y0": 4024,
+                "x1": 857,
+                "y1": 5356
+            },
+            "class": "article",
+            "raw_text": "81 a. 4 IT. Wilson's Rookstore and Circulating\n\n\nLibrary.\nHonor Offara, Novel vols. by Miss Anna Maria Por\nter\n\n\nRussian Tales\n\n\nRough Mites taken during rapid Journeys\nthe Pampas ard amorg The Andes. BY Capt f. b. Head\n8ell's Observations on Italy. vol.\nThe History OF Chivary; or KGighhood and its Times\nBY Charles Mills, Esq Author Of the History OF the CRU\nsades 2 vols. in one\n\n\nThe Works OF Anna Lata Bai BAUD with Memoir by\nLucy Akin 2 vols.\n\n\nThe Tor Hill Blythe Author Of Brambe,ye House, &c.\n2vols.\n\n\nHints to My Countrymeo. BY an Ame lean. vol\nModeration. BY Mrs. Holland. vol\nBeauties Of Byron. VOL\n\n\nFor Sale at The abore place,\nA General Assortment of SCHOOL BOOKS, STATION\nERY and FANCY ARTICLES, among which are\nScales & Dvders, Visiting Cards,\nPenknves Backgammon boards, ele-\nScissors, ga tIy finished.\nGold B. Silver Pens. Durable Ink,\nSilver Pencil Cases, Pocket, Ivory and Dressing\nPocket Books Combs,\nWindsor and Fancy Soap, lnksands,\nSealing Wax States,\nWaters, Black Sand,\nWafer Stamps, India Rubber,\nRuled Writing and Letter Parchment,\nPaper Copy, Cipheiing, ard Memo\nWater Colors randum Rocks.\nToy Paints, White & Blue Bonnet Board,\nCamels Hair Pencils Day Books,\nBlack Lead do Legers, &c\nAll of which will be sold low for cash.\nBLANK BOOKS mRde' any pattern.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 52,
+                "y0": 3971,
+                "x1": 638,
+                "y1": 4025
+            },
+            "class": "headline",
+            "raw_text": "NEW BOOKS.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -2
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 48,
+                "y0": 4029,
+                "x1": 840,
+                "y1": 4104
+            },
+            "class": "author",
+            "raw_text": "81 4. 4 III. Wilson'S bookstore and Circulating\n\n\nLibrary.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 865,
+                "y0": 3659,
+                "x1": 1644,
+                "y1": 4900
+            },
+            "class": "article",
+            "raw_text": "From Bsster's Quarterly Mngazine.\nask'd the sage, when wandering afar\nIn search Of Wisdom's bright and shining star,\nWhat's wisdom HE exclaim'd with fearful eyes,\n\"The fear of Gods the Wisdom Of the wise\"\nask'd the rainbow's changing tnts Of light.\nThe glorious harbinger Of mercy bright\nAud badc me lull the fearful heart of man.\"\nask'd the ocean-snd its ceaseless tide\nIn hollow murmurs to my voice replied\nBehold my swelling waves, their ebb and flow.\nThe hand of Wisdom marks how far they'll 60\"\nThen pursued the pure, the golden sun,\nAnd found him nearly when his course was done;\n90 stay me not\" he cried, \"check not my pace,\nIT'S Wisdom's work run the heavily race!\"\nask d the stars 10 track me Wsdoms way,\nIn The high heav'n Of glory where they lay;\n\"'Tis Wisdoms path\" they cried \"thx we have trod,\nThe path to Wisdom is-the will Of God %\nask'd the moon, the moon that shone afar,\nIn her pale light within her crescent car\n:\" Wisdom is knowledge of the hand divine\nThat bade me be-and PLACID me here to shine\"\nThe silver spheres caught up the heavily song,\nEcho'd through endless space it rol'd along;\nAngels reJoc'd and hll'd with holy fires,\nTun'd unto Wisdom all their golden Tyres.\n+\" Wisdoms he influence brightly glowing,\nFrom The Almighty's glory ever flowing!\ntn unspotted mirror of is power and might,\nThe radiance of the everlasting light\"\nThen earthborn man attune thy sacred yrcp\nAnd join ting chorus of the heavily choir,\nL. praise to the great tribune God above,\nWhose Willis Wisdom, and whose rod is love.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 1472,
+                "y0": 3515,
+                "x1": 1635,
+                "y1": 3551
+            },
+            "class": "author",
+            "raw_text": "ROwENA.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -3
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1023,
+                "y0": 3602,
+                "x1": 1503,
+                "y1": 3647
+            },
+            "class": "headline",
+            "raw_text": "WHAT rs WISDOM ?",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -2
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 1006,
+                "y0": 3655,
+                "x1": 1490,
+                "y1": 3687
+            },
+            "class": "author",
+            "raw_text": "From Bshter's Quarterly Magazir",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 878,
+                "y0": 667,
+                "x1": 1683,
+                "y1": 1073
+            },
+            "class": "article",
+            "raw_text": "copartneTshp heretofore existing between Samuel\nIl remington and Augustine II Pennington, trading un-\nsolved Persons having claims will present them to H.\nPennington and all persons indebted either on Bond Note,\nor Book Account, will please call and pay the same to\nH. remington who will settle the business of the late firm\n\n\nA. ii. PENNINGTON, Surviving Partner,\n\n\nfor himself, and Guardian of SAMUEL\n\n\nPEsINGTos, minor, and Administrator of\n\n\nJonN PENINeroN, heirs Of SAMUEL PEN\n\n\nISoToN, deceased.\n\n\nSiiddetown, Del, Jan 12, 1927. i1o-2m",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 988,
+                "y0": 500,
+                "x1": 2448,
+                "y1": 572
+            },
+            "class": "headline",
+            "raw_text": "WILMINGTON, Del. TUESDAY, JANUARY 30, 1927.",
+            "legibility": "Questionable",
+            "full_article_id": 4,
+            "reading_order_id": -2
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 936,
+                "y0": 606,
+                "x1": 1604,
+                "y1": 664
+            },
+            "class": "headline",
+            "raw_text": "Dissolution of Copartnership.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 870,
+                "y0": 4956,
+                "x1": 1670,
+                "y1": 5339
+            },
+            "class": "article",
+            "raw_text": "AS body OF troops passed in review before Bona\nparte at the Carousel, his horse became so unruly\nthat his hat fell off in his exerions to restrain it..\nA young soldier, who happened to be near him.\npicked up the hat and presentedit it to him. Thank\nyou captain said Napolean. In what regiment,\nsire?' said The young man. A few days after. the\nyoung man, with whose answer Bonsparte was\nmuch pleased, was unexpectedly raised by brevet\nto the rank Of captain Of the imperial Guard.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 874,
+                "y0": 1151,
+                "x1": 1675,
+                "y1": 1433
+            },
+            "class": "article",
+            "raw_text": "ID AN AWAY from the subscriber, on the night of the\nIL 18th inst apprentice to the Coach-Mskng busi-\nness, named Martin SuLiyan, the Dist year of his age\nHad on when he went away, suit oflight blue coth\nand new fur hat He went in company with apprentice\nbelonging TO Peter A. Humphreys, named John Hail. All\npersons are warned not TO harbor or employ him.\n\n\nTHOMAS MOORE.\nWilmington, Jan. 10, 1897. 21-4t",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 896,
+                "y0": 1089,
+                "x1": 1631,
+                "y1": 1143
+            },
+            "class": "headline",
+            "raw_text": "FIVE DOLLARS REWARD.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 936,
+                "y0": 1511,
+                "x1": 1631,
+                "y1": 3559
+            },
+            "class": "article",
+            "raw_text": "EVE.\n\n\nByALApr OF NEWPORT, RI.\nII is the tender twilight hour,\nAnd glimmering through yon russell bower,\nThe dying ligh, is seen,\nGiving family golden tinge\nTo the rich mines that deeply fringe\nIts Ia'ices of green.\nThe mellow whistle still is heard,\nOf that same dear familiar bird,\n\n\nWe used to love so we'll;\nFer had known the parting pain\nd bliss of meeting thee again.\n\n\nMy own dear Rosabee\nAh Love thou never canst forget\nWhen on the green our hamlet met,\nAnd merry pipes were played;\nHow from the dance we stole away,\nAnd tremblingly led the way\n\n\nToyonder lovely shade.\nWe reach'd the bower, the moon-beams fell\nFull on my lovely Rosabelle,\n\n\nMaking the fair more fair.\nLike vines round marble pillars hung,\nSo round her polish'd neck were Aung\nThe sunny wreaihs OF hair.\nHer angel face was tnrnd aside\nThe blush Of innoc, nee TO hide,\n\n\nThat DER her features stole.\nWe ne'er before had been alone.\nNor had ever dared TO own\n\n\nThe love that fill'd my soul.\nOh! tell me why in that strange hour,\nBeauty had such mysterious po@er'\nFor though convsed with fears---\nWith passion not TO be rerressed.\nthrew myself upon thy breast,\n\n\nAnd told my love in tears;\nThou vert subdned; heard thy sohs--\nfelt thy bcsom's answering throbs--\nThy tears were mixed with mine.\nWe knew that every doubt was done\nOur hearts had melted into one.\n\n\nOn feelings holy shrine\nBut when the shock that open threw\nOur bosoms, to each others view,\nIn gentle numbers died\nThe morn Of love--'twas heaven to trace,\njust opening in thy besming face,\n\n\nIn all its blushing pride.\nThen, Rosabelle. for memory's sake\nOur way to thai same bos ser we'll lake,\nThat saw loves roscate dawn;\nFer this is Courtship's latest eve,\nAnd the. our bridal wrea'hs we'll weave,\nTogrsce the coming morn.\nAll nature seems our bliss to share.\nSpirits Of joy are in the air.\n\n\nThey wave their rainbow wings,\nAnd shed, on his auspiciuos night\nglow Of pure Elysisn light,\n\n\nGer all created things. ROWENA.\n",
+            "legibility": "Illegible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 870,
+                "y0": 1467,
+                "x1": 1670,
+                "y1": 1551
+            },
+            "class": "headline",
+            "raw_text": "TIE LOVER TO HIS MISTRESS, ON THE BRIDAL\n\n\nEVE.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1687,
+                "y0": 4995,
+                "x1": 2483,
+                "y1": 5335
+            },
+            "class": "article",
+            "raw_text": "Roger. where was If'-At Kenwyn, during di-\nvine service, two dogs, one of which the par\nsons, were 6gh,ing at the west end Of the Church.\nThe parson who was then reading the second les\nson. rushed out to part them; and on his return,\ndoubling where he had lef. off, asked the clerk\n/\" Roger where was 1 - \"Why, down parting the\ndogs, to be sure\" said Roger, to The 10 small\namusement Of the congregation.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2495,
+                "y0": 777,
+                "x1": 3331,
+                "y1": 4987
+            },
+            "class": "article",
+            "raw_text": "Convention; and conformobly TO our annual custom,\n\n\ntins week make few remarks relative to that\n\n\nnever to be forgotten Assembly. We agree that\non some accounts this task is rather unpleasant :\nbut we conscentiously believe that proper regard\n\n\nTor those republican principles which we have always\n\n\ncherished. requires the performance at our hands.\n\n\nWe are also ready to admit that many ot the MEM\nbers and promoters Of the Hartford Convention pos\nsessed talents and integrity and other qualities which\n\n\nrendered them useful and respectable ctIzeps and\nWe are willing that their friends should dwell on\ntheir virtues much and az often as they please,\ntor we do not undertake TO arragn any thing\nthan their conduct as connected with this political\nproject But this we have done, and still do, be-\ncause NC have always believed that the Hartford\nConvention was . party measure, and INTENDED to\nsustain the waning Cause OF federalism; because it\nwas calculated n its results to be rpinous TO the\npeace, unity. and prosperity OF our county and\nbecause the fair fame Of Connecticut, our native\nState, was sued by being the spot selected Tor The\nConvention to assemble in.\n\n\nIn order therefore that the present generation (f\nthere are any whose minds are not made up) anc\nposterty may be enabled to form correct Judgment\non this subject, We sgaia enumerate some OF the\nreasons which led us q, the time, and which have\ncontinued from that day to this to coDst ain US TO\ncensure this 6old and dangerous scheme. 1t had\n\n\nlong been fore'od BY the emssaries oil Grea' Britain,\nthat, on the happening Of certain e-en's. Conyen-\ntion. like that which assembled at Hartford, would\nbe held. Those events happened, and the predicted\nConvention was hcId-These same cmissaries fore\ntold that in should be declared against\nEngla' d, there would be great opposition to that\nwar in New England. and Massachusetts would take\nhe lead in that opposition War was declared and\ngreat opposition arose in the New Eng land States =;\naud the legislature of Massachusetts gave the tone\nThe ncghboiing States. The members and friends\nOf the Convention were the ssders OF the federal\nparty, who not only opposed the then administration\nut The general government, but they we're strongly\nsuspected Of being friendly to the British govern\nmvni These men had previousl. declared that the\nConstitution Of The United States had tailed TO\ncure the objects for which formed iney l,ied\nto rmbafrass the ed inistraon by ext ring them\nselves to transfer the management oil ,he\nu the general government 10 the Stale govern ments;\nthey would not rejoice al he defeats oi the enemy.\nnor would they rejoice a. he victories gained by\nown army and navy They held the Convention in\nsecret. and With closed doors and al the time when\nthe enemy were com ting depredstIons at Ha.re-\nde-Grace n.saul'ing Baltimore, pilaging and burn\n\n\ning Washington. ard preparing their expedition\nagainst New Oleans; in short, al the very time when\n\n\nthe whole Atlantic coast was threatened with fire\nand sword, and the whole northern frontier wa, an\nnoyed by the ravaees of the enemy and heir In\ndian allies. The Convention ton, was held during\nwar which had been unayoldably declared For tbs\nprotection OF the lives and liberty Of portion Of our\ncixens and for the protection of invaluable rights,\nand vast amount of property .whi' war has been\nemphaiically styled the second war ol Independence.\nAnd a. every war, however just, necessariIy brings\nwith it great and distress. this crisis -ezed\nby the ederass to regain the standing places, and\ninfluence, which they losing, and force the\ngovernment to make a dishonorahle peace. Such\nmust have been the views Of the friends Of he Con-\nventon, for let never be forgotten that the objects\nTor which it was held were mt OBJ all ed. nor have\nthey since its dissolution made any mpts OBJ\ntain the IN but their objec's given over, and\nthe prospects OF these aspirants vanished soon\nthe news OF honorable peace reached our shores.\nThe effects produced by the Convention we he\nencouragement Of the enemy, and the sggrava'lon\nOf the distresses OF our own citizens. In conciu-\nsion, we do not deny that our attention has been\nthe steadily turned to this subject fof the last\ntwelve years, because We have always viewed it as\none Of those occur'en' es in the course OF events,\nwhich has worderiul.y tended to put up republic ans\nand to pui down federasts and at this time oil day,\nwho will not admit that this is it should be. for it\nseems to have been Of those strong instances in\nwhich much good has come out OF great evil,\nbut thanks to be given to the friends of the\nConvention for that ard all we ask is, that in view\noil the foregoing remarks, every reader should can\ndidy form such an opinion as III: whole facts and\ncircumstances warrant\n\n\nLiterary Bargain.- When Fielding had finished\nhis novel OF Tom Jones, being much distressed he\nsold il to an obscure bookseller lor 25l. ON condcn\nOf being paid certain given dsy. In the mean\ntime, he showed the manuscript 10 Thomson, the\nPoet, who was Immediately struck Wi its great\nmerit, and advised Fielding by all means to get ree\nfrom the bargain. which he did without much diff\nGuilty, as the bookseller was not capable OF estimat-\ning the value OF his pu chase Thomson recon-\nmended the work to Andrew Miller and the parties\nmet at 4 tavern over beef steak and bottle. Mill\nTer began with saying, Mr.. Fis.dng. always de-\nrmine affairs Of this sort at once, and ever\nchange nv offer, | viii not give one fat thing",
+            "legibility": "Questionable",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2636,
+                "y0": 623,
+                "x1": 3195,
+                "y1": 699
+            },
+            "class": "headline",
+            "raw_text": "From the Golumtian Register.\nHARTFORD CO 3VENTION,",
+            "legibility": "Questionable",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1678,
+                "y0": 703,
+                "x1": 2479,
+                "y1": 4179
+            },
+            "class": "article",
+            "raw_text": "eu OF pigeons, as letter carriers s by Ovid. IN h\n4\" Meamor phoses,\" who tell Us that Taurssthene\nby pigeon stained with purple, gave notice oi b\nhaving been victor at the Olympic games on III\nvery same day to his father at Egins.\n\n\nWhen the city Of Ptolemais. in Syria, was invest\ned by the French and Venitans, and it read\nto fall into their hands, they observed pigeon 6y\ning over them, and Immediately conjectured tina,\nwas discharged with letters TO the garrison On thi\nthe whole army raising loud shout. SO confounde\nthe poor erial post, that it fell to the ground\nON being seized, letter was found under its wings\nfrom the Sultan, in which he assured The garrison\nthat he would be with them in three days, with al\narmy sufficient to raise the SIEGE\" For this let\nter the brssgess substituted another to this purpose\nthat the garrison must see to their safety, 70\nthe Sultan had such other ssirs pressing him, tina\nit was impossible for him to come to their succour;'\nand with this false intelligence they let the pgeor\nnee on his course. The garrison. deprived by th\ndecree OF all hopes Of relief, Immediately surrender\ned. The Sultan appeared on the third day, a:\npromised, with q powerful army, and was\nlittle mortified to end the city already In the hands\nOf the Christians.\n\n\nCarrier pigeons were again employed, but with\nbetter success at the siege Of Leyden, in 1875 The\ngarrison we're, by means Of the Information thu:\nconveyed to thcm induced to stand out, till the enc\nmy, desparing Of reducing the place, Withdrew\nOn the seige being raised the Prince of Orange or\ndered that the pigeons who had rendered such es-\nsentipl service should be maintained at the public\nexpense and that at their Death they should be EN-\nbsmed and preserved in the town house, as 6\nperpetual token OF gratitude.\n\n\nIn the East. the employment Of pigeons for the\nconveyance ofletters is still very common. parties\nlsrly in Syria, Arabia, and Egypt. Every Basha~\nhas generally . basket full # them sent him from\nthe grand serago, where they bred, and in case\no! any insurrection or other emergency. he is en-\nabed, by letting loose two more OF these extraor\ndinary messengers convey intelligence to The gov\nrrnment long before it could be possibly obtained by\nother means.\n\n\nThe diligence snd speed with which these feath\ncred messengers wing their course is cxtraor binary\nFrom the instant OF their liberatioD their flight\ndirected through The clouds at an immense heigh,\nto the place OF their destination. They believed\nto dart onward 10 a straight line and never descend\nexcept when a. loss for breath, and then they art\nto be seen, commonly at dawn Of day, lying on hci\naoks on the ground, with their bills open, suckir.\nin with hss,y avidi'y the dew Of the morning. o\ntheir speed the instances related almost incred\nBile.\n\n\nThe Consul of Alexandra daily sends despatche\nby these means TO Aleppo in hours, though cour\ners occupy the whole day and proceed with the ut\nmost expedition from one town to the other.\n\n\nSome years ago gentleman scot carrier pigeon\nfrom London by the stage cosrh. to bis friend ir\nST. Edmonsbury, together with q note, de,ring tina\nthe pigeon Two days after their arrival there nigh\nbe thrown up precisely when the town clock struck\nnine in the morning. This was done accordingly\nand the pigeon arrived in London, and Rew to the\nBull Inn, Biahopgate street, into the lot,, and\nthere shown at half an hour past eleven o'clock\nhaving flown seventy two miles in two hours and a\nhalf.\n\n\nAT Antwerp. in Isl9 one OF the thirty two pigeons\nbelenging to that city. who had been conveyed to\nLondon, and here let loose, made the transit back\nbeing distance in direct line Of one hundred and\neighty miles, in six hours.\n\n\nIl 10 through the attachment OF the animals to the\nplace Of their birth. and particularly to the spot\nwhere they had brought up their young, that they\nare thus rendered useful 10 mankind.\n\n\nWhen young one flies very hard at home, as il\ncomes TO its iul strength it is carried in basket\notherwise about half mile from home, and there\nturned out-after this. il is carried mile, and ther\ntwo four eight, ten twenty, &C. till at length vii\nreturn from the furthermost parts Of the country.\n\n\n*\n\n\nIn an action for an assault and battery, il was\ndeemed proper to ascertain the size Of certain\n",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 1898,
+                "y0": 615,
+                "x1": 2312,
+                "y1": 660
+            },
+            "class": "headline",
+            "raw_text": "CARRIER PIGEONS.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 44,
+                "y0": 3312,
+                "x1": 853,
+                "y1": 3959
+            },
+            "class": "article",
+            "raw_text": "f-,r.. a Hnuse and sn,aN N.Tn. 10 the Village oI\nES Newark, lately ,ccta j 5, the Rev. SAMUEL\nmss. BELL, possession of will be given on the\nMi 25th day Of Mach \"es.\n\n\nThe Farm contains sbon ory acres Of arabic land AVID\nmeadow, good orde, al conveniently divided The\nimprovements are good brick dwelling house and kitch\nen with brick barn, carriage house and other out build\nings.\n\n\nThis property would be very SUI abe t'r family VIII\nmight be desirous OF wing NJ \"ark to educate chill\ndren There exceea semi ares in that village\nthe Newark Academy, which under he direction o the\nRev K RUSSELL aided two assistants, in which boys\ntaught the Lain AID GreeR Languages Mathematics,\n&c and school for young Ladies under the direction\nthe Rev. SAMUEL BELL in which taught the useful and\nornamental branches of Female Education.\n\n\nFor terms Apply in Whining on TO Mrs. MARY BLACK,\nor to the subscriber in New castle. j. BLACK\n\n\nJan. l6, 1927 UT",
+            "legibility": "Questionable",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 202,
+                "y0": 3242,
+                "x1": 686,
+                "y1": 3296
+            },
+            "class": "headline",
+            "raw_text": "TO BE RE- TED,",
+            "legibility": "Questionable",
+            "full_article_id": 17,
+            "reading_order_id": -1
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1678,
+                "y0": 4086,
+                "x1": 2483,
+                "y1": 4948
+            },
+            "class": "article",
+            "raw_text": "In an action for an assault and battery, il was\ndeemed proper to ascertain the size Of a certain\nstone, with which il was alleged the battery was\ncommitted. For this purpose a witness was called\nto the stand, and the following brief report Of his\nexamination will show how perfectly his testimony\nmust have satisfied the jury:\n\n\nQ. Did you the defendant throw the stone !?\nA. saw a stone, and am pretty sure defendant\nthrew it. Q. Was it q stone OF considerable di.\nmensions? A. Why. it was a considerable Of a\nstone. @. How large was it? A. should say it\nwas largish stone. Q. What was its size? A.\nWhy, it was a szeable stone. Q. Can't you answer\nde6nely-how big was ita A. should say it\nwas stone of some bigness Q You are sngu\nlar witness-can' you give the jury some idea Of\nthe stoneP A. Why. as near as can recollect it\nWAS something of stone. Q. Can't you compare\nit with some other objecta A. Way, il l was to\ncompare it, as to give my notion of the stone. |\nshould say, near as can judge, it was about as\nbig as piece Of chalk.",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 52,
+                "y0": 641,
+                "x1": 866,
+                "y1": 1341
+            },
+            "class": "article",
+            "raw_text": "rhe terms are, those who pay during the month of\nSnuary or July six months in advance-Fon Dollars a\n3ar From those who do not pay above, Fue Dollars\nNh be demanded. Ii sub crbcr wishes TO decline, he\n\n\nst notify the editors Of his intention before the first of\nInc or December, and pay all arrearagcs. Without\nSmpance with these conditions, no paper will be dscon\nhued except at the option of the editors\nTERMS OF ADVERTISING.\nAdvertisements exceeding twelve Ines for term\nrs than three months four times for ar, and wen-\ncents for every subsequent insertions longer in pro-\nSrtion Advertisers requested TO specify in writing\n\n\nlong their advertisements are to be inserted, they\ns be continued till forbid. Letters to the Editors to in.\nIre attention must be post paid.\n\n\nAiverttsing 6ytheyear.\n10 Subscribers. To Non-Subscr cribers\ng1 year $l5, 90 1year Sl8, 90\nmonths 8, months g. so\n5 do A. SO do. 500",
+            "legibility": "Questionable",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 61,
+                "y0": 496,
+                "x1": 365,
+                "y1": 554
+            },
+            "class": "headline",
+            "raw_text": "Number 524.",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": -2
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 61,
+                "y0": 593,
+                "x1": 827,
+                "y1": 642
+            },
+            "class": "headline",
+            "raw_text": "CONDITIONS OF THE wATCHMAN",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": -1
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                10,
+                0
+            ],
+            "headline": "MEDICAL NOTICE,",
+            "article": "MyHE Subscriber DocTOR MEDICINE and PnAcTIcAL\n\n\nCHEMIST respectfully informs the Ladies and Gentle.\n\n\nEN- of Wilmington and its vicinity, that he has con-\nhenced to prepare Medicine, in MARKET STREET,\ngilmington Delaware, in the house opposite Mr. Henry\nooDes q Co's Lumber Yardwhere he prepares the fol\nbwng Medicines The sulphate of Quinne. This med\n\n\nline contains the active principle Of the Peruvian Bark and\n\n\nhen properly prepared is the best medicine yet dis\novered the of Agucs, Rement aud Ine mittent\nlevers. lie also prepares Balssnc Restorative for dis\nases Of the Breast and Lungs, Pulmonary Consumption\nPhthisic; and medicine which will cffec u.'y cure the\nhost distressing Headache, matter how long lis contn-\nlance may be. He also cures the Too nache in few\n\n\nnutes without making OF any of the corrodng acds\nred hot iron, or plugging the teeth with gold leaf or\nheet lead The medicine he makes use of will preserve\nteeth for years. lie prepares Tooth Powder that Ill\n\n\nhen the teeth be they ever so black from taking med\n8ne any other DIR. p. prepares Eye Water\nhat will remove all nflammaons from the eyes have\nured numbers from the rheumatism and some Of them\ntrpples for years from it Names signatures do no,\nequre as see it is too much he custom with quackery.\nFrom my practice of medicine and my experience and\nknowledge of chemistry, am able to extract medicinal\n\n\nvirtues contained in animals, vegetables and minerals and\nan apply them for the different diseases constitutions\nbf people may hem Persons afflicted with Cancers,\nIf they make timely application, be cured.\n\n\nThere is medicine sold BY the of Syaims Pdna\n\n\na which did not hear OF until saw Mr. s\"sm's adver,\nhe most eminent physicians in Philadelphia and spoke\nhem respecting the Psnacca, and informed them that\nlad the authors works who Invented the medicine ant\n\n\ndiscovered its effects in the Of certain diseases. AL\nthe gentlemen spoke to on the subject, said they we\ncertain that Mr. Swain not the inventor Of the med\ncine The that nveaed the Panacca one of HE\ngreatest chemists that Europe Produced and Is dead neal\ntwo hundred years; and his writings are difficult 10 be had\nTha MIR. Swain has got part of his works, some\nperson gave him receip from the work. have no doubt\nIof have prepared chemical and real preparation\nof the PANACEA, which will sell a. dollar per bot\n\n\ne by the dozen, and dollar and fifty cents single\n\n\nDR. Y. prepares Wash for the Ladies which removes\nall Spot Erup,ions and Teter from the face and hands,\nand clears and beauties the skin lie also prepares\nSave that will take Corns by the roots from the toes\nand not give the eas sensation OF main\n\n\nLadies or Gentlemen who afflicted with any disease\nthat is durable, if they pleased to call me- ea be\nattended TO with the s,rictest punctalnv\n\n\nJAS. PURCELL. NJ. d. g. p c.\nWilmington, Del, Jan 23, 1877. 22-1y",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 171,
+                    "y0": 1370,
+                    "x1": 717,
+                    "y1": 1420
+                },
+                {
+                    "x0": 30,
+                    "y0": 1436,
+                    "x1": 853,
+                    "y1": 3221
+                }
+            ],
+            "bbox": [
+                30,
+                1370,
+                853,
+                3221
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-01-30_p1_sn82014894_00271740219_1827013001_0050.json"
+        },
+        {
+            "object_ids": [
+                19,
+                27,
+                1
+            ],
+            "headline": "NEW BOOKS.",
+            "article": "81 a. 4 IT. Wilson's Rookstore and Circulating\n\n\nLibrary.\nHonor Offara, Novel vols. by Miss Anna Maria Por\nter\n\n\nRussian Tales\n\n\nRough Mites taken during rapid Journeys\nthe Pampas ard amorg The Andes. BY Capt f. b. Head\n8ell's Observations on Italy. vol.\nThe History OF Chivary; or KGighhood and its Times\nBY Charles Mills, Esq Author Of the History OF the CRU\nsades 2 vols. in one\n\n\nThe Works OF Anna Lata Bai BAUD with Memoir by\nLucy Akin 2 vols.\n\n\nThe Tor Hill Blythe Author Of Brambe,ye House, &c.\n2vols.\n\n\nHints to My Countrymeo. BY an Ame lean. vol\nModeration. BY Mrs. Holland. vol\nBeauties Of Byron. VOL\n\n\nFor Sale at The abore place,\nA General Assortment of SCHOOL BOOKS, STATION\nERY and FANCY ARTICLES, among which are\nScales & Dvders, Visiting Cards,\nPenknves Backgammon boards, ele-\nScissors, ga tIy finished.\nGold B. Silver Pens. Durable Ink,\nSilver Pencil Cases, Pocket, Ivory and Dressing\nPocket Books Combs,\nWindsor and Fancy Soap, lnksands,\nSealing Wax States,\nWaters, Black Sand,\nWafer Stamps, India Rubber,\nRuled Writing and Letter Parchment,\nPaper Copy, Cipheiing, ard Memo\nWater Colors randum Rocks.\nToy Paints, White & Blue Bonnet Board,\nCamels Hair Pencils Day Books,\nBlack Lead do Legers, &c\nAll of which will be sold low for cash.\nBLANK BOOKS mRde' any pattern.",
+            "byline": "81 4. 4 III. Wilson'S bookstore and Circulating\n\n\nLibrary.",
+            "bbox_list": [
+                {
+                    "x0": 52,
+                    "y0": 3971,
+                    "x1": 638,
+                    "y1": 4025
+                },
+                {
+                    "x0": 48,
+                    "y0": 4029,
+                    "x1": 840,
+                    "y1": 4104
+                },
+                {
+                    "x0": 39,
+                    "y0": 4024,
+                    "x1": 857,
+                    "y1": 5356
+                }
+            ],
+            "bbox": [
+                39,
+                3971,
+                857,
+                5356
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-01-30_p1_sn82014894_00271740219_1827013001_0050.json"
+        },
+        {
+            "object_ids": [
+                26,
+                15,
+                28,
+                2
+            ],
+            "headline": "WHAT rs WISDOM ?",
+            "article": "From Bsster's Quarterly Mngazine.\nask'd the sage, when wandering afar\nIn search Of Wisdom's bright and shining star,\nWhat's wisdom HE exclaim'd with fearful eyes,\n\"The fear of Gods the Wisdom Of the wise\"\nask'd the rainbow's changing tnts Of light.\nThe glorious harbinger Of mercy bright\nAud badc me lull the fearful heart of man.\"\nask'd the ocean-snd its ceaseless tide\nIn hollow murmurs to my voice replied\nBehold my swelling waves, their ebb and flow.\nThe hand of Wisdom marks how far they'll 60\"\nThen pursued the pure, the golden sun,\nAnd found him nearly when his course was done;\n90 stay me not\" he cried, \"check not my pace,\nIT'S Wisdom's work run the heavily race!\"\nask d the stars 10 track me Wsdoms way,\nIn The high heav'n Of glory where they lay;\n\"'Tis Wisdoms path\" they cried \"thx we have trod,\nThe path to Wisdom is-the will Of God %\nask'd the moon, the moon that shone afar,\nIn her pale light within her crescent car\n:\" Wisdom is knowledge of the hand divine\nThat bade me be-and PLACID me here to shine\"\nThe silver spheres caught up the heavily song,\nEcho'd through endless space it rol'd along;\nAngels reJoc'd and hll'd with holy fires,\nTun'd unto Wisdom all their golden Tyres.\n+\" Wisdoms he influence brightly glowing,\nFrom The Almighty's glory ever flowing!\ntn unspotted mirror of is power and might,\nThe radiance of the everlasting light\"\nThen earthborn man attune thy sacred yrcp\nAnd join ting chorus of the heavily choir,\nL. praise to the great tribune God above,\nWhose Willis Wisdom, and whose rod is love.",
+            "byline": "ROwENA.\n\nFrom Bshter's Quarterly Magazir",
+            "bbox_list": [
+                {
+                    "x0": 1472,
+                    "y0": 3515,
+                    "x1": 1635,
+                    "y1": 3551
+                },
+                {
+                    "x0": 1023,
+                    "y0": 3602,
+                    "x1": 1503,
+                    "y1": 3647
+                },
+                {
+                    "x0": 1006,
+                    "y0": 3655,
+                    "x1": 1490,
+                    "y1": 3687
+                },
+                {
+                    "x0": 865,
+                    "y0": 3659,
+                    "x1": 1644,
+                    "y1": 4900
+                }
+            ],
+            "bbox": [
+                865,
+                3515,
+                1644,
+                4900
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-01-30_p1_sn82014894_00271740219_1827013001_0050.json"
+        },
+        {
+            "object_ids": [
+                21,
+                12,
+                3
+            ],
+            "headline": "WILMINGTON, Del. TUESDAY, JANUARY 30, 1927.\n\nDissolution of Copartnership.",
+            "article": "copartneTshp heretofore existing between Samuel\nIl remington and Augustine II Pennington, trading un-\nsolved Persons having claims will present them to H.\nPennington and all persons indebted either on Bond Note,\nor Book Account, will please call and pay the same to\nH. remington who will settle the business of the late firm\n\n\nA. ii. PENNINGTON, Surviving Partner,\n\n\nfor himself, and Guardian of SAMUEL\n\n\nPEsINGTos, minor, and Administrator of\n\n\nJonN PENINeroN, heirs Of SAMUEL PEN\n\n\nISoToN, deceased.\n\n\nSiiddetown, Del, Jan 12, 1927. i1o-2m",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 988,
+                    "y0": 500,
+                    "x1": 2448,
+                    "y1": 572
+                },
+                {
+                    "x0": 936,
+                    "y0": 606,
+                    "x1": 1604,
+                    "y1": 664
+                },
+                {
+                    "x0": 878,
+                    "y0": 667,
+                    "x1": 1683,
+                    "y1": 1073
+                }
+            ],
+            "bbox": [
+                878,
+                500,
+                2448,
+                1073
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-01-30_p1_sn82014894_00271740219_1827013001_0050.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "AS body OF troops passed in review before Bona\nparte at the Carousel, his horse became so unruly\nthat his hat fell off in his exerions to restrain it..\nA young soldier, who happened to be near him.\npicked up the hat and presentedit it to him. Thank\nyou captain said Napolean. In what regiment,\nsire?' said The young man. A few days after. the\nyoung man, with whose answer Bonsparte was\nmuch pleased, was unexpectedly raised by brevet\nto the rank Of captain Of the imperial Guard.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 870,
+                    "y0": 4956,
+                    "x1": 1670,
+                    "y1": 5339
+                }
+            ],
+            "bbox": [
+                870,
+                4956,
+                1670,
+                5339
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-01-30_p1_sn82014894_00271740219_1827013001_0050.json"
+        },
+        {
+            "object_ids": [
+                13,
+                5
+            ],
+            "headline": "FIVE DOLLARS REWARD.",
+            "article": "ID AN AWAY from the subscriber, on the night of the\nIL 18th inst apprentice to the Coach-Mskng busi-\nness, named Martin SuLiyan, the Dist year of his age\nHad on when he went away, suit oflight blue coth\nand new fur hat He went in company with apprentice\nbelonging TO Peter A. Humphreys, named John Hail. All\npersons are warned not TO harbor or employ him.\n\n\nTHOMAS MOORE.\nWilmington, Jan. 10, 1897. 21-4t",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 896,
+                    "y0": 1089,
+                    "x1": 1631,
+                    "y1": 1143
+                },
+                {
+                    "x0": 874,
+                    "y0": 1151,
+                    "x1": 1675,
+                    "y1": 1433
+                }
+            ],
+            "bbox": [
+                874,
+                1089,
+                1675,
+                1433
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-01-30_p1_sn82014894_00271740219_1827013001_0050.json"
+        },
+        {
+            "object_ids": [
+                25,
+                6
+            ],
+            "headline": "TIE LOVER TO HIS MISTRESS, ON THE BRIDAL\n\n\nEVE.",
+            "article": "EVE.\n\n\nByALApr OF NEWPORT, RI.\nII is the tender twilight hour,\nAnd glimmering through yon russell bower,\nThe dying ligh, is seen,\nGiving family golden tinge\nTo the rich mines that deeply fringe\nIts Ia'ices of green.\nThe mellow whistle still is heard,\nOf that same dear familiar bird,\n\n\nWe used to love so we'll;\nFer had known the parting pain\nd bliss of meeting thee again.\n\n\nMy own dear Rosabee\nAh Love thou never canst forget\nWhen on the green our hamlet met,\nAnd merry pipes were played;\nHow from the dance we stole away,\nAnd tremblingly led the way\n\n\nToyonder lovely shade.\nWe reach'd the bower, the moon-beams fell\nFull on my lovely Rosabelle,\n\n\nMaking the fair more fair.\nLike vines round marble pillars hung,\nSo round her polish'd neck were Aung\nThe sunny wreaihs OF hair.\nHer angel face was tnrnd aside\nThe blush Of innoc, nee TO hide,\n\n\nThat DER her features stole.\nWe ne'er before had been alone.\nNor had ever dared TO own\n\n\nThe love that fill'd my soul.\nOh! tell me why in that strange hour,\nBeauty had such mysterious po@er'\nFor though convsed with fears---\nWith passion not TO be rerressed.\nthrew myself upon thy breast,\n\n\nAnd told my love in tears;\nThou vert subdned; heard thy sohs--\nfelt thy bcsom's answering throbs--\nThy tears were mixed with mine.\nWe knew that every doubt was done\nOur hearts had melted into one.\n\n\nOn feelings holy shrine\nBut when the shock that open threw\nOur bosoms, to each others view,\nIn gentle numbers died\nThe morn Of love--'twas heaven to trace,\njust opening in thy besming face,\n\n\nIn all its blushing pride.\nThen, Rosabelle. for memory's sake\nOur way to thai same bos ser we'll lake,\nThat saw loves roscate dawn;\nFer this is Courtship's latest eve,\nAnd the. our bridal wrea'hs we'll weave,\nTogrsce the coming morn.\nAll nature seems our bliss to share.\nSpirits Of joy are in the air.\n\n\nThey wave their rainbow wings,\nAnd shed, on his auspiciuos night\nglow Of pure Elysisn light,\n\n\nGer all created things. ROWENA.\n",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 870,
+                    "y0": 1467,
+                    "x1": 1670,
+                    "y1": 1551
+                },
+                {
+                    "x0": 936,
+                    "y0": 1511,
+                    "x1": 1631,
+                    "y1": 3559
+                }
+            ],
+            "bbox": [
+                870,
+                1467,
+                1670,
+                3559
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-01-30_p1_sn82014894_00271740219_1827013001_0050.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "Roger. where was If'-At Kenwyn, during di-\nvine service, two dogs, one of which the par\nsons, were 6gh,ing at the west end Of the Church.\nThe parson who was then reading the second les\nson. rushed out to part them; and on his return,\ndoubling where he had lef. off, asked the clerk\n/\" Roger where was 1 - \"Why, down parting the\ndogs, to be sure\" said Roger, to The 10 small\namusement Of the congregation.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1687,
+                    "y0": 4995,
+                    "x1": 2483,
+                    "y1": 5335
+                }
+            ],
+            "bbox": [
+                1687,
+                4995,
+                2483,
+                5335
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-01-30_p1_sn82014894_00271740219_1827013001_0050.json"
+        },
+        {
+            "object_ids": [
+                11,
+                8
+            ],
+            "headline": "From the Golumtian Register.\nHARTFORD CO 3VENTION,",
+            "article": "Convention; and conformobly TO our annual custom,\n\n\ntins week make few remarks relative to that\n\n\nnever to be forgotten Assembly. We agree that\non some accounts this task is rather unpleasant :\nbut we conscentiously believe that proper regard\n\n\nTor those republican principles which we have always\n\n\ncherished. requires the performance at our hands.\n\n\nWe are also ready to admit that many ot the MEM\nbers and promoters Of the Hartford Convention pos\nsessed talents and integrity and other qualities which\n\n\nrendered them useful and respectable ctIzeps and\nWe are willing that their friends should dwell on\ntheir virtues much and az often as they please,\ntor we do not undertake TO arragn any thing\nthan their conduct as connected with this political\nproject But this we have done, and still do, be-\ncause NC have always believed that the Hartford\nConvention was . party measure, and INTENDED to\nsustain the waning Cause OF federalism; because it\nwas calculated n its results to be rpinous TO the\npeace, unity. and prosperity OF our county and\nbecause the fair fame Of Connecticut, our native\nState, was sued by being the spot selected Tor The\nConvention to assemble in.\n\n\nIn order therefore that the present generation (f\nthere are any whose minds are not made up) anc\nposterty may be enabled to form correct Judgment\non this subject, We sgaia enumerate some OF the\nreasons which led us q, the time, and which have\ncontinued from that day to this to coDst ain US TO\ncensure this 6old and dangerous scheme. 1t had\n\n\nlong been fore'od BY the emssaries oil Grea' Britain,\nthat, on the happening Of certain e-en's. Conyen-\ntion. like that which assembled at Hartford, would\nbe held. Those events happened, and the predicted\nConvention was hcId-These same cmissaries fore\ntold that in should be declared against\nEngla' d, there would be great opposition to that\nwar in New England. and Massachusetts would take\nhe lead in that opposition War was declared and\ngreat opposition arose in the New Eng land States =;\naud the legislature of Massachusetts gave the tone\nThe ncghboiing States. The members and friends\nOf the Convention were the ssders OF the federal\nparty, who not only opposed the then administration\nut The general government, but they we're strongly\nsuspected Of being friendly to the British govern\nmvni These men had previousl. declared that the\nConstitution Of The United States had tailed TO\ncure the objects for which formed iney l,ied\nto rmbafrass the ed inistraon by ext ring them\nselves to transfer the management oil ,he\nu the general government 10 the Stale govern ments;\nthey would not rejoice al he defeats oi the enemy.\nnor would they rejoice a. he victories gained by\nown army and navy They held the Convention in\nsecret. and With closed doors and al the time when\nthe enemy were com ting depredstIons at Ha.re-\nde-Grace n.saul'ing Baltimore, pilaging and burn\n\n\ning Washington. ard preparing their expedition\nagainst New Oleans; in short, al the very time when\n\n\nthe whole Atlantic coast was threatened with fire\nand sword, and the whole northern frontier wa, an\nnoyed by the ravaees of the enemy and heir In\ndian allies. The Convention ton, was held during\nwar which had been unayoldably declared For tbs\nprotection OF the lives and liberty Of portion Of our\ncixens and for the protection of invaluable rights,\nand vast amount of property .whi' war has been\nemphaiically styled the second war ol Independence.\nAnd a. every war, however just, necessariIy brings\nwith it great and distress. this crisis -ezed\nby the ederass to regain the standing places, and\ninfluence, which they losing, and force the\ngovernment to make a dishonorahle peace. Such\nmust have been the views Of the friends Of he Con-\nventon, for let never be forgotten that the objects\nTor which it was held were mt OBJ all ed. nor have\nthey since its dissolution made any mpts OBJ\ntain the IN but their objec's given over, and\nthe prospects OF these aspirants vanished soon\nthe news OF honorable peace reached our shores.\nThe effects produced by the Convention we he\nencouragement Of the enemy, and the sggrava'lon\nOf the distresses OF our own citizens. In conciu-\nsion, we do not deny that our attention has been\nthe steadily turned to this subject fof the last\ntwelve years, because We have always viewed it as\none Of those occur'en' es in the course OF events,\nwhich has worderiul.y tended to put up republic ans\nand to pui down federasts and at this time oil day,\nwho will not admit that this is it should be. for it\nseems to have been Of those strong instances in\nwhich much good has come out OF great evil,\nbut thanks to be given to the friends of the\nConvention for that ard all we ask is, that in view\noil the foregoing remarks, every reader should can\ndidy form such an opinion as III: whole facts and\ncircumstances warrant\n\n\nLiterary Bargain.- When Fielding had finished\nhis novel OF Tom Jones, being much distressed he\nsold il to an obscure bookseller lor 25l. ON condcn\nOf being paid certain given dsy. In the mean\ntime, he showed the manuscript 10 Thomson, the\nPoet, who was Immediately struck Wi its great\nmerit, and advised Fielding by all means to get ree\nfrom the bargain. which he did without much diff\nGuilty, as the bookseller was not capable OF estimat-\ning the value OF his pu chase Thomson recon-\nmended the work to Andrew Miller and the parties\nmet at 4 tavern over beef steak and bottle. Mill\nTer began with saying, Mr.. Fis.dng. always de-\nrmine affairs Of this sort at once, and ever\nchange nv offer, | viii not give one fat thing",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2636,
+                    "y0": 623,
+                    "x1": 3195,
+                    "y1": 699
+                },
+                {
+                    "x0": 2495,
+                    "y0": 777,
+                    "x1": 3331,
+                    "y1": 4987
+                }
+            ],
+            "bbox": [
+                2495,
+                623,
+                3331,
+                4987
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-01-30_p1_sn82014894_00271740219_1827013001_0050.json"
+        },
+        {
+            "object_ids": [
+                14,
+                9
+            ],
+            "headline": "CARRIER PIGEONS.",
+            "article": "eu OF pigeons, as letter carriers s by Ovid. IN h\n4\" Meamor phoses,\" who tell Us that Taurssthene\nby pigeon stained with purple, gave notice oi b\nhaving been victor at the Olympic games on III\nvery same day to his father at Egins.\n\n\nWhen the city Of Ptolemais. in Syria, was invest\ned by the French and Venitans, and it read\nto fall into their hands, they observed pigeon 6y\ning over them, and Immediately conjectured tina,\nwas discharged with letters TO the garrison On thi\nthe whole army raising loud shout. SO confounde\nthe poor erial post, that it fell to the ground\nON being seized, letter was found under its wings\nfrom the Sultan, in which he assured The garrison\nthat he would be with them in three days, with al\narmy sufficient to raise the SIEGE\" For this let\nter the brssgess substituted another to this purpose\nthat the garrison must see to their safety, 70\nthe Sultan had such other ssirs pressing him, tina\nit was impossible for him to come to their succour;'\nand with this false intelligence they let the pgeor\nnee on his course. The garrison. deprived by th\ndecree OF all hopes Of relief, Immediately surrender\ned. The Sultan appeared on the third day, a:\npromised, with q powerful army, and was\nlittle mortified to end the city already In the hands\nOf the Christians.\n\n\nCarrier pigeons were again employed, but with\nbetter success at the siege Of Leyden, in 1875 The\ngarrison we're, by means Of the Information thu:\nconveyed to thcm induced to stand out, till the enc\nmy, desparing Of reducing the place, Withdrew\nOn the seige being raised the Prince of Orange or\ndered that the pigeons who had rendered such es-\nsentipl service should be maintained at the public\nexpense and that at their Death they should be EN-\nbsmed and preserved in the town house, as 6\nperpetual token OF gratitude.\n\n\nIn the East. the employment Of pigeons for the\nconveyance ofletters is still very common. parties\nlsrly in Syria, Arabia, and Egypt. Every Basha~\nhas generally . basket full # them sent him from\nthe grand serago, where they bred, and in case\no! any insurrection or other emergency. he is en-\nabed, by letting loose two more OF these extraor\ndinary messengers convey intelligence to The gov\nrrnment long before it could be possibly obtained by\nother means.\n\n\nThe diligence snd speed with which these feath\ncred messengers wing their course is cxtraor binary\nFrom the instant OF their liberatioD their flight\ndirected through The clouds at an immense heigh,\nto the place OF their destination. They believed\nto dart onward 10 a straight line and never descend\nexcept when a. loss for breath, and then they art\nto be seen, commonly at dawn Of day, lying on hci\naoks on the ground, with their bills open, suckir.\nin with hss,y avidi'y the dew Of the morning. o\ntheir speed the instances related almost incred\nBile.\n\n\nThe Consul of Alexandra daily sends despatche\nby these means TO Aleppo in hours, though cour\ners occupy the whole day and proceed with the ut\nmost expedition from one town to the other.\n\n\nSome years ago gentleman scot carrier pigeon\nfrom London by the stage cosrh. to bis friend ir\nST. Edmonsbury, together with q note, de,ring tina\nthe pigeon Two days after their arrival there nigh\nbe thrown up precisely when the town clock struck\nnine in the morning. This was done accordingly\nand the pigeon arrived in London, and Rew to the\nBull Inn, Biahopgate street, into the lot,, and\nthere shown at half an hour past eleven o'clock\nhaving flown seventy two miles in two hours and a\nhalf.\n\n\nAT Antwerp. in Isl9 one OF the thirty two pigeons\nbelenging to that city. who had been conveyed to\nLondon, and here let loose, made the transit back\nbeing distance in direct line Of one hundred and\neighty miles, in six hours.\n\n\nIl 10 through the attachment OF the animals to the\nplace Of their birth. and particularly to the spot\nwhere they had brought up their young, that they\nare thus rendered useful 10 mankind.\n\n\nWhen young one flies very hard at home, as il\ncomes TO its iul strength it is carried in basket\notherwise about half mile from home, and there\nturned out-after this. il is carried mile, and ther\ntwo four eight, ten twenty, &C. till at length vii\nreturn from the furthermost parts Of the country.\n\n\n*\n\n\nIn an action for an assault and battery, il was\ndeemed proper to ascertain the size Of certain\n",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1898,
+                    "y0": 615,
+                    "x1": 2312,
+                    "y1": 660
+                },
+                {
+                    "x0": 1678,
+                    "y0": 703,
+                    "x1": 2479,
+                    "y1": 4179
+                }
+            ],
+            "bbox": [
+                1678,
+                615,
+                2479,
+                4179
+            ],
+            "full_article_id": 10,
+            "id": "10_1827-01-30_p1_sn82014894_00271740219_1827013001_0050.json"
+        },
+        {
+            "object_ids": [
+                20,
+                16
+            ],
+            "headline": "TO BE RE- TED,",
+            "article": "f-,r.. a Hnuse and sn,aN N.Tn. 10 the Village oI\nES Newark, lately ,ccta j 5, the Rev. SAMUEL\nmss. BELL, possession of will be given on the\nMi 25th day Of Mach \"es.\n\n\nThe Farm contains sbon ory acres Of arabic land AVID\nmeadow, good orde, al conveniently divided The\nimprovements are good brick dwelling house and kitch\nen with brick barn, carriage house and other out build\nings.\n\n\nThis property would be very SUI abe t'r family VIII\nmight be desirous OF wing NJ \"ark to educate chill\ndren There exceea semi ares in that village\nthe Newark Academy, which under he direction o the\nRev K RUSSELL aided two assistants, in which boys\ntaught the Lain AID GreeR Languages Mathematics,\n&c and school for young Ladies under the direction\nthe Rev. SAMUEL BELL in which taught the useful and\nornamental branches of Female Education.\n\n\nFor terms Apply in Whining on TO Mrs. MARY BLACK,\nor to the subscriber in New castle. j. BLACK\n\n\nJan. l6, 1927 UT",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 202,
+                    "y0": 3242,
+                    "x1": 686,
+                    "y1": 3296
+                },
+                {
+                    "x0": 44,
+                    "y0": 3312,
+                    "x1": 853,
+                    "y1": 3959
+                }
+            ],
+            "bbox": [
+                44,
+                3242,
+                853,
+                3959
+            ],
+            "full_article_id": 17,
+            "id": "17_1827-01-30_p1_sn82014894_00271740219_1827013001_0050.json"
+        },
+        {
+            "object_ids": [
+                17
+            ],
+            "headline": "",
+            "article": "In an action for an assault and battery, il was\ndeemed proper to ascertain the size Of a certain\nstone, with which il was alleged the battery was\ncommitted. For this purpose a witness was called\nto the stand, and the following brief report Of his\nexamination will show how perfectly his testimony\nmust have satisfied the jury:\n\n\nQ. Did you the defendant throw the stone !?\nA. saw a stone, and am pretty sure defendant\nthrew it. Q. Was it q stone OF considerable di.\nmensions? A. Why. it was a considerable Of a\nstone. @. How large was it? A. should say it\nwas largish stone. Q. What was its size? A.\nWhy, it was a szeable stone. Q. Can't you answer\nde6nely-how big was ita A. should say it\nwas stone of some bigness Q You are sngu\nlar witness-can' you give the jury some idea Of\nthe stoneP A. Why. as near as can recollect it\nWAS something of stone. Q. Can't you compare\nit with some other objecta A. Way, il l was to\ncompare it, as to give my notion of the stone. |\nshould say, near as can judge, it was about as\nbig as piece Of chalk.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1678,
+                    "y0": 4086,
+                    "x1": 2483,
+                    "y1": 4948
+                }
+            ],
+            "bbox": [
+                1678,
+                4086,
+                2483,
+                4948
+            ],
+            "full_article_id": 18,
+            "id": "18_1827-01-30_p1_sn82014894_00271740219_1827013001_0050.json"
+        },
+        {
+            "object_ids": [
+                24,
+                23,
+                22
+            ],
+            "headline": "Number 524.\n\nCONDITIONS OF THE wATCHMAN",
+            "article": "rhe terms are, those who pay during the month of\nSnuary or July six months in advance-Fon Dollars a\n3ar From those who do not pay above, Fue Dollars\nNh be demanded. Ii sub crbcr wishes TO decline, he\n\n\nst notify the editors Of his intention before the first of\nInc or December, and pay all arrearagcs. Without\nSmpance with these conditions, no paper will be dscon\nhued except at the option of the editors\nTERMS OF ADVERTISING.\nAdvertisements exceeding twelve Ines for term\nrs than three months four times for ar, and wen-\ncents for every subsequent insertions longer in pro-\nSrtion Advertisers requested TO specify in writing\n\n\nlong their advertisements are to be inserted, they\ns be continued till forbid. Letters to the Editors to in.\nIre attention must be post paid.\n\n\nAiverttsing 6ytheyear.\n10 Subscribers. To Non-Subscr cribers\ng1 year $l5, 90 1year Sl8, 90\nmonths 8, months g. so\n5 do A. SO do. 500",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 61,
+                    "y0": 496,
+                    "x1": 365,
+                    "y1": 554
+                },
+                {
+                    "x0": 61,
+                    "y0": 593,
+                    "x1": 827,
+                    "y1": 642
+                },
+                {
+                    "x0": 52,
+                    "y0": 641,
+                    "x1": 866,
+                    "y1": 1341
+                }
+            ],
+            "bbox": [
+                52,
+                496,
+                866,
+                1341
+            ],
+            "full_article_id": 23,
+            "id": "23_1827-01-30_p1_sn82014894_00271740219_1827013001_0050.json"
+        }
+    ]
+}

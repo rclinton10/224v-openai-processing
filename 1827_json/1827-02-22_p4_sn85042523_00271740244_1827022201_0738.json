@@ -1,0 +1,1793 @@
+{
+    "lccn": {
+        "title": "The Wilmingtonian, and Delaware advertiser.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2638-1117",
+        "lccn": "sn85042523",
+        "start_year": "1825",
+        "end_year": "1827",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [
+            "sn88053080"
+        ],
+        "successors": [
+            "sn84020426"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn85042523",
+        "edition": "ed-01",
+        "date": "1827-02-22",
+        "pages": [
+            "seq-1",
+            "seq-4",
+            "seq-2",
+            "seq-3"
+        ]
+    },
+    "page_number": "4",
+    "scan": {
+        "lccn": "sn85042523",
+        "edition": "ed-01",
+        "date": "1827-02-22",
+        "page": "4",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn85042523/1827-02-22/ed-1/seq-4.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn85042523/1827-02-22/ed-1/seq-4/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn85042523/1827-02-22/ed-1/seq-4/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn85042523/00271740244/1827022201/0738.jp2",
+        "height": 5584,
+        "width": 3608
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 168,
+                "y0": 3398,
+                "x1": 836,
+                "y1": 4254
+            },
+            "class": "article",
+            "raw_text": "In all the system of Farming and Garden\ning there is not more useful tool than the\nRoller. Most of the complaints we receive\nof seeds not growing, is owing to their not\nbeing rolled. Celery, Spinage, Onion, and\nindeed almost every other kind of seeds, will\nnot vcgetate, except the ground is rolled af-\nter the seed is sown, or except heavy rain\nfalls, to beat the ground, which answers the\nsame purpose. Where there is no roller\non the premises, the following may answer\nas substitutc:--\n\n\nAfter the seed is sown, and the ground\nwell raked, take board or boards. Of the\nwhole length of the beds-lay them fat on\nthe ground, beginning at one edge of the bed\nwalk the whole length of the board this\nwill press the soil on the seed: then shift the\nboard, till you have thus gone over the\nwhole bed; and in dry weather cover your\nseed beds for forty eight hours with boards\nlaid fiat on the soil, and the seeds will come\nup almost Immediately; and if no boards are\nat hand tread in the seed with your feet, OF\nstrike on the beds with the blade Of your\nspade or shovel.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 35,
+            "bbox": {
+                "x0": 298,
+                "y0": 3350,
+                "x1": 701,
+                "y1": 3386
+            },
+            "class": "headline",
+            "raw_text": "ROLLING OF SEEDS.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 172,
+                "y0": 4366,
+                "x1": 849,
+                "y1": 5502
+            },
+            "class": "article",
+            "raw_text": "\"Never trust to hosters when you are on\njourney. 1t is essentially necessary that\nyou personally see to the cleaning, watering,\nfeeding, and littering of your herse, other\nwise you will in all probability soon be un-\nder the necessity of purchasing another, or\nabandoning your journey.\n\n\n\"Shopld your horse lose his appetite, give\nhim half an ounce of nitre in bran mash\nonce or twice. This, with little rest, will\nsoon recover him.\n\n\n''Should you be so unfortunate as to have\nyour horse foundered, by injudicious feeding\nor watering before he is sufficiently cool\nwhich is always to be apprehended when you\nfeed on Indian corn, or any other grain ex-\ncept oats; it is advisable on the first appear\nance of founder, to take two quarts of blood\nfrom the neck, and also to bleed in two\nplaces lin each foot) i'll the coronet or upper\nedge Of the hoof, about one inch each way\nfrom the centre, then give purge of castor\noil one pint, calomel one drachm, after this\nand if it is possible to get him out of the sta\nBILE, force him to take some exercise; which\nis of all others the most efficacieus remedy\nand ifperseyered in however cruel and pain\nfull it may appear to be, seldom or never\nfails to carry off the complaint in shor,\ntime, especially if the founder or stiffness is\nnot very severe. But should it be founl\nimpracticablc to move the horse out of q\nstable, which is sometimes the case, after\nhsing bled as before directed, bran poultice",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 40,
+            "bbox": {
+                "x0": 268,
+                "y0": 4288,
+                "x1": 744,
+                "y1": 4363
+            },
+            "class": "headline",
+            "raw_text": "From the New-Englsnd Farmer.\n\n\nHORSES.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1546,
+                "y0": 4933,
+                "x1": 2206,
+                "y1": 5497
+            },
+            "class": "article",
+            "raw_text": "A Farm of about or 800 acres, principally\nmarsh on the Delaware, about 3 miles below Port\nPenn, known by the name of Long Island.\nAnother Farm of about 200 acres arabic land,\nnear the village ofst. Georges, now occupied by\nAndrew Price.\n\n\nAnother Farm, ofabout rs acres arabic land,\nnear the village ofst. Georges, now occupied by\njames Welde.\n\n\nAnother Farm, of about 80 acres arabic land\nnear Mount Pleasant, now unoccupied.\nAnother Farm, of about $50 acres, on Christi\nana Greek, near Christiana Village.\nTwo Dwelling Houses, and about 10 or Is a\ncres in lots in the Village of st. Georges.\nApply to JOHN NIvIN,\n\n\nChristiana\n| Dec z, 1925. ll-t25m.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 42,
+            "bbox": {
+                "x0": 1716,
+                "y0": 4881,
+                "x1": 2023,
+                "y1": 4926
+            },
+            "class": "headline",
+            "raw_text": "FOR RENT.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2890,
+                "y0": 3712,
+                "x1": 3528,
+                "y1": 5205
+            },
+            "class": "article",
+            "raw_text": "Painter. Gtazier and Paper Hanger'\"-BeI-\njamin Fredd, No. 142 King Street\nI,on and Coai ilIerchaut-ThomasG Garrett\nJr, SO, Shiply-st.\n\n\nl1aStcr Bricklaycr, and Lime Mercham'-\nb. w Brackin, old Lime stand, No\nwest Broad-st.\n\n\n7anacr.-Bcnjamin Webb, Queen, between\nIatncll and Orange-sts.\nStone Cutters, Albert & James Robinson\nNo. 1913, market st.\n\n\nL9Hery and E.rchangc OGee.-Rober'sOA\n4 Little, %, market street.\nJames c. Allen TEACHER No. 105, Oranges\nabove the Hay Scales.\nThomas c. Alrichs, Fancy Hardware l,J\nand Sheet Iron Manufacturer, cofiV' V\nmarket and second streets. !.\nJacob Alrichs, Machine Maker, Corner y\nshipley and broad streets.\nIron Foundry-Mahlon Belts, seconu'''\nnear the Black Horse tavern\n1orocc. Nannfactory-Robinson 9 =\n9S market st.\n\n\nConrevQnccr-Benjam Ferris, at 'iie ~\nner of West and Third streets :\nj. p Fairlamb, Notary Public, Survey, t:ynaets, :\nLand, Convcyancer, Regulator OF o'''@'''\n&c. No. King street. J.,\n\n\nPatent Hay and Gran h%s, pse.\nJoshua Johnson * son, MAKERS\nGreek Mills. ,,o\nNotary Public and Conreganrff.---.1 IA Sec\nHcndrickson, corner OF French \"'N\nond streets, No. As. :,\nLivery .Stable-Kept by Huson owa'',\nShipley st. above Queen. .,or,-pa.\nCAma, Glass and Queenszyare sfore'\"'\nvid Smyth, 6s market st. ,,v.\nDruppist 5y CAerist.-Joseph BrihS'''\n2S mark ct st. .----.--.-",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 37,
+            "bbox": {
+                "x0": 2990,
+                "y0": 3655,
+                "x1": 3475,
+                "y1": 3704
+            },
+            "class": "headline",
+            "raw_text": "MISCELLANEOUS.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 141,
+                "y0": 706,
+                "x1": 832,
+                "y1": 2605
+            },
+            "class": "article",
+            "raw_text": "Mr.. Starr-I hand you for the amusement\nand information of the practical farmer,\ndescription which have verbally received\nfrom friend of mine, living in that vicini.\nty, Of large Barn, built The last season, in\nthe town of Hancock Berkshire county Mass.\nby the family of Shakers located in that\ntown. 1t is possible that in some points the\ndimensions may be inaccurate; but you may\nrely that they are materially correct.-Bcth\nthe size and form are probably unfit for any\ncommon purposes very few farmers would\nwish to collect so much forage and manure,\nOF have so much stock at one place; but all\nwho have any experience in the business,\nwill agree that there is much ingenuity and\nconvenience in the design, for large estab-\nGshment.\n\n\nThe barn is built on ground inclning\nsouthwardly, in perfect circle, and is nine\nty feet in diameter, or across 1t from side to\nside. The walls are stone. % feet in height,\nOF suitable thickness, and laid in lime or well\npointed on each side. Round the barn, on\nthe inner side, are stables forming circle,\nthe manger within, and suitable places over\nil throw the hay or feed down; the stable\nand manger occupy about 10 feet, and are 8\nfeet high the stables open to and from sew\neral different yards, in order to make\nas many and such divisions Of their stock as\nthey have thought proper. The covering Of\nche stables form the barn floor, which also\nextends round the barn. There is but enc\nlarge door way for entrance with teams and\nloads; this is from the Northern side, from\nan offset or causeway, eight feet above the\nbase, and of course fourteen feet below the\ncaves. The cart or wagon that enters with\na load, makes the whole circuit of the floor,\nand after unloading comes out at the same\ndoor; thus or 10 teams can occupy the floor\nat one time in unloading, and not hinder each\nother. Within this circle of the stables and\nbarn floor is an area or bay, as it is usually\ncalled, which is filled with hay, &c, and\nmust be over sixty feet in diameter This\nis pitched in and on from any side or place\nmost convenient, or where wanted.\n\n\nThe roof comes to point at the centre,\nand sheds off the rain all around, something\nsimilar to an umbrella. 1t is supported from\nthe inner circle of the barn floor The ROOT\nboards are laid up and down, which by a\ntraverse saving Of the log we're all brough,\nto point, and then shingled round in the u\nsual mode.",
+            "legibility": "Questionable",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 68,
+            "bbox": {
+                "x0": 233,
+                "y0": 196,
+                "x1": 731,
+                "y1": 245
+            },
+            "class": "headline",
+            "raw_text": "TIE FARMER.",
+            "legibility": "Illegible",
+            "full_article_id": 5,
+            "reading_order_id": -2
+        },
+        {
+            "id": 41,
+            "bbox": {
+                "x0": 250,
+                "y0": 619,
+                "x1": 723,
+                "y1": 694
+            },
+            "class": "headline",
+            "raw_text": "From the MiddletownSentinel.\n\n\nSHAKER BARN.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1533,
+                "y0": 3481,
+                "x1": 2197,
+                "y1": 4241
+            },
+            "class": "article",
+            "raw_text": "The subscribers intend to decline the Lumber\nBusiness carly this Spring, and offer their Stock\non hand al reduced prices, whole sale or retail\nAny persons wishing to purchase, will find it to\ntheir advantage to give us a call, as we have a\ngeneral assortment, consisting of Cedar and Cy-\npress Shingles Of various qualities; PANEL, first\nand second common white pine Boards well sea-\nsoncd; hearts Pine and Helnlock boIds; scant-\nling ard DIST of various qualities, lengths and\nsizes; Poplar Plank, Boards and scantling; plain,\nspeeked and cnrlcd Maple Boards, Plank and\nScantling. Also, Cherry Scantllng; inch and\nhalf inch Walnut Boards, and i variety Of other\narticles not enumerated\n\n\nn. b. Any person wishing to engage in the\nLumber Business will find il much to their adj\nvantage to make application TO us, as We are\ndisposed TO sell on reasonable terms; and the\nstand is we'll known 10 be as good as any i'll the\nborough.\n\n\nEZRA IIOOPES,\n\n\nJOSEPH THOMAS.\nWilmington, ID mo. LIST, 1897, 20--tf.",
+            "legibility": "Questionable",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 1620,
+                "y0": 3424,
+                "x1": 2101,
+                "y1": 3473
+            },
+            "class": "headline",
+            "raw_text": "Nlumber For Sale.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1537,
+                "y0": 4379,
+                "x1": 2197,
+                "y1": 4860
+            },
+            "class": "article",
+            "raw_text": "Brandywine, near Wilmington,\nContinues to dye Sins, Sattins, Cottons q Woot-\ncnS, to any pattern they will admit Of\n\n\nIn consequence ofthe death of our late wor-\nthy fellow citizen, ! i'm Fleming, goods will in\nfuture be received AT Mr.. John Whites Drug\nand China Store, No no. Market Street, Will\nminston\n\n\nAttera thirty-two years residence, in and near\niImington, VIM. Aldred would feel himself un.\ngrateful, if he did not take this opportunity Of\nreturning his thanks to his friends, for their EN-\nployment; and hopes their good opinion of him\nwill not be forfeited by any neglect in future.\n\n\nFebruary /, 1927. 20-4tp.",
+            "legibility": "Questionable",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 1585,
+                "y0": 4257,
+                "x1": 2132,
+                "y1": 4367
+            },
+            "class": "headline",
+            "raw_text": "WILLIAM ALDRED.\n\n\nNXER.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2890,
+                "y0": 754,
+                "x1": 3510,
+                "y1": 1205
+            },
+            "class": "article",
+            "raw_text": "Joseph Mendenhall & Co. corner &c n.\n\n\nand Second streets. ' An\nJoseph {. Gilpin, 46, market st.\n\n\nJames & Samuel Brown, 8 High st.\nClement & Gordon, corner Of MARIE, !,\n\n\nKennel. aa\nPeter Horn, corner king and front sts\nJohn Rice, Brandy wine, south of br;dso\nsamuel stroud, corner of front and orangp ran\nGeorge Williamson, 10, high st. 'N'S''\nGeorge Winslow, 179 market st.\nJohn Wright, corner of Fror. and M,,l\nPerry Steward, Market st. opp. Acadsmaa' ~",
+            "legibility": "Questionable",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 38,
+            "bbox": {
+                "x0": 3051,
+                "y0": 702,
+                "x1": 3397,
+                "y1": 751
+            },
+            "class": "headline",
+            "raw_text": "Grocery Stores.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2209,
+                "y0": 772,
+                "x1": 2873,
+                "y1": 1279
+            },
+            "class": "article",
+            "raw_text": "THE Subscriber takes this opportunity to in\nform the public, that the establishment hereto\nfore conducted by James Ray, Esq, together\nwith the accounts connected with the business\nof that establishment from the first of January,\n1896, have passed into his hands; and that he\nwill continue the business in all its branches, at\nthe old Siiind, corner Of Tatnall and Queen-strs.\nnear the Friend Meeting House, where he will\nmanufacture, and furnish at Philadelphia prices,\nMould and Dipt CANDLES, FuNer's, Yelloao and\nBro,Un .S0.iF, Of the best quality.\n\n\nENOCH ROBERTS.\nNIB. The highest price given for Tallow,\nButchers Fat, and Fat of every description.\n\n\nWilminpton Nov. Is 1896. 8-6m-",
+            "legibility": "Questionable",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 2214,
+                "y0": 711,
+                "x1": 2869,
+                "y1": 760
+            },
+            "class": "headline",
+            "raw_text": "Soap and Candle Mandatory.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2200,
+                "y0": 191,
+                "x1": 2869,
+                "y1": 698
+            },
+            "class": "article",
+            "raw_text": "Ran away from the subscriber, on Saturday, the\n18th inst, an indented boy to the Coachmaking\nbusiness, named JOHN HALL: he went in com\npany with boy bound to Thomas Moore. He\nIS about 10 years of age, about five feet six inches\nhigh, thick set; speaks quick when spoken to;\nhas rather down look; light hair and light com\nplexion-had on when lie went way, suit u\nblue clothes fur hat, and boots\n\n\nWhoever will secure the boy in any Jail, SO\nthat can get him again, shall receive the above\nreward; together with reasonable charges il\nbrought home. All persons are cautioned\nagainst harboring said boy, at theirperil.\nPETER A. HUMPHREYS.\nWILMINGTON Del Ian. 25-19 at.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 2257,
+                "y0": 130,
+                "x1": 2790,
+                "y1": 179
+            },
+            "class": "headline",
+            "raw_text": "Twenty Dollars Reward.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2209,
+                "y0": 2181,
+                "x1": 2882,
+                "y1": 3927
+            },
+            "class": "article",
+            "raw_text": "In this Scheme, composed Of 60 numbers by\nternary combination, with nine drawn ballots,\nthere VIII be 81 ,rizcs with 8 of the drawn num-\nbers on them; 1856, with two Of the drawn\nnumbers on; and LAS each with ono of the\ndrawn Numbers on; the residue of the tickets\nhaving none OF the drawn numbers on them, be-\ning blanks.\n\n\nTo determine the fate Of the S4, 220 tickets\nthe so numbers, from to 60 inclusive, will be\nplaced in wheel on the day Of drawing, and\nnine Of them be drawn out; and that ticket\nhaving on it the lst, I'd and Sd drawn numbers,\nas combination, will be entitled TO the prize of\n\n\n$4,000\nThat having on it the 4th, 5th, and 9th, to\n\n\n5000\nThat having omit, the 7tl, 8th, and 9th, to\n\n\n1894\nThose 5 having on them the 5th, 7th and 9th;\n5th, 9Th and 9th; 9th, 9TH and 8th; 9th, 9TH and\n9Th; 9th, 9th and 9Th, each 1000\nThose 10 having on them, the 4th, 9th and 7th;\n4th 9th and 9Th; 4tl, 9th and 9th; 4th, 7th and\n9Th; 4th, 9TH and 9th 5tli, 9th and 7th; 5th, 9th\nand 3ti; 5tl, 9th and 9th; 5th, 9TH and 9th, 4th,\n9th and th; each 500.\n\n\nThose 20 having on them the ID, 7th and 9th;\nI'd, 9th and 9thi sd, 4th and 5tl, Sd, 4th and\n9th; Sd, 4th and 1th; Sd, 4th and 9th; Sd, 4th\nand 9th; Sd, 5th and 9th; Sd, 5th and 9TH; Sd,\n5th and 9Th; 81, 5th and 9th Sd, 9th and 7th;\nSd, 9th and 9Th; Sd, 9Th and 9th; Sd, 7tI and\n8th; Sd, III; and 9th; 3d. Sth and 9th 4th, 5tL\nand eth; 4th, 5th and sthi 18th, 5th and 9th,\neach 200\nAll others, with three ofthe drawn numbers on\nthem, being 46, each 100\nThose 1O2 tickets having two of the drawn num-\nbers on them, and those the 1st and ID, or\nthe Sd and 4th, each 50\nThose lo2 tickets, having two of the drawn\nnumbers on them, and those two the 5th and 9th\nor the 9TH and 9Th, each 20\nAll others with two Of tho drawn numbers on\nthem, being l632, each 8\nAnd all tickets having any one Of the drawn\nnumbers on them, being LAYS, each 4\nNo ticket which shall have drawn prize of\nsuperior denomination can be entitled to an nfe.\nror prize.\n\n\nPrizes payable forty days after the drawing,\nand subject to the usual deduction Of fifteen per\ncent.\n\n\nYATES & MTNTYRE, Mlaareys.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 71,
+            "bbox": {
+                "x0": 2445,
+                "y0": 1583,
+                "x1": 2629,
+                "y1": 1623
+            },
+            "class": "headline",
+            "raw_text": "SCHEME.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -3
+        },
+        {
+            "id": 57,
+            "bbox": {
+                "x0": 2746,
+                "y0": 2002,
+                "x1": 2886,
+                "y1": 2047
+            },
+            "class": "headline",
+            "raw_text": "I02,66o",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -2
+        },
+        {
+            "id": 49,
+            "bbox": {
+                "x0": 2231,
+                "y0": 2011,
+                "x1": 2799,
+                "y1": 2177
+            },
+            "class": "headline",
+            "raw_text": "1895 Prizes Sl(\n20825 Blanks.\n1920 Tickets.\n\n\nTickets si--Uqircs s2--QuQrterS 81.",
+            "legibility": "Illegible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1529,
+                "y0": 218,
+                "x1": 2193,
+                "y1": 1152
+            },
+            "class": "article",
+            "raw_text": "FOR THE WHINING lONlhN'\n\n\nThe following gentlemen will receive SUD\nscriptions, and money due for the Whining\ntonian. We would particularly request our\nfriends who find it inconvenient to make\npayment to us, to call on any OF the gen.\ntenen whose names are below, who VIII\ngive receipts for the whole amount, or part\nOf their respective bills.\n\n\nNewark, Mr.. T. Benncson\nRed Lion. Mr. Rob't Rhodes\nSmyrna. Mr.. Jacob Pennington, p NJ.\nDover, Mr. Aug. NJ. schee, r NJ\nCamden. Mr.. !. G. Hardcaste\nMilford, Mr.. .Ino. Wallace.\nPhiladelphia, Mr.. II. !. Pepper, No. 40,\n\n\nChesnut-street.\n\n\nThe Wilmingtonian is 50 per annum TO\ndistant Subscribers if paid in advance; 81 81\nif paid within the year. and s.. if not paid\ntill the expiration of the year.\n\n\nl51No subscribers paper will be discon'\ntinued, unless two weeks previous notice be\ngiven and all arrears haid uh.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 33,
+            "bbox": {
+                "x0": 1708,
+                "y0": 148,
+                "x1": 2010,
+                "y1": 206
+            },
+            "class": "headline",
+            "raw_text": "AGENTS",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -2
+        },
+        {
+            "id": 74,
+            "bbox": {
+                "x0": 1572,
+                "y0": 209,
+                "x1": 2136,
+                "y1": 245
+            },
+            "class": "headline",
+            "raw_text": "FOR THE WILMINGTON1AN.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1529,
+                "y0": 1391,
+                "x1": 2197,
+                "y1": 3072
+            },
+            "class": "article",
+            "raw_text": "THE CATHOLIC CONGREGATION Of St.\nPeters Church. in the Borough of Whining\nton, return their unfeigned thanks to their Ex-\ncellencics, the late and present Governors: and\nalso to the Honorable gentleme that composed\nthe Senate and Assembly of the State OF Dcla-\nware, since the wear of our Lord 1922 to this\npresent wear of our ortts 1927, for their kind be-\nne, olence, founded on Christian philanthropy,\nin extending the right hand offelowship, to their\nCatholic brethren, (not in fleetlng words, but IN\nreal actions) to accomplish what was not IN our\npower to do; which was, to finish our church,\nand ay Oh the inc,imbranccs due on the church;\nbv granting us lottery, and extending It, by\ngranting us two supplements; one Of which we\nhave The proceeds, received BY the Lottery and\nfirst supplements; which was divided into four\ndifferent classes was received BY William Iarkin,\nGrocer in the aforesaid thorough of Wilmington,\nwho acted as principal Manager for said Lottery,\nand received the several sums ut money obtain\nca hy the sales Of the aforesaid four different\nclasses Of said Laftety-which money, the SAID\nWilliam I.arkin illegally holds from us, the Ma\nnagers for the Congregation of st. Peters\nChurch, although we have repeatedly called on\nthe saitl William Larkin during the TING and term\nof near five wears from the commencement OF\nthe firsi class Of the said Lottery, And for his\nso illegally Withholding the money obtained by\nthe sales OF the aforesaid LOTTERY, We nave\nsuit at Law against the said William Larkin' as\nwe could not get a settlement from hun, but a\nbusive language and insolence, every time We\napplied 10 him for such settlement.\n\n\nwe, the Managers Of St. Peters Church, give\ntho public in general notice, that we discharge\nthe aforesaid William Larkn from our employ\nand forbid him to transact any business as Ma\nnager, Agent or for any concern, direct,\nly or indirectly, belonging to ST. Peters Church,\nin the liorongh Of Wilmington, state Of pela,\nware-And also give the public notice that we\nwill not acknowledge nor abide by any transac.\nton done for the Church by any person Or per\nsons, unless legally empowered by the Manag-\ners.\n\n\nPETER PIERCE,\n\n\nBERNARD M'GUIGEN,\n\n\nBERNARD M'CANN,\n\n\nJOHN DURNIN.\n\n\nFeb IA. 1897. 22-ltp.",
+            "legibility": "Questionable",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 66,
+            "bbox": {
+                "x0": 1550,
+                "y0": 1391,
+                "x1": 2201,
+                "y1": 1427
+            },
+            "class": "headline",
+            "raw_text": "THE CATHOLIC CONGREGATION Of St.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 168,
+                "y0": 2687,
+                "x1": 836,
+                "y1": 2954
+            },
+            "class": "article",
+            "raw_text": "There is great profit in feeding geese, tur-\nkeys, and fowls Of every sort, with potatoes\nand meal mixed; they will tatten in nearly\nhalf the time that they will with any kind OF\ncorn or even meal by itself. The potatoes\nmust be bruised fine, while they are hot, and\nthe meal added, when the mess is given to\nthem y SIC. IF .4rts.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 34,
+            "bbox": {
+                "x0": 250,
+                "y0": 2639,
+                "x1": 749,
+                "y1": 2679
+            },
+            "class": "headline",
+            "raw_text": "Fattening Fowls with Potatoes.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": -1
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2205,
+                "y0": 4026,
+                "x1": 2873,
+                "y1": 4572
+            },
+            "class": "article",
+            "raw_text": "Corner OF Broad aud Mark streets,\n\n\nWILMISGToN, Dcl)\nRespectfully informs his friends and the public\nthat he carries ON the above business in all its va\nrious branches,\n\n\nAS he is determined to employ only the first\nrate workmen, and make use Of the best mate\nrlals, he has no doubt of giving satisfaction to\nthose who may favor him with their custom.\nHcintends keeping stock ready made FUR\nNlTuRE on hand, with which the public can be\nsupplied at any time.\n\n\nN. j. } $. would also inform the public, that\nhe has procured an elegant IIEARSE, with the\nnecessary equipments, such as are used in phila.\ndclphia.\n\n\nSept, 21.-4t.",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 46,
+            "bbox": {
+                "x0": 2235,
+                "y0": 3934,
+                "x1": 2843,
+                "y1": 4018
+            },
+            "class": "headline",
+            "raw_text": "\nJOHN SEBO,\nCABINET & SOFA MAKER.",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": -2
+        },
+        {
+            "id": 73,
+            "bbox": {
+                "x0": 2275,
+                "y0": 4022,
+                "x1": 2825,
+                "y1": 4053
+            },
+            "class": "author",
+            "raw_text": "Corner of Broad aud Mark Ct streets,",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": -1
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1533,
+                "y0": 3141,
+                "x1": 2197,
+                "y1": 3399
+            },
+            "class": "article",
+            "raw_text": "All persons indebted TO the Estate of JOHN\nKEMP, late of Wilmington, Cartl-maker, dec,\nare requested 10 make payment, and all persons\nhaving CLAIMS on said estate, are also desired to\nexhibit them duly attestcd, when they will be\nImmediately paid.\n\n\nWM. MARSHALL\n2l mo-, 5tl, 1897. 21--4tp.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 76,
+            "bbox": {
+                "x0": 1804,
+                "y0": 2914,
+                "x1": 2193,
+                "y1": 3067
+            },
+            "class": "headline",
+            "raw_text": "PETER PIERCE,\nBERNARD MsGUIGEN,\nBERNARD M'CANN,\nJOHN DURNIN.\n\n\n11-.ttD.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": -3
+        },
+        {
+            "id": 70,
+            "bbox": {
+                "x0": 1590,
+                "y0": 3040,
+                "x1": 1800,
+                "y1": 3076
+            },
+            "class": "headline",
+            "raw_text": "Fob. Il. 1897.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": -2
+        },
+        {
+            "id": 48,
+            "bbox": {
+                "x0": 1651,
+                "y0": 3088,
+                "x1": 2079,
+                "y1": 3133
+            },
+            "class": "headline",
+            "raw_text": "Executors Notice.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": -1
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 168,
+                "y0": 3075,
+                "x1": 840,
+                "y1": 3316
+            },
+            "class": "article",
+            "raw_text": "Mr.. Someryille says that the fattening Of\nhogs by potatoes, is much hastened, by mix\ning small quantity Of astringent substance\namong the potatoes, especially if they show\nthe least tendency to purging. A little alum\nor Armenian bole may be used.-Re7aort Of\nThe British Board Of Agricul.",
+            "legibility": "Questionable",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        },
+        {
+            "id": 32,
+            "bbox": {
+                "x0": 168,
+                "y0": 2988,
+                "x1": 840,
+                "y1": 3063
+            },
+            "class": "headline",
+            "raw_text": "Po.asoes far Fa.ening Hogs seasoned 7vitA\n\n\n-f3um.",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 870,
+                "y0": 5187,
+                "x1": 1534,
+                "y1": 5497
+            },
+            "class": "article",
+            "raw_text": "G1.UTTON.\nWhen the tir'd glutton labours through treat\nHe finds no relish in the sweetest meat:\nHe calls for something bitter something sour,\nAnd the rich feast concludes extremely poor.\n\n\nDEBATE.\nYe powers who rule the tongue, fsuch there are\nAnd make colloquial happiness your care,\nPreserve me from the thing dread and hate,\nA duel in the form Of debate. Pope.",
+            "legibility": "Questionable",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 69,
+            "bbox": {
+                "x0": 1114,
+                "y0": 5178,
+                "x1": 1290,
+                "y1": 5205
+            },
+            "class": "headline",
+            "raw_text": "GLUTION.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": -1
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 1529,
+                "y0": 1212,
+                "x1": 2197,
+                "y1": 1375
+            },
+            "class": "article",
+            "raw_text": "In all its variety, executed at the ofhce\nthe WILMINcToN1AN, No. 81, Market-St.,\non moderate terms. Orders will meet with\nprompt attention.",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        },
+        {
+            "id": 39,
+            "bbox": {
+                "x0": 1655,
+                "y0": 1156,
+                "x1": 2066,
+                "y1": 1205
+            },
+            "class": "headline",
+            "raw_text": "Job Printing,",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": -1
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 2885,
+                "y0": 296,
+                "x1": 3497,
+                "y1": 681
+            },
+            "class": "article",
+            "raw_text": "Ghalkly Z somers, 4s. Market-treot\npuzny < Bassett, 90, market st\n,ohn Patterson, 80 market Street\nw B. Iomlinson, No. &c. arl ~ S+,o..\nJohn X. brinckie, corner Of arket & ons.. lSs,\n\n\nstreets. SuetN\nWilliam MN,'Caullcy, }, Brandywine, north !,\n\n\nOF the Bridge. y \"\nJohn M'Lcar, SO market st.\nAllan Thomson, 43 market st.\nJohn w. Tatum, 80 market st.",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        },
+        {
+            "id": 63,
+            "bbox": {
+                "x0": 2925,
+                "y0": 161,
+                "x1": 3475,
+                "y1": 227
+            },
+            "class": "headline",
+            "raw_text": "C,1x,\"~ -s--ss.a-.\nGENERAL REGISTEp",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": -2
+        },
+        {
+            "id": 64,
+            "bbox": {
+                "x0": 2981,
+                "y0": 244,
+                "x1": 3467,
+                "y1": 293
+            },
+            "class": "headline",
+            "raw_text": "Dry Good Mnrnban4a",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": -1
+        },
+        {
+            "id": 36,
+            "bbox": {
+                "x0": 2898,
+                "y0": 5269,
+                "x1": 3528,
+                "y1": 5506
+            },
+            "class": "article",
+            "raw_text": "Just published and for sale AZ y, =, s,reet.\nBook and Hat Store, No. 9o Marke' '.'t and\n\n\nThe ATLANTIC Souvenir; Gir,syd G',;shed with\nNew Years present, for 1927 emoe,,,ira ,r, a p:f'\nnine elegant engrayings, t'getne' .rsr.\nsentation Plate, and an engraved Ss'4e's\n\n\nNov @ 1875,",
+            "legibility": "Legible",
+            "full_article_id": 37,
+            "reading_order_id": 0
+        },
+        {
+            "id": 61,
+            "bbox": {
+                "x0": 3025,
+                "y0": 5226,
+                "x1": 3419,
+                "y1": 5270
+            },
+            "class": "headline",
+            "raw_text": "New Publications.",
+            "legibility": "Legible",
+            "full_article_id": 37,
+            "reading_order_id": -1
+        },
+        {
+            "id": 44,
+            "bbox": {
+                "x0": 2890,
+                "y0": 1273,
+                "x1": 3506,
+                "y1": 1514
+            },
+            "class": "article",
+            "raw_text": "John Matthews. Markets., opposite 4,\n\n\nMarket house, N. Castle. Wv\nTheophilus Jones, 81 market st.\nVal. M Neal & son, 98 and 100 markets,\nWilliam M'Neal. ITO king st.\nJames Simpson, 19 west front st,\nWilliam White, 80 market st.",
+            "legibility": "Legible",
+            "full_article_id": 45,
+            "reading_order_id": 0
+        },
+        {
+            "id": 55,
+            "bbox": {
+                "x0": 2912,
+                "y0": 1221,
+                "x1": 3493,
+                "y1": 1270
+            },
+            "class": "headline",
+            "raw_text": "Boot and Shoe Manufactures,",
+            "legibility": "Legible",
+            "full_article_id": 45,
+            "reading_order_id": -1
+        },
+        {
+            "id": 45,
+            "bbox": {
+                "x0": 835,
+                "y0": 170,
+                "x1": 1521,
+                "y1": 2984
+            },
+            "class": "article",
+            "raw_text": "may be applied to his legs and feet, kept\nconstantly wet with cold water.\n\n\n\"Clysters of three quarts of warm water,\nnaxseed tea, or water cruel, ought also to be\ngiven. and repeated, if necessary, with\nhandful of fine salt in either. While the\nstiffness continues, the horse should be fed\nupon bran mashes. with small quantity OF\noats added, and be allowed but little water,\nand that not entirely cold. Exercise must\non no account be omitted.\n\n\nDeane's New England Farmer says \"lo\nfit horse for journey, he should not be sui\nfered to grow too fat and gross. lie should for\nsome time be kept in the stable rather than\nin the pasture. and fed mostly with proven\nder: but rather sparingly if he incline to be\nfat He should have exercise daily to hard\nen- his flesh, and keep him in the habit Of\ntravelling. He should be shod some days\nbefore he begins journey, that the shoes\nmay be well settled to his feet, and the nails\na little rusted at the points, that they hold\nthe faster And the pads of the saddle should\nbe we'll fitted to his back SO as to hill the\nholows, and bear equally on every part\nAnd while he is on a journey he should be\nstabbed every night. 1t is very destructive\n! to expose horses to the dampness and cold\nof the night after severe exercise. But It\nwould be best if neither horses nor any OF\nour cattle were wholly confined to dry meat\nin winter. Horses indicate this by their cat\ning snow with their hay Set basket OF\n! snow within reach of horse, when he is at\nhis manger, and he will take mouthful\n4 from each alternately. OF all juicy food for\nhorses in winter, writers seem to give car\nrots the preference. Potatoes and turnips\n! in small quantities are also recommended.\n1 They have been found by experience to an\nswer well instead of oats for laborng horses;\nand to fasten those which are lean. Carrots\nare said in the Domestic Encyclopedia to be\nparticularly seryiceable to broken wlnded\nhorses.\n\n\n\"Horses should not be too much deprived\nof the liberty of motion, they too often\nare. Close confinement after hard labour,\nwill be apt to abate their circnlations too\nsuddenly. make them chilly, and stlffcn their\njoints. Horses should therefore not be\nstraitened for room in their stables. Stables\nshould not be 50 low as to prevent their toss\ning up their heads as high as they please.\nSome stables have so little room over head\nas to bring horses into a habit OF carrying\n] their heads too low. They become afraid\nTO lift them up. They should also have room\nin their stables to turn their heads to any\npart of their bodies, that they may defend\nthemselves from the biting Of insects, alav\nitching, &C. And their halters should al,\nways be SO long, and their stables so wide\nthat they may lay conveniently Nor should\nhorses be so placed as to be able to deprive\neach other of fodder\n\n\n\"Horses that are daily worked in sum-\nmer, should be mostly kept on green fodder\nin stables, rather than grazed in pastures\nhe tendance Of them will not be 50 BURDEN\nsome, with spot Of high and thick grass\nat hand, as leading them to and from pas\ntnre at the distance of quarter Of mile.\nThis will prevent their being often chilled\nby feeding il wet nights. A large quantity\nof manure will thus he saved. And verv\nsmall quantity Of land will answer in compar-\nison with what it takes for the pasturng of\nhorse. Keeping sctthe and basket at\nhand, horse may De pastured in this way.\nIN two or three minutes, and by the time that\n! the whole spot has been once moved over,\nthat which is first cut will be grown again.\n\n\n",
+            "legibility": "Legible",
+            "full_article_id": 46,
+            "reading_order_id": 0
+        },
+        {
+            "id": 51,
+            "bbox": {
+                "x0": 2214,
+                "y0": 4606,
+                "x1": 2878,
+                "y1": 4987
+            },
+            "class": "article",
+            "raw_text": "OF CaIt,\nThe time ola BLAC!, ROY, IS years Of age.\nwho has eleven years to serve, from the 12th of\nMarch next: likewise the time of BLACK\nGIRL, l5years of age, who has years to serve\nfrom the 26th July next. For terms apply ci-\nther to\n\n\nELIZABETH CRAWFORD,\n\n\nROH'T: CRAWFORD,\n\n\nANDREW WALKER,\n\n\nlAicreek Hundred.\nJan o. 1871 l9--4tp.",
+            "legibility": "Questionable",
+            "full_article_id": 52,
+            "reading_order_id": 0
+        },
+        {
+            "id": 67,
+            "bbox": {
+                "x0": 2427,
+                "y0": 4584,
+                "x1": 2642,
+                "y1": 4625
+            },
+            "class": "headline",
+            "raw_text": "For Sale.",
+            "legibility": "Legible",
+            "full_article_id": 52,
+            "reading_order_id": -1
+        },
+        {
+            "id": 52,
+            "bbox": {
+                "x0": 2209,
+                "y0": 1374,
+                "x1": 2882,
+                "y1": 1567
+            },
+            "class": "article",
+            "raw_text": "For the benefit Of Newark College, Middletown\nAcademy, and Emmanuel Church.\n60 No. Lotteyy.-9 dra,cn Bailots.\nTo be drawn at Del, on the 14th day\n\n\nOf March, 1927.",
+            "legibility": "Legible",
+            "full_article_id": 53,
+            "reading_order_id": 0
+        },
+        {
+            "id": 53,
+            "bbox": {
+                "x0": 2279,
+                "y0": 1291,
+                "x1": 2804,
+                "y1": 1370
+            },
+            "class": "headline",
+            "raw_text": "Delaware State Lottery,\n\n\nSIXTH CLASS,",
+            "legibility": "Legible",
+            "full_article_id": 53,
+            "reading_order_id": -1
+        },
+        {
+            "id": 56,
+            "bbox": {
+                "x0": 2222,
+                "y0": 5021,
+                "x1": 2886,
+                "y1": 5441
+            },
+            "class": "article",
+            "raw_text": "w tIIILtU.\nsingle, sober, Industrious, and honest man.\nwell acquainted with attending Grist Mill. and\nhas some knowledge Of Farming, will meet with\nemployment the ensuing year, by applying to\nthe subscribers.\nALSO, single man of similar habits, &C. who\nIS well acquainted with Farming in all its branch.\nes.\n\n\nSAMUEL & VIM. METER,\n\n\nNear Newark, DEL\nFebruary 1, 1897. 9o-at\nJob Printing neatly eyecn1oJ -",
+            "legibility": "Legible",
+            "full_article_id": 57,
+            "reading_order_id": 0
+        },
+        {
+            "id": 60,
+            "bbox": {
+                "x0": 2358,
+                "y0": 4990,
+                "x1": 2742,
+                "y1": 5035
+            },
+            "class": "headline",
+            "raw_text": "A Miller Wanted.",
+            "legibility": "Legible",
+            "full_article_id": 57,
+            "reading_order_id": -1
+        },
+        {
+            "id": 58,
+            "bbox": {
+                "x0": 848,
+                "y0": 3053,
+                "x1": 1525,
+                "y1": 5166
+            },
+            "class": "article",
+            "raw_text": "lowing letter. dated from the Temple Lon\ndon, received BY friend of his in this coun-\ntry, for the character of tenant quitting a\nfarm, regarding it as novel and curious to\nagrculturists-to London agents ingenious\nand instructive--and comprehensive and\namusing to the public:\n\n\nSir-I take the liberty of troubling YOU\nwith few inquiries, in consequence Of an\napplication made to me bv ----, who says\nhe has rented farm under you, and can re-\nfer to you for his character and respectable\nty. for permission TO take an assignment of Il\nlease of farm. of which have the controul\nYou will therefore oblige me by informing\nme what is his character. Whether he is\nhonest, sober, frugal, industrious? Wheth-\ner he is observant of his engagement with\nhis landlord and others Whether he is CON\ntented or encroaching, compliant or obsti-\nnate, cunning or sincere, good tempered or\nchurlishe W neither he stands TO his word or\ntakes all such advantages as he legally can?\nwhat capital You suppose him to haves-\nwhat sort OF an education he has had; whc-\nther he is intelligent or stupid, eager to ac-\nquire new information in matters Of farming\nor adheres to that which contented his grand\ntathers-whcther he has an improved meth\ncd of farming9 Does he lay his dung ON for\nwheat, or for his turnips, beans and clovers,\nDoes he drill or use broadcast Does he\nhoe any. and what cropss Does he use two\nor four horses in his plough Does he feed\nhis hay grass, or NOV it? How many sheep\nper acre did he keep on your farml How\nmany crops running did he use to take, or\nwould he have taken, if he had been per-\nmittede Did he leave the land clean for the\nincoming tenant especially were his last\nyears wheat stube clean, Did he buy\nmuch hay or other fodder. and bring on the\nfarm, or did he sell hay and straw during his\nterm, OF at the end OF III Does he soil his\nbeasts and horses Did he keep his fences\ngood and accurate, and attend nicely to the\ndoing of his REPAIRS, Did he thrash by hand\nor machlnee Is he L sportsman Is he\ncareful in increasing manuref and does he\nlay 1t on the land hot and fresh, or keep it\nTIL It is rotten? Was il upon the chalk land\nthat he held farm under you, or upon the\nsand gravel, or clay?\n\n\n1 he answer to some of these queries NAV\nnot, perhaps, be within your knowledge, and\nunless yon take pleasure in farming; but il\nyou would answer such as YOU can. YOU\nwould confer on me favour. If leisure\nshould permit you to address line to me hy\nSunday next, should thankfully acknowl.\nedge the obligation.\n\n\nIS. Does he lay out money with spirit il\ncleaning, manuring, and improving land, o,\nis he close?",
+            "legibility": "Legible",
+            "full_article_id": 59,
+            "reading_order_id": 0
+        },
+        {
+            "id": 75,
+            "bbox": {
+                "x0": 927,
+                "y0": 2988,
+                "x1": 1455,
+                "y1": 3024
+            },
+            "class": "headline",
+            "raw_text": "From tAe SoutAhamtton Rrrald.",
+            "legibility": "Legible",
+            "full_article_id": 59,
+            "reading_order_id": -1
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                35,
+                0
+            ],
+            "headline": "ROLLING OF SEEDS.",
+            "article": "In all the system of Farming and Garden\ning there is not more useful tool than the\nRoller. Most of the complaints we receive\nof seeds not growing, is owing to their not\nbeing rolled. Celery, Spinage, Onion, and\nindeed almost every other kind of seeds, will\nnot vcgetate, except the ground is rolled af-\nter the seed is sown, or except heavy rain\nfalls, to beat the ground, which answers the\nsame purpose. Where there is no roller\non the premises, the following may answer\nas substitutc:--\n\n\nAfter the seed is sown, and the ground\nwell raked, take board or boards. Of the\nwhole length of the beds-lay them fat on\nthe ground, beginning at one edge of the bed\nwalk the whole length of the board this\nwill press the soil on the seed: then shift the\nboard, till you have thus gone over the\nwhole bed; and in dry weather cover your\nseed beds for forty eight hours with boards\nlaid fiat on the soil, and the seeds will come\nup almost Immediately; and if no boards are\nat hand tread in the seed with your feet, OF\nstrike on the beds with the blade Of your\nspade or shovel.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 298,
+                    "y0": 3350,
+                    "x1": 701,
+                    "y1": 3386
+                },
+                {
+                    "x0": 168,
+                    "y0": 3398,
+                    "x1": 836,
+                    "y1": 4254
+                }
+            ],
+            "bbox": [
+                168,
+                3350,
+                836,
+                4254
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-02-22_p4_sn85042523_00271740244_1827022201_0738.json"
+        },
+        {
+            "object_ids": [
+                40,
+                1
+            ],
+            "headline": "From the New-Englsnd Farmer.\n\n\nHORSES.",
+            "article": "\"Never trust to hosters when you are on\njourney. 1t is essentially necessary that\nyou personally see to the cleaning, watering,\nfeeding, and littering of your herse, other\nwise you will in all probability soon be un-\nder the necessity of purchasing another, or\nabandoning your journey.\n\n\n\"Shopld your horse lose his appetite, give\nhim half an ounce of nitre in bran mash\nonce or twice. This, with little rest, will\nsoon recover him.\n\n\n''Should you be so unfortunate as to have\nyour horse foundered, by injudicious feeding\nor watering before he is sufficiently cool\nwhich is always to be apprehended when you\nfeed on Indian corn, or any other grain ex-\ncept oats; it is advisable on the first appear\nance of founder, to take two quarts of blood\nfrom the neck, and also to bleed in two\nplaces lin each foot) i'll the coronet or upper\nedge Of the hoof, about one inch each way\nfrom the centre, then give purge of castor\noil one pint, calomel one drachm, after this\nand if it is possible to get him out of the sta\nBILE, force him to take some exercise; which\nis of all others the most efficacieus remedy\nand ifperseyered in however cruel and pain\nfull it may appear to be, seldom or never\nfails to carry off the complaint in shor,\ntime, especially if the founder or stiffness is\nnot very severe. But should it be founl\nimpracticablc to move the horse out of q\nstable, which is sometimes the case, after\nhsing bled as before directed, bran poultice",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 268,
+                    "y0": 4288,
+                    "x1": 744,
+                    "y1": 4363
+                },
+                {
+                    "x0": 172,
+                    "y0": 4366,
+                    "x1": 849,
+                    "y1": 5502
+                }
+            ],
+            "bbox": [
+                172,
+                4288,
+                849,
+                5502
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-02-22_p4_sn85042523_00271740244_1827022201_0738.json"
+        },
+        {
+            "object_ids": [
+                42,
+                2
+            ],
+            "headline": "FOR RENT.",
+            "article": "A Farm of about or 800 acres, principally\nmarsh on the Delaware, about 3 miles below Port\nPenn, known by the name of Long Island.\nAnother Farm of about 200 acres arabic land,\nnear the village ofst. Georges, now occupied by\nAndrew Price.\n\n\nAnother Farm, ofabout rs acres arabic land,\nnear the village ofst. Georges, now occupied by\njames Welde.\n\n\nAnother Farm, of about 80 acres arabic land\nnear Mount Pleasant, now unoccupied.\nAnother Farm, of about $50 acres, on Christi\nana Greek, near Christiana Village.\nTwo Dwelling Houses, and about 10 or Is a\ncres in lots in the Village of st. Georges.\nApply to JOHN NIvIN,\n\n\nChristiana\n| Dec z, 1925. ll-t25m.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1716,
+                    "y0": 4881,
+                    "x1": 2023,
+                    "y1": 4926
+                },
+                {
+                    "x0": 1546,
+                    "y0": 4933,
+                    "x1": 2206,
+                    "y1": 5497
+                }
+            ],
+            "bbox": [
+                1546,
+                4881,
+                2206,
+                5497
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-02-22_p4_sn85042523_00271740244_1827022201_0738.json"
+        },
+        {
+            "object_ids": [
+                37,
+                3
+            ],
+            "headline": "MISCELLANEOUS.",
+            "article": "Painter. Gtazier and Paper Hanger'\"-BeI-\njamin Fredd, No. 142 King Street\nI,on and Coai ilIerchaut-ThomasG Garrett\nJr, SO, Shiply-st.\n\n\nl1aStcr Bricklaycr, and Lime Mercham'-\nb. w Brackin, old Lime stand, No\nwest Broad-st.\n\n\n7anacr.-Bcnjamin Webb, Queen, between\nIatncll and Orange-sts.\nStone Cutters, Albert & James Robinson\nNo. 1913, market st.\n\n\nL9Hery and E.rchangc OGee.-Rober'sOA\n4 Little, %, market street.\nJames c. Allen TEACHER No. 105, Oranges\nabove the Hay Scales.\nThomas c. Alrichs, Fancy Hardware l,J\nand Sheet Iron Manufacturer, cofiV' V\nmarket and second streets. !.\nJacob Alrichs, Machine Maker, Corner y\nshipley and broad streets.\nIron Foundry-Mahlon Belts, seconu'''\nnear the Black Horse tavern\n1orocc. Nannfactory-Robinson 9 =\n9S market st.\n\n\nConrevQnccr-Benjam Ferris, at 'iie ~\nner of West and Third streets :\nj. p Fairlamb, Notary Public, Survey, t:ynaets, :\nLand, Convcyancer, Regulator OF o'''@'''\n&c. No. King street. J.,\n\n\nPatent Hay and Gran h%s, pse.\nJoshua Johnson * son, MAKERS\nGreek Mills. ,,o\nNotary Public and Conreganrff.---.1 IA Sec\nHcndrickson, corner OF French \"'N\nond streets, No. As. :,\nLivery .Stable-Kept by Huson owa'',\nShipley st. above Queen. .,or,-pa.\nCAma, Glass and Queenszyare sfore'\"'\nvid Smyth, 6s market st. ,,v.\nDruppist 5y CAerist.-Joseph BrihS'''\n2S mark ct st. .----.--.-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2990,
+                    "y0": 3655,
+                    "x1": 3475,
+                    "y1": 3704
+                },
+                {
+                    "x0": 2890,
+                    "y0": 3712,
+                    "x1": 3528,
+                    "y1": 5205
+                }
+            ],
+            "bbox": [
+                2890,
+                3655,
+                3528,
+                5205
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-02-22_p4_sn85042523_00271740244_1827022201_0738.json"
+        },
+        {
+            "object_ids": [
+                68,
+                41,
+                4
+            ],
+            "headline": "TIE FARMER.\n\nFrom the MiddletownSentinel.\n\n\nSHAKER BARN.",
+            "article": "Mr.. Starr-I hand you for the amusement\nand information of the practical farmer,\ndescription which have verbally received\nfrom friend of mine, living in that vicini.\nty, Of large Barn, built The last season, in\nthe town of Hancock Berkshire county Mass.\nby the family of Shakers located in that\ntown. 1t is possible that in some points the\ndimensions may be inaccurate; but you may\nrely that they are materially correct.-Bcth\nthe size and form are probably unfit for any\ncommon purposes very few farmers would\nwish to collect so much forage and manure,\nOF have so much stock at one place; but all\nwho have any experience in the business,\nwill agree that there is much ingenuity and\nconvenience in the design, for large estab-\nGshment.\n\n\nThe barn is built on ground inclning\nsouthwardly, in perfect circle, and is nine\nty feet in diameter, or across 1t from side to\nside. The walls are stone. % feet in height,\nOF suitable thickness, and laid in lime or well\npointed on each side. Round the barn, on\nthe inner side, are stables forming circle,\nthe manger within, and suitable places over\nil throw the hay or feed down; the stable\nand manger occupy about 10 feet, and are 8\nfeet high the stables open to and from sew\neral different yards, in order to make\nas many and such divisions Of their stock as\nthey have thought proper. The covering Of\nche stables form the barn floor, which also\nextends round the barn. There is but enc\nlarge door way for entrance with teams and\nloads; this is from the Northern side, from\nan offset or causeway, eight feet above the\nbase, and of course fourteen feet below the\ncaves. The cart or wagon that enters with\na load, makes the whole circuit of the floor,\nand after unloading comes out at the same\ndoor; thus or 10 teams can occupy the floor\nat one time in unloading, and not hinder each\nother. Within this circle of the stables and\nbarn floor is an area or bay, as it is usually\ncalled, which is filled with hay, &c, and\nmust be over sixty feet in diameter This\nis pitched in and on from any side or place\nmost convenient, or where wanted.\n\n\nThe roof comes to point at the centre,\nand sheds off the rain all around, something\nsimilar to an umbrella. 1t is supported from\nthe inner circle of the barn floor The ROOT\nboards are laid up and down, which by a\ntraverse saving Of the log we're all brough,\nto point, and then shingled round in the u\nsual mode.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 233,
+                    "y0": 196,
+                    "x1": 731,
+                    "y1": 245
+                },
+                {
+                    "x0": 250,
+                    "y0": 619,
+                    "x1": 723,
+                    "y1": 694
+                },
+                {
+                    "x0": 141,
+                    "y0": 706,
+                    "x1": 832,
+                    "y1": 2605
+                }
+            ],
+            "bbox": [
+                141,
+                196,
+                832,
+                2605
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-02-22_p4_sn85042523_00271740244_1827022201_0738.json"
+        },
+        {
+            "object_ids": [
+                28,
+                5
+            ],
+            "headline": "Nlumber For Sale.",
+            "article": "The subscribers intend to decline the Lumber\nBusiness carly this Spring, and offer their Stock\non hand al reduced prices, whole sale or retail\nAny persons wishing to purchase, will find it to\ntheir advantage to give us a call, as we have a\ngeneral assortment, consisting of Cedar and Cy-\npress Shingles Of various qualities; PANEL, first\nand second common white pine Boards well sea-\nsoncd; hearts Pine and Helnlock boIds; scant-\nling ard DIST of various qualities, lengths and\nsizes; Poplar Plank, Boards and scantling; plain,\nspeeked and cnrlcd Maple Boards, Plank and\nScantling. Also, Cherry Scantllng; inch and\nhalf inch Walnut Boards, and i variety Of other\narticles not enumerated\n\n\nn. b. Any person wishing to engage in the\nLumber Business will find il much to their adj\nvantage to make application TO us, as We are\ndisposed TO sell on reasonable terms; and the\nstand is we'll known 10 be as good as any i'll the\nborough.\n\n\nEZRA IIOOPES,\n\n\nJOSEPH THOMAS.\nWilmington, ID mo. LIST, 1897, 20--tf.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1620,
+                    "y0": 3424,
+                    "x1": 2101,
+                    "y1": 3473
+                },
+                {
+                    "x0": 1533,
+                    "y0": 3481,
+                    "x1": 2197,
+                    "y1": 4241
+                }
+            ],
+            "bbox": [
+                1533,
+                3424,
+                2197,
+                4241
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-02-22_p4_sn85042523_00271740244_1827022201_0738.json"
+        },
+        {
+            "object_ids": [
+                30,
+                6
+            ],
+            "headline": "WILLIAM ALDRED.\n\n\nNXER.",
+            "article": "Brandywine, near Wilmington,\nContinues to dye Sins, Sattins, Cottons q Woot-\ncnS, to any pattern they will admit Of\n\n\nIn consequence ofthe death of our late wor-\nthy fellow citizen, ! i'm Fleming, goods will in\nfuture be received AT Mr.. John Whites Drug\nand China Store, No no. Market Street, Will\nminston\n\n\nAttera thirty-two years residence, in and near\niImington, VIM. Aldred would feel himself un.\ngrateful, if he did not take this opportunity Of\nreturning his thanks to his friends, for their EN-\nployment; and hopes their good opinion of him\nwill not be forfeited by any neglect in future.\n\n\nFebruary /, 1927. 20-4tp.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1585,
+                    "y0": 4257,
+                    "x1": 2132,
+                    "y1": 4367
+                },
+                {
+                    "x0": 1537,
+                    "y0": 4379,
+                    "x1": 2197,
+                    "y1": 4860
+                }
+            ],
+            "bbox": [
+                1537,
+                4257,
+                2197,
+                4860
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-02-22_p4_sn85042523_00271740244_1827022201_0738.json"
+        },
+        {
+            "object_ids": [
+                38,
+                7
+            ],
+            "headline": "Grocery Stores.",
+            "article": "Joseph Mendenhall & Co. corner &c n.\n\n\nand Second streets. ' An\nJoseph {. Gilpin, 46, market st.\n\n\nJames & Samuel Brown, 8 High st.\nClement & Gordon, corner Of MARIE, !,\n\n\nKennel. aa\nPeter Horn, corner king and front sts\nJohn Rice, Brandy wine, south of br;dso\nsamuel stroud, corner of front and orangp ran\nGeorge Williamson, 10, high st. 'N'S''\nGeorge Winslow, 179 market st.\nJohn Wright, corner of Fror. and M,,l\nPerry Steward, Market st. opp. Acadsmaa' ~",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3051,
+                    "y0": 702,
+                    "x1": 3397,
+                    "y1": 751
+                },
+                {
+                    "x0": 2890,
+                    "y0": 754,
+                    "x1": 3510,
+                    "y1": 1205
+                }
+            ],
+            "bbox": [
+                2890,
+                702,
+                3510,
+                1205
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-02-22_p4_sn85042523_00271740244_1827022201_0738.json"
+        },
+        {
+            "object_ids": [
+                31,
+                8
+            ],
+            "headline": "Soap and Candle Mandatory.",
+            "article": "THE Subscriber takes this opportunity to in\nform the public, that the establishment hereto\nfore conducted by James Ray, Esq, together\nwith the accounts connected with the business\nof that establishment from the first of January,\n1896, have passed into his hands; and that he\nwill continue the business in all its branches, at\nthe old Siiind, corner Of Tatnall and Queen-strs.\nnear the Friend Meeting House, where he will\nmanufacture, and furnish at Philadelphia prices,\nMould and Dipt CANDLES, FuNer's, Yelloao and\nBro,Un .S0.iF, Of the best quality.\n\n\nENOCH ROBERTS.\nNIB. The highest price given for Tallow,\nButchers Fat, and Fat of every description.\n\n\nWilminpton Nov. Is 1896. 8-6m-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2214,
+                    "y0": 711,
+                    "x1": 2869,
+                    "y1": 760
+                },
+                {
+                    "x0": 2209,
+                    "y0": 772,
+                    "x1": 2873,
+                    "y1": 1279
+                }
+            ],
+            "bbox": [
+                2209,
+                711,
+                2873,
+                1279
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-02-22_p4_sn85042523_00271740244_1827022201_0738.json"
+        },
+        {
+            "object_ids": [
+                29,
+                9
+            ],
+            "headline": "Twenty Dollars Reward.",
+            "article": "Ran away from the subscriber, on Saturday, the\n18th inst, an indented boy to the Coachmaking\nbusiness, named JOHN HALL: he went in com\npany with boy bound to Thomas Moore. He\nIS about 10 years of age, about five feet six inches\nhigh, thick set; speaks quick when spoken to;\nhas rather down look; light hair and light com\nplexion-had on when lie went way, suit u\nblue clothes fur hat, and boots\n\n\nWhoever will secure the boy in any Jail, SO\nthat can get him again, shall receive the above\nreward; together with reasonable charges il\nbrought home. All persons are cautioned\nagainst harboring said boy, at theirperil.\nPETER A. HUMPHREYS.\nWILMINGTON Del Ian. 25-19 at.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2257,
+                    "y0": 130,
+                    "x1": 2790,
+                    "y1": 179
+                },
+                {
+                    "x0": 2200,
+                    "y0": 191,
+                    "x1": 2869,
+                    "y1": 698
+                }
+            ],
+            "bbox": [
+                2200,
+                130,
+                2869,
+                698
+            ],
+            "full_article_id": 10,
+            "id": "10_1827-02-22_p4_sn85042523_00271740244_1827022201_0738.json"
+        },
+        {
+            "object_ids": [
+                71,
+                57,
+                49,
+                10
+            ],
+            "headline": "SCHEME.\n\nI02,66o\n\n1895 Prizes Sl(\n20825 Blanks.\n1920 Tickets.\n\n\nTickets si--Uqircs s2--QuQrterS 81.",
+            "article": "In this Scheme, composed Of 60 numbers by\nternary combination, with nine drawn ballots,\nthere VIII be 81 ,rizcs with 8 of the drawn num-\nbers on them; 1856, with two Of the drawn\nnumbers on; and LAS each with ono of the\ndrawn Numbers on; the residue of the tickets\nhaving none OF the drawn numbers on them, be-\ning blanks.\n\n\nTo determine the fate Of the S4, 220 tickets\nthe so numbers, from to 60 inclusive, will be\nplaced in wheel on the day Of drawing, and\nnine Of them be drawn out; and that ticket\nhaving on it the lst, I'd and Sd drawn numbers,\nas combination, will be entitled TO the prize of\n\n\n$4,000\nThat having on it the 4th, 5th, and 9th, to\n\n\n5000\nThat having omit, the 7tl, 8th, and 9th, to\n\n\n1894\nThose 5 having on them the 5th, 7th and 9th;\n5th, 9Th and 9th; 9th, 9TH and 8th; 9th, 9TH and\n9Th; 9th, 9th and 9Th, each 1000\nThose 10 having on them, the 4th, 9th and 7th;\n4th 9th and 9Th; 4tl, 9th and 9th; 4th, 7th and\n9Th; 4th, 9TH and 9th 5tli, 9th and 7th; 5th, 9th\nand 3ti; 5tl, 9th and 9th; 5th, 9TH and 9th, 4th,\n9th and th; each 500.\n\n\nThose 20 having on them the ID, 7th and 9th;\nI'd, 9th and 9thi sd, 4th and 5tl, Sd, 4th and\n9th; Sd, 4th and 1th; Sd, 4th and 9th; Sd, 4th\nand 9th; Sd, 5th and 9th; Sd, 5th and 9TH; Sd,\n5th and 9Th; 81, 5th and 9th Sd, 9th and 7th;\nSd, 9th and 9Th; Sd, 9Th and 9th; Sd, 7tI and\n8th; Sd, III; and 9th; 3d. Sth and 9th 4th, 5tL\nand eth; 4th, 5th and sthi 18th, 5th and 9th,\neach 200\nAll others, with three ofthe drawn numbers on\nthem, being 46, each 100\nThose 1O2 tickets having two of the drawn num-\nbers on them, and those the 1st and ID, or\nthe Sd and 4th, each 50\nThose lo2 tickets, having two of the drawn\nnumbers on them, and those two the 5th and 9th\nor the 9TH and 9Th, each 20\nAll others with two Of tho drawn numbers on\nthem, being l632, each 8\nAnd all tickets having any one Of the drawn\nnumbers on them, being LAYS, each 4\nNo ticket which shall have drawn prize of\nsuperior denomination can be entitled to an nfe.\nror prize.\n\n\nPrizes payable forty days after the drawing,\nand subject to the usual deduction Of fifteen per\ncent.\n\n\nYATES & MTNTYRE, Mlaareys.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2445,
+                    "y0": 1583,
+                    "x1": 2629,
+                    "y1": 1623
+                },
+                {
+                    "x0": 2746,
+                    "y0": 2002,
+                    "x1": 2886,
+                    "y1": 2047
+                },
+                {
+                    "x0": 2231,
+                    "y0": 2011,
+                    "x1": 2799,
+                    "y1": 2177
+                },
+                {
+                    "x0": 2209,
+                    "y0": 2181,
+                    "x1": 2882,
+                    "y1": 3927
+                }
+            ],
+            "bbox": [
+                2209,
+                1583,
+                2886,
+                3927
+            ],
+            "full_article_id": 11,
+            "id": "11_1827-02-22_p4_sn85042523_00271740244_1827022201_0738.json"
+        },
+        {
+            "object_ids": [
+                33,
+                74,
+                11
+            ],
+            "headline": "AGENTS\n\nFOR THE WILMINGTON1AN.",
+            "article": "FOR THE WHINING lONlhN'\n\n\nThe following gentlemen will receive SUD\nscriptions, and money due for the Whining\ntonian. We would particularly request our\nfriends who find it inconvenient to make\npayment to us, to call on any OF the gen.\ntenen whose names are below, who VIII\ngive receipts for the whole amount, or part\nOf their respective bills.\n\n\nNewark, Mr.. T. Benncson\nRed Lion. Mr. Rob't Rhodes\nSmyrna. Mr.. Jacob Pennington, p NJ.\nDover, Mr. Aug. NJ. schee, r NJ\nCamden. Mr.. !. G. Hardcaste\nMilford, Mr.. .Ino. Wallace.\nPhiladelphia, Mr.. II. !. Pepper, No. 40,\n\n\nChesnut-street.\n\n\nThe Wilmingtonian is 50 per annum TO\ndistant Subscribers if paid in advance; 81 81\nif paid within the year. and s.. if not paid\ntill the expiration of the year.\n\n\nl51No subscribers paper will be discon'\ntinued, unless two weeks previous notice be\ngiven and all arrears haid uh.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1708,
+                    "y0": 148,
+                    "x1": 2010,
+                    "y1": 206
+                },
+                {
+                    "x0": 1572,
+                    "y0": 209,
+                    "x1": 2136,
+                    "y1": 245
+                },
+                {
+                    "x0": 1529,
+                    "y0": 218,
+                    "x1": 2193,
+                    "y1": 1152
+                }
+            ],
+            "bbox": [
+                1529,
+                148,
+                2193,
+                1152
+            ],
+            "full_article_id": 12,
+            "id": "12_1827-02-22_p4_sn85042523_00271740244_1827022201_0738.json"
+        },
+        {
+            "object_ids": [
+                66,
+                12
+            ],
+            "headline": "THE CATHOLIC CONGREGATION Of St.",
+            "article": "THE CATHOLIC CONGREGATION Of St.\nPeters Church. in the Borough of Whining\nton, return their unfeigned thanks to their Ex-\ncellencics, the late and present Governors: and\nalso to the Honorable gentleme that composed\nthe Senate and Assembly of the State OF Dcla-\nware, since the wear of our Lord 1922 to this\npresent wear of our ortts 1927, for their kind be-\nne, olence, founded on Christian philanthropy,\nin extending the right hand offelowship, to their\nCatholic brethren, (not in fleetlng words, but IN\nreal actions) to accomplish what was not IN our\npower to do; which was, to finish our church,\nand ay Oh the inc,imbranccs due on the church;\nbv granting us lottery, and extending It, by\ngranting us two supplements; one Of which we\nhave The proceeds, received BY the Lottery and\nfirst supplements; which was divided into four\ndifferent classes was received BY William Iarkin,\nGrocer in the aforesaid thorough of Wilmington,\nwho acted as principal Manager for said Lottery,\nand received the several sums ut money obtain\nca hy the sales Of the aforesaid four different\nclasses Of said Laftety-which money, the SAID\nWilliam I.arkin illegally holds from us, the Ma\nnagers for the Congregation of st. Peters\nChurch, although we have repeatedly called on\nthe saitl William Larkin during the TING and term\nof near five wears from the commencement OF\nthe firsi class Of the said Lottery, And for his\nso illegally Withholding the money obtained by\nthe sales OF the aforesaid LOTTERY, We nave\nsuit at Law against the said William Larkin' as\nwe could not get a settlement from hun, but a\nbusive language and insolence, every time We\napplied 10 him for such settlement.\n\n\nwe, the Managers Of St. Peters Church, give\ntho public in general notice, that we discharge\nthe aforesaid William Larkn from our employ\nand forbid him to transact any business as Ma\nnager, Agent or for any concern, direct,\nly or indirectly, belonging to ST. Peters Church,\nin the liorongh Of Wilmington, state Of pela,\nware-And also give the public notice that we\nwill not acknowledge nor abide by any transac.\nton done for the Church by any person Or per\nsons, unless legally empowered by the Manag-\ners.\n\n\nPETER PIERCE,\n\n\nBERNARD M'GUIGEN,\n\n\nBERNARD M'CANN,\n\n\nJOHN DURNIN.\n\n\nFeb IA. 1897. 22-ltp.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1550,
+                    "y0": 1391,
+                    "x1": 2201,
+                    "y1": 1427
+                },
+                {
+                    "x0": 1529,
+                    "y0": 1391,
+                    "x1": 2197,
+                    "y1": 3072
+                }
+            ],
+            "bbox": [
+                1529,
+                1391,
+                2201,
+                3072
+            ],
+            "full_article_id": 13,
+            "id": "13_1827-02-22_p4_sn85042523_00271740244_1827022201_0738.json"
+        },
+        {
+            "object_ids": [
+                34,
+                13
+            ],
+            "headline": "Fattening Fowls with Potatoes.",
+            "article": "There is great profit in feeding geese, tur-\nkeys, and fowls Of every sort, with potatoes\nand meal mixed; they will tatten in nearly\nhalf the time that they will with any kind OF\ncorn or even meal by itself. The potatoes\nmust be bruised fine, while they are hot, and\nthe meal added, when the mess is given to\nthem y SIC. IF .4rts.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 250,
+                    "y0": 2639,
+                    "x1": 749,
+                    "y1": 2679
+                },
+                {
+                    "x0": 168,
+                    "y0": 2687,
+                    "x1": 836,
+                    "y1": 2954
+                }
+            ],
+            "bbox": [
+                168,
+                2639,
+                836,
+                2954
+            ],
+            "full_article_id": 14,
+            "id": "14_1827-02-22_p4_sn85042523_00271740244_1827022201_0738.json"
+        },
+        {
+            "object_ids": [
+                46,
+                73,
+                14
+            ],
+            "headline": "\nJOHN SEBO,\nCABINET & SOFA MAKER.",
+            "article": "Corner OF Broad aud Mark streets,\n\n\nWILMISGToN, Dcl)\nRespectfully informs his friends and the public\nthat he carries ON the above business in all its va\nrious branches,\n\n\nAS he is determined to employ only the first\nrate workmen, and make use Of the best mate\nrlals, he has no doubt of giving satisfaction to\nthose who may favor him with their custom.\nHcintends keeping stock ready made FUR\nNlTuRE on hand, with which the public can be\nsupplied at any time.\n\n\nN. j. } $. would also inform the public, that\nhe has procured an elegant IIEARSE, with the\nnecessary equipments, such as are used in phila.\ndclphia.\n\n\nSept, 21.-4t.",
+            "byline": "Corner of Broad aud Mark Ct streets,",
+            "bbox_list": [
+                {
+                    "x0": 2235,
+                    "y0": 3934,
+                    "x1": 2843,
+                    "y1": 4018
+                },
+                {
+                    "x0": 2275,
+                    "y0": 4022,
+                    "x1": 2825,
+                    "y1": 4053
+                },
+                {
+                    "x0": 2205,
+                    "y0": 4026,
+                    "x1": 2873,
+                    "y1": 4572
+                }
+            ],
+            "bbox": [
+                2205,
+                3934,
+                2873,
+                4572
+            ],
+            "full_article_id": 15,
+            "id": "15_1827-02-22_p4_sn85042523_00271740244_1827022201_0738.json"
+        },
+        {
+            "object_ids": [
+                76,
+                70,
+                48,
+                15
+            ],
+            "headline": "PETER PIERCE,\nBERNARD MsGUIGEN,\nBERNARD M'CANN,\nJOHN DURNIN.\n\n\n11-.ttD.\n\nFob. Il. 1897.\n\nExecutors Notice.",
+            "article": "All persons indebted TO the Estate of JOHN\nKEMP, late of Wilmington, Cartl-maker, dec,\nare requested 10 make payment, and all persons\nhaving CLAIMS on said estate, are also desired to\nexhibit them duly attestcd, when they will be\nImmediately paid.\n\n\nWM. MARSHALL\n2l mo-, 5tl, 1897. 21--4tp.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1804,
+                    "y0": 2914,
+                    "x1": 2193,
+                    "y1": 3067
+                },
+                {
+                    "x0": 1590,
+                    "y0": 3040,
+                    "x1": 1800,
+                    "y1": 3076
+                },
+                {
+                    "x0": 1651,
+                    "y0": 3088,
+                    "x1": 2079,
+                    "y1": 3133
+                },
+                {
+                    "x0": 1533,
+                    "y0": 3141,
+                    "x1": 2197,
+                    "y1": 3399
+                }
+            ],
+            "bbox": [
+                1533,
+                2914,
+                2197,
+                3399
+            ],
+            "full_article_id": 16,
+            "id": "16_1827-02-22_p4_sn85042523_00271740244_1827022201_0738.json"
+        },
+        {
+            "object_ids": [
+                32,
+                18
+            ],
+            "headline": "Po.asoes far Fa.ening Hogs seasoned 7vitA\n\n\n-f3um.",
+            "article": "Mr.. Someryille says that the fattening Of\nhogs by potatoes, is much hastened, by mix\ning small quantity Of astringent substance\namong the potatoes, especially if they show\nthe least tendency to purging. A little alum\nor Armenian bole may be used.-Re7aort Of\nThe British Board Of Agricul.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 168,
+                    "y0": 2988,
+                    "x1": 840,
+                    "y1": 3063
+                },
+                {
+                    "x0": 168,
+                    "y0": 3075,
+                    "x1": 840,
+                    "y1": 3316
+                }
+            ],
+            "bbox": [
+                168,
+                2988,
+                840,
+                3316
+            ],
+            "full_article_id": 19,
+            "id": "19_1827-02-22_p4_sn85042523_00271740244_1827022201_0738.json"
+        },
+        {
+            "object_ids": [
+                69,
+                19
+            ],
+            "headline": "GLUTION.",
+            "article": "G1.UTTON.\nWhen the tir'd glutton labours through treat\nHe finds no relish in the sweetest meat:\nHe calls for something bitter something sour,\nAnd the rich feast concludes extremely poor.\n\n\nDEBATE.\nYe powers who rule the tongue, fsuch there are\nAnd make colloquial happiness your care,\nPreserve me from the thing dread and hate,\nA duel in the form Of debate. Pope.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1114,
+                    "y0": 5178,
+                    "x1": 1290,
+                    "y1": 5205
+                },
+                {
+                    "x0": 870,
+                    "y0": 5187,
+                    "x1": 1534,
+                    "y1": 5497
+                }
+            ],
+            "bbox": [
+                870,
+                5178,
+                1534,
+                5497
+            ],
+            "full_article_id": 20,
+            "id": "20_1827-02-22_p4_sn85042523_00271740244_1827022201_0738.json"
+        },
+        {
+            "object_ids": [
+                39,
+                21
+            ],
+            "headline": "Job Printing,",
+            "article": "In all its variety, executed at the ofhce\nthe WILMINcToN1AN, No. 81, Market-St.,\non moderate terms. Orders will meet with\nprompt attention.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1655,
+                    "y0": 1156,
+                    "x1": 2066,
+                    "y1": 1205
+                },
+                {
+                    "x0": 1529,
+                    "y0": 1212,
+                    "x1": 2197,
+                    "y1": 1375
+                }
+            ],
+            "bbox": [
+                1529,
+                1156,
+                2197,
+                1375
+            ],
+            "full_article_id": 22,
+            "id": "22_1827-02-22_p4_sn85042523_00271740244_1827022201_0738.json"
+        },
+        {
+            "object_ids": [
+                63,
+                64,
+                23
+            ],
+            "headline": "C,1x,\"~ -s--ss.a-.\nGENERAL REGISTEp\n\nDry Good Mnrnban4a",
+            "article": "Ghalkly Z somers, 4s. Market-treot\npuzny < Bassett, 90, market st\n,ohn Patterson, 80 market Street\nw B. Iomlinson, No. &c. arl ~ S+,o..\nJohn X. brinckie, corner Of arket & ons.. lSs,\n\n\nstreets. SuetN\nWilliam MN,'Caullcy, }, Brandywine, north !,\n\n\nOF the Bridge. y \"\nJohn M'Lcar, SO market st.\nAllan Thomson, 43 market st.\nJohn w. Tatum, 80 market st.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2925,
+                    "y0": 161,
+                    "x1": 3475,
+                    "y1": 227
+                },
+                {
+                    "x0": 2981,
+                    "y0": 244,
+                    "x1": 3467,
+                    "y1": 293
+                },
+                {
+                    "x0": 2885,
+                    "y0": 296,
+                    "x1": 3497,
+                    "y1": 681
+                }
+            ],
+            "bbox": [
+                2885,
+                161,
+                3497,
+                681
+            ],
+            "full_article_id": 24,
+            "id": "24_1827-02-22_p4_sn85042523_00271740244_1827022201_0738.json"
+        },
+        {
+            "object_ids": [
+                61,
+                36
+            ],
+            "headline": "New Publications.",
+            "article": "Just published and for sale AZ y, =, s,reet.\nBook and Hat Store, No. 9o Marke' '.'t and\n\n\nThe ATLANTIC Souvenir; Gir,syd G',;shed with\nNew Years present, for 1927 emoe,,,ira ,r, a p:f'\nnine elegant engrayings, t'getne' .rsr.\nsentation Plate, and an engraved Ss'4e's\n\n\nNov @ 1875,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3025,
+                    "y0": 5226,
+                    "x1": 3419,
+                    "y1": 5270
+                },
+                {
+                    "x0": 2898,
+                    "y0": 5269,
+                    "x1": 3528,
+                    "y1": 5506
+                }
+            ],
+            "bbox": [
+                2898,
+                5226,
+                3528,
+                5506
+            ],
+            "full_article_id": 37,
+            "id": "37_1827-02-22_p4_sn85042523_00271740244_1827022201_0738.json"
+        },
+        {
+            "object_ids": [
+                55,
+                44
+            ],
+            "headline": "Boot and Shoe Manufactures,",
+            "article": "John Matthews. Markets., opposite 4,\n\n\nMarket house, N. Castle. Wv\nTheophilus Jones, 81 market st.\nVal. M Neal & son, 98 and 100 markets,\nWilliam M'Neal. ITO king st.\nJames Simpson, 19 west front st,\nWilliam White, 80 market st.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2912,
+                    "y0": 1221,
+                    "x1": 3493,
+                    "y1": 1270
+                },
+                {
+                    "x0": 2890,
+                    "y0": 1273,
+                    "x1": 3506,
+                    "y1": 1514
+                }
+            ],
+            "bbox": [
+                2890,
+                1221,
+                3506,
+                1514
+            ],
+            "full_article_id": 45,
+            "id": "45_1827-02-22_p4_sn85042523_00271740244_1827022201_0738.json"
+        },
+        {
+            "object_ids": [
+                45
+            ],
+            "headline": "",
+            "article": "may be applied to his legs and feet, kept\nconstantly wet with cold water.\n\n\n\"Clysters of three quarts of warm water,\nnaxseed tea, or water cruel, ought also to be\ngiven. and repeated, if necessary, with\nhandful of fine salt in either. While the\nstiffness continues, the horse should be fed\nupon bran mashes. with small quantity OF\noats added, and be allowed but little water,\nand that not entirely cold. Exercise must\non no account be omitted.\n\n\nDeane's New England Farmer says \"lo\nfit horse for journey, he should not be sui\nfered to grow too fat and gross. lie should for\nsome time be kept in the stable rather than\nin the pasture. and fed mostly with proven\nder: but rather sparingly if he incline to be\nfat He should have exercise daily to hard\nen- his flesh, and keep him in the habit Of\ntravelling. He should be shod some days\nbefore he begins journey, that the shoes\nmay be well settled to his feet, and the nails\na little rusted at the points, that they hold\nthe faster And the pads of the saddle should\nbe we'll fitted to his back SO as to hill the\nholows, and bear equally on every part\nAnd while he is on a journey he should be\nstabbed every night. 1t is very destructive\n! to expose horses to the dampness and cold\nof the night after severe exercise. But It\nwould be best if neither horses nor any OF\nour cattle were wholly confined to dry meat\nin winter. Horses indicate this by their cat\ning snow with their hay Set basket OF\n! snow within reach of horse, when he is at\nhis manger, and he will take mouthful\n4 from each alternately. OF all juicy food for\nhorses in winter, writers seem to give car\nrots the preference. Potatoes and turnips\n! in small quantities are also recommended.\n1 They have been found by experience to an\nswer well instead of oats for laborng horses;\nand to fasten those which are lean. Carrots\nare said in the Domestic Encyclopedia to be\nparticularly seryiceable to broken wlnded\nhorses.\n\n\n\"Horses should not be too much deprived\nof the liberty of motion, they too often\nare. Close confinement after hard labour,\nwill be apt to abate their circnlations too\nsuddenly. make them chilly, and stlffcn their\njoints. Horses should therefore not be\nstraitened for room in their stables. Stables\nshould not be 50 low as to prevent their toss\ning up their heads as high as they please.\nSome stables have so little room over head\nas to bring horses into a habit OF carrying\n] their heads too low. They become afraid\nTO lift them up. They should also have room\nin their stables to turn their heads to any\npart of their bodies, that they may defend\nthemselves from the biting Of insects, alav\nitching, &C. And their halters should al,\nways be SO long, and their stables so wide\nthat they may lay conveniently Nor should\nhorses be so placed as to be able to deprive\neach other of fodder\n\n\n\"Horses that are daily worked in sum-\nmer, should be mostly kept on green fodder\nin stables, rather than grazed in pastures\nhe tendance Of them will not be 50 BURDEN\nsome, with spot Of high and thick grass\nat hand, as leading them to and from pas\ntnre at the distance of quarter Of mile.\nThis will prevent their being often chilled\nby feeding il wet nights. A large quantity\nof manure will thus he saved. And verv\nsmall quantity Of land will answer in compar-\nison with what it takes for the pasturng of\nhorse. Keeping sctthe and basket at\nhand, horse may De pastured in this way.\nIN two or three minutes, and by the time that\n! the whole spot has been once moved over,\nthat which is first cut will be grown again.\n\n\n",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 835,
+                    "y0": 170,
+                    "x1": 1521,
+                    "y1": 2984
+                }
+            ],
+            "bbox": [
+                835,
+                170,
+                1521,
+                2984
+            ],
+            "full_article_id": 46,
+            "id": "46_1827-02-22_p4_sn85042523_00271740244_1827022201_0738.json"
+        },
+        {
+            "object_ids": [
+                67,
+                51
+            ],
+            "headline": "For Sale.",
+            "article": "OF CaIt,\nThe time ola BLAC!, ROY, IS years Of age.\nwho has eleven years to serve, from the 12th of\nMarch next: likewise the time of BLACK\nGIRL, l5years of age, who has years to serve\nfrom the 26th July next. For terms apply ci-\nther to\n\n\nELIZABETH CRAWFORD,\n\n\nROH'T: CRAWFORD,\n\n\nANDREW WALKER,\n\n\nlAicreek Hundred.\nJan o. 1871 l9--4tp.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2427,
+                    "y0": 4584,
+                    "x1": 2642,
+                    "y1": 4625
+                },
+                {
+                    "x0": 2214,
+                    "y0": 4606,
+                    "x1": 2878,
+                    "y1": 4987
+                }
+            ],
+            "bbox": [
+                2214,
+                4584,
+                2878,
+                4987
+            ],
+            "full_article_id": 52,
+            "id": "52_1827-02-22_p4_sn85042523_00271740244_1827022201_0738.json"
+        },
+        {
+            "object_ids": [
+                53,
+                52
+            ],
+            "headline": "Delaware State Lottery,\n\n\nSIXTH CLASS,",
+            "article": "For the benefit Of Newark College, Middletown\nAcademy, and Emmanuel Church.\n60 No. Lotteyy.-9 dra,cn Bailots.\nTo be drawn at Del, on the 14th day\n\n\nOf March, 1927.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2279,
+                    "y0": 1291,
+                    "x1": 2804,
+                    "y1": 1370
+                },
+                {
+                    "x0": 2209,
+                    "y0": 1374,
+                    "x1": 2882,
+                    "y1": 1567
+                }
+            ],
+            "bbox": [
+                2209,
+                1291,
+                2882,
+                1567
+            ],
+            "full_article_id": 53,
+            "id": "53_1827-02-22_p4_sn85042523_00271740244_1827022201_0738.json"
+        },
+        {
+            "object_ids": [
+                60,
+                56
+            ],
+            "headline": "A Miller Wanted.",
+            "article": "w tIIILtU.\nsingle, sober, Industrious, and honest man.\nwell acquainted with attending Grist Mill. and\nhas some knowledge Of Farming, will meet with\nemployment the ensuing year, by applying to\nthe subscribers.\nALSO, single man of similar habits, &C. who\nIS well acquainted with Farming in all its branch.\nes.\n\n\nSAMUEL & VIM. METER,\n\n\nNear Newark, DEL\nFebruary 1, 1897. 9o-at\nJob Printing neatly eyecn1oJ -",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2358,
+                    "y0": 4990,
+                    "x1": 2742,
+                    "y1": 5035
+                },
+                {
+                    "x0": 2222,
+                    "y0": 5021,
+                    "x1": 2886,
+                    "y1": 5441
+                }
+            ],
+            "bbox": [
+                2222,
+                4990,
+                2886,
+                5441
+            ],
+            "full_article_id": 57,
+            "id": "57_1827-02-22_p4_sn85042523_00271740244_1827022201_0738.json"
+        },
+        {
+            "object_ids": [
+                75,
+                58
+            ],
+            "headline": "From tAe SoutAhamtton Rrrald.",
+            "article": "lowing letter. dated from the Temple Lon\ndon, received BY friend of his in this coun-\ntry, for the character of tenant quitting a\nfarm, regarding it as novel and curious to\nagrculturists-to London agents ingenious\nand instructive--and comprehensive and\namusing to the public:\n\n\nSir-I take the liberty of troubling YOU\nwith few inquiries, in consequence Of an\napplication made to me bv ----, who says\nhe has rented farm under you, and can re-\nfer to you for his character and respectable\nty. for permission TO take an assignment of Il\nlease of farm. of which have the controul\nYou will therefore oblige me by informing\nme what is his character. Whether he is\nhonest, sober, frugal, industrious? Wheth-\ner he is observant of his engagement with\nhis landlord and others Whether he is CON\ntented or encroaching, compliant or obsti-\nnate, cunning or sincere, good tempered or\nchurlishe W neither he stands TO his word or\ntakes all such advantages as he legally can?\nwhat capital You suppose him to haves-\nwhat sort OF an education he has had; whc-\nther he is intelligent or stupid, eager to ac-\nquire new information in matters Of farming\nor adheres to that which contented his grand\ntathers-whcther he has an improved meth\ncd of farming9 Does he lay his dung ON for\nwheat, or for his turnips, beans and clovers,\nDoes he drill or use broadcast Does he\nhoe any. and what cropss Does he use two\nor four horses in his plough Does he feed\nhis hay grass, or NOV it? How many sheep\nper acre did he keep on your farml How\nmany crops running did he use to take, or\nwould he have taken, if he had been per-\nmittede Did he leave the land clean for the\nincoming tenant especially were his last\nyears wheat stube clean, Did he buy\nmuch hay or other fodder. and bring on the\nfarm, or did he sell hay and straw during his\nterm, OF at the end OF III Does he soil his\nbeasts and horses Did he keep his fences\ngood and accurate, and attend nicely to the\ndoing of his REPAIRS, Did he thrash by hand\nor machlnee Is he L sportsman Is he\ncareful in increasing manuref and does he\nlay 1t on the land hot and fresh, or keep it\nTIL It is rotten? Was il upon the chalk land\nthat he held farm under you, or upon the\nsand gravel, or clay?\n\n\n1 he answer to some of these queries NAV\nnot, perhaps, be within your knowledge, and\nunless yon take pleasure in farming; but il\nyou would answer such as YOU can. YOU\nwould confer on me favour. If leisure\nshould permit you to address line to me hy\nSunday next, should thankfully acknowl.\nedge the obligation.\n\n\nIS. Does he lay out money with spirit il\ncleaning, manuring, and improving land, o,\nis he close?",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 927,
+                    "y0": 2988,
+                    "x1": 1455,
+                    "y1": 3024
+                },
+                {
+                    "x0": 848,
+                    "y0": 3053,
+                    "x1": 1525,
+                    "y1": 5166
+                }
+            ],
+            "bbox": [
+                848,
+                2988,
+                1525,
+                5166
+            ],
+            "full_article_id": 59,
+            "id": "59_1827-02-22_p4_sn85042523_00271740244_1827022201_0738.json"
+        }
+    ]
+}

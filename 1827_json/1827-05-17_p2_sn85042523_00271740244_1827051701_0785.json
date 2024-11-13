@@ -1,0 +1,1010 @@
+{
+    "lccn": {
+        "title": "The Wilmingtonian, and Delaware advertiser.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2638-1117",
+        "lccn": "sn85042523",
+        "start_year": "1825",
+        "end_year": "1827",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [
+            "sn88053080"
+        ],
+        "successors": [
+            "sn84020426"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn85042523",
+        "edition": "ed-01",
+        "date": "1827-05-17",
+        "pages": [
+            "seq-3",
+            "seq-1",
+            "seq-2",
+            "seq-4"
+        ]
+    },
+    "page_number": "2",
+    "scan": {
+        "lccn": "sn85042523",
+        "edition": "ed-01",
+        "date": "1827-05-17",
+        "page": "2",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn85042523/1827-05-17/ed-1/seq-2.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn85042523/1827-05-17/ed-1/seq-2/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn85042523/1827-05-17/ed-1/seq-2/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn85042523/00271740244/1827051701/0785.jp2",
+        "height": 5600,
+        "width": 3632
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 862,
+                "y0": 3578,
+                "x1": 1523,
+                "y1": 5504
+            },
+            "class": "article",
+            "raw_text": "Belt cnactcd BIZ tAe Srnatr and IIouse u\nRepresentatives. # the Unttd !9ta:et II IL\nmcrca IN Congrrs8 GaSemblc9, That the\nSecretary Of War BE- and he is hereby, directed\nto place the following named persons on the\npension list Of invalid pensioners of the United\nStates, who shall Be entitled 10, and rccciye pen\nsions According to the rates, and commencing at\nthe times hereinafter mentioned, to wit:\n\n\nEbcnc2er Lord, at the rate Of tour dollars pcr\nmonth, to commence ON the fourteenth day Of\nDecember, in the year otOur Lord one thousand\neight hundred and twenty-five;\n\n\nIsaac Carpenter, at the rate Of four dollars per\nmonth, TO commence on the fifteenth day Of Dc\ncember, one thousand eight hundred ANA twenty\nfive;\n\n\nSIMON CIygier, at the rate Of eight dollars rcr\nmonth to commence on the fifteenth day Of De-\ncember, one thousand eight hundred and twenty-\nfive;\n\n\nAlexander Watts at the rate Of eight dollars\nper month, 10 commence on the twenty first day\nof december, one thousand eight hundrcI and\ntwenty-five;\n\n\nRobert Dinsnore, at the rate Of four dollars\nper month, commence on the sixteenth day Of\nJanuary, one thousand eight hundred and twenty\nsia\n\n\njoshua Wheeler, at the rate Of six dollars per\nmonth, to commence on the twenty seventh day\nOf January, one thousand eight liunlred and\ntwent, -iour\n\n\nMark Il. Roberts, at the rate Of five dollars\nper moth, to commence on the twenty-slxth day\nOf January one thousand eight hundred and twen-\nty.six;\n\n\n4 Ley; Nathaway, at the rate of six dollars per\nmouth, to commence on the fourteenth day of De.\ncsmber, one thousand eight hundred and TWEEN.\n1 ty-Gvc;\n\n\nAdam Cooper, at the rate Of eight dollars pei\nmonth\"; TO commence on the twentieth day of de.\ncembcr, one thousand eight hundred and twenty.\n! FIVE;\n\n\nJohn Y. Hall at the rate of five dollars pei\nmonth, to commence on the first day of January\none thousand eight hundred and twenty-six;\n/ Eleazer Scott, at the rate of six dollars pei\nmonth\"; to commence on the ninth day Of January\none thousand eight hundred and twenty-six;\n\n\nJames De Witt at the rate Of eight dollar\nper month, to commence on the thirty first dal\n/ of March, one thousand cgl: hundred and TWEEN\nty-six;\n\n\nThomas Jones, at the rate Of five dollars pc\nmonth, to commence ON the twenty-seyenth da,\nof March, one thousand eight hundred and tween\nty-six;\n\n\nPatrick Mulligan, at the rate of five dollar\nper month, to commence on the twenty-seyen.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 871,
+                "y0": 2979,
+                "x1": 1497,
+                "y1": 3041
+            },
+            "class": "headline",
+            "raw_text": "LAWS CN gsEEE SyFsyCNG,",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -3
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 866,
+                "y0": 3399,
+                "x1": 1523,
+                "y1": 3474
+            },
+            "class": "headline",
+            "raw_text": "PASSED Al TIE SECOND SESSl0N OF\n\n\nTHE hlNETEENTH CO&GRE5S",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -2
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 901,
+                "y0": 3500,
+                "x1": 1480,
+                "y1": 3584
+            },
+            "class": "author",
+            "raw_text": "PuDLic--No, 46,\nAN ACT concerning Invalid Pensioners,",
+            "legibility": "Questionable",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2848,
+                "y0": 144,
+                "x1": 3523,
+                "y1": 2569
+            },
+            "class": "article",
+            "raw_text": "eli statement purporting to be oHici.,\nwhich the same number is given as f,, ~ y\nas 1917. But this probably included c\"as\nabaccoa, distant one league from the c;...\nand containing about 20 900 inhabitants\nthe place has. however, increased r.r;J's\nsince that period. the above will, thint hyS\nfound not far from the truth. W\n\n\nThe population is composed Of Creole.\nSpaniards. slaves and free negroes. Mo-\nof the latter were imported from Africa ~\nfore the Spanish and English governmsnt\nentered into their present treaty on this sub.\nject, and some since. For the execution -\nthis treaty, there is established at Havana -\nommission, called \"Commison mista ),\nand judge from each of these goyernmer..\nhas been appointed. Henry T. Klbee Fso\nis there at the present time, on the part &c\nthe English. In addition to these. th,rn\nare usually one or more men ot.war station.\ned at Havana, which have the privilege os\nexamining any vessels under any far II\ncases OF suspicion. In January last, a French\nvessel appeared off the Moro. and made III,\nsignal for a man-of-war. AS it was eyenne\nshe could not enter in consequence of the\nland breeze. Apparently she was waiting\ntill morning for that purpose; but during the\nnight She took advantage of the current\nlanded 450 slaves a little to the windward\nand having in this way quieted the suspicious\not the British commandant on that station\nshe next day entered as sin ballast\" So\nprovoked was the officer, that on boarding\nher, he even ordered her sails upfurled 70\nsee ifhc could not find one slave at least. that\nhe might condemn the vessel He missed\nhis prize, however, and had to confess him\n\n\nself out generated.\n\n\nThe slave trade is carried on, however.\n\n\nfrom the coast OF Africa 10 the Brazls and\n\n\nCuba, more even at the present time than\nmost persons IN our own country believe\n\n\nThere are $50 vessels called traders, en-\n\n\nployed IN this business. and what is sufficient\n\n\nto make a man blush for the United States.\n\n\nmany OF her citizens are engaged in it. The\n\n\ncrews, commanders, and sometimes owners\n\n\nOf these vessels, are from our northern ci-\nties, and, while they sustain fair characters.\n\n\nare secretly plunderng Africa to crafty\n\n\ntheir avarice. The temptation, to be sure is\n\n\ngreat. A slave can be bought in Africa at\n\n\nabout $40, and when he touches the shores\nOF Cuba is worth from 400 to $500. Great\n\n\ncaution is of course necessary in this pro-\n, ceedins; and hence all flags are hoisted and\nall articles resurtcd to which the occasion\nmay requirc The writer of this is not\nspeaking without information; nor are these\nassertions founded on any thing less than ev-\n: idencc.\n\n\nA small Spanish schooner arrived at Ma\n\n\ntanzas. in February, with $50 slaves, atho'\n; she could not be above 80 tons burthen--\nShe landed them before coming to port but\n\n\non the second or third day the slaves were\n' introduced into the city-emaciated-al\n: most naked, with an air Of dcspondency and\ngrief which their situation was well cacu-\nlated to inspire.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 827,
+                "y0": 183,
+                "x1": 1493,
+                "y1": 2936
+            },
+            "class": "article",
+            "raw_text": "was perfect; but never saw equalied, ms\ndignity of manner, in delivering charge to\njury, or on a law argument, to the par\nBut what is still more, his comprehension OF\nmind in taking notes, SO as to enhance the\nsubject, and yet omit nothing material, mas\nappeared to me inimitable.\"\n\n\nIn 1899, Mir. M'kean was elected govern\nor of PENNSYLVANIA. His election was the\nresult of a warm conflict between the two\ngreat parties which were then assuming\nthose distinct political ranks, into which,\nfor many years, the people OF our country\ncontinue to be divided. 1t is unnecessary to\nspecify the political changes and occurrences\nprcparatory to, and causing his election IN\npreference to his distinguished and able COM\npetitor--the honourable James Ross. His\nsuccess, through what was termed the ms\nmentum Of PENNSYLVANIA politics\" paved\nthe way for the accession of Mr. Jefferson to\nthe presidency; and during the whole peri\nod of that gcntleman's administration, the\nweight of Mr.. MKcan's opinions and CON\nduct was directed to the upholding OF the\nprinciples which marked the policy OF the\ngeneral government.\n\n\nTowards the close of the year 1905, he\nwas strongly solicited to become candidate\nfor the Office of Vice President OF the Unit\ncd States. MIR. M'Kean declined this hon\nor, both on public and private considerations\n/ Towards the close Of the eighteenth cen\ntury. the French revolution excited much\ninterest in America Mr.. M kean naturally\nand conscientiously imbbed strong prepos-\nsessions in favor Of French liberty, i'll CON\njunction with the members OF the party To\nwhich he was attached. Many years after\nhis retirement from public life, an interest\ninc correspondence on this subject took place\nbetween him and the honorable John Adams,\nwho had. from, the outset, viewed the revo-\n\n\nluton in France with aprophetic eye. Va\nthe second of June, 1872, Mr.. Adams thus\nopened the subject. \"Nearly thirty-cight\nwears ago, our friendship commenced. II\nhas never been interrupted to my kno~l-\nedge but bv ono event. Among all the gen\ntlemen with whom have acted and lived III\nthe world, | know not any two VINO nave\nmere uniformly agreed in sentimeht upon\npolitical principles, forms Of goI trnmeut\n\n\nand national policy, than yon and have\ndone, except upon one great SUBJECT; Amos\n\n\nimportant and lnomen'ous one to he sure; =\n\n\nthat subject was, the Frencb Revolution =\n\n\nThis, at the first appearance oFit, you though\na minister Of grace;' fully believed to b'\ngoblin damned\n\n\nIn person, Mr. NJ 'hcan was tail, erect\nand well proportiohed. His conntcnanc'\n\n\ndisplayed, in Il remarkable manner, thu\n\n\n6rmness and Intelligence for which he Wa\n\n\ndistinguished. Ills manners we're impressive\n\n\nand diSnihed.\n\n\nAt length. loaded with hpnours. this ven\n\n\ncradle patriot arrived al the WtiriY a0ca RE-\n\n\nrum, and departed to \"the generation q ~\n\n\nfathers\" on the twenty fourth q 1u'e\n| 1917, aged eighty three Years, two months\ni and sixteen days His remains were interre,\nin the burial ground Of the first Prcsh}\n! tcrian church, IN Market street, Phi.atiel\n5 phia.\n\n\nThomas NJ 'kean outivcd all the enmitie\nwhich an active and conspicuous part III pub\n\n\nlie affairs had, III the nature Of things, ere\nated; and posterity will centinns TO chcris\nhis memory, as one among the mo4t useful\nable, and >iltuous fathers OF M sh;y rtpu5\nlic\n\n\n5 u -. -.",
+            "legibility": "Illegible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1501,
+                "y0": 170,
+                "x1": 2166,
+                "y1": 1510
+            },
+            "class": "article",
+            "raw_text": "DAY of March, one thousand eight hundred and\ntwenty-sx;\n\n\nLima T. Helm, at the rate of ten dollars per\nmonth, to commence on the thirteenth day OF\nJanuary, one thousand eight hundred and tWen-\nty-sx;\nEdmund w. Wood, at the rate CT eight dol.\nlars per month, to commence on the third DAY OF\nMay, one thousand eight hundred and twenty\nsix;\n\n\nvassal White, at the rate of eight dollars per\nmonth, tocommence on the first day OF January\none thousand eight hundred and twen'y.slx' 10\nbe paid in the same manner as the Invalid pen\nsoners, who have been placed on the lnvaiia\nPension Roll, are now paid.\n\n\nSEC. g. .fnd be il fNrther enacted, hat\nthe Secretary Of War be authorized and directed\nto pay to the executors OF James Campbell, dc\nceased, an invalid pensiOncr, the amount Of pen\nsion due tho said James Campbell at the time OF\nhis decease, and also TO the widow ot \"illami\nNi,hcrcut, deceased, pensloner, the amouht oil\npension due to the said William Nlthercut at the\ntime of his dcccase;\n\n\nGeorge Si,lde, ut the rate OF eight dollars per\nmonth, to commence on the third day OF March,\none thousand eight hundred and twcnty-seven'\n\n\nAlexander McNutt, at the rate OF eiglit doi,\nlars per month, TO commence on the third day o'\nMarch, one thousand eight hundred and twenty\nseven. ~\n\n\nSEC. 5. ind be il further enscted, That\nthe Secretary Of War be, and lie is hereby, di.\nrcctcd TO place Thomas PendeSter, OF Name,\non the list of invalid pensioners, who served ~\nCaptain Dunns Company Of Infantry in the late\nwar with Great Britain, at the rate OF eight dol\nlars per month, commencing on the third day Of\nMarch, one thousand eight hundred and twenty\nseven.\n\n\nApproved: March 3, 1877",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1514,
+                "y0": 1579,
+                "x1": 2175,
+                "y1": 2219
+            },
+            "class": "article",
+            "raw_text": "AN ACT for altering the time Of hn'hg the\n\n\nDistrict Court Of the United States tor tic\n\n\nEastern Distric, Of Virginia, holden at the city\n\n\nOF Richmond.\n\n\nBen enactcd by The Senate and H1wse n\nRepresentatives. attic EnAed @tat4a II a\nme,1ca III Congress .faaembird, That tht\nterms fthe District Court Of tie .I'nitci states\nfor the Eastern Di.ric, o, Virginia, now directed\nTO be holden in the city of richmond, on the\nsecond day of April, and ffecnth day o. oeto'\nber in every year, shall, ii future, be held IN the\nsaid city On the tf,een'n day Of SAy. and on\nthe fifteenth day Of November, anmaiy; and\nthat all suits, actors, and proceedings, OF\nwhatever kind, now depending n, o. returnabe\n10, said Court, shall be taken 10 be continued OF\nicturnable to the tcrHs herein established\n\n\nApproved March ;, l6-7.",
+            "legibility": "Illegible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 1711,
+                "y0": 1544,
+                "x1": 1978,
+                "y1": 1575
+            },
+            "class": "headline",
+            "raw_text": "-IPrnLIc-No. All",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1522,
+                "y0": 2310,
+                "x1": 2188,
+                "y1": 5062
+            },
+            "class": "article",
+            "raw_text": "AN ACT supplementary to TIE several acts pro\n\n\nviGlins far ,hc adjustment Of Land CLAIMS II\n\n\nthc ot.,e d Alabama.\n\n\nBc L cractsd 5v the Srnctc and Htuse Of\nEtfg.srltgfiurs ofMe Gsi.cH StatCS IF H.\n,asi4ca i! tonrreSs Gssc94d'R, That the\nclaimants of lands, town lot, y. u.t.nts, Witi,u\nthat part of the limits Of III, ,oiuer lanl Dlatr,G\nOf Jackson Court.housc, wrlga y embraced n\nthe STATE OF Alabama, whose claims have been\npre- +ctcl to the Commissioners appointed to\nreceive and examine claims and title, 10 iande,\nIN said District Of lack son EoIt.hois', or to IN\nRegister and Receiver OF the Land Ohr'G at\nJackson Court-house, acting as Col@nisslontf\nguacr the provisions of the art Il nc thlId ot\nMar h, one Thousand tght h..r.tfed .nd nne\ntcc0, entitled .'An ACT ug aar,st,n,r lLa clair4\n10 lalls, and establishing I.td cii.ccs, in thr\nDistrict Fast Of the Island Of New orleans\" and\nWllilh have not been reported 70 tnngItis, ~\nWho's claims have not herct@ioic Gctuprcsentri\nto ii said commissioners, or Io,ne Register ur\nReceiver, acting as Commissioners, or Nh\"ae\nClaims have been actetlufnA b~l additional ~\n3eucc ad,luccl, be allowed unill the first ,ily oi\nScp;.,ub r, eighteen hundred and twenty seven,\nrs HI, sent their titles anl claim ana tie cvencc\nin support of the same 20 the Register and H.\nccivsr of the land Office 1T 81. stephens. in tive\nState of Alabama whose powers ani duties, III\nrelation TO the saric, shall in al respects, 5e gov.\ncrae,l by the provisions Of the acts before rect\n-l and cf The act Of lie eighth of MAY, eighteen\nhundred! and twentv-two. entitled \"tn net sup\nplrtncttarv 20 the several acts Tor al lsting the\nclaims to land, and establishing Land Offices, iN\ntie District Fast Of the Island ot New Orleans,\n\n\nSEC. Q, ind be il fuyIher caGefed, Tha.\n! tho said Register aud Receiver shRli havc power\n90 -ccJiyc and examine such titles and claim,\nand ioY that purpose, shall hold their sessions al\ntho city of Mobile. they shall give suitable notice\nofthe time and place Of their sessions, but may\nadjourn ron time to time, and meet at such\nother places as may be necessary, or may best\nsuit the convenience ofthe claimants, on giving\nproper motto. fthc time Of their adjournmens.\nAnd tho said Register and Receiver shall have\np0Wcrtn arDoint clerk, who shall BE person\ncapable Of translatlng the French and Spanish\nlnnruagcs, aud who shall perform the duty Of\nTranslator, !n! such other duty rs may be rcqnir-\ncd by the s,;l Register and Receiver, and the\nsad Register and Receiver shall each be allowed,\nas compensation for their services, in relation\n20 sad claim and ter the service to be perform\ncd under lie provisions of the several acts tc\nwhich this is Il supplement, at the rate Of one\nthonsand df..la per annum; and the clerk a,\ntho rate Of onc thousand dollars per aunum\nwhich several sums Of money shall be paid out OF\nally moneys in the Treasury, not otherwise ap\n4 !roprated: P50dtd, That no more than one\nyears compensation shall be thus allowed tc\neither the Register and Receiver, or Clerk; ant\nthe payment Of the whole of the aforesaid com\nTensatIon shall be withheld by the Secretary o\n\n\nthe Treasury, until report, to be approved b,\n\n\nhim. shall have been made to him, of the per\n\n\nfolmancc of the services for which the same i\n\n\nallowed.\n\n\nSEC. 8. md be u further enacted, Tha\n\n\nthe Register and Receiver of the Land Office a\n\n\naugusta, in the State of Mississippi, be. ant\n\n\nthey are hereby, required TO separate, so far a\n\n\npracticable, from the titles TO lands in A'ssissip\n\n\npi, all such papers, or claims, or evidence o\n\n\nclaims for any tract Of land or town lot, lying il\n\n\nthe State OF Alabama, and certify the same gen\n\n\norally to the Registe, of the Land Office at n\nstephens, in the State of Alabama; and, o\nproper application, to deliver them over to tn\n\n\nsaid Register, whose, duty it shall be TO receiv\n\n\nthe same, and preserve them among the record\nOf his Office.\n\n\n, AppnovEn. March 3, 1927.",
+            "legibility": "Questionable",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1706,
+                "y0": 2257,
+                "x1": 1996,
+                "y1": 2297
+            },
+            "class": "headline",
+            "raw_text": "fpru1.c-No. ISL",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -2
+        },
+        {
+            "id": 32,
+            "bbox": {
+                "x0": 1522,
+                "y0": 2305,
+                "x1": 2175,
+                "y1": 2407
+            },
+            "class": "headline",
+            "raw_text": "AN ACT supplementary to TIE several acts pro\nvi,lns foi tic adjustment OF Land Claims II\ntAe at.,e o. AlAbama",
+            "legibility": "Questionable",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1553,
+                "y0": 5140,
+                "x1": 2210,
+                "y1": 5500
+            },
+            "class": "article",
+            "raw_text": "The only case of moment on the Northern\nCircuit, was that of the kehelds, for the\nof Miss Turner, and it was one\nwhich has some hold Of cur feelings, because\nit concerns the interest of every parent and\nchild in England. The facts were simply\nthese\n\n\nMr.. Turner's is man who, like many others\nin this happy country, has acquired a for\ntune exceeding 42Oo.oo BY his own enter\nprise and Industry in the management Of ex-",
+            "legibility": "Questionable",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 1632,
+                "y0": 5092,
+                "x1": 2105,
+                "y1": 5132
+            },
+            "class": "headline",
+            "raw_text": "From Beip8 Life in London.",
+            "legibility": "Questionable",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2205,
+                "y0": 3622,
+                "x1": 2871,
+                "y1": 4117
+            },
+            "class": "article",
+            "raw_text": "One thousand casks of Beef, and two hun\nlred casks Of Pork, have arrived in London\nfrom Boston, in the United States. They\nwere Inspected on Friday, and were found\nto be Of hrtme qra}4y Though these pro-\nvisions cannot be landed but for export to\nour foreign dependencies or possr ssious, the\ncircumstances show the great advance made\nby foreign nations. 1t is likely, wc should\nthink, that this meat, as beng equal in quail\nity to British or IRISH, viii be purchased by\nthe Conmlssriht for Our army in Portugal.\nThis is a blow TO the landed interest, which\nno system CT Corn Laws Will be enabled to\ncure.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 2572,
+                "y0": 3578,
+                "x1": 2840,
+                "y1": 3619
+            },
+            "class": "headline",
+            "raw_text": "Lend2n, April 4.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2209,
+                "y0": 4331,
+                "x1": 2875,
+                "y1": 5491
+            },
+            "class": "article",
+            "raw_text": "Cuba was discovered in llS0, by Column\nbus, who appointed Diego Valasqnes Gov\nernor To him there were Is successors\nacting in the same capacity; until the year\n1904, at which time tiaspar Ruis de Pereda\nwas appointed at Havana, w.ta the title of\nCaptain General OF the Island Down to\nthis day, there have been in all II chiefs, in\nGuiding General Wives, the present Govern\nor. The island was occupied ia one place\non the south Side, as early as 1906; but Ha-\nvsna was not settled till 1871. Its locality\nrendered it favorable situation for vessels\nfrom the variou. p.It; OF the Gulf IT Mexi-\nCO, to stop at; and that at first caused its\ngrowth. This place has also been the de-\npot Ct great wealth, and particularly. since\nthe revolution in South America These\nevents have driv IN the old Span,ar,ts from\nthe new republics; and many Of then who\nhave brosSht wealth with them, have set\ntied in Havana, in preference to returning 10\nSpain.\n\n\n! The population of the Havana NAV be es.\n| timated, at the present time, at about 40.\nOo0; not more than half Of which is probably\nwithin the walls. This number is given. al\nter having examined the subject as far as\n4 possible, in place where taking public\ncensus is viewed with so much jealousy. tho,\neven one Oh the commissioners appojnted r.\nTINS duty, ridiculed the report which he and\n\n\nothers had made. The usual estimate n\n\n\nthe residents is higher; and this NAV be\n\n\nlooked upon as the medium Of different onin,\n\n\nions, Mr. pnincetr IN SIC ,,,-..,. eF'",
+            "legibility": "Illegible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 33,
+            "bbox": {
+                "x0": 2362,
+                "y0": 4130,
+                "x1": 2779,
+                "y1": 4165
+            },
+            "class": "headline",
+            "raw_text": "'sss srse-rs1zss-uIrar1sxsa",
+            "legibility": "Illegible",
+            "full_article_id": 9,
+            "reading_order_id": -4
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 2371,
+                "y0": 4160,
+                "x1": 2726,
+                "y1": 4205
+            },
+            "class": "headline",
+            "raw_text": "CUBA IN 1877.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -3
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 2214,
+                "y0": 4200,
+                "x1": 2866,
+                "y1": 4266
+            },
+            "class": "headline",
+            "raw_text": "From he ~ /. CommerciaiDaAy .Aapcr-\n\n\n",
+            "legibility": "Questionable",
+            "full_article_id": 9,
+            "reading_order_id": -2
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 2415,
+                "y0": 4278,
+                "x1": 2661,
+                "y1": 4319
+            },
+            "class": "headline",
+            "raw_text": "LETTER III",
+            "legibility": "Illegible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2892,
+                "y0": 5079,
+                "x1": 3558,
+                "y1": 5495
+            },
+            "class": "article",
+            "raw_text": "From the d\" Correo dc Ii Fe3eracion\nMexicana,\" Of March the first, We eNlra's\nthe following pleasing Intelligence iron e\"\"'\ntemala:--\n\n\nwith great pleasure, we announce I'M\nthe troubles Of the Republic Of the Centre\nare at an end, and that she melancholy pre-\ndictions Of the lovers Of liberty have oee',\nfollowed by he most consnlatory hopes o. o.\npeace and conciiis,inn. The Cnited ots'sa\nOf the Centre united. aud agreed not to GUY\nthe call for an Eztracrdinaiy Con- s.eas.",
+            "legibility": "Questionable",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 3006,
+                "y0": 5057,
+                "x1": 3444,
+                "y1": 5089
+            },
+            "class": "headline",
+            "raw_text": "From late .7le.yicgn haEcrs.",
+            "legibility": "Illegible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2879,
+                "y0": 2598,
+                "x1": 3536,
+                "y1": 3111
+            },
+            "class": "article",
+            "raw_text": "Pointer sr.---Samson Paul, an Indian, living\non a small island in Lake George, while QUE\nspearing FISH. discovered large Panther\nswimming towards him. Leaving the fish,\nto combatwith his new enemy, he commenc-\nei an attack. by first peltins the pan\nther with stones. Nothing daunted at this.\nhowever, the panther boldly advanced upon\nthe Indian, and the lndan as boldly recelv-\ned him upon the point of his spear, and with\nthe first thrust he put an eye out, and the\nnext struck him III the throat, and held him\nunder water till he was drowned. The\nPanther measured seven feet three inches\nfrom the tip Of his nose to the end of his tail",
+            "legibility": "Questionable",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2201,
+                "y0": 2765,
+                "x1": 2866,
+                "y1": 3540
+            },
+            "class": "article",
+            "raw_text": "A must extraordinary eircuin,tauce lately\noccnlred at Hampton, IA TIL, county, for the\nttutll VI \" itch We have the authority of a\nuear reintivcot the patty, who resides in\nThis oiry. Ihe wite of u. Cooper, OF the\nabove e,llaGe, when far advanced in prcgnan\nw. paid a visit TO sumc relative, who re-\nsilc near Copenhagen House, III London,\nwho, III their rgaldtn, kept a live tortoiae.--\nMrs Cooper, ,n seeing i. Was much terri\ntlcd Sotac time after her return. and about\ni've weeks sncr, She wAs delivered Ola te-\nmale chil, which actually has on us head\na substance exlctly ftaembling wcll-form-\ned tortoise, the shell projecting Fl ON the\nhead, ahd striped ike the real one. The\nrhild IS slill alive AMI in health, and the tor\ntoiSc continues en- the head. The head OF\nthe tortoise ta, the strongest resemblance to\nthat Of tic real animal: and it actually pro-\njrcts from the end OF the shell in substance\nabout the size ni The top of pcrsou's finger.\n\n\nC1t9rd ing } HeraM.",
+            "legibility": "Illegible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 149,
+                "y0": 350,
+                "x1": 832,
+                "y1": 4546
+            },
+            "class": "article",
+            "raw_text": "tant trusts. ne consequence WAS w\nhunted like fox by the enemy, and enViea\nny'those who oughtSo have been my trends\nTwas compelled to remove my family hve\ntimes in few months, and, at last, tiXed\nthem in little log A,se on the banks OF\nthe Susouehanna. more than All hundred\nmiles from this place but safety was not to\nbe found there, for they were soon oOilSed %\nremoye again. on account of the incutslons\nof the Indians\"\nOn the twenty eighth of July, liz, he\nreceived from the supreme executive cohh-\nGil. the commission of chief justice OF Penn-\nsylyania, and performed the duties OF that\nhigh station with distinguished zeal and II\ndelity for twenty-five years At the time OF\nhis appointment, he was speaker OF the\nhouse of assembly, president OF Delaware\nand member of Congress.\n\n\nOn the tenth of July, 1871. he was, on the\nresignation of the honorable Samuel Hunt\nineton, President of Congress. On the TWEEN\nty-third of October, 1881, the following let\nter was laid before that body by the secre-\ntary:\n\n\n.sS1H, ! must beg you to remind Congress,\nthat when they did me the honor OF ei'ctlng\nme president, and before l assumed the\nchair, informed them, that, as chief JUS\ntce of Pennsylvania, / should be under the\nnecessity of attending the supreme court OF\nthat state, in the latter end of September or\nat farthest, in October. The court will be\nheld to day. l must, therefore, request,\nchat they will be pleased to proceed TO the\nchce of another president\"\n\n\nCongress accepted the resignation OF MIR.\nMKean, but postponed the election Of\npresident until the next day, when, on no\ntion of DR.. Witherspoon, was unanimously\nresolved, that Mr.. M'kean be requested to\nresume the chair, and act as president, I'M\ntil the first Monday in November, the rcso-\nluton of the previous day, accepting his re\nsgnation Notwithstanding. 10 this meas\nure he acceded. On the fifth of November,\nthe honorable John Hanson was elected pres\nident on the seventh, it was \"ReSoived, that\nthe thank of congress be given to the hohor-\nable Thomas M'Kean, late president Of\ncongress, in testimony Of their appreciation\nof his conduct in the chair, and in the exc\ncution of public business\n\n\nIndependent Of his principles and conduct,\nMr.. NJ MKean, as chief justice OF Pennsylva-\nMIA, performed the duties of his office with\nimpartiality and infexibilty. During the\nprogress of the revolution, Philadelphia be-\ning the seat of general government, and an\nobject of peculiar watchfulness on the part\nof the enemy. the just performance Of MIR.\n\n\n\n\n\nthe learning of the lawyer, but the unyield-\nng spirit of the patriot. Proclaiming from\nhe bench, the law of Justice and his coun-\ntry with distinguished learning, ability and\nintegrity, neither fear, nor power, could\nbend him from the stern line of duty. ke-\ngardless Of the powers Of the crown Of Great\nBritain, he did not hesitate to hazard hi,\nown life, by causing to be punished, even un\n70 DEATH those who were proved TO be trai.\ntors to their country\n\n\nBut no popular excitement against individ-\nuals accused Of offences, could, in the slight\nest degree, divert him from the firm and in\nflexible discharge of his public duty. His de.\ncision in favor ofSamuel Chapman, Data,\nTehorts, vol j. $50 e,inced the souudness o\nhis judgment, and the disdain he felt for tht\npopular Glamour, excited by the occasion.\n\n\nHis firmncss in the execution of the laws\nis eXemplihed by another striking example\nIn 1878, he issued warrant against Colonc\nRobert l.. Hooper Col. Hooper waited ol\nGeneral Greene, then quarter-master-g\neral, to inquire whether the circumstance\nof the army would admit Of his absence\nGen. Greene, in letter to Mr.. M'Kean\ndated Camp, Valley Forge, third June 1873\nobserved, among other things relative to th\nsubject, that, a the army was Just on tn\nwing, he could not, without great necessity\n\"conSent\" to Col. Hooper's being absent\nThis direct interference of the military will\nThe civil authority, reused the official spiri\nof the Chief Justice, and occasoned the fol\ntowing severe, but just answer:\n\n\n81 do not think, sir. that the absence, sick\nness, CT even death of Mr.. Hooper, could b\nattended with such consequence that u\nether tersoD could be found who could CIV\nthe necessary aid upon this occasion: bu\nwhat attracts my attention the most, is you\nobservation that yon cannot, without grea\nnecessity, consent 10 lis beng abScnt. AS t\nThat, ] shall not ask l2fsr consent, nor tina\nOf any other person, IN or out of the army\nwhether my precept shall be obeyed or na\nin Pennsylvania.\n\n\ni he warrant for the arrest Of Mr.. Hope\nbeing special, no other Magistrate can tax\ncognizance theseof but myself The mod\nyou propose, of giving bail, cannot be adopt\ned, for many reasons.\n\n\nshould be very sorry to find that the e.;\necution of criminal law should impede til\noperations of the army, in any instance; br\nmuch more so, to find the latter impede tn\nformer\"\n\n\nMr.. NJ Kean industriously devoted himse\ntothe discharge ofthe duties Of chief ustc\nuntil the year 1893, when he was electe\ngovernor of the commonwealth of Pennsy\nyania. In all the qualifications of Ii\nJudge, it may, without hesitation, be saic\nthat be had but few equals in this,",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2179,
+                "y0": 153,
+                "x1": 2845,
+                "y1": 2730
+            },
+            "class": "article",
+            "raw_text": "tens;cc cotton factories in blackburn. nc\nfor some time retired from business IN Ian\ncashire. and principally resided IN Cheshlre,\nwhere he has purchased large estates anu\nGlled the Office of high Sheriff during the last\nwear. lie has an only daughter, now turned\nof 16 wears of age, and who IS the presuup-\nfive heiress of his wealth. lhIs young i1uy\nwas wear ago, resident tor her cuuca\ntion at Miss Daulby' Seminary. IN Liver\npool. and her circumstances attracted the\nnotice Of Miss DAVIS, (since married TO\nMr.. Wakefield, the father OF the defendants\nat the late trial who resided 10 Maccies-\nGeld not lar from Mr. Turner's residence\nMiss Davis appears to have speculated TO\nret Miss Turner by cohh DE- man lot one\nOf the YOUNGER Wake efields-both the WAKE\nfields and Miss Davis were entire strangers\nto Miss Turner, aul abduction was the only\nway to effect their purpose. Stratagcm was\nuscd--the young lady was purlolneu ifoni\nher schnol by Edward Gibson Wakefield,\nand induced to submit to one OF the disgrace\nfull Gretna-green marriages, under the no.\ntiou. artfully impressed upon her by Wake\nfield. that her Father had been suddenly lu-\nned by the failure of the country Banks,\nbut that his (Wakcield's) uncle, rich\nbanker, was to establish him upon tins mar\nriarc. Deludcd by this story, and by the\nmanners of Wakefield which are said to be\nvery insinuatng, she fell into his snare, un-\ntil within week after she awokc to her SIT\nuation bv the arrival OF her uncle at Calais,\nwho oponed her eyes to the scheme winch\nhad bccn laid for the possession OF her prop\nert1.\n\n\n/ he plan of the Nakctields appears to\nhave been we'll laid for the accomplishments\nOf tl',r object. The law is, or rather was,\ncomplicated and severe oil this subject, and\nthe culprits IN this case seemed to have\nsounded their way step by step IN their ca\nreer OF crime They did not attempt to Ell\nfeet the marriagcin England because there,\naccording 70 tie old law, Nhe heavy penalty\nof which they were ignorant, had been re-\npe1ieG, the; would have been guilty OF a\ncapital oil ncc---thcy did not attempt cor\nsummation ut the marriage any where, and\nby that abstinsnce they laid claim for mcr-\ncltul consideration OF their case, III the event\nOf their having shouldercd the gallows in\nadverten;v in the accomplishment OF theil\nbase purpose. Fine and imprisonment cal\nalone be Inflicted on them now tor wha\nthey have Gone--and as money IS, perhaps\nout Of the question, as they we're prevented\nfrom picking Mr.. Turner's pockets, th,\nCourt Of the Kings bench i, expected t\nsubstitute the wholesome discipline OF tn\ntread mill for pecaniry mulet. Ihre\nwears imprisonment is the utmost extent al\nlowed BY the statute on the occasion.\n\n\nThe defendants were all found guilty\nand tho the trradmiil awaits the culprit, III\nYoinE ladv is stil his welded Wife.\n\n\n1t Is sad to he the intention OF Mr.. Z. G\nWakefield IN claim Miss Turner as his W ifc\naud to move Chat She be Fiyenup 70 him b.\n\n\nvirtue Of liabcus Corpus. THIS motto\nviii he resisted Nv the lady'i father, wh\n\n\n~iil contend a~ ,inst the validity ot the mar\n\n\n,itge. aud th0 thg principal and most i'm\n\n\npprtant part + ne entire transaction will b\n\n\n,toron L.lY stgated",
+            "legibility": "Questionable",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2883,
+                "y0": 3145,
+                "x1": 3549,
+                "y1": 3654
+            },
+            "class": "article",
+            "raw_text": "1i,a. Regina Maria Roche.--In the days\nOf her celebrity, Mrs. Roche enjoyed ease,\ncomfort, and popularity: her friends were\nnumerous, and their Kindness was at her\ncommand. She then declined to avail her\nself of an unlimited offer of services from\nSir William tdamsqn, Governor Of Jamaica,\nto whom the \"Childrcn of the Abbey\" had\nbeen dedicated, because, as she emphatlcai-\n\" says, \"she had then little reason to ap-\nprehend what She has suffered\" Trying,\nindeed has been her reverse OF fate; bereft\nof health. reduced in fortune and friends her\nlot presents true example Of the instability\nof human happiness.",
+            "legibility": "Questionable",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 2883,
+                "y0": 3688,
+                "x1": 3549,
+                "y1": 4288
+            },
+            "class": "article",
+            "raw_text": "Stage diSaster.-The Albany Daily AdVer-\ntlser states that on Saturday evening week\nas one of the northern stages was on the wa!\nto Albany with nine passengers, IN crossing\nthe bridge over Moscskili. in the town OF\nFort Edward, Washington coanty' INC\nbridge gave way. when the stage, passsh-\ngers and horses we're preciptated into inc\nstream, and a man, womaa, and ooy\nwere drowned. together with two ot the\nhorses. The names of the persons drowned\nare not known; they were Irish emigransS,\nlately landed at Quebec. rhc bridge ha!\nbeen recently built. but the stream beng\nmuch swollen by the late rains, i is suppo'-\ned that the water had washed round and uh'\nlernined one of the abutments which caoS'\nEll the disaster.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 2887,
+                "y0": 4322,
+                "x1": 3553,
+                "y1": 4625
+            },
+            "class": "article",
+            "raw_text": "The person who was lately convicted II\nDavidson County, N. c. Of naming (gouEs\"\ning out an eye) another man. and sentenced\naccording to law. to stand in the nil!ory two\nhours, have both his ears cut of. AND r.\nceive 50 lashes On his bare back, has receN\ned, from Governor Burton, u remission q\nthat part ofth sentence which requires MA\nto be crUbA'5.",
+            "legibility": "Legible",
+            "full_article_id": 28,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 2887,
+                "y0": 4655,
+                "x1": 3553,
+                "y1": 5023
+            },
+            "class": "article",
+            "raw_text": "The New York Observer states. ina.\nLieut.. Percival, who commanded the Onlfet\nStates schooner Dolphin 1T the Sandwi.n\nIslands, and whose conduct was 50 oiifhSN'\nto the missionaries. has arrived at that port\nrs First Lieut.. Of the frigate Uoitcd .'taFe''\n(Com. Hull, and was arrested before lihd'\ning, by writs of individuals, :or grievance\nunconnected with the outrage upon the m''\nsionaries Fer want Of bail, he was eoHi-\nm.tted 10 prison.",
+            "legibility": "Legible",
+            "full_article_id": 29,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                12,
+                20,
+                24,
+                0
+            ],
+            "headline": "LAWS CN gsEEE SyFsyCNG,\n\nPASSED Al TIE SECOND SESSl0N OF\n\n\nTHE hlNETEENTH CO&GRE5S",
+            "article": "Belt cnactcd BIZ tAe Srnatr and IIouse u\nRepresentatives. # the Unttd !9ta:et II IL\nmcrca IN Congrrs8 GaSemblc9, That the\nSecretary Of War BE- and he is hereby, directed\nto place the following named persons on the\npension list Of invalid pensioners of the United\nStates, who shall Be entitled 10, and rccciye pen\nsions According to the rates, and commencing at\nthe times hereinafter mentioned, to wit:\n\n\nEbcnc2er Lord, at the rate Of tour dollars pcr\nmonth, to commence ON the fourteenth day Of\nDecember, in the year otOur Lord one thousand\neight hundred and twenty-five;\n\n\nIsaac Carpenter, at the rate Of four dollars per\nmonth, TO commence on the fifteenth day Of Dc\ncember, one thousand eight hundred ANA twenty\nfive;\n\n\nSIMON CIygier, at the rate Of eight dollars rcr\nmonth to commence on the fifteenth day Of De-\ncember, one thousand eight hundred and twenty-\nfive;\n\n\nAlexander Watts at the rate Of eight dollars\nper month, 10 commence on the twenty first day\nof december, one thousand eight hundrcI and\ntwenty-five;\n\n\nRobert Dinsnore, at the rate Of four dollars\nper month, commence on the sixteenth day Of\nJanuary, one thousand eight hundred and twenty\nsia\n\n\njoshua Wheeler, at the rate Of six dollars per\nmonth, to commence on the twenty seventh day\nOf January, one thousand eight liunlred and\ntwent, -iour\n\n\nMark Il. Roberts, at the rate Of five dollars\nper moth, to commence on the twenty-slxth day\nOf January one thousand eight hundred and twen-\nty.six;\n\n\n4 Ley; Nathaway, at the rate of six dollars per\nmouth, to commence on the fourteenth day of De.\ncsmber, one thousand eight hundred and TWEEN.\n1 ty-Gvc;\n\n\nAdam Cooper, at the rate Of eight dollars pei\nmonth\"; TO commence on the twentieth day of de.\ncembcr, one thousand eight hundred and twenty.\n! FIVE;\n\n\nJohn Y. Hall at the rate of five dollars pei\nmonth, to commence on the first day of January\none thousand eight hundred and twenty-six;\n/ Eleazer Scott, at the rate of six dollars pei\nmonth\"; to commence on the ninth day Of January\none thousand eight hundred and twenty-six;\n\n\nJames De Witt at the rate Of eight dollar\nper month, to commence on the thirty first dal\n/ of March, one thousand cgl: hundred and TWEEN\nty-six;\n\n\nThomas Jones, at the rate Of five dollars pc\nmonth, to commence ON the twenty-seyenth da,\nof March, one thousand eight hundred and tween\nty-six;\n\n\nPatrick Mulligan, at the rate of five dollar\nper month, to commence on the twenty-seyen.",
+            "byline": "PuDLic--No, 46,\nAN ACT concerning Invalid Pensioners,",
+            "bbox_list": [
+                {
+                    "x0": 871,
+                    "y0": 2979,
+                    "x1": 1497,
+                    "y1": 3041
+                },
+                {
+                    "x0": 866,
+                    "y0": 3399,
+                    "x1": 1523,
+                    "y1": 3474
+                },
+                {
+                    "x0": 901,
+                    "y0": 3500,
+                    "x1": 1480,
+                    "y1": 3584
+                },
+                {
+                    "x0": 862,
+                    "y0": 3578,
+                    "x1": 1523,
+                    "y1": 5504
+                }
+            ],
+            "bbox": [
+                862,
+                2979,
+                1523,
+                5504
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-05-17_p2_sn85042523_00271740244_1827051701_0785.json"
+        },
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "eli statement purporting to be oHici.,\nwhich the same number is given as f,, ~ y\nas 1917. But this probably included c\"as\nabaccoa, distant one league from the c;...\nand containing about 20 900 inhabitants\nthe place has. however, increased r.r;J's\nsince that period. the above will, thint hyS\nfound not far from the truth. W\n\n\nThe population is composed Of Creole.\nSpaniards. slaves and free negroes. Mo-\nof the latter were imported from Africa ~\nfore the Spanish and English governmsnt\nentered into their present treaty on this sub.\nject, and some since. For the execution -\nthis treaty, there is established at Havana -\nommission, called \"Commison mista ),\nand judge from each of these goyernmer..\nhas been appointed. Henry T. Klbee Fso\nis there at the present time, on the part &c\nthe English. In addition to these. th,rn\nare usually one or more men ot.war station.\ned at Havana, which have the privilege os\nexamining any vessels under any far II\ncases OF suspicion. In January last, a French\nvessel appeared off the Moro. and made III,\nsignal for a man-of-war. AS it was eyenne\nshe could not enter in consequence of the\nland breeze. Apparently she was waiting\ntill morning for that purpose; but during the\nnight She took advantage of the current\nlanded 450 slaves a little to the windward\nand having in this way quieted the suspicious\not the British commandant on that station\nshe next day entered as sin ballast\" So\nprovoked was the officer, that on boarding\nher, he even ordered her sails upfurled 70\nsee ifhc could not find one slave at least. that\nhe might condemn the vessel He missed\nhis prize, however, and had to confess him\n\n\nself out generated.\n\n\nThe slave trade is carried on, however.\n\n\nfrom the coast OF Africa 10 the Brazls and\n\n\nCuba, more even at the present time than\nmost persons IN our own country believe\n\n\nThere are $50 vessels called traders, en-\n\n\nployed IN this business. and what is sufficient\n\n\nto make a man blush for the United States.\n\n\nmany OF her citizens are engaged in it. The\n\n\ncrews, commanders, and sometimes owners\n\n\nOf these vessels, are from our northern ci-\nties, and, while they sustain fair characters.\n\n\nare secretly plunderng Africa to crafty\n\n\ntheir avarice. The temptation, to be sure is\n\n\ngreat. A slave can be bought in Africa at\n\n\nabout $40, and when he touches the shores\nOF Cuba is worth from 400 to $500. Great\n\n\ncaution is of course necessary in this pro-\n, ceedins; and hence all flags are hoisted and\nall articles resurtcd to which the occasion\nmay requirc The writer of this is not\nspeaking without information; nor are these\nassertions founded on any thing less than ev-\n: idencc.\n\n\nA small Spanish schooner arrived at Ma\n\n\ntanzas. in February, with $50 slaves, atho'\n; she could not be above 80 tons burthen--\nShe landed them before coming to port but\n\n\non the second or third day the slaves were\n' introduced into the city-emaciated-al\n: most naked, with an air Of dcspondency and\ngrief which their situation was well cacu-\nlated to inspire.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2848,
+                    "y0": 144,
+                    "x1": 3523,
+                    "y1": 2569
+                }
+            ],
+            "bbox": [
+                2848,
+                144,
+                3523,
+                2569
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-05-17_p2_sn85042523_00271740244_1827051701_0785.json"
+        },
+        {
+            "object_ids": [
+                2
+            ],
+            "headline": "",
+            "article": "was perfect; but never saw equalied, ms\ndignity of manner, in delivering charge to\njury, or on a law argument, to the par\nBut what is still more, his comprehension OF\nmind in taking notes, SO as to enhance the\nsubject, and yet omit nothing material, mas\nappeared to me inimitable.\"\n\n\nIn 1899, Mir. M'kean was elected govern\nor of PENNSYLVANIA. His election was the\nresult of a warm conflict between the two\ngreat parties which were then assuming\nthose distinct political ranks, into which,\nfor many years, the people OF our country\ncontinue to be divided. 1t is unnecessary to\nspecify the political changes and occurrences\nprcparatory to, and causing his election IN\npreference to his distinguished and able COM\npetitor--the honourable James Ross. His\nsuccess, through what was termed the ms\nmentum Of PENNSYLVANIA politics\" paved\nthe way for the accession of Mr. Jefferson to\nthe presidency; and during the whole peri\nod of that gcntleman's administration, the\nweight of Mr.. MKcan's opinions and CON\nduct was directed to the upholding OF the\nprinciples which marked the policy OF the\ngeneral government.\n\n\nTowards the close of the year 1905, he\nwas strongly solicited to become candidate\nfor the Office of Vice President OF the Unit\ncd States. MIR. M'Kean declined this hon\nor, both on public and private considerations\n/ Towards the close Of the eighteenth cen\ntury. the French revolution excited much\ninterest in America Mr.. M kean naturally\nand conscientiously imbbed strong prepos-\nsessions in favor Of French liberty, i'll CON\njunction with the members OF the party To\nwhich he was attached. Many years after\nhis retirement from public life, an interest\ninc correspondence on this subject took place\nbetween him and the honorable John Adams,\nwho had. from, the outset, viewed the revo-\n\n\nluton in France with aprophetic eye. Va\nthe second of June, 1872, Mr.. Adams thus\nopened the subject. \"Nearly thirty-cight\nwears ago, our friendship commenced. II\nhas never been interrupted to my kno~l-\nedge but bv ono event. Among all the gen\ntlemen with whom have acted and lived III\nthe world, | know not any two VINO nave\nmere uniformly agreed in sentimeht upon\npolitical principles, forms Of goI trnmeut\n\n\nand national policy, than yon and have\ndone, except upon one great SUBJECT; Amos\n\n\nimportant and lnomen'ous one to he sure; =\n\n\nthat subject was, the Frencb Revolution =\n\n\nThis, at the first appearance oFit, you though\na minister Of grace;' fully believed to b'\ngoblin damned\n\n\nIn person, Mr. NJ 'hcan was tail, erect\nand well proportiohed. His conntcnanc'\n\n\ndisplayed, in Il remarkable manner, thu\n\n\n6rmness and Intelligence for which he Wa\n\n\ndistinguished. Ills manners we're impressive\n\n\nand diSnihed.\n\n\nAt length. loaded with hpnours. this ven\n\n\ncradle patriot arrived al the WtiriY a0ca RE-\n\n\nrum, and departed to \"the generation q ~\n\n\nfathers\" on the twenty fourth q 1u'e\n| 1917, aged eighty three Years, two months\ni and sixteen days His remains were interre,\nin the burial ground Of the first Prcsh}\n! tcrian church, IN Market street, Phi.atiel\n5 phia.\n\n\nThomas NJ 'kean outivcd all the enmitie\nwhich an active and conspicuous part III pub\n\n\nlie affairs had, III the nature Of things, ere\nated; and posterity will centinns TO chcris\nhis memory, as one among the mo4t useful\nable, and >iltuous fathers OF M sh;y rtpu5\nlic\n\n\n5 u -. -.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 827,
+                    "y0": 183,
+                    "x1": 1493,
+                    "y1": 2936
+                }
+            ],
+            "bbox": [
+                827,
+                183,
+                1493,
+                2936
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-05-17_p2_sn85042523_00271740244_1827051701_0785.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "DAY of March, one thousand eight hundred and\ntwenty-sx;\n\n\nLima T. Helm, at the rate of ten dollars per\nmonth, to commence on the thirteenth day OF\nJanuary, one thousand eight hundred and tWen-\nty-sx;\nEdmund w. Wood, at the rate CT eight dol.\nlars per month, to commence on the third DAY OF\nMay, one thousand eight hundred and twenty\nsix;\n\n\nvassal White, at the rate of eight dollars per\nmonth, tocommence on the first day OF January\none thousand eight hundred and twen'y.slx' 10\nbe paid in the same manner as the Invalid pen\nsoners, who have been placed on the lnvaiia\nPension Roll, are now paid.\n\n\nSEC. g. .fnd be il fNrther enacted, hat\nthe Secretary Of War be authorized and directed\nto pay to the executors OF James Campbell, dc\nceased, an invalid pensiOncr, the amount Of pen\nsion due tho said James Campbell at the time OF\nhis decease, and also TO the widow ot \"illami\nNi,hcrcut, deceased, pensloner, the amouht oil\npension due to the said William Nlthercut at the\ntime of his dcccase;\n\n\nGeorge Si,lde, ut the rate OF eight dollars per\nmonth, to commence on the third day OF March,\none thousand eight hundred and twcnty-seven'\n\n\nAlexander McNutt, at the rate OF eiglit doi,\nlars per month, TO commence on the third day o'\nMarch, one thousand eight hundred and twenty\nseven. ~\n\n\nSEC. 5. ind be il further enscted, That\nthe Secretary Of War be, and lie is hereby, di.\nrcctcd TO place Thomas PendeSter, OF Name,\non the list of invalid pensioners, who served ~\nCaptain Dunns Company Of Infantry in the late\nwar with Great Britain, at the rate OF eight dol\nlars per month, commencing on the third day Of\nMarch, one thousand eight hundred and twenty\nseven.\n\n\nApproved: March 3, 1877",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1501,
+                    "y0": 170,
+                    "x1": 2166,
+                    "y1": 1510
+                }
+            ],
+            "bbox": [
+                1501,
+                170,
+                2166,
+                1510
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-05-17_p2_sn85042523_00271740244_1827051701_0785.json"
+        },
+        {
+            "object_ids": [
+                21,
+                4
+            ],
+            "headline": "-IPrnLIc-No. All",
+            "article": "AN ACT for altering the time Of hn'hg the\n\n\nDistrict Court Of the United States tor tic\n\n\nEastern Distric, Of Virginia, holden at the city\n\n\nOF Richmond.\n\n\nBen enactcd by The Senate and H1wse n\nRepresentatives. attic EnAed @tat4a II a\nme,1ca III Congress .faaembird, That tht\nterms fthe District Court Of tie .I'nitci states\nfor the Eastern Di.ric, o, Virginia, now directed\nTO be holden in the city of richmond, on the\nsecond day of April, and ffecnth day o. oeto'\nber in every year, shall, ii future, be held IN the\nsaid city On the tf,een'n day Of SAy. and on\nthe fifteenth day Of November, anmaiy; and\nthat all suits, actors, and proceedings, OF\nwhatever kind, now depending n, o. returnabe\n10, said Court, shall be taken 10 be continued OF\nicturnable to the tcrHs herein established\n\n\nApproved March ;, l6-7.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1711,
+                    "y0": 1544,
+                    "x1": 1978,
+                    "y1": 1575
+                },
+                {
+                    "x0": 1514,
+                    "y0": 1579,
+                    "x1": 2175,
+                    "y1": 2219
+                }
+            ],
+            "bbox": [
+                1514,
+                1544,
+                2175,
+                2219
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-05-17_p2_sn85042523_00271740244_1827051701_0785.json"
+        },
+        {
+            "object_ids": [
+                17,
+                32,
+                5
+            ],
+            "headline": "fpru1.c-No. ISL\n\nAN ACT supplementary to TIE several acts pro\nvi,lns foi tic adjustment OF Land Claims II\ntAe at.,e o. AlAbama",
+            "article": "AN ACT supplementary to TIE several acts pro\n\n\nviGlins far ,hc adjustment Of Land CLAIMS II\n\n\nthc ot.,e d Alabama.\n\n\nBc L cractsd 5v the Srnctc and Htuse Of\nEtfg.srltgfiurs ofMe Gsi.cH StatCS IF H.\n,asi4ca i! tonrreSs Gssc94d'R, That the\nclaimants of lands, town lot, y. u.t.nts, Witi,u\nthat part of the limits Of III, ,oiuer lanl Dlatr,G\nOf Jackson Court.housc, wrlga y embraced n\nthe STATE OF Alabama, whose claims have been\npre- +ctcl to the Commissioners appointed to\nreceive and examine claims and title, 10 iande,\nIN said District Of lack son EoIt.hois', or to IN\nRegister and Receiver OF the Land Ohr'G at\nJackson Court-house, acting as Col@nisslontf\nguacr the provisions of the art Il nc thlId ot\nMar h, one Thousand tght h..r.tfed .nd nne\ntcc0, entitled .'An ACT ug aar,st,n,r lLa clair4\n10 lalls, and establishing I.td cii.ccs, in thr\nDistrict Fast Of the Island Of New orleans\" and\nWllilh have not been reported 70 tnngItis, ~\nWho's claims have not herct@ioic Gctuprcsentri\nto ii said commissioners, or Io,ne Register ur\nReceiver, acting as Commissioners, or Nh\"ae\nClaims have been actetlufnA b~l additional ~\n3eucc ad,luccl, be allowed unill the first ,ily oi\nScp;.,ub r, eighteen hundred and twenty seven,\nrs HI, sent their titles anl claim ana tie cvencc\nin support of the same 20 the Register and H.\nccivsr of the land Office 1T 81. stephens. in tive\nState of Alabama whose powers ani duties, III\nrelation TO the saric, shall in al respects, 5e gov.\ncrae,l by the provisions Of the acts before rect\n-l and cf The act Of lie eighth of MAY, eighteen\nhundred! and twentv-two. entitled \"tn net sup\nplrtncttarv 20 the several acts Tor al lsting the\nclaims to land, and establishing Land Offices, iN\ntie District Fast Of the Island ot New Orleans,\n\n\nSEC. Q, ind be il fuyIher caGefed, Tha.\n! tho said Register aud Receiver shRli havc power\n90 -ccJiyc and examine such titles and claim,\nand ioY that purpose, shall hold their sessions al\ntho city of Mobile. they shall give suitable notice\nofthe time and place Of their sessions, but may\nadjourn ron time to time, and meet at such\nother places as may be necessary, or may best\nsuit the convenience ofthe claimants, on giving\nproper motto. fthc time Of their adjournmens.\nAnd tho said Register and Receiver shall have\np0Wcrtn arDoint clerk, who shall BE person\ncapable Of translatlng the French and Spanish\nlnnruagcs, aud who shall perform the duty Of\nTranslator, !n! such other duty rs may be rcqnir-\ncd by the s,;l Register and Receiver, and the\nsad Register and Receiver shall each be allowed,\nas compensation for their services, in relation\n20 sad claim and ter the service to be perform\ncd under lie provisions of the several acts tc\nwhich this is Il supplement, at the rate Of one\nthonsand df..la per annum; and the clerk a,\ntho rate Of onc thousand dollars per aunum\nwhich several sums Of money shall be paid out OF\nally moneys in the Treasury, not otherwise ap\n4 !roprated: P50dtd, That no more than one\nyears compensation shall be thus allowed tc\neither the Register and Receiver, or Clerk; ant\nthe payment Of the whole of the aforesaid com\nTensatIon shall be withheld by the Secretary o\n\n\nthe Treasury, until report, to be approved b,\n\n\nhim. shall have been made to him, of the per\n\n\nfolmancc of the services for which the same i\n\n\nallowed.\n\n\nSEC. 8. md be u further enacted, Tha\n\n\nthe Register and Receiver of the Land Office a\n\n\naugusta, in the State of Mississippi, be. ant\n\n\nthey are hereby, required TO separate, so far a\n\n\npracticable, from the titles TO lands in A'ssissip\n\n\npi, all such papers, or claims, or evidence o\n\n\nclaims for any tract Of land or town lot, lying il\n\n\nthe State OF Alabama, and certify the same gen\n\n\norally to the Registe, of the Land Office at n\nstephens, in the State of Alabama; and, o\nproper application, to deliver them over to tn\n\n\nsaid Register, whose, duty it shall be TO receiv\n\n\nthe same, and preserve them among the record\nOf his Office.\n\n\n, AppnovEn. March 3, 1927.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1706,
+                    "y0": 2257,
+                    "x1": 1996,
+                    "y1": 2297
+                },
+                {
+                    "x0": 1522,
+                    "y0": 2305,
+                    "x1": 2175,
+                    "y1": 2407
+                },
+                {
+                    "x0": 1522,
+                    "y0": 2310,
+                    "x1": 2188,
+                    "y1": 5062
+                }
+            ],
+            "bbox": [
+                1522,
+                2257,
+                2188,
+                5062
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-05-17_p2_sn85042523_00271740244_1827051701_0785.json"
+        },
+        {
+            "object_ids": [
+                18,
+                6
+            ],
+            "headline": "From Beip8 Life in London.",
+            "article": "The only case of moment on the Northern\nCircuit, was that of the kehelds, for the\nof Miss Turner, and it was one\nwhich has some hold Of cur feelings, because\nit concerns the interest of every parent and\nchild in England. The facts were simply\nthese\n\n\nMr.. Turner's is man who, like many others\nin this happy country, has acquired a for\ntune exceeding 42Oo.oo BY his own enter\nprise and Industry in the management Of ex-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1632,
+                    "y0": 5092,
+                    "x1": 2105,
+                    "y1": 5132
+                },
+                {
+                    "x0": 1553,
+                    "y0": 5140,
+                    "x1": 2210,
+                    "y1": 5500
+                }
+            ],
+            "bbox": [
+                1553,
+                5092,
+                2210,
+                5500
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-05-17_p2_sn85042523_00271740244_1827051701_0785.json"
+        },
+        {
+            "object_ids": [
+                23,
+                7
+            ],
+            "headline": "Lend2n, April 4.",
+            "article": "One thousand casks of Beef, and two hun\nlred casks Of Pork, have arrived in London\nfrom Boston, in the United States. They\nwere Inspected on Friday, and were found\nto be Of hrtme qra}4y Though these pro-\nvisions cannot be landed but for export to\nour foreign dependencies or possr ssious, the\ncircumstances show the great advance made\nby foreign nations. 1t is likely, wc should\nthink, that this meat, as beng equal in quail\nity to British or IRISH, viii be purchased by\nthe Conmlssriht for Our army in Portugal.\nThis is a blow TO the landed interest, which\nno system CT Corn Laws Will be enabled to\ncure.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2572,
+                    "y0": 3578,
+                    "x1": 2840,
+                    "y1": 3619
+                },
+                {
+                    "x0": 2205,
+                    "y0": 3622,
+                    "x1": 2871,
+                    "y1": 4117
+                }
+            ],
+            "bbox": [
+                2205,
+                3578,
+                2871,
+                4117
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-05-17_p2_sn85042523_00271740244_1827051701_0785.json"
+        },
+        {
+            "object_ids": [
+                33,
+                22,
+                29,
+                26,
+                8
+            ],
+            "headline": "'sss srse-rs1zss-uIrar1sxsa\n\nCUBA IN 1877.\n\nFrom he ~ /. CommerciaiDaAy .Aapcr-\n\n\n\n\nLETTER III",
+            "article": "Cuba was discovered in llS0, by Column\nbus, who appointed Diego Valasqnes Gov\nernor To him there were Is successors\nacting in the same capacity; until the year\n1904, at which time tiaspar Ruis de Pereda\nwas appointed at Havana, w.ta the title of\nCaptain General OF the Island Down to\nthis day, there have been in all II chiefs, in\nGuiding General Wives, the present Govern\nor. The island was occupied ia one place\non the south Side, as early as 1906; but Ha-\nvsna was not settled till 1871. Its locality\nrendered it favorable situation for vessels\nfrom the variou. p.It; OF the Gulf IT Mexi-\nCO, to stop at; and that at first caused its\ngrowth. This place has also been the de-\npot Ct great wealth, and particularly. since\nthe revolution in South America These\nevents have driv IN the old Span,ar,ts from\nthe new republics; and many Of then who\nhave brosSht wealth with them, have set\ntied in Havana, in preference to returning 10\nSpain.\n\n\n! The population of the Havana NAV be es.\n| timated, at the present time, at about 40.\nOo0; not more than half Of which is probably\nwithin the walls. This number is given. al\nter having examined the subject as far as\n4 possible, in place where taking public\ncensus is viewed with so much jealousy. tho,\neven one Oh the commissioners appojnted r.\nTINS duty, ridiculed the report which he and\n\n\nothers had made. The usual estimate n\n\n\nthe residents is higher; and this NAV be\n\n\nlooked upon as the medium Of different onin,\n\n\nions, Mr. pnincetr IN SIC ,,,-..,. eF'",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2362,
+                    "y0": 4130,
+                    "x1": 2779,
+                    "y1": 4165
+                },
+                {
+                    "x0": 2371,
+                    "y0": 4160,
+                    "x1": 2726,
+                    "y1": 4205
+                },
+                {
+                    "x0": 2214,
+                    "y0": 4200,
+                    "x1": 2866,
+                    "y1": 4266
+                },
+                {
+                    "x0": 2415,
+                    "y0": 4278,
+                    "x1": 2661,
+                    "y1": 4319
+                },
+                {
+                    "x0": 2209,
+                    "y0": 4331,
+                    "x1": 2875,
+                    "y1": 5491
+                }
+            ],
+            "bbox": [
+                2209,
+                4130,
+                2875,
+                5491
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-05-17_p2_sn85042523_00271740244_1827051701_0785.json"
+        },
+        {
+            "object_ids": [
+                30,
+                9
+            ],
+            "headline": "From late .7le.yicgn haEcrs.",
+            "article": "From the d\" Correo dc Ii Fe3eracion\nMexicana,\" Of March the first, We eNlra's\nthe following pleasing Intelligence iron e\"\"'\ntemala:--\n\n\nwith great pleasure, we announce I'M\nthe troubles Of the Republic Of the Centre\nare at an end, and that she melancholy pre-\ndictions Of the lovers Of liberty have oee',\nfollowed by he most consnlatory hopes o. o.\npeace and conciiis,inn. The Cnited ots'sa\nOf the Centre united. aud agreed not to GUY\nthe call for an Eztracrdinaiy Con- s.eas.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3006,
+                    "y0": 5057,
+                    "x1": 3444,
+                    "y1": 5089
+                },
+                {
+                    "x0": 2892,
+                    "y0": 5079,
+                    "x1": 3558,
+                    "y1": 5495
+                }
+            ],
+            "bbox": [
+                2892,
+                5057,
+                3558,
+                5495
+            ],
+            "full_article_id": 10,
+            "id": "10_1827-05-17_p2_sn85042523_00271740244_1827051701_0785.json"
+        },
+        {
+            "object_ids": [
+                10
+            ],
+            "headline": "",
+            "article": "Pointer sr.---Samson Paul, an Indian, living\non a small island in Lake George, while QUE\nspearing FISH. discovered large Panther\nswimming towards him. Leaving the fish,\nto combatwith his new enemy, he commenc-\nei an attack. by first peltins the pan\nther with stones. Nothing daunted at this.\nhowever, the panther boldly advanced upon\nthe Indian, and the lndan as boldly recelv-\ned him upon the point of his spear, and with\nthe first thrust he put an eye out, and the\nnext struck him III the throat, and held him\nunder water till he was drowned. The\nPanther measured seven feet three inches\nfrom the tip Of his nose to the end of his tail",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2879,
+                    "y0": 2598,
+                    "x1": 3536,
+                    "y1": 3111
+                }
+            ],
+            "bbox": [
+                2879,
+                2598,
+                3536,
+                3111
+            ],
+            "full_article_id": 11,
+            "id": "11_1827-05-17_p2_sn85042523_00271740244_1827051701_0785.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "A must extraordinary eircuin,tauce lately\noccnlred at Hampton, IA TIL, county, for the\nttutll VI \" itch We have the authority of a\nuear reintivcot the patty, who resides in\nThis oiry. Ihe wite of u. Cooper, OF the\nabove e,llaGe, when far advanced in prcgnan\nw. paid a visit TO sumc relative, who re-\nsilc near Copenhagen House, III London,\nwho, III their rgaldtn, kept a live tortoiae.--\nMrs Cooper, ,n seeing i. Was much terri\ntlcd Sotac time after her return. and about\ni've weeks sncr, She wAs delivered Ola te-\nmale chil, which actually has on us head\na substance exlctly ftaembling wcll-form-\ned tortoise, the shell projecting Fl ON the\nhead, ahd striped ike the real one. The\nrhild IS slill alive AMI in health, and the tor\ntoiSc continues en- the head. The head OF\nthe tortoise ta, the strongest resemblance to\nthat Of tic real animal: and it actually pro-\njrcts from the end OF the shell in substance\nabout the size ni The top of pcrsou's finger.\n\n\nC1t9rd ing } HeraM.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2201,
+                    "y0": 2765,
+                    "x1": 2866,
+                    "y1": 3540
+                }
+            ],
+            "bbox": [
+                2201,
+                2765,
+                2866,
+                3540
+            ],
+            "full_article_id": 12,
+            "id": "12_1827-05-17_p2_sn85042523_00271740244_1827051701_0785.json"
+        },
+        {
+            "object_ids": [
+                13
+            ],
+            "headline": "",
+            "article": "tant trusts. ne consequence WAS w\nhunted like fox by the enemy, and enViea\nny'those who oughtSo have been my trends\nTwas compelled to remove my family hve\ntimes in few months, and, at last, tiXed\nthem in little log A,se on the banks OF\nthe Susouehanna. more than All hundred\nmiles from this place but safety was not to\nbe found there, for they were soon oOilSed %\nremoye again. on account of the incutslons\nof the Indians\"\nOn the twenty eighth of July, liz, he\nreceived from the supreme executive cohh-\nGil. the commission of chief justice OF Penn-\nsylyania, and performed the duties OF that\nhigh station with distinguished zeal and II\ndelity for twenty-five years At the time OF\nhis appointment, he was speaker OF the\nhouse of assembly, president OF Delaware\nand member of Congress.\n\n\nOn the tenth of July, 1871. he was, on the\nresignation of the honorable Samuel Hunt\nineton, President of Congress. On the TWEEN\nty-third of October, 1881, the following let\nter was laid before that body by the secre-\ntary:\n\n\n.sS1H, ! must beg you to remind Congress,\nthat when they did me the honor OF ei'ctlng\nme president, and before l assumed the\nchair, informed them, that, as chief JUS\ntce of Pennsylvania, / should be under the\nnecessity of attending the supreme court OF\nthat state, in the latter end of September or\nat farthest, in October. The court will be\nheld to day. l must, therefore, request,\nchat they will be pleased to proceed TO the\nchce of another president\"\n\n\nCongress accepted the resignation OF MIR.\nMKean, but postponed the election Of\npresident until the next day, when, on no\ntion of DR.. Witherspoon, was unanimously\nresolved, that Mr.. M'kean be requested to\nresume the chair, and act as president, I'M\ntil the first Monday in November, the rcso-\nluton of the previous day, accepting his re\nsgnation Notwithstanding. 10 this meas\nure he acceded. On the fifth of November,\nthe honorable John Hanson was elected pres\nident on the seventh, it was \"ReSoived, that\nthe thank of congress be given to the hohor-\nable Thomas M'Kean, late president Of\ncongress, in testimony Of their appreciation\nof his conduct in the chair, and in the exc\ncution of public business\n\n\nIndependent Of his principles and conduct,\nMr.. NJ MKean, as chief justice OF Pennsylva-\nMIA, performed the duties of his office with\nimpartiality and infexibilty. During the\nprogress of the revolution, Philadelphia be-\ning the seat of general government, and an\nobject of peculiar watchfulness on the part\nof the enemy. the just performance Of MIR.\n\n\n\n\n\nthe learning of the lawyer, but the unyield-\nng spirit of the patriot. Proclaiming from\nhe bench, the law of Justice and his coun-\ntry with distinguished learning, ability and\nintegrity, neither fear, nor power, could\nbend him from the stern line of duty. ke-\ngardless Of the powers Of the crown Of Great\nBritain, he did not hesitate to hazard hi,\nown life, by causing to be punished, even un\n70 DEATH those who were proved TO be trai.\ntors to their country\n\n\nBut no popular excitement against individ-\nuals accused Of offences, could, in the slight\nest degree, divert him from the firm and in\nflexible discharge of his public duty. His de.\ncision in favor ofSamuel Chapman, Data,\nTehorts, vol j. $50 e,inced the souudness o\nhis judgment, and the disdain he felt for tht\npopular Glamour, excited by the occasion.\n\n\nHis firmncss in the execution of the laws\nis eXemplihed by another striking example\nIn 1878, he issued warrant against Colonc\nRobert l.. Hooper Col. Hooper waited ol\nGeneral Greene, then quarter-master-g\neral, to inquire whether the circumstance\nof the army would admit Of his absence\nGen. Greene, in letter to Mr.. M'Kean\ndated Camp, Valley Forge, third June 1873\nobserved, among other things relative to th\nsubject, that, a the army was Just on tn\nwing, he could not, without great necessity\n\"conSent\" to Col. Hooper's being absent\nThis direct interference of the military will\nThe civil authority, reused the official spiri\nof the Chief Justice, and occasoned the fol\ntowing severe, but just answer:\n\n\n81 do not think, sir. that the absence, sick\nness, CT even death of Mr.. Hooper, could b\nattended with such consequence that u\nether tersoD could be found who could CIV\nthe necessary aid upon this occasion: bu\nwhat attracts my attention the most, is you\nobservation that yon cannot, without grea\nnecessity, consent 10 lis beng abScnt. AS t\nThat, ] shall not ask l2fsr consent, nor tina\nOf any other person, IN or out of the army\nwhether my precept shall be obeyed or na\nin Pennsylvania.\n\n\ni he warrant for the arrest Of Mr.. Hope\nbeing special, no other Magistrate can tax\ncognizance theseof but myself The mod\nyou propose, of giving bail, cannot be adopt\ned, for many reasons.\n\n\nshould be very sorry to find that the e.;\necution of criminal law should impede til\noperations of the army, in any instance; br\nmuch more so, to find the latter impede tn\nformer\"\n\n\nMr.. NJ Kean industriously devoted himse\ntothe discharge ofthe duties Of chief ustc\nuntil the year 1893, when he was electe\ngovernor of the commonwealth of Pennsy\nyania. In all the qualifications of Ii\nJudge, it may, without hesitation, be saic\nthat be had but few equals in this,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 149,
+                    "y0": 350,
+                    "x1": 832,
+                    "y1": 4546
+                }
+            ],
+            "bbox": [
+                149,
+                350,
+                832,
+                4546
+            ],
+            "full_article_id": 14,
+            "id": "14_1827-05-17_p2_sn85042523_00271740244_1827051701_0785.json"
+        },
+        {
+            "object_ids": [
+                14
+            ],
+            "headline": "",
+            "article": "tens;cc cotton factories in blackburn. nc\nfor some time retired from business IN Ian\ncashire. and principally resided IN Cheshlre,\nwhere he has purchased large estates anu\nGlled the Office of high Sheriff during the last\nwear. lie has an only daughter, now turned\nof 16 wears of age, and who IS the presuup-\nfive heiress of his wealth. lhIs young i1uy\nwas wear ago, resident tor her cuuca\ntion at Miss Daulby' Seminary. IN Liver\npool. and her circumstances attracted the\nnotice Of Miss DAVIS, (since married TO\nMr.. Wakefield, the father OF the defendants\nat the late trial who resided 10 Maccies-\nGeld not lar from Mr. Turner's residence\nMiss Davis appears to have speculated TO\nret Miss Turner by cohh DE- man lot one\nOf the YOUNGER Wake efields-both the WAKE\nfields and Miss Davis were entire strangers\nto Miss Turner, aul abduction was the only\nway to effect their purpose. Stratagcm was\nuscd--the young lady was purlolneu ifoni\nher schnol by Edward Gibson Wakefield,\nand induced to submit to one OF the disgrace\nfull Gretna-green marriages, under the no.\ntiou. artfully impressed upon her by Wake\nfield. that her Father had been suddenly lu-\nned by the failure of the country Banks,\nbut that his (Wakcield's) uncle, rich\nbanker, was to establish him upon tins mar\nriarc. Deludcd by this story, and by the\nmanners of Wakefield which are said to be\nvery insinuatng, she fell into his snare, un-\ntil within week after she awokc to her SIT\nuation bv the arrival OF her uncle at Calais,\nwho oponed her eyes to the scheme winch\nhad bccn laid for the possession OF her prop\nert1.\n\n\n/ he plan of the Nakctields appears to\nhave been we'll laid for the accomplishments\nOf tl',r object. The law is, or rather was,\ncomplicated and severe oil this subject, and\nthe culprits IN this case seemed to have\nsounded their way step by step IN their ca\nreer OF crime They did not attempt to Ell\nfeet the marriagcin England because there,\naccording 70 tie old law, Nhe heavy penalty\nof which they were ignorant, had been re-\npe1ieG, the; would have been guilty OF a\ncapital oil ncc---thcy did not attempt cor\nsummation ut the marriage any where, and\nby that abstinsnce they laid claim for mcr-\ncltul consideration OF their case, III the event\nOf their having shouldercd the gallows in\nadverten;v in the accomplishment OF theil\nbase purpose. Fine and imprisonment cal\nalone be Inflicted on them now tor wha\nthey have Gone--and as money IS, perhaps\nout Of the question, as they we're prevented\nfrom picking Mr.. Turner's pockets, th,\nCourt Of the Kings bench i, expected t\nsubstitute the wholesome discipline OF tn\ntread mill for pecaniry mulet. Ihre\nwears imprisonment is the utmost extent al\nlowed BY the statute on the occasion.\n\n\nThe defendants were all found guilty\nand tho the trradmiil awaits the culprit, III\nYoinE ladv is stil his welded Wife.\n\n\n1t Is sad to he the intention OF Mr.. Z. G\nWakefield IN claim Miss Turner as his W ifc\naud to move Chat She be Fiyenup 70 him b.\n\n\nvirtue Of liabcus Corpus. THIS motto\nviii he resisted Nv the lady'i father, wh\n\n\n~iil contend a~ ,inst the validity ot the mar\n\n\n,itge. aud th0 thg principal and most i'm\n\n\npprtant part + ne entire transaction will b\n\n\n,toron L.lY stgated",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2179,
+                    "y0": 153,
+                    "x1": 2845,
+                    "y1": 2730
+                }
+            ],
+            "bbox": [
+                2179,
+                153,
+                2845,
+                2730
+            ],
+            "full_article_id": 15,
+            "id": "15_1827-05-17_p2_sn85042523_00271740244_1827051701_0785.json"
+        },
+        {
+            "object_ids": [
+                16
+            ],
+            "headline": "",
+            "article": "1i,a. Regina Maria Roche.--In the days\nOf her celebrity, Mrs. Roche enjoyed ease,\ncomfort, and popularity: her friends were\nnumerous, and their Kindness was at her\ncommand. She then declined to avail her\nself of an unlimited offer of services from\nSir William tdamsqn, Governor Of Jamaica,\nto whom the \"Childrcn of the Abbey\" had\nbeen dedicated, because, as she emphatlcai-\n\" says, \"she had then little reason to ap-\nprehend what She has suffered\" Trying,\nindeed has been her reverse OF fate; bereft\nof health. reduced in fortune and friends her\nlot presents true example Of the instability\nof human happiness.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2883,
+                    "y0": 3145,
+                    "x1": 3549,
+                    "y1": 3654
+                }
+            ],
+            "bbox": [
+                2883,
+                3145,
+                3549,
+                3654
+            ],
+            "full_article_id": 17,
+            "id": "17_1827-05-17_p2_sn85042523_00271740244_1827051701_0785.json"
+        },
+        {
+            "object_ids": [
+                19
+            ],
+            "headline": "",
+            "article": "Stage diSaster.-The Albany Daily AdVer-\ntlser states that on Saturday evening week\nas one of the northern stages was on the wa!\nto Albany with nine passengers, IN crossing\nthe bridge over Moscskili. in the town OF\nFort Edward, Washington coanty' INC\nbridge gave way. when the stage, passsh-\ngers and horses we're preciptated into inc\nstream, and a man, womaa, and ooy\nwere drowned. together with two ot the\nhorses. The names of the persons drowned\nare not known; they were Irish emigransS,\nlately landed at Quebec. rhc bridge ha!\nbeen recently built. but the stream beng\nmuch swollen by the late rains, i is suppo'-\ned that the water had washed round and uh'\nlernined one of the abutments which caoS'\nEll the disaster.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2883,
+                    "y0": 3688,
+                    "x1": 3549,
+                    "y1": 4288
+                }
+            ],
+            "bbox": [
+                2883,
+                3688,
+                3549,
+                4288
+            ],
+            "full_article_id": 20,
+            "id": "20_1827-05-17_p2_sn85042523_00271740244_1827051701_0785.json"
+        },
+        {
+            "object_ids": [
+                27
+            ],
+            "headline": "",
+            "article": "The person who was lately convicted II\nDavidson County, N. c. Of naming (gouEs\"\ning out an eye) another man. and sentenced\naccording to law. to stand in the nil!ory two\nhours, have both his ears cut of. AND r.\nceive 50 lashes On his bare back, has receN\ned, from Governor Burton, u remission q\nthat part ofth sentence which requires MA\nto be crUbA'5.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2887,
+                    "y0": 4322,
+                    "x1": 3553,
+                    "y1": 4625
+                }
+            ],
+            "bbox": [
+                2887,
+                4322,
+                3553,
+                4625
+            ],
+            "full_article_id": 28,
+            "id": "28_1827-05-17_p2_sn85042523_00271740244_1827051701_0785.json"
+        },
+        {
+            "object_ids": [
+                28
+            ],
+            "headline": "",
+            "article": "The New York Observer states. ina.\nLieut.. Percival, who commanded the Onlfet\nStates schooner Dolphin 1T the Sandwi.n\nIslands, and whose conduct was 50 oiifhSN'\nto the missionaries. has arrived at that port\nrs First Lieut.. Of the frigate Uoitcd .'taFe''\n(Com. Hull, and was arrested before lihd'\ning, by writs of individuals, :or grievance\nunconnected with the outrage upon the m''\nsionaries Fer want Of bail, he was eoHi-\nm.tted 10 prison.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2887,
+                    "y0": 4655,
+                    "x1": 3553,
+                    "y1": 5023
+                }
+            ],
+            "bbox": [
+                2887,
+                4655,
+                3553,
+                5023
+            ],
+            "full_article_id": 29,
+            "id": "29_1827-05-17_p2_sn85042523_00271740244_1827051701_0785.json"
+        }
+    ]
+}

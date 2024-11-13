@@ -1,0 +1,1135 @@
+{
+    "lccn": {
+        "title": "Delaware journal.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2638-6917",
+        "lccn": "sn83025530",
+        "start_year": "1827",
+        "end_year": "1832",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [
+            "sn85042477"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn83025530",
+        "edition": "ed-01",
+        "date": "1827-11-30",
+        "pages": [
+            "seq-2",
+            "seq-3",
+            "seq-1",
+            "seq-4"
+        ]
+    },
+    "page_number": "1",
+    "scan": {
+        "lccn": "sn83025530",
+        "edition": "ed-01",
+        "date": "1827-11-30",
+        "page": "1",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-11-30/ed-1/seq-1.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-11-30/ed-1/seq-1/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-11-30/ed-1/seq-1/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn83025530/00271740220/1827113001/0276.jp2",
+        "height": 5536,
+        "width": 3552
+    },
+    "bboxes": [
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 2463,
+                "y0": 1864,
+                "x1": 3273,
+                "y1": 3383
+            },
+            "class": "article",
+            "raw_text": "Extract of letter to the Editor Of the American\n\n\nFarmer, from distinguished officer Of the U.\n\n\nStates Navy, dated Callao Roads, June ~, 1922.\n\n\n81 am of opinion that the wealth Of these South\nAmerican states is greatly overrated. They have\nmines to be sure, but they neither are nor can be-\nworked to much profit; for both individuals and\ncompanies have failed who have OF late attempted\nit; and the other products are very limited Chilli\nand Peru by many degrees the poorest countries\nI have seen, and can there be stronger evil\ndence of this truth than that with small debt, and\nscarcely any military force, their treasures are al\nways elnpty-thcr expenditure though but little\nmore than 81, 100000, yet exceeding their income.\n81 would contribute, at almost any trouble, to any\nImprovement in the breed of horses in country;\nbut am confident that there is not horse or marc\nin Chill or Peru that would sell for one hundred do-\nlars. | have not seen one which would, if in the\nUnited States, bring sixty dollars. have brought\n| a saddle horse from Mendoza, one OF the handsoms\nthat have here, and gave ten douboons tor\nhim. which is the highest price going; but really i'll\nMARYLAND he would not sell for sixty dollars; and\nthis horse has been brought over the Corderas to\nValparaiso, 400 miles, and from thence here by wa.\nter, from 12 TO Is days sail.\n\n\nYou certainly know that the horses, cattle, sliee,s\nand hogs, of Spanish America, were all brought froru\nSpain and the only port Of expectation for these\nanimals was Caniz, the Southern extremity of An\ndalusa. Consequently the animals Of that provinca\nhave, do aver, much degenerated from their pro-\ngenitors i'll form and size No one, who has been\nin Andausia would be at loss to perceive that the\nabove mentioned animals have had their origin there3\nthe form. colour and spirit is very much the same,\nparticularly the latter, which is remarkable, and il\nequally perceptible in the wild horses of Louisiana\nand the state Of Mississippi, aud the western Flor\nIl jua.S",
+            "legibility": "Legible",
+            "full_article_id": 32,
+            "reading_order_id": 0
+        },
+        {
+            "id": 33,
+            "bbox": {
+                "x0": 2489,
+                "y0": 1820,
+                "x1": 3221,
+                "y1": 1865
+            },
+            "class": "headline",
+            "raw_text": "THE HORSES or SOUTH AMERICA.",
+            "legibility": "Legible",
+            "full_article_id": 32,
+            "reading_order_id": -1
+        },
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 1654,
+                "y0": 826,
+                "x1": 2447,
+                "y1": 1726
+            },
+            "class": "article",
+            "raw_text": "icuties. The fourth section of the Canal, through\nst. Georges mill pond about three miles, is also\nfilled with water and navgable The fifth section,\ncomprising the deep cut, said TO be the most stupen\ndous instance of canal excavation in the world, is in\ngreat degree completed up to the Summit Bridge,\nto which point boats from the Delaware SAIL\n\n\nThe sides ofthis portion of the canal are to be wal\n\n\nled with thick masonry to the height Of twelve feet\nand for distance, including both banks, of five or\nsix miles. Much Of this gigantic work is done, and\n\n\nthe masons are engaged IN completing it rapidly as\npossible. The remaining sections, TO the Chesa-\npeake, have been for some time finished, and are\n\n\nready for the admission of water the rest\n\n\nOF the work will permit il. The four locks are\n| completed, and the bridges are in use; that at the\n| summit is noble structure--it spans gulf nearly\nthree hundred feet wide and hundred feet deep,\n\n\npresenting from the road way view along the canal\neast and west for several miles, II is believed that\nthe western division of the work will be completed\n\n\nearly in the spring. and that the whole will be done\nby the next summer.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 32,
+            "bbox": {
+                "x0": 915,
+                "y0": 635,
+                "x1": 2196,
+                "y1": 736
+            },
+            "class": "headline",
+            "raw_text": "FRIDAY, .1'orember so, 1927.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1667,
+                "y0": 1807,
+                "x1": 2464,
+                "y1": 3391
+            },
+            "class": "article",
+            "raw_text": "sHe who has Trade has an Estate, ,\"--ETanklas.\n\n\nThis is one of the many correct and iudicious say\nings of that truly great man, whose judgement of\nmankind was formed by experience and whose wri-\ntings are held up to the admiration of the world.\nNo better maxims ar. to be found, or rules which.\nif attended to, will eventually lead the unfortunate\nto repair their losses, overcome difficulties and re\ngain lost ground. The above is worthy of deep\nreflection. and speaks volumes Of itself. speaks\nlanguage that is easily understood, and many are\nthey who will really subscribe to its truth, who are\nnow labourngin difficulty and distress, to procure\nthe hard earned pittance for daily bread.\n\n\nHappy would it be (and how much misery avoid\ned) if more of our youth were properly placed In\nsituations congenial to their minds and genius.\nwherein they could learn the art of mechanic\nIn this respect much judgment ought to be exercls,\ned that wrong turn be not given TO the mind, but\nthat due regard be had to the natural bent Of gen.\nus. To thwart this is to destroy the pride and\nambition. from which results disahecton and often\nruin. Whatever the feelings of a parent may he\nfor his child, his own experience will teach him the\npropriety Of his sons having calling that enables\nhim to support not only himself, but perhaps taml\n| ly. I have seen the young man born to an af1uent\nfortune, who was early apprenticed to respec-\ntable and scientific mechanic to learn what is gene\nrally termed trade. Althoughthere was appar-\nent need of such step-as the father was an indie\ndendent man--stilI the old gentleman conceived\nthat it was necessary, and often made the observa\ntion, s'that he who has trade has an estate\" The\nyoung man duly served his time. and became com\nplete master of his trade and this son had the happi\nness to contribute to the and support of his tru\nlv respectable parent in his old age (who had lost\nthrough misfortune his immense property,) and while\nperforming this pleasing sacred duty. his talents\nand industry raised him to an enylabe situation in\n| life.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 1875,
+                "y0": 1751,
+                "x1": 2231,
+                "y1": 1795
+            },
+            "class": "headline",
+            "raw_text": "LEARN A TRADE.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -2
+        },
+        {
+            "id": 39,
+            "bbox": {
+                "x0": 1667,
+                "y0": 1812,
+                "x1": 2451,
+                "y1": 1852
+            },
+            "class": "headline",
+            "raw_text": "\"He who has Trade has an Estate, ,\"--Frankli7a.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1680,
+                "y0": 3472,
+                "x1": 2473,
+                "y1": 4533
+            },
+            "class": "article",
+            "raw_text": "From, the New York Epcning Gazette.\n\n\nWe had an opportunity of hearing Mr.. Webster\nsum up on Saturday last in the Astor case. His\nspeech was masterly display of argumentative\nskill: it was evidently the production of a mind\nwe'll trained in logical discipline. and accustomed to\nthe tactics of forensic warfare. This however. though\nthe most essential qualification of the advocate can\nnot without the aid of the other qualities, make an\nindividual capable of the highest eminencein his pro-\nfession. and those qualities Mr.. Webster either wants\nor despises in his efforts at the bar-Whe sound\nreasoning and profound legal knowledge should be\nthe prominent objects of the candidate for profess\nsional fame, yet we no reason why he should\nneglect or contemn those graces of speech and ex-\ncursions of the fancy, which constitute the oraori\ncal art. From Mr.. Webster's displays in the House\nof Representative which have been published. we\nwere inclined to think that he was more even of a\nrhetorcian than reasoner; though we could not fail\nto observe happy combination Of the qualities of\nboth. On this account. we felt some dsappoint-\nment on Saturday. still we considered Mr.. Web\nser's speech masterly and beautiful piece of reas-\noning. calculated to inspire the hearer with respect\nand to illustrate the subject in lucid and succinct\nmanner, Of which, to the observer, it SEEM\ned scarcely susceptible.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 1914,
+                "y0": 3416,
+                "x1": 2239,
+                "y1": 3460
+            },
+            "class": "headline",
+            "raw_text": "MR.. WEBSTER.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -2
+        },
+        {
+            "id": 38,
+            "bbox": {
+                "x0": 1745,
+                "y0": 3468,
+                "x1": 2360,
+                "y1": 3504
+            },
+            "class": "author",
+            "raw_text": "Iron, the New York Epening Gazef",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1685,
+                "y0": 4614,
+                "x1": 2468,
+                "y1": 5247
+            },
+            "class": "article",
+            "raw_text": "PoTAToEs.-We recommend, from experience\nthe following directions for gathering and preserving\npotatoes, to all who desire to have them good.\nThere is another plan however, which might be\npractised upon a small scale, to have. few prime\nfor family in the spring, and that is not to\ngather the potatoes in the fall but to let them re-\nmain in the ground during the winter If the patch\nhe not flooded with water and the potatoes have\nbeen planted moderate depth, (and deep planting\nis always found to produce the sweetest potatoes,\nfew inches additional earth. or an equivalent OF\nlitter spread the rows, will protect them from\nfrost. Then take them up early in the spring, be-\nfore vegetation commences, and they will be found\nto possess. in an eminent degree, the sweet fresh\nness Of new potatoes.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 1823,
+                "y0": 4558,
+                "x1": 2326,
+                "y1": 4602
+            },
+            "class": "headline",
+            "raw_text": "From the Pennsylvania Gazette.",
+            "legibility": "Questionable",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2485,
+                "y0": 3468,
+                "x1": 3282,
+                "y1": 5242
+            },
+            "class": "article",
+            "raw_text": "The Paris Constitutional preludes crltique Oh\nthe French translation Of Knickerbocker,' as foi4\nlows: \" Rallery is exiled from the literary world\nwe have given up joking. Cervantes Rabelais,\nSwift, Sterne, lie Sage, and more than all Votaires\nhave exhausted irony humanity no longer laughs\nshe bewails her miseries and her fobles. There is\ncry Of universal desoation, or rather Of rcvolts\nagainst remediable evils, ant, from which we might\neasily be spared. In the accession Of this grave\nmelancholy, there is also little conventional sad.\nness, habitude which forms the character Of tho\nage.\n\n\nThe transatlantic regions are better situated for\nmaking jokes at the world, and irony has found an\nasylum there. at least if one may judge from thia\n:. History Of New York.\" the best work Of the best\nwriter that the new world has as vet produced.\n\n\nThis jesting book, in which the sarcasm mounts\nup to the creation of the world. in which under the\npretext of writing the history of Dutch colony. the\nauthor parodies not only the great yanites but also\nwith scarcely any distinction. all human institutions.\nis work more singular than philosophc.\n\n\nWe take it very kindly Of the author that he has\ninundated on the same altar all the theposts WIN\nhave built up the world in their own way Herodo-\ntus and his patriarchal romancpgs modern hisori-\nans and their mnutely prolix details, the Scottish\npride of upstarts, who are absolutely determined to\nbe the descendants of Theseus, OF Hector, or of\nMelchisedec Still one would wish that iudicious\ndissertation on ancient civilization should not lead\nthe author to a satire of modern civilization, and\nthat man who bears the name of Washington\nshould not use his endeavors to eneeble the esteem\nin which Europe holds the country Of Washington\nand Franklin.\n\n\nLord Byron set high value upon this work on\naccount of its animated satire upon the manners\nand absurdties of of petty democracles this kind\nof irony is agreeable to oarisocratic tastes. of which\nhis genius was never entirely divested. In this re-\nspec MIR. Irving is less excusable. and may be just\nly reproached with having too often directed his\nsarcasms against virtues, which however simple,\nplain, and somewhat odd. are, nevertheless, always\nworthy of respect, and which shauld never have\nbeen quzzcd By an ,4mcricaa pen.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 2641,
+                "y0": 3416,
+                "x1": 3096,
+                "y1": 3460
+            },
+            "class": "headline",
+            "raw_text": "WASHINGTON IRVING.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 63,
+                "y0": 1786,
+                "x1": 847,
+                "y1": 2539
+            },
+            "class": "article",
+            "raw_text": "CoNcoRp-Dr. Thomas Adams, P. Nj.\nBnIDGEy1LLE.--FIenry Cannon, P. NJ.\nMILToN.-Mr. Arthur Milby.\n\n\nFRANKroRp.-Mr. Isaiah Long\n\n\nDAasBoRouoH.-Dr Edward Dingle.\nGEoReE TowN.---Mr. Joshua S. Layton.\nLEwEs--H +. Rodney, P. Nj.\nMILFoRD.-Mr. Joseph G. Oliver.\nTREpERIcA-J. Emerson, P. NJ.\nCAMDEs.-Thomas Wainwright, T. M.\nDovER.-John Robertson, Esq.\n\n\nSMyRNA--Samuel II. Hodson, Esq.\nCANrwELLs BRIDGE.--Maulove Hayes, 2 nj.\nM1pDLETowN.--Thomas Harry, 2. M.\nSUMMIT BaIDGE.-John Clement, P NJ.\nWARWICK, Md.-John Moreton, p. Nj.\nSubscribers living in the vicinity Of the residence\nOf these Agents, may pay their subscription money\nto them they being authorized to receive it, and to\ngive receipts.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 322,
+                "y0": 1730,
+                "x1": 583,
+                "y1": 1778
+            },
+            "class": "headline",
+            "raw_text": "AGENTS..",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 45,
+                "y0": 1297,
+                "x1": 842,
+                "y1": 1705
+            },
+            "class": "article",
+            "raw_text": "Persons wishing any sort ofPRINTtNs done, with\nneatness, accuracy. and dispatch ADVERTISEMENTS\ninserted, or SUBSCRIPTIONS paid where there are\nno Agents appointed in their neighbourhood TO re-\nceive them, will please apply, OF direct to r. Porter\nand Son, No. 81, Market Street, Wilmington.\n\n\nAll communications, not of the above character,\nto be addressed to NJ Bradford Editor of the Della\nware Journal, Wilmington.\n\n\nThis arrangement is made for the more regular\nand prompt execution of business.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 314,
+                "y0": 1245,
+                "x1": 565,
+                "y1": 1289
+            },
+            "class": "headline",
+            "raw_text": "NOTICE.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2459,
+                "y0": 826,
+                "x1": 3256,
+                "y1": 1795
+            },
+            "class": "article",
+            "raw_text": "Gathering and preserving potatoes.\n\n\nExtracted from the Transactions Of the Society\nOF Arts in London.\n\n\nThe usual mode at present practising for endeav-\ncuring to preserve potatoes is to leave them alter\ndigging, exposed 10 sun and air to dry. This ex-\nposure generally causes them to haye bitter taste;\nand may be remarked, that potatoes are never SO\nsweet to the palate as when cooked Immediately al\nter digging. find that when potatoes are lett IN\nlarge heaps pits in the ground, that fermentation\ntakes place which destroys the sweetest favour OF\nthe potatoes. In order to prevent that fermentation\nand to preserve them from losing the original hne\nand pleasant favour, my plan is, (and which expe-\nrence proves to me to have the desired edecD'to\nhave them packed in casks as they are digging from\nthe ground and to have the casks when the potatoes\nare piled in them, filled up with sand or earth, TAX\ning care that it is done as speedily possible and\nthat all spaces in the cask of potatoes are Sled up\nwith earth or sand the cask thus packed holds Az\nmany potatoes as it would were no earth or sand\nused and as the air is totally excluded it cannot act\non the potatoes, and consequently no Fermentation\ncan take place.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 2922,
+                "y0": 644,
+                "x1": 3234,
+                "y1": 731
+            },
+            "class": "headline",
+            "raw_text": "yTO. 81.\n",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -2
+        },
+        {
+            "id": 35,
+            "bbox": {
+                "x0": 2576,
+                "y0": 826,
+                "x1": 3122,
+                "y1": 870
+            },
+            "class": "headline",
+            "raw_text": "Gathering and preserving potatoes.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 67,
+                "y0": 3118,
+                "x1": 864,
+                "y1": 4174
+            },
+            "class": "article",
+            "raw_text": "\n\n\nContaining in addition to the usual Astronomical\nCalculations Tables, &c. the Courts OF the United\nStates, and of Delaware and Maryland; great va\nrlety of profitable and pleasing miscellaneous mat\nter, among which is\n\n\nA Sailors humorous ride in milk-cart,\nYankey resolution in saving the mail,\nIngenious defence of a thief,\n\n\nDreams and signs interpreted,\n\n\nMethod of un.narrying the unhappy,\n\n\nDefinition ofa Drunllard,\n\n\nA little world,\n\n\nOld maids, their unmentonable troubles,\nAccount of a novel courtshp,\n\n\nAnecdote of Paddy and his game cock,\n\n\nThe Irishman and his pig, &C. &c. &c.\nWonderful discoveries of the Microscope,\nHumorous account Of a Penn'a. Battalion pay,\nWashington's army saved by Quaker lady.\nOde to the govt, -\nRECEIPTS for curing the Gravel, curing Wens\nmaking candles, removing grease spots from clothes\nmaking vinegar, preserving pickles, preserving\nmeats, &c. sc. SC.\nThe above Almanac, with IN extensive assortment\nof others, German and English for sale by the Gross\nor Dozen, at the most reduced prices.\nNov r. PORTER s SON,",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 36,
+            "bbox": {
+                "x0": 71,
+                "y0": 2547,
+                "x1": 821,
+                "y1": 2600
+            },
+            "class": "headline",
+            "raw_text": "10000 OR 90, GOO 1Bs. PoElyS",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -2
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 128,
+                "y0": 3018,
+                "x1": 790,
+                "y1": 3119
+            },
+            "class": "headline",
+            "raw_text": "'Nhe Columbian almanac,\n\n\nEOr 1S2S.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 45,
+                "y0": 865,
+                "x1": 838,
+                "y1": 1229
+            },
+            "class": "article",
+            "raw_text": "TIE DELAW.4RE .TOUR.N.aL is pnb-\nlished on Tuesdays and Fridays, at four dollars\nper anuun.; tsoo dollars every sic alontAs IN ad-\nrance. No paper to be discontinued, austiL ar\nrearages are paid.\n\n\nAdvertisements inserted on the asuaL terms\nTis: One dollar for four insertions Of sieteen\nlines. and so IN proportion for ercry number Of\nadditional lines and insertions.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 253,
+                "y0": 804,
+                "x1": 652,
+                "y1": 857
+            },
+            "class": "headline",
+            "raw_text": "CONDITIONS.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 84,
+                "y0": 4299,
+                "x1": 868,
+                "y1": 4676
+            },
+            "class": "article",
+            "raw_text": "Just received and for sale here, Ihc ltGnftc ooN'\nranir a beautiful Christmas and NewYears Pre-\nsent, handsomely boarded, with gilt leaves, and en-\nclosed in an elegant ornamened case. This - be-\n\n\neved to be one of the mos: splendid little WORKS o.\ntaste published in this country it contains -\nelegant engravngs descriptive Of Cats Kill tails n\nconderoga, Delaware Water Gap, Bournouese War\niior, Moonlight, &c. &c. &c. 80\nNov. s. r. PORTER son.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 162,
+                "y0": 4190,
+                "x1": 769,
+                "y1": 4291
+            },
+            "class": "headline",
+            "raw_text": "ATLANTIC SOU VENlH\n\n\nTNR I223,",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 893,
+                "y0": 860,
+                "x1": 1565,
+                "y1": 2375
+            },
+            "class": "article",
+            "raw_text": "One Willy Wright who kept store,\nBut nothing kept therein,\nSave earthen jugs and some few kegs\nof whiskey, ale and gin,-\nGrew sick, and often would exclaim,\nOh how my heart does burn!\nAnd ev'ry week he poor man lived\nlie had peakiy turn.\nNV when they saw him thus decline,\nSome said that death must come;\nSome wondered what his all could be,\nSome sad his ale was rum.\nhtlast the very cause was known\n\n\nOf every pang he felt\nRemote, at one end of the town,\n\n\nMiss Martha Townsend dwclt;\nportly love-resising dame,\n\n\nContemptuous, proud and haughty;\nBut yet, though \"fat and forty\" too,\nShe was not two and-forty.\nAnd Willy long had sought and sighd\nTo gain this pretty maid\n'Ihave no trade said he, $50 sure.\nMy love cant be be.tray'd'\nTo Martha then he trembling went,\nAnd said, MY dear, 'tis true,\nThough have nothing in my store,\nIve love in store foryou.\nAnd if thou wilt thou may'st become\nBut here his tongue was tied;\nAnd though she ufited yet she said\nShe mere would be his bride.\nThen TURNING Willy out of doors,\nSaid she, Go, so along;\nIllate the man who's always Wright,\nYet always doing wrong.'\nIl leave you them said he, farewell\nOF peace Pm now bereft--\nIf am always Wright and wrong,\n\n\nYou must be right, and left ,\nSo then he closed his little store,\n\n\nShut up each door and blind,\nAnd settled his accounts and died,\n\n\nAnd left Ho will belind II",
+            "legibility": "Questionable",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 1084,
+                "y0": 808,
+                "x1": 1405,
+                "y1": 853
+            },
+            "class": "headline",
+            "raw_text": "LOVE.SICk WILLY.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -2
+        },
+        {
+            "id": 40,
+            "bbox": {
+                "x0": 906,
+                "y0": 860,
+                "x1": 1413,
+                "y1": 896
+            },
+            "class": "headline",
+            "raw_text": "One Willy Wright, who kent store",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 867,
+                "y0": 2525,
+                "x1": 1673,
+                "y1": 5216
+            },
+            "class": "article",
+            "raw_text": "HeSofhf10nS Gdopte6 al MeaT meeunS-\n\n\nI. Resolved, That this Society regard the intem-\nperate use of spirtnous liquors as the most gene\nraj and the most deadly evil which ailcts our land\nand that, in our opinion, it now becomes the solemn\nduty of all the temperate and viruous part of our\ncommunity to make united, RATIONAL vigorous and\npersevering effort to arrest its progress.\n\n\nQ. RESOLVED, That in the opinion OF this Society,\nto eloc drunkard, either to make laws, or, to ex-\necue them, when made, s, virtually, not only to\nlegahze but to honor crime-to break down the bar\nrier which Reason, Truth and Scripture have fixed\nbetween virtue and vice--and to lay the axe at the\nvery root Of the Tree Of Liberty.\n\n\n3. Resolved, That in the estimation Of this SocIe-\nty, the employment of drunken servant-a drum\nken mechanc--a drunken schoolmaster or an in\ntemperate physician, without necessity. and merely\nbecause such may be obtained, upon cheaper terms\nthan such as are sober and Industrious, is to crafty\navarice at the expense of moral principles to ex-\nercse and indulge narrow, selfish disposition, in\nthe place of that heaven-horn benevolence which\nconsults the good ofthe 70holc community.\n\n\nA. Resolved, That, we esteem it good rule and\nworthy Of universal observance. for every minister,\nwhen called to preach funeral sermon to let it be\ndistinctly understood. as condition. that no splrtu-\nGus liquor be used on the occasion.\n\n\n5. ResolUcd That il be recommended to the fe-\nmale part of the community to dscountenance and\n| frown from their social circles all young men who\nare frequently known to be in state of intoxlca-\n\n\nton, and to look aYitt suspicion upon such as tona\nof strong drink.\n\n\n6. Resolyed. That we view, with the deepest re-\nGret, the erroneous conduct of those parents who\ntrain up their children to the regular, habtuaI uee\nof strong drink The wisest OF men hath said !;\ng Train up child in the way he should go, and when\nhe is old he will not depart from it.\" IT tins be\ntrue as general rule when children are trained 10\nsobriety, industry and piety how much more may\nthose parents who train up their children, by pre-\ncept and example, to believe, that the habtual use\nof strong drink s essential to their health and COM\nfort expect that the habit uiH become second ma\nt,.re that the chains put on, in infancy, and worn\nwith ease and without suspicion, to manhood VIII,\nin old age if not before, bind the victims to iniamy\nand death.\nRI T. Resolved, That we recommend to all gonng\nministers, who desire that their instructions and\nwarnings against the sin of drunkenness may have\nthe desired effect, to abstain altogether from the\nuse of spurious liquors.\n\n\nChcsnpeoke and Delauarc Canul.--Thc Phi'adel-\nuhia National Gazette furnishes the following no.\ntice of the present condition of this Canal The\nthree sections through the marshes from the Deia-\nware river to ST. Georges about four miles in length.\nare filled with water nearly as high MS the common\nhigh water of the river, and an active navigation\nalong it in sloops and scows for the purposes of the\nCanal is carried on ; dredging machine is employ\ned in excavating such parts as arc not to the full\ndepth of ten feet the towing path embankment\nThrough the marsh has ceased to sink, and appears\nTO stand perfectly firm; the south guard bank, OF\nwhich the sinking was so rapid and extensive, and\n, 1.-THE extra expense so great, will be completed it is",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 37,
+            "bbox": {
+                "x0": 1533,
+                "y0": 2322,
+                "x1": 1634,
+                "y1": 2366
+            },
+            "class": "headline",
+            "raw_text": "HEM",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -3
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 863,
+                "y0": 2409,
+                "x1": 1655,
+                "y1": 2505
+            },
+            "class": "headline",
+            "raw_text": "VIRGINIA SOCIETY FOR THE PROMOTION\n\n\nOF TEMPERANCE.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -2
+        },
+        {
+            "id": 34,
+            "bbox": {
+                "x0": 984,
+                "y0": 2512,
+                "x1": 1543,
+                "y1": 2548
+            },
+            "class": "author",
+            "raw_text": "Resolutions adopted at their meeting.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 41,
+            "bbox": {
+                "x0": 3575,
+                "y0": 324,
+                "x1": 4549,
+                "y1": 4334
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 42,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 93,
+                "y0": 4999,
+                "x1": 877,
+                "y1": 5156
+            },
+            "class": "article",
+            "raw_text": "The subscribers Keep constant supply 9fSuper\n-oyal such this paper IS printed on, price 50 80\niso Medium and other printing and 7sritiag papers.\nSep. II. r. PORTER q son.",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 167,
+                "y0": 4917,
+                "x1": 808,
+                "y1": 4992
+            },
+            "class": "headline",
+            "raw_text": "Super-royaI Paper.",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": -1
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 102,
+                "y0": 5181,
+                "x1": 877,
+                "y1": 5264
+            },
+            "class": "article",
+            "raw_text": "PRINTING OF ALL KINDS DONE WITH NEATNEss\nAND DESPATCH, AT THE OFFICE OF THE JOURNAL",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                33,
+                31
+            ],
+            "headline": "THE HORSES or SOUTH AMERICA.",
+            "article": "Extract of letter to the Editor Of the American\n\n\nFarmer, from distinguished officer Of the U.\n\n\nStates Navy, dated Callao Roads, June ~, 1922.\n\n\n81 am of opinion that the wealth Of these South\nAmerican states is greatly overrated. They have\nmines to be sure, but they neither are nor can be-\nworked to much profit; for both individuals and\ncompanies have failed who have OF late attempted\nit; and the other products are very limited Chilli\nand Peru by many degrees the poorest countries\nI have seen, and can there be stronger evil\ndence of this truth than that with small debt, and\nscarcely any military force, their treasures are al\nways elnpty-thcr expenditure though but little\nmore than 81, 100000, yet exceeding their income.\n81 would contribute, at almost any trouble, to any\nImprovement in the breed of horses in country;\nbut am confident that there is not horse or marc\nin Chill or Peru that would sell for one hundred do-\nlars. | have not seen one which would, if in the\nUnited States, bring sixty dollars. have brought\n| a saddle horse from Mendoza, one OF the handsoms\nthat have here, and gave ten douboons tor\nhim. which is the highest price going; but really i'll\nMARYLAND he would not sell for sixty dollars; and\nthis horse has been brought over the Corderas to\nValparaiso, 400 miles, and from thence here by wa.\nter, from 12 TO Is days sail.\n\n\nYou certainly know that the horses, cattle, sliee,s\nand hogs, of Spanish America, were all brought froru\nSpain and the only port Of expectation for these\nanimals was Caniz, the Southern extremity of An\ndalusa. Consequently the animals Of that provinca\nhave, do aver, much degenerated from their pro-\ngenitors i'll form and size No one, who has been\nin Andausia would be at loss to perceive that the\nabove mentioned animals have had their origin there3\nthe form. colour and spirit is very much the same,\nparticularly the latter, which is remarkable, and il\nequally perceptible in the wild horses of Louisiana\nand the state Of Mississippi, aud the western Flor\nIl jua.S",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2489,
+                    "y0": 1820,
+                    "x1": 3221,
+                    "y1": 1865
+                },
+                {
+                    "x0": 2463,
+                    "y0": 1864,
+                    "x1": 3273,
+                    "y1": 3383
+                }
+            ],
+            "bbox": [
+                2463,
+                1820,
+                3273,
+                3383
+            ],
+            "full_article_id": 32,
+            "id": "32_1827-11-30_p1_sn83025530_00271740220_1827113001_0276.json"
+        },
+        {
+            "object_ids": [
+                32,
+                0
+            ],
+            "headline": "FRIDAY, .1'orember so, 1927.",
+            "article": "icuties. The fourth section of the Canal, through\nst. Georges mill pond about three miles, is also\nfilled with water and navgable The fifth section,\ncomprising the deep cut, said TO be the most stupen\ndous instance of canal excavation in the world, is in\ngreat degree completed up to the Summit Bridge,\nto which point boats from the Delaware SAIL\n\n\nThe sides ofthis portion of the canal are to be wal\n\n\nled with thick masonry to the height Of twelve feet\nand for distance, including both banks, of five or\nsix miles. Much Of this gigantic work is done, and\n\n\nthe masons are engaged IN completing it rapidly as\npossible. The remaining sections, TO the Chesa-\npeake, have been for some time finished, and are\n\n\nready for the admission of water the rest\n\n\nOF the work will permit il. The four locks are\n| completed, and the bridges are in use; that at the\n| summit is noble structure--it spans gulf nearly\nthree hundred feet wide and hundred feet deep,\n\n\npresenting from the road way view along the canal\neast and west for several miles, II is believed that\nthe western division of the work will be completed\n\n\nearly in the spring. and that the whole will be done\nby the next summer.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 915,
+                    "y0": 635,
+                    "x1": 2196,
+                    "y1": 736
+                },
+                {
+                    "x0": 1654,
+                    "y0": 826,
+                    "x1": 2447,
+                    "y1": 1726
+                }
+            ],
+            "bbox": [
+                915,
+                635,
+                2447,
+                1726
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-11-30_p1_sn83025530_00271740220_1827113001_0276.json"
+        },
+        {
+            "object_ids": [
+                20,
+                39,
+                1
+            ],
+            "headline": "LEARN A TRADE.\n\n\"He who has Trade has an Estate, ,\"--Frankli7a.",
+            "article": "sHe who has Trade has an Estate, ,\"--ETanklas.\n\n\nThis is one of the many correct and iudicious say\nings of that truly great man, whose judgement of\nmankind was formed by experience and whose wri-\ntings are held up to the admiration of the world.\nNo better maxims ar. to be found, or rules which.\nif attended to, will eventually lead the unfortunate\nto repair their losses, overcome difficulties and re\ngain lost ground. The above is worthy of deep\nreflection. and speaks volumes Of itself. speaks\nlanguage that is easily understood, and many are\nthey who will really subscribe to its truth, who are\nnow labourngin difficulty and distress, to procure\nthe hard earned pittance for daily bread.\n\n\nHappy would it be (and how much misery avoid\ned) if more of our youth were properly placed In\nsituations congenial to their minds and genius.\nwherein they could learn the art of mechanic\nIn this respect much judgment ought to be exercls,\ned that wrong turn be not given TO the mind, but\nthat due regard be had to the natural bent Of gen.\nus. To thwart this is to destroy the pride and\nambition. from which results disahecton and often\nruin. Whatever the feelings of a parent may he\nfor his child, his own experience will teach him the\npropriety Of his sons having calling that enables\nhim to support not only himself, but perhaps taml\n| ly. I have seen the young man born to an af1uent\nfortune, who was early apprenticed to respec-\ntable and scientific mechanic to learn what is gene\nrally termed trade. Althoughthere was appar-\nent need of such step-as the father was an indie\ndendent man--stilI the old gentleman conceived\nthat it was necessary, and often made the observa\ntion, s'that he who has trade has an estate\" The\nyoung man duly served his time. and became com\nplete master of his trade and this son had the happi\nness to contribute to the and support of his tru\nlv respectable parent in his old age (who had lost\nthrough misfortune his immense property,) and while\nperforming this pleasing sacred duty. his talents\nand industry raised him to an enylabe situation in\n| life.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1875,
+                    "y0": 1751,
+                    "x1": 2231,
+                    "y1": 1795
+                },
+                {
+                    "x0": 1667,
+                    "y0": 1812,
+                    "x1": 2451,
+                    "y1": 1852
+                },
+                {
+                    "x0": 1667,
+                    "y0": 1807,
+                    "x1": 2464,
+                    "y1": 3391
+                }
+            ],
+            "bbox": [
+                1667,
+                1751,
+                2464,
+                3391
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-11-30_p1_sn83025530_00271740220_1827113001_0276.json"
+        },
+        {
+            "object_ids": [
+                22,
+                38,
+                2
+            ],
+            "headline": "MR.. WEBSTER.",
+            "article": "From, the New York Epcning Gazette.\n\n\nWe had an opportunity of hearing Mr.. Webster\nsum up on Saturday last in the Astor case. His\nspeech was masterly display of argumentative\nskill: it was evidently the production of a mind\nwe'll trained in logical discipline. and accustomed to\nthe tactics of forensic warfare. This however. though\nthe most essential qualification of the advocate can\nnot without the aid of the other qualities, make an\nindividual capable of the highest eminencein his pro-\nfession. and those qualities Mr.. Webster either wants\nor despises in his efforts at the bar-Whe sound\nreasoning and profound legal knowledge should be\nthe prominent objects of the candidate for profess\nsional fame, yet we no reason why he should\nneglect or contemn those graces of speech and ex-\ncursions of the fancy, which constitute the oraori\ncal art. From Mr.. Webster's displays in the House\nof Representative which have been published. we\nwere inclined to think that he was more even of a\nrhetorcian than reasoner; though we could not fail\nto observe happy combination Of the qualities of\nboth. On this account. we felt some dsappoint-\nment on Saturday. still we considered Mr.. Web\nser's speech masterly and beautiful piece of reas-\noning. calculated to inspire the hearer with respect\nand to illustrate the subject in lucid and succinct\nmanner, Of which, to the observer, it SEEM\ned scarcely susceptible.",
+            "byline": "Iron, the New York Epening Gazef",
+            "bbox_list": [
+                {
+                    "x0": 1914,
+                    "y0": 3416,
+                    "x1": 2239,
+                    "y1": 3460
+                },
+                {
+                    "x0": 1745,
+                    "y0": 3468,
+                    "x1": 2360,
+                    "y1": 3504
+                },
+                {
+                    "x0": 1680,
+                    "y0": 3472,
+                    "x1": 2473,
+                    "y1": 4533
+                }
+            ],
+            "bbox": [
+                1680,
+                3416,
+                2473,
+                4533
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-11-30_p1_sn83025530_00271740220_1827113001_0276.json"
+        },
+        {
+            "object_ids": [
+                14,
+                3
+            ],
+            "headline": "From the Pennsylvania Gazette.",
+            "article": "PoTAToEs.-We recommend, from experience\nthe following directions for gathering and preserving\npotatoes, to all who desire to have them good.\nThere is another plan however, which might be\npractised upon a small scale, to have. few prime\nfor family in the spring, and that is not to\ngather the potatoes in the fall but to let them re-\nmain in the ground during the winter If the patch\nhe not flooded with water and the potatoes have\nbeen planted moderate depth, (and deep planting\nis always found to produce the sweetest potatoes,\nfew inches additional earth. or an equivalent OF\nlitter spread the rows, will protect them from\nfrost. Then take them up early in the spring, be-\nfore vegetation commences, and they will be found\nto possess. in an eminent degree, the sweet fresh\nness Of new potatoes.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1823,
+                    "y0": 4558,
+                    "x1": 2326,
+                    "y1": 4602
+                },
+                {
+                    "x0": 1685,
+                    "y0": 4614,
+                    "x1": 2468,
+                    "y1": 5247
+                }
+            ],
+            "bbox": [
+                1685,
+                4558,
+                2468,
+                5247
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-11-30_p1_sn83025530_00271740220_1827113001_0276.json"
+        },
+        {
+            "object_ids": [
+                19,
+                4
+            ],
+            "headline": "WASHINGTON IRVING.",
+            "article": "The Paris Constitutional preludes crltique Oh\nthe French translation Of Knickerbocker,' as foi4\nlows: \" Rallery is exiled from the literary world\nwe have given up joking. Cervantes Rabelais,\nSwift, Sterne, lie Sage, and more than all Votaires\nhave exhausted irony humanity no longer laughs\nshe bewails her miseries and her fobles. There is\ncry Of universal desoation, or rather Of rcvolts\nagainst remediable evils, ant, from which we might\neasily be spared. In the accession Of this grave\nmelancholy, there is also little conventional sad.\nness, habitude which forms the character Of tho\nage.\n\n\nThe transatlantic regions are better situated for\nmaking jokes at the world, and irony has found an\nasylum there. at least if one may judge from thia\n:. History Of New York.\" the best work Of the best\nwriter that the new world has as vet produced.\n\n\nThis jesting book, in which the sarcasm mounts\nup to the creation of the world. in which under the\npretext of writing the history of Dutch colony. the\nauthor parodies not only the great yanites but also\nwith scarcely any distinction. all human institutions.\nis work more singular than philosophc.\n\n\nWe take it very kindly Of the author that he has\ninundated on the same altar all the theposts WIN\nhave built up the world in their own way Herodo-\ntus and his patriarchal romancpgs modern hisori-\nans and their mnutely prolix details, the Scottish\npride of upstarts, who are absolutely determined to\nbe the descendants of Theseus, OF Hector, or of\nMelchisedec Still one would wish that iudicious\ndissertation on ancient civilization should not lead\nthe author to a satire of modern civilization, and\nthat man who bears the name of Washington\nshould not use his endeavors to eneeble the esteem\nin which Europe holds the country Of Washington\nand Franklin.\n\n\nLord Byron set high value upon this work on\naccount of its animated satire upon the manners\nand absurdties of of petty democracles this kind\nof irony is agreeable to oarisocratic tastes. of which\nhis genius was never entirely divested. In this re-\nspec MIR. Irving is less excusable. and may be just\nly reproached with having too often directed his\nsarcasms against virtues, which however simple,\nplain, and somewhat odd. are, nevertheless, always\nworthy of respect, and which shauld never have\nbeen quzzcd By an ,4mcricaa pen.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2641,
+                    "y0": 3416,
+                    "x1": 3096,
+                    "y1": 3460
+                },
+                {
+                    "x0": 2485,
+                    "y0": 3468,
+                    "x1": 3282,
+                    "y1": 5242
+                }
+            ],
+            "bbox": [
+                2485,
+                3416,
+                3282,
+                5242
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-11-30_p1_sn83025530_00271740220_1827113001_0276.json"
+        },
+        {
+            "object_ids": [
+                18,
+                5
+            ],
+            "headline": "AGENTS..",
+            "article": "CoNcoRp-Dr. Thomas Adams, P. Nj.\nBnIDGEy1LLE.--FIenry Cannon, P. NJ.\nMILToN.-Mr. Arthur Milby.\n\n\nFRANKroRp.-Mr. Isaiah Long\n\n\nDAasBoRouoH.-Dr Edward Dingle.\nGEoReE TowN.---Mr. Joshua S. Layton.\nLEwEs--H +. Rodney, P. Nj.\nMILFoRD.-Mr. Joseph G. Oliver.\nTREpERIcA-J. Emerson, P. NJ.\nCAMDEs.-Thomas Wainwright, T. M.\nDovER.-John Robertson, Esq.\n\n\nSMyRNA--Samuel II. Hodson, Esq.\nCANrwELLs BRIDGE.--Maulove Hayes, 2 nj.\nM1pDLETowN.--Thomas Harry, 2. M.\nSUMMIT BaIDGE.-John Clement, P NJ.\nWARWICK, Md.-John Moreton, p. Nj.\nSubscribers living in the vicinity Of the residence\nOf these Agents, may pay their subscription money\nto them they being authorized to receive it, and to\ngive receipts.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 322,
+                    "y0": 1730,
+                    "x1": 583,
+                    "y1": 1778
+                },
+                {
+                    "x0": 63,
+                    "y0": 1786,
+                    "x1": 847,
+                    "y1": 2539
+                }
+            ],
+            "bbox": [
+                63,
+                1730,
+                847,
+                2539
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-11-30_p1_sn83025530_00271740220_1827113001_0276.json"
+        },
+        {
+            "object_ids": [
+                16,
+                6
+            ],
+            "headline": "NOTICE.",
+            "article": "Persons wishing any sort ofPRINTtNs done, with\nneatness, accuracy. and dispatch ADVERTISEMENTS\ninserted, or SUBSCRIPTIONS paid where there are\nno Agents appointed in their neighbourhood TO re-\nceive them, will please apply, OF direct to r. Porter\nand Son, No. 81, Market Street, Wilmington.\n\n\nAll communications, not of the above character,\nto be addressed to NJ Bradford Editor of the Della\nware Journal, Wilmington.\n\n\nThis arrangement is made for the more regular\nand prompt execution of business.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 314,
+                    "y0": 1245,
+                    "x1": 565,
+                    "y1": 1289
+                },
+                {
+                    "x0": 45,
+                    "y0": 1297,
+                    "x1": 842,
+                    "y1": 1705
+                }
+            ],
+            "bbox": [
+                45,
+                1245,
+                842,
+                1705
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-11-30_p1_sn83025530_00271740220_1827113001_0276.json"
+        },
+        {
+            "object_ids": [
+                30,
+                35,
+                7
+            ],
+            "headline": "yTO. 81.\n\n\nGathering and preserving potatoes.",
+            "article": "Gathering and preserving potatoes.\n\n\nExtracted from the Transactions Of the Society\nOF Arts in London.\n\n\nThe usual mode at present practising for endeav-\ncuring to preserve potatoes is to leave them alter\ndigging, exposed 10 sun and air to dry. This ex-\nposure generally causes them to haye bitter taste;\nand may be remarked, that potatoes are never SO\nsweet to the palate as when cooked Immediately al\nter digging. find that when potatoes are lett IN\nlarge heaps pits in the ground, that fermentation\ntakes place which destroys the sweetest favour OF\nthe potatoes. In order to prevent that fermentation\nand to preserve them from losing the original hne\nand pleasant favour, my plan is, (and which expe-\nrence proves to me to have the desired edecD'to\nhave them packed in casks as they are digging from\nthe ground and to have the casks when the potatoes\nare piled in them, filled up with sand or earth, TAX\ning care that it is done as speedily possible and\nthat all spaces in the cask of potatoes are Sled up\nwith earth or sand the cask thus packed holds Az\nmany potatoes as it would were no earth or sand\nused and as the air is totally excluded it cannot act\non the potatoes, and consequently no Fermentation\ncan take place.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2922,
+                    "y0": 644,
+                    "x1": 3234,
+                    "y1": 731
+                },
+                {
+                    "x0": 2576,
+                    "y0": 826,
+                    "x1": 3122,
+                    "y1": 870
+                },
+                {
+                    "x0": 2459,
+                    "y0": 826,
+                    "x1": 3256,
+                    "y1": 1795
+                }
+            ],
+            "bbox": [
+                2459,
+                644,
+                3256,
+                1795
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-11-30_p1_sn83025530_00271740220_1827113001_0276.json"
+        },
+        {
+            "object_ids": [
+                36,
+                24,
+                8
+            ],
+            "headline": "10000 OR 90, GOO 1Bs. PoElyS\n\n'Nhe Columbian almanac,\n\n\nEOr 1S2S.",
+            "article": "\n\n\nContaining in addition to the usual Astronomical\nCalculations Tables, &c. the Courts OF the United\nStates, and of Delaware and Maryland; great va\nrlety of profitable and pleasing miscellaneous mat\nter, among which is\n\n\nA Sailors humorous ride in milk-cart,\nYankey resolution in saving the mail,\nIngenious defence of a thief,\n\n\nDreams and signs interpreted,\n\n\nMethod of un.narrying the unhappy,\n\n\nDefinition ofa Drunllard,\n\n\nA little world,\n\n\nOld maids, their unmentonable troubles,\nAccount of a novel courtshp,\n\n\nAnecdote of Paddy and his game cock,\n\n\nThe Irishman and his pig, &C. &c. &c.\nWonderful discoveries of the Microscope,\nHumorous account Of a Penn'a. Battalion pay,\nWashington's army saved by Quaker lady.\nOde to the govt, -\nRECEIPTS for curing the Gravel, curing Wens\nmaking candles, removing grease spots from clothes\nmaking vinegar, preserving pickles, preserving\nmeats, &c. sc. SC.\nThe above Almanac, with IN extensive assortment\nof others, German and English for sale by the Gross\nor Dozen, at the most reduced prices.\nNov r. PORTER s SON,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 71,
+                    "y0": 2547,
+                    "x1": 821,
+                    "y1": 2600
+                },
+                {
+                    "x0": 128,
+                    "y0": 3018,
+                    "x1": 790,
+                    "y1": 3119
+                },
+                {
+                    "x0": 67,
+                    "y0": 3118,
+                    "x1": 864,
+                    "y1": 4174
+                }
+            ],
+            "bbox": [
+                67,
+                2547,
+                864,
+                4174
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-11-30_p1_sn83025530_00271740220_1827113001_0276.json"
+        },
+        {
+            "object_ids": [
+                21,
+                9
+            ],
+            "headline": "CONDITIONS.",
+            "article": "TIE DELAW.4RE .TOUR.N.aL is pnb-\nlished on Tuesdays and Fridays, at four dollars\nper anuun.; tsoo dollars every sic alontAs IN ad-\nrance. No paper to be discontinued, austiL ar\nrearages are paid.\n\n\nAdvertisements inserted on the asuaL terms\nTis: One dollar for four insertions Of sieteen\nlines. and so IN proportion for ercry number Of\nadditional lines and insertions.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 253,
+                    "y0": 804,
+                    "x1": 652,
+                    "y1": 857
+                },
+                {
+                    "x0": 45,
+                    "y0": 865,
+                    "x1": 838,
+                    "y1": 1229
+                }
+            ],
+            "bbox": [
+                45,
+                804,
+                838,
+                1229
+            ],
+            "full_article_id": 10,
+            "id": "10_1827-11-30_p1_sn83025530_00271740220_1827113001_0276.json"
+        },
+        {
+            "object_ids": [
+                15,
+                10
+            ],
+            "headline": "ATLANTIC SOU VENlH\n\n\nTNR I223,",
+            "article": "Just received and for sale here, Ihc ltGnftc ooN'\nranir a beautiful Christmas and NewYears Pre-\nsent, handsomely boarded, with gilt leaves, and en-\nclosed in an elegant ornamened case. This - be-\n\n\neved to be one of the mos: splendid little WORKS o.\ntaste published in this country it contains -\nelegant engravngs descriptive Of Cats Kill tails n\nconderoga, Delaware Water Gap, Bournouese War\niior, Moonlight, &c. &c. &c. 80\nNov. s. r. PORTER son.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 162,
+                    "y0": 4190,
+                    "x1": 769,
+                    "y1": 4291
+                },
+                {
+                    "x0": 84,
+                    "y0": 4299,
+                    "x1": 868,
+                    "y1": 4676
+                }
+            ],
+            "bbox": [
+                84,
+                4190,
+                868,
+                4676
+            ],
+            "full_article_id": 11,
+            "id": "11_1827-11-30_p1_sn83025530_00271740220_1827113001_0276.json"
+        },
+        {
+            "object_ids": [
+                28,
+                40,
+                11
+            ],
+            "headline": "LOVE.SICk WILLY.\n\nOne Willy Wright, who kent store",
+            "article": "One Willy Wright who kept store,\nBut nothing kept therein,\nSave earthen jugs and some few kegs\nof whiskey, ale and gin,-\nGrew sick, and often would exclaim,\nOh how my heart does burn!\nAnd ev'ry week he poor man lived\nlie had peakiy turn.\nNV when they saw him thus decline,\nSome said that death must come;\nSome wondered what his all could be,\nSome sad his ale was rum.\nhtlast the very cause was known\n\n\nOf every pang he felt\nRemote, at one end of the town,\n\n\nMiss Martha Townsend dwclt;\nportly love-resising dame,\n\n\nContemptuous, proud and haughty;\nBut yet, though \"fat and forty\" too,\nShe was not two and-forty.\nAnd Willy long had sought and sighd\nTo gain this pretty maid\n'Ihave no trade said he, $50 sure.\nMy love cant be be.tray'd'\nTo Martha then he trembling went,\nAnd said, MY dear, 'tis true,\nThough have nothing in my store,\nIve love in store foryou.\nAnd if thou wilt thou may'st become\nBut here his tongue was tied;\nAnd though she ufited yet she said\nShe mere would be his bride.\nThen TURNING Willy out of doors,\nSaid she, Go, so along;\nIllate the man who's always Wright,\nYet always doing wrong.'\nIl leave you them said he, farewell\nOF peace Pm now bereft--\nIf am always Wright and wrong,\n\n\nYou must be right, and left ,\nSo then he closed his little store,\n\n\nShut up each door and blind,\nAnd settled his accounts and died,\n\n\nAnd left Ho will belind II",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1084,
+                    "y0": 808,
+                    "x1": 1405,
+                    "y1": 853
+                },
+                {
+                    "x0": 906,
+                    "y0": 860,
+                    "x1": 1413,
+                    "y1": 896
+                },
+                {
+                    "x0": 893,
+                    "y0": 860,
+                    "x1": 1565,
+                    "y1": 2375
+                }
+            ],
+            "bbox": [
+                893,
+                808,
+                1565,
+                2375
+            ],
+            "full_article_id": 12,
+            "id": "12_1827-11-30_p1_sn83025530_00271740220_1827113001_0276.json"
+        },
+        {
+            "object_ids": [
+                37,
+                17,
+                34,
+                12
+            ],
+            "headline": "HEM\n\nVIRGINIA SOCIETY FOR THE PROMOTION\n\n\nOF TEMPERANCE.",
+            "article": "HeSofhf10nS Gdopte6 al MeaT meeunS-\n\n\nI. Resolved, That this Society regard the intem-\nperate use of spirtnous liquors as the most gene\nraj and the most deadly evil which ailcts our land\nand that, in our opinion, it now becomes the solemn\nduty of all the temperate and viruous part of our\ncommunity to make united, RATIONAL vigorous and\npersevering effort to arrest its progress.\n\n\nQ. RESOLVED, That in the opinion OF this Society,\nto eloc drunkard, either to make laws, or, to ex-\necue them, when made, s, virtually, not only to\nlegahze but to honor crime-to break down the bar\nrier which Reason, Truth and Scripture have fixed\nbetween virtue and vice--and to lay the axe at the\nvery root Of the Tree Of Liberty.\n\n\n3. Resolved, That in the estimation Of this SocIe-\nty, the employment of drunken servant-a drum\nken mechanc--a drunken schoolmaster or an in\ntemperate physician, without necessity. and merely\nbecause such may be obtained, upon cheaper terms\nthan such as are sober and Industrious, is to crafty\navarice at the expense of moral principles to ex-\nercse and indulge narrow, selfish disposition, in\nthe place of that heaven-horn benevolence which\nconsults the good ofthe 70holc community.\n\n\nA. Resolved, That, we esteem it good rule and\nworthy Of universal observance. for every minister,\nwhen called to preach funeral sermon to let it be\ndistinctly understood. as condition. that no splrtu-\nGus liquor be used on the occasion.\n\n\n5. ResolUcd That il be recommended to the fe-\nmale part of the community to dscountenance and\n| frown from their social circles all young men who\nare frequently known to be in state of intoxlca-\n\n\nton, and to look aYitt suspicion upon such as tona\nof strong drink.\n\n\n6. Resolyed. That we view, with the deepest re-\nGret, the erroneous conduct of those parents who\ntrain up their children to the regular, habtuaI uee\nof strong drink The wisest OF men hath said !;\ng Train up child in the way he should go, and when\nhe is old he will not depart from it.\" IT tins be\ntrue as general rule when children are trained 10\nsobriety, industry and piety how much more may\nthose parents who train up their children, by pre-\ncept and example, to believe, that the habtual use\nof strong drink s essential to their health and COM\nfort expect that the habit uiH become second ma\nt,.re that the chains put on, in infancy, and worn\nwith ease and without suspicion, to manhood VIII,\nin old age if not before, bind the victims to iniamy\nand death.\nRI T. Resolved, That we recommend to all gonng\nministers, who desire that their instructions and\nwarnings against the sin of drunkenness may have\nthe desired effect, to abstain altogether from the\nuse of spurious liquors.\n\n\nChcsnpeoke and Delauarc Canul.--Thc Phi'adel-\nuhia National Gazette furnishes the following no.\ntice of the present condition of this Canal The\nthree sections through the marshes from the Deia-\nware river to ST. Georges about four miles in length.\nare filled with water nearly as high MS the common\nhigh water of the river, and an active navigation\nalong it in sloops and scows for the purposes of the\nCanal is carried on ; dredging machine is employ\ned in excavating such parts as arc not to the full\ndepth of ten feet the towing path embankment\nThrough the marsh has ceased to sink, and appears\nTO stand perfectly firm; the south guard bank, OF\nwhich the sinking was so rapid and extensive, and\n, 1.-THE extra expense so great, will be completed it is",
+            "byline": "Resolutions adopted at their meeting.",
+            "bbox_list": [
+                {
+                    "x0": 1533,
+                    "y0": 2322,
+                    "x1": 1634,
+                    "y1": 2366
+                },
+                {
+                    "x0": 863,
+                    "y0": 2409,
+                    "x1": 1655,
+                    "y1": 2505
+                },
+                {
+                    "x0": 984,
+                    "y0": 2512,
+                    "x1": 1543,
+                    "y1": 2548
+                },
+                {
+                    "x0": 867,
+                    "y0": 2525,
+                    "x1": 1673,
+                    "y1": 5216
+                }
+            ],
+            "bbox": [
+                863,
+                2322,
+                1673,
+                5216
+            ],
+            "full_article_id": 13,
+            "id": "13_1827-11-30_p1_sn83025530_00271740220_1827113001_0276.json"
+        },
+        {
+            "object_ids": [
+                29,
+                23
+            ],
+            "headline": "Super-royaI Paper.",
+            "article": "The subscribers Keep constant supply 9fSuper\n-oyal such this paper IS printed on, price 50 80\niso Medium and other printing and 7sritiag papers.\nSep. II. r. PORTER q son.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 167,
+                    "y0": 4917,
+                    "x1": 808,
+                    "y1": 4992
+                },
+                {
+                    "x0": 93,
+                    "y0": 4999,
+                    "x1": 877,
+                    "y1": 5156
+                }
+            ],
+            "bbox": [
+                93,
+                4917,
+                877,
+                5156
+            ],
+            "full_article_id": 24,
+            "id": "24_1827-11-30_p1_sn83025530_00271740220_1827113001_0276.json"
+        },
+        {
+            "object_ids": [
+                25
+            ],
+            "headline": "",
+            "article": "PRINTING OF ALL KINDS DONE WITH NEATNEss\nAND DESPATCH, AT THE OFFICE OF THE JOURNAL",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 102,
+                    "y0": 5181,
+                    "x1": 877,
+                    "y1": 5264
+                }
+            ],
+            "bbox": [
+                102,
+                5181,
+                877,
+                5264
+            ],
+            "full_article_id": 26,
+            "id": "26_1827-11-30_p1_sn83025530_00271740220_1827113001_0276.json"
+        }
+    ]
+}

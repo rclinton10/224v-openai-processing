@@ -1,0 +1,679 @@
+{
+    "lccn": {
+        "title": "The Litchfield County post.",
+        "geonames_ids": [
+            "4837799"
+        ],
+        "dbpedia_ids": [
+            "Litchfield%2C_Connecticut"
+        ],
+        "issn": "",
+        "lccn": "sn82014309",
+        "start_year": "1826",
+        "end_year": "1829",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [
+            "sn84020071"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn82014309",
+        "edition": "ed-01",
+        "date": "1827-06-14",
+        "pages": [
+            "seq-4",
+            "seq-2",
+            "seq-1",
+            "seq-3"
+        ]
+    },
+    "page_number": "1",
+    "scan": {
+        "lccn": "sn82014309",
+        "edition": "ed-01",
+        "date": "1827-06-14",
+        "page": "1",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-06-14/ed-1/seq-1.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-06-14/ed-1/seq-1/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-06-14/ed-1/seq-1/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/ct_barnum_ver01/data/sn82014309/00414182926/1827061401/0193.jp2",
+        "height": 7278,
+        "width": 5019
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2054,
+                "y0": 5947,
+                "x1": 2936,
+                "y1": 7023
+            },
+            "class": "article",
+            "raw_text": "Accidentally taking up number of the '' City Gazette,\" published five and twenty years ago, my attention was fixed by certain names once familiar to my sight and read the whole with deeper inter- est, and more solemn emotion, than ever supposed an old newspaper could possibly inspire. The various classes of fsociety, as they lived and moved and had their being in 1902, passed in review before me; and in relation to each the question occurred with increasing interest, our fathers, ,Dhere are they?\n\n Where are those eager aspirants after wealth, those restless votaries of commer- cial enterprise who five and twenty years ago, thronged these streets and wharves, and toiled in these slores with untiring per- severance Seek them in their favorite places of resort. Alas, you seek them in vain. Only here and there one, like sol itary grapes when the vintage is done, lin.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2094,
+                "y0": 5839,
+                "x1": 2897,
+                "y1": 5937
+            },
+            "class": "headline",
+            "raw_text": "From the Charleston Observer. FIVE AND TWENTY YEARS AGO.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1133,
+                "y0": 4440,
+                "x1": 2032,
+                "y1": 7034
+            },
+            "class": "article",
+            "raw_text": "From Flints Ualley of the Mississippi.\n\n \"We continued to float on through this deep and inundated forest when at right an- gles to our course we discovered another O. pening. It was the Arkansas, moving on with majestic current of waters, of the col our of anattO dye. This is next to the Missouri, and from it's mouth, by its mean- ders to the mountains, is commonly compu- ted about 2,00O miles. Its course has been traced in these mountains at least 500 miles, and it is believed that the source of the Ar kansas has not yet been explored by our peo- pie. One singularity distinguishes this river from any other in the United States. Where it winds along among the mountains, all agree that it is bread and deep river, and carries a great volume of water. But no sooner does it emerge from the shelter of woods and mountains into a boundless and arid plain, composed to a great depth of quicksands, than it begins to disappear ; and in hundred miles from the very elevated mountains, near which it enters upon the plain, it iSfordable during the Summer. Still lower down it is d stream, according to the well known phrase of the country, \" sunk in the sand ;\" that is, 1t trickles amidst the banks of sand and peb- bles, so as, in many places, to exhibit dry channel of burning sand from bank to bank.\n\n Here, on these vast sandy plains. which will for ages be the Syrtes of America, the home of eks and buffaloes, are the wild fields of those rich native grapes, that aE travellers in these regions, ve>spoken of in terms of such admiration. They are said to be cenic- al in shape, large, of a beautiful blue, and transparent. The driving sands rise around the stem, that advances still above the sand. This sand performs the best office of pruning, covering the superfuous growth and foliage, indicating no wounds, and affordng good method of ripening the clusters in the his hest perfection by the reflection of the sun from the sand In the expedition of Major Long, the exteme sweetness of these grapes is re- corded, and other travellers have borne the same testimony. They speak of vast tracts covered with these rich clusters. shall have occasion elsewhere to speak of this native grape, which is so much extollsd in the in- terior provinces of Spain. They are com mon through the plne woods of Louisiana & known by the name of the pine woods grape. ftrg ... ....,. -l..-....-..\n\n This grape ripens in June. It would prob ably be an admirable grape t. cultivate. There are, alsn. varieties of autuInpal grapes, and",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1156,
+                "y0": 4349,
+                "x1": 1987,
+                "y1": 4436
+            },
+            "class": "headline",
+            "raw_text": "THF ARKANSAS, ITS GRAPES, AND CY-\n\n PRESS SWAMPS.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -2
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 1184,
+                "y0": 4446,
+                "x1": 1617,
+                "y1": 4470
+            },
+            "class": "author",
+            "raw_text": "FrOnl FZlNt'S 1j1ZZe1I 0",
+            "legibility": "Illegible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3851,
+                "y0": 4901,
+                "x1": 4762,
+                "y1": 7017
+            },
+            "class": "article",
+            "raw_text": "PHILADELPHIA, MAY28. Militia Muster.--Milita far, commonly called Battalion day. was duly soemnized at Orwisburg, in this county, on Wednesday last. Those of OHr readers who have not wit messed these gatherings, must be informed it is festival of no small magnitude The whole country is gathered together, men, wo-\n\n men, boys and girls, old and young, meet and dance, romp, drink, fight, and \"cut up high.\"-Labour of all kinds is suspended, villages and hamlets are vacated, & every soul whether subject to military duty or not. if capable of shaking a leg, trudge of by dawn of day, dressed in their best, to the place of rendezvous, which is usually one fthe prin- ciple towns. It may be remarked there are generally quite as many women present as men, and three times as many spectators as soldiers. In fact, soldering has very little to do with the matter. Discipline, order. and subordination are by common consent banish- ed from the field and lost in the din of shoot ing, hOoting, drinking and dancing. The people gather together for \"a frolic\"-.. a re- al tear down frolic. and they are determined, to have 1t. and have it they do and wlll. Im- provement in military science and tactics, is no part of their concerns and is as little attend ed to as the last Sundays sermon. .S\n\n AwOrd ortwO descriptive of the mode of proceeding on these Battalion days may not\n\n be uninteresting to some of our readers. The first thing heard in the morning is the random firing ofguns. scrapins of fddles, and boister- ous mirth and congratulations of the yo,,De\n\n rustics. By seven or eight o'clock the Hep-\n\n sesn commences. The following is the pro.\n\n cess. Each tavern is provided with one or\n\n more iddlers. Each lad with a sweetheart. a wife, or locum te''ens. The dance is three or six handed reel. A gentleman asks two others, to join him, they pay the fiddler a l\"tp' or a sstepg, and go to work with most laudahle zeal and industry. The fiddler plays asif his. life depended upon despatch. and ac- companies his elbow with his foot in most\n\n audible rops upon the floor. hy way of keep",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 3942,
+                "y0": 4827,
+                "x1": 4665,
+                "y1": 4890
+            },
+            "class": "headline",
+            "raw_text": "Pennsylvania Militia Training !",
+            "legibility": "Questionable",
+            "full_article_id": 3,
+            "reading_order_id": -2
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 4226,
+                "y0": 4901,
+                "x1": 4608,
+                "y1": 4942
+            },
+            "class": "author",
+            "raw_text": "PHILA DELPHIA, MA",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 212,
+                "y0": 921,
+                "x1": 1111,
+                "y1": 1974
+            },
+            "class": "article",
+            "raw_text": "10 subscribers in Mis village, and subscribers Oy nsGi or by post carriers, TWO DOLLARS per gear, payable in advance. To companies less than Ten, by n'dii, or taken from the c6fce, where thereis joint responsibility, or achere one i,idividuaIis responsible, S1,5O per gear, in ad- C0nce. To tike componies of more than ten, S1, 25 per gear, in advance.-Where payment IS de- lGyed to the end of tue gear g cts. aOiU De added to each ef the dboUe prices.\n\n No papers i0iN De discontinued until au dr- reorages are paid. ercept at the discretion o the publisher. ....,. ...--s.\n\n ADVERTISING.\n\n For hGlf square, three insertions, or Jess, 75 cents ;-more than h0!f square, and less tha'' square, e7 1-2 cents ;--.tOr one square, S1 ,00 and ie tue some proportion for more than q square; for continuing advertisements more than three aceeks, % per cent per sCeek 0i be charged\n\n B PROBATE NOTICES.\n\n Administrators and ErecUtors' Sl,OO Commissioner S1,2J",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 269,
+                "y0": 699,
+                "x1": 1077,
+                "y1": 836
+            },
+            "class": "headline",
+            "raw_text": "BY S. s. SMITH, EDITOR AND PROPRIETOR.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -2
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 536,
+                "y0": 869,
+                "x1": 804,
+                "y1": 916
+            },
+            "class": "headline",
+            "raw_text": "TERNTS,",
+            "legibility": "Illegible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1133,
+                "y0": 750,
+                "x1": 2032,
+                "y1": 4310
+            },
+            "class": "article",
+            "raw_text": " slaves, the greater part prisoners taken in the Greek war. The circumstances of this affair having produced general sensation and sym pathy throughout the city, had penetrated within the walls of the Arsenal and the pris- oners, when brought there, were kindly well comed by the poor Christian slaves, who went in a body to the Aga and officers, to beg that they might be kindly treated, and not put to severe labor. In consequence of this media ton they passed the two first days unmOest- ed :; but after this, several Jews came, and among them the father and intended father in-law of the young man, who, after another frHtless attempt to bring them back to Juda- ism, went and gave considerable sum of money to the officers of the prison, to put them to hard labor, and to beat and torment them. They suffered severely under this persecution for Eve or six days until the mat ter coming to our knowledge, our Ambassa- dor was so kind as 10 send lis dragoman,and, by his representations, to procure cessation of this cruel and wanton treatment, and the weight of their chains was diminished one half; although, being still in the class ofchain- ed prisoners, they have continued to labor with the rest. A few days ago, two of them were thrown down and bruised in working at large wheel, used for raising the masts, and\n\n \n\n accident to which two men had previously been killed before their eyes. They are now however, recovered from their bruises, and will not, l believe, be hencef6rth employed in similar works. The father of the young man has been indefatigable in his endeavors to re- cover his son, and has repeatedly come to the prison with his mother and relations, per- suading and entreating him with tears to re- turn to them, and promising him every thing he could desire but he has constantly re. pulsed them, telling them to lay aside all hope of changing his resolution :. that Jesus Christ was now his father and mother; that he pre- terred his chains with Christ, to all they could offer him; and that when they renounced their errors and became Christians. he would then acknowledge them as his relations. A. mong other encouragements they have had in their trials, have been messages from some of their Jewish friends without, who partake in their sentiments, exhorting them to stand firm, m,sayng that they glored in their fortitude, and that their own hope was in their perseve- rance. trust, indeed, may say with truth, that they have conducted themselves like true Christians; and it has been remarked.that the faith and love to Christ shown by these new converts, may put to shame those who have long borne the Christian name. When in the nclshl ol tneir SuneFihgs' tney prOIesseO themselves ready to die for the love of Chris., and said their. Saviour taught them that if their enemies took away their life, this was all they could do,and that they hoped their souls would be happy with him for ever. Their Christianity is indeed the work of the New Testament; and the members of the Bible Society may rejoice over their conversion, as the fruit, under God, of their eXertiOns in the circulation ofthe Scriptures. l have no doubt, at the same time, that they derived great ben eft from the instructions of Mir. Hartley, both before and during their concealment, who. a few days after their sentence was passed took his departure for Malta, in consequence of letter which he received from England, and left them to my care.\n\n *Who had been seized for harborng some of these Yo1yo offo tha hoI ool Nh.:,t",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 212,
+                "y0": 2058,
+                "x1": 1117,
+                "y1": 7040
+            },
+            "class": "article",
+            "raw_text": "I'heir constGncy under seveTe persecution.\n\n Some weeks since, we gave an account of seven Jews in Constantinople, viz. Chain Castro; his brother Menahem Castro, Jacob Levi, Mentish Baruch, Missim Cohen, and David Bechas, Ia Rabbi,) who had embraced the Christian faith; all of whom were seized about the first of Dec. 1926, and thrown into prison,-the seventh accepting the alternative which was offered to them all, of returning to Judaism. In the Jewish Expositor for April, we find a letter from the Rev. J. D. Leeves, Missionary in the Mediterranean. containing some further and more recent particulars, un- der the date of Jan. 5, 1927. t\n\n N. Y. Obs. B C1sron.\n\n After their seizure, the Jews had used all their influence to obtain the execution of one Ofthem. Sentence of death was passed upon Chain Castro, by the Grand Rabbi and his three assisfarts and petition was presented to the drasoman of the Porte, (himsef for merly Jew.) offering large reward if he would obtain for them it's being carried into ef feet. We demand\" they said, \"the death ofthis accursed man, whose blood be upon us.' This circumstance is the more remarkable, as the Jews never allow, if it be possible to pre- vent it, any one of their nation, whoever he may be, or whatever crime he may have been guilty of, to be put to death by the Turks To prevent this, their national purse is always open, and thousands and thousands of piastres are given on such occasions. Here, however, was crime similar to that which our Saviour and his apostles had committed and they were prepared to avenge it with a similar blindness and obduracy. May the veil, ere long, be taken from their hearts! and I trust in God that the time is rapidly approach ing\n\n The dragoman of the Porte. to his honour, refused to dip his hands in innocent blood and, in a conversation with Mir. Hartley com pared their conduct tO that of their forcfa- liners before Pilate and all that their interest and money could effect, was to obtain a sen- tence that they should be sent to the Bagnio, the prison of the Arsenal, for the term of six months.\n\n During this critical interval, between the first of fDecember, the day of their apprehen- sion, and the 7th, when they were committed to the Bagnio, which they passed at the pris on of the Porte, they were cut off as much as possible, from all intercourse with their friends, aud were assailed by the Jews with every kind of temptation to renounce their faith.- A full pardon and immediate deliverAnce were promised them if they returned to their old religion and death was held out to them as the consequence of their perseverance. The young man was the principal object of these assaults, whose father, now returned from A. drianople, and intended father-n-law, Qor though so young he was already affanced in marriage, and the dowry paid,) left no means antyied to reclaim him. He has however shown, throughout, an admirable frmness, and al lively zeal {; nor does he appear to have had more than one moment of weakess du- ring the whole course of his severe trials.- This was shortly after his apprehension, when he was assured that if he returned to his pa rents and old religion, he would not only se- cure himself from punishment, but that this would be the only means of saving the Ar menians and his two friends ;--turning to whom he said,.' For your sakcs must yield\" They, however, exhorted him not to be de- cciyed by the professions of the Jews, but to stand firm and, that, Unnecessary, they would all die together. His courage was immediate Iy restored; and he has ever since, by his example, been the main support and encour- agement of the little band. On one occasion, especially. their fortitude was put to the test; for the Jews, seeing they could not wolk up- on them by promises, had it finally announ- ced to them, that their fate was sealed. and that the next morning they would be led out to execution. Thus, for whole night. they tdA uI0 S1c\" VT ucdth OeIOTe uicH cyCS\n\n and they spent it in reading the New Testa- ment with weeping and prayer. Two other Jews were left in prison with them, whom the bookbinder Chaim Castrol reproved for their unbelief in the Messiah. exhortng them to follow their example, and become martyrs for the name of Christ. These Jews, unmo- ved by their behavior and exhortations. wrote to the Rabbis. to inform them that there was no hope of their ever returning to the Jewish religion, and that the only course to be pursued with them was to get-th put to death.\n\n The punishment of the prisoners in the Bagnio consists in being chained, two and two, with heavy chains, and employed in the la shorious works of the Arsenal, under the su- perlntendence of the Turkish guards, who beat them ifthey do not perform the task to 'heir Gking. There are about 700 persons 1T",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 286,
+                "y0": 1995,
+                "x1": 1043,
+                "y1": 2053
+            },
+            "class": "headline",
+            "raw_text": "JEWS IN INCoNsTANTINOPLE.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -2
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 280,
+                "y0": 2063,
+                "x1": 1043,
+                "y1": 2110
+            },
+            "class": "author",
+            "raw_text": "Their consistency under seuere persecution",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2037,
+                "y0": 699,
+                "x1": 2936,
+                "y1": 5942
+            },
+            "class": "article",
+            "raw_text": "\n\n wonderful accounts are given of the immense quantities of grapes that ripen on the sand 1 plains of the sources of Red River. The hunters assert that they are richer than any cultivated grape. l At distance of mile or two from the river, there are, at first, thick cane brakes, then series of lakes, exactly resembling the ] river in their points and bends, and in the colour of its waters. ThesesIakes are cover ed with the large leaves, and in the proper { season, the nymphen nelumbo,' the largest 1 and most splendid flower I have ever seen. I have seen them the size of the crown of hat ; the external leaves of the most brilliant white and the interior of very beautiful yellow. These lakes are SO en- ] tirely covered with the conical leaves, of the size of parasOl, and a smaller class of aquatic plant, of the same form of leaves, 1 but with yellow flower, that bird might walk sfrom. shore to shore, without dipping its feet in water; and these plants rise from all depths of water, up to ten feet. 1 Beyond these lakes there are immense swamps of cypress. which swamps consti- stitute vast portion of the inundated lands otthe Mississippi and its waters. No prospect on earth can be more gloomy. The po- etic Styxs or Acheron had not greater union of dismal circumstances. Well may the cypress have been esteemed funeral and lugubrious tree. When the tree has shed its leaves, for it is deciduous, cy- press swamp, with its countless interlaced 1 branches, of hoary grey, has an aspect of desolation and death, that often as have been impressed with it, cannot de- scbe. In Summer, it's fine, short, and ] deep green leaves invest these hoary branches with drapery of crape.\n\n The water in which they grow is vast dead level, two or three feet deep, still leav- ing the innumerable cypress \" knees,\" as they are called, resembling circular beehives. l throwing their points above the waters. This water is covered with thick coat of green matter, resembling green buff velvet. The mosquitoes swarm above the water in count less millions. A very frequent adjunct to this horrible scenery, is the moccassin snake, with his huge scaly body, lying in folds upon the side of a cypress knee and if you ap- proach too ncar lazy and reckless as he is, he throws the upper jaw of his huge mouth al- most back to his neck, giving you ample warning ofhis ability to defend himself travelled forty miles along this river swamp, and a considerable part of the way on the edge of it in which the horse sunk at every step, half way up to his knees. was envel- oped for the whole distance with cloud of mosquitoes. Like the ancient Avernus, do not femember to have seen a single bird in the whole distance, except the blue jay. Nothing interrupted the death like silence, but the hum of mosquitoes. 1, There cannot be well immagined another l feature to the bloom of these vast and dismal forests, to finish this kind of landscape more in keeping with the rest, than the long moss, or Spanish beard. This funeral drapery at taches itself to the cypress in preference to any other tree. There is not, that I know, an object in nature which produces such a number of sepuschral images as the view of the cypress forests, all shagged, dark, and enveIoped in the hanging festoons of moss. If you would inspire an inhabitant of New England, possessed of the customary portion of feeling, with the degree of home sickness. which would strike to the heart, transfer him instantly from the hill and dale, the bracing air SU~Varied scenery ofthe north, to the cypress swamps of the south, that are covered with the long moss.\n\n This curious appendage to the trees is first visible in the cypress swamps at about SS de- grees and is seen thence to the Gulf. It IS the constant accompaniment of the trees in deep bottoms and swampy lands, and seems ! to be an indication of the degree of humidity in the atmosphere. Ihave observed, that in dry and hly pine woods. it reappears as you approach bOttOmssatreams, and swamps. have remarked, too, that where it so com pleteIy enveIops the cypress, as to show no- thing but the festoons of the dark grey moss, other trees are wholly free from it. It seems less inclined to attach itselfto the cotton wood tree, than to any other.\n\n This moss is plant efthe parasiticai spe- cies, being popagated by seed, which forms in capsule that is preceded bya very min ute but beautiful purple flower. Although, wheh the trees that have cast their leaves are covered with it. they look as if they were dead, yet the moss will not live long on dead tree. It is well known that this moss, when managed by process like that of preparing hemp or flax, separates from its bark, and the black fibre that remains is not unlike horse hair, elastic, incorruptble, and an admi- rable and cheap article for mattresses. of which are formed most of the beds of the Southern people of this region\"\n\n From the Charleston Observer.\n\n FIVE AND TWENTY YEARS AGO.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3851,
+                "y0": 739,
+                "x1": 4767,
+                "y1": 4816
+            },
+            "class": "article",
+            "raw_text": "more than two minutes; its temperafure was that fan oven, issuing an intense and sufocating smell; on removing some of this coal, the heat became so great, as not to be touched by the hand a piece of it was put on a white cotton pocket hand kerchief, which was completely singed as if burnt by heater matches were made of birthstone melted by the heat of the coal, which were tried, and found to ignite on applying them to the Assures from whence the steam issues. On removing more of the external rubbish, 1t gave fresh vent, & the fire was distinctly seen underneath, so that pipes were lighted from the coal itself without the assistance of match: anoth- hole was dug about feet distant from the principal cavity, creating fresh current of air, and piece of furze took fire on being applied thereon. In placing the hand in cavity which could only be borne for the space of half minute, it was quite dripping with the effects of the steam and the appearance of those cracks are quite steamy; several pipes of tobacco were easily lighted by the matches, on their being applied to the hot substances produ- ced. A species of sulpureous coal is con- sidered to be on fire at a considerable depth, and of great extent, thereby render- ing 1t hollow underneath, consequently. due caution must be observed on approaching to view it; the cavities are overhung by large pieces ofblack stone and earth, Sd that laundering of it might prove fatal to spectators some of this mass has already foundered into the cavities from whence the steam comes. lr-a\n\n Williams CoHege.-The Board of Trustees of this Institution, at their late meeting, established Professorship of Mo ral Phylosophy and Rhetorick,to which MT Porter, Professor of Languages, was trans ferred. Mr., Kellogg, Professor of Math- ematics and Natural Philosophy, was transferred to his former department, the Languages. Mr. Sylvester Hovey, late Tutor in Yale College, was elected Pro- lessor of Mathematics and Natural Phy- losophy. The department of Chemistry and Natural History will be for the pres ent supplied by Lecturer. The Board appropriated a sum sufficient to establish a Gymnasium, which it is expected the Fac ulty will put into immediate operation. They also voted, that hereafter, the Ben- eficiaries of any charitable Society or Ec- clesiastical Body shall be at no charge for tuition in this College.-Am. Aduocate.\n\n Glutteny.--There exists, at present, in Prussia, according to the report ofthe phy- sician Grafe, \"a remarkable instance ofebesi- ty, in the person of butcher, named Trou- cher. Up to the age of 30 years he was there, and at that time he was great dan- cer.-On his retutn from journey which he made to Russia, he was seized with devouring appetite, especially for animal food. He once gained wager that he would eata whole calf in 24 hours, merely cooked with water and salt. His voracity, seconded by extraordinary digestive pow CTS, made him attain, at the age of 57, so excessive fatness, that he could neither sit down nor stand upright. Dr. Giraffe, whom he called in, found him in imminent danger Justification. Frequent bleedings Goulard,s Lotion, extracts of helladonum, repeated Iaxatives, and rigidly vegetable diet, reduced in six months from forty to sixty stone, the weight of this living column of fat, and he is now in a condition to ate tend to his ordinary business.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2947,
+                "y0": 4110,
+                "x1": 3841,
+                "y1": 7023
+            },
+            "class": "article",
+            "raw_text": "sheep into boat, in order to pass deep place to where water was more shoal. The boat was upset; 3 swam to the shore the other four, after struggling awhile sunk to rise no more. The father of one of the young men in the boat, stan- ding on the shore, and seeing his son stsuggling for life, plunged in to his assist ance, but being advanced in years, and having all his clothes on, was unable to reach his son, and was soon seen sinking into the same watery grave. The persons who have been thus suddenly and awfully summoned into eternity, arc Deac. David Lyon, aged 6s; his son aged 19; Mir. Arnold Drake, aged about 30; and two sons of MT Eli Gray, Jr. one in his 14ht & the other in his 18th year. The two first have left each wife and children to mourn their loss.\n\n The scene that occurred when the wid- ows, children, brothers, and sisters of the deceased entered the room where their lifelcss remains were strewed, cannot be described. A shock of the most appalling kind has settled upon the people of the town. The hand of the Lord has touch- ed us, and may it be sancti6ed to our ev- erlasting benefit. \".\n\n On Saturday, while Mir Douglass and his wife were attending the funeral ofthe a. bove named persons, a daughter of MT. D. aged II years, was left in charge of other children, in attempting to get out of a win dow, was killed by the falling ofthe sash, upon her neck. A boatman was drowned at Milier's Falls on Sunday last.-Greenfeld Gag. WEYMOUTH, (EEG.) MARCH 27.-\n\n Interesting account of e Burning HiU.- The smell has been remarked, for 2 or 8 years past !; steam began to issue forth a. bout months since, at ten or more differ ent points, in the space of fvo yards in length, about 50 feet above the level of the sea, where it now continues on more ex- tended scale, with an occasional appear- ance of fire below the intcrstices of the rocks. Ilhas been remarked, that at spring tides, the eff1uvia emitted is much moro sul- phursous and disagreeable than at other periods. The heat is now such as to kin- dle fire and as the proof of it, bird (shot near the spot) was literally roasted Ethere, of which, the party partook. On clearing away some of the external rubbish and digging about three feet downwards, a strata of coal appeared, and so hot lthat it was impossible 10 stand thereon for",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 3026,
+                "y0": 3889,
+                "x1": 3761,
+                "y1": 3947
+            },
+            "class": "headline",
+            "raw_text": "DIsTRES Ss1NG PROVIDENCE.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2953,
+                "y0": 744,
+                "x1": 3841,
+                "y1": 3861
+            },
+            "class": "article",
+            "raw_text": "BSIS ueninQ put Lne multitude IS gOhe1 and the places that once knew them, know them no more. Their labours after riches are over. The fluctuations oftrado affect them not. Their hearts no longer throb with emotion at the news of the day. Prices may rise or fall-the tide of com merce may ebb or flow, without disturbing them.-They are laid in the grave, and have left their wealth to others.\n\n Where are the favorites of fortune, the envied and fattered objects of popular ad- miration, who occupied the ,hig gh places of the earth, and who proudly deemed them- selves immeasurably eleyated above com- mon mortals ? They haR9 passed through mighty changes. The naughty spirit has been subdued. Aff1ic6on has long since taught them the humkling lesson of weak ness and dependence, We may go now to their graves aud Earn how vain and transient is worldly greatness, how short tiOnS of mortals.'\n\n And where are the restless aspiring spirits, who five and twenty years ago, were urging their passage up the steep as cent of ambition--pressing forward with panting eagerness in the race of profess sional rivalship-> who devoted all the en- orgies of their minds, and the incessant toll of their best years; to the acquisition of popular tavor-who fixed their undivid- ed hearts upon reputation, influence, and office : as if there was nothing else in the universe so valuable. Trace their toil- some course, and learn their brief impress sive history. The conflict of superiority is long since over. Their ardent aspira- lions after fame are no more. Their la bofious career has terminated. Some of them were splendidly successful. They reached the proudest elevation, and seem ed to all but themselves singularly happy. But whether fortunate, ,or otherwise, is now with most of them of small moment; for their successes or disasters have sunk with them to the grave. And the survivors, like solitary oaks, which have withstood the sweeping tempest, prostrating all be- side, are only regarded as the scattered remnant of generation which has passed away.\n\n Alas, how far is the present generation from realizing that the coming five and twenty years will effect the same changes, and will conduct to the grave an equally vast majority of those who are now in ac- tive life, with the same period that is past. Yet such will doubtless be the mel aucholy fact; and newspaper of the present day will, in the year 1852, present to survivor efthis generation, an equally affecting memorial ofthe almost universal triumph of mortality. sENEx.",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 1139,
+                "y0": 4241,
+                "x1": 2010,
+                "y1": 4333
+            },
+            "class": "article",
+            "raw_text": "*Who had been seized for harboring some of thes, Jews after they had embraced Christianity.",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                7,
+                0
+            ],
+            "headline": "From the Charleston Observer. FIVE AND TWENTY YEARS AGO.",
+            "article": "Accidentally taking up number of the '' City Gazette,\" published five and twenty years ago, my attention was fixed by certain names once familiar to my sight and read the whole with deeper inter- est, and more solemn emotion, than ever supposed an old newspaper could possibly inspire. The various classes of fsociety, as they lived and moved and had their being in 1902, passed in review before me; and in relation to each the question occurred with increasing interest, our fathers, ,Dhere are they?\n\n Where are those eager aspirants after wealth, those restless votaries of commer- cial enterprise who five and twenty years ago, thronged these streets and wharves, and toiled in these slores with untiring per- severance Seek them in their favorite places of resort. Alas, you seek them in vain. Only here and there one, like sol itary grapes when the vintage is done, lin.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2094,
+                    "y0": 5839,
+                    "x1": 2897,
+                    "y1": 5937
+                },
+                {
+                    "x0": 2054,
+                    "y0": 5947,
+                    "x1": 2936,
+                    "y1": 7023
+                }
+            ],
+            "bbox": [
+                2054,
+                5839,
+                2936,
+                7023
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-06-14_p1_sn82014309_00414182926_1827061401_0193.json"
+        },
+        {
+            "object_ids": [
+                12,
+                19,
+                1
+            ],
+            "headline": "THF ARKANSAS, ITS GRAPES, AND CY-\n\n PRESS SWAMPS.",
+            "article": "From Flints Ualley of the Mississippi.\n\n \"We continued to float on through this deep and inundated forest when at right an- gles to our course we discovered another O. pening. It was the Arkansas, moving on with majestic current of waters, of the col our of anattO dye. This is next to the Missouri, and from it's mouth, by its mean- ders to the mountains, is commonly compu- ted about 2,00O miles. Its course has been traced in these mountains at least 500 miles, and it is believed that the source of the Ar kansas has not yet been explored by our peo- pie. One singularity distinguishes this river from any other in the United States. Where it winds along among the mountains, all agree that it is bread and deep river, and carries a great volume of water. But no sooner does it emerge from the shelter of woods and mountains into a boundless and arid plain, composed to a great depth of quicksands, than it begins to disappear ; and in hundred miles from the very elevated mountains, near which it enters upon the plain, it iSfordable during the Summer. Still lower down it is d stream, according to the well known phrase of the country, \" sunk in the sand ;\" that is, 1t trickles amidst the banks of sand and peb- bles, so as, in many places, to exhibit dry channel of burning sand from bank to bank.\n\n Here, on these vast sandy plains. which will for ages be the Syrtes of America, the home of eks and buffaloes, are the wild fields of those rich native grapes, that aE travellers in these regions, ve>spoken of in terms of such admiration. They are said to be cenic- al in shape, large, of a beautiful blue, and transparent. The driving sands rise around the stem, that advances still above the sand. This sand performs the best office of pruning, covering the superfuous growth and foliage, indicating no wounds, and affordng good method of ripening the clusters in the his hest perfection by the reflection of the sun from the sand In the expedition of Major Long, the exteme sweetness of these grapes is re- corded, and other travellers have borne the same testimony. They speak of vast tracts covered with these rich clusters. shall have occasion elsewhere to speak of this native grape, which is so much extollsd in the in- terior provinces of Spain. They are com mon through the plne woods of Louisiana & known by the name of the pine woods grape. ftrg ... ....,. -l..-....-..\n\n This grape ripens in June. It would prob ably be an admirable grape t. cultivate. There are, alsn. varieties of autuInpal grapes, and",
+            "byline": "FrOnl FZlNt'S 1j1ZZe1I 0",
+            "bbox_list": [
+                {
+                    "x0": 1156,
+                    "y0": 4349,
+                    "x1": 1987,
+                    "y1": 4436
+                },
+                {
+                    "x0": 1184,
+                    "y0": 4446,
+                    "x1": 1617,
+                    "y1": 4470
+                },
+                {
+                    "x0": 1133,
+                    "y0": 4440,
+                    "x1": 2032,
+                    "y1": 7034
+                }
+            ],
+            "bbox": [
+                1133,
+                4349,
+                2032,
+                7034
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-06-14_p1_sn82014309_00414182926_1827061401_0193.json"
+        },
+        {
+            "object_ids": [
+                13,
+                21,
+                2
+            ],
+            "headline": "Pennsylvania Militia Training !",
+            "article": "PHILADELPHIA, MAY28. Militia Muster.--Milita far, commonly called Battalion day. was duly soemnized at Orwisburg, in this county, on Wednesday last. Those of OHr readers who have not wit messed these gatherings, must be informed it is festival of no small magnitude The whole country is gathered together, men, wo-\n\n men, boys and girls, old and young, meet and dance, romp, drink, fight, and \"cut up high.\"-Labour of all kinds is suspended, villages and hamlets are vacated, & every soul whether subject to military duty or not. if capable of shaking a leg, trudge of by dawn of day, dressed in their best, to the place of rendezvous, which is usually one fthe prin- ciple towns. It may be remarked there are generally quite as many women present as men, and three times as many spectators as soldiers. In fact, soldering has very little to do with the matter. Discipline, order. and subordination are by common consent banish- ed from the field and lost in the din of shoot ing, hOoting, drinking and dancing. The people gather together for \"a frolic\"-.. a re- al tear down frolic. and they are determined, to have 1t. and have it they do and wlll. Im- provement in military science and tactics, is no part of their concerns and is as little attend ed to as the last Sundays sermon. .S\n\n AwOrd ortwO descriptive of the mode of proceeding on these Battalion days may not\n\n be uninteresting to some of our readers. The first thing heard in the morning is the random firing ofguns. scrapins of fddles, and boister- ous mirth and congratulations of the yo,,De\n\n rustics. By seven or eight o'clock the Hep-\n\n sesn commences. The following is the pro.\n\n cess. Each tavern is provided with one or\n\n more iddlers. Each lad with a sweetheart. a wife, or locum te''ens. The dance is three or six handed reel. A gentleman asks two others, to join him, they pay the fiddler a l\"tp' or a sstepg, and go to work with most laudahle zeal and industry. The fiddler plays asif his. life depended upon despatch. and ac- companies his elbow with his foot in most\n\n audible rops upon the floor. hy way of keep",
+            "byline": "PHILA DELPHIA, MA",
+            "bbox_list": [
+                {
+                    "x0": 3942,
+                    "y0": 4827,
+                    "x1": 4665,
+                    "y1": 4890
+                },
+                {
+                    "x0": 4226,
+                    "y0": 4901,
+                    "x1": 4608,
+                    "y1": 4942
+                },
+                {
+                    "x0": 3851,
+                    "y0": 4901,
+                    "x1": 4762,
+                    "y1": 7017
+                }
+            ],
+            "bbox": [
+                3851,
+                4827,
+                4762,
+                7017
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-06-14_p1_sn82014309_00414182926_1827061401_0193.json"
+        },
+        {
+            "object_ids": [
+                8,
+                14,
+                3
+            ],
+            "headline": "BY S. s. SMITH, EDITOR AND PROPRIETOR.\n\nTERNTS,",
+            "article": "10 subscribers in Mis village, and subscribers Oy nsGi or by post carriers, TWO DOLLARS per gear, payable in advance. To companies less than Ten, by n'dii, or taken from the c6fce, where thereis joint responsibility, or achere one i,idividuaIis responsible, S1,5O per gear, in ad- C0nce. To tike componies of more than ten, S1, 25 per gear, in advance.-Where payment IS de- lGyed to the end of tue gear g cts. aOiU De added to each ef the dboUe prices.\n\n No papers i0iN De discontinued until au dr- reorages are paid. ercept at the discretion o the publisher. ....,. ...--s.\n\n ADVERTISING.\n\n For hGlf square, three insertions, or Jess, 75 cents ;-more than h0!f square, and less tha'' square, e7 1-2 cents ;--.tOr one square, S1 ,00 and ie tue some proportion for more than q square; for continuing advertisements more than three aceeks, % per cent per sCeek 0i be charged\n\n B PROBATE NOTICES.\n\n Administrators and ErecUtors' Sl,OO Commissioner S1,2J",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 269,
+                    "y0": 699,
+                    "x1": 1077,
+                    "y1": 836
+                },
+                {
+                    "x0": 536,
+                    "y0": 869,
+                    "x1": 804,
+                    "y1": 916
+                },
+                {
+                    "x0": 212,
+                    "y0": 921,
+                    "x1": 1111,
+                    "y1": 1974
+                }
+            ],
+            "bbox": [
+                212,
+                699,
+                1111,
+                1974
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-06-14_p1_sn82014309_00414182926_1827061401_0193.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": " slaves, the greater part prisoners taken in the Greek war. The circumstances of this affair having produced general sensation and sym pathy throughout the city, had penetrated within the walls of the Arsenal and the pris- oners, when brought there, were kindly well comed by the poor Christian slaves, who went in a body to the Aga and officers, to beg that they might be kindly treated, and not put to severe labor. In consequence of this media ton they passed the two first days unmOest- ed :; but after this, several Jews came, and among them the father and intended father in-law of the young man, who, after another frHtless attempt to bring them back to Juda- ism, went and gave considerable sum of money to the officers of the prison, to put them to hard labor, and to beat and torment them. They suffered severely under this persecution for Eve or six days until the mat ter coming to our knowledge, our Ambassa- dor was so kind as 10 send lis dragoman,and, by his representations, to procure cessation of this cruel and wanton treatment, and the weight of their chains was diminished one half; although, being still in the class ofchain- ed prisoners, they have continued to labor with the rest. A few days ago, two of them were thrown down and bruised in working at large wheel, used for raising the masts, and\n\n \n\n accident to which two men had previously been killed before their eyes. They are now however, recovered from their bruises, and will not, l believe, be hencef6rth employed in similar works. The father of the young man has been indefatigable in his endeavors to re- cover his son, and has repeatedly come to the prison with his mother and relations, per- suading and entreating him with tears to re- turn to them, and promising him every thing he could desire but he has constantly re. pulsed them, telling them to lay aside all hope of changing his resolution :. that Jesus Christ was now his father and mother; that he pre- terred his chains with Christ, to all they could offer him; and that when they renounced their errors and became Christians. he would then acknowledge them as his relations. A. mong other encouragements they have had in their trials, have been messages from some of their Jewish friends without, who partake in their sentiments, exhorting them to stand firm, m,sayng that they glored in their fortitude, and that their own hope was in their perseve- rance. trust, indeed, may say with truth, that they have conducted themselves like true Christians; and it has been remarked.that the faith and love to Christ shown by these new converts, may put to shame those who have long borne the Christian name. When in the nclshl ol tneir SuneFihgs' tney prOIesseO themselves ready to die for the love of Chris., and said their. Saviour taught them that if their enemies took away their life, this was all they could do,and that they hoped their souls would be happy with him for ever. Their Christianity is indeed the work of the New Testament; and the members of the Bible Society may rejoice over their conversion, as the fruit, under God, of their eXertiOns in the circulation ofthe Scriptures. l have no doubt, at the same time, that they derived great ben eft from the instructions of Mir. Hartley, both before and during their concealment, who. a few days after their sentence was passed took his departure for Malta, in consequence of letter which he received from England, and left them to my care.\n\n *Who had been seized for harborng some of these Yo1yo offo tha hoI ool Nh.:,t",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1133,
+                    "y0": 750,
+                    "x1": 2032,
+                    "y1": 4310
+                }
+            ],
+            "bbox": [
+                1133,
+                750,
+                2032,
+                4310
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-06-14_p1_sn82014309_00414182926_1827061401_0193.json"
+        },
+        {
+            "object_ids": [
+                11,
+                20,
+                5
+            ],
+            "headline": "JEWS IN INCoNsTANTINOPLE.",
+            "article": "I'heir constGncy under seveTe persecution.\n\n Some weeks since, we gave an account of seven Jews in Constantinople, viz. Chain Castro; his brother Menahem Castro, Jacob Levi, Mentish Baruch, Missim Cohen, and David Bechas, Ia Rabbi,) who had embraced the Christian faith; all of whom were seized about the first of Dec. 1926, and thrown into prison,-the seventh accepting the alternative which was offered to them all, of returning to Judaism. In the Jewish Expositor for April, we find a letter from the Rev. J. D. Leeves, Missionary in the Mediterranean. containing some further and more recent particulars, un- der the date of Jan. 5, 1927. t\n\n N. Y. Obs. B C1sron.\n\n After their seizure, the Jews had used all their influence to obtain the execution of one Ofthem. Sentence of death was passed upon Chain Castro, by the Grand Rabbi and his three assisfarts and petition was presented to the drasoman of the Porte, (himsef for merly Jew.) offering large reward if he would obtain for them it's being carried into ef feet. We demand\" they said, \"the death ofthis accursed man, whose blood be upon us.' This circumstance is the more remarkable, as the Jews never allow, if it be possible to pre- vent it, any one of their nation, whoever he may be, or whatever crime he may have been guilty of, to be put to death by the Turks To prevent this, their national purse is always open, and thousands and thousands of piastres are given on such occasions. Here, however, was crime similar to that which our Saviour and his apostles had committed and they were prepared to avenge it with a similar blindness and obduracy. May the veil, ere long, be taken from their hearts! and I trust in God that the time is rapidly approach ing\n\n The dragoman of the Porte. to his honour, refused to dip his hands in innocent blood and, in a conversation with Mir. Hartley com pared their conduct tO that of their forcfa- liners before Pilate and all that their interest and money could effect, was to obtain a sen- tence that they should be sent to the Bagnio, the prison of the Arsenal, for the term of six months.\n\n During this critical interval, between the first of fDecember, the day of their apprehen- sion, and the 7th, when they were committed to the Bagnio, which they passed at the pris on of the Porte, they were cut off as much as possible, from all intercourse with their friends, aud were assailed by the Jews with every kind of temptation to renounce their faith.- A full pardon and immediate deliverAnce were promised them if they returned to their old religion and death was held out to them as the consequence of their perseverance. The young man was the principal object of these assaults, whose father, now returned from A. drianople, and intended father-n-law, Qor though so young he was already affanced in marriage, and the dowry paid,) left no means antyied to reclaim him. He has however shown, throughout, an admirable frmness, and al lively zeal {; nor does he appear to have had more than one moment of weakess du- ring the whole course of his severe trials.- This was shortly after his apprehension, when he was assured that if he returned to his pa rents and old religion, he would not only se- cure himself from punishment, but that this would be the only means of saving the Ar menians and his two friends ;--turning to whom he said,.' For your sakcs must yield\" They, however, exhorted him not to be de- cciyed by the professions of the Jews, but to stand firm and, that, Unnecessary, they would all die together. His courage was immediate Iy restored; and he has ever since, by his example, been the main support and encour- agement of the little band. On one occasion, especially. their fortitude was put to the test; for the Jews, seeing they could not wolk up- on them by promises, had it finally announ- ced to them, that their fate was sealed. and that the next morning they would be led out to execution. Thus, for whole night. they tdA uI0 S1c\" VT ucdth OeIOTe uicH cyCS\n\n and they spent it in reading the New Testa- ment with weeping and prayer. Two other Jews were left in prison with them, whom the bookbinder Chaim Castrol reproved for their unbelief in the Messiah. exhortng them to follow their example, and become martyrs for the name of Christ. These Jews, unmo- ved by their behavior and exhortations. wrote to the Rabbis. to inform them that there was no hope of their ever returning to the Jewish religion, and that the only course to be pursued with them was to get-th put to death.\n\n The punishment of the prisoners in the Bagnio consists in being chained, two and two, with heavy chains, and employed in the la shorious works of the Arsenal, under the su- perlntendence of the Turkish guards, who beat them ifthey do not perform the task to 'heir Gking. There are about 700 persons 1T",
+            "byline": "Their consistency under seuere persecution",
+            "bbox_list": [
+                {
+                    "x0": 286,
+                    "y0": 1995,
+                    "x1": 1043,
+                    "y1": 2053
+                },
+                {
+                    "x0": 280,
+                    "y0": 2063,
+                    "x1": 1043,
+                    "y1": 2110
+                },
+                {
+                    "x0": 212,
+                    "y0": 2058,
+                    "x1": 1117,
+                    "y1": 7040
+                }
+            ],
+            "bbox": [
+                212,
+                1995,
+                1117,
+                7040
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-06-14_p1_sn82014309_00414182926_1827061401_0193.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "\n\n wonderful accounts are given of the immense quantities of grapes that ripen on the sand 1 plains of the sources of Red River. The hunters assert that they are richer than any cultivated grape. l At distance of mile or two from the river, there are, at first, thick cane brakes, then series of lakes, exactly resembling the ] river in their points and bends, and in the colour of its waters. ThesesIakes are cover ed with the large leaves, and in the proper { season, the nymphen nelumbo,' the largest 1 and most splendid flower I have ever seen. I have seen them the size of the crown of hat ; the external leaves of the most brilliant white and the interior of very beautiful yellow. These lakes are SO en- ] tirely covered with the conical leaves, of the size of parasOl, and a smaller class of aquatic plant, of the same form of leaves, 1 but with yellow flower, that bird might walk sfrom. shore to shore, without dipping its feet in water; and these plants rise from all depths of water, up to ten feet. 1 Beyond these lakes there are immense swamps of cypress. which swamps consti- stitute vast portion of the inundated lands otthe Mississippi and its waters. No prospect on earth can be more gloomy. The po- etic Styxs or Acheron had not greater union of dismal circumstances. Well may the cypress have been esteemed funeral and lugubrious tree. When the tree has shed its leaves, for it is deciduous, cy- press swamp, with its countless interlaced 1 branches, of hoary grey, has an aspect of desolation and death, that often as have been impressed with it, cannot de- scbe. In Summer, it's fine, short, and ] deep green leaves invest these hoary branches with drapery of crape.\n\n The water in which they grow is vast dead level, two or three feet deep, still leav- ing the innumerable cypress \" knees,\" as they are called, resembling circular beehives. l throwing their points above the waters. This water is covered with thick coat of green matter, resembling green buff velvet. The mosquitoes swarm above the water in count less millions. A very frequent adjunct to this horrible scenery, is the moccassin snake, with his huge scaly body, lying in folds upon the side of a cypress knee and if you ap- proach too ncar lazy and reckless as he is, he throws the upper jaw of his huge mouth al- most back to his neck, giving you ample warning ofhis ability to defend himself travelled forty miles along this river swamp, and a considerable part of the way on the edge of it in which the horse sunk at every step, half way up to his knees. was envel- oped for the whole distance with cloud of mosquitoes. Like the ancient Avernus, do not femember to have seen a single bird in the whole distance, except the blue jay. Nothing interrupted the death like silence, but the hum of mosquitoes. 1, There cannot be well immagined another l feature to the bloom of these vast and dismal forests, to finish this kind of landscape more in keeping with the rest, than the long moss, or Spanish beard. This funeral drapery at taches itself to the cypress in preference to any other tree. There is not, that I know, an object in nature which produces such a number of sepuschral images as the view of the cypress forests, all shagged, dark, and enveIoped in the hanging festoons of moss. If you would inspire an inhabitant of New England, possessed of the customary portion of feeling, with the degree of home sickness. which would strike to the heart, transfer him instantly from the hill and dale, the bracing air SU~Varied scenery ofthe north, to the cypress swamps of the south, that are covered with the long moss.\n\n This curious appendage to the trees is first visible in the cypress swamps at about SS de- grees and is seen thence to the Gulf. It IS the constant accompaniment of the trees in deep bottoms and swampy lands, and seems ! to be an indication of the degree of humidity in the atmosphere. Ihave observed, that in dry and hly pine woods. it reappears as you approach bOttOmssatreams, and swamps. have remarked, too, that where it so com pleteIy enveIops the cypress, as to show no- thing but the festoons of the dark grey moss, other trees are wholly free from it. It seems less inclined to attach itselfto the cotton wood tree, than to any other.\n\n This moss is plant efthe parasiticai spe- cies, being popagated by seed, which forms in capsule that is preceded bya very min ute but beautiful purple flower. Although, wheh the trees that have cast their leaves are covered with it. they look as if they were dead, yet the moss will not live long on dead tree. It is well known that this moss, when managed by process like that of preparing hemp or flax, separates from its bark, and the black fibre that remains is not unlike horse hair, elastic, incorruptble, and an admi- rable and cheap article for mattresses. of which are formed most of the beds of the Southern people of this region\"\n\n From the Charleston Observer.\n\n FIVE AND TWENTY YEARS AGO.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2037,
+                    "y0": 699,
+                    "x1": 2936,
+                    "y1": 5942
+                }
+            ],
+            "bbox": [
+                2037,
+                699,
+                2936,
+                5942
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-06-14_p1_sn82014309_00414182926_1827061401_0193.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "more than two minutes; its temperafure was that fan oven, issuing an intense and sufocating smell; on removing some of this coal, the heat became so great, as not to be touched by the hand a piece of it was put on a white cotton pocket hand kerchief, which was completely singed as if burnt by heater matches were made of birthstone melted by the heat of the coal, which were tried, and found to ignite on applying them to the Assures from whence the steam issues. On removing more of the external rubbish, 1t gave fresh vent, & the fire was distinctly seen underneath, so that pipes were lighted from the coal itself without the assistance of match: anoth- hole was dug about feet distant from the principal cavity, creating fresh current of air, and piece of furze took fire on being applied thereon. In placing the hand in cavity which could only be borne for the space of half minute, it was quite dripping with the effects of the steam and the appearance of those cracks are quite steamy; several pipes of tobacco were easily lighted by the matches, on their being applied to the hot substances produ- ced. A species of sulpureous coal is con- sidered to be on fire at a considerable depth, and of great extent, thereby render- ing 1t hollow underneath, consequently. due caution must be observed on approaching to view it; the cavities are overhung by large pieces ofblack stone and earth, Sd that laundering of it might prove fatal to spectators some of this mass has already foundered into the cavities from whence the steam comes. lr-a\n\n Williams CoHege.-The Board of Trustees of this Institution, at their late meeting, established Professorship of Mo ral Phylosophy and Rhetorick,to which MT Porter, Professor of Languages, was trans ferred. Mr., Kellogg, Professor of Math- ematics and Natural Philosophy, was transferred to his former department, the Languages. Mr. Sylvester Hovey, late Tutor in Yale College, was elected Pro- lessor of Mathematics and Natural Phy- losophy. The department of Chemistry and Natural History will be for the pres ent supplied by Lecturer. The Board appropriated a sum sufficient to establish a Gymnasium, which it is expected the Fac ulty will put into immediate operation. They also voted, that hereafter, the Ben- eficiaries of any charitable Society or Ec- clesiastical Body shall be at no charge for tuition in this College.-Am. Aduocate.\n\n Glutteny.--There exists, at present, in Prussia, according to the report ofthe phy- sician Grafe, \"a remarkable instance ofebesi- ty, in the person of butcher, named Trou- cher. Up to the age of 30 years he was there, and at that time he was great dan- cer.-On his retutn from journey which he made to Russia, he was seized with devouring appetite, especially for animal food. He once gained wager that he would eata whole calf in 24 hours, merely cooked with water and salt. His voracity, seconded by extraordinary digestive pow CTS, made him attain, at the age of 57, so excessive fatness, that he could neither sit down nor stand upright. Dr. Giraffe, whom he called in, found him in imminent danger Justification. Frequent bleedings Goulard,s Lotion, extracts of helladonum, repeated Iaxatives, and rigidly vegetable diet, reduced in six months from forty to sixty stone, the weight of this living column of fat, and he is now in a condition to ate tend to his ordinary business.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3851,
+                    "y0": 739,
+                    "x1": 4767,
+                    "y1": 4816
+                }
+            ],
+            "bbox": [
+                3851,
+                739,
+                4767,
+                4816
+            ],
+            "full_article_id": 10,
+            "id": "10_1827-06-14_p1_sn82014309_00414182926_1827061401_0193.json"
+        },
+        {
+            "object_ids": [
+                17,
+                10
+            ],
+            "headline": "DIsTRES Ss1NG PROVIDENCE.",
+            "article": "sheep into boat, in order to pass deep place to where water was more shoal. The boat was upset; 3 swam to the shore the other four, after struggling awhile sunk to rise no more. The father of one of the young men in the boat, stan- ding on the shore, and seeing his son stsuggling for life, plunged in to his assist ance, but being advanced in years, and having all his clothes on, was unable to reach his son, and was soon seen sinking into the same watery grave. The persons who have been thus suddenly and awfully summoned into eternity, arc Deac. David Lyon, aged 6s; his son aged 19; Mir. Arnold Drake, aged about 30; and two sons of MT Eli Gray, Jr. one in his 14ht & the other in his 18th year. The two first have left each wife and children to mourn their loss.\n\n The scene that occurred when the wid- ows, children, brothers, and sisters of the deceased entered the room where their lifelcss remains were strewed, cannot be described. A shock of the most appalling kind has settled upon the people of the town. The hand of the Lord has touch- ed us, and may it be sancti6ed to our ev- erlasting benefit. \".\n\n On Saturday, while Mir Douglass and his wife were attending the funeral ofthe a. bove named persons, a daughter of MT. D. aged II years, was left in charge of other children, in attempting to get out of a win dow, was killed by the falling ofthe sash, upon her neck. A boatman was drowned at Milier's Falls on Sunday last.-Greenfeld Gag. WEYMOUTH, (EEG.) MARCH 27.-\n\n Interesting account of e Burning HiU.- The smell has been remarked, for 2 or 8 years past !; steam began to issue forth a. bout months since, at ten or more differ ent points, in the space of fvo yards in length, about 50 feet above the level of the sea, where it now continues on more ex- tended scale, with an occasional appear- ance of fire below the intcrstices of the rocks. Ilhas been remarked, that at spring tides, the eff1uvia emitted is much moro sul- phursous and disagreeable than at other periods. The heat is now such as to kin- dle fire and as the proof of it, bird (shot near the spot) was literally roasted Ethere, of which, the party partook. On clearing away some of the external rubbish and digging about three feet downwards, a strata of coal appeared, and so hot lthat it was impossible 10 stand thereon for",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3026,
+                    "y0": 3889,
+                    "x1": 3761,
+                    "y1": 3947
+                },
+                {
+                    "x0": 2947,
+                    "y0": 4110,
+                    "x1": 3841,
+                    "y1": 7023
+                }
+            ],
+            "bbox": [
+                2947,
+                3889,
+                3841,
+                7023
+            ],
+            "full_article_id": 11,
+            "id": "11_1827-06-14_p1_sn82014309_00414182926_1827061401_0193.json"
+        },
+        {
+            "object_ids": [
+                16
+            ],
+            "headline": "",
+            "article": "BSIS ueninQ put Lne multitude IS gOhe1 and the places that once knew them, know them no more. Their labours after riches are over. The fluctuations oftrado affect them not. Their hearts no longer throb with emotion at the news of the day. Prices may rise or fall-the tide of com merce may ebb or flow, without disturbing them.-They are laid in the grave, and have left their wealth to others.\n\n Where are the favorites of fortune, the envied and fattered objects of popular ad- miration, who occupied the ,hig gh places of the earth, and who proudly deemed them- selves immeasurably eleyated above com- mon mortals ? They haR9 passed through mighty changes. The naughty spirit has been subdued. Aff1ic6on has long since taught them the humkling lesson of weak ness and dependence, We may go now to their graves aud Earn how vain and transient is worldly greatness, how short tiOnS of mortals.'\n\n And where are the restless aspiring spirits, who five and twenty years ago, were urging their passage up the steep as cent of ambition--pressing forward with panting eagerness in the race of profess sional rivalship-> who devoted all the en- orgies of their minds, and the incessant toll of their best years; to the acquisition of popular tavor-who fixed their undivid- ed hearts upon reputation, influence, and office : as if there was nothing else in the universe so valuable. Trace their toil- some course, and learn their brief impress sive history. The conflict of superiority is long since over. Their ardent aspira- lions after fame are no more. Their la bofious career has terminated. Some of them were splendidly successful. They reached the proudest elevation, and seem ed to all but themselves singularly happy. But whether fortunate, ,or otherwise, is now with most of them of small moment; for their successes or disasters have sunk with them to the grave. And the survivors, like solitary oaks, which have withstood the sweeping tempest, prostrating all be- side, are only regarded as the scattered remnant of generation which has passed away.\n\n Alas, how far is the present generation from realizing that the coming five and twenty years will effect the same changes, and will conduct to the grave an equally vast majority of those who are now in ac- tive life, with the same period that is past. Yet such will doubtless be the mel aucholy fact; and newspaper of the present day will, in the year 1852, present to survivor efthis generation, an equally affecting memorial ofthe almost universal triumph of mortality. sENEx.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2953,
+                    "y0": 744,
+                    "x1": 3841,
+                    "y1": 3861
+                }
+            ],
+            "bbox": [
+                2953,
+                744,
+                3841,
+                3861
+            ],
+            "full_article_id": 17,
+            "id": "17_1827-06-14_p1_sn82014309_00414182926_1827061401_0193.json"
+        },
+        {
+            "object_ids": [
+                18
+            ],
+            "headline": "",
+            "article": "*Who had been seized for harboring some of thes, Jews after they had embraced Christianity.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1139,
+                    "y0": 4241,
+                    "x1": 2010,
+                    "y1": 4333
+                }
+            ],
+            "bbox": [
+                1139,
+                4241,
+                2010,
+                4333
+            ],
+            "full_article_id": 19,
+            "id": "19_1827-06-14_p1_sn82014309_00414182926_1827061401_0193.json"
+        }
+    ]
+}

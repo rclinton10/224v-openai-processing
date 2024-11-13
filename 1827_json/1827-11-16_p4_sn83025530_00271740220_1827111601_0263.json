@@ -1,0 +1,877 @@
+{
+    "lccn": {
+        "title": "Delaware journal.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2638-6917",
+        "lccn": "sn83025530",
+        "start_year": "1827",
+        "end_year": "1832",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [
+            "sn85042477"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn83025530",
+        "edition": "ed-01",
+        "date": "1827-11-16",
+        "pages": [
+            "seq-1",
+            "seq-2",
+            "seq-4",
+            "seq-3"
+        ]
+    },
+    "page_number": "4",
+    "scan": {
+        "lccn": "sn83025530",
+        "edition": "ed-01",
+        "date": "1827-11-16",
+        "page": "4",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-11-16/ed-1/seq-4.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-11-16/ed-1/seq-4/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-11-16/ed-1/seq-4/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn83025530/00271740220/1827111601/0263.jp2",
+        "height": 5552,
+        "width": 3552
+    },
+    "bboxes": [
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 1086,
+                "y0": 2736,
+                "x1": 1868,
+                "y1": 2829
+            },
+            "class": "article",
+            "raw_text": "No. lU3 .irch- Street, i'Htadebhia.\nSnld in Wilmington, by f. B. TiUGHLN Druggls\nNJ. a., Nalket-street.",
+            "legibility": "Questionable",
+            "full_article_id": 32,
+            "reading_order_id": 0
+        },
+        {
+            "id": 36,
+            "bbox": {
+                "x0": 1398,
+                "y0": 2689,
+                "x1": 1837,
+                "y1": 2729
+            },
+            "class": "headline",
+            "raw_text": "S.AcOB A-REYIHT.",
+            "legibility": "Legible",
+            "full_article_id": 32,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1099,
+                "y0": 4072,
+                "x1": 1889,
+                "y1": 4564
+            },
+            "class": "article",
+            "raw_text": "THE Subscriber offers for private sale, valua-\nbic Farm, lyin. on the turnpike, leading to Elk,\nabout Two miles below Chisana-B Bridge II con\ntan- t2 acres, 80 of which are under thriving tim\nher, and the remainder under tillage, with good\nproportion we'll set with clover: there is also on he\npremises good bearing urchard--the fences are i,\ngood ort,oH. The buildings are a good dwelling\nhouse. stable and sranary. A further description\nVII! bc given. aud thc land shewn to any one appy\ning, 10y the subscriber. living on the Plantation.\n\n\nWILLIAM Is. MINTIRE.\n15-t1Dec",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1255,
+                "y0": 3986,
+                "x1": 1737,
+                "y1": 4047
+            },
+            "class": "headline",
+            "raw_text": "Il RI saRIvrEA EATION,",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2652,
+                "y0": 442,
+                "x1": 3455,
+                "y1": 1423
+            },
+            "class": "article",
+            "raw_text": "For Sale at Joseph Bringhurst's Drug and Chemical\n\n\nStore, No. 81, Nlarket-Street, Wilmington,\n\n\nDenarcozed Opium and Laudanum Black Drops,\nthese preparations do not sicken the stomach\nIodine Hydrodate of Potash, Extracts Of fTaraxaci,\nStramonum, Beadona Ciauta, Aconte, Helleb.\nMig Etaterum, Hyosciamus Quassa, Cinchona &c.\nSeeds of Tncture OF Calchicum, Clarified Calalnus.\nDigitas, Balm, Peppermint, with variety of fresh\nHerbs. Bleaching Salts by which stains may be re.\nmoved, from white dresses, table cloths, or the\nfinest lace without injury to the article Salt of Le-\nmon for removing iron mould. Pure Sulphate of\nQunine in powder, pills and solutions lndelble Ink\nfor marking white articles, This cannot he washed\nout Genuine Cologne Waters from Paris. Seidlz\nand Soda Powders always fresh. Paper pill Boxes,\nCough Drops, Cough Syrup, Syrup squllls, Bate\nmans Drops, British OIL Harlem. Spike, Pepper\nmint, Lemon Orange. Bergamot, and Roses, God.\n| frcys Cordial, Steers Opodehloc. Match Lights,\nSpunk, Osborne's superior water colours, Pink,\nblue, Purple and Lilac saucers, Indian Ink, Liquid\nBlue Dye, Canary Seed, sc. Together with AZ gen\ncral assortment of Medical and Chemical Articles.\n\n\nOct SO. !, 53-3m",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2673,
+                "y0": 303,
+                "x1": 3442,
+                "y1": 426
+            },
+            "class": "headline",
+            "raw_text": "MEDTCAE END CHEMICAL\n\n\nsTepNrNtSOnS",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 34,
+            "bbox": {
+                "x0": 292,
+                "y0": 4380,
+                "x1": 1096,
+                "y1": 4997
+            },
+            "class": "article",
+            "raw_text": "SIR-I afflicted with rheumatic affection of tl,,\nhead TOR nearly wo yeals, during winch time mad .re a.\nrenlcdy the disease beng very olsr,rA,e\nhaied all medical AID. wa, N constant rAn and misery\ndtrh,g the timc was attlice,.\n\n\nrespectable physician rec mmrnfed the benei, Of sea\nath ns accordingly, Julv 1925, 70 X ,ur,cy h.\nST. si re 70 bahe which tew days increased\ndi 10 \"ich ateEfee, 10 op>lruc\nrn aha pven' !rec nlang and exa Of my bre\n\n\nne regular course Of breathing benS ,Ci, obsructcd,\nthe tPpefJt\" and cheek bone became ,ore, a;d my\nface appeared 10 be in aMgh Of information; my\nsituation became very aarmng my spirits were dep ess\ncd, and my appe,nr f,lled.\n\n\nheard of your CoMaaid3 Syrup. procured someGs il\nu very short n'e u aa!ed lc iA.nmaot wa, en,r\ned 10 breathe freely sny appete etael and was re\nstored to perfect heath TNNAS SNYDER,\n\n\nPhilad. June IS, 1876. Na 375 \\ ,r,i, Tn,ru IL",
+            "legibility": "Illegible",
+            "full_article_id": 35,
+            "reading_order_id": 0
+        },
+        {
+            "id": 33,
+            "bbox": {
+                "x0": 296,
+                "y0": 4333,
+                "x1": 562,
+                "y1": 4368
+            },
+            "class": "headline",
+            "raw_text": "Mr.. ALBRIGHT,",
+            "legibility": "Legible",
+            "full_article_id": 35,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1923,
+                "y0": 4858,
+                "x1": 2713,
+                "y1": 5310
+            },
+            "class": "article",
+            "raw_text": "CONTENTS-Biographicalsket sketch Of Mr.. Clay.\nSpeech on Manufaotures--Llne of the Perdido--\nBank charter-Augmentation ofthe military force\nIncrease of the Navy--New Army--Emancipatio\nof South America--lnternal improyement--Se\nole War--Mission to South America--The Tariff\nSpanish treaty--Greek rcyoIution-American in\ndusry--Colonz alton of the negroes--Bank ques-\nton--Address to onstituens--Speech at Lewis\nburgh with apotrait in iront--Prcc 81 25.--The\n| above work to be had Of the publishers of this pa\n! per, at their Book Store, No. ~, Marke.-Street",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1949,
+                "y0": 4771,
+                "x1": 2679,
+                "y1": 4845
+            },
+            "class": "headline",
+            "raw_text": "Clay's Speeches, &c.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1845,
+                "y0": 720,
+                "x1": 2661,
+                "y1": 2829
+            },
+            "class": "article",
+            "raw_text": "South Vest Of, and near to, Brandy'e'ne 'n'As,\nn and adjoining the store formerly conducted ny\nMr. John Rice, as a groccry-where IL may hol DC\nOf disadvantage to call and examine Tor themselves\n\n\nThe following compose part OF lhe'f assof''eh''\n\n\nDRY GOODS.\n\n\nSuperfine broad cloths and cassmers, assorted\ncolors linen and cotton drillngs, yellow and biue\nimported and domestic nankin, aienta, Marseiies\ntonet and Florenne yestings; black pialn ana\nltwilled bonlbazetts; Circassan gnghis, ca'icoes'\ncambric beached and brown shirng and shcethg\nmuslns Irish linens long lawns and cambrc linens,\nl.eventincs. Forences, Gros de Naples, lutestrns'\nfar and banlanna hdks. Cotton and linen do white\nand colored canton Grape and Grape shaws' green\nwhite and black Italian do. worsted and cotton nose\nand suspenders, Yorl-tan and beaver gloves, ilaW-\nskins make of kid gloves of superior quality, white\nand colored domestic plalds and stripes; laDpy'\nbang-up and phtsburg cords fusnas and dfiil'hes,\ntlannels, furniture and apron check; nWiss, num-\nhook and Jackonet muslins; 34 5-4 and 6-4 dnity,\ncrash diaper and table linens, bedticking; Russia\nand imitation shccting bleached and unbleached ];\ncoarse linens, Osnaburg and Burlaps, Porter and\nLancashire sheetings; Wilmington, Jackson, Adams\nand jefferson stripes jeans, Garcia stripe, glng-\nhams. black and brown holland, sackng- bottoms,\nsowing silks and sowing cottons, senshaW, sarsehet,\nblack and light colorcd lasting, &c\n: GROCERIES.\nSugar, tea, coffee, molasses. flour, mackerel, IN\nbills and half bbis ginger, alspce, pepper ground\nand in the grain, nutmegs, cloves, NC. Together\nwith general variety Of liquors and sea stores\nP.lLNTS and OILS.\n\n\nWhite lead. black icad red lead, blue red, yet\n{ low ochre Prussia hlue chronic yellow, verlgrl:\nq {, ground and dry patent green fig blue, iogwood\n\" Ac. winter, summer, conulon castor, hnsced, ant\nq sweet oils\n\n\n: Ear,Itcn, China, glass and QuecnsUare.\n\n\nHaving purchased the above goods chiefly at auc\nton %e are certain can cell them ut the mos\nlt reduced prices 10 those who may favor US witl\nu their custom.\n\n\n:, SAMUEL M'CAULLEY,\n\n\nJOHN RICE.\nJune a2, 1927.\n\n\ne \\. r. We have in addition to the above just re\n\n\ncoiyed A general assortment of Fashionable y O\n\n\nand Far HATS, on commission, from the we\n\n\nknown factory of Isaac SHorwEi.L, No, AZ, sout\n\" Front Street, elphia-whlch will be sold low",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 1893,
+                "y0": 624,
+                "x1": 2605,
+                "y1": 703
+            },
+            "class": "headline",
+            "raw_text": ".M Caasyley g. Race,",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1116,
+                "y0": 4697,
+                "x1": 1902,
+                "y1": 5071
+            },
+            "class": "article",
+            "raw_text": "inst received and for sale here Tie atlantic Son.\nrenr, a beautiful Christmas and New-Year's Pre-\ncent, handsomely boarded with Gilt leaves. and en-\nclosed in an elegant ornamened case. lis is be-\nli\"yed to be one OF the mos: splendid little works Of\ntaste ever published in this country if contains Is\nelegant engrayirgs, descriptive of Cats Kill tails til\neoadoroga, Delaware Water Gap, Bournouese War\nnor, Moonlight, sc. SC. &C.\n\n\nNOV. g. r. PORTER s. SON.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 1199,
+                "y0": 4584,
+                "x1": 1798,
+                "y1": 4689
+            },
+            "class": "headline",
+            "raw_text": "ATLANTIC SOUVENIR\n\n\nFER ES23.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1095,
+                "y0": 3014,
+                "x1": 1876,
+                "y1": 3961
+            },
+            "class": "article",
+            "raw_text": "THIS Institution will be opened on Monday\n\n\nthe ED. of October Inst, under the care\n\n\nofthc Rcy losl.pu WIISoN.\n\n\nIn this Seminary students viii be thoroughly ir-\nstrnctcA in the different branches OF good English\nand Claasical Education, viz: Reading, Writing.\nArithmetic, English Grammar, Geography, Compo-\nslt,on. tlocution, Mathematics and the Greek ana\nLatin i.anguagcs. The terms of tuition will be for\nthe English branches. exclusive of mathematics\nSo per session. or \\ 10, including the Mathematics\nfor the Languages, Including the English, $40 per\nsession. Tuition money to be paid in advance.\nThere viii be two sessions in the year, with ;\nshort vacation between each.\n\n\nGood boarding can he obtained in rcsnectabl,\nfamilies in the village 1T the rate Of Forty Dollars\nper session and tew hoarders can be accommo\ndated the family of the Principal\n\n\nJOHN EDDOWES. Scc'v.\n.WdHcto;vn. Octobcr t. 1927. iG-3m\n(r3-To be published in the Eikton Press, ,--Ches\ntortown clograph--Ccnreville Tmes--and in III,\nEreton (Md.) papers for three months and thei\nbills forwarded 20 the Secretary.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 1090,
+                "y0": 2858,
+                "x1": 1868,
+                "y1": 2993
+            },
+            "class": "headline",
+            "raw_text": "aEEiGtdgetDsUM o4catyesssv.\nCEhgszCSaz. zsEsYAazzss :sllss.. z ls.Ez n d",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 1841,
+                "y0": 477,
+                "x1": 2635,
+                "y1": 616
+            },
+            "class": "article",
+            "raw_text": "The subscribers beg leave TO inform their friends\nand the public generally that they have commenced\nthe Dry Goods and Grocery Business, under the",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 1945,
+                "y0": 320,
+                "x1": 2540,
+                "y1": 408
+            },
+            "class": "headline",
+            "raw_text": "NEW STORE",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": -2
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 2070,
+                "y0": 420,
+                "x1": 2405,
+                "y1": 469
+            },
+            "class": "headline",
+            "raw_text": "Just Opcnea!",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 1034,
+                "y0": 320,
+                "x1": 1833,
+                "y1": 2829
+            },
+            "class": "article",
+            "raw_text": "olarre of matter from tie rsii, ear teok place by ''s\nt,u e e ctlid suffered the most eXcruca'b aSo\"eS\ning day and night .,. ,n.\n,ot of The ,yon, l cures performed by your Coatnpfa\"\nyuub. procured bottle, and am happy TO s'a'e a, a\nter gwen the child tie SyRp ab\"u, seven days se\nsound at night, the ntamna non OF 'he heao anu h' i\nWAS aay,d the curi disappeared, the gums were neu'\nand the offensive smell accompanying the qscia'Ec from\nthe ear left it by this time broke out ito sores an '\ntile ear, but healed in very short time aiter -,\n\n\nAfter the cld had taken about two-'hrds OF tue oo's\nOf svrup the discharge from the gradually stopped\nand astonishing il appear, the child IS nav per'ce\n\" cured gay, and lively. -.\nfrom ypr invaluable meicine, my wife has commcncea\nusing i, IN chronic rcunm' ISM, and one ot my sons 'o'\n,cald lead and gems aai from INC ELECTS your su\n\"a, lrealy produced, have cveiy reason I\" 'hlhS ua\nall shortly be enabtl communicate 10 you the pieasi\n\"'e''S'\"'V 'l'' ANTHONY MUSiCk,\nKuncke street, Northern Liberties\nMR. ALBRIGHT,\n\n\nSIR-Ny son S ephen, aged l3 years was taken with\n.v,.r, nam m the n,tcp \" his righ foot in september\nSg3. IN October following IT swcled very niich' piy\nc,an ordered bread and milk po,,ces TO be applied\nwhich reduced the swelling Soon alter 'i'e cap OF n'\nknee swecI up considerably rouliiccs were agan app\nID Which reduced the swelling large lump mace W\non the shin; in very short time ms leg swell\ned double its ordinary size, was very anuch nilmeu '\nmad purple appearance Ihe boy suie'cu t'e i',s. II,\n\n\n\nOf sleep he became debtated aud helpless, hat he at\nto he fed like an infant AZ length he swelling opened an,\npraduced cupious discharge Of matter, accompanied VIII\n\n\nvery offensive su ell The physician iacet tie leg a\ndifferent times m places, and attended nm tor up\nwards of three MONTHS and got hm ST. tar as o be enabe\n10 move about cruches. In very short 'ie the pam\n,nu,, entirely left him he could walk very well wio\nthe Use of crutcles, the swelling continued, and the E\n4 broke on; into Ulcers.\n\n\nI'm the summer of 1926 his shin bone became affected\nacconpancd with a very offensive smell small spln'e'\nIl,, plt. Pp-\ncan ot the knee to his ankle liberated mass\ncolr,pnn an the bone was - state OF ro'teless ih\n,ca,s who .,w ,le case while this situation, gave ii\nthe opninn a he could only be cured by laying the le\n~ npen 10 tic bone, ad taking oF the affected parts whle\nu would be \"A painful, we'll very da\"gerous npe alton\ny In November last heard of your COtnmbin Syrup s.\ny Bottle and after NY used i about five days, chan\n\" ed the matter TO healthy appearance, and took away Il\n\n\noffensive smell by the ,,ne t WAS nn Inc use o the TN\n~ bot,le tr. pcces of tic .i, c,td bone came ,\n\" which were several inches in length. aud about the ihio\nness of dollar after winch the leg began to heal M,\n~ by lie time he had used the cig hnti lie WIS conpe\n, ~ cured. SfEPRE.N SNdhE,\nre phad March 90 1927. Bntonzrood, near Sirtist\nu The above case eoross, Cares. Cor affection of\nd. bones considered BY a phys cians very rema\n\n\nable cure Some Of Mic ,neS in the possess\nne of the proprietor of the Columbian Syrp, and may he\ne, a, any tune.\n\n\nOther ccriihca be al lie store Of the Agcn\nes NJ Each bottle of the genue medicine has label,\nEll presenting, the Eae and Ii,drs, with signature.\n\n\nSAcOB A-gErGrIT,\n\n\nNo. lO5 .irch-Sweet, FItqdeibhta\n\n\nsn'd in Wilmington, by r. b. T.4UGHl.V, Drugl\nNE NJ. ~, Naiket-stree,.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 223,
+                "y0": 628,
+                "x1": 1056,
+                "y1": 4785
+            },
+            "class": "article",
+            "raw_text": "rroprieur that its efficacy atone viii support its ds;n\nguished merits II is the m st useful Hprms AM autumn\nAlternative discovered. Ii perfectly innocent,\nthat evil effect need be apprehended from b when ap-\npiled agreeaby to the directions. II may be gwen without\nany apprehension the most ent. illn or feeble adult\nThe COLUMBIAN SYRUP W. relieve and eventually\nthe following diseases Necrosis, Cartes Cor uce\nraons of the bones,) Kings Evil or Scrotua Rheumatic\naffections of the head, and TEN generally Syplt Mer\ncuria and all complaints originating in the mr\"rer use\nof Mercury Ulcers OF the mouth and throat hiie S\"e\nling cancerous and nveerae Ulcers discharges from\nthe Ears; diseases OF the Skn L,vef complaints; Jah\ntice Indigestion, and Debility.\n\n\nAS general depura've artIce or purifier OF the blon\nthis medicine possesses Invaluable powers Ii improves th\nappetite and has the remarkable qhaliy OF de.rvlg Va\nskin that yellow bilious tint, which common N b\nconstitutions Besides the diseases above ename'aed\nit is also recommended remedy for than cmg dist\nder the liberated sore hcad under which children suite\nthe most excruc ans tornients tor years\n\n\nWhenever newly discovered medcle is recommended\nthe public justice requires that testimony be Of\niered proof ot its superior remedial powers The Col\namban Syrup has now been used sufficient length OF time\nboth by the Proprietor and by several eminent physicians\nwarrant the declaration, that IN variety o diseases\nIl remedy Of preemnent virtues. In several where\nlarge quantities Of Paaacas and Syru had been used with\nou, producing any effect, the Columbian Syrup III very\nshort time, performed perfect cures.\nThe following certificates o cures performed by the Coz\numban Syrup furnish ample proofs OF its SUPERIOR eilicac!\nover every other popular remedy even S10am r\"neeea\nwhich the opinion of of our Professors and PhNs\nclans, when first brought up medicine Of acSnibfs\nzatie.\n\n\nrhe following certificate was received by proprietor OF\nthe Columbian Syrup, from the subscriber 1t was the frs'\nproof had given OF its efficacy the Panacea,\n\n\nCERTIFICATE.\n\n\nMy son. George nkle, abou, l5 years of age, ser\nously afflicted with ulcer of the throat az iii\nthree years. which destroyed the tonis and uuua and 50\ncorroded the iceS and alae, (rootof the mou) ta, IT\nlaid bare the bones, and made its way into the II\neventually Increased such degree, THAI it caused free\ncommunca ION between the nose and MOUTH So na when\nany liquid was administered, as coiies lea, &c. ii would\nImmediately return by the nostrils.\n\n\napplied to several eminent physicians. but all their e\nforts check the disease VAIN. Having heard o\nSWANS Panacea procured some but after using three\nbottles OF it. and finding my son not benefited BY the same\ndiscontinued it\n\n\nnow began to be very much alarmed concerning his sit\nnations there appeared no ray o hope left. HIS eyes were\nfor time highly ntlmcd and ritated, and he evcntu\nally lost the sight vt hrs left eye. This Iupue toa\nminsteripg mercury improperly.\n\n\nrespectable citizen OF Philadelphia recommended me\nTO the Of the newly discovered and valuable medicine\ncalled }. Abrghts Columbian SyrTp. by the advice Of\nPhysician, the syrup pcscrbed tue otwo bottle\nOF which completely eradcated the disease and nerirnet\nperiec cure. JOHN liiNkiE,\n\n\no, Abingdon Township, y. migomery city. Penn\nPhiiadeLphta, June ~, 1926\n\n\nThe following certificate furnishes second nroofo IL\nsuperior efficacy OF lie '.ouban Syrup the Paace\n\n\nCERTIFICATE.\n\n\nI, Mary Peterson, ot Wilmington Delaware, aged\nyears taken w,lh sciotous disease abW .Hiy 49,.\nwhich mnenced with severe pam the side ! an\nabout the cr end sep tmbc aud beginning of Octt\nber was again attacked, bat wit violent pain In m\nhead.\n\n\nIn the spring Of 1921, lump made is ap on ~\nlett side OF neck during hat timc, and the cl,,tip\nsummer was RELYING medical aid The iump I'll\nneck shortly dlsappea ed, but the fall of The year\nucersed in the left shoulder, and continued \"lth inc,\npam, ioiloOe \" enlargement ot the breast II\nsame side Of the dy sinry after, two Jumps oppealt\non the lr side the ne ck.\n\n\nTwo re,pec ;ie Surgeons Of Delaware per formed o\nGrafton N August, and one III Oetobe.. bu tflecl\nsituation became very alarming Ill: pam ani iornen's\nendured day and night mse.crbahle. had to tat\nlarge quantities Of laVdanHm !\" afford mnnentary\nlief. The affected sde ot my head was drawn down\nthe disease and esed np,n n,y shuu'ic'. ihe ulre\nincreased; my left .rm sNeed ,wlce the thickness\nits na,ural state, the svclung extended down To Il\nends Of my fnsers could no, behd NY finger ,nl\nand for eighteen me hs could not move my lei, arm, b\nwith the assistance Ct the right\n\n\nin September, 1925, came to Philadelphia and apple\nTO several ement ply iclan, bu, they gave no hope\nrelief commenced lhe use OF Swami, Pnsacea and CO\ntinued until had consumed nearly fout bottles, witho\nproducing any effect.\n\n\nThe later end of April, 1926, commenced the Sc of\nAlbright's ulnbiAn Syrup. and after usn; il sh'\ntime tie swelling il my arm reduced 50 TO enaD\nne 20 use II freely, and IN six weeks was rcst\"ci 10\n4ect health MARY rE iERSON.\nPhiiaah phia, Jaacl0, l8 6.\n\n\nNbte-The nec,ins case is well known to several\nour iesec able phys!cas aud one, par cuarly, c,odt\nexpressed his opinion Mrs Peterson, thar her 4 sea\nhad extended itaci beyond the Of MEDICINE IVe L\nthat gentleman attention patcatry to her certificate\n\n\nThe following commun, cation received by the p,\npr'et\"r nt the Coumtian Syrup from Gen tnV.a, ~\nder, residing IN the Northern Liberties. Pinaduipi.a Go.\n\n\nCOMMU NlCAriON.\n\n\nMr.. ALBRIGHT,\n\n\nSIR was afflicted with a rheumatic affection or\nhead tor nearly years, during winch time mad trr\nevery remedy; nut the disease beng very\nhuiiltd all medical AID rliu and n,st\nduFNg The timc wts afllce..\n\n\nle'pecahe physician rec mmfnded the benefit Of\nafhns accordingly. m July 1925, in'k Nirs.y 70\nstN si re 70 battle, which! tew Increased m.\nd. 10 \"Ich a,iesree 10 ob,ructi ~ ny n\ntr ana p.cvent free ,aany and exhays Z Of INV bre\n\n\nhe regular course Of breathing beng tal, ubstruct\nthe upper JAY and c'eek bone became very ,or. a,,d\nface appeared 10 be IN high STATE Of information;",
+            "legibility": "Questionable",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 275,
+                "y0": 364,
+                "x1": 952,
+                "y1": 499
+            },
+            "class": "headline",
+            "raw_text": "AEBksLsfRlli S\nColumbian Syrup.",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": -1
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 318,
+                "y0": 5070,
+                "x1": 1113,
+                "y1": 5297
+            },
+            "class": "article",
+            "raw_text": "NIK j. NTBE1GWT,\n\n\ns!li--My Youngest chi'l. girl Of ab,u two wears q\nage bad from her birth, hcen scty la lie lat or cnl ri\nJanuary last she taken with inf. uI,r aon in n -\nhead aHti mouth together win Ut the gums am,\ndecay of the teeth curf had also formed on lie ,nr,\nsud root OF the mouth III lew days very offensive DIS.",
+            "legibility": "Questionable",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 639,
+                "y0": 5022,
+                "x1": 1082,
+                "y1": 5067
+            },
+            "class": "headline",
+            "raw_text": "PhIIadelpiiia, Il h March, 1897.",
+            "legibility": "Questionable",
+            "full_article_id": 23,
+            "reading_order_id": -2
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 318,
+                "y0": 5048,
+                "x1": 631,
+                "y1": 5093
+            },
+            "class": "headline",
+            "raw_text": "Mr.. ]. ALBRIGHT,",
+            "legibility": "Questionable",
+            "full_article_id": 23,
+            "reading_order_id": -1
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 2712,
+                "y0": 3782,
+                "x1": 3494,
+                "y1": 5036
+            },
+            "class": "article",
+            "raw_text": "JUST PUBLISHED,\nAnd far sale al No. 81, .Narket-Strest, Wilmng0a'\n\n\nThe Columbian .almanac,\n\n\nEor 1S2S.\nContaining in addition to the usual Astronomers,\nCalculations. Tables. &c. the Courts of the Unled\nStates, and of Delaware and Maryland; great va\nriely OF profitable and pleasing miscellaneous n'a'\nter. among which is\n\n\nA Sailors humorous ride in milk-cart,\nYankcy resolution in saving the mail,\nIngenious defence Of a thief,\n\n\nDreams and signs interpreted,\n\n\nMethod of un-narrying the unhappy\nDefinition ofa Drunkard,\n\n\nA little world,\n\n\nOld maids, their unmcntonable troubless\nAccount of novel courtshp,\n\n\nAnecdote of Paddy and his game cock,\nThe lrishman and his pig &c. &c. &c.\nWon oriul discoveries ofthe Microscope,\nHumorous account of Penn'a. Battalion Day\nWashington's army saved by Quaker lady.\nOde to the gout,\nRECEIPTS for curing the Gravel, curing v eH'\nmaking Candles removing grease spots from eo'n',,\nmaking vinegar, preserving pickles, Presef'\"S\nmeats, sc. &C. sc.\nThe above Almanac, with an extensive assorll'e\"a\nof others. German and English for sale by the drO''\nor Dozen, at the most reduced prices. >r\nNov. r. PORTER 81 SON.",
+            "legibility": "Legible",
+            "full_article_id": 28,
+            "reading_order_id": 0
+        },
+        {
+            "id": 35,
+            "bbox": {
+                "x0": 2743,
+                "y0": 3261,
+                "x1": 3451,
+                "y1": 3310
+            },
+            "class": "headline",
+            "raw_text": "scora1s Asrr: OF goVApAkrE,",
+            "legibility": "Legible",
+            "full_article_id": 28,
+            "reading_order_id": -1
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 1884,
+                "y0": 2602,
+                "x1": 2687,
+                "y1": 2816
+            },
+            "class": "article",
+            "raw_text": "June 22, 1927\n\n\n\\. h. We have in addition to the above just re-\ncoiyed a general assortment of Fashionable Uoot\nand Far HATS, on commission, from the well\nknown factory of Isaac SnorwfiL, No, AZ, south\nFront Street Phade pha--whIch will be sold low",
+            "legibility": "Legible",
+            "full_article_id": 31,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                36,
+                31
+            ],
+            "headline": "S.AcOB A-REYIHT.",
+            "article": "No. lU3 .irch- Street, i'Htadebhia.\nSnld in Wilmington, by f. B. TiUGHLN Druggls\nNJ. a., Nalket-street.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1398,
+                    "y0": 2689,
+                    "x1": 1837,
+                    "y1": 2729
+                },
+                {
+                    "x0": 1086,
+                    "y0": 2736,
+                    "x1": 1868,
+                    "y1": 2829
+                }
+            ],
+            "bbox": [
+                1086,
+                2689,
+                1868,
+                2829
+            ],
+            "full_article_id": 32,
+            "id": "32_1827-11-16_p4_sn83025530_00271740220_1827111601_0263.json"
+        },
+        {
+            "object_ids": [
+                15,
+                1
+            ],
+            "headline": "Il RI saRIvrEA EATION,",
+            "article": "THE Subscriber offers for private sale, valua-\nbic Farm, lyin. on the turnpike, leading to Elk,\nabout Two miles below Chisana-B Bridge II con\ntan- t2 acres, 80 of which are under thriving tim\nher, and the remainder under tillage, with good\nproportion we'll set with clover: there is also on he\npremises good bearing urchard--the fences are i,\ngood ort,oH. The buildings are a good dwelling\nhouse. stable and sranary. A further description\nVII! bc given. aud thc land shewn to any one appy\ning, 10y the subscriber. living on the Plantation.\n\n\nWILLIAM Is. MINTIRE.\n15-t1Dec",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1255,
+                    "y0": 3986,
+                    "x1": 1737,
+                    "y1": 4047
+                },
+                {
+                    "x0": 1099,
+                    "y0": 4072,
+                    "x1": 1889,
+                    "y1": 4564
+                }
+            ],
+            "bbox": [
+                1099,
+                3986,
+                1889,
+                4564
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-11-16_p4_sn83025530_00271740220_1827111601_0263.json"
+        },
+        {
+            "object_ids": [
+                33,
+                34
+            ],
+            "headline": "Mr.. ALBRIGHT,",
+            "article": "SIR-I afflicted with rheumatic affection of tl,,\nhead TOR nearly wo yeals, during winch time mad .re a.\nrenlcdy the disease beng very olsr,rA,e\nhaied all medical AID. wa, N constant rAn and misery\ndtrh,g the timc was attlice,.\n\n\nrespectable physician rec mmrnfed the benei, Of sea\nath ns accordingly, Julv 1925, 70 X ,ur,cy h.\nST. si re 70 bahe which tew days increased\ndi 10 \"ich ateEfee, 10 op>lruc\nrn aha pven' !rec nlang and exa Of my bre\n\n\nne regular course Of breathing benS ,Ci, obsructcd,\nthe tPpefJt\" and cheek bone became ,ore, a;d my\nface appeared 10 be in aMgh Of information; my\nsituation became very aarmng my spirits were dep ess\ncd, and my appe,nr f,lled.\n\n\nheard of your CoMaaid3 Syrup. procured someGs il\nu very short n'e u aa!ed lc iA.nmaot wa, en,r\ned 10 breathe freely sny appete etael and was re\nstored to perfect heath TNNAS SNYDER,\n\n\nPhilad. June IS, 1876. Na 375 \\ ,r,i, Tn,ru IL",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 296,
+                    "y0": 4333,
+                    "x1": 562,
+                    "y1": 4368
+                },
+                {
+                    "x0": 292,
+                    "y0": 4380,
+                    "x1": 1096,
+                    "y1": 4997
+                }
+            ],
+            "bbox": [
+                292,
+                4333,
+                1096,
+                4997
+            ],
+            "full_article_id": 35,
+            "id": "35_1827-11-16_p4_sn83025530_00271740220_1827111601_0263.json"
+        },
+        {
+            "object_ids": [
+                13,
+                2
+            ],
+            "headline": "MEDTCAE END CHEMICAL\n\n\nsTepNrNtSOnS",
+            "article": "For Sale at Joseph Bringhurst's Drug and Chemical\n\n\nStore, No. 81, Nlarket-Street, Wilmington,\n\n\nDenarcozed Opium and Laudanum Black Drops,\nthese preparations do not sicken the stomach\nIodine Hydrodate of Potash, Extracts Of fTaraxaci,\nStramonum, Beadona Ciauta, Aconte, Helleb.\nMig Etaterum, Hyosciamus Quassa, Cinchona &c.\nSeeds of Tncture OF Calchicum, Clarified Calalnus.\nDigitas, Balm, Peppermint, with variety of fresh\nHerbs. Bleaching Salts by which stains may be re.\nmoved, from white dresses, table cloths, or the\nfinest lace without injury to the article Salt of Le-\nmon for removing iron mould. Pure Sulphate of\nQunine in powder, pills and solutions lndelble Ink\nfor marking white articles, This cannot he washed\nout Genuine Cologne Waters from Paris. Seidlz\nand Soda Powders always fresh. Paper pill Boxes,\nCough Drops, Cough Syrup, Syrup squllls, Bate\nmans Drops, British OIL Harlem. Spike, Pepper\nmint, Lemon Orange. Bergamot, and Roses, God.\n| frcys Cordial, Steers Opodehloc. Match Lights,\nSpunk, Osborne's superior water colours, Pink,\nblue, Purple and Lilac saucers, Indian Ink, Liquid\nBlue Dye, Canary Seed, sc. Together with AZ gen\ncral assortment of Medical and Chemical Articles.\n\n\nOct SO. !, 53-3m",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2673,
+                    "y0": 303,
+                    "x1": 3442,
+                    "y1": 426
+                },
+                {
+                    "x0": 2652,
+                    "y0": 442,
+                    "x1": 3455,
+                    "y1": 1423
+                }
+            ],
+            "bbox": [
+                2652,
+                303,
+                3455,
+                1423
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-11-16_p4_sn83025530_00271740220_1827111601_0263.json"
+        },
+        {
+            "object_ids": [
+                17,
+                4
+            ],
+            "headline": "Clay's Speeches, &c.",
+            "article": "CONTENTS-Biographicalsket sketch Of Mr.. Clay.\nSpeech on Manufaotures--Llne of the Perdido--\nBank charter-Augmentation ofthe military force\nIncrease of the Navy--New Army--Emancipatio\nof South America--lnternal improyement--Se\nole War--Mission to South America--The Tariff\nSpanish treaty--Greek rcyoIution-American in\ndusry--Colonz alton of the negroes--Bank ques-\nton--Address to onstituens--Speech at Lewis\nburgh with apotrait in iront--Prcc 81 25.--The\n| above work to be had Of the publishers of this pa\n! per, at their Book Store, No. ~, Marke.-Street",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1949,
+                    "y0": 4771,
+                    "x1": 2679,
+                    "y1": 4845
+                },
+                {
+                    "x0": 1923,
+                    "y0": 4858,
+                    "x1": 2713,
+                    "y1": 5310
+                }
+            ],
+            "bbox": [
+                1923,
+                4771,
+                2713,
+                5310
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-11-16_p4_sn83025530_00271740220_1827111601_0263.json"
+        },
+        {
+            "object_ids": [
+                23,
+                5
+            ],
+            "headline": ".M Caasyley g. Race,",
+            "article": "South Vest Of, and near to, Brandy'e'ne 'n'As,\nn and adjoining the store formerly conducted ny\nMr. John Rice, as a groccry-where IL may hol DC\nOf disadvantage to call and examine Tor themselves\n\n\nThe following compose part OF lhe'f assof''eh''\n\n\nDRY GOODS.\n\n\nSuperfine broad cloths and cassmers, assorted\ncolors linen and cotton drillngs, yellow and biue\nimported and domestic nankin, aienta, Marseiies\ntonet and Florenne yestings; black pialn ana\nltwilled bonlbazetts; Circassan gnghis, ca'icoes'\ncambric beached and brown shirng and shcethg\nmuslns Irish linens long lawns and cambrc linens,\nl.eventincs. Forences, Gros de Naples, lutestrns'\nfar and banlanna hdks. Cotton and linen do white\nand colored canton Grape and Grape shaws' green\nwhite and black Italian do. worsted and cotton nose\nand suspenders, Yorl-tan and beaver gloves, ilaW-\nskins make of kid gloves of superior quality, white\nand colored domestic plalds and stripes; laDpy'\nbang-up and phtsburg cords fusnas and dfiil'hes,\ntlannels, furniture and apron check; nWiss, num-\nhook and Jackonet muslins; 34 5-4 and 6-4 dnity,\ncrash diaper and table linens, bedticking; Russia\nand imitation shccting bleached and unbleached ];\ncoarse linens, Osnaburg and Burlaps, Porter and\nLancashire sheetings; Wilmington, Jackson, Adams\nand jefferson stripes jeans, Garcia stripe, glng-\nhams. black and brown holland, sackng- bottoms,\nsowing silks and sowing cottons, senshaW, sarsehet,\nblack and light colorcd lasting, &c\n: GROCERIES.\nSugar, tea, coffee, molasses. flour, mackerel, IN\nbills and half bbis ginger, alspce, pepper ground\nand in the grain, nutmegs, cloves, NC. Together\nwith general variety Of liquors and sea stores\nP.lLNTS and OILS.\n\n\nWhite lead. black icad red lead, blue red, yet\n{ low ochre Prussia hlue chronic yellow, verlgrl:\nq {, ground and dry patent green fig blue, iogwood\n\" Ac. winter, summer, conulon castor, hnsced, ant\nq sweet oils\n\n\n: Ear,Itcn, China, glass and QuecnsUare.\n\n\nHaving purchased the above goods chiefly at auc\nton %e are certain can cell them ut the mos\nlt reduced prices 10 those who may favor US witl\nu their custom.\n\n\n:, SAMUEL M'CAULLEY,\n\n\nJOHN RICE.\nJune a2, 1927.\n\n\ne \\. r. We have in addition to the above just re\n\n\ncoiyed A general assortment of Fashionable y O\n\n\nand Far HATS, on commission, from the we\n\n\nknown factory of Isaac SHorwEi.L, No, AZ, sout\n\" Front Street, elphia-whlch will be sold low",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1893,
+                    "y0": 624,
+                    "x1": 2605,
+                    "y1": 703
+                },
+                {
+                    "x0": 1845,
+                    "y0": 720,
+                    "x1": 2661,
+                    "y1": 2829
+                }
+            ],
+            "bbox": [
+                1845,
+                624,
+                2661,
+                2829
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-11-16_p4_sn83025530_00271740220_1827111601_0263.json"
+        },
+        {
+            "object_ids": [
+                21,
+                7
+            ],
+            "headline": "ATLANTIC SOUVENIR\n\n\nFER ES23.",
+            "article": "inst received and for sale here Tie atlantic Son.\nrenr, a beautiful Christmas and New-Year's Pre-\ncent, handsomely boarded with Gilt leaves. and en-\nclosed in an elegant ornamened case. lis is be-\nli\"yed to be one OF the mos: splendid little works Of\ntaste ever published in this country if contains Is\nelegant engrayirgs, descriptive of Cats Kill tails til\neoadoroga, Delaware Water Gap, Bournouese War\nnor, Moonlight, sc. SC. &C.\n\n\nNOV. g. r. PORTER s. SON.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1199,
+                    "y0": 4584,
+                    "x1": 1798,
+                    "y1": 4689
+                },
+                {
+                    "x0": 1116,
+                    "y0": 4697,
+                    "x1": 1902,
+                    "y1": 5071
+                }
+            ],
+            "bbox": [
+                1116,
+                4584,
+                1902,
+                5071
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-11-16_p4_sn83025530_00271740220_1827111601_0263.json"
+        },
+        {
+            "object_ids": [
+                14,
+                11
+            ],
+            "headline": "aEEiGtdgetDsUM o4catyesssv.\nCEhgszCSaz. zsEsYAazzss :sllss.. z ls.Ez n d",
+            "article": "THIS Institution will be opened on Monday\n\n\nthe ED. of October Inst, under the care\n\n\nofthc Rcy losl.pu WIISoN.\n\n\nIn this Seminary students viii be thoroughly ir-\nstrnctcA in the different branches OF good English\nand Claasical Education, viz: Reading, Writing.\nArithmetic, English Grammar, Geography, Compo-\nslt,on. tlocution, Mathematics and the Greek ana\nLatin i.anguagcs. The terms of tuition will be for\nthe English branches. exclusive of mathematics\nSo per session. or \\ 10, including the Mathematics\nfor the Languages, Including the English, $40 per\nsession. Tuition money to be paid in advance.\nThere viii be two sessions in the year, with ;\nshort vacation between each.\n\n\nGood boarding can he obtained in rcsnectabl,\nfamilies in the village 1T the rate Of Forty Dollars\nper session and tew hoarders can be accommo\ndated the family of the Principal\n\n\nJOHN EDDOWES. Scc'v.\n.WdHcto;vn. Octobcr t. 1927. iG-3m\n(r3-To be published in the Eikton Press, ,--Ches\ntortown clograph--Ccnreville Tmes--and in III,\nEreton (Md.) papers for three months and thei\nbills forwarded 20 the Secretary.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1090,
+                    "y0": 2858,
+                    "x1": 1868,
+                    "y1": 2993
+                },
+                {
+                    "x0": 1095,
+                    "y0": 3014,
+                    "x1": 1876,
+                    "y1": 3961
+                }
+            ],
+            "bbox": [
+                1090,
+                2858,
+                1876,
+                3961
+            ],
+            "full_article_id": 12,
+            "id": "12_1827-11-16_p4_sn83025530_00271740220_1827111601_0263.json"
+        },
+        {
+            "object_ids": [
+                24,
+                25,
+                16
+            ],
+            "headline": "NEW STORE\n\nJust Opcnea!",
+            "article": "The subscribers beg leave TO inform their friends\nand the public generally that they have commenced\nthe Dry Goods and Grocery Business, under the",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1945,
+                    "y0": 320,
+                    "x1": 2540,
+                    "y1": 408
+                },
+                {
+                    "x0": 2070,
+                    "y0": 420,
+                    "x1": 2405,
+                    "y1": 469
+                },
+                {
+                    "x0": 1841,
+                    "y0": 477,
+                    "x1": 2635,
+                    "y1": 616
+                }
+            ],
+            "bbox": [
+                1841,
+                320,
+                2635,
+                616
+            ],
+            "full_article_id": 17,
+            "id": "17_1827-11-16_p4_sn83025530_00271740220_1827111601_0263.json"
+        },
+        {
+            "object_ids": [
+                19
+            ],
+            "headline": "",
+            "article": "olarre of matter from tie rsii, ear teok place by ''s\nt,u e e ctlid suffered the most eXcruca'b aSo\"eS\ning day and night .,. ,n.\n,ot of The ,yon, l cures performed by your Coatnpfa\"\nyuub. procured bottle, and am happy TO s'a'e a, a\nter gwen the child tie SyRp ab\"u, seven days se\nsound at night, the ntamna non OF 'he heao anu h' i\nWAS aay,d the curi disappeared, the gums were neu'\nand the offensive smell accompanying the qscia'Ec from\nthe ear left it by this time broke out ito sores an '\ntile ear, but healed in very short time aiter -,\n\n\nAfter the cld had taken about two-'hrds OF tue oo's\nOf svrup the discharge from the gradually stopped\nand astonishing il appear, the child IS nav per'ce\n\" cured gay, and lively. -.\nfrom ypr invaluable meicine, my wife has commcncea\nusing i, IN chronic rcunm' ISM, and one ot my sons 'o'\n,cald lead and gems aai from INC ELECTS your su\n\"a, lrealy produced, have cveiy reason I\" 'hlhS ua\nall shortly be enabtl communicate 10 you the pieasi\n\"'e''S'\"'V 'l'' ANTHONY MUSiCk,\nKuncke street, Northern Liberties\nMR. ALBRIGHT,\n\n\nSIR-Ny son S ephen, aged l3 years was taken with\n.v,.r, nam m the n,tcp \" his righ foot in september\nSg3. IN October following IT swcled very niich' piy\nc,an ordered bread and milk po,,ces TO be applied\nwhich reduced the swelling Soon alter 'i'e cap OF n'\nknee swecI up considerably rouliiccs were agan app\nID Which reduced the swelling large lump mace W\non the shin; in very short time ms leg swell\ned double its ordinary size, was very anuch nilmeu '\nmad purple appearance Ihe boy suie'cu t'e i',s. II,\n\n\n\nOf sleep he became debtated aud helpless, hat he at\nto he fed like an infant AZ length he swelling opened an,\npraduced cupious discharge Of matter, accompanied VIII\n\n\nvery offensive su ell The physician iacet tie leg a\ndifferent times m places, and attended nm tor up\nwards of three MONTHS and got hm ST. tar as o be enabe\n10 move about cruches. In very short 'ie the pam\n,nu,, entirely left him he could walk very well wio\nthe Use of crutcles, the swelling continued, and the E\n4 broke on; into Ulcers.\n\n\nI'm the summer of 1926 his shin bone became affected\nacconpancd with a very offensive smell small spln'e'\nIl,, plt. Pp-\ncan ot the knee to his ankle liberated mass\ncolr,pnn an the bone was - state OF ro'teless ih\n,ca,s who .,w ,le case while this situation, gave ii\nthe opninn a he could only be cured by laying the le\n~ npen 10 tic bone, ad taking oF the affected parts whle\nu would be \"A painful, we'll very da\"gerous npe alton\ny In November last heard of your COtnmbin Syrup s.\ny Bottle and after NY used i about five days, chan\n\" ed the matter TO healthy appearance, and took away Il\n\n\noffensive smell by the ,,ne t WAS nn Inc use o the TN\n~ bot,le tr. pcces of tic .i, c,td bone came ,\n\" which were several inches in length. aud about the ihio\nness of dollar after winch the leg began to heal M,\n~ by lie time he had used the cig hnti lie WIS conpe\n, ~ cured. SfEPRE.N SNdhE,\nre phad March 90 1927. Bntonzrood, near Sirtist\nu The above case eoross, Cares. Cor affection of\nd. bones considered BY a phys cians very rema\n\n\nable cure Some Of Mic ,neS in the possess\nne of the proprietor of the Columbian Syrp, and may he\ne, a, any tune.\n\n\nOther ccriihca be al lie store Of the Agcn\nes NJ Each bottle of the genue medicine has label,\nEll presenting, the Eae and Ii,drs, with signature.\n\n\nSAcOB A-gErGrIT,\n\n\nNo. lO5 .irch-Sweet, FItqdeibhta\n\n\nsn'd in Wilmington, by r. b. T.4UGHl.V, Drugl\nNE NJ. ~, Naiket-stree,.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1034,
+                    "y0": 320,
+                    "x1": 1833,
+                    "y1": 2829
+                }
+            ],
+            "bbox": [
+                1034,
+                320,
+                1833,
+                2829
+            ],
+            "full_article_id": 20,
+            "id": "20_1827-11-16_p4_sn83025530_00271740220_1827111601_0263.json"
+        },
+        {
+            "object_ids": [
+                12,
+                20
+            ],
+            "headline": "AEBksLsfRlli S\nColumbian Syrup.",
+            "article": "rroprieur that its efficacy atone viii support its ds;n\nguished merits II is the m st useful Hprms AM autumn\nAlternative discovered. Ii perfectly innocent,\nthat evil effect need be apprehended from b when ap-\npiled agreeaby to the directions. II may be gwen without\nany apprehension the most ent. illn or feeble adult\nThe COLUMBIAN SYRUP W. relieve and eventually\nthe following diseases Necrosis, Cartes Cor uce\nraons of the bones,) Kings Evil or Scrotua Rheumatic\naffections of the head, and TEN generally Syplt Mer\ncuria and all complaints originating in the mr\"rer use\nof Mercury Ulcers OF the mouth and throat hiie S\"e\nling cancerous and nveerae Ulcers discharges from\nthe Ears; diseases OF the Skn L,vef complaints; Jah\ntice Indigestion, and Debility.\n\n\nAS general depura've artIce or purifier OF the blon\nthis medicine possesses Invaluable powers Ii improves th\nappetite and has the remarkable qhaliy OF de.rvlg Va\nskin that yellow bilious tint, which common N b\nconstitutions Besides the diseases above ename'aed\nit is also recommended remedy for than cmg dist\nder the liberated sore hcad under which children suite\nthe most excruc ans tornients tor years\n\n\nWhenever newly discovered medcle is recommended\nthe public justice requires that testimony be Of\niered proof ot its superior remedial powers The Col\namban Syrup has now been used sufficient length OF time\nboth by the Proprietor and by several eminent physicians\nwarrant the declaration, that IN variety o diseases\nIl remedy Of preemnent virtues. In several where\nlarge quantities Of Paaacas and Syru had been used with\nou, producing any effect, the Columbian Syrup III very\nshort time, performed perfect cures.\nThe following certificates o cures performed by the Coz\numban Syrup furnish ample proofs OF its SUPERIOR eilicac!\nover every other popular remedy even S10am r\"neeea\nwhich the opinion of of our Professors and PhNs\nclans, when first brought up medicine Of acSnibfs\nzatie.\n\n\nrhe following certificate was received by proprietor OF\nthe Columbian Syrup, from the subscriber 1t was the frs'\nproof had given OF its efficacy the Panacea,\n\n\nCERTIFICATE.\n\n\nMy son. George nkle, abou, l5 years of age, ser\nously afflicted with ulcer of the throat az iii\nthree years. which destroyed the tonis and uuua and 50\ncorroded the iceS and alae, (rootof the mou) ta, IT\nlaid bare the bones, and made its way into the II\neventually Increased such degree, THAI it caused free\ncommunca ION between the nose and MOUTH So na when\nany liquid was administered, as coiies lea, &c. ii would\nImmediately return by the nostrils.\n\n\napplied to several eminent physicians. but all their e\nforts check the disease VAIN. Having heard o\nSWANS Panacea procured some but after using three\nbottles OF it. and finding my son not benefited BY the same\ndiscontinued it\n\n\nnow began to be very much alarmed concerning his sit\nnations there appeared no ray o hope left. HIS eyes were\nfor time highly ntlmcd and ritated, and he evcntu\nally lost the sight vt hrs left eye. This Iupue toa\nminsteripg mercury improperly.\n\n\nrespectable citizen OF Philadelphia recommended me\nTO the Of the newly discovered and valuable medicine\ncalled }. Abrghts Columbian SyrTp. by the advice Of\nPhysician, the syrup pcscrbed tue otwo bottle\nOF which completely eradcated the disease and nerirnet\nperiec cure. JOHN liiNkiE,\n\n\no, Abingdon Township, y. migomery city. Penn\nPhiiadeLphta, June ~, 1926\n\n\nThe following certificate furnishes second nroofo IL\nsuperior efficacy OF lie '.ouban Syrup the Paace\n\n\nCERTIFICATE.\n\n\nI, Mary Peterson, ot Wilmington Delaware, aged\nyears taken w,lh sciotous disease abW .Hiy 49,.\nwhich mnenced with severe pam the side ! an\nabout the cr end sep tmbc aud beginning of Octt\nber was again attacked, bat wit violent pain In m\nhead.\n\n\nIn the spring Of 1921, lump made is ap on ~\nlett side OF neck during hat timc, and the cl,,tip\nsummer was RELYING medical aid The iump I'll\nneck shortly dlsappea ed, but the fall of The year\nucersed in the left shoulder, and continued \"lth inc,\npam, ioiloOe \" enlargement ot the breast II\nsame side Of the dy sinry after, two Jumps oppealt\non the lr side the ne ck.\n\n\nTwo re,pec ;ie Surgeons Of Delaware per formed o\nGrafton N August, and one III Oetobe.. bu tflecl\nsituation became very alarming Ill: pam ani iornen's\nendured day and night mse.crbahle. had to tat\nlarge quantities Of laVdanHm !\" afford mnnentary\nlief. The affected sde ot my head was drawn down\nthe disease and esed np,n n,y shuu'ic'. ihe ulre\nincreased; my left .rm sNeed ,wlce the thickness\nits na,ural state, the svclung extended down To Il\nends Of my fnsers could no, behd NY finger ,nl\nand for eighteen me hs could not move my lei, arm, b\nwith the assistance Ct the right\n\n\nin September, 1925, came to Philadelphia and apple\nTO several ement ply iclan, bu, they gave no hope\nrelief commenced lhe use OF Swami, Pnsacea and CO\ntinued until had consumed nearly fout bottles, witho\nproducing any effect.\n\n\nThe later end of April, 1926, commenced the Sc of\nAlbright's ulnbiAn Syrup. and after usn; il sh'\ntime tie swelling il my arm reduced 50 TO enaD\nne 20 use II freely, and IN six weeks was rcst\"ci 10\n4ect health MARY rE iERSON.\nPhiiaah phia, Jaacl0, l8 6.\n\n\nNbte-The nec,ins case is well known to several\nour iesec able phys!cas aud one, par cuarly, c,odt\nexpressed his opinion Mrs Peterson, thar her 4 sea\nhad extended itaci beyond the Of MEDICINE IVe L\nthat gentleman attention patcatry to her certificate\n\n\nThe following commun, cation received by the p,\npr'et\"r nt the Coumtian Syrup from Gen tnV.a, ~\nder, residing IN the Northern Liberties. Pinaduipi.a Go.\n\n\nCOMMU NlCAriON.\n\n\nMr.. ALBRIGHT,\n\n\nSIR was afflicted with a rheumatic affection or\nhead tor nearly years, during winch time mad trr\nevery remedy; nut the disease beng very\nhuiiltd all medical AID rliu and n,st\nduFNg The timc wts afllce..\n\n\nle'pecahe physician rec mmfnded the benefit Of\nafhns accordingly. m July 1925, in'k Nirs.y 70\nstN si re 70 battle, which! tew Increased m.\nd. 10 \"Ich a,iesree 10 ob,ructi ~ ny n\ntr ana p.cvent free ,aany and exhays Z Of INV bre\n\n\nhe regular course Of breathing beng tal, ubstruct\nthe upper JAY and c'eek bone became very ,or. a,,d\nface appeared 10 be IN high STATE Of information;",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 275,
+                    "y0": 364,
+                    "x1": 952,
+                    "y1": 499
+                },
+                {
+                    "x0": 223,
+                    "y0": 628,
+                    "x1": 1056,
+                    "y1": 4785
+                }
+            ],
+            "bbox": [
+                223,
+                364,
+                1056,
+                4785
+            ],
+            "full_article_id": 21,
+            "id": "21_1827-11-16_p4_sn83025530_00271740220_1827111601_0263.json"
+        },
+        {
+            "object_ids": [
+                26,
+                28,
+                22
+            ],
+            "headline": "PhIIadelpiiia, Il h March, 1897.\n\nMr.. ]. ALBRIGHT,",
+            "article": "NIK j. NTBE1GWT,\n\n\ns!li--My Youngest chi'l. girl Of ab,u two wears q\nage bad from her birth, hcen scty la lie lat or cnl ri\nJanuary last she taken with inf. uI,r aon in n -\nhead aHti mouth together win Ut the gums am,\ndecay of the teeth curf had also formed on lie ,nr,\nsud root OF the mouth III lew days very offensive DIS.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 639,
+                    "y0": 5022,
+                    "x1": 1082,
+                    "y1": 5067
+                },
+                {
+                    "x0": 318,
+                    "y0": 5048,
+                    "x1": 631,
+                    "y1": 5093
+                },
+                {
+                    "x0": 318,
+                    "y0": 5070,
+                    "x1": 1113,
+                    "y1": 5297
+                }
+            ],
+            "bbox": [
+                318,
+                5022,
+                1113,
+                5297
+            ],
+            "full_article_id": 23,
+            "id": "23_1827-11-16_p4_sn83025530_00271740220_1827111601_0263.json"
+        },
+        {
+            "object_ids": [
+                35,
+                27
+            ],
+            "headline": "scora1s Asrr: OF goVApAkrE,",
+            "article": "JUST PUBLISHED,\nAnd far sale al No. 81, .Narket-Strest, Wilmng0a'\n\n\nThe Columbian .almanac,\n\n\nEor 1S2S.\nContaining in addition to the usual Astronomers,\nCalculations. Tables. &c. the Courts of the Unled\nStates, and of Delaware and Maryland; great va\nriely OF profitable and pleasing miscellaneous n'a'\nter. among which is\n\n\nA Sailors humorous ride in milk-cart,\nYankcy resolution in saving the mail,\nIngenious defence Of a thief,\n\n\nDreams and signs interpreted,\n\n\nMethod of un-narrying the unhappy\nDefinition ofa Drunkard,\n\n\nA little world,\n\n\nOld maids, their unmcntonable troubless\nAccount of novel courtshp,\n\n\nAnecdote of Paddy and his game cock,\nThe lrishman and his pig &c. &c. &c.\nWon oriul discoveries ofthe Microscope,\nHumorous account of Penn'a. Battalion Day\nWashington's army saved by Quaker lady.\nOde to the gout,\nRECEIPTS for curing the Gravel, curing v eH'\nmaking Candles removing grease spots from eo'n',,\nmaking vinegar, preserving pickles, Presef'\"S\nmeats, sc. &C. sc.\nThe above Almanac, with an extensive assorll'e\"a\nof others. German and English for sale by the drO''\nor Dozen, at the most reduced prices. >r\nNov. r. PORTER 81 SON.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2743,
+                    "y0": 3261,
+                    "x1": 3451,
+                    "y1": 3310
+                },
+                {
+                    "x0": 2712,
+                    "y0": 3782,
+                    "x1": 3494,
+                    "y1": 5036
+                }
+            ],
+            "bbox": [
+                2712,
+                3261,
+                3494,
+                5036
+            ],
+            "full_article_id": 28,
+            "id": "28_1827-11-16_p4_sn83025530_00271740220_1827111601_0263.json"
+        },
+        {
+            "object_ids": [
+                30
+            ],
+            "headline": "",
+            "article": "June 22, 1927\n\n\n\\. h. We have in addition to the above just re-\ncoiyed a general assortment of Fashionable Uoot\nand Far HATS, on commission, from the well\nknown factory of Isaac SnorwfiL, No, AZ, south\nFront Street Phade pha--whIch will be sold low",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1884,
+                    "y0": 2602,
+                    "x1": 2687,
+                    "y1": 2816
+                }
+            ],
+            "bbox": [
+                1884,
+                2602,
+                2687,
+                2816
+            ],
+            "full_article_id": 31,
+            "id": "31_1827-11-16_p4_sn83025530_00271740220_1827111601_0263.json"
+        }
+    ]
+}

@@ -1,0 +1,213 @@
+{
+    "lccn": {
+        "title": "The Wilmington mercury.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2639-6262",
+        "lccn": "sn88053099",
+        "start_year": "1798",
+        "end_year": "1798",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn88053099",
+        "edition": "ed-01",
+        "date": "1798-10-19",
+        "pages": [
+            "seq-1"
+        ]
+    },
+    "page_number": "1",
+    "scan": {
+        "lccn": "sn88053099",
+        "edition": "ed-01",
+        "date": "1798-10-19",
+        "page": "1",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn88053099/1798-10-19/ed-1/seq-1.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn88053099/1798-10-19/ed-1/seq-1/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn88053099/1798-10-19/ed-1/seq-1/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn88053099/00271740232/1798101901/0043.jp2",
+        "height": 3024,
+        "width": 2440
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 1236,
+                "y0": 1698,
+                "x1": 1934,
+                "y1": 2370
+            },
+            "class": "article",
+            "raw_text": "c. BY recent accounts from\nPhiladelphia, it ieems that many\nof the inhabitants, who had IN\ncautiouily returned to their dwell\nlngs, were feized with the ma\nlady, and fwept off. Should not\nthis clrcumftance forcibly ope-\nrate with OUR friends who have\nretiredi Let them remain where\nthey are, until a heavy rain, or\nthe froft takes place; either of\nwhich might infure their return\nwithout hazard.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 371,
+                "y0": 2239,
+                "x1": 630,
+                "y1": 2805
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1236,
+                "y0": 1174,
+                "x1": 1936,
+                "y1": 1666
+            },
+            "class": "article",
+            "raw_text": "DONA7IONS receIuea tbs Day.\nAndrew Catherwood, S dollars\nWilliam Henphill, 33lb. pick\nled pork\n\n\nPnbANed ly Order Of Ike Board,\nTHOMAS MENDENHALL,\n\n\nPreident ,\nJAMES LEA, Secretary.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 215,
+                "y0": 767,
+                "x1": 2239,
+                "y1": 990
+            },
+            "class": "headline",
+            "raw_text": "SIXTH DAY (Fp1D) EVENING TENTH MO.\n\n\n(OC7) 9 1893.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -3
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 816,
+                "y0": 1032,
+                "x1": 1688,
+                "y1": 1120
+            },
+            "class": "headline",
+            "raw_text": "[CoAeIed far The Wilmington Mycwy.]",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -2
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1241,
+                "y0": 1155,
+                "x1": 1925,
+                "y1": 1222
+            },
+            "class": "headline",
+            "raw_text": "DONATIONS receiued this Day.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 567,
+                "y0": 2409,
+                "x1": 824,
+                "y1": 2904
+            },
+            "class": "article",
+            "raw_text": "\n\n\n",
+            "legibility": "Illegible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                0
+            ],
+            "headline": "",
+            "article": "c. BY recent accounts from\nPhiladelphia, it ieems that many\nof the inhabitants, who had IN\ncautiouily returned to their dwell\nlngs, were feized with the ma\nlady, and fwept off. Should not\nthis clrcumftance forcibly ope-\nrate with OUR friends who have\nretiredi Let them remain where\nthey are, until a heavy rain, or\nthe froft takes place; either of\nwhich might infure their return\nwithout hazard.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1236,
+                    "y0": 1698,
+                    "x1": 1934,
+                    "y1": 2370
+                }
+            ],
+            "bbox": [
+                1236,
+                1698,
+                1934,
+                2370
+            ],
+            "full_article_id": 1,
+            "id": "1_1798-10-19_p1_sn88053099_00271740232_1798101901_0043.json"
+        },
+        {
+            "object_ids": [
+                3,
+                6,
+                5,
+                2
+            ],
+            "headline": "SIXTH DAY (Fp1D) EVENING TENTH MO.\n\n\n(OC7) 9 1893.\n\n[CoAeIed far The Wilmington Mycwy.]\n\nDONATIONS receiued this Day.",
+            "article": "DONA7IONS receIuea tbs Day.\nAndrew Catherwood, S dollars\nWilliam Henphill, 33lb. pick\nled pork\n\n\nPnbANed ly Order Of Ike Board,\nTHOMAS MENDENHALL,\n\n\nPreident ,\nJAMES LEA, Secretary.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 215,
+                    "y0": 767,
+                    "x1": 2239,
+                    "y1": 990
+                },
+                {
+                    "x0": 816,
+                    "y0": 1032,
+                    "x1": 1688,
+                    "y1": 1120
+                },
+                {
+                    "x0": 1241,
+                    "y0": 1155,
+                    "x1": 1925,
+                    "y1": 1222
+                },
+                {
+                    "x0": 1236,
+                    "y0": 1174,
+                    "x1": 1936,
+                    "y1": 1666
+                }
+            ],
+            "bbox": [
+                215,
+                767,
+                2239,
+                1666
+            ],
+            "full_article_id": 3,
+            "id": "3_1798-10-19_p1_sn88053099_00271740232_1798101901_0043.json"
+        }
+    ]
+}

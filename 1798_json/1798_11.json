@@ -1,0 +1,73 @@
+{
+    "lccn": {
+        "title": "The Wilmington mercury.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2639-6262",
+        "lccn": "sn88053099",
+        "start_year": "1798",
+        "end_year": "1798",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn88053099",
+        "edition": "ed-01",
+        "date": "1798-10-16",
+        "pages": [
+            "seq-1"
+        ]
+    },
+    "page_number": "1",
+    "scan": {
+        "lccn": "sn88053099",
+        "edition": "ed-01",
+        "date": "1798-10-16",
+        "page": "1",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn88053099/1798-10-16/ed-1/seq-1.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn88053099/1798-10-16/ed-1/seq-1/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn88053099/1798-10-16/ed-1/seq-1/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn88053099/00271740232/1798101601/0040.jp2",
+        "height": 2936,
+        "width": 2384
+    },
+    "bboxes": [
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1937,
+                "y0": 828,
+                "x1": 2252,
+                "y1": 1978
+            },
+            "class": "article",
+            "raw_text": "\n\n\n\n",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 240,
+                "y0": 660,
+                "x1": 2211,
+                "y1": 886
+            },
+            "class": "headline",
+            "raw_text": "THIRD DAY (711gs) EVENING, TENTH MO.\n\n\n(OC7) 16, 1898.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        }
+    ],
+    "full articles": []
+}

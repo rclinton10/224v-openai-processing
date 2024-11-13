@@ -1,0 +1,126 @@
+{
+    "lccn": {
+        "title": "The Wilmington mercury.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2639-6262",
+        "lccn": "sn88053099",
+        "start_year": "1798",
+        "end_year": "1798",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn88053099",
+        "edition": "ed-01",
+        "date": "1798-10-09",
+        "pages": [
+            "seq-1"
+        ]
+    },
+    "page_number": "1",
+    "scan": {
+        "lccn": "sn88053099",
+        "edition": "ed-01",
+        "date": "1798-10-09",
+        "page": "1",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn88053099/1798-10-09/ed-1/seq-1.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn88053099/1798-10-09/ed-1/seq-1/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn88053099/1798-10-09/ed-1/seq-1/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn88053099/00271740232/1798100901/0034.jp2",
+        "height": 2928,
+        "width": 2360
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 1266,
+                "y0": 796,
+                "x1": 1979,
+                "y1": 2922
+            },
+            "class": "article",
+            "raw_text": "VIzmingt0n Mereuy.].\n\n\ne. Notwithfflniing the fa-\nvorahle alpett of the prevailing\ndilea(e being nclrly exterminatel\n-yetit behoves thole inh ,bitants\nwho may have removed, and\nwhole dwellings remain lhut,\nto caufe them not only to be ef-\nfe6tually fumigatel, but white\nwafhel and aired, previous to\ntheir return.-Itls is uncertain to\ndecide what effect the prefent\nchangeable weather may produce\nHopes are entertained of a con-\ntinuance of the temperate, for a\nfew weeks; in which cafe, no\nhazard can refult, by return Of\nour friends & neighbours.-This\nwould indeed be pleafing, and\nis devoutly wilhed---But-\nwhilif in the fervor Of our hopes,\nwe contemplate return of our\nformer blei1ings, let not the opu-\nlent--the benevolent forget the\nnumerous families who are de-\nprived of their heads-the many\norphans who are totally depend\nant on their charity-and who,\nwere it not for the unremitting\nattentions of the Board of Health,\nwould have languifhed and died\nin want 1.-The approach of\nan inclement feafon, will meet\nmany poor families unprepared !\nbut the fame benevolence that\nupheld the ifranger, and provid-\ned for the orphan, will furely\nextend its influence to the fup-\nport of the unfortunate.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 274,
+                "y0": 516,
+                "x1": 2258,
+                "y1": 739
+            },
+            "class": "headline",
+            "raw_text": "THIRD DAY (7uzs) EVENING, TENTH MO.\n\n\n(OCZ) 9, 1898.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -2
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1061,
+                "y0": 656,
+                "x1": 1460,
+                "y1": 726
+            },
+            "class": "author",
+            "raw_text": "(0CT.) 9, 1898.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                2,
+                5,
+                0
+            ],
+            "headline": "THIRD DAY (7uzs) EVENING, TENTH MO.\n\n\n(OCZ) 9, 1898.",
+            "article": "VIzmingt0n Mereuy.].\n\n\ne. Notwithfflniing the fa-\nvorahle alpett of the prevailing\ndilea(e being nclrly exterminatel\n-yetit behoves thole inh ,bitants\nwho may have removed, and\nwhole dwellings remain lhut,\nto caufe them not only to be ef-\nfe6tually fumigatel, but white\nwafhel and aired, previous to\ntheir return.-Itls is uncertain to\ndecide what effect the prefent\nchangeable weather may produce\nHopes are entertained of a con-\ntinuance of the temperate, for a\nfew weeks; in which cafe, no\nhazard can refult, by return Of\nour friends & neighbours.-This\nwould indeed be pleafing, and\nis devoutly wilhed---But-\nwhilif in the fervor Of our hopes,\nwe contemplate return of our\nformer blei1ings, let not the opu-\nlent--the benevolent forget the\nnumerous families who are de-\nprived of their heads-the many\norphans who are totally depend\nant on their charity-and who,\nwere it not for the unremitting\nattentions of the Board of Health,\nwould have languifhed and died\nin want 1.-The approach of\nan inclement feafon, will meet\nmany poor families unprepared !\nbut the fame benevolence that\nupheld the ifranger, and provid-\ned for the orphan, will furely\nextend its influence to the fup-\nport of the unfortunate.",
+            "byline": "(0CT.) 9, 1898.",
+            "bbox_list": [
+                {
+                    "x0": 274,
+                    "y0": 516,
+                    "x1": 2258,
+                    "y1": 739
+                },
+                {
+                    "x0": 1061,
+                    "y0": 656,
+                    "x1": 1460,
+                    "y1": 726
+                },
+                {
+                    "x0": 1266,
+                    "y0": 796,
+                    "x1": 1979,
+                    "y1": 2922
+                }
+            ],
+            "bbox": [
+                274,
+                516,
+                2258,
+                2922
+            ],
+            "full_article_id": 1,
+            "id": "1_1798-10-09_p1_sn88053099_00271740232_1798100901_0034.json"
+        }
+    ]
+}

@@ -1,0 +1,852 @@
+{
+    "lccn": {
+        "title": "The Litchfield County post.",
+        "geonames_ids": [
+            "4837799"
+        ],
+        "dbpedia_ids": [
+            "Litchfield%2C_Connecticut"
+        ],
+        "issn": "",
+        "lccn": "sn82014309",
+        "start_year": "1826",
+        "end_year": "1829",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [
+            "sn84020071"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn82014309",
+        "edition": "ed-01",
+        "date": "1827-05-10",
+        "pages": [
+            "seq-1",
+            "seq-2",
+            "seq-3",
+            "seq-4"
+        ]
+    },
+    "page_number": "1",
+    "scan": {
+        "lccn": "sn82014309",
+        "edition": "ed-01",
+        "date": "1827-05-10",
+        "page": "1",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-05-10/ed-1/seq-1.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-05-10/ed-1/seq-1/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-05-10/ed-1/seq-1/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/ct_barnum_ver01/data/sn82014309/00414182926/1827051001/0177.jp2",
+        "height": 7293,
+        "width": 5018
+    },
+    "bboxes": [
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 2007,
+                "y0": 5418,
+                "x1": 2897,
+                "y1": 7020
+            },
+            "class": "article",
+            "raw_text": "British CtOths.-From enc of the most respectable dealers in cloths, we learn, (says the Baltimore American') that English cloths of the spurious or logUood dye, have found their way into this mar ket. There is no doubt, we learn, that they came from the same source through which they have been heretofore intoduc- ed into New York and Boston. The spurious or logwood dyed cloths, after be- ing made up and exposed to the air for a short time, become of a claret or dirty rcd color, and exhibit shabby appearance Our informant, in order to show the difference between the genuine and spurious dyes, applied, in our presence, the test of aqua-fortis, to several pieces of cloth of each kind.-The effect na every. instance was, that the indigo remained unchanged, while the haywood dye was destroyed and turned to scarlet hue. These spurious cloths, from the cheapness of the dye, are sold at low rate, but to the consumer they will always prove a dear bargain.\n\n We have in our pocket-book, specimene of the cloths, that were submitted 10 the test above spoken of. The spurious dyes are turned scarlet. All who deal in John Bulls goods ought to carry a small bottle of. 0quG- fortis with them.-It will often bring JOhn out, with his red coat upon him instead of the blue-the true blue\" which he would pass upon us. -NiIes.",
+            "legibility": "Legible",
+            "full_article_id": 32,
+            "reading_order_id": 0
+        },
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 3819,
+                "y0": 769,
+                "x1": 4720,
+                "y1": 1966
+            },
+            "class": "article",
+            "raw_text": "Congress, during their last session, pas- sel an act to extend the time of obtaining Bounty Lands due thesRevontionary off, cers and soldiers, and their heirs.\n\n The provisions of the act are: That those only who enlisted tn serve during the war, are entitled to the lands or the heirs ot such who were killed in action, and who have not received their lands in any way whatever.\n\n There are no doubt many soldiers and heirs, who have not received their just dues, from ignorance of their claims. The land IS now valuable, being in the state of Ohio, and would be of great benefit to the legal claimants. It will be an act of Justice and benevolence if editors of newspapers in the states of New-York, Vermont, and New-Hampshire, will insert this article in their papers for the information and bene- it of those concerned. Aplication can be made to Mr. John Ogden Dey, of the city of Albany, who will render every as- slstance, having the necessary forms and instructions to facilitate these claims.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 178,
+                "y0": 2119,
+                "x1": 1079,
+                "y1": 3579
+            },
+            "class": "article",
+            "raw_text": "5ENHE Public are respectfully informed that\n\n N ANDERSON'S COUGH DROPSS- FECTOR4L POWDERS have from al, extensive use for years past. proved them selves to be one of the most valuable rem edies ever yet discovered for the cure of Coughs, Colds and other affections of the breast and lungs leading to Consumptions. Thousands have experienced the happy ef- tects of this Heating Balsam and many of the highest responsibility have volrnta,ily given certificates, some of which will accompany each bottle, that will satisfy every uuprejudi- ccd mind that the most extraordinary and un- expected cures have been performed by the use of this medicine in cases of long standing, in which other medicine, had produced no favourable effects, and where the most skill ful Physicians had given them up as hopeless. It is not pretended that they are an nfal!ible cure in all cases, but of such as are incurable, there are but few but what will be greatly re- ievrd by the use of them. Scarcely case of nfColds, Coughs, Pain in the side, difficulty of breathing, want of sleep arising from de- blity, or even seated consutnptons, but may be relieved by timely use of this Healing BaIsam. Each Dollar Bottle of this medi- cine contains about 40 doses, which proves them to be cheap medicine considering their virtues.\n\n For the further satisfaction of the public\n\n the following Certificates are offered for peru",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 212,
+                "y0": 2016,
+                "x1": 1045,
+                "y1": 2114
+            },
+            "class": "headline",
+            "raw_text": "HIGHLY INTERESTING TO THE\n\n AFF[ICTED.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 32,
+            "bbox": {
+                "x0": 1101,
+                "y0": 871,
+                "x1": 1997,
+                "y1": 1026
+            },
+            "class": "article",
+            "raw_text": "Conducted by Miss PIERCE & MT BRACE.\n\n The Summer Term of this institution will commence an the 18th of May next.",
+            "legibility": "Legible",
+            "full_article_id": 33,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1095,
+                "y0": 2615,
+                "x1": 1991,
+                "y1": 4017
+            },
+            "class": "article",
+            "raw_text": ":\" HEREAS, LAVINA WOODRUFF\n\n w of Litchfeld, in said County, has brought her petition to this Court against her husband Salmon Woodruff, now residing in parts to her unknowa, therein stating, among other things, that the said Salmon, at said Litchfeld on or about the first day of July 1923, wilfu!ly deserted her, and ever since has continued and still continues, his desertion, residing out of this state, in the total neglect of all the duties of the marriage covenant, on his part, to be performed, and praying fer bill of divorce from the said Salmon, as her petition on file, dated the 9th day of Februa- ry 1927. Ordered by this Court that said petition be continued to the next Term of this Court, to be holden at Litchfed, within and for said County, on the third Tuesday of August next and that the pendency of said. petition, and a copy of this order, be, published six weeks ] successively, according 10 the statute in such l case provided, in paper printed in Litchfeld, called the LitcAf field County Post, and in a pa per printed in New-Haven, called the Coluns- ] bian Register, which shall he sufficient notice to the said Salmon to appear and defend in said petition.\n\n By the Court,\n\n F. WOLCOTT, Clerk.\n\n true Copy, 6w4S\n\n FREDERICK wOLCOTT, Clerk.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 1227,
+                "y0": 2518,
+                "x1": 1934,
+                "y1": 2610
+            },
+            "class": "headline",
+            "raw_text": "{ LITCHFIELD COUNTY, ss.\n\n } Superior. Court, Feb. Term 1927.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1101,
+                "y0": 6472,
+                "x1": 1985,
+                "y1": 7014
+            },
+            "class": "article",
+            "raw_text": "Africans-In New Haven are 800 col- ored people. A society has been formed there, entitled the \"African Improvement Society of N. Haven,' \" to improve their intellectual, moral, and religious condi- ton; '\" and the work appears to engage earnest attention. The Rev. MT. Jocelyn and others have preached to the Africans for two years past, and number have been made the happy subjects of divine grace.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3813,
+                "y0": 3612,
+                "x1": 4720,
+                "y1": 7031
+            },
+            "class": "article",
+            "raw_text": "\"'\"''o\"'e\" cJ Hte 11o@Se oJ representatives,\n\n Assembled in obedience to the constitution. to deliberate on the welfare and best interests ot the State, the expression of our reverential praise IS due to the Divine and Beneficent Au thor of our liberty, and of every public and prlvate good, for the health, comfort, peace and safety which are enjoyed by the people of this state; for the diffusion of the blessings of religious and literary instructions; for the evidences of improvement with which we arc surrounded; and the preservation of our free\n\n institutions. t-a.'1 [I\n\n The demonstration fthe confidence of my Fellow Citizens, with which have recently been honoured, excites in my breast great sen sibility and demands the unfeigned acknow ledgnent of my most profound gratitude. Rv the magnitude and difficulty of the trust. which the unsolicited sufragcs of an enlighted and generous community have confided to me. combined with an unaffected distrust of nv ability to perform its duties, should be ap- palled were l not sustained by the persuasion that the same friendly and indulgent partiali- ty, which has been literally extended to me. will he continued and form medium, through which my conduct will be viewed. If in ac- cePting the trust rendered to me under cir cumstances greatly enhancing it's responsibii- ] ty. | have been too much influenced bv an anxious desire to become instrumental in g;v- ing increased stability to our invaluable insti- futions, and security to the rights of the peo pie, ana too little ny sense of my own inca pac'ty to discharge its duties, must be allow ed to express the Hope that in my motives will be found some pa!liation of my error.\n\n But eight years have elapsed since I had the honour of participating in the delibera- hons of our State Legislature, and within that period almost an entire change of its men, bers has taken place. It however affords no orCi- nary satisfaction to feel assured that althoupb | have been associated in the performance of public duties, with but few of those who now compose the General Assembly. shall me- vertheIess be aided and sustained by your ex- perlence and wisdom, as well as devotion to the best interests of the State, In all proper enorts to further the public veal, and to pre- serve the ascendancy of fliberty, morality. and law. \"5 ~T The men of the revolution are not seen ;,, our councils. They who bore the brnnt of that mighty and eventfui struggle, who were neither intimidatcd by menace, misled by cor rupton. or subdued ny force, have yielded to time The few of the revolutionary worthies who yet remain-iD the land whose freedom they asserted and achieved to us of another generation, objects of continually increasing | regard and venegation. and are richly entitled not only to our warn,est gratitude, but to the\n\n nations kindest care and liberal support. With\n\n the surrender oft most important and pro-\n\n ductiye branches of revenue, however, were transferred to the government of the nation.\n\n the claims of its intrepid defenders.\n\n To the States, therefore, it only remains to\n\n invoke the special attention of the Rational Legislature to the just claims of the venerable survivors of an army, unparalleled in charac- ter, services, snfferings and success. 1 On the last National Jubilee when every patriots heart was filled with gratitude and joy. and natlon was sounding the praises & celebrating the exploits of the civilians who declared it free and independent, and of tho",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 3847,
+                "y0": 3458,
+                "x1": 4652,
+                "y1": 3533
+            },
+            "class": "headline",
+            "raw_text": "GOVERNORS MESSAGE",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -2
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 3893,
+                "y0": 3543,
+                "x1": 4538,
+                "y1": 3630
+            },
+            "class": "author",
+            "raw_text": "Gentlemen of the Senate, and Gentlemen ofthe House of ReDres,",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3813,
+                "y0": 2079,
+                "x1": 4709,
+                "y1": 3453
+            },
+            "class": "article",
+            "raw_text": "On Wednesday last the Legislature com menced their session at Hartford. The oath of office was administered to Governor ToML1NsoN by Judge PETERS. The House of Representatives was organized by elect ing Ebenezer Young, Esq. Speaker, by vote of l2l, to y scattering Charles Ho,c- Iey, and 4hos. s. Perkins, Esq'rs, Clerks-the former by a vote of 127 to 46 scattering, and the latter by a vote of Ss to 46 scattering.- The Election Sermon was preached by the Rev. Isaac Lewis, Jr. of Greenwich. Ow- ing to the stormy weather, the cencourse of people Was not as large as usual: the Gov efnor's Guards appeared well and performed their evolutions with their accustomed nre- cision.\n\n On Thursday morning the Governor com- muncated his Message to the Legislature bv his private secretary, Cyrus H. Bea,dsly, Esq. Little else was done on Thursday ex- cept reading the Governors Message, ap- pointing committees on the same, and call ing up the unfinished business of the last session. .. h.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 3859,
+                "y0": 2005,
+                "x1": 4646,
+                "y1": 2069
+            },
+            "class": "headline",
+            "raw_text": "Legislature of Connecticut.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 178,
+                "y0": 923,
+                "x1": 1085,
+                "y1": 1989
+            },
+            "class": "article",
+            "raw_text": "\n\n To subscribers ia this UiiLage, Ond subscribers by mGit or by post curriers', TWO DOLLARS per year, payable in Gduduce. To companies Jess than Ten, by mail, or taken from the office, .oere there is joint responsibility or where one 0rdiutdeGL iS responsible, S1 ,5O per gear, n ad- rdnce. To Gke companies of more than ten, S1,- 25 per gear, iu GdUance.-Where payment is de- tayed to Ne end cf the gear 25 cts. aoiH be added to eoch of the 0boUe prices.\n\n No papers ,OiN De discontinued untu oH ar- rearages are paid, except Ut the discretion c the publisher.\n\n ADVERTISING\n\n Fer ha!f sq,onre, three Insertions, or less, 75 ee\"ts ;-mo,e tiom hul fu square, ossd Jess h.a, square, s7 l-2 ccatS ;-tor one sqss1rc, S1 DO ]; --a\"d |\" tie sa1ae pfopor!ioa jof more than c sq\"ore; for continuing advertisements more :hae three Weeks' 20 per cent per ,Oeek sOu be charged\n\n PROBATE NOTICES. dtininistfator2' oged Executors S1,OO Commissioner g1Q5",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 241,
+                "y0": 729,
+                "x1": 1040,
+                "y1": 867
+            },
+            "class": "headline",
+            "raw_text": "BX g. s. SMITH, EDITOR AND PROPRIETOR.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -2
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 509,
+                "y0": 894,
+                "x1": 772,
+                "y1": 941
+            },
+            "class": "headline",
+            "raw_text": "TERMS,",
+            "legibility": "Questionable",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1101,
+                "y0": 5031,
+                "x1": 1985,
+                "y1": 5345
+            },
+            "class": "article",
+            "raw_text": "\" ILL receive weekly from the Kiln, w fresh Lime of the first quality. and at very low price. Not more than the gate fee will be added to the Canaan and Sheffield\n\n  wholesale price.\n\n Norfolk, April, 1897. tf43",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 1147,
+                "y0": 4854,
+                "x1": 1917,
+                "y1": 5020
+            },
+            "class": "headline",
+            "raw_text": "LIME! LIME! E. H. DENISON",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 178,
+                "y0": 3657,
+                "x1": 1085,
+                "y1": 5909
+            },
+            "class": "article",
+            "raw_text": "Dr. MELLEN, Sir-the cause of humanity demands of me to give the following state ment: My wife had for six years been in a decline and pronounced by her Physicians to be in consumptiye state, and was attended by a severe pain in her side, with Cough &. difficulty of breathing. She was reduced so low as to be unable to get from her bed to the fire without aid. All hopes of her recovery had long been given up. In this situation, was prevailed upon, as a last possible resort yet without any hopes of success, to make use of Anderson's Cough Drops\" She com menced the use of them in February last and after using two bottles, to the astonishment of all, in the month of May following the health of my wife was entirely restored, and since which, her health and strength were perhaps never better. Feeling deep interest that the public in general may resort to the same remedy, when their friends and relatives are apparently, or evidently on the brink of the grave,- to rescue them from from the same. You are at liberty to publish the above.\n\n I am respectfully, &c.\n\n JAMES H. STYLES. Rhine5eck, Dutckess co. (N. Y.) Nou. 8. 1926. This is to certify that the subscriber was brought very low by splitting blood, attended with cough and catarrh. and that nothing afforded me real relief until com Menced ta- hiuS AHucEooH Noubh DtoPa, tHc oSo oi which were the means in the hand of God of restoring me again to a comfortable state of health.\n\n And do further certify that the wife of Mir. Nathan Huntington, living in the same place was afflicted with very bad cough for num- Der of years, and that in 1823 she was redu- ced so low that it was thought she must soon he in her grave, as she was scarcely able to walk from her bed to the fire, when she com menced taking Andersen's Cough Drops, the use of which, in short time so far restored her, that she was soon able to do good days work. can cheerfully recommend this med icine to the public.\n\n PHILO HUDSON, Pastor\n\n of the Church in Ashford, (Conn.)\n\n Ashford, Sept. 25, 1924.\n\n QT For sale by w. & S. BUEL.\n\n Litchfeld, Dec. 4. 1926. 25eOw6m",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 304,
+                "y0": 3589,
+                "x1": 988,
+                "y1": 3641
+            },
+            "class": "headline",
+            "raw_text": "9rEw cERT1r1cAYHs.",
+            "legibility": "Questionable",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 1101,
+                "y0": 866,
+                "x1": 1985,
+                "y1": 2490
+            },
+            "class": "article",
+            "raw_text": "Conducted by Miss PIERCE & MT BRACE\n\n The Summer Term of this institution will commence an the 18th of May next.\n\n TERMS.\n\n Tuition, per quarter of IF weeks, dollars Music, '' l2 French, 6 , Drawing, q G. Scholars in the lower branches are charged $l0 R,r the term of twenty -four weeks.\n\n The text books used are\n\n Murray's Grammar,-W oodbridge's GeOg- raphy and AtlaS,-Dabol's or Willett's Arith- nietic,-Abridgement of Blairs Rhetorc,- Conversations on Natural Philosophy,-do. on Chemistry,-Paiey's Moral Philosophy Hedges LOgic,-Ai;son on Taste,-Abridge- ment of Universal History,-RusselI's Mod ern Europe, with COote's Continuation, and Goodrch's American History. The Latin & Greek languages, the Mathematical sciences, with any other studies. can be pursued at the option ofthe scholar.\n\n The Instructors hope that the long estab- lished reputation of this Institution their ex- perience and attention to their duties; the beauty and healtfulness of the village ol Litchfeld; and polished manners and litera- ry character of its inhabitants, may author ise them to request the continuance of the public patronage.\n\n Board can be obtained from S1,75 to Se,O0 per week, exclusive of washing.\n\n Litchfeld, April 24, 1897.",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 1164,
+                "y0": 734,
+                "x1": 1951,
+                "y1": 855
+            },
+            "class": "headline",
+            "raw_text": "LITCHFIELD FEMALE\n\n ACADEMY.",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": -1
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 2007,
+                "y0": 860,
+                "x1": 2874,
+                "y1": 3573
+            },
+            "class": "article",
+            "raw_text": "I1OW sweet tue IdEOScape! MOrnlnS IWlne Her tresses round the brow of day, And bright mists O'er the forest pines,\n\n Like happy spirits float away, To revel'On the mountains crown, @ Whence the glad stream comes shoutin down\n\n Through woods and rocks that hang on high Like clouds against the deep blue sky. The woven sounds of bird and stream,\n\n Are stealing beautiful and deep Upon the spirit, like dream\n\n Of music on the hour of sleep: And gently from the dewy bowers, Soft murmurs, like the breath of flowers, Are winding through the purple grove, And blending with the notes of Love. z The streams in veins of beauty flow; The sunrise gale Der flower and tree So lightly breathes, it scarce would blow\n\n fairy bark upon the sea;s. It comes so fresh, sOwiid, so sweet, It draws the heart from its retreat To ningle with the gIories born In the first holy light of morn. The lake, unrufffed by the breeze, c-\n\n Smiles in its sweet unbrOken rest, As it were dreaming ofthe trees\n\n And blossoms pictured on its breast; Its depths are glowing bright and fair, And the deep skies seem hallowcd there, Soft trembling-as they felt the thrill .. Of music echoing from the hill. A cloud is on the sky above,\n\n And calmly OCT the young years blue, ''Tis coming. like thing of Love,\n\n To gladden. in the rising dew; .., . It's white waves with the sunlight blend, - And gentle Spirits seem to bend From its unroiing folds, to hear The glad sounds in our joyous sphere. The living soulof beauty fills\n\n The air with glorious visions-bright, They finger round the sunny hills\n\n And wander in the clear blue light; Of to the breathing heaven they go-- Along the earth they live and glow Shed Der the lake their happy smiles, And beckon to its glittering Isles. Oh! at this hour-when air and earth\n\n Are gushing Love, and Joy. and Light, And songs ofgladness halthe birth\n\n Of all that's beautiful and bright; Each heart beats high-each thought is blow To fame-the Spirit drinks the tone Of brighter worlds, and melts away In visions of Eternal day",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 2178,
+                "y0": 746,
+                "x1": 2800,
+                "y1": 838
+            },
+            "class": "headline",
+            "raw_text": "From the Hartford Times. MORNING IN SPRING. >",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": -1
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 2896,
+                "y0": 723,
+                "x1": 3797,
+                "y1": 6103
+            },
+            "class": "article",
+            "raw_text": "1 Self FIageHatien.-Mr. Moore, a mem- Der Congress from Kentucky, ill an ad- dress to his constituents, states \"that he has beenassured by gentlemen representing the Southern States, that in every district or county ot those states, popular meetings will be held, and that resolutions will be adopted, containing the most solemn pledges, not to purchase any article com ing from that part of the Union, tlrat have contributed to lay so oppressive tax upon the people of the Southern States, for the purpose of pampering few wealthy stockholders of the incorporated compa- nies of New England.\n\n The obvions remark which suggests it. self upon this inconsiderate ebullition of political and sectional spleen is, that if our northern manufactures are not afforded 10 our southern neighbours cheaper than they need of non-intecourse to keep them out of their marketst-But if they are afforded cheaper, it will only be punishing them selves to refuse to buy them.-But all such Apprehension is wholly idle; no laws or resolutions of non-intercourse which they can form, will be sufficient to induce the great body of their people to eat or wear dear article of poor fabric, when they can get 6y book or by crook cheap one of better texture. And yet they >will--for if all the restrictive laws of the U. States could not during our embargo and non-in- tercourse system, keep out millions of British goods from being consumed ill our country, what will the laws and resolutions ot few of the Southern States effect in shutting out our northern manufactures, from people who have an interest in buy ing them !--Even Gov. Troops |\" Han cock troop of horse' would not stop e. nough of our cotton to make tham a shirt piece. Utica Sentinel.\n\n Soratoga, county, W. Y April, 1927.\n\n In the spring of 1925, a few bushels of hemp seed were brought into this vicinity, which was sown and planted for the pur- pose of obtaining seed :; the quantity of seed raised the first year was about POO bushels. In the Spring of 1926, the 200 bushels were sown and planted as before, and although both seasons were very unfa- vcrable on account of severe drought, there was raised about 1900 bushels of seed and about g tons of hemp. Hemp seed has sold, this season, generally, for a- bout four dollars per bushel. There will be sown the present season,in this vicinity, six hundred acres-which will probably produce $3O,OOO dollars worth of hemp and seed. It does not require more labour per acre than a crop of wheat. Hemp is dressed 6y c machine ,Oith0ut rotting, and meets soiM e ready sale at market. Last season one and half acres produced S16O worth of hemp and seed, exclusive of the premium for dressing. The premium for dressing unrotted hemp is one third.\n\n Nites Reg.\n\n From he Hampshire Eng Telegraph.\n\n Curious E9sh.-The skeleton ofa very curious and rare animal has been landed here, this week, from the Diadem trans- port, which has been viewed by great number of persons, as the remains of Mermaid, but which appears, from MT. Sights description, which we subjoin, to be DugOng. Itwas shot by lieut.. Eme- ry, near the island of Mombass, and died shortly afterwards. When, seen, the body of the animal was raised considerably a. bove the surface of the water; and from the near appearance of that part of it to the human form, was then judged to be a mermaid. 1t was in company with two others, and they were all wading theIr way by means of what the spectators called their arms. Lieut.. Emery ate some ofthe flesh, which he describes as being very sa- voury. He was unable to preserve the shin but the bones are saved entire. It is rather more than five feet long. s' To the printer.-C considerable curiosity hav- ing been excited by anaccount of the land- ing at this port of the skeleton of \"real mermaid\" was induced to examine the subject in question. Ihave no doubt but that il is the bony fabric of an animal cal- led the Dugong, a native ofthe Indian seas, and regarded by many ofthe natives of the different islands as Royal fish; the pee culiar form of the head, more especially the lower jaw, being at once characterize tic mark-and also the form, situation, ,and number of the teeth. There are many other peculiarities, more especially the mode by which the ribs are articulated to the breast bone, and the form of the brcast bone itself, which arc highly interesting to the comparative anatOmist, and which serve",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 2013,
+                "y0": 3600,
+                "x1": 2897,
+                "y1": 5390
+            },
+            "class": "article",
+            "raw_text": "POPULATION-POWER--WEALTH. It has been we'll observed that the fol- lowing lines of Southey, deserve to be written in diamonds\" They apply not to England only--but to the labourinq classes in every country, and in the pres- ent state of things and the actual progress ofpopulation in some of our states, with the comparative decline of power and wealth in others, are applicable to the U- uited States.-England, indeed is over- burthened with taxes and monopolies-but ve have room enough for the {. thousandth generation ;' and it is the class of persons alluded to, that must plant and support our banner on the shores of our country. or bear it round the world.-Nikes.\n\n \"Train up thy children, England, In the ways of frighteousness--and feed them\n\n WIh the bread of wholesome doc Where hast thou mnes-but in their industry? Thy bulwarks where--but in their breasts T.\n\n thy might,\n\n But in their arms? ...\n\n Shall not their NUMBERS, therefore, be thy\n\n weolth - .: Thy strength,-thy po'cer,-thy sqtety,--and\n\n thy pride? .l,.\n\n o grief then-grief and shame, If in this dourishing land there should be\n\n dwellings,\n\n Where the newborn babe doth bring unto\n\n its parents soul\n\n No joy !-where squallid poverty receives\n\n it at the birth,\n\n And, on her withered knees, Gives it the scanty bread of discontent!",
+            "legibility": "Legible",
+            "full_article_id": 28,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                31
+            ],
+            "headline": "",
+            "article": "British CtOths.-From enc of the most respectable dealers in cloths, we learn, (says the Baltimore American') that English cloths of the spurious or logUood dye, have found their way into this mar ket. There is no doubt, we learn, that they came from the same source through which they have been heretofore intoduc- ed into New York and Boston. The spurious or logwood dyed cloths, after be- ing made up and exposed to the air for a short time, become of a claret or dirty rcd color, and exhibit shabby appearance Our informant, in order to show the difference between the genuine and spurious dyes, applied, in our presence, the test of aqua-fortis, to several pieces of cloth of each kind.-The effect na every. instance was, that the indigo remained unchanged, while the haywood dye was destroyed and turned to scarlet hue. These spurious cloths, from the cheapness of the dye, are sold at low rate, but to the consumer they will always prove a dear bargain.\n\n We have in our pocket-book, specimene of the cloths, that were submitted 10 the test above spoken of. The spurious dyes are turned scarlet. All who deal in John Bulls goods ought to carry a small bottle of. 0quG- fortis with them.-It will often bring JOhn out, with his red coat upon him instead of the blue-the true blue\" which he would pass upon us. -NiIes.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2007,
+                    "y0": 5418,
+                    "x1": 2897,
+                    "y1": 7020
+                }
+            ],
+            "bbox": [
+                2007,
+                5418,
+                2897,
+                7020
+            ],
+            "full_article_id": 32,
+            "id": "32_1827-05-10_p1_sn82014309_00414182926_1827051001_0177.json"
+        },
+        {
+            "object_ids": [
+                0
+            ],
+            "headline": "",
+            "article": "Congress, during their last session, pas- sel an act to extend the time of obtaining Bounty Lands due thesRevontionary off, cers and soldiers, and their heirs.\n\n The provisions of the act are: That those only who enlisted tn serve during the war, are entitled to the lands or the heirs ot such who were killed in action, and who have not received their lands in any way whatever.\n\n There are no doubt many soldiers and heirs, who have not received their just dues, from ignorance of their claims. The land IS now valuable, being in the state of Ohio, and would be of great benefit to the legal claimants. It will be an act of Justice and benevolence if editors of newspapers in the states of New-York, Vermont, and New-Hampshire, will insert this article in their papers for the information and bene- it of those concerned. Aplication can be made to Mr. John Ogden Dey, of the city of Albany, who will render every as- slstance, having the necessary forms and instructions to facilitate these claims.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3819,
+                    "y0": 769,
+                    "x1": 4720,
+                    "y1": 1966
+                }
+            ],
+            "bbox": [
+                3819,
+                769,
+                4720,
+                1966
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-05-10_p1_sn82014309_00414182926_1827051001_0177.json"
+        },
+        {
+            "object_ids": [
+                20,
+                1
+            ],
+            "headline": "HIGHLY INTERESTING TO THE\n\n AFF[ICTED.",
+            "article": "5ENHE Public are respectfully informed that\n\n N ANDERSON'S COUGH DROPSS- FECTOR4L POWDERS have from al, extensive use for years past. proved them selves to be one of the most valuable rem edies ever yet discovered for the cure of Coughs, Colds and other affections of the breast and lungs leading to Consumptions. Thousands have experienced the happy ef- tects of this Heating Balsam and many of the highest responsibility have volrnta,ily given certificates, some of which will accompany each bottle, that will satisfy every uuprejudi- ccd mind that the most extraordinary and un- expected cures have been performed by the use of this medicine in cases of long standing, in which other medicine, had produced no favourable effects, and where the most skill ful Physicians had given them up as hopeless. It is not pretended that they are an nfal!ible cure in all cases, but of such as are incurable, there are but few but what will be greatly re- ievrd by the use of them. Scarcely case of nfColds, Coughs, Pain in the side, difficulty of breathing, want of sleep arising from de- blity, or even seated consutnptons, but may be relieved by timely use of this Healing BaIsam. Each Dollar Bottle of this medi- cine contains about 40 doses, which proves them to be cheap medicine considering their virtues.\n\n For the further satisfaction of the public\n\n the following Certificates are offered for peru",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 212,
+                    "y0": 2016,
+                    "x1": 1045,
+                    "y1": 2114
+                },
+                {
+                    "x0": 178,
+                    "y0": 2119,
+                    "x1": 1079,
+                    "y1": 3579
+                }
+            ],
+            "bbox": [
+                178,
+                2016,
+                1079,
+                3579
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-05-10_p1_sn82014309_00414182926_1827051001_0177.json"
+        },
+        {
+            "object_ids": [
+                32
+            ],
+            "headline": "",
+            "article": "Conducted by Miss PIERCE & MT BRACE.\n\n The Summer Term of this institution will commence an the 18th of May next.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1101,
+                    "y0": 871,
+                    "x1": 1997,
+                    "y1": 1026
+                }
+            ],
+            "bbox": [
+                1101,
+                871,
+                1997,
+                1026
+            ],
+            "full_article_id": 33,
+            "id": "33_1827-05-10_p1_sn82014309_00414182926_1827051001_0177.json"
+        },
+        {
+            "object_ids": [
+                19,
+                3
+            ],
+            "headline": "{ LITCHFIELD COUNTY, ss.\n\n } Superior. Court, Feb. Term 1927.",
+            "article": ":\" HEREAS, LAVINA WOODRUFF\n\n w of Litchfeld, in said County, has brought her petition to this Court against her husband Salmon Woodruff, now residing in parts to her unknowa, therein stating, among other things, that the said Salmon, at said Litchfeld on or about the first day of July 1923, wilfu!ly deserted her, and ever since has continued and still continues, his desertion, residing out of this state, in the total neglect of all the duties of the marriage covenant, on his part, to be performed, and praying fer bill of divorce from the said Salmon, as her petition on file, dated the 9th day of Februa- ry 1927. Ordered by this Court that said petition be continued to the next Term of this Court, to be holden at Litchfed, within and for said County, on the third Tuesday of August next and that the pendency of said. petition, and a copy of this order, be, published six weeks ] successively, according 10 the statute in such l case provided, in paper printed in Litchfeld, called the LitcAf field County Post, and in a pa per printed in New-Haven, called the Coluns- ] bian Register, which shall he sufficient notice to the said Salmon to appear and defend in said petition.\n\n By the Court,\n\n F. WOLCOTT, Clerk.\n\n true Copy, 6w4S\n\n FREDERICK wOLCOTT, Clerk.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1227,
+                    "y0": 2518,
+                    "x1": 1934,
+                    "y1": 2610
+                },
+                {
+                    "x0": 1095,
+                    "y0": 2615,
+                    "x1": 1991,
+                    "y1": 4017
+                }
+            ],
+            "bbox": [
+                1095,
+                2518,
+                1991,
+                4017
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-05-10_p1_sn82014309_00414182926_1827051001_0177.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "Africans-In New Haven are 800 col- ored people. A society has been formed there, entitled the \"African Improvement Society of N. Haven,' \" to improve their intellectual, moral, and religious condi- ton; '\" and the work appears to engage earnest attention. The Rev. MT. Jocelyn and others have preached to the Africans for two years past, and number have been made the happy subjects of divine grace.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1101,
+                    "y0": 6472,
+                    "x1": 1985,
+                    "y1": 7014
+                }
+            ],
+            "bbox": [
+                1101,
+                6472,
+                1985,
+                7014
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-05-10_p1_sn82014309_00414182926_1827051001_0177.json"
+        },
+        {
+            "object_ids": [
+                24,
+                28,
+                5
+            ],
+            "headline": "GOVERNORS MESSAGE",
+            "article": "\"'\"''o\"'e\" cJ Hte 11o@Se oJ representatives,\n\n Assembled in obedience to the constitution. to deliberate on the welfare and best interests ot the State, the expression of our reverential praise IS due to the Divine and Beneficent Au thor of our liberty, and of every public and prlvate good, for the health, comfort, peace and safety which are enjoyed by the people of this state; for the diffusion of the blessings of religious and literary instructions; for the evidences of improvement with which we arc surrounded; and the preservation of our free\n\n institutions. t-a.'1 [I\n\n The demonstration fthe confidence of my Fellow Citizens, with which have recently been honoured, excites in my breast great sen sibility and demands the unfeigned acknow ledgnent of my most profound gratitude. Rv the magnitude and difficulty of the trust. which the unsolicited sufragcs of an enlighted and generous community have confided to me. combined with an unaffected distrust of nv ability to perform its duties, should be ap- palled were l not sustained by the persuasion that the same friendly and indulgent partiali- ty, which has been literally extended to me. will he continued and form medium, through which my conduct will be viewed. If in ac- cePting the trust rendered to me under cir cumstances greatly enhancing it's responsibii- ] ty. | have been too much influenced bv an anxious desire to become instrumental in g;v- ing increased stability to our invaluable insti- futions, and security to the rights of the peo pie, ana too little ny sense of my own inca pac'ty to discharge its duties, must be allow ed to express the Hope that in my motives will be found some pa!liation of my error.\n\n But eight years have elapsed since I had the honour of participating in the delibera- hons of our State Legislature, and within that period almost an entire change of its men, bers has taken place. It however affords no orCi- nary satisfaction to feel assured that althoupb | have been associated in the performance of public duties, with but few of those who now compose the General Assembly. shall me- vertheIess be aided and sustained by your ex- perlence and wisdom, as well as devotion to the best interests of the State, In all proper enorts to further the public veal, and to pre- serve the ascendancy of fliberty, morality. and law. \"5 ~T The men of the revolution are not seen ;,, our councils. They who bore the brnnt of that mighty and eventfui struggle, who were neither intimidatcd by menace, misled by cor rupton. or subdued ny force, have yielded to time The few of the revolutionary worthies who yet remain-iD the land whose freedom they asserted and achieved to us of another generation, objects of continually increasing | regard and venegation. and are richly entitled not only to our warn,est gratitude, but to the\n\n nations kindest care and liberal support. With\n\n the surrender oft most important and pro-\n\n ductiye branches of revenue, however, were transferred to the government of the nation.\n\n the claims of its intrepid defenders.\n\n To the States, therefore, it only remains to\n\n invoke the special attention of the Rational Legislature to the just claims of the venerable survivors of an army, unparalleled in charac- ter, services, snfferings and success. 1 On the last National Jubilee when every patriots heart was filled with gratitude and joy. and natlon was sounding the praises & celebrating the exploits of the civilians who declared it free and independent, and of tho",
+            "byline": "Gentlemen of the Senate, and Gentlemen ofthe House of ReDres,",
+            "bbox_list": [
+                {
+                    "x0": 3847,
+                    "y0": 3458,
+                    "x1": 4652,
+                    "y1": 3533
+                },
+                {
+                    "x0": 3893,
+                    "y0": 3543,
+                    "x1": 4538,
+                    "y1": 3630
+                },
+                {
+                    "x0": 3813,
+                    "y0": 3612,
+                    "x1": 4720,
+                    "y1": 7031
+                }
+            ],
+            "bbox": [
+                3813,
+                3458,
+                4720,
+                7031
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-05-10_p1_sn82014309_00414182926_1827051001_0177.json"
+        },
+        {
+            "object_ids": [
+                16,
+                6
+            ],
+            "headline": "Legislature of Connecticut.",
+            "article": "On Wednesday last the Legislature com menced their session at Hartford. The oath of office was administered to Governor ToML1NsoN by Judge PETERS. The House of Representatives was organized by elect ing Ebenezer Young, Esq. Speaker, by vote of l2l, to y scattering Charles Ho,c- Iey, and 4hos. s. Perkins, Esq'rs, Clerks-the former by a vote of 127 to 46 scattering, and the latter by a vote of Ss to 46 scattering.- The Election Sermon was preached by the Rev. Isaac Lewis, Jr. of Greenwich. Ow- ing to the stormy weather, the cencourse of people Was not as large as usual: the Gov efnor's Guards appeared well and performed their evolutions with their accustomed nre- cision.\n\n On Thursday morning the Governor com- muncated his Message to the Legislature bv his private secretary, Cyrus H. Bea,dsly, Esq. Little else was done on Thursday ex- cept reading the Governors Message, ap- pointing committees on the same, and call ing up the unfinished business of the last session. .. h.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3859,
+                    "y0": 2005,
+                    "x1": 4646,
+                    "y1": 2069
+                },
+                {
+                    "x0": 3813,
+                    "y0": 2079,
+                    "x1": 4709,
+                    "y1": 3453
+                }
+            ],
+            "bbox": [
+                3813,
+                2005,
+                4709,
+                3453
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-05-10_p1_sn82014309_00414182926_1827051001_0177.json"
+        },
+        {
+            "object_ids": [
+                11,
+                26,
+                7
+            ],
+            "headline": "BX g. s. SMITH, EDITOR AND PROPRIETOR.\n\nTERMS,",
+            "article": "\n\n To subscribers ia this UiiLage, Ond subscribers by mGit or by post curriers', TWO DOLLARS per year, payable in Gduduce. To companies Jess than Ten, by mail, or taken from the office, .oere there is joint responsibility or where one 0rdiutdeGL iS responsible, S1 ,5O per gear, n ad- rdnce. To Gke companies of more than ten, S1,- 25 per gear, iu GdUance.-Where payment is de- tayed to Ne end cf the gear 25 cts. aoiH be added to eoch of the 0boUe prices.\n\n No papers ,OiN De discontinued untu oH ar- rearages are paid, except Ut the discretion c the publisher.\n\n ADVERTISING\n\n Fer ha!f sq,onre, three Insertions, or less, 75 ee\"ts ;-mo,e tiom hul fu square, ossd Jess h.a, square, s7 l-2 ccatS ;-tor one sqss1rc, S1 DO ]; --a\"d |\" tie sa1ae pfopor!ioa jof more than c sq\"ore; for continuing advertisements more :hae three Weeks' 20 per cent per ,Oeek sOu be charged\n\n PROBATE NOTICES. dtininistfator2' oged Executors S1,OO Commissioner g1Q5",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 241,
+                    "y0": 729,
+                    "x1": 1040,
+                    "y1": 867
+                },
+                {
+                    "x0": 509,
+                    "y0": 894,
+                    "x1": 772,
+                    "y1": 941
+                },
+                {
+                    "x0": 178,
+                    "y0": 923,
+                    "x1": 1085,
+                    "y1": 1989
+                }
+            ],
+            "bbox": [
+                178,
+                729,
+                1085,
+                1989
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-05-10_p1_sn82014309_00414182926_1827051001_0177.json"
+        },
+        {
+            "object_ids": [
+                18,
+                10
+            ],
+            "headline": "LIME! LIME! E. H. DENISON",
+            "article": "\" ILL receive weekly from the Kiln, w fresh Lime of the first quality. and at very low price. Not more than the gate fee will be added to the Canaan and Sheffield\n\n  wholesale price.\n\n Norfolk, April, 1897. tf43",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1147,
+                    "y0": 4854,
+                    "x1": 1917,
+                    "y1": 5020
+                },
+                {
+                    "x0": 1101,
+                    "y0": 5031,
+                    "x1": 1985,
+                    "y1": 5345
+                }
+            ],
+            "bbox": [
+                1101,
+                4854,
+                1985,
+                5345
+            ],
+            "full_article_id": 11,
+            "id": "11_1827-05-10_p1_sn82014309_00414182926_1827051001_0177.json"
+        },
+        {
+            "object_ids": [
+                23,
+                12
+            ],
+            "headline": "9rEw cERT1r1cAYHs.",
+            "article": "Dr. MELLEN, Sir-the cause of humanity demands of me to give the following state ment: My wife had for six years been in a decline and pronounced by her Physicians to be in consumptiye state, and was attended by a severe pain in her side, with Cough &. difficulty of breathing. She was reduced so low as to be unable to get from her bed to the fire without aid. All hopes of her recovery had long been given up. In this situation, was prevailed upon, as a last possible resort yet without any hopes of success, to make use of Anderson's Cough Drops\" She com menced the use of them in February last and after using two bottles, to the astonishment of all, in the month of May following the health of my wife was entirely restored, and since which, her health and strength were perhaps never better. Feeling deep interest that the public in general may resort to the same remedy, when their friends and relatives are apparently, or evidently on the brink of the grave,- to rescue them from from the same. You are at liberty to publish the above.\n\n I am respectfully, &c.\n\n JAMES H. STYLES. Rhine5eck, Dutckess co. (N. Y.) Nou. 8. 1926. This is to certify that the subscriber was brought very low by splitting blood, attended with cough and catarrh. and that nothing afforded me real relief until com Menced ta- hiuS AHucEooH Noubh DtoPa, tHc oSo oi which were the means in the hand of God of restoring me again to a comfortable state of health.\n\n And do further certify that the wife of Mir. Nathan Huntington, living in the same place was afflicted with very bad cough for num- Der of years, and that in 1823 she was redu- ced so low that it was thought she must soon he in her grave, as she was scarcely able to walk from her bed to the fire, when she com menced taking Andersen's Cough Drops, the use of which, in short time so far restored her, that she was soon able to do good days work. can cheerfully recommend this med icine to the public.\n\n PHILO HUDSON, Pastor\n\n of the Church in Ashford, (Conn.)\n\n Ashford, Sept. 25, 1924.\n\n QT For sale by w. & S. BUEL.\n\n Litchfeld, Dec. 4. 1926. 25eOw6m",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 304,
+                    "y0": 3589,
+                    "x1": 988,
+                    "y1": 3641
+                },
+                {
+                    "x0": 178,
+                    "y0": 3657,
+                    "x1": 1085,
+                    "y1": 5909
+                }
+            ],
+            "bbox": [
+                178,
+                3589,
+                1085,
+                5909
+            ],
+            "full_article_id": 13,
+            "id": "13_1827-05-10_p1_sn82014309_00414182926_1827051001_0177.json"
+        },
+        {
+            "object_ids": [
+                13,
+                14
+            ],
+            "headline": "LITCHFIELD FEMALE\n\n ACADEMY.",
+            "article": "Conducted by Miss PIERCE & MT BRACE\n\n The Summer Term of this institution will commence an the 18th of May next.\n\n TERMS.\n\n Tuition, per quarter of IF weeks, dollars Music, '' l2 French, 6 , Drawing, q G. Scholars in the lower branches are charged $l0 R,r the term of twenty -four weeks.\n\n The text books used are\n\n Murray's Grammar,-W oodbridge's GeOg- raphy and AtlaS,-Dabol's or Willett's Arith- nietic,-Abridgement of Blairs Rhetorc,- Conversations on Natural Philosophy,-do. on Chemistry,-Paiey's Moral Philosophy Hedges LOgic,-Ai;son on Taste,-Abridge- ment of Universal History,-RusselI's Mod ern Europe, with COote's Continuation, and Goodrch's American History. The Latin & Greek languages, the Mathematical sciences, with any other studies. can be pursued at the option ofthe scholar.\n\n The Instructors hope that the long estab- lished reputation of this Institution their ex- perience and attention to their duties; the beauty and healtfulness of the village ol Litchfeld; and polished manners and litera- ry character of its inhabitants, may author ise them to request the continuance of the public patronage.\n\n Board can be obtained from S1,75 to Se,O0 per week, exclusive of washing.\n\n Litchfeld, April 24, 1897.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1164,
+                    "y0": 734,
+                    "x1": 1951,
+                    "y1": 855
+                },
+                {
+                    "x0": 1101,
+                    "y0": 866,
+                    "x1": 1985,
+                    "y1": 2490
+                }
+            ],
+            "bbox": [
+                1101,
+                734,
+                1985,
+                2490
+            ],
+            "full_article_id": 15,
+            "id": "15_1827-05-10_p1_sn82014309_00414182926_1827051001_0177.json"
+        },
+        {
+            "object_ids": [
+                15,
+                21
+            ],
+            "headline": "From the Hartford Times. MORNING IN SPRING. >",
+            "article": "I1OW sweet tue IdEOScape! MOrnlnS IWlne Her tresses round the brow of day, And bright mists O'er the forest pines,\n\n Like happy spirits float away, To revel'On the mountains crown, @ Whence the glad stream comes shoutin down\n\n Through woods and rocks that hang on high Like clouds against the deep blue sky. The woven sounds of bird and stream,\n\n Are stealing beautiful and deep Upon the spirit, like dream\n\n Of music on the hour of sleep: And gently from the dewy bowers, Soft murmurs, like the breath of flowers, Are winding through the purple grove, And blending with the notes of Love. z The streams in veins of beauty flow; The sunrise gale Der flower and tree So lightly breathes, it scarce would blow\n\n fairy bark upon the sea;s. It comes so fresh, sOwiid, so sweet, It draws the heart from its retreat To ningle with the gIories born In the first holy light of morn. The lake, unrufffed by the breeze, c-\n\n Smiles in its sweet unbrOken rest, As it were dreaming ofthe trees\n\n And blossoms pictured on its breast; Its depths are glowing bright and fair, And the deep skies seem hallowcd there, Soft trembling-as they felt the thrill .. Of music echoing from the hill. A cloud is on the sky above,\n\n And calmly OCT the young years blue, ''Tis coming. like thing of Love,\n\n To gladden. in the rising dew; .., . It's white waves with the sunlight blend, - And gentle Spirits seem to bend From its unroiing folds, to hear The glad sounds in our joyous sphere. The living soulof beauty fills\n\n The air with glorious visions-bright, They finger round the sunny hills\n\n And wander in the clear blue light; Of to the breathing heaven they go-- Along the earth they live and glow Shed Der the lake their happy smiles, And beckon to its glittering Isles. Oh! at this hour-when air and earth\n\n Are gushing Love, and Joy. and Light, And songs ofgladness halthe birth\n\n Of all that's beautiful and bright; Each heart beats high-each thought is blow To fame-the Spirit drinks the tone Of brighter worlds, and melts away In visions of Eternal day",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2178,
+                    "y0": 746,
+                    "x1": 2800,
+                    "y1": 838
+                },
+                {
+                    "x0": 2007,
+                    "y0": 860,
+                    "x1": 2874,
+                    "y1": 3573
+                }
+            ],
+            "bbox": [
+                2007,
+                746,
+                2874,
+                3573
+            ],
+            "full_article_id": 22,
+            "id": "22_1827-05-10_p1_sn82014309_00414182926_1827051001_0177.json"
+        },
+        {
+            "object_ids": [
+                22
+            ],
+            "headline": "",
+            "article": "1 Self FIageHatien.-Mr. Moore, a mem- Der Congress from Kentucky, ill an ad- dress to his constituents, states \"that he has beenassured by gentlemen representing the Southern States, that in every district or county ot those states, popular meetings will be held, and that resolutions will be adopted, containing the most solemn pledges, not to purchase any article com ing from that part of the Union, tlrat have contributed to lay so oppressive tax upon the people of the Southern States, for the purpose of pampering few wealthy stockholders of the incorporated compa- nies of New England.\n\n The obvions remark which suggests it. self upon this inconsiderate ebullition of political and sectional spleen is, that if our northern manufactures are not afforded 10 our southern neighbours cheaper than they need of non-intecourse to keep them out of their marketst-But if they are afforded cheaper, it will only be punishing them selves to refuse to buy them.-But all such Apprehension is wholly idle; no laws or resolutions of non-intercourse which they can form, will be sufficient to induce the great body of their people to eat or wear dear article of poor fabric, when they can get 6y book or by crook cheap one of better texture. And yet they >will--for if all the restrictive laws of the U. States could not during our embargo and non-in- tercourse system, keep out millions of British goods from being consumed ill our country, what will the laws and resolutions ot few of the Southern States effect in shutting out our northern manufactures, from people who have an interest in buy ing them !--Even Gov. Troops |\" Han cock troop of horse' would not stop e. nough of our cotton to make tham a shirt piece. Utica Sentinel.\n\n Soratoga, county, W. Y April, 1927.\n\n In the spring of 1925, a few bushels of hemp seed were brought into this vicinity, which was sown and planted for the pur- pose of obtaining seed :; the quantity of seed raised the first year was about POO bushels. In the Spring of 1926, the 200 bushels were sown and planted as before, and although both seasons were very unfa- vcrable on account of severe drought, there was raised about 1900 bushels of seed and about g tons of hemp. Hemp seed has sold, this season, generally, for a- bout four dollars per bushel. There will be sown the present season,in this vicinity, six hundred acres-which will probably produce $3O,OOO dollars worth of hemp and seed. It does not require more labour per acre than a crop of wheat. Hemp is dressed 6y c machine ,Oith0ut rotting, and meets soiM e ready sale at market. Last season one and half acres produced S16O worth of hemp and seed, exclusive of the premium for dressing. The premium for dressing unrotted hemp is one third.\n\n Nites Reg.\n\n From he Hampshire Eng Telegraph.\n\n Curious E9sh.-The skeleton ofa very curious and rare animal has been landed here, this week, from the Diadem trans- port, which has been viewed by great number of persons, as the remains of Mermaid, but which appears, from MT. Sights description, which we subjoin, to be DugOng. Itwas shot by lieut.. Eme- ry, near the island of Mombass, and died shortly afterwards. When, seen, the body of the animal was raised considerably a. bove the surface of the water; and from the near appearance of that part of it to the human form, was then judged to be a mermaid. 1t was in company with two others, and they were all wading theIr way by means of what the spectators called their arms. Lieut.. Emery ate some ofthe flesh, which he describes as being very sa- voury. He was unable to preserve the shin but the bones are saved entire. It is rather more than five feet long. s' To the printer.-C considerable curiosity hav- ing been excited by anaccount of the land- ing at this port of the skeleton of \"real mermaid\" was induced to examine the subject in question. Ihave no doubt but that il is the bony fabric of an animal cal- led the Dugong, a native ofthe Indian seas, and regarded by many ofthe natives of the different islands as Royal fish; the pee culiar form of the head, more especially the lower jaw, being at once characterize tic mark-and also the form, situation, ,and number of the teeth. There are many other peculiarities, more especially the mode by which the ribs are articulated to the breast bone, and the form of the brcast bone itself, which arc highly interesting to the comparative anatOmist, and which serve",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2896,
+                    "y0": 723,
+                    "x1": 3797,
+                    "y1": 6103
+                }
+            ],
+            "bbox": [
+                2896,
+                723,
+                3797,
+                6103
+            ],
+            "full_article_id": 23,
+            "id": "23_1827-05-10_p1_sn82014309_00414182926_1827051001_0177.json"
+        },
+        {
+            "object_ids": [
+                27
+            ],
+            "headline": "",
+            "article": "POPULATION-POWER--WEALTH. It has been we'll observed that the fol- lowing lines of Southey, deserve to be written in diamonds\" They apply not to England only--but to the labourinq classes in every country, and in the pres- ent state of things and the actual progress ofpopulation in some of our states, with the comparative decline of power and wealth in others, are applicable to the U- uited States.-England, indeed is over- burthened with taxes and monopolies-but ve have room enough for the {. thousandth generation ;' and it is the class of persons alluded to, that must plant and support our banner on the shores of our country. or bear it round the world.-Nikes.\n\n \"Train up thy children, England, In the ways of frighteousness--and feed them\n\n WIh the bread of wholesome doc Where hast thou mnes-but in their industry? Thy bulwarks where--but in their breasts T.\n\n thy might,\n\n But in their arms? ...\n\n Shall not their NUMBERS, therefore, be thy\n\n weolth - .: Thy strength,-thy po'cer,-thy sqtety,--and\n\n thy pride? .l,.\n\n o grief then-grief and shame, If in this dourishing land there should be\n\n dwellings,\n\n Where the newborn babe doth bring unto\n\n its parents soul\n\n No joy !-where squallid poverty receives\n\n it at the birth,\n\n And, on her withered knees, Gives it the scanty bread of discontent!",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2013,
+                    "y0": 3600,
+                    "x1": 2897,
+                    "y1": 5390
+                }
+            ],
+            "bbox": [
+                2013,
+                3600,
+                2897,
+                5390
+            ],
+            "full_article_id": 28,
+            "id": "28_1827-05-10_p1_sn82014309_00414182926_1827051001_0177.json"
+        }
+    ]
+}

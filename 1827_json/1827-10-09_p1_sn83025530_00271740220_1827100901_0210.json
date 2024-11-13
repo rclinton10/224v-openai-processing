@@ -1,0 +1,662 @@
+{
+    "lccn": {
+        "title": "Delaware journal.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2638-6917",
+        "lccn": "sn83025530",
+        "start_year": "1827",
+        "end_year": "1832",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [
+            "sn85042477"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn83025530",
+        "edition": "ed-01",
+        "date": "1827-10-09",
+        "pages": [
+            "seq-3",
+            "seq-2",
+            "seq-4",
+            "seq-1"
+        ]
+    },
+    "page_number": "1",
+    "scan": {
+        "lccn": "sn83025530",
+        "edition": "ed-01",
+        "date": "1827-10-09",
+        "page": "1",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-10-09/ed-1/seq-1.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-10-09/ed-1/seq-1/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-10-09/ed-1/seq-1/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn83025530/00271740220/1827100901/0210.jp2",
+        "height": 5568,
+        "width": 3664
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 892,
+                "y0": 2818,
+                "x1": 1702,
+                "y1": 5277
+            },
+            "class": "article",
+            "raw_text": "Tr NApoII, July IA, 1891.\n\n\nTo I'm. l.. Stone, Esq. editor ofMe N I, &. .4do.\n\n\nSir: You lament the want of direct ana correct\ninformation upon the condition and wants o Greece,\nand you have reason to do so, nor you alone, but\n\n\npoor Greece has reason bitterly to lament that her\nsituation is not known in America for had it been\nAmericans, by applying the means which they have\nsent here in different manner, might have been\nthe means Of saving her from destruction. Greece,\nmy dear sir, is in deplorabe state-it is useless to\nconceal truth her enemies without ignorant\nand weak, but her enemies within are strong and\nterrible; the Turk brings trouble and distress upon\nthe country. but the Greek brings teniod misery,\nwOe and ruin. The accursed intrigues and Jealousy,\nthe avarice and lust of power of her civil and militia.\n\n\nry arstocracy have brought the country to the brink\nof ruin. from which miracle only save her, and\nthat miracle would be the repentance and better\nconduct of these men. Look, sir, at he state OF\nthe Peloponessus there YOU see the flag of liberty\nwaving upon the walls Of three proud fortresses !;\nbut these iorresses are the of intrigue. OF\nplotting of secret. nay, Of open internal war. The\nother night, while the army of the Pacha was with\nin eight hours march of this place, was aroused\nby the roar of cannon, and the rattlng of musket-\nry; arme myselfin the thought that the Turks\nhad made sudden assault upon the place. aud\nwas astonohed to find no movement on the part OF\n\n\nthe inhabitants-each remained still i'll his house,\n. as though aware of what was going on ; and soon\n= learned that Colocor0n, with a band OF soldiers,\nhad assaulted the castle, in hopes to master IT,\n, and make himself independent, both by It's pos\n\n\nsession and that of the treasures Of DllyaDs, which\n\n\nhe knew were concealed here This is the man\n= whom see YOU hold high in esteem in America, fol\nhis courage and patriotism =! Match me, ye Gods\n\n\nmatch me another man who has drawn upon TN\n\n\nPeloponessus so many mlserles Coocoruni.\n\n\nThey talk of Ibrahim Pacha he has ruined and\n\n\ndriven from their homes thousands Of ptaaantrv--\n: Coocotron has ground them to the dust. and wrun!\ne from them their little gain BY his enormous eSac\nr tons the Pacha. has defeated the soltiery---Coo\n\n\ncoron has paralyzed them: the Pacha has opcnl\n: assaulted and taken towns from his enem'es-Coo\n\n\ncotroni has worked to gain hy intrigue; and assault\n\n\ned at midnight castles and towns held By men ACTIN\nunder the orders of government the Pacha has dis\n- trcssed the government by hts movements aud depre\ndations--Coortroni has still more distressed it b.\nN his demands for pay and rations for armies whlc\nhe never raised by his intrigue by his secret opposi\n- ton and open war. Leave aside his proceedings II\nn 1924, his nrigues and open opposition aud rebellion\nagainst the lawful governmenths defeat and lmpr's\ns. onmen lsAas look at him since his leaving his con\n,c hnement Svhe monastery at Hydra, and his berom\na. ling ceneral-in chief of TIL Morea how often an\n\n\nloudly has he talked Of the death and destru ction\nwas preparing for the Turks how often has denan\n\n\nded and received large supplies from government\n\n\nand from his province, which he has either sold OF\nH. given to his creatures it is true, he has sailed on",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 988,
+                "y0": 2727,
+                "x1": 1571,
+                "y1": 2776
+            },
+            "class": "headline",
+            "raw_text": "INTERESTING F3UM GREECE.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -2
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 1262,
+                "y0": 2810,
+                "x1": 1650,
+                "y1": 2850
+            },
+            "class": "headline",
+            "raw_text": ": NApoLI, July IA. 1877.",
+            "legibility": "Illegible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1710,
+                "y0": 2744,
+                "x1": 2515,
+                "y1": 5268
+            },
+            "class": "article",
+            "raw_text": "against the enemy-he has examined them with his\nspy-glass from some mountain side but never, no,\nnot in one single instance, has he or his Immediate\nfollowers ventured their precious persons within the\nrange of shot He is bold and daring. but not before\nan armed enemy; it is in int rigue and plotting to\nget himself and friends in power it is in pundering\nand anassing treasures for his own Golfers Where\nare the of TlppoIizza, and Napo'l, which\nhe took as Commander inchietfr the Government!\nWhere his bankers in Zane, and different parts OF\nItaly, where he has large sums. while he makes the\npoor peasantry pay for the articles Of his own\ntable. How he got his former reputation for courage\nknow not but now his name here is getting to be\na mockery. and he is known only as a man who will\nsacrifice the public for party good. who would sell\nhis country, nay, his soul, his God, for gold. My\nlanguage may seem to you strong and impasslonet,\nbut ii is the language OF man, who engaged with\nall hsheart in the best cause Tor which people ever\nvet drew the sword, sees that cause endangered by\nthe sefshness of those most bound TO support 1t !;\nof one, who sees his adopted country about to be\nsacrificed on the altar olavarlce and selfish ambition;\nof one. who ignorant but naturally anteUagea\nand virtuous people neglected nay betrayed by their\nleaders. speak to YOU Of Coloctroni-not because\nhe alone ia the Of iniquity, not because he\nia the worst--hut, because his name sknown TO you\n\n\nam not of his party, nor OF any PARTY he has nc\nyer done either me or my friends any good or i'll\n] speak of him as public character, and could\nsneak to you of Others--i could tell you OF the char\nacter of DIyanis OF Notaras.of Zarinis,ot Crondos\nof Siseni, of Colletti, of Conduriottis, &c.--mcn\n\n\nwhose course has been uniformly one OF intrigue,\nfor their own private or party interest-negectine\n\n\ntheir sacred duties to their country,to pursue selfish\n\n\nnay, often criminal ends. BUTT is enough to say\n\n\nto YOU that Greece is reduced to her present state\n\n\nin great measure, by the jealousy. the lnrigues\n\n\nand the secret opposition which one leader makes\n\n\n80 another. have until now, abstained from max\ning this known in America, from motives OF consid\nGrafton for the interest Of the country-hoping. al\n\n\nways. something .ht unite them but sec thu\n\n\nhope is in vain-ana, perhaps, the sooner the worlt\n\n\nknows the truth the better. 1t is not my own sin\n\n\ngle private opinion which | express to you ever,\n\n\nenlightened man in the country has long ielt ant\n\n\nlamcnted if, and uow things have arrived to such =\npitch, that all feel it as | a common soder-asl\nq simple wumao, what has brought the country t\nits present state and the reply will invariably h'\n\n\n1t OF megaloi r'--'.,he great'-and what is th'\n\n\ncure ? 'sno fous mop..men!\" \" that their head\n\n\nmay fall\" 1t is these men who have invariably\n\n\nopposed the introduction Of order into the counr,\n\n\nland why? Because, with it they must fall: il\nthe feet, in the army, in every department. OF ad\nministation. it is the same. The soldier looks no\n\n\nto Government as his director, for he receives no\nhis pay from it he knows only his chief, and vii\nblintIly follow him against another chief, Of even\n\n\naeainst the Government itself, with almost the same\naacrity as against the Turks The chiefs beins\nthus superior TO the GoverI;nent practise the mos\nabc.nnahle extortions, and have been growing rich",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 78,
+                "y0": 1322,
+                "x1": 845,
+                "y1": 2071
+            },
+            "class": "article",
+            "raw_text": "rosconp.--Dr Inomas Adams, P. NJ.\nBRlpdnvlA,r.--ii Henry CUnyy,-, Z, M.\nNiuroS.-'lr. Arthur llii't.\nFRANKroRn.--hlr. Isaiah Long.\nDAGspoRouGu.--Dr Edward Dingle.\nGEORGE TowK.-Mr Joshua S. Layton.\nLEwEs--H. +. Rodney, F. M.\nMnFoRp.-Mr. Joseph G. Oliver.\nFREpERIcA.-J. Emerson, P. vi.\nCAMpEN.-rhomas Wainwright, P. M.\nDovER.-John Robertson, Esq.\nSyYRNA-Samuel II. Hodson, Esq.\nCANrwELLs BRIDGE.--Manlove Hayes, + M.\nYlIppLErowN.--Thomas Harry, p. M.\nSUMMIT BR1pGE.-John Clement, T. II.\nWARWICK, Md.---John Moreton, P. M.\n\n\nSubscribers living in the vicinity of the residence\nOf these Agents, may pay their subscription money\n!, them, they being authorized to receive it, and te\nsye receipts.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 313,
+                "y0": 1274,
+                "x1": 575,
+                "y1": 1314
+            },
+            "class": "headline",
+            "raw_text": "al 'EMTS.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 74,
+                "y0": 2144,
+                "x1": 862,
+                "y1": 2554
+            },
+            "class": "article",
+            "raw_text": "Persons wishing any sort Of PRINTING done, with\nneatness, accuracy, and dispatch ADVERTISEMENTS\nInserted, or SuBscnIpTIoNs paid where there are\nno Agents appointed in their neighbourhood to re-\nceive them will please apply, or direct to H. Porter\nand Son, No. 81, Market Street, wilmington.\n\n\nAli communications, not of the above character,\nIA be addressed to NJ Bradford, Editor Of the Della\nware Journal Wilmington.\n\n\nThis arrangement is made fer the more regular\nand prompt execution of business.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 326,
+                "y0": 2088,
+                "x1": 580,
+                "y1": 2141
+            },
+            "class": "headline",
+            "raw_text": "NuTlCM.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 48,
+                "y0": 922,
+                "x1": 836,
+                "y1": 1249
+            },
+            "class": "article",
+            "raw_text": "THE DELAW.dRE JOURNAL is pub\nns.ed on Tuesdays aud Fridays. at totr dollars\npsr amman; two dollars every sic months IN ad-\nrance.\n\n\nadvertisements inserted on the usuat terms\nvt5. One doLlar for four insertions Of sirteen\n.;es. and so IN proportion for erery number Of\na,utioaut Zines aud insertions.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 248,
+                "y0": 839,
+                "x1": 641,
+                "y1": 897
+            },
+            "class": "headline",
+            "raw_text": "CONDITIONS.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 118,
+                "y0": 3645,
+                "x1": 902,
+                "y1": 4577
+            },
+            "class": "article",
+            "raw_text": "THIS Institution viii be opened on Monday\n\n\nthe Goth Of October Inst, under the care\n\n\nof the Rev. JOSEPH WnsoN.\n\n\nIn this Seminary students will be thoroughly in\nsruced in the different branches of good English\nand Classical Education, viz Reading, Writing,\nArithmetic, English Grammar, Geography, Compo-\nllon. Elocution, Mathematics, and the Greek and\nLatin Languages. The terms of tniton will be; for\nthe English branches, exclusive of Mathematics,\nSO per session, or $40, including the Mathematics;\nTor the Languages, including the English, $40 per\nsession. Tuition money to be paid in advance.\nThere will be two sessions in the year, with q\nShort vacation between each\n\n\nGood boarding can be obtained in respectable\nfamilies in the village, at the rate of Forty Dollars\nper session and few hoardegs can be acconamo\ndated the family Of the Principal.\n\n\nJOHN EDDOWES. Sec'y.\n,Miad'eto-n, October /, 1927. 4G-3n\ne5@To be published in the Elkton Press,-Ches\ntertown Tclegraph--Centrevl Times-and in ths\nLaston (Md.) papers for three months and theil\no'lls forwarded to the Secretary.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 109,
+                "y0": 3475,
+                "x1": 884,
+                "y1": 3615
+            },
+            "class": "headline",
+            "raw_text": "sW:ddletOqUss .AcOdeany.\nCLASSICAL I9EyaAR TTxE u =.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -2
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 152,
+                "y0": 3640,
+                "x1": 862,
+                "y1": 3741
+            },
+            "class": "headline",
+            "raw_text": "THIS Institution will be opened on Monday\nthe 25h Of October Inst, under the care\n\n\n&C Tho Z nu Incrn,r W1r",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 139,
+                "y0": 4689,
+                "x1": 915,
+                "y1": 5129
+            },
+            "class": "article",
+            "raw_text": "Biographical sketch of Mr.. Clay.\nspeech on Manufactures--Line of the Perdido---\npank charter-Augnentatio ofthe military force\nincrease of the Nwy-Ncw Army-Emancpati\nSouth America--Internal lmprovement--Semin-\nWe War-HIisson TO South America-The Tariff\nspanish treaty--Greek evolutiol--American in\n.au''ry--Coloniz alton of the negroes-Bank qucs-\n~, ,noA--Address TO Constituents-Speech at Lewis\n\"ursh; with apotrait infront-Pricc So o5.--The\nuoove work to be had of the publishers of this pa\nper- at their Book Store, No. 81, Market-Street.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 165,
+                "y0": 4602,
+                "x1": 893,
+                "y1": 4677
+            },
+            "class": "headline",
+            "raw_text": "Clay's Speeches, &c.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 96,
+                "y0": 3123,
+                "x1": 880,
+                "y1": 3454
+            },
+            "class": "article",
+            "raw_text": "FOR the residue of the present year, and Tor the\nensuing twelve months and possession given on the\n10Th November, Mrs. Dauphns large Stone Man\nsion on Quaker Ilill now occupied by the subscri-\nbey. To this airy, commodious and healthy resi-\ndcnce is attached extensive ant; fertile garden\ntogether with valuable grass lot. For terms apply\n10 il. L.. DAF ID.\n\n\nFIfn;urt0n Oct, 2, 1897. Att",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 200,
+                "y0": 3058,
+                "x1": 745,
+                "y1": 3111
+            },
+            "class": "headline",
+            "raw_text": "TO BE RE.N TED,",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 83,
+                "y0": 2666,
+                "x1": 867,
+                "y1": 3041
+            },
+            "class": "article",
+            "raw_text": "WNTeTEAi2MXs EtR EAda 1sssS Z I'G.\nOn Wednesday the 18th day of October, Nnst. }\n\n\nat Q o'clock, P. M. on the premises\n\n\nviii be exposed to Public Sale, that desirable pro-\nrr,v. late the residence of Joseph Robinson, dec d.\ncontaining about ninety acres, more or less and\ncommanding an extensive view of the river Della\nware, the Borough Of Wilmington and surrounding\ncountry. 9AhEo aoDl-,oon. ).\n\n\nGet Q, 1927. fo--ot",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 192,
+                "y0": 2570,
+                "x1": 788,
+                "y1": 2645
+            },
+            "class": "headline",
+            "raw_text": "Public Sale of",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2445,
+                "y0": 909,
+                "x1": 3307,
+                "y1": 5077
+            },
+            "class": "article",
+            "raw_text": "have known the time when Greece had not 5000 men\n\n\non foot, while Government was giving da'ly pay and\n\n\nrations for 40, 900, besides the pay OF the Generals\n\n\nAnd when Government could not find means to sat\n\n\nisfy any importunae claimant, they tried to pac1y\n\n\nhim by some high title. Any one, be his profession\n\n\nwhat Il might. who had claims upon government,\n\n\ncould have had commission OF Colonel or 0en-\n\n\nera! as for Major Or Captain, it was beneath ones\n\n\nnotice. This was, and is so common thathtes mere\n\n\nare made ridiculous by many assuming them who\n\n\ncannot support them: there hundreds fforeigna\n\n\ners. men who were only corporals or serjeanis in\n\n\nthe European armies, who have got titles and strut\n\n\nabout with one Or two ragged soldiers at their heess\n\n\nand call themselves Coonels or Generals.\n\n\nremember once being with Body ol three hun\n\n\ndred men and, on council of war being called iff\n\n\na moment Of alarm, there appeared three Generals;\n\n\nfour Vice Generals. foe Colones, and more than\ntaDentv-iUe Captains. This has made the business\n\n\nso ridiculous, that officers who have really any rank\nin regular army, are not willing to put themselves\nupon rank with coporals and serjeahts, many OF\n\n\nthem the scum Of Europe, and they choose to serve\n\n\nas volunteers, they quit the country IN disgust\nAnd they do well--for, much as they pretend 10\ndespse Europeans, the Greeks have, in reality,\n, respect Tor them, and for their opnions-and they\n|, rejoice to find selfish men, who for their own lne-\n\n\nal rest by action word and writing uphold their sys-\n/ TEN men who cry that the Pathcari system is the\nq only one to save Greece, and comparing them (er-\n\n\nha,s with justice y to the Guerrilas of Spalf lau-\nY ding their skill in plagng their bravery IN hght-\n!, ing sheltered behind stone WALL or their expert\n3 ness in whipping off the head OF dead Turk; but\n/ they know not, rather know and care not for their\nIs distressing the country the disputes among then-\n\n\nselves their readiness TO fight out the qnarres OF\n10 their chiefs, for the produce of province or for\nthe possession of town, and last their dsobedience\nIa their rebellion to Government. Greece has now\n96 five important iortresses, but yet order from Gov\n% ernmen Ga Governor chosen BY the unanimous SUI\n10 fges of the peopc would be but laugh at by The\nnIa of anV them.\n95 hana which is held by the remnant of the regular\n- troops That unfortunate band, which has so otten\n\n\nbeen doomed to destruction by all the irregular\nMS chefs--been again and again assaulted by all tlie\nno. arts of intrigue, has been the victim OF open eachet\nate ry 1t is true that the bravcs of the schery\nthe would enter its ranks, despsng what they called\nore the life of slave STILL though composed as was\n\n\nI\" of mere boys the ouscouring of the islands shows\n\n\nmy ed what disciple may do and when in face OF the\nere enemy, conducted itself often better, invariably as\n\n\nch ueN, as the bravest of the rregulars and eight\nmt! months ago, when Athens had not one blIidred\nOF pounds Of powder, and the other chiefs lad been m\nthe vain impoled to relieve it, six hundred of them,\n'wh with each forty pounds OF powder on his back\nage marched with charged bayones upon the lines of\nDe the enemy on clear moonshiny night, forced them\nwill selves through. and saved the place from falling: a\nsell thing which six weeks ago | saw 0000 irregusars\nMY in vain attempting to do. But the word yreguidrs\nned rust convey to you very imperfect idea OF Greek\nWIN solderv picture to yourself rather herd Il met\never ,hnh.yc each vn au, two ni,ols but who knew\n\n\npy nothing of discipline even enough tof form into hne\n\n\n1t who never are enlisted, but and 50 as the,\nbe choose who are never mustered, and whose mum\nton; ber il i mnosshe to caIculateare without any\ngea the appurtenances ofa camp, with neither drum no\n'heif any musical instrument. nor nnlturn, nor even\nause tent but what is worse than a they have nothing\nhe of esprit d ceres the real soul Of army an,\nyou. though personally father brave, they are coWard\n5 nc body. have been witness ot numerous IN\n\n\nIII stances of personal courage on the paft OF the sol\nGould des aud sailors. but of what could be tac\nchar general gallant affair perhaps may exccpt the,\nhdos, deences, which often very fine. have lehatr\nmen, ened out my letter. led from observation\nise, another without detailing to you the occurring events\ncing but you will that affairs at low ebh an\nellsh YOU have gained. perhaps some new eas on II\nsay causes of this and now. for The future prospects\nstate Greece. heQueson of her ultimate success mu\nsues' be difficult to decide if she can get the mastery\nlakes the sea, all is finished tile Morea Cand u\nmax prus Negropont, in fact all the islands us IN s.\n,nsid monhs he in her power Ilrahin pacha canu0 T.\ng. al main with his army in tie Peloponncsus, nor ho\nthe his castle three no,sts without supplies from Aie\nWorld andria If the Greeks only hold their own he\nsin must be content with the islands they now have\nevery the Morea, with the exception of NapoIo d Rom\nand MIA, Napo di Mav0isia and the province OF Main\nch must fall into the hands OF the Turks though dout\n\n\nASK less PARTISAN war will for years. be carried on\nry 70 the mountainous districts.\n\n\npe say we must be content with the islands al\n\n\nw they are enough. if their revenues properly forn\nes ed to support Cochrane and his feet what has II\niaby Wnra, apI RnmpIio dnpr fnt thn ni,,fc chest e\nuntry ssyer, vears mast Nothinv jJ his bee,i Dd\n/. ~ ~ Msiaaliers Calculating then uron the very w'rs\n= Il\" Greece has resource-se aa will hold out pc\n\n\nNV haps for years but in that time it is probable SON\n% . stir in Europe, some dsasransement OF the too c\n\n\n49, ~ balanced Interests OF the great powers, Wi max",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 2910,
+                "y0": 656,
+                "x1": 3229,
+                "y1": 740
+            },
+            "class": "headline",
+            "raw_text": "No. -.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                19,
+                25,
+                0
+            ],
+            "headline": "INTERESTING F3UM GREECE.\n\n: NApoLI, July IA. 1877.",
+            "article": "Tr NApoII, July IA, 1891.\n\n\nTo I'm. l.. Stone, Esq. editor ofMe N I, &. .4do.\n\n\nSir: You lament the want of direct ana correct\ninformation upon the condition and wants o Greece,\nand you have reason to do so, nor you alone, but\n\n\npoor Greece has reason bitterly to lament that her\nsituation is not known in America for had it been\nAmericans, by applying the means which they have\nsent here in different manner, might have been\nthe means Of saving her from destruction. Greece,\nmy dear sir, is in deplorabe state-it is useless to\nconceal truth her enemies without ignorant\nand weak, but her enemies within are strong and\nterrible; the Turk brings trouble and distress upon\nthe country. but the Greek brings teniod misery,\nwOe and ruin. The accursed intrigues and Jealousy,\nthe avarice and lust of power of her civil and militia.\n\n\nry arstocracy have brought the country to the brink\nof ruin. from which miracle only save her, and\nthat miracle would be the repentance and better\nconduct of these men. Look, sir, at he state OF\nthe Peloponessus there YOU see the flag of liberty\nwaving upon the walls Of three proud fortresses !;\nbut these iorresses are the of intrigue. OF\nplotting of secret. nay, Of open internal war. The\nother night, while the army of the Pacha was with\nin eight hours march of this place, was aroused\nby the roar of cannon, and the rattlng of musket-\nry; arme myselfin the thought that the Turks\nhad made sudden assault upon the place. aud\nwas astonohed to find no movement on the part OF\n\n\nthe inhabitants-each remained still i'll his house,\n. as though aware of what was going on ; and soon\n= learned that Colocor0n, with a band OF soldiers,\nhad assaulted the castle, in hopes to master IT,\n, and make himself independent, both by It's pos\n\n\nsession and that of the treasures Of DllyaDs, which\n\n\nhe knew were concealed here This is the man\n= whom see YOU hold high in esteem in America, fol\nhis courage and patriotism =! Match me, ye Gods\n\n\nmatch me another man who has drawn upon TN\n\n\nPeloponessus so many mlserles Coocoruni.\n\n\nThey talk of Ibrahim Pacha he has ruined and\n\n\ndriven from their homes thousands Of ptaaantrv--\n: Coocotron has ground them to the dust. and wrun!\ne from them their little gain BY his enormous eSac\nr tons the Pacha. has defeated the soltiery---Coo\n\n\ncoron has paralyzed them: the Pacha has opcnl\n: assaulted and taken towns from his enem'es-Coo\n\n\ncotroni has worked to gain hy intrigue; and assault\n\n\ned at midnight castles and towns held By men ACTIN\nunder the orders of government the Pacha has dis\n- trcssed the government by hts movements aud depre\ndations--Coortroni has still more distressed it b.\nN his demands for pay and rations for armies whlc\nhe never raised by his intrigue by his secret opposi\n- ton and open war. Leave aside his proceedings II\nn 1924, his nrigues and open opposition aud rebellion\nagainst the lawful governmenths defeat and lmpr's\ns. onmen lsAas look at him since his leaving his con\n,c hnement Svhe monastery at Hydra, and his berom\na. ling ceneral-in chief of TIL Morea how often an\n\n\nloudly has he talked Of the death and destru ction\nwas preparing for the Turks how often has denan\n\n\nded and received large supplies from government\n\n\nand from his province, which he has either sold OF\nH. given to his creatures it is true, he has sailed on",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 988,
+                    "y0": 2727,
+                    "x1": 1571,
+                    "y1": 2776
+                },
+                {
+                    "x0": 1262,
+                    "y0": 2810,
+                    "x1": 1650,
+                    "y1": 2850
+                },
+                {
+                    "x0": 892,
+                    "y0": 2818,
+                    "x1": 1702,
+                    "y1": 5277
+                }
+            ],
+            "bbox": [
+                892,
+                2727,
+                1702,
+                5277
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-10-09_p1_sn83025530_00271740220_1827100901_0210.json"
+        },
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "against the enemy-he has examined them with his\nspy-glass from some mountain side but never, no,\nnot in one single instance, has he or his Immediate\nfollowers ventured their precious persons within the\nrange of shot He is bold and daring. but not before\nan armed enemy; it is in int rigue and plotting to\nget himself and friends in power it is in pundering\nand anassing treasures for his own Golfers Where\nare the of TlppoIizza, and Napo'l, which\nhe took as Commander inchietfr the Government!\nWhere his bankers in Zane, and different parts OF\nItaly, where he has large sums. while he makes the\npoor peasantry pay for the articles Of his own\ntable. How he got his former reputation for courage\nknow not but now his name here is getting to be\na mockery. and he is known only as a man who will\nsacrifice the public for party good. who would sell\nhis country, nay, his soul, his God, for gold. My\nlanguage may seem to you strong and impasslonet,\nbut ii is the language OF man, who engaged with\nall hsheart in the best cause Tor which people ever\nvet drew the sword, sees that cause endangered by\nthe sefshness of those most bound TO support 1t !;\nof one, who sees his adopted country about to be\nsacrificed on the altar olavarlce and selfish ambition;\nof one. who ignorant but naturally anteUagea\nand virtuous people neglected nay betrayed by their\nleaders. speak to YOU Of Coloctroni-not because\nhe alone ia the Of iniquity, not because he\nia the worst--hut, because his name sknown TO you\n\n\nam not of his party, nor OF any PARTY he has nc\nyer done either me or my friends any good or i'll\n] speak of him as public character, and could\nsneak to you of Others--i could tell you OF the char\nacter of DIyanis OF Notaras.of Zarinis,ot Crondos\nof Siseni, of Colletti, of Conduriottis, &c.--mcn\n\n\nwhose course has been uniformly one OF intrigue,\nfor their own private or party interest-negectine\n\n\ntheir sacred duties to their country,to pursue selfish\n\n\nnay, often criminal ends. BUTT is enough to say\n\n\nto YOU that Greece is reduced to her present state\n\n\nin great measure, by the jealousy. the lnrigues\n\n\nand the secret opposition which one leader makes\n\n\n80 another. have until now, abstained from max\ning this known in America, from motives OF consid\nGrafton for the interest Of the country-hoping. al\n\n\nways. something .ht unite them but sec thu\n\n\nhope is in vain-ana, perhaps, the sooner the worlt\n\n\nknows the truth the better. 1t is not my own sin\n\n\ngle private opinion which | express to you ever,\n\n\nenlightened man in the country has long ielt ant\n\n\nlamcnted if, and uow things have arrived to such =\npitch, that all feel it as | a common soder-asl\nq simple wumao, what has brought the country t\nits present state and the reply will invariably h'\n\n\n1t OF megaloi r'--'.,he great'-and what is th'\n\n\ncure ? 'sno fous mop..men!\" \" that their head\n\n\nmay fall\" 1t is these men who have invariably\n\n\nopposed the introduction Of order into the counr,\n\n\nland why? Because, with it they must fall: il\nthe feet, in the army, in every department. OF ad\nministation. it is the same. The soldier looks no\n\n\nto Government as his director, for he receives no\nhis pay from it he knows only his chief, and vii\nblintIly follow him against another chief, Of even\n\n\naeainst the Government itself, with almost the same\naacrity as against the Turks The chiefs beins\nthus superior TO the GoverI;nent practise the mos\nabc.nnahle extortions, and have been growing rich",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1710,
+                    "y0": 2744,
+                    "x1": 2515,
+                    "y1": 5268
+                }
+            ],
+            "bbox": [
+                1710,
+                2744,
+                2515,
+                5268
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-10-09_p1_sn83025530_00271740220_1827100901_0210.json"
+        },
+        {
+            "object_ids": [
+                17,
+                2
+            ],
+            "headline": "al 'EMTS.",
+            "article": "rosconp.--Dr Inomas Adams, P. NJ.\nBRlpdnvlA,r.--ii Henry CUnyy,-, Z, M.\nNiuroS.-'lr. Arthur llii't.\nFRANKroRn.--hlr. Isaiah Long.\nDAGspoRouGu.--Dr Edward Dingle.\nGEORGE TowK.-Mr Joshua S. Layton.\nLEwEs--H. +. Rodney, F. M.\nMnFoRp.-Mr. Joseph G. Oliver.\nFREpERIcA.-J. Emerson, P. vi.\nCAMpEN.-rhomas Wainwright, P. M.\nDovER.-John Robertson, Esq.\nSyYRNA-Samuel II. Hodson, Esq.\nCANrwELLs BRIDGE.--Manlove Hayes, + M.\nYlIppLErowN.--Thomas Harry, p. M.\nSUMMIT BR1pGE.-John Clement, T. II.\nWARWICK, Md.---John Moreton, P. M.\n\n\nSubscribers living in the vicinity of the residence\nOf these Agents, may pay their subscription money\n!, them, they being authorized to receive it, and te\nsye receipts.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 313,
+                    "y0": 1274,
+                    "x1": 575,
+                    "y1": 1314
+                },
+                {
+                    "x0": 78,
+                    "y0": 1322,
+                    "x1": 845,
+                    "y1": 2071
+                }
+            ],
+            "bbox": [
+                78,
+                1274,
+                845,
+                2071
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-10-09_p1_sn83025530_00271740220_1827100901_0210.json"
+        },
+        {
+            "object_ids": [
+                14,
+                3
+            ],
+            "headline": "NuTlCM.",
+            "article": "Persons wishing any sort Of PRINTING done, with\nneatness, accuracy, and dispatch ADVERTISEMENTS\nInserted, or SuBscnIpTIoNs paid where there are\nno Agents appointed in their neighbourhood to re-\nceive them will please apply, or direct to H. Porter\nand Son, No. 81, Market Street, wilmington.\n\n\nAli communications, not of the above character,\nIA be addressed to NJ Bradford, Editor Of the Della\nware Journal Wilmington.\n\n\nThis arrangement is made fer the more regular\nand prompt execution of business.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 326,
+                    "y0": 2088,
+                    "x1": 580,
+                    "y1": 2141
+                },
+                {
+                    "x0": 74,
+                    "y0": 2144,
+                    "x1": 862,
+                    "y1": 2554
+                }
+            ],
+            "bbox": [
+                74,
+                2088,
+                862,
+                2554
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-10-09_p1_sn83025530_00271740220_1827100901_0210.json"
+        },
+        {
+            "object_ids": [
+                15,
+                4
+            ],
+            "headline": "CONDITIONS.",
+            "article": "THE DELAW.dRE JOURNAL is pub\nns.ed on Tuesdays aud Fridays. at totr dollars\npsr amman; two dollars every sic months IN ad-\nrance.\n\n\nadvertisements inserted on the usuat terms\nvt5. One doLlar for four insertions Of sirteen\n.;es. and so IN proportion for erery number Of\na,utioaut Zines aud insertions.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 248,
+                    "y0": 839,
+                    "x1": 641,
+                    "y1": 897
+                },
+                {
+                    "x0": 48,
+                    "y0": 922,
+                    "x1": 836,
+                    "y1": 1249
+                }
+            ],
+            "bbox": [
+                48,
+                839,
+                836,
+                1249
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-10-09_p1_sn83025530_00271740220_1827100901_0210.json"
+        },
+        {
+            "object_ids": [
+                12,
+                23,
+                5
+            ],
+            "headline": "sW:ddletOqUss .AcOdeany.\nCLASSICAL I9EyaAR TTxE u =.\n\nTHIS Institution will be opened on Monday\nthe 25h Of October Inst, under the care\n\n\n&C Tho Z nu Incrn,r W1r",
+            "article": "THIS Institution viii be opened on Monday\n\n\nthe Goth Of October Inst, under the care\n\n\nof the Rev. JOSEPH WnsoN.\n\n\nIn this Seminary students will be thoroughly in\nsruced in the different branches of good English\nand Classical Education, viz Reading, Writing,\nArithmetic, English Grammar, Geography, Compo-\nllon. Elocution, Mathematics, and the Greek and\nLatin Languages. The terms of tniton will be; for\nthe English branches, exclusive of Mathematics,\nSO per session, or $40, including the Mathematics;\nTor the Languages, including the English, $40 per\nsession. Tuition money to be paid in advance.\nThere will be two sessions in the year, with q\nShort vacation between each\n\n\nGood boarding can be obtained in respectable\nfamilies in the village, at the rate of Forty Dollars\nper session and few hoardegs can be acconamo\ndated the family Of the Principal.\n\n\nJOHN EDDOWES. Sec'y.\n,Miad'eto-n, October /, 1927. 4G-3n\ne5@To be published in the Elkton Press,-Ches\ntertown Tclegraph--Centrevl Times-and in ths\nLaston (Md.) papers for three months and theil\no'lls forwarded to the Secretary.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 109,
+                    "y0": 3475,
+                    "x1": 884,
+                    "y1": 3615
+                },
+                {
+                    "x0": 152,
+                    "y0": 3640,
+                    "x1": 862,
+                    "y1": 3741
+                },
+                {
+                    "x0": 118,
+                    "y0": 3645,
+                    "x1": 902,
+                    "y1": 4577
+                }
+            ],
+            "bbox": [
+                109,
+                3475,
+                902,
+                4577
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-10-09_p1_sn83025530_00271740220_1827100901_0210.json"
+        },
+        {
+            "object_ids": [
+                13,
+                7
+            ],
+            "headline": "Clay's Speeches, &c.",
+            "article": "Biographical sketch of Mr.. Clay.\nspeech on Manufactures--Line of the Perdido---\npank charter-Augnentatio ofthe military force\nincrease of the Nwy-Ncw Army-Emancpati\nSouth America--Internal lmprovement--Semin-\nWe War-HIisson TO South America-The Tariff\nspanish treaty--Greek evolutiol--American in\n.au''ry--Coloniz alton of the negroes-Bank qucs-\n~, ,noA--Address TO Constituents-Speech at Lewis\n\"ursh; with apotrait infront-Pricc So o5.--The\nuoove work to be had of the publishers of this pa\nper- at their Book Store, No. 81, Market-Street.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 165,
+                    "y0": 4602,
+                    "x1": 893,
+                    "y1": 4677
+                },
+                {
+                    "x0": 139,
+                    "y0": 4689,
+                    "x1": 915,
+                    "y1": 5129
+                }
+            ],
+            "bbox": [
+                139,
+                4602,
+                915,
+                5129
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-10-09_p1_sn83025530_00271740220_1827100901_0210.json"
+        },
+        {
+            "object_ids": [
+                16,
+                8
+            ],
+            "headline": "TO BE RE.N TED,",
+            "article": "FOR the residue of the present year, and Tor the\nensuing twelve months and possession given on the\n10Th November, Mrs. Dauphns large Stone Man\nsion on Quaker Ilill now occupied by the subscri-\nbey. To this airy, commodious and healthy resi-\ndcnce is attached extensive ant; fertile garden\ntogether with valuable grass lot. For terms apply\n10 il. L.. DAF ID.\n\n\nFIfn;urt0n Oct, 2, 1897. Att",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 200,
+                    "y0": 3058,
+                    "x1": 745,
+                    "y1": 3111
+                },
+                {
+                    "x0": 96,
+                    "y0": 3123,
+                    "x1": 880,
+                    "y1": 3454
+                }
+            ],
+            "bbox": [
+                96,
+                3058,
+                880,
+                3454
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-10-09_p1_sn83025530_00271740220_1827100901_0210.json"
+        },
+        {
+            "object_ids": [
+                20,
+                9
+            ],
+            "headline": "Public Sale of",
+            "article": "WNTeTEAi2MXs EtR EAda 1sssS Z I'G.\nOn Wednesday the 18th day of October, Nnst. }\n\n\nat Q o'clock, P. M. on the premises\n\n\nviii be exposed to Public Sale, that desirable pro-\nrr,v. late the residence of Joseph Robinson, dec d.\ncontaining about ninety acres, more or less and\ncommanding an extensive view of the river Della\nware, the Borough Of Wilmington and surrounding\ncountry. 9AhEo aoDl-,oon. ).\n\n\nGet Q, 1927. fo--ot",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 192,
+                    "y0": 2570,
+                    "x1": 788,
+                    "y1": 2645
+                },
+                {
+                    "x0": 83,
+                    "y0": 2666,
+                    "x1": 867,
+                    "y1": 3041
+                }
+            ],
+            "bbox": [
+                83,
+                2570,
+                867,
+                3041
+            ],
+            "full_article_id": 10,
+            "id": "10_1827-10-09_p1_sn83025530_00271740220_1827100901_0210.json"
+        },
+        {
+            "object_ids": [
+                22,
+                11
+            ],
+            "headline": "No. -.",
+            "article": "have known the time when Greece had not 5000 men\n\n\non foot, while Government was giving da'ly pay and\n\n\nrations for 40, 900, besides the pay OF the Generals\n\n\nAnd when Government could not find means to sat\n\n\nisfy any importunae claimant, they tried to pac1y\n\n\nhim by some high title. Any one, be his profession\n\n\nwhat Il might. who had claims upon government,\n\n\ncould have had commission OF Colonel or 0en-\n\n\nera! as for Major Or Captain, it was beneath ones\n\n\nnotice. This was, and is so common thathtes mere\n\n\nare made ridiculous by many assuming them who\n\n\ncannot support them: there hundreds fforeigna\n\n\ners. men who were only corporals or serjeanis in\n\n\nthe European armies, who have got titles and strut\n\n\nabout with one Or two ragged soldiers at their heess\n\n\nand call themselves Coonels or Generals.\n\n\nremember once being with Body ol three hun\n\n\ndred men and, on council of war being called iff\n\n\na moment Of alarm, there appeared three Generals;\n\n\nfour Vice Generals. foe Colones, and more than\ntaDentv-iUe Captains. This has made the business\n\n\nso ridiculous, that officers who have really any rank\nin regular army, are not willing to put themselves\nupon rank with coporals and serjeahts, many OF\n\n\nthem the scum Of Europe, and they choose to serve\n\n\nas volunteers, they quit the country IN disgust\nAnd they do well--for, much as they pretend 10\ndespse Europeans, the Greeks have, in reality,\n, respect Tor them, and for their opnions-and they\n|, rejoice to find selfish men, who for their own lne-\n\n\nal rest by action word and writing uphold their sys-\n/ TEN men who cry that the Pathcari system is the\nq only one to save Greece, and comparing them (er-\n\n\nha,s with justice y to the Guerrilas of Spalf lau-\nY ding their skill in plagng their bravery IN hght-\n!, ing sheltered behind stone WALL or their expert\n3 ness in whipping off the head OF dead Turk; but\n/ they know not, rather know and care not for their\nIs distressing the country the disputes among then-\n\n\nselves their readiness TO fight out the qnarres OF\n10 their chiefs, for the produce of province or for\nthe possession of town, and last their dsobedience\nIa their rebellion to Government. Greece has now\n96 five important iortresses, but yet order from Gov\n% ernmen Ga Governor chosen BY the unanimous SUI\n10 fges of the peopc would be but laugh at by The\nnIa of anV them.\n95 hana which is held by the remnant of the regular\n- troops That unfortunate band, which has so otten\n\n\nbeen doomed to destruction by all the irregular\nMS chefs--been again and again assaulted by all tlie\nno. arts of intrigue, has been the victim OF open eachet\nate ry 1t is true that the bravcs of the schery\nthe would enter its ranks, despsng what they called\nore the life of slave STILL though composed as was\n\n\nI\" of mere boys the ouscouring of the islands shows\n\n\nmy ed what disciple may do and when in face OF the\nere enemy, conducted itself often better, invariably as\n\n\nch ueN, as the bravest of the rregulars and eight\nmt! months ago, when Athens had not one blIidred\nOF pounds Of powder, and the other chiefs lad been m\nthe vain impoled to relieve it, six hundred of them,\n'wh with each forty pounds OF powder on his back\nage marched with charged bayones upon the lines of\nDe the enemy on clear moonshiny night, forced them\nwill selves through. and saved the place from falling: a\nsell thing which six weeks ago | saw 0000 irregusars\nMY in vain attempting to do. But the word yreguidrs\nned rust convey to you very imperfect idea OF Greek\nWIN solderv picture to yourself rather herd Il met\never ,hnh.yc each vn au, two ni,ols but who knew\n\n\npy nothing of discipline even enough tof form into hne\n\n\n1t who never are enlisted, but and 50 as the,\nbe choose who are never mustered, and whose mum\nton; ber il i mnosshe to caIculateare without any\ngea the appurtenances ofa camp, with neither drum no\n'heif any musical instrument. nor nnlturn, nor even\nause tent but what is worse than a they have nothing\nhe of esprit d ceres the real soul Of army an,\nyou. though personally father brave, they are coWard\n5 nc body. have been witness ot numerous IN\n\n\nIII stances of personal courage on the paft OF the sol\nGould des aud sailors. but of what could be tac\nchar general gallant affair perhaps may exccpt the,\nhdos, deences, which often very fine. have lehatr\nmen, ened out my letter. led from observation\nise, another without detailing to you the occurring events\ncing but you will that affairs at low ebh an\nellsh YOU have gained. perhaps some new eas on II\nsay causes of this and now. for The future prospects\nstate Greece. heQueson of her ultimate success mu\nsues' be difficult to decide if she can get the mastery\nlakes the sea, all is finished tile Morea Cand u\nmax prus Negropont, in fact all the islands us IN s.\n,nsid monhs he in her power Ilrahin pacha canu0 T.\ng. al main with his army in tie Peloponncsus, nor ho\nthe his castle three no,sts without supplies from Aie\nWorld andria If the Greeks only hold their own he\nsin must be content with the islands they now have\nevery the Morea, with the exception of NapoIo d Rom\nand MIA, Napo di Mav0isia and the province OF Main\nch must fall into the hands OF the Turks though dout\n\n\nASK less PARTISAN war will for years. be carried on\nry 70 the mountainous districts.\n\n\npe say we must be content with the islands al\n\n\nw they are enough. if their revenues properly forn\nes ed to support Cochrane and his feet what has II\niaby Wnra, apI RnmpIio dnpr fnt thn ni,,fc chest e\nuntry ssyer, vears mast Nothinv jJ his bee,i Dd\n/. ~ ~ Msiaaliers Calculating then uron the very w'rs\n= Il\" Greece has resource-se aa will hold out pc\n\n\nNV haps for years but in that time it is probable SON\n% . stir in Europe, some dsasransement OF the too c\n\n\n49, ~ balanced Interests OF the great powers, Wi max",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2910,
+                    "y0": 656,
+                    "x1": 3229,
+                    "y1": 740
+                },
+                {
+                    "x0": 2445,
+                    "y0": 909,
+                    "x1": 3307,
+                    "y1": 5077
+                }
+            ],
+            "bbox": [
+                2445,
+                656,
+                3307,
+                5077
+            ],
+            "full_article_id": 12,
+            "id": "12_1827-10-09_p1_sn83025530_00271740220_1827100901_0210.json"
+        }
+    ]
+}

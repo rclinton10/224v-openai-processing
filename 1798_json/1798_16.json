@@ -1,0 +1,87 @@
+{
+    "lccn": {
+        "title": "The Wilmington mercury.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2639-6262",
+        "lccn": "sn88053099",
+        "start_year": "1798",
+        "end_year": "1798",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn88053099",
+        "edition": "ed-01",
+        "date": "1798-10-21",
+        "pages": [
+            "seq-1"
+        ]
+    },
+    "page_number": "1",
+    "scan": {
+        "lccn": "sn88053099",
+        "edition": "ed-01",
+        "date": "1798-10-21",
+        "page": "1",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn88053099/1798-10-21/ed-1/seq-1.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn88053099/1798-10-21/ed-1/seq-1/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn88053099/1798-10-21/ed-1/seq-1/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn88053099/00271740232/1798102101/0045.jp2",
+        "height": 2912,
+        "width": 2392
+    },
+    "bboxes": [
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 436,
+                "y0": 2238,
+                "x1": 883,
+                "y1": 2781
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1575,
+                "y0": 2277,
+                "x1": 1879,
+                "y1": 2701
+            },
+            "class": "article",
+            "raw_text": "\n",
+            "legibility": "Illegible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1908,
+                "y0": 996,
+                "x1": 2236,
+                "y1": 2853
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": []
+}

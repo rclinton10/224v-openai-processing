@@ -1,0 +1,870 @@
+{
+    "lccn": {
+        "title": "Delaware journal.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2638-6917",
+        "lccn": "sn83025530",
+        "start_year": "1827",
+        "end_year": "1832",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [
+            "sn85042477"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn83025530",
+        "edition": "ed-01",
+        "date": "1827-11-23",
+        "pages": [
+            "seq-2",
+            "seq-1",
+            "seq-4",
+            "seq-3"
+        ]
+    },
+    "page_number": "1",
+    "scan": {
+        "lccn": "sn83025530",
+        "edition": "ed-01",
+        "date": "1827-11-23",
+        "page": "1",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-11-23/ed-1/seq-1.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-11-23/ed-1/seq-1/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-11-23/ed-1/seq-1/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn83025530/00271740220/1827112301/0268.jp2",
+        "height": 5536,
+        "width": 3568
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 49,
+                "y0": 1812,
+                "x1": 794,
+                "y1": 2561
+            },
+            "class": "article",
+            "raw_text": "Covconp.-Dr Thomas Adams, P. M.\n\n\nBa1DGEvILLE.- Henry Cannon, T. M.\nArthur Mlby.\n|rRANKFoRD.--Mrl Isaiah Long.\n|DAGsBonouGH.-Dr Edward Dingle.\n|GEonGE TowN.---Mr. Joshua S. Layton.\n|IEwEs--H. /. Rodney, 7. NJ.\n|MmroRp.--Mr Joseph g. Oliver.\nEmerson, P. NJ\n|CAMpEN. Thomas Wainwright, T. M.\nRobertson, Esq.\nIi. Hodson, Esq.\n|CAvrwGLLs BRlDGE.--Manlove Hayes, III.\nobservation-disclosures Harry, T. NJ.\n|SuuNIT BRiDGE.--John Clement. Z. Nj.\nIWAawlcK, Md.-John Moreton, p. NJ.\nSubscribers living in the vicinity OF the residenc\nthese Agents, may pay their subscription none,\nthem, they being authorized to receive it, and tt\n3c receipts.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 278,
+                "y0": 1751,
+                "x1": 539,
+                "y1": 1800
+            },
+            "class": "headline",
+            "raw_text": "ACCENTS.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 75,
+                "y0": 4164,
+                "x1": 846,
+                "y1": 4719
+            },
+            "class": "article",
+            "raw_text": "WV LII be opened on the first Monday III De-\nw ceni1er next, under the superintendence OF\nMiss ISABELLA ANDERSON.\nTERMS Reading, Writing. Spelling, SC. 81 per\nquarter: payable in advance.\nGeography, arithmetic, and plain needle work,\nf3 30 cts. per quarter\nEmbroidery and Painting, IS per quarter.\nGood boarding can be had in the village on reas-\nRnabe terms. JOHN EDDOWES, Sec'y.\nM,.ddletoyn, Del. Nop. 8, 1897. b9-3m\n\n\nThe papers that have published the ADVERTISE\n\n\nent for the Classical School in this Institution, are\n\n\nequesed to insert the above and send their bills to\n\n\nhe Secretary.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 97,
+                "y0": 4043,
+                "x1": 798,
+                "y1": 4157
+            },
+            "class": "headline",
+            "raw_text": "The Eemale School IN the\nMiDDLETOWN ACADEMY",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 41,
+                "y0": 1323,
+                "x1": 798,
+                "y1": 1730
+            },
+            "class": "article",
+            "raw_text": "Persons wishing any sort of PRIEriNo done, with\nIatncss, accuracy. and dispatch ADVERTISEMENTS\nsertetl, or SUBSCRIPTIONS paid where there are\nAgents appointed in their neig ghbourhood to re-\nlive them, will please apply, or direct to X. Porter\nID Son, No. 81, Market Street, Wilmington.\nAll communications, not of the above character,\nbe addressed to \". Bradford, Editor Of the Dela-\nbrc Journal, Wilmington.\n\n\nThis arrangement is made for the more regular\nI'd prompt execution of business.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 270,
+                "y0": 1267,
+                "x1": 522,
+                "y1": 1311
+            },
+            "class": "headline",
+            "raw_text": "AgDrXCE.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 36,
+                "y0": 886,
+                "x1": 790,
+                "y1": 1250
+            },
+            "class": "article",
+            "raw_text": "TIE DELAWARE JOURNAL Is pub\nbhsl on Tuesdays and Fridays, ut four dollars\nb. annum; t,Uo dollars every size mouths IN ad-\nance. No paper to be discontinued, until ar-\ngarages are paid.\n\n\n.4tvertise acnts inserted on the usual tcr'ns--\nIII: One doLLar for four Insertions Of sicteen\nPlcs. aud SO IN proportion fer cucry number Of\n[lditiOnaL lines and Insertions.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 209,
+                "y0": 826,
+                "x1": 604,
+                "y1": 878
+            },
+            "class": "headline",
+            "raw_text": "COND-TxONS.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 66,
+                "y0": 3248,
+                "x1": 820,
+                "y1": 3547
+            },
+            "class": "article",
+            "raw_text": "THE President and Directors Of the Bank Of Del\npare, have this day declared a Dividend Of Ten\n\n\nolas per share equal to five per cent on the Cap\nhi Stock for the last six months, payable to the\n|ockholders, or their legal representatives on OF\nEter the 10th inst.\n\n\nEDWARD WORRELL, Cash'r\nNov 9. 1927. 6O",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 326,
+                "y0": 2897,
+                "x1": 781,
+                "y1": 2954
+            },
+            "class": "headline",
+            "raw_text": "Apply to\n\n\nLEA PUSEY.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -2
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 136,
+                "y0": 3165,
+                "x1": 721,
+                "y1": 3231
+            },
+            "class": "headline",
+            "raw_text": "ssAsk Dsusdend.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 66,
+                "y0": 3641,
+                "x1": 833,
+                "y1": 4018
+            },
+            "class": "article",
+            "raw_text": "THE Board Of Diredto of the Ueiaoare fire\n|asurance Company. have this day declared a Divl-\nlend of three per cent for the last six nanths on\n\n\nhe capital paid.whch will be payable to the Stock\n\n\nolders. their legal representatives, on or after\n|he l2h inst. at the Bank Of Wilmington and Beam\nlywine.\n\n\nBy order Of The Board.\nDANIEL BYRNES, Secg\nNov. 8, 1897. TO",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 239,
+                "y0": 3568,
+                "x1": 612,
+                "y1": 3629
+            },
+            "class": "headline",
+            "raw_text": "Dividend.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2411,
+                "y0": 1180,
+                "x1": 3251,
+                "y1": 5320
+            },
+            "class": "article",
+            "raw_text": "GENTLEMEN Havingrecently witnessed the po\"s\nerfu effect of little vegetable. apparently slmpiey\nin case of formidable pulmonary DISEASE and\n\n\nwishing to make the facts as public as poss'p'es =\nhave to request you to permit me 10 40 H. ehfoaeH\nthe medium OF your widely circulating paper\n\n\nvery respectable man, Joseph Hains. abodt Al\nyears old, formerly Postmaster at Rock Hill, near\nMiddleburg. London county, was five years subs\nject to distressing affections OF the lungs. The hrst\n\n\nthree years he had only periodical discharges OF\n\n\nblood from them; but for the last two years he is,\n\n\ncharged large quantities both Of blood and pus; Tres\n\n\nquently from half pint to pint Of the ibrm.r at\ntime, attended with most harrassing and sufttca4\n| ting cough. He was greatly reduced; and 30 tar\n\n\ngnne il what his friends thought consumption, that\nthey entirely despafed of him, and abandoned all\n\n\nhopes of his ever being restored; as the ordinary\n\n\nremedies, aud almost every thing that could Do\n\n\nthought off, had been tried IN valns ,\n! Having been patient OF mine, as well as paftl'\n\n\ncuar irlend could not view without the deepest\n\n\nsensbility. his deporable CONDITION. and had myself\n\n\nrelinaushed any hope ot his surviving. LIN this desc\nperatp situation, lie advised to try the LlverS\n\n\nwort, in the form OF miusons or strong teas to pe\nused cold, as comuon drink. In less than telA\n\n\ndays he derived the positive benefit. and ,n\n\n\nfour or five weeks. every violent symptom had sana\nished--Nu cough, no expectoraon or discharge OF\nblond or matter-a fine appetite. general health much\nimproved, gaining flesh and strength fapidlys and\nsuch change in his whole appearance, as both ass\ntonished and delighted every friend he had 1t has\nn d been more than eight weeks since he ctmnens\n\n\nced the use of the lsvelwort, and although he might\n\n\nnow dispense with it, yet lie will continue 1t for\n\n\nweeks or even months.--He is not the only one tas\nhas experienced its sautary influences. There are\n\n\nseveral others in his neighbourhuud WIN have been\n\n\nlaburing under breast complaints, or pulmonary cons\n: sumption, and who have been relieved bJ NJ\nwill now en,cavor to describe the Llverwolt III\nsuch manner As shall enable the most common obi\n\n\nserver to trace and distinguish it. 1t grows uiosslr\n\n\nalong the North sides Of hills and mountains abst\nstrong piaces-the leaves small, frequently small\n/; er but seldom larger than dollar-they are green\ni and roundish, hut deeply n0tcled, 80 as to divide\n$ the leaf into three 0bes. with round Slender stem,\n\n\nvarying in length from about two inches to three VI\nn four of slight purple cast. Ibis. as well as the\ni leaf itself, is little downy; but. In addition to this,\n\n\nthe leafis beset with finc short hair. somewhat ss\nOn shelving this, there is nothing remarkable III the\nII taste except Slight degree Of pungercs and astF7\nn yency. which mparts the mouth after chenins IL\nsome time-the tea is rather pleasant thai othefeses\n\n\nShould its general application be attended with the\n,f bappy results that its partial exhibition has beehs\nwhat an acquisition will it be to the Materia Medta\ne of the United States, and to the suftrings under\nIS maady which affords OF the greatest outlets to\nd human life! 1t was the opinion Of Doctor Husls\n\n\none of the great iuminares in the Republic ct Me-\nicine that there is remedy for every physical evil,\n\n\nand time and scieuce will probably realize IT:\ny have enclosed IL leaf of the Iaiverwort, hoping\nthat it may be convenient Tor you 10 have 1t repfs1\ny sened in the lntelligencef. !.\n\n\nam, very respectfully, your obedt serv't.\nne EfiO p HEREFORD\nThe plant above described is so familiarly knowa,\nx that we doubt whether any uncolnred engraving OF\nul lit would aid materially the diffusion OF the khowla\nre edge nf it, 1t ia known to botaists BY the hate\nof Hepafica Iyilobaa maine derived, like the fats\nn liar lame of it, from its peculiar appearance, atd\nhe grows on the shady and moist side OF hills.\nr- The following technical account OF ,he HepdlacH\n\"a Tr;hpba. taken from Barton's :. Flora Phiadpl4\nd. phca,- accompanied by familiar description alsds\nfrom the same work. may facilitate the discovery ht\nthe article b, those who disguised to make ttial\nbl- of its virtues;\nta- sClass Polyandra; order Polygynia; gehds lses\ncir patica species troba cayx leaved; petals o9s\nseeds naked; leaves three obed very entire; lo5es\nM round obtuse; scape one lowered\n\n\nto ..Fantiar DescriptiOn-Oae the earliest biouls\non ing Spring plants. often Towering before the leaves\nfor have come up and while snow is yet on the grounds\n\n\nflowers purple-rarely white In woods Under ia',en\nre and decayed leaves, on rich soil Common; psts\nir- ennial; March till May\"\n\n\nut Barion's Flora Philddelphiea,v.2 p. as.\niy YALE CoItEeE.--'rhere are foiy-one sraduaiesoi\n\n\nthis College now living. supposed tu be livings\na. who left the institution siry years ago and upwards\ny Including the above. there unety-cur persdbs\n\n\nnow living. who graduated at this College before thd\nIN Declaration of American Independence.\n~ . HAavAnp CoLLE oE.--Of this venerable instis\nh tuition, there living. graduate OF the class\n:\" of l749. (Dr. Holyoke, Of salem) and one Of the\nIl class Of 1859, MIR. Hill. Of Boston.\n\n\noff French Nauy-On the first Of Jandafy next it\nre is estimated that France will have aoat SO ships Of\nWe The line IS frigates, and 1874 smaller vessels",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 2545,
+                "y0": 1038,
+                "x1": 3082,
+                "y1": 1090
+            },
+            "class": "headline",
+            "raw_text": "CURE FOR CONSUMPTION.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -2
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 2523,
+                "y0": 1098,
+                "x1": 3069,
+                "y1": 1134
+            },
+            "class": "author",
+            "raw_text": "From The National Mteiigencer.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 62,
+                "y0": 2668,
+                "x1": 811,
+                "y1": 3149
+            },
+            "class": "article",
+            "raw_text": "4 FARM two and n half miles from Wilmington,\ny rear the Kennel Turnpike Road, pleasantly sit\n\n\nked containing about seycnty-two acres. twenty\n\n\nL Of which are woodland, adjoining lands OF Mr..\n\n\nknes BslnlIey, Mr.. Rogers and others. On the\n(emises are a two stored House, Barn and Orch\nh. Apply to\nLEA PUSEY,\n\n\nNo 10. East Queen Street, Wilmington.\n\n\nm fuot disposed Of previously. the above FARM\nHI b. offered ut public sale on Monday the Sd day\nDecember next. at the house Of John NJ. Smith\nKeeper. at o'clock. P. NJ. 6l-ts",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 92,
+                "y0": 2582,
+                "x1": 742,
+                "y1": 2652
+            },
+            "class": "headline",
+            "raw_text": "E70g. EDysu0te SnEe.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1610,
+                "y0": 1038,
+                "x1": 2420,
+                "y1": 5186
+            },
+            "class": "article",
+            "raw_text": "and Chester. The crop has been profitable and\nthe cultivation is extending. In good seasons, the\nproduct Is equal to about barrels of Wine to the\nacre.\n\n\nAbout million of bushels Of salt are annually\nmanufactured on Kenawha, Virginia.\n\n\nthere were in New York in 825-2, 2G4 grist\nnliil-, 5.l95 saw mills. 1sl oil mills, 76 cotton fac\ntories 80 w00llen ctories, % cotton and woollen\nIactoles, 1884 carding machines, l7O iron works, |\n\n\nOh trip hammers, l.I29 dislleries, g. 05 asherles\n---aod the domestic (househod) manufactures Of\nsonilen, cotton and linen cloths amounted to near\n\n\nl4.5OO.OUU yards in that year Several large\nmanuiar villages have been built l825,\nami the cotton and iron manufactures have greatly\nincreased.\n\n\nWe believe that the navy of the United States is\nentirely supplied with American canvass--as are\nvery many OF our merchant vessels. 1t has been\npreferred by the navy board, at all times composed\nOf practical and long experienced seamen, as better\ntta:i the foreign. And such is the extent and ex-\ncpiience of present factories at Patterson and\nelsewhere. that, though during the last war CANVASS\nwas sold for one dollar per yard, it might, III ano\n,her such crisis, be sold at one third Of that prce,\nthough possessing much greater durability than the\nimported article. 1t is to the public spirit OF the\nnavy board that the establishment oi this important\nmanufacture is attributed, and especially to Its We\nteran president, kudgers.\n\n\nThere are between 40 and lilty steam boats that\n\n\nly between New York and the adjacent places east,\n\n\norh. west south. Many thousand passengers\narrive or depart daiiy-sometim as many as four\n\n\nundred ~ single boat\n\n\ni The village Of Dunknk, on lake Erie, had 36 in\n\n\n,abltants IN June. 1926, bur i'll last June 525-Ihe\n\n\naht house at inns place IS to be lighted with natu-\n| 'al gas.\n\n\nIl i, proposed to light the city of Pttsburg with\n\n\n.,t,atca Oit. 1t is found III abundance iluating on\n\n\nne 81, face Of some Of the creeks-and SAID that it\n\n\n,l' be furnished at 25 cents per gallon, II mar\n80 was opened Tor use.\n\n\nNew Bedford is described as very hourshing. A.\n\n\nbout 100 vessels Il 2OOn seamen, it is thought, are\nemployed in the whale fishery, (suppying ml for the\nfactories )and the town contains 5000 inhabitants\n\n\nII is stated that 1000 lioms are IN daily opera\nhon in Philadelphia, weaving the stronger Or more\n\n\nl.iicult stuifs than those made by thepower looms\n\n\n.nd computed that the whole annual value Of Labor\n\n\nand profit caused by them about 800 600 dollars\nyear The houses occupied and articles con\ne suned by the laborers. make up no small item in\n\n\nthe concerns of the property-hoders and a.rlcu\nurasts Of that city and its vicinity.\n!. One concern has shipped from the wharves on the\n: Schuylklll (Phlladelpnia) one hundred cargoes o\n! coal during the present season. Twelve or hteeI\n\n\n,ea-yessels often seen loading or dischargins\nr. at them. at one time.\n\n\nThe quadrant of Godfrey. the cotton gin .\nWhitney, the application Gf steam to navigation b,\n\n\nFulton, and the carduaking machine ct Wittemor\nare among the most Important events IN the proges\ne Of power, and mastery Of science over matter an'\nIS space.\n\n\nd The canals Of New York are happily called \"ry\ny ers Of gold'' from the west and the n rtb.\n,f Excess quantities OF British wooens have late\ni been thrown into our market, as to CO plete tn\na. prstration Of our manufactures, snd sold at yer\n= reduced prices.\n\n\nd. The Pennsylvania convention Of the 27th Of Jun\nof last in their address 10 the people ot that state\nes said-ss Pennsylvania has we'll nigh ceased TO ei\nn port to Europe. any thing, the growth OF her ruitt.\nNJ soil, her expectations excepting manufactures III\nr. reduced almost the coasting trade the manufa\n\n\nlures of the eastern states which last year consur\nas ed upwards Of six hundred thousand barrels of til\no. -four of the middle states being their principal ma\nOf ket. In the mean while the citizens Of Pennsyylv\ne. mia buy abroad large quantities of wooens, hare\ned wares, silks and cottons, mourning hopeless eb\nne or paying for them at the most runous dlsadva\ner tages In the midst Of natural influence and hab\n\n\ntual industry, penury and degradation are newt\ne. bic. unless the citizens Of Pennsylvania use the\nas to procure at home the clothing and cor\nn nodities they require. The rich ani athletic cor\nWe mon wealth must be reduced like spendthrltt\nen- want and wretchcdness unless it ceases todepend\n\n\nothers for what with proper attention IT can DO +\nM itself.\n\n\nq. \"'rhose alone who never practice frugaty, I\n81 commend that as remedy. No doubt it is a Vi\nIN tue without which all the rest unavailing. b.\nIL it avals nothing to be frugal when nothing can\n\n\nsold, for saving is worse than useless when noood\nas will buy. ;.\nnut \"All the farming states are in the same predci\nis ment. Excepting some little commerce anon\nad themselves, they have hardly any left at all =\nas The Ednburg Review. taking deduction iro'\nat .sa careful examination of facts\" scrupes not\nh assert than the health. morals. and intelligence\n\n\nof the population. have all gained by the establish\nor ment Of the. present manufacturing system\"\nen- There is no doubt of ths--fur however wretche\nnd the overworked and underted manufacturers {",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 806,
+                "y0": 1176,
+                "x1": 1616,
+                "y1": 5316
+            },
+            "class": "article",
+            "raw_text": "\nbeautiful employment Of uur own worthy and in.\ndustrlous females who. in the ingenious and deli\ncate operations OF this manufacture. will soon rival.\nil not exceed, all others. Six hundred young ladies\nate employed in this business at Newport II. /.\nonly. There are several other large establishments\nin Rhode Island and Massachusetts, 81.\n\n\nLeather gloves, for men or womens wear, should\nall be made at home, as being neat family employ\nmeht for femaes--and our manufacturers Of leather\nwould supply the material we'll and as cheap as\nthe British, was there demand for it,\nThese three branches of industry might employ\n100000 otherwise helpless and destitute females\nglad to make 50 cents or less per day and subsist\nthemselves, any fitting employment for them. III\nthe midst OF their children, Or at the fire se Of the,\nmothers--wd0wed and in want, and ii ding consu-\nlation chiefly in the hope that their daughters NAV\n| earn an honorable subsistence for themselves, when\nthe parent stock is removed 10 ' another and bet-\nter world\"\n\n\n! large proportion of the artificial HnVers now\nused. are the work Of the hands OF fair country\nwomen and we hope that pruclam, ,tion of tins\nfact will not prevent the sale of .y-lmcause they\nare not imported from France. but sub,ist widows\nand orphans at home.\n\n\n| The manufacture Of combs III the United States\namounts to two or more millions of dollars wear\n-lOO.0OO collars worth annually made at Leo\nminister, Mass. and 4U, 600 dollars worth West\nbrock. Maine. and together employing 200 PERSONS\n\n\nIi is supposed that when the Ohio caliais ar, lin\nshed the state will export 100000 barrels Of bee f\nand pork and 100000 barrels OF Hour. and have\n10000 sheep--but what foreign demand . there\nfor these things, and what good will the surplus\nproduction render to the people, il hnme.marka,\ns not created Nay-t will chiefly tend 10 d.\ntrcss the farmers Of lhe old states OHIO will ais,\nsuon raise lO,0 600 hhds. Of tobacco. The weight Z\nthe beet and pork, -four. ron wool and tubiren\nwhich they will be able to send to market nu, of the\nstate. in two or three years. if there is good de\nmand. Will exceed 100000 toms. for the inian,\ntrade, by canals and roads or river navigation.\n\n\nIl has been estimated that upwards Ut 80 mlun-\nof bushels of grain raised in Ohio last seasUn\n, OF more than SO bushels for each nhabtant\nOhio forwarded iH hnds. of tobacco to the\nBaltimore market last ye .r-chieHy b. Transports\nton over the mountalns--sOne by way vi The Erie\ncanal and New York\n\n\nTwo large schooners intended for llie West In\nda or coastlng trade, building AZ CINCINNATI\n! with several steam boats. Orders had been receiv\n, ed there from South America Tor twenty printing\n: presses, and the necessary type.\n\n\n. There were 286 arrivals at the port Of Sandusky\n: :. on Lake Erie, during the last year Twelve years\nago this place was part of the original wilderness.\nLIN twelve more, it viii be large city.\n\n\nThere are many manufacturing establishments II\nNorth Carolina, such as furnaces and forges. her\n\n\nis much water power i'll this state. aud it produce\ncotton and rice, and mas abundance OF iron ore AM\n70 no part of the union better fitted for rearing shee\nj. than the 'supper country\" or ricn western part\nN it. North Carolina will become great maouiactul\nl. ing aud wool growing state, and increase her populf\n~ ton and wealth AS she advances IN these things\n=. She unes, in herse perhaps, greater natural al\n\n\nvantages than any other state. The returns\n\n\n1910. gave to her production in manufacture\n\n\namounting to S6,655, l5S, and in 1890. the lnpe\n\n\nfeet returns Showed that / ,s44 persons were Ell\n: played in them, and probably subeistns $4,000 Pc\n\n\nsons.\n\n\nThe whole export of naval stores in 1926, W.\n\n\n46,357 barrels OF tar and pitch, and 96,l57 OF n\n\n\nsin and turpentne--together lag, AGA barrels\n&C. naval stores are worked up annually in the dIst\nu ries of Boston. only, besides the tar and pitch use\n\n\nin the cordage factories and ship yards. The hon\nef consumption Of these stores is several times great\n, than the amount of the foreign export.\n~ A late Rutland (Vermont) Herald. says--An e\n\n\ntensive bed Of manganese OF the purest kind. ha\n\n\nrecently been discovered in Chitenlen, in this cou\nas try, on the farm Of Wolcott I'll. Keeler, esq\n\n\nare informed that about so tons have already bet\n\n\ndug 1t is said to be wnrtll about $50 per ton.\nSc Providence has considerable share of foreign cor\nire merce-From the lst OF January to the 27th Au\nto of the present year. there arrived that port\n\n\nvessels from Havana. 8 from Matanzas. ! | fro\n= other West India ports, | from Canton, and\n\n\nfrom different parts of Europe.\n\n\nThe manufacturing town OF Reading, Pa. HI\nas only n, dwelling houses, large and small-b\non. the assessed value Of property in the borough\n\n\n81. sos. .8s5-equaI to s,2OO dollars for every he;\net- of a family. surprising one to each house. The a\nsessabe property is in lots and houses. VIII\n=, other than manufacturing town can compare wi\nnst this\n\n\nast Tyo hundred and fifty stages. hacks, gigs\n'\"e wagons passed certain inn the road betwet\nII Albany and Troy in one day of June ls26--al\nate appears not to have been considered more than Il\nZ average number. These cities are great cities",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 862,
+                "y0": 865,
+                "x1": 1525,
+                "y1": 926
+            },
+            "class": "headline",
+            "raw_text": "DOlsxxss SIC INDUSTRY.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -2
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 914,
+                "y0": 947,
+                "x1": 1482,
+                "y1": 987
+            },
+            "class": "headline",
+            "raw_text": "EXTRACTED FROM NILES REPORT.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 92,
+                "y0": 4826,
+                "x1": 850,
+                "y1": 5017
+            },
+            "class": "article",
+            "raw_text": "A First Rate Stand, in Market-Street, occupied as\nIa Dry Good Store, by William B. Tomnson.\n| he payment to be made to suit the purchaser.\nInquire of JOSEPH POGUE, No. lO7, Market\nFtreet, Wilmington. 69--4t",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 261,
+                "y0": 4744,
+                "x1": 634,
+                "y1": 4814
+            },
+            "class": "headline",
+            "raw_text": "FLOR Sale,",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2406,
+                "y0": 839,
+                "x1": 3212,
+                "y1": 1004
+            },
+            "class": "article",
+            "raw_text": "agricultural districts. This is the best possible evil\ndence Of greater morality or intelligence and more\nabundant means Of subsistence, in the former than\nin the latter.",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 92,
+                "y0": 5034,
+                "x1": 855,
+                "y1": 5182
+            },
+            "class": "article",
+            "raw_text": "*s'*Ihe pamphlet respecting the kremer affair.\" and\nlne history of Gen. Jackson's accusations against\nflr Clay, &C. &c just received and for sale by the\npublishers. No. 97. Market-Street.",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 105,
+                "y0": 5207,
+                "x1": 859,
+                "y1": 5286
+            },
+            "class": "article",
+            "raw_text": "Magistrates Blanks. of all descriptions ior safe\nNo. ~, Market-Street",
+            "legibility": "Questionable",
+            "full_article_id": 26,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 3587,
+                "y0": 302,
+                "x1": 4557,
+                "y1": 4330
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 29,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                15,
+                0
+            ],
+            "headline": "ACCENTS.",
+            "article": "Covconp.-Dr Thomas Adams, P. M.\n\n\nBa1DGEvILLE.- Henry Cannon, T. M.\nArthur Mlby.\n|rRANKFoRD.--Mrl Isaiah Long.\n|DAGsBonouGH.-Dr Edward Dingle.\n|GEonGE TowN.---Mr. Joshua S. Layton.\n|IEwEs--H. /. Rodney, 7. NJ.\n|MmroRp.--Mr Joseph g. Oliver.\nEmerson, P. NJ\n|CAMpEN. Thomas Wainwright, T. M.\nRobertson, Esq.\nIi. Hodson, Esq.\n|CAvrwGLLs BRlDGE.--Manlove Hayes, III.\nobservation-disclosures Harry, T. NJ.\n|SuuNIT BRiDGE.--John Clement. Z. Nj.\nIWAawlcK, Md.-John Moreton, p. NJ.\nSubscribers living in the vicinity OF the residenc\nthese Agents, may pay their subscription none,\nthem, they being authorized to receive it, and tt\n3c receipts.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 278,
+                    "y0": 1751,
+                    "x1": 539,
+                    "y1": 1800
+                },
+                {
+                    "x0": 49,
+                    "y0": 1812,
+                    "x1": 794,
+                    "y1": 2561
+                }
+            ],
+            "bbox": [
+                49,
+                1751,
+                794,
+                2561
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-11-23_p1_sn83025530_00271740220_1827112301_0268.json"
+        },
+        {
+            "object_ids": [
+                8,
+                1
+            ],
+            "headline": "The Eemale School IN the\nMiDDLETOWN ACADEMY",
+            "article": "WV LII be opened on the first Monday III De-\nw ceni1er next, under the superintendence OF\nMiss ISABELLA ANDERSON.\nTERMS Reading, Writing. Spelling, SC. 81 per\nquarter: payable in advance.\nGeography, arithmetic, and plain needle work,\nf3 30 cts. per quarter\nEmbroidery and Painting, IS per quarter.\nGood boarding can be had in the village on reas-\nRnabe terms. JOHN EDDOWES, Sec'y.\nM,.ddletoyn, Del. Nop. 8, 1897. b9-3m\n\n\nThe papers that have published the ADVERTISE\n\n\nent for the Classical School in this Institution, are\n\n\nequesed to insert the above and send their bills to\n\n\nhe Secretary.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 97,
+                    "y0": 4043,
+                    "x1": 798,
+                    "y1": 4157
+                },
+                {
+                    "x0": 75,
+                    "y0": 4164,
+                    "x1": 846,
+                    "y1": 4719
+                }
+            ],
+            "bbox": [
+                75,
+                4043,
+                846,
+                4719
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-11-23_p1_sn83025530_00271740220_1827112301_0268.json"
+        },
+        {
+            "object_ids": [
+                17,
+                2
+            ],
+            "headline": "AgDrXCE.",
+            "article": "Persons wishing any sort of PRIEriNo done, with\nIatncss, accuracy. and dispatch ADVERTISEMENTS\nsertetl, or SUBSCRIPTIONS paid where there are\nAgents appointed in their neig ghbourhood to re-\nlive them, will please apply, or direct to X. Porter\nID Son, No. 81, Market Street, Wilmington.\nAll communications, not of the above character,\nbe addressed to \". Bradford, Editor Of the Dela-\nbrc Journal, Wilmington.\n\n\nThis arrangement is made for the more regular\nI'd prompt execution of business.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 270,
+                    "y0": 1267,
+                    "x1": 522,
+                    "y1": 1311
+                },
+                {
+                    "x0": 41,
+                    "y0": 1323,
+                    "x1": 798,
+                    "y1": 1730
+                }
+            ],
+            "bbox": [
+                41,
+                1267,
+                798,
+                1730
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-11-23_p1_sn83025530_00271740220_1827112301_0268.json"
+        },
+        {
+            "object_ids": [
+                18,
+                3
+            ],
+            "headline": "COND-TxONS.",
+            "article": "TIE DELAWARE JOURNAL Is pub\nbhsl on Tuesdays and Fridays, ut four dollars\nb. annum; t,Uo dollars every size mouths IN ad-\nance. No paper to be discontinued, until ar-\ngarages are paid.\n\n\n.4tvertise acnts inserted on the usual tcr'ns--\nIII: One doLLar for four Insertions Of sicteen\nPlcs. aud SO IN proportion fer cucry number Of\n[lditiOnaL lines and Insertions.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 209,
+                    "y0": 826,
+                    "x1": 604,
+                    "y1": 878
+                },
+                {
+                    "x0": 36,
+                    "y0": 886,
+                    "x1": 790,
+                    "y1": 1250
+                }
+            ],
+            "bbox": [
+                36,
+                826,
+                790,
+                1250
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-11-23_p1_sn83025530_00271740220_1827112301_0268.json"
+        },
+        {
+            "object_ids": [
+                27,
+                14,
+                4
+            ],
+            "headline": "Apply to\n\n\nLEA PUSEY.\n\nssAsk Dsusdend.",
+            "article": "THE President and Directors Of the Bank Of Del\npare, have this day declared a Dividend Of Ten\n\n\nolas per share equal to five per cent on the Cap\nhi Stock for the last six months, payable to the\n|ockholders, or their legal representatives on OF\nEter the 10th inst.\n\n\nEDWARD WORRELL, Cash'r\nNov 9. 1927. 6O",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 326,
+                    "y0": 2897,
+                    "x1": 781,
+                    "y1": 2954
+                },
+                {
+                    "x0": 136,
+                    "y0": 3165,
+                    "x1": 721,
+                    "y1": 3231
+                },
+                {
+                    "x0": 66,
+                    "y0": 3248,
+                    "x1": 820,
+                    "y1": 3547
+                }
+            ],
+            "bbox": [
+                66,
+                2897,
+                820,
+                3547
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-11-23_p1_sn83025530_00271740220_1827112301_0268.json"
+        },
+        {
+            "object_ids": [
+                20,
+                5
+            ],
+            "headline": "Dividend.",
+            "article": "THE Board Of Diredto of the Ueiaoare fire\n|asurance Company. have this day declared a Divl-\nlend of three per cent for the last six nanths on\n\n\nhe capital paid.whch will be payable to the Stock\n\n\nolders. their legal representatives, on or after\n|he l2h inst. at the Bank Of Wilmington and Beam\nlywine.\n\n\nBy order Of The Board.\nDANIEL BYRNES, Secg\nNov. 8, 1897. TO",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 239,
+                    "y0": 3568,
+                    "x1": 612,
+                    "y1": 3629
+                },
+                {
+                    "x0": 66,
+                    "y0": 3641,
+                    "x1": 833,
+                    "y1": 4018
+                }
+            ],
+            "bbox": [
+                66,
+                3568,
+                833,
+                4018
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-11-23_p1_sn83025530_00271740220_1827112301_0268.json"
+        },
+        {
+            "object_ids": [
+                24,
+                26,
+                6
+            ],
+            "headline": "CURE FOR CONSUMPTION.",
+            "article": "GENTLEMEN Havingrecently witnessed the po\"s\nerfu effect of little vegetable. apparently slmpiey\nin case of formidable pulmonary DISEASE and\n\n\nwishing to make the facts as public as poss'p'es =\nhave to request you to permit me 10 40 H. ehfoaeH\nthe medium OF your widely circulating paper\n\n\nvery respectable man, Joseph Hains. abodt Al\nyears old, formerly Postmaster at Rock Hill, near\nMiddleburg. London county, was five years subs\nject to distressing affections OF the lungs. The hrst\n\n\nthree years he had only periodical discharges OF\n\n\nblood from them; but for the last two years he is,\n\n\ncharged large quantities both Of blood and pus; Tres\n\n\nquently from half pint to pint Of the ibrm.r at\ntime, attended with most harrassing and sufttca4\n| ting cough. He was greatly reduced; and 30 tar\n\n\ngnne il what his friends thought consumption, that\nthey entirely despafed of him, and abandoned all\n\n\nhopes of his ever being restored; as the ordinary\n\n\nremedies, aud almost every thing that could Do\n\n\nthought off, had been tried IN valns ,\n! Having been patient OF mine, as well as paftl'\n\n\ncuar irlend could not view without the deepest\n\n\nsensbility. his deporable CONDITION. and had myself\n\n\nrelinaushed any hope ot his surviving. LIN this desc\nperatp situation, lie advised to try the LlverS\n\n\nwort, in the form OF miusons or strong teas to pe\nused cold, as comuon drink. In less than telA\n\n\ndays he derived the positive benefit. and ,n\n\n\nfour or five weeks. every violent symptom had sana\nished--Nu cough, no expectoraon or discharge OF\nblond or matter-a fine appetite. general health much\nimproved, gaining flesh and strength fapidlys and\nsuch change in his whole appearance, as both ass\ntonished and delighted every friend he had 1t has\nn d been more than eight weeks since he ctmnens\n\n\nced the use of the lsvelwort, and although he might\n\n\nnow dispense with it, yet lie will continue 1t for\n\n\nweeks or even months.--He is not the only one tas\nhas experienced its sautary influences. There are\n\n\nseveral others in his neighbourhuud WIN have been\n\n\nlaburing under breast complaints, or pulmonary cons\n: sumption, and who have been relieved bJ NJ\nwill now en,cavor to describe the Llverwolt III\nsuch manner As shall enable the most common obi\n\n\nserver to trace and distinguish it. 1t grows uiosslr\n\n\nalong the North sides Of hills and mountains abst\nstrong piaces-the leaves small, frequently small\n/; er but seldom larger than dollar-they are green\ni and roundish, hut deeply n0tcled, 80 as to divide\n$ the leaf into three 0bes. with round Slender stem,\n\n\nvarying in length from about two inches to three VI\nn four of slight purple cast. Ibis. as well as the\ni leaf itself, is little downy; but. In addition to this,\n\n\nthe leafis beset with finc short hair. somewhat ss\nOn shelving this, there is nothing remarkable III the\nII taste except Slight degree Of pungercs and astF7\nn yency. which mparts the mouth after chenins IL\nsome time-the tea is rather pleasant thai othefeses\n\n\nShould its general application be attended with the\n,f bappy results that its partial exhibition has beehs\nwhat an acquisition will it be to the Materia Medta\ne of the United States, and to the suftrings under\nIS maady which affords OF the greatest outlets to\nd human life! 1t was the opinion Of Doctor Husls\n\n\none of the great iuminares in the Republic ct Me-\nicine that there is remedy for every physical evil,\n\n\nand time and scieuce will probably realize IT:\ny have enclosed IL leaf of the Iaiverwort, hoping\nthat it may be convenient Tor you 10 have 1t repfs1\ny sened in the lntelligencef. !.\n\n\nam, very respectfully, your obedt serv't.\nne EfiO p HEREFORD\nThe plant above described is so familiarly knowa,\nx that we doubt whether any uncolnred engraving OF\nul lit would aid materially the diffusion OF the khowla\nre edge nf it, 1t ia known to botaists BY the hate\nof Hepafica Iyilobaa maine derived, like the fats\nn liar lame of it, from its peculiar appearance, atd\nhe grows on the shady and moist side OF hills.\nr- The following technical account OF ,he HepdlacH\n\"a Tr;hpba. taken from Barton's :. Flora Phiadpl4\nd. phca,- accompanied by familiar description alsds\nfrom the same work. may facilitate the discovery ht\nthe article b, those who disguised to make ttial\nbl- of its virtues;\nta- sClass Polyandra; order Polygynia; gehds lses\ncir patica species troba cayx leaved; petals o9s\nseeds naked; leaves three obed very entire; lo5es\nM round obtuse; scape one lowered\n\n\nto ..Fantiar DescriptiOn-Oae the earliest biouls\non ing Spring plants. often Towering before the leaves\nfor have come up and while snow is yet on the grounds\n\n\nflowers purple-rarely white In woods Under ia',en\nre and decayed leaves, on rich soil Common; psts\nir- ennial; March till May\"\n\n\nut Barion's Flora Philddelphiea,v.2 p. as.\niy YALE CoItEeE.--'rhere are foiy-one sraduaiesoi\n\n\nthis College now living. supposed tu be livings\na. who left the institution siry years ago and upwards\ny Including the above. there unety-cur persdbs\n\n\nnow living. who graduated at this College before thd\nIN Declaration of American Independence.\n~ . HAavAnp CoLLE oE.--Of this venerable instis\nh tuition, there living. graduate OF the class\n:\" of l749. (Dr. Holyoke, Of salem) and one Of the\nIl class Of 1859, MIR. Hill. Of Boston.\n\n\noff French Nauy-On the first Of Jandafy next it\nre is estimated that France will have aoat SO ships Of\nWe The line IS frigates, and 1874 smaller vessels",
+            "byline": "From The National Mteiigencer.",
+            "bbox_list": [
+                {
+                    "x0": 2545,
+                    "y0": 1038,
+                    "x1": 3082,
+                    "y1": 1090
+                },
+                {
+                    "x0": 2523,
+                    "y0": 1098,
+                    "x1": 3069,
+                    "y1": 1134
+                },
+                {
+                    "x0": 2411,
+                    "y0": 1180,
+                    "x1": 3251,
+                    "y1": 5320
+                }
+            ],
+            "bbox": [
+                2411,
+                1038,
+                3251,
+                5320
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-11-23_p1_sn83025530_00271740220_1827112301_0268.json"
+        },
+        {
+            "object_ids": [
+                11,
+                7
+            ],
+            "headline": "E70g. EDysu0te SnEe.",
+            "article": "4 FARM two and n half miles from Wilmington,\ny rear the Kennel Turnpike Road, pleasantly sit\n\n\nked containing about seycnty-two acres. twenty\n\n\nL Of which are woodland, adjoining lands OF Mr..\n\n\nknes BslnlIey, Mr.. Rogers and others. On the\n(emises are a two stored House, Barn and Orch\nh. Apply to\nLEA PUSEY,\n\n\nNo 10. East Queen Street, Wilmington.\n\n\nm fuot disposed Of previously. the above FARM\nHI b. offered ut public sale on Monday the Sd day\nDecember next. at the house Of John NJ. Smith\nKeeper. at o'clock. P. NJ. 6l-ts",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 92,
+                    "y0": 2582,
+                    "x1": 742,
+                    "y1": 2652
+                },
+                {
+                    "x0": 62,
+                    "y0": 2668,
+                    "x1": 811,
+                    "y1": 3149
+                }
+            ],
+            "bbox": [
+                62,
+                2582,
+                811,
+                3149
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-11-23_p1_sn83025530_00271740220_1827112301_0268.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "and Chester. The crop has been profitable and\nthe cultivation is extending. In good seasons, the\nproduct Is equal to about barrels of Wine to the\nacre.\n\n\nAbout million of bushels Of salt are annually\nmanufactured on Kenawha, Virginia.\n\n\nthere were in New York in 825-2, 2G4 grist\nnliil-, 5.l95 saw mills. 1sl oil mills, 76 cotton fac\ntories 80 w00llen ctories, % cotton and woollen\nIactoles, 1884 carding machines, l7O iron works, |\n\n\nOh trip hammers, l.I29 dislleries, g. 05 asherles\n---aod the domestic (househod) manufactures Of\nsonilen, cotton and linen cloths amounted to near\n\n\nl4.5OO.OUU yards in that year Several large\nmanuiar villages have been built l825,\nami the cotton and iron manufactures have greatly\nincreased.\n\n\nWe believe that the navy of the United States is\nentirely supplied with American canvass--as are\nvery many OF our merchant vessels. 1t has been\npreferred by the navy board, at all times composed\nOf practical and long experienced seamen, as better\ntta:i the foreign. And such is the extent and ex-\ncpiience of present factories at Patterson and\nelsewhere. that, though during the last war CANVASS\nwas sold for one dollar per yard, it might, III ano\n,her such crisis, be sold at one third Of that prce,\nthough possessing much greater durability than the\nimported article. 1t is to the public spirit OF the\nnavy board that the establishment oi this important\nmanufacture is attributed, and especially to Its We\nteran president, kudgers.\n\n\nThere are between 40 and lilty steam boats that\n\n\nly between New York and the adjacent places east,\n\n\norh. west south. Many thousand passengers\narrive or depart daiiy-sometim as many as four\n\n\nundred ~ single boat\n\n\ni The village Of Dunknk, on lake Erie, had 36 in\n\n\n,abltants IN June. 1926, bur i'll last June 525-Ihe\n\n\naht house at inns place IS to be lighted with natu-\n| 'al gas.\n\n\nIl i, proposed to light the city of Pttsburg with\n\n\n.,t,atca Oit. 1t is found III abundance iluating on\n\n\nne 81, face Of some Of the creeks-and SAID that it\n\n\n,l' be furnished at 25 cents per gallon, II mar\n80 was opened Tor use.\n\n\nNew Bedford is described as very hourshing. A.\n\n\nbout 100 vessels Il 2OOn seamen, it is thought, are\nemployed in the whale fishery, (suppying ml for the\nfactories )and the town contains 5000 inhabitants\n\n\nII is stated that 1000 lioms are IN daily opera\nhon in Philadelphia, weaving the stronger Or more\n\n\nl.iicult stuifs than those made by thepower looms\n\n\n.nd computed that the whole annual value Of Labor\n\n\nand profit caused by them about 800 600 dollars\nyear The houses occupied and articles con\ne suned by the laborers. make up no small item in\n\n\nthe concerns of the property-hoders and a.rlcu\nurasts Of that city and its vicinity.\n!. One concern has shipped from the wharves on the\n: Schuylklll (Phlladelpnia) one hundred cargoes o\n! coal during the present season. Twelve or hteeI\n\n\n,ea-yessels often seen loading or dischargins\nr. at them. at one time.\n\n\nThe quadrant of Godfrey. the cotton gin .\nWhitney, the application Gf steam to navigation b,\n\n\nFulton, and the carduaking machine ct Wittemor\nare among the most Important events IN the proges\ne Of power, and mastery Of science over matter an'\nIS space.\n\n\nd The canals Of New York are happily called \"ry\ny ers Of gold'' from the west and the n rtb.\n,f Excess quantities OF British wooens have late\ni been thrown into our market, as to CO plete tn\na. prstration Of our manufactures, snd sold at yer\n= reduced prices.\n\n\nd. The Pennsylvania convention Of the 27th Of Jun\nof last in their address 10 the people ot that state\nes said-ss Pennsylvania has we'll nigh ceased TO ei\nn port to Europe. any thing, the growth OF her ruitt.\nNJ soil, her expectations excepting manufactures III\nr. reduced almost the coasting trade the manufa\n\n\nlures of the eastern states which last year consur\nas ed upwards Of six hundred thousand barrels of til\no. -four of the middle states being their principal ma\nOf ket. In the mean while the citizens Of Pennsyylv\ne. mia buy abroad large quantities of wooens, hare\ned wares, silks and cottons, mourning hopeless eb\nne or paying for them at the most runous dlsadva\ner tages In the midst Of natural influence and hab\n\n\ntual industry, penury and degradation are newt\ne. bic. unless the citizens Of Pennsylvania use the\nas to procure at home the clothing and cor\nn nodities they require. The rich ani athletic cor\nWe mon wealth must be reduced like spendthrltt\nen- want and wretchcdness unless it ceases todepend\n\n\nothers for what with proper attention IT can DO +\nM itself.\n\n\nq. \"'rhose alone who never practice frugaty, I\n81 commend that as remedy. No doubt it is a Vi\nIN tue without which all the rest unavailing. b.\nIL it avals nothing to be frugal when nothing can\n\n\nsold, for saving is worse than useless when noood\nas will buy. ;.\nnut \"All the farming states are in the same predci\nis ment. Excepting some little commerce anon\nad themselves, they have hardly any left at all =\nas The Ednburg Review. taking deduction iro'\nat .sa careful examination of facts\" scrupes not\nh assert than the health. morals. and intelligence\n\n\nof the population. have all gained by the establish\nor ment Of the. present manufacturing system\"\nen- There is no doubt of ths--fur however wretche\nnd the overworked and underted manufacturers {",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1610,
+                    "y0": 1038,
+                    "x1": 2420,
+                    "y1": 5186
+                }
+            ],
+            "bbox": [
+                1610,
+                1038,
+                2420,
+                5186
+            ],
+            "full_article_id": 10,
+            "id": "10_1827-11-23_p1_sn83025530_00271740220_1827112301_0268.json"
+        },
+        {
+            "object_ids": [
+                13,
+                23,
+                10
+            ],
+            "headline": "DOlsxxss SIC INDUSTRY.\n\nEXTRACTED FROM NILES REPORT.",
+            "article": "\nbeautiful employment Of uur own worthy and in.\ndustrlous females who. in the ingenious and deli\ncate operations OF this manufacture. will soon rival.\nil not exceed, all others. Six hundred young ladies\nate employed in this business at Newport II. /.\nonly. There are several other large establishments\nin Rhode Island and Massachusetts, 81.\n\n\nLeather gloves, for men or womens wear, should\nall be made at home, as being neat family employ\nmeht for femaes--and our manufacturers Of leather\nwould supply the material we'll and as cheap as\nthe British, was there demand for it,\nThese three branches of industry might employ\n100000 otherwise helpless and destitute females\nglad to make 50 cents or less per day and subsist\nthemselves, any fitting employment for them. III\nthe midst OF their children, Or at the fire se Of the,\nmothers--wd0wed and in want, and ii ding consu-\nlation chiefly in the hope that their daughters NAV\n| earn an honorable subsistence for themselves, when\nthe parent stock is removed 10 ' another and bet-\nter world\"\n\n\n! large proportion of the artificial HnVers now\nused. are the work Of the hands OF fair country\nwomen and we hope that pruclam, ,tion of tins\nfact will not prevent the sale of .y-lmcause they\nare not imported from France. but sub,ist widows\nand orphans at home.\n\n\n| The manufacture Of combs III the United States\namounts to two or more millions of dollars wear\n-lOO.0OO collars worth annually made at Leo\nminister, Mass. and 4U, 600 dollars worth West\nbrock. Maine. and together employing 200 PERSONS\n\n\nIi is supposed that when the Ohio caliais ar, lin\nshed the state will export 100000 barrels Of bee f\nand pork and 100000 barrels OF Hour. and have\n10000 sheep--but what foreign demand . there\nfor these things, and what good will the surplus\nproduction render to the people, il hnme.marka,\ns not created Nay-t will chiefly tend 10 d.\ntrcss the farmers Of lhe old states OHIO will ais,\nsuon raise lO,0 600 hhds. Of tobacco. The weight Z\nthe beet and pork, -four. ron wool and tubiren\nwhich they will be able to send to market nu, of the\nstate. in two or three years. if there is good de\nmand. Will exceed 100000 toms. for the inian,\ntrade, by canals and roads or river navigation.\n\n\nIl has been estimated that upwards Ut 80 mlun-\nof bushels of grain raised in Ohio last seasUn\n, OF more than SO bushels for each nhabtant\nOhio forwarded iH hnds. of tobacco to the\nBaltimore market last ye .r-chieHy b. Transports\nton over the mountalns--sOne by way vi The Erie\ncanal and New York\n\n\nTwo large schooners intended for llie West In\nda or coastlng trade, building AZ CINCINNATI\n! with several steam boats. Orders had been receiv\n, ed there from South America Tor twenty printing\n: presses, and the necessary type.\n\n\n. There were 286 arrivals at the port Of Sandusky\n: :. on Lake Erie, during the last year Twelve years\nago this place was part of the original wilderness.\nLIN twelve more, it viii be large city.\n\n\nThere are many manufacturing establishments II\nNorth Carolina, such as furnaces and forges. her\n\n\nis much water power i'll this state. aud it produce\ncotton and rice, and mas abundance OF iron ore AM\n70 no part of the union better fitted for rearing shee\nj. than the 'supper country\" or ricn western part\nN it. North Carolina will become great maouiactul\nl. ing aud wool growing state, and increase her populf\n~ ton and wealth AS she advances IN these things\n=. She unes, in herse perhaps, greater natural al\n\n\nvantages than any other state. The returns\n\n\n1910. gave to her production in manufacture\n\n\namounting to S6,655, l5S, and in 1890. the lnpe\n\n\nfeet returns Showed that / ,s44 persons were Ell\n: played in them, and probably subeistns $4,000 Pc\n\n\nsons.\n\n\nThe whole export of naval stores in 1926, W.\n\n\n46,357 barrels OF tar and pitch, and 96,l57 OF n\n\n\nsin and turpentne--together lag, AGA barrels\n&C. naval stores are worked up annually in the dIst\nu ries of Boston. only, besides the tar and pitch use\n\n\nin the cordage factories and ship yards. The hon\nef consumption Of these stores is several times great\n, than the amount of the foreign export.\n~ A late Rutland (Vermont) Herald. says--An e\n\n\ntensive bed Of manganese OF the purest kind. ha\n\n\nrecently been discovered in Chitenlen, in this cou\nas try, on the farm Of Wolcott I'll. Keeler, esq\n\n\nare informed that about so tons have already bet\n\n\ndug 1t is said to be wnrtll about $50 per ton.\nSc Providence has considerable share of foreign cor\nire merce-From the lst OF January to the 27th Au\nto of the present year. there arrived that port\n\n\nvessels from Havana. 8 from Matanzas. ! | fro\n= other West India ports, | from Canton, and\n\n\nfrom different parts of Europe.\n\n\nThe manufacturing town OF Reading, Pa. HI\nas only n, dwelling houses, large and small-b\non. the assessed value Of property in the borough\n\n\n81. sos. .8s5-equaI to s,2OO dollars for every he;\net- of a family. surprising one to each house. The a\nsessabe property is in lots and houses. VIII\n=, other than manufacturing town can compare wi\nnst this\n\n\nast Tyo hundred and fifty stages. hacks, gigs\n'\"e wagons passed certain inn the road betwet\nII Albany and Troy in one day of June ls26--al\nate appears not to have been considered more than Il\nZ average number. These cities are great cities",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 862,
+                    "y0": 865,
+                    "x1": 1525,
+                    "y1": 926
+                },
+                {
+                    "x0": 914,
+                    "y0": 947,
+                    "x1": 1482,
+                    "y1": 987
+                },
+                {
+                    "x0": 806,
+                    "y0": 1176,
+                    "x1": 1616,
+                    "y1": 5316
+                }
+            ],
+            "bbox": [
+                806,
+                865,
+                1616,
+                5316
+            ],
+            "full_article_id": 11,
+            "id": "11_1827-11-23_p1_sn83025530_00271740220_1827112301_0268.json"
+        },
+        {
+            "object_ids": [
+                19,
+                12
+            ],
+            "headline": "FLOR Sale,",
+            "article": "A First Rate Stand, in Market-Street, occupied as\nIa Dry Good Store, by William B. Tomnson.\n| he payment to be made to suit the purchaser.\nInquire of JOSEPH POGUE, No. lO7, Market\nFtreet, Wilmington. 69--4t",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 261,
+                    "y0": 4744,
+                    "x1": 634,
+                    "y1": 4814
+                },
+                {
+                    "x0": 92,
+                    "y0": 4826,
+                    "x1": 850,
+                    "y1": 5017
+                }
+            ],
+            "bbox": [
+                92,
+                4744,
+                850,
+                5017
+            ],
+            "full_article_id": 13,
+            "id": "13_1827-11-23_p1_sn83025530_00271740220_1827112301_0268.json"
+        },
+        {
+            "object_ids": [
+                16
+            ],
+            "headline": "",
+            "article": "agricultural districts. This is the best possible evil\ndence Of greater morality or intelligence and more\nabundant means Of subsistence, in the former than\nin the latter.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2406,
+                    "y0": 839,
+                    "x1": 3212,
+                    "y1": 1004
+                }
+            ],
+            "bbox": [
+                2406,
+                839,
+                3212,
+                1004
+            ],
+            "full_article_id": 17,
+            "id": "17_1827-11-23_p1_sn83025530_00271740220_1827112301_0268.json"
+        },
+        {
+            "object_ids": [
+                21
+            ],
+            "headline": "",
+            "article": "*s'*Ihe pamphlet respecting the kremer affair.\" and\nlne history of Gen. Jackson's accusations against\nflr Clay, &C. &c just received and for sale by the\npublishers. No. 97. Market-Street.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 92,
+                    "y0": 5034,
+                    "x1": 855,
+                    "y1": 5182
+                }
+            ],
+            "bbox": [
+                92,
+                5034,
+                855,
+                5182
+            ],
+            "full_article_id": 22,
+            "id": "22_1827-11-23_p1_sn83025530_00271740220_1827112301_0268.json"
+        },
+        {
+            "object_ids": [
+                25
+            ],
+            "headline": "",
+            "article": "Magistrates Blanks. of all descriptions ior safe\nNo. ~, Market-Street",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 105,
+                    "y0": 5207,
+                    "x1": 859,
+                    "y1": 5286
+                }
+            ],
+            "bbox": [
+                105,
+                5207,
+                859,
+                5286
+            ],
+            "full_article_id": 26,
+            "id": "26_1827-11-23_p1_sn83025530_00271740220_1827112301_0268.json"
+        }
+    ]
+}

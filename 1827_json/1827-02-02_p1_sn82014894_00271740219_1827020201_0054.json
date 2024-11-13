@@ -1,0 +1,1060 @@
+{
+    "lccn": {
+        "title": "American watchman and Delaware advertiser.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2576-7445",
+        "lccn": "sn82014894",
+        "start_year": "1822",
+        "end_year": "1828",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [
+            "sn82014895"
+        ],
+        "successors": [
+            "sn82014393"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn82014894",
+        "edition": "ed-01",
+        "date": "1827-02-02",
+        "pages": [
+            "seq-2",
+            "seq-3",
+            "seq-1",
+            "seq-4"
+        ]
+    },
+    "page_number": "1",
+    "scan": {
+        "lccn": "sn82014894",
+        "edition": "ed-01",
+        "date": "1827-02-02",
+        "page": "1",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn82014894/1827-02-02/ed-1/seq-1.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn82014894/1827-02-02/ed-1/seq-1/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn82014894/1827-02-02/ed-1/seq-1/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn82014894/00271740219/1827020201/0054.jp2",
+        "height": 5640,
+        "width": 3560
+    },
+    "bboxes": [
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 2537,
+                "y0": 4454,
+                "x1": 3354,
+                "y1": 5354
+            },
+            "class": "article",
+            "raw_text": "(No 81 AN ACT concerning the selection OF certain\n\n\nlands heretofore granted, by compact to the stats OF\n\n\nMissouri for Seminaries of Learning,\n\n\nBe it enacted By the Senate and Hoase ot Repre-\nsentatirrs Of the United States Of 4merica an Con-\ngress assembled. That it shall be the duty OF the\nPresident Of the United States as soon as may DC,\n70 cause 10 be selected from any OF the public lanes\noil the Uned States in Missouri, the sale OF which\nis authorized by law. end in quantities not less than\n\n\nsec,icn ding the divisional lines OF the pub\nlie surveys the several townships OF land ne etofoFs\nsecureo by compact to the State OF Missouri, tor\nthe pu poses Of seminary oF semiHatea o. learning\ni. that State, and to cause one descriptive is1 os\nsu.h sels clion. 10 be FLED with th> Gcsernor OK\nNj ssouri, in the Office CT The Sec e,aiyi nat ate\nand another ike list to be filed il The Geiiefai Land\nOffice OF the United States; aad the lanis SO Sc.\nlected shall, immediately snsreupon' veat 10 1hs\nState Of Missouri accoi ding 70, and y saNstacuoa\nOF, the aforementioned compact With the Cnass\nStates.\n\n\nApproved path Jan. 1897,\n\n\n",
+            "legibility": "Legible",
+            "full_article_id": 32,
+            "reading_order_id": 0
+        },
+        {
+            "id": 37,
+            "bbox": {
+                "x0": 2542,
+                "y0": 4384,
+                "x1": 3323,
+                "y1": 4438
+            },
+            "class": "headline",
+            "raw_text": "Apfe JOHN QUINCY ADAMS.",
+            "legibility": "Legible",
+            "full_article_id": 32,
+            "reading_order_id": -1
+        },
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 1731,
+                "y0": 1687,
+                "x1": 2459,
+                "y1": 2675
+            },
+            "class": "article",
+            "raw_text": "By Mrs Hale, Of .New Port, .Ne.u Hampshire.\nMy boy, thou wilt dream the world is fair,\nAnd thy spirit will sigh TO roam,\nAud thou mast go; but never when there,\nForget the light of home.\nTho peasore may smile with ray more bright,\n1t dax1es to lead astray;\nLike the meteors fash twill deepen the night,\nWhen thou treadest the lonely way\nBut the hearth of home has constant fame,\nAnd pure vestal fire;\nTwill burn, twill burn. forever the same,\nFor nature feeds the pyre.\nThe sea of ambition is tempest tos,\n\n\nAnd thy iopes may vanish like foam;\nBut when sails are siivered and rudder lost,\nThen look TO the light Of home.\nAnd thcre like star through the midnight cloud.\nThou shalt SEE the beacon bright\nFor never, till shining on thy shroud,\n\n\nCan be qneach'd its holy light.\nThe sun of fame, aye twill gild the name,\n\n\nBut the heart ne'er felt its ray;\nAnd fashions smiles that rich ones claim,\n\n\nAre but beams of wintry day.\nAnd how cold and dim those beams would be-\nShould fe's wretched wanderer come.\nBut my boy, when the world is dark to thee,\n\n\nThen turn to the light of home. CoRNELii",
+            "legibility": "Questionable",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1832,
+                "y0": 1634,
+                "x1": 2331,
+                "y1": 1679
+            },
+            "class": "headline",
+            "raw_text": "rHE LIGHT OF HOMIE.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1705,
+                "y0": 625,
+                "x1": 2411,
+                "y1": 1604
+            },
+            "class": "article",
+            "raw_text": "The Tartan arrows fell like rain,\nThey clank'd on helm, OH mail, on chain;\nIn blood, in hate, in death, we're tWined\nSavage and Greek, mad, bleeding, blnd\nAnd still on flank, on front, and rear,\nRagged, Constantine, thy thirstiest spear\nBrassy and pale, a type Of doom,\n\n\nLaboured the moon, through deepening gloom .\nDown plunged her orb--hWas pitchy night\nNow Turkman, turn thy relns for fight\nOn rush'd their thousands through the dark\nBut in their camp ruddy spark,\nLike an uncertain meteor, reePd\nThy hand, brave king, that frebrand wheeld\nWild burst the burning element\n\n\nO'er man and courser, flag and tent\nAnd through the blaze the Greeks outsprang,\nLike tigers, bloody, foot and fang,\n\n\nWith daggers' stab and falchion's sweep\nDeying the stunnd and staggering heap\nTill lay the slave by chief and Khan,\nAnd all was gore that once was man.\nThere's wailing on the Euxine shore\nHer Ghivalry shall ride no more.\n\n\nThere's wailing on thy hills, Altai,\n\n\nFor chiefs-the Grecian vutures' prey.\nBut Bosphorus, thy silver wave\n\n\nHears shouts for the returning brave.\nThe kingliest Of her kingly line,\nFor there comes glorious Constantnes",
+            "legibility": "Questionable",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 34,
+            "bbox": {
+                "x0": 1458,
+                "y0": 405,
+                "x1": 3239,
+                "y1": 472
+            },
+            "class": "headline",
+            "raw_text": "day by Henry Wilson, No. 1Oo, Market Street.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -2
+        },
+        {
+            "id": 33,
+            "bbox": {
+                "x0": 1753,
+                "y0": 625,
+                "x1": 2203,
+                "y1": 657
+            },
+            "class": "headline",
+            "raw_text": "rhe Tartan arrows fell like rain,",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 867,
+                "y0": 2643,
+                "x1": 1679,
+                "y1": 3063
+            },
+            "class": "article",
+            "raw_text": "The Atlantic Souvenir, Tor 1885, and 1897.\n\n\nThe Amulet.\n\n\nAlso the following works in elegant binding.\n\n\nThomson's Seasons, Beauties of Byron. Faconers Ship\nwreck, Campbels Poems, Beauties OF Scott and Moore\nThe British spy, Goldsmi,h's Poems\n\n\nAnd variety Of Books for Youth, among which are\n\n\nAlfred Campbell, containing Travels in Egypt and the\nHoly Land. By Mrs. Holland\n\n\nBird Catching; he Northern Adventures. The Ne\ngro Boy A Tour through England. The Youthful Trav\neers Gems in the Nine. Conversations Poetry The\nOrphan Boy. Choice Poetry. Mothers Care Rewarded",
+            "legibility": "Questionable",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 898,
+                "y0": 2577,
+                "x1": 1626,
+                "y1": 2635
+            },
+            "class": "headline",
+            "raw_text": "FOR SALE AT THIS OFFICE.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 35,
+                "y0": 1458,
+                "x1": 846,
+                "y1": 3252
+            },
+            "class": "article",
+            "raw_text": "uyuE Subscriber, Docron MEDICINE and PRAcTIcAl\n\n\nCHEMIST. respectfully informs the Ladies and Gentle\nBen of Wilmington and its vicinity, that he has com.\n&eoced to prepare Medicine, in MARKET STREET,\nWilmington Delaware in the house opposiie Mr. Henry\n&otes 3 Co's hunter Yard-where he prepares the fol\nbw,ng Medicines The Sulphate OF Quinine. This med-\n\n\nne contains the active principle of the Peruvian Bark and\n&hen properly prepared s the best medicine as yet dis\n8yered for tie Of Agues Remtent aud Intermittent\n\n\neyers He also prepares 3asamc Restorative tor dis\n\n\nases of the Breast and Lungs Pulmonary Consnmptiona\n$hhlslc; and medicine which will etecuay cure the\n\n\nhost distressing Headache, matter how long rs contih\nlance MAJ be. lie also the 'FOothache in few\nhnues without making OF any OF the corrodg acids\n\n\nn red hot ron plugging the teeth with gold Leaf or\n\n\neet lead The medicine he makes use OF VIII preserve\n\n\nDC teeth for years tieprepares Iooth Powder INA. WI\n&hen the teeth be they ever SO black from taking mel\nline or any other DIR. p. prepares an Eye Water\n3la will remove all lnfammaons from the eyes. have\n&ured numbers from the rheumatism and some OF them\nfar years from it Names signatures do not\nREQUIRE Is is too much the custom with qnackery\nFrom my practice Of medicine and my experience and\nknowledge Of chemistry, am able to extract medicinal\n8rtues contained in animals vegetables and minerals, and\n\n\nIan apply them for the different diseases the constitutions\nhi people may them Persons afflicted with Cancers,\nIII they make timely application, can be cured.\n\n\nThere is medicine sold by the name OF Swnims Pdna.\nAea wch did hear OF until saw Mr. Swaims adver\n#isenent, some few weeks past then called on Some OF\n\n\nhe most eminent physicians in Philadelphia and spoke to\nAhem respecting the panacea and informed them that\n\n\nad the authors works who invented the medicine and\n\n\nscOyered lis effects i'll the OF certain diseases A\nAhe gentlemen spoke TO OH the subject, said they were\ncertantha Mr. Swain was not the inventor Of the med\nknc The man that invented the Plnacea was ore Of the\nkreates chemists that Europe produced and dead near\n\n\nTwo hundred years. and bis writings arc difficult to be had\n\n\nlhat Mr. Swain has got some pare of ms works. OF SONG\nherson rave him receipt from the work have doubt\n&f have now prepared chemical and real preparation\nMI HE PANACEA which viii sell at one dollar per bot\nHi by The Dozen and dollar and fifty cents single\nID Z. prepares Wash for the LADIES winch removes\nSh spots Erupons and letter, from the face aud hands\nInd clears and beauties the skin He also prepares\n\n\nSave that will take Corns by the roots from the toes\nand not give the least sensation OF pain.\n\n\nLADIES or Gentlemen w.o afflicted with any tiiseas\n\n\nat is curahe if they pleased to call on me, shall b\n1lauended TO with the srictest punetnaiity\n\n\n81 JAS. PURCELL, NJ. ID. & p. g.\nWilmington Del Jan %. 1877. 22-ly",
+            "legibility": "Questionable",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 158,
+                "y0": 1392,
+                "x1": 692,
+                "y1": 1446
+            },
+            "class": "headline",
+            "raw_text": "MEDICAL NOTICE.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 907,
+                "y0": 4388,
+                "x1": 1679,
+                "y1": 5367
+            },
+            "class": "article",
+            "raw_text": "BY THE nEv. cRoLY.\nnight attack by Constantine Paleoogus, on detsche\ncamp of the troops of Mahomet the second at the sieg\nof Copstantnope.\n\n\nTHe Turkman lay beside the river,\nThe wind payd loose through bow and quyer.\nThe charger on the bank fed free,\nThe shield hung glittering from the tree,\nThe trumpet, shawn, and a,abal.\nWere hid from dew bv cloak and pail;\nFor long and weary was the way\nThe hordes had marched that burning day\nAbove them, on the sky Of June,\nBroad as a buckler. glow ID the moon,\nFlooding with glory vale and hill,\nIn silver sprang the mountain ril',\nThe weeping shrub in silver bents\nA pile Of silver stood the tent;\nAll soundIess, sweet tranquility,\nAll beauty, HILL and tent, and tree.\nThere came sound-'twas like the gusii\nWhen night winds shake the roses bush.\nThere came sound--twas like the flow\nOF rivers swelpd with melting snow;\nThere came a sonnd-iwas ike the tread\nOF wolves along the valleys bed,\nThere came sound--tNas like the roar\nOF ocean on its winter shore\n\n\nssDeath to the Turk /\" uprose the yell;\nOn roll'd the chargc-a thunder peal",
+            "legibility": "Questionable",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 925,
+                "y0": 4331,
+                "x1": 1662,
+                "y1": 4376
+            },
+            "class": "headline",
+            "raw_text": "THE GREEK AND TEE TuRIxnnAN.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 973,
+                "y0": 3190,
+                "x1": 1604,
+                "y1": 4297
+            },
+            "class": "article",
+            "raw_text": "BY MRS. HEaANs.\nRocks Of my country let the cloud\nYour crested heights array;\nAnd rise ye like fortress proud,\nAbove the surge and spray\nMy spirit Rreets you as ye stand.\nBreasting the bi'low's f,am\nOh, thus for ever guard the iands\nThe seyei'd land Of houe!\n| have left sunny skies behind\nLighting up classic -hrnes,\nArd music in the southern wind,\nAnd sunshine on the vines.\nThe breathings Of the myrtle flowers\nHave foated DER my wsy.\nIhe pilgrims voice at vesper hours\nHath sootli'd me with its lay.\nThe isles of Greece, the hills of Spain,\nThe purple heavens of Rome\nYes, all are glorious yet again\nbless thee. land vt home\nFor thine the Sabbath peace, my land.\nAnd hine the guarded hearth;\nAnd thine the dead, the noble band\nThat make thee holy earth.\nTheir voices meet me in thy breeze.\nTheir steps are on thy plains;\nTheir names, by old majestic trees.\nAre whispered round thy fanes:\nTheir blood hath mingled with the tide\nOF thine exulting sea -\noh, be i, still JOY, pride.\n\n\nTo live and die for thee!",
+            "legibility": "Questionable",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 934,
+                "y0": 3097,
+                "x1": 1622,
+                "y1": 3182
+            },
+            "class": "headline",
+            "raw_text": "From The .Nlseum Of Foreign Literature and Science\n\n\nTHE CLIFFS OF DOVER.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 70,
+                "y0": 4058,
+                "x1": 886,
+                "y1": 5394
+            },
+            "class": "article",
+            "raw_text": "at a. & III. Wilson'S Bookstore and Circulating\n\n\nLibrary.\nHonor ofIara, Novel, vols by Miss Anna Maria Por\nter.\n\n\nRussian Tales.\n\n\nRough Notes taken during some rapid Journeys across\nthe pampas and among The Andes BY Capt r D. HEAD\nBel,s Observations on Italy vol.\nThe History OF Chivalry; or knghthood and its imes\nBY Charles Mills Esq Author Of the History OF the Cru\nsades 2 vols i'll one - =\nThe Works OF Anna Latitia Babaud with Memoir py\nThe For Hill Blythe Author Of Bramble'ye House, &c\nvols 80,\nHints to NV Countrymen. BY an American. vol.\nDiarv Of an Ennuyee BY Young Lady ivol.\nModerated BY Mrs Holland l vol\nBeauties OF Byron. I vol.\n\n\nFor Sale at the nbope place,\nA AGeneral Assortment of SCHOOL BOOKS, STATION\ncry and FANCY ARTICLES. among which arc\nScales 4 Diylers, Visiting Cards,\ntamin;ves Backgammon Boards, ee-\nsr,ssors gantly finished.\nGold & Silver Pens, Durable INK. n.:..\nSilver Pencil Cases, POCKET, ivory aa Drcssi'6\npocta, pooks Combs,\nWindsor and Fancy Soar, lnks'ands,\nSealing Way States,\nWaters, BLACK oaho,\nWater S,Amps India Rubber,\nRuled Writing and Letter parchment, ,,ano\nWater colors randum Books,\nToy Paints. White & Blue Bonnet Board\nCamels Hair Pencils, Day BOOKS,\nBlack Lead do Legers, &c.\n\n\nAll Of which will be sold low for cash.\n\n\nblank BOOKS made TO any pattern",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 211,
+                "y0": 4005,
+                "x1": 652,
+                "y1": 4054
+            },
+            "class": "headline",
+            "raw_text": "NEW BOOKS.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -2
+        },
+        {
+            "id": 38,
+            "bbox": {
+                "x0": 65,
+                "y0": 4066,
+                "x1": 851,
+                "y1": 4138
+            },
+            "class": "author",
+            "raw_text": "at a. 4 II. Wilson's bookstore and CIrca1dtsH\n\n\nLibrary.",
+            "legibility": "Questionable",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 854,
+                "y0": 1788,
+                "x1": 1666,
+                "y1": 2195
+            },
+            "class": "article",
+            "raw_text": "TIME copatnersp heretofore existing between Samuel\ni Pennington and Augustine II Pennington, trading n.\nder the firm Of Samuel g \"A Penng!on is this day dis\nsolved Persons having claims will present them to II.\nPennington, and all persons indebted either Bund Noe,\nBook Account, will please call and pay the to A.\nH. Pennington who will settle the business of the la firm\n\n\nA. II. PENNINGTON, Surviving Farmer,\n\n\nfor himself and Guardian Of SAMUEL\n\n\nPIsIseTos, minor, and Administrator of\n\n\nJonv PEsIsGToN, heirs OF SAMUEL PEN\n\n\nINoToN, deceased.\n\n\nMiddletown, Hell, Jan II, 1927 j19--nn",
+            "legibility": "Questionable",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 911,
+                "y0": 1736,
+                "x1": 1582,
+                "y1": 1785
+            },
+            "class": "headline",
+            "raw_text": "Dissolution of C0partnership.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 863,
+                "y0": 2273,
+                "x1": 1670,
+                "y1": 2552
+            },
+            "class": "article",
+            "raw_text": "D AN AWAY from the subscriber, the night Of the\nIa 18th INST apprentice to the Coach Making tusl-\nness, named Martin Sipan, in the 21t year of his age\nHad when he went away, suit ofligt blue CLOTH\nand new fur hat He in company with apprentice\nbelonging Peter A. Humphreys, named john Hall. All\npersons are warned not 10 harbor employ him.\n\n\nTHOMAS MOORE.\nWhining on, Jan. 19, 1927. 2l-4t",
+            "legibility": "Questionable",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 885,
+                "y0": 2211,
+                "x1": 1635,
+                "y1": 2265
+            },
+            "class": "headline",
+            "raw_text": "FIVE DOLLARS REV ARD.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1691,
+                "y0": 2758,
+                "x1": 2512,
+                "y1": 5332
+            },
+            "class": "article",
+            "raw_text": "Extracted from The writings Of Mr. JoLa Wesey\n\n\n\"In the beginning of July, ,76l, was desired 10\ncall poor prisoner in the castle Of York, (Eng-\nland. III had formerly occasion to take nnlite ol\nbidsous monster, called Chancery bill now\nsaw the fellow 10 il called a Declaration The\nplain fac, was this Some time since, man who\nlived near YARN, Sssist-d others in running some\nbrandy his share was worth nearly tout pounds.\nAfter he had wholly left off that work. and wss fol\nlowing his own business, tina, Of weever. he was\narrested and sent to York gaol And not long\nal er came down Declarations that Jack had Ian\nded vessel ladened with brandy and Geneva,\nwhereby he was indebed to his Sovereign Lord the\nKing, in The sum of 576l. and upwards And TO\ntell this Worthy story the lawyer takes up | 3 OF IA\nsheets OF the triple sbampi paper.\n\n\n30 England. Will this reproach never be rolled\naway from thee Is there any thing like this to be\nfound, either among Turks o, heathens In the\nname oil Justice, mercy. and common sense, ask,\n1st.--Why do men lie for lying sake Is It only\n10 keep their hands in? What need else OF saying\ni, was the por, of London When every knew\nthe Brandy was slandeo 500 miles from thence.\n| \"Whst a monstrous contempt oil truth does this\nshow, or rather hatred to it 2d.-Where is the\nJustice OF swelling Al, into 576l.e Sd.-Where is\nthe common sense Of taking up IA sheets Of paper\n10 tell story, that may be told in ten nes9 4th.-\nWhere is the mercy OF thus grinding the lace Of\nthe poor beggared prisoner? Would not this\nbe execrabe vlllany. if the paper and writing to\ngether, were only Cd sheet, when they had stript\nhim already OF his little all, and had not left him IA\ngroats ln the worlds\n\n\ncit is certain that nothing can be said in de\nfence of our law proceedings. They are often alb\nsurd highly oppressive TO the subject, and disgrace\n| full to civilized nation In criminal cases, how\noften does the indictment magnify and exsggsrstr\nboth the crime and every circumstance connected\nwith it, beyond all the bounds OF truth and proba\nbilty? Hence it becomes extremely difficult fol-\nthe Jurymen to discharge their duty with good\nconscience. And we seldom punishnents duly\nWe say in other cases where the tauology and cir\ncumlocution peculiar to the language Of our law\nthe delay of Judgment in the courts. and the ter\ngiversation permitted through the whole proceed\nings render it impossible for honest man il\nmiddling life to obtain his right against villain\nwithout the utmost danger OF being ruined! A\nman who robs ON the highway ia hung-but vii\nlain who robs by means Of the chicanery, delay ant\nexpsnse Of the law, escapes with impunty, and i\napplauded.\"\n\n\nThe March Of Intellect An irriia,ed school\nmaster not being able 10 make clowniSh schois\nremember the word Mule exclaimed while riding\nout one day, Now, you BOBBY don't you know\nwhat's between horse and ass 2 Why yes sir\nto be sure do-ev'ry fool knows that how somever\nThen why don't you tell me?-say directly wha\nit is between the horse and the ass or III punisl\nyou,'' Why the saddle, to be sure. sir y knowe\nt.hn Ill IL,",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 1691,
+                "y0": 2714,
+                "x1": 2490,
+                "y1": 2763
+            },
+            "class": "headline",
+            "raw_text": "COMMENT ON THE LAWS OF ENGLAND",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 854,
+                "y0": 678,
+                "x1": 1666,
+                "y1": 811
+            },
+            "class": "article",
+            "raw_text": "MEETING of the Lepy Court. aud Court Of .spbeal Of\nIA Newcastle County. will be held at the Court House\nthe Town OF Newcastle Tuesday the 9th day Of Tebr-\nary next. 24-3t DAVID PAINTER, C. r,",
+            "legibility": "Questionable",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 1141,
+                "y0": 621,
+                "x1": 1384,
+                "y1": 670
+            },
+            "class": "headline",
+            "raw_text": "NOTICE.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2502,
+                "y0": 969,
+                "x1": 3336,
+                "y1": 4442
+            },
+            "class": "article",
+            "raw_text": "No. AN ACT TO provide Tor taxing eVioShCe 40\n\n\nCourts Of the United States IN certain cases.\n\n\nBe it enacted bg the Senate and House Of Repre-.\nspntntiues ofthe United States Of .amsrsca IN Con\ngreSs assembled, That whenever Commission shala\nbe issued by any Court Of the United States Tor ta-\nking the testimony OF witness or Witnesses at any\nplace within the United States or The Territories\nThe, rof it shall be law for the Clerk OF any Court\nOF the United States, for The District or Territory\nwithin which such place may be, and he is hereby\nenoned and required, upon the application OF either\nOf the parties the suit, cause. action or proceed.\ning. in which such commission shall hove been is\nsued. his, her, their agent or agents, to issue\nsubpoena or subj oeuas Tor such witness or witnesses\nresiding or being within the said District or Terri\ntory, as shall be named IN the Said commission ccm\nmauding such witness or Witnesses to appear and\ntestify before the Commits ssioner or Commissioners\nin such commls sion named at time and place In\nthe subpnna to be stated. and it any Witness etsr\nbeing duly served with such sublGns. shall refuse\nTor neglect appear, or, alter appearing, shali re-\niuse 10 testify, (no, being privileged from giving\ntestimony, such refusal OF neglect being proved TO\nthe satisfaction of any Judge OF the Court, whose\nClerk shall have issued such subpoena or sub\npoenas, he may thereupon proceed to enforce obe-\ndiencc the process, or to punish The disooedsence\nIin like manner as any Court of the United States\nNAV do in case ol disebedience to process OF\nlsubpnna ad testificandum, issued by such Courts\nand the witness Witnesses, in suca cases. sha DC\nallowed the compensation as IS allowed 10 VII\nnesses attending the Court; ot Inc Onltso o'a'es\nProvided, that witness shall De required 70 auend\nat any place OUT Of the County in witch ne may re.\nside nor more than fo.ly miles from his place OF\nresidence, 10 give his or hsr deposition under this\nlaw.\n\n\n! Sec. y. Ind be it father enacted, That wheney~\nsr either o. the parties 10 such suit Gauss action, OK\nproceeding, shall apply 10 any Judge ot Court Q.\nthe United States, III he District or Territory OF\nthe United rates 10 whicn the place Tor tsAng such\nessimony may be, for sa5PRna dacss tecAH', com\nmanding The witness, therein TO De named, 10 aPr\npear and testify before The aaid Commissioner or\nCommission ers, at the time end place 10 the sai0\n\n\nsubpoena to be stated, and also Ic ors0g or carry\n\n\nwith him or her, and produce TO such Commission\n\n\nsr or Commissioners, any paper, writr3 or WRITTEN\ninstrument or book, or other documsAts suppossU\n\n\nto be 10 the possession or power OF sucn WHnsss'\n\n\nsuch Judge being satisfied. by the affidavit OF the\n\n\nprr,on APPLYING or otherwise, that there IS Fsae\n\n\nson to believe hat such papsr, wriIng ~Fiuen IN\n\n\nstrument, book, other docu mec IS III thr posses\n\n\nsion or power of the witness, ard that the same y\n\n\nproduced, would be competent aud material ssl-\n\n\ndence for the party applying therefor may oideA\nhe Clerk of the Court, OF which he IS Judse 20\nissue such subpnna duces tecalm accordingly ands\nil such witness after being duly served with such\n\n\nsubporra duces ecum shall tail 10 produce any\nsuch paper writing, written instrument, book OF\nother document, being in The possession or power\n\n\nof such witness, and desc ibsd in such subpoena tu\nces gcn before, and to such Com missioner or Com\n\n\nmissoners. at the time and place IN such subj ona\n\n\nstated such failure being proved TO the satisacsoii\n\n\nof the said Judge. he may proceed TO ENFORCE ooedi\n\n\nence 10 the said process OF subpoena auces techn or\n\n\n10 punish the dsobedence, in like manner as any\nCourt of the United States may do IL case OF diso\n\n\nbedience 10 like process issued by such Court; and\nwhen any such paper writing, written instrument.\nbook or Other document, shall be produced 10 such\nCommissioner or Commissioners he or they shall at\n\n\nThe cost ofthe party requiring the same, cause 10 %\nmade fair and correct copy thereof, or OF so much\n\n\nthereof as shall be required by either OF the parties\nProvided that no witness shall be deemed guilty OF\ncontempt for dissobsyng any subpoena directed 70\n\n\nhim By virtue oil This act. unless his fees tor going\n\n\n10, returning fion, and days attendance at the\n\n\nplace Of examination, shall be paid or tendefed 10\n: him at The time q the service Of ths subpoena.\nJOHN w TAYLOR,\nSneaker of the House of Representatives\nNATliI.. MACON,\nPresident OF the Senate pro tempore.\n\n\nApproved Oath Jan. 1897.\n\n\n: JOHN QUINCY ADAMS.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 35,
+            "bbox": {
+                "x0": 3026,
+                "y0": 511,
+                "x1": 3296,
+                "y1": 573
+            },
+            "class": "author",
+            "raw_text": "Volume vi.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -2
+        },
+        {
+            "id": 36,
+            "bbox": {
+                "x0": 2731,
+                "y0": 881,
+                "x1": 3076,
+                "y1": 921
+            },
+            "class": "headline",
+            "raw_text": "BY AUTHORITY.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 859,
+                "y0": 876,
+                "x1": 1670,
+                "y1": 1071
+            },
+            "class": "article",
+            "raw_text": "&T5A Two Story House nd Kitchen, in good condition, in\nkg6 Water street. second door from Market Pos\nsession given on the 25h Of March next. Inquire Of\n\n\nSAMUEL BUSH,\nCorner Of King and Second streets.\n\n\nWilmington Jan. 30 1927. 24-",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 1141,
+                "y0": 828,
+                "x1": 1375,
+                "y1": 873
+            },
+            "class": "headline",
+            "raw_text": "TO LET.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": -1
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 30,
+                "y0": 665,
+                "x1": 842,
+                "y1": 1366
+            },
+            "class": "article",
+            "raw_text": "&h terms are to those who pay, during the month Of\nEnnarv ar July six months in advanceFour Dglars a\nfr From those who do not pay above, Fiue Dollars\nEn- he demanded. Ii subscriber wishes to decline, he\n\n\nst notify the editors Of his Intention before ,e frst OF\n~. mr. D,cember, and pay all arrearagcs. Without a\n\n\nmnance with these conditions, no paper will be dscon-\n&ncd except at the option Of the editors.\nTERMS OF ADVERTISING.\n.rtisements not exceeding twelve lines, for term\n\n\ntbree months four times for dollar and TWEEN\n\n\ncents for every longer pro.\nkrtion Advertisers requested to specify in writing\n\n\n81 lonp their advertisements to be inserted, they\n\n\nm he continued till forbid Letters to the Editors, to in\n\n\nre attention must be post paid.\n\n\nAdvertistng 6ysheyear.\nII Snbscribers To Non-Suhscribers.\nn j year SIS, 90 ayear year. sls' % %\nNJ 6 months ., w months = ~\n: do a, so 8 do. 5, ,0o",
+            "legibility": "Questionable",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 48,
+                "y0": 612,
+                "x1": 802,
+                "y1": 666
+            },
+            "class": "headline",
+            "raw_text": "CONDITIONS OF THE WATCHMAN",
+            "legibility": "Questionable",
+            "full_article_id": 24,
+            "reading_order_id": -1
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 57,
+                "y0": 3309,
+                "x1": 864,
+                "y1": 3988
+            },
+            "class": "article",
+            "raw_text": "V ID u IA EJAN I1Hy5\n\n\nF.. A House and small Farm IN the village OF\n81 sas ssss1 Newark ia'ey occupied bv The Rev SAnrsL\nHsss BELL possession of which Will be given on 1he\nEsEl 25th day Of Malchnext.\n\n\nI'll Farm contains about forty tf arabic land A.\nmeadow, III good order. and conveniently divided. Inc\nimprovements are good buick dwelling house and kch\nEN- with bckbat, carriage house and other Out oGa-\nlngs. .,, c c; /.\n\n\nThis property would be very suitable for family VINO\nmight be desrous Of removing 70 Newark to educate ci-\ndren There excellent seminarles ~ that village\nThe Newark Academy, which is under he direction OF the\nRev A. X RUSSELL, aided by two assistants IN winch no!\nare taught the Latin and Greek Languages, Mathematics,\n&c and school for young Ladies under e d'fecnh o.\nthe Rev SAMUEL BELL, which are taught the usetui ana\nornamental branches Of Female Education.\n\n\nFor terms apply in Wilmington TO Mrs. MARY , bLAeK'\nor to the subscriber iii Newcastle. J. h bLhoh\nJan. l6, 1927. GU",
+            "legibility": "Questionable",
+            "full_article_id": 30,
+            "reading_order_id": 0
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 206,
+                "y0": 3269,
+                "x1": 697,
+                "y1": 3327
+            },
+            "class": "headline",
+            "raw_text": "TO BE RENTED,",
+            "legibility": "Legible",
+            "full_article_id": 30,
+            "reading_order_id": -1
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                37,
+                31
+            ],
+            "headline": "Apfe JOHN QUINCY ADAMS.",
+            "article": "(No 81 AN ACT concerning the selection OF certain\n\n\nlands heretofore granted, by compact to the stats OF\n\n\nMissouri for Seminaries of Learning,\n\n\nBe it enacted By the Senate and Hoase ot Repre-\nsentatirrs Of the United States Of 4merica an Con-\ngress assembled. That it shall be the duty OF the\nPresident Of the United States as soon as may DC,\n70 cause 10 be selected from any OF the public lanes\noil the Uned States in Missouri, the sale OF which\nis authorized by law. end in quantities not less than\n\n\nsec,icn ding the divisional lines OF the pub\nlie surveys the several townships OF land ne etofoFs\nsecureo by compact to the State OF Missouri, tor\nthe pu poses Of seminary oF semiHatea o. learning\ni. that State, and to cause one descriptive is1 os\nsu.h sels clion. 10 be FLED with th> Gcsernor OK\nNj ssouri, in the Office CT The Sec e,aiyi nat ate\nand another ike list to be filed il The Geiiefai Land\nOffice OF the United States; aad the lanis SO Sc.\nlected shall, immediately snsreupon' veat 10 1hs\nState Of Missouri accoi ding 70, and y saNstacuoa\nOF, the aforementioned compact With the Cnass\nStates.\n\n\nApproved path Jan. 1897,\n\n\n",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2542,
+                    "y0": 4384,
+                    "x1": 3323,
+                    "y1": 4438
+                },
+                {
+                    "x0": 2537,
+                    "y0": 4454,
+                    "x1": 3354,
+                    "y1": 5354
+                }
+            ],
+            "bbox": [
+                2537,
+                4384,
+                3354,
+                5354
+            ],
+            "full_article_id": 32,
+            "id": "32_1827-02-02_p1_sn82014894_00271740219_1827020201_0054.json"
+        },
+        {
+            "object_ids": [
+                17,
+                0
+            ],
+            "headline": "rHE LIGHT OF HOMIE.",
+            "article": "By Mrs Hale, Of .New Port, .Ne.u Hampshire.\nMy boy, thou wilt dream the world is fair,\nAnd thy spirit will sigh TO roam,\nAud thou mast go; but never when there,\nForget the light of home.\nTho peasore may smile with ray more bright,\n1t dax1es to lead astray;\nLike the meteors fash twill deepen the night,\nWhen thou treadest the lonely way\nBut the hearth of home has constant fame,\nAnd pure vestal fire;\nTwill burn, twill burn. forever the same,\nFor nature feeds the pyre.\nThe sea of ambition is tempest tos,\n\n\nAnd thy iopes may vanish like foam;\nBut when sails are siivered and rudder lost,\nThen look TO the light Of home.\nAnd thcre like star through the midnight cloud.\nThou shalt SEE the beacon bright\nFor never, till shining on thy shroud,\n\n\nCan be qneach'd its holy light.\nThe sun of fame, aye twill gild the name,\n\n\nBut the heart ne'er felt its ray;\nAnd fashions smiles that rich ones claim,\n\n\nAre but beams of wintry day.\nAnd how cold and dim those beams would be-\nShould fe's wretched wanderer come.\nBut my boy, when the world is dark to thee,\n\n\nThen turn to the light of home. CoRNELii",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1832,
+                    "y0": 1634,
+                    "x1": 2331,
+                    "y1": 1679
+                },
+                {
+                    "x0": 1731,
+                    "y0": 1687,
+                    "x1": 2459,
+                    "y1": 2675
+                }
+            ],
+            "bbox": [
+                1731,
+                1634,
+                2459,
+                2675
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-02-02_p1_sn82014894_00271740219_1827020201_0054.json"
+        },
+        {
+            "object_ids": [
+                34,
+                33,
+                1
+            ],
+            "headline": "day by Henry Wilson, No. 1Oo, Market Street.\n\nrhe Tartan arrows fell like rain,",
+            "article": "The Tartan arrows fell like rain,\nThey clank'd on helm, OH mail, on chain;\nIn blood, in hate, in death, we're tWined\nSavage and Greek, mad, bleeding, blnd\nAnd still on flank, on front, and rear,\nRagged, Constantine, thy thirstiest spear\nBrassy and pale, a type Of doom,\n\n\nLaboured the moon, through deepening gloom .\nDown plunged her orb--hWas pitchy night\nNow Turkman, turn thy relns for fight\nOn rush'd their thousands through the dark\nBut in their camp ruddy spark,\nLike an uncertain meteor, reePd\nThy hand, brave king, that frebrand wheeld\nWild burst the burning element\n\n\nO'er man and courser, flag and tent\nAnd through the blaze the Greeks outsprang,\nLike tigers, bloody, foot and fang,\n\n\nWith daggers' stab and falchion's sweep\nDeying the stunnd and staggering heap\nTill lay the slave by chief and Khan,\nAnd all was gore that once was man.\nThere's wailing on the Euxine shore\nHer Ghivalry shall ride no more.\n\n\nThere's wailing on thy hills, Altai,\n\n\nFor chiefs-the Grecian vutures' prey.\nBut Bosphorus, thy silver wave\n\n\nHears shouts for the returning brave.\nThe kingliest Of her kingly line,\nFor there comes glorious Constantnes",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1458,
+                    "y0": 405,
+                    "x1": 3239,
+                    "y1": 472
+                },
+                {
+                    "x0": 1753,
+                    "y0": 625,
+                    "x1": 2203,
+                    "y1": 657
+                },
+                {
+                    "x0": 1705,
+                    "y0": 625,
+                    "x1": 2411,
+                    "y1": 1604
+                }
+            ],
+            "bbox": [
+                1458,
+                405,
+                3239,
+                1604
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-02-02_p1_sn82014894_00271740219_1827020201_0054.json"
+        },
+        {
+            "object_ids": [
+                14,
+                2
+            ],
+            "headline": "FOR SALE AT THIS OFFICE.",
+            "article": "The Atlantic Souvenir, Tor 1885, and 1897.\n\n\nThe Amulet.\n\n\nAlso the following works in elegant binding.\n\n\nThomson's Seasons, Beauties of Byron. Faconers Ship\nwreck, Campbels Poems, Beauties OF Scott and Moore\nThe British spy, Goldsmi,h's Poems\n\n\nAnd variety Of Books for Youth, among which are\n\n\nAlfred Campbell, containing Travels in Egypt and the\nHoly Land. By Mrs. Holland\n\n\nBird Catching; he Northern Adventures. The Ne\ngro Boy A Tour through England. The Youthful Trav\neers Gems in the Nine. Conversations Poetry The\nOrphan Boy. Choice Poetry. Mothers Care Rewarded",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 898,
+                    "y0": 2577,
+                    "x1": 1626,
+                    "y1": 2635
+                },
+                {
+                    "x0": 867,
+                    "y0": 2643,
+                    "x1": 1679,
+                    "y1": 3063
+                }
+            ],
+            "bbox": [
+                867,
+                2577,
+                1679,
+                3063
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-02-02_p1_sn82014894_00271740219_1827020201_0054.json"
+        },
+        {
+            "object_ids": [
+                15,
+                3
+            ],
+            "headline": "MEDICAL NOTICE.",
+            "article": "uyuE Subscriber, Docron MEDICINE and PRAcTIcAl\n\n\nCHEMIST. respectfully informs the Ladies and Gentle\nBen of Wilmington and its vicinity, that he has com.\n&eoced to prepare Medicine, in MARKET STREET,\nWilmington Delaware in the house opposiie Mr. Henry\n&otes 3 Co's hunter Yard-where he prepares the fol\nbw,ng Medicines The Sulphate OF Quinine. This med-\n\n\nne contains the active principle of the Peruvian Bark and\n&hen properly prepared s the best medicine as yet dis\n8yered for tie Of Agues Remtent aud Intermittent\n\n\neyers He also prepares 3asamc Restorative tor dis\n\n\nases of the Breast and Lungs Pulmonary Consnmptiona\n$hhlslc; and medicine which will etecuay cure the\n\n\nhost distressing Headache, matter how long rs contih\nlance MAJ be. lie also the 'FOothache in few\nhnues without making OF any OF the corrodg acids\n\n\nn red hot ron plugging the teeth with gold Leaf or\n\n\neet lead The medicine he makes use OF VIII preserve\n\n\nDC teeth for years tieprepares Iooth Powder INA. WI\n&hen the teeth be they ever SO black from taking mel\nline or any other DIR. p. prepares an Eye Water\n3la will remove all lnfammaons from the eyes. have\n&ured numbers from the rheumatism and some OF them\nfar years from it Names signatures do not\nREQUIRE Is is too much the custom with qnackery\nFrom my practice Of medicine and my experience and\nknowledge Of chemistry, am able to extract medicinal\n8rtues contained in animals vegetables and minerals, and\n\n\nIan apply them for the different diseases the constitutions\nhi people may them Persons afflicted with Cancers,\nIII they make timely application, can be cured.\n\n\nThere is medicine sold by the name OF Swnims Pdna.\nAea wch did hear OF until saw Mr. Swaims adver\n#isenent, some few weeks past then called on Some OF\n\n\nhe most eminent physicians in Philadelphia and spoke to\nAhem respecting the panacea and informed them that\n\n\nad the authors works who invented the medicine and\n\n\nscOyered lis effects i'll the OF certain diseases A\nAhe gentlemen spoke TO OH the subject, said they were\ncertantha Mr. Swain was not the inventor Of the med\nknc The man that invented the Plnacea was ore Of the\nkreates chemists that Europe produced and dead near\n\n\nTwo hundred years. and bis writings arc difficult to be had\n\n\nlhat Mr. Swain has got some pare of ms works. OF SONG\nherson rave him receipt from the work have doubt\n&f have now prepared chemical and real preparation\nMI HE PANACEA which viii sell at one dollar per bot\nHi by The Dozen and dollar and fifty cents single\nID Z. prepares Wash for the LADIES winch removes\nSh spots Erupons and letter, from the face aud hands\nInd clears and beauties the skin He also prepares\n\n\nSave that will take Corns by the roots from the toes\nand not give the least sensation OF pain.\n\n\nLADIES or Gentlemen w.o afflicted with any tiiseas\n\n\nat is curahe if they pleased to call on me, shall b\n1lauended TO with the srictest punetnaiity\n\n\n81 JAS. PURCELL, NJ. ID. & p. g.\nWilmington Del Jan %. 1877. 22-ly",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 158,
+                    "y0": 1392,
+                    "x1": 692,
+                    "y1": 1446
+                },
+                {
+                    "x0": 35,
+                    "y0": 1458,
+                    "x1": 846,
+                    "y1": 3252
+                }
+            ],
+            "bbox": [
+                35,
+                1392,
+                846,
+                3252
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-02-02_p1_sn82014894_00271740219_1827020201_0054.json"
+        },
+        {
+            "object_ids": [
+                19,
+                4
+            ],
+            "headline": "THE GREEK AND TEE TuRIxnnAN.",
+            "article": "BY THE nEv. cRoLY.\nnight attack by Constantine Paleoogus, on detsche\ncamp of the troops of Mahomet the second at the sieg\nof Copstantnope.\n\n\nTHe Turkman lay beside the river,\nThe wind payd loose through bow and quyer.\nThe charger on the bank fed free,\nThe shield hung glittering from the tree,\nThe trumpet, shawn, and a,abal.\nWere hid from dew bv cloak and pail;\nFor long and weary was the way\nThe hordes had marched that burning day\nAbove them, on the sky Of June,\nBroad as a buckler. glow ID the moon,\nFlooding with glory vale and hill,\nIn silver sprang the mountain ril',\nThe weeping shrub in silver bents\nA pile Of silver stood the tent;\nAll soundIess, sweet tranquility,\nAll beauty, HILL and tent, and tree.\nThere came sound-'twas like the gusii\nWhen night winds shake the roses bush.\nThere came sound--twas like the flow\nOF rivers swelpd with melting snow;\nThere came a sonnd-iwas ike the tread\nOF wolves along the valleys bed,\nThere came sound--tNas like the roar\nOF ocean on its winter shore\n\n\nssDeath to the Turk /\" uprose the yell;\nOn roll'd the chargc-a thunder peal",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 925,
+                    "y0": 4331,
+                    "x1": 1662,
+                    "y1": 4376
+                },
+                {
+                    "x0": 907,
+                    "y0": 4388,
+                    "x1": 1679,
+                    "y1": 5367
+                }
+            ],
+            "bbox": [
+                907,
+                4331,
+                1679,
+                5367
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-02-02_p1_sn82014894_00271740219_1827020201_0054.json"
+        },
+        {
+            "object_ids": [
+                27,
+                5
+            ],
+            "headline": "From The .Nlseum Of Foreign Literature and Science\n\n\nTHE CLIFFS OF DOVER.",
+            "article": "BY MRS. HEaANs.\nRocks Of my country let the cloud\nYour crested heights array;\nAnd rise ye like fortress proud,\nAbove the surge and spray\nMy spirit Rreets you as ye stand.\nBreasting the bi'low's f,am\nOh, thus for ever guard the iands\nThe seyei'd land Of houe!\n| have left sunny skies behind\nLighting up classic -hrnes,\nArd music in the southern wind,\nAnd sunshine on the vines.\nThe breathings Of the myrtle flowers\nHave foated DER my wsy.\nIhe pilgrims voice at vesper hours\nHath sootli'd me with its lay.\nThe isles of Greece, the hills of Spain,\nThe purple heavens of Rome\nYes, all are glorious yet again\nbless thee. land vt home\nFor thine the Sabbath peace, my land.\nAnd hine the guarded hearth;\nAnd thine the dead, the noble band\nThat make thee holy earth.\nTheir voices meet me in thy breeze.\nTheir steps are on thy plains;\nTheir names, by old majestic trees.\nAre whispered round thy fanes:\nTheir blood hath mingled with the tide\nOF thine exulting sea -\noh, be i, still JOY, pride.\n\n\nTo live and die for thee!",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 934,
+                    "y0": 3097,
+                    "x1": 1622,
+                    "y1": 3182
+                },
+                {
+                    "x0": 973,
+                    "y0": 3190,
+                    "x1": 1604,
+                    "y1": 4297
+                }
+            ],
+            "bbox": [
+                934,
+                3097,
+                1622,
+                4297
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-02-02_p1_sn82014894_00271740219_1827020201_0054.json"
+        },
+        {
+            "object_ids": [
+                26,
+                38,
+                6
+            ],
+            "headline": "NEW BOOKS.",
+            "article": "at a. & III. Wilson'S Bookstore and Circulating\n\n\nLibrary.\nHonor ofIara, Novel, vols by Miss Anna Maria Por\nter.\n\n\nRussian Tales.\n\n\nRough Notes taken during some rapid Journeys across\nthe pampas and among The Andes BY Capt r D. HEAD\nBel,s Observations on Italy vol.\nThe History OF Chivalry; or knghthood and its imes\nBY Charles Mills Esq Author Of the History OF the Cru\nsades 2 vols i'll one - =\nThe Works OF Anna Latitia Babaud with Memoir py\nThe For Hill Blythe Author Of Bramble'ye House, &c\nvols 80,\nHints to NV Countrymen. BY an American. vol.\nDiarv Of an Ennuyee BY Young Lady ivol.\nModerated BY Mrs Holland l vol\nBeauties OF Byron. I vol.\n\n\nFor Sale at the nbope place,\nA AGeneral Assortment of SCHOOL BOOKS, STATION\ncry and FANCY ARTICLES. among which arc\nScales 4 Diylers, Visiting Cards,\ntamin;ves Backgammon Boards, ee-\nsr,ssors gantly finished.\nGold & Silver Pens, Durable INK. n.:..\nSilver Pencil Cases, POCKET, ivory aa Drcssi'6\npocta, pooks Combs,\nWindsor and Fancy Soar, lnks'ands,\nSealing Way States,\nWaters, BLACK oaho,\nWater S,Amps India Rubber,\nRuled Writing and Letter parchment, ,,ano\nWater colors randum Books,\nToy Paints. White & Blue Bonnet Board\nCamels Hair Pencils, Day BOOKS,\nBlack Lead do Legers, &c.\n\n\nAll Of which will be sold low for cash.\n\n\nblank BOOKS made TO any pattern",
+            "byline": "at a. 4 II. Wilson's bookstore and CIrca1dtsH\n\n\nLibrary.",
+            "bbox_list": [
+                {
+                    "x0": 211,
+                    "y0": 4005,
+                    "x1": 652,
+                    "y1": 4054
+                },
+                {
+                    "x0": 65,
+                    "y0": 4066,
+                    "x1": 851,
+                    "y1": 4138
+                },
+                {
+                    "x0": 70,
+                    "y0": 4058,
+                    "x1": 886,
+                    "y1": 5394
+                }
+            ],
+            "bbox": [
+                65,
+                4005,
+                886,
+                5394
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-02-02_p1_sn82014894_00271740219_1827020201_0054.json"
+        },
+        {
+            "object_ids": [
+                20,
+                7
+            ],
+            "headline": "Dissolution of C0partnership.",
+            "article": "TIME copatnersp heretofore existing between Samuel\ni Pennington and Augustine II Pennington, trading n.\nder the firm Of Samuel g \"A Penng!on is this day dis\nsolved Persons having claims will present them to II.\nPennington, and all persons indebted either Bund Noe,\nBook Account, will please call and pay the to A.\nH. Pennington who will settle the business of the la firm\n\n\nA. II. PENNINGTON, Surviving Farmer,\n\n\nfor himself and Guardian Of SAMUEL\n\n\nPIsIseTos, minor, and Administrator of\n\n\nJonv PEsIsGToN, heirs OF SAMUEL PEN\n\n\nINoToN, deceased.\n\n\nMiddletown, Hell, Jan II, 1927 j19--nn",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 911,
+                    "y0": 1736,
+                    "x1": 1582,
+                    "y1": 1785
+                },
+                {
+                    "x0": 854,
+                    "y0": 1788,
+                    "x1": 1666,
+                    "y1": 2195
+                }
+            ],
+            "bbox": [
+                854,
+                1736,
+                1666,
+                2195
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-02-02_p1_sn82014894_00271740219_1827020201_0054.json"
+        },
+        {
+            "object_ids": [
+                16,
+                8
+            ],
+            "headline": "FIVE DOLLARS REV ARD.",
+            "article": "D AN AWAY from the subscriber, the night Of the\nIa 18th INST apprentice to the Coach Making tusl-\nness, named Martin Sipan, in the 21t year of his age\nHad when he went away, suit ofligt blue CLOTH\nand new fur hat He in company with apprentice\nbelonging Peter A. Humphreys, named john Hall. All\npersons are warned not 10 harbor employ him.\n\n\nTHOMAS MOORE.\nWhining on, Jan. 19, 1927. 2l-4t",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 885,
+                    "y0": 2211,
+                    "x1": 1635,
+                    "y1": 2265
+                },
+                {
+                    "x0": 863,
+                    "y0": 2273,
+                    "x1": 1670,
+                    "y1": 2552
+                }
+            ],
+            "bbox": [
+                863,
+                2211,
+                1670,
+                2552
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-02-02_p1_sn82014894_00271740219_1827020201_0054.json"
+        },
+        {
+            "object_ids": [
+                24,
+                10
+            ],
+            "headline": "COMMENT ON THE LAWS OF ENGLAND",
+            "article": "Extracted from The writings Of Mr. JoLa Wesey\n\n\n\"In the beginning of July, ,76l, was desired 10\ncall poor prisoner in the castle Of York, (Eng-\nland. III had formerly occasion to take nnlite ol\nbidsous monster, called Chancery bill now\nsaw the fellow 10 il called a Declaration The\nplain fac, was this Some time since, man who\nlived near YARN, Sssist-d others in running some\nbrandy his share was worth nearly tout pounds.\nAfter he had wholly left off that work. and wss fol\nlowing his own business, tina, Of weever. he was\narrested and sent to York gaol And not long\nal er came down Declarations that Jack had Ian\nded vessel ladened with brandy and Geneva,\nwhereby he was indebed to his Sovereign Lord the\nKing, in The sum of 576l. and upwards And TO\ntell this Worthy story the lawyer takes up | 3 OF IA\nsheets OF the triple sbampi paper.\n\n\n30 England. Will this reproach never be rolled\naway from thee Is there any thing like this to be\nfound, either among Turks o, heathens In the\nname oil Justice, mercy. and common sense, ask,\n1st.--Why do men lie for lying sake Is It only\n10 keep their hands in? What need else OF saying\ni, was the por, of London When every knew\nthe Brandy was slandeo 500 miles from thence.\n| \"Whst a monstrous contempt oil truth does this\nshow, or rather hatred to it 2d.-Where is the\nJustice OF swelling Al, into 576l.e Sd.-Where is\nthe common sense Of taking up IA sheets Of paper\n10 tell story, that may be told in ten nes9 4th.-\nWhere is the mercy OF thus grinding the lace Of\nthe poor beggared prisoner? Would not this\nbe execrabe vlllany. if the paper and writing to\ngether, were only Cd sheet, when they had stript\nhim already OF his little all, and had not left him IA\ngroats ln the worlds\n\n\ncit is certain that nothing can be said in de\nfence of our law proceedings. They are often alb\nsurd highly oppressive TO the subject, and disgrace\n| full to civilized nation In criminal cases, how\noften does the indictment magnify and exsggsrstr\nboth the crime and every circumstance connected\nwith it, beyond all the bounds OF truth and proba\nbilty? Hence it becomes extremely difficult fol-\nthe Jurymen to discharge their duty with good\nconscience. And we seldom punishnents duly\nWe say in other cases where the tauology and cir\ncumlocution peculiar to the language Of our law\nthe delay of Judgment in the courts. and the ter\ngiversation permitted through the whole proceed\nings render it impossible for honest man il\nmiddling life to obtain his right against villain\nwithout the utmost danger OF being ruined! A\nman who robs ON the highway ia hung-but vii\nlain who robs by means Of the chicanery, delay ant\nexpsnse Of the law, escapes with impunty, and i\napplauded.\"\n\n\nThe March Of Intellect An irriia,ed school\nmaster not being able 10 make clowniSh schois\nremember the word Mule exclaimed while riding\nout one day, Now, you BOBBY don't you know\nwhat's between horse and ass 2 Why yes sir\nto be sure do-ev'ry fool knows that how somever\nThen why don't you tell me?-say directly wha\nit is between the horse and the ass or III punisl\nyou,'' Why the saddle, to be sure. sir y knowe\nt.hn Ill IL,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1691,
+                    "y0": 2714,
+                    "x1": 2490,
+                    "y1": 2763
+                },
+                {
+                    "x0": 1691,
+                    "y0": 2758,
+                    "x1": 2512,
+                    "y1": 5332
+                }
+            ],
+            "bbox": [
+                1691,
+                2714,
+                2512,
+                5332
+            ],
+            "full_article_id": 11,
+            "id": "11_1827-02-02_p1_sn82014894_00271740219_1827020201_0054.json"
+        },
+        {
+            "object_ids": [
+                22,
+                11
+            ],
+            "headline": "NOTICE.",
+            "article": "MEETING of the Lepy Court. aud Court Of .spbeal Of\nIA Newcastle County. will be held at the Court House\nthe Town OF Newcastle Tuesday the 9th day Of Tebr-\nary next. 24-3t DAVID PAINTER, C. r,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1141,
+                    "y0": 621,
+                    "x1": 1384,
+                    "y1": 670
+                },
+                {
+                    "x0": 854,
+                    "y0": 678,
+                    "x1": 1666,
+                    "y1": 811
+                }
+            ],
+            "bbox": [
+                854,
+                621,
+                1666,
+                811
+            ],
+            "full_article_id": 12,
+            "id": "12_1827-02-02_p1_sn82014894_00271740219_1827020201_0054.json"
+        },
+        {
+            "object_ids": [
+                35,
+                36,
+                12
+            ],
+            "headline": "BY AUTHORITY.",
+            "article": "No. AN ACT TO provide Tor taxing eVioShCe 40\n\n\nCourts Of the United States IN certain cases.\n\n\nBe it enacted bg the Senate and House Of Repre-.\nspntntiues ofthe United States Of .amsrsca IN Con\ngreSs assembled, That whenever Commission shala\nbe issued by any Court Of the United States Tor ta-\nking the testimony OF witness or Witnesses at any\nplace within the United States or The Territories\nThe, rof it shall be law for the Clerk OF any Court\nOF the United States, for The District or Territory\nwithin which such place may be, and he is hereby\nenoned and required, upon the application OF either\nOf the parties the suit, cause. action or proceed.\ning. in which such commission shall hove been is\nsued. his, her, their agent or agents, to issue\nsubpoena or subj oeuas Tor such witness or witnesses\nresiding or being within the said District or Terri\ntory, as shall be named IN the Said commission ccm\nmauding such witness or Witnesses to appear and\ntestify before the Commits ssioner or Commissioners\nin such commls sion named at time and place In\nthe subpnna to be stated. and it any Witness etsr\nbeing duly served with such sublGns. shall refuse\nTor neglect appear, or, alter appearing, shali re-\niuse 10 testify, (no, being privileged from giving\ntestimony, such refusal OF neglect being proved TO\nthe satisfaction of any Judge OF the Court, whose\nClerk shall have issued such subpoena or sub\npoenas, he may thereupon proceed to enforce obe-\ndiencc the process, or to punish The disooedsence\nIin like manner as any Court of the United States\nNAV do in case ol disebedience to process OF\nlsubpnna ad testificandum, issued by such Courts\nand the witness Witnesses, in suca cases. sha DC\nallowed the compensation as IS allowed 10 VII\nnesses attending the Court; ot Inc Onltso o'a'es\nProvided, that witness shall De required 70 auend\nat any place OUT Of the County in witch ne may re.\nside nor more than fo.ly miles from his place OF\nresidence, 10 give his or hsr deposition under this\nlaw.\n\n\n! Sec. y. Ind be it father enacted, That wheney~\nsr either o. the parties 10 such suit Gauss action, OK\nproceeding, shall apply 10 any Judge ot Court Q.\nthe United States, III he District or Territory OF\nthe United rates 10 whicn the place Tor tsAng such\nessimony may be, for sa5PRna dacss tecAH', com\nmanding The witness, therein TO De named, 10 aPr\npear and testify before The aaid Commissioner or\nCommission ers, at the time end place 10 the sai0\n\n\nsubpoena to be stated, and also Ic ors0g or carry\n\n\nwith him or her, and produce TO such Commission\n\n\nsr or Commissioners, any paper, writr3 or WRITTEN\ninstrument or book, or other documsAts suppossU\n\n\nto be 10 the possession or power OF sucn WHnsss'\n\n\nsuch Judge being satisfied. by the affidavit OF the\n\n\nprr,on APPLYING or otherwise, that there IS Fsae\n\n\nson to believe hat such papsr, wriIng ~Fiuen IN\n\n\nstrument, book, other docu mec IS III thr posses\n\n\nsion or power of the witness, ard that the same y\n\n\nproduced, would be competent aud material ssl-\n\n\ndence for the party applying therefor may oideA\nhe Clerk of the Court, OF which he IS Judse 20\nissue such subpnna duces tecalm accordingly ands\nil such witness after being duly served with such\n\n\nsubporra duces ecum shall tail 10 produce any\nsuch paper writing, written instrument, book OF\nother document, being in The possession or power\n\n\nof such witness, and desc ibsd in such subpoena tu\nces gcn before, and to such Com missioner or Com\n\n\nmissoners. at the time and place IN such subj ona\n\n\nstated such failure being proved TO the satisacsoii\n\n\nof the said Judge. he may proceed TO ENFORCE ooedi\n\n\nence 10 the said process OF subpoena auces techn or\n\n\n10 punish the dsobedence, in like manner as any\nCourt of the United States may do IL case OF diso\n\n\nbedience 10 like process issued by such Court; and\nwhen any such paper writing, written instrument.\nbook or Other document, shall be produced 10 such\nCommissioner or Commissioners he or they shall at\n\n\nThe cost ofthe party requiring the same, cause 10 %\nmade fair and correct copy thereof, or OF so much\n\n\nthereof as shall be required by either OF the parties\nProvided that no witness shall be deemed guilty OF\ncontempt for dissobsyng any subpoena directed 70\n\n\nhim By virtue oil This act. unless his fees tor going\n\n\n10, returning fion, and days attendance at the\n\n\nplace Of examination, shall be paid or tendefed 10\n: him at The time q the service Of ths subpoena.\nJOHN w TAYLOR,\nSneaker of the House of Representatives\nNATliI.. MACON,\nPresident OF the Senate pro tempore.\n\n\nApproved Oath Jan. 1897.\n\n\n: JOHN QUINCY ADAMS.",
+            "byline": "Volume vi.",
+            "bbox_list": [
+                {
+                    "x0": 3026,
+                    "y0": 511,
+                    "x1": 3296,
+                    "y1": 573
+                },
+                {
+                    "x0": 2731,
+                    "y0": 881,
+                    "x1": 3076,
+                    "y1": 921
+                },
+                {
+                    "x0": 2502,
+                    "y0": 969,
+                    "x1": 3336,
+                    "y1": 4442
+                }
+            ],
+            "bbox": [
+                2502,
+                511,
+                3336,
+                4442
+            ],
+            "full_article_id": 13,
+            "id": "13_1827-02-02_p1_sn82014894_00271740219_1827020201_0054.json"
+        },
+        {
+            "object_ids": [
+                28,
+                13
+            ],
+            "headline": "TO LET.",
+            "article": "&T5A Two Story House nd Kitchen, in good condition, in\nkg6 Water street. second door from Market Pos\nsession given on the 25h Of March next. Inquire Of\n\n\nSAMUEL BUSH,\nCorner Of King and Second streets.\n\n\nWilmington Jan. 30 1927. 24-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1141,
+                    "y0": 828,
+                    "x1": 1375,
+                    "y1": 873
+                },
+                {
+                    "x0": 859,
+                    "y0": 876,
+                    "x1": 1670,
+                    "y1": 1071
+                }
+            ],
+            "bbox": [
+                859,
+                828,
+                1670,
+                1071
+            ],
+            "full_article_id": 14,
+            "id": "14_1827-02-02_p1_sn82014894_00271740219_1827020201_0054.json"
+        },
+        {
+            "object_ids": [
+                25,
+                23
+            ],
+            "headline": "CONDITIONS OF THE WATCHMAN",
+            "article": "&h terms are to those who pay, during the month Of\nEnnarv ar July six months in advanceFour Dglars a\nfr From those who do not pay above, Fiue Dollars\nEn- he demanded. Ii subscriber wishes to decline, he\n\n\nst notify the editors Of his Intention before ,e frst OF\n~. mr. D,cember, and pay all arrearagcs. Without a\n\n\nmnance with these conditions, no paper will be dscon-\n&ncd except at the option Of the editors.\nTERMS OF ADVERTISING.\n.rtisements not exceeding twelve lines, for term\n\n\ntbree months four times for dollar and TWEEN\n\n\ncents for every longer pro.\nkrtion Advertisers requested to specify in writing\n\n\n81 lonp their advertisements to be inserted, they\n\n\nm he continued till forbid Letters to the Editors, to in\n\n\nre attention must be post paid.\n\n\nAdvertistng 6ysheyear.\nII Snbscribers To Non-Suhscribers.\nn j year SIS, 90 ayear year. sls' % %\nNJ 6 months ., w months = ~\n: do a, so 8 do. 5, ,0o",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 48,
+                    "y0": 612,
+                    "x1": 802,
+                    "y1": 666
+                },
+                {
+                    "x0": 30,
+                    "y0": 665,
+                    "x1": 842,
+                    "y1": 1366
+                }
+            ],
+            "bbox": [
+                30,
+                612,
+                842,
+                1366
+            ],
+            "full_article_id": 24,
+            "id": "24_1827-02-02_p1_sn82014894_00271740219_1827020201_0054.json"
+        },
+        {
+            "object_ids": [
+                30,
+                29
+            ],
+            "headline": "TO BE RENTED,",
+            "article": "V ID u IA EJAN I1Hy5\n\n\nF.. A House and small Farm IN the village OF\n81 sas ssss1 Newark ia'ey occupied bv The Rev SAnrsL\nHsss BELL possession of which Will be given on 1he\nEsEl 25th day Of Malchnext.\n\n\nI'll Farm contains about forty tf arabic land A.\nmeadow, III good order. and conveniently divided. Inc\nimprovements are good buick dwelling house and kch\nEN- with bckbat, carriage house and other Out oGa-\nlngs. .,, c c; /.\n\n\nThis property would be very suitable for family VINO\nmight be desrous Of removing 70 Newark to educate ci-\ndren There excellent seminarles ~ that village\nThe Newark Academy, which is under he direction OF the\nRev A. X RUSSELL, aided by two assistants IN winch no!\nare taught the Latin and Greek Languages, Mathematics,\n&c and school for young Ladies under e d'fecnh o.\nthe Rev SAMUEL BELL, which are taught the usetui ana\nornamental branches Of Female Education.\n\n\nFor terms apply in Wilmington TO Mrs. MARY , bLAeK'\nor to the subscriber iii Newcastle. J. h bLhoh\nJan. l6, 1927. GU",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 206,
+                    "y0": 3269,
+                    "x1": 697,
+                    "y1": 3327
+                },
+                {
+                    "x0": 57,
+                    "y0": 3309,
+                    "x1": 864,
+                    "y1": 3988
+                }
+            ],
+            "bbox": [
+                57,
+                3269,
+                864,
+                3988
+            ],
+            "full_article_id": 30,
+            "id": "30_1827-02-02_p1_sn82014894_00271740219_1827020201_0054.json"
+        }
+    ]
+}

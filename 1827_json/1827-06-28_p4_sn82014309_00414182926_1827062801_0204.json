@@ -1,0 +1,1257 @@
+{
+    "lccn": {
+        "title": "The Litchfield County post.",
+        "geonames_ids": [
+            "4837799"
+        ],
+        "dbpedia_ids": [
+            "Litchfield%2C_Connecticut"
+        ],
+        "issn": "",
+        "lccn": "sn82014309",
+        "start_year": "1826",
+        "end_year": "1829",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [
+            "sn84020071"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn82014309",
+        "edition": "ed-01",
+        "date": "1827-06-28",
+        "pages": [
+            "seq-3",
+            "seq-4",
+            "seq-2",
+            "seq-1"
+        ]
+    },
+    "page_number": "4",
+    "scan": {
+        "lccn": "sn82014309",
+        "edition": "ed-01",
+        "date": "1827-06-28",
+        "page": "4",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-06-28/ed-1/seq-4.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-06-28/ed-1/seq-4/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-06-28/ed-1/seq-4/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/ct_barnum_ver01/data/sn82014309/00414182926/1827062801/0204.jp2",
+        "height": 7406,
+        "width": 4995
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2086,
+                "y0": 1139,
+                "x1": 2978,
+                "y1": 2512
+            },
+            "class": "article",
+            "raw_text": "FOX ALBANY AND HUDSON.\n\n Leaves Litchfeld daily Sundays excepted,l at O. clock in the morning, arrives at each place af ternoon and returns from each place in the same order.\n\n LITCHFIELD AND NEW-HAVEN.\n\n Leaves Litch6eld for New-Haven daily Sundays excepted) at o'clock in the morning; Monday, Wed nesday and Friday, by BethIem, Woodhury, Southbu- ry Oxford, Humphreys-Ville and arrives in N Haven at P. M.; Tuesday, Thursday and Saturday, by Watertown, Waterbury, Salem-bridge, and Wood- bridge, arrives at N. Haven at 9 F. M; and returns from N. Haven in the same order.\n\n LITCHFIELD AND HARTFORD.\n\n Leaves Ltchfeld for Hartford, Tuesdays, Thurs days and Saturdays at o'clock in the morning thro' Harwinton, Burlington, Pennington and West-Hart- ford and arrives in Hartford at o'clock F. M. Re- turns from Hartford Mondays Wednesdays and Fri days at o'clock in the morning.\n\n LITCHFIELD AND NORWALK.\n\n Leaves Litch6eld for New-Mlford, Danbury and Norwak every Friday afternoon arrival of the Stage from Hartford, through Bradeys-Vie, New Preston, New-Miford, Brookfeld, Danbury, Reading, and Wilton, and arrives at Norwak on Saturday at 12 o'clock at noon. Returns from Norwak Sundays, arrives at Ltch6ed Monday afternoon.\n\n This Line intersects the Steamboat at Norwalk and arrives i'll N. York same night.\n\n The Steam-Boat leaves N. Haven for N. York eve- \" evening at o'clock.\n\n The Steam Boats leave Hartford for N. York Mon days, Wednesdays, Thursdays and Saturdays, at II o'clock A. M.\n\n For information passage in the above Lines ap- ply to J. PARKS. Litchfeld, June II, 1897. tf52",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 2104,
+                "y0": 908,
+                "x1": 2967,
+                "y1": 1111
+            },
+            "class": "headline",
+            "raw_text": "STAGE NOTICE. Arrangement of the fol-\n\n IO2ri21D I12aps.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2977,
+                "y0": 6104,
+                "x1": 3869,
+                "y1": 7025
+            },
+            "class": "article",
+            "raw_text": "FROM cLEEGYMEN OF VARIOUS DENOMINATIONS.\n\n From the Rer. Dr. GriEa.-\"I esteem Dr. Scott's Family Bible, emnently calculated to promote the cause of truth and pety. It scarcely possible tor me to read daily the Notes and Observations with out becoming wiser and better man.\"\n\n Rev. Asa Eaton, pastor of Christ Church, Boston. TO POSSESS For the of your undertaking you have my best wishes and fervent prayers\"\n\n Rev. Dr. Joshaa Bates, President of Middle6u,y Couege.-\"Sir am pleased with your proposals for publishing Scouts Family Bible, and sincerely wish you success in your undertaking. have doubt tha, twill be well patronzed by the religious public\n\n Rev Daniet Sharp, pastor of the Sd Baptist Church. BOstoa-\" The more it is read by pious Christians the more extensive will be it's circulation.\n\n Reu. Dr. BGLdtcia, late pastor of the 2d BaptiSt CRGrh, Bosfon.\"I feel free to say that in my esti- mation deservedy ranks among ablest and best Commentaries. An the leading doctrines of Chris tanity as professed and maintained by many of the most eminent Reomers are in my judgment very hap piiv illustrated and enforced\"",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 3052,
+                "y0": 6028,
+                "x1": 3788,
+                "y1": 6087
+            },
+            "class": "headline",
+            "raw_text": "RHcoMnrHMDAT1oNs",
+            "legibility": "Questionable",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2080,
+                "y0": 4796,
+                "x1": 2967,
+                "y1": 6284
+            },
+            "class": "article",
+            "raw_text": "AA1C 4NAA\"-1S SAskA SOOASANAA OC SOINMELACE,\n\n Has been determined on by large number of lib- eral gentlemen of that city, and is to be edited by the subscriber, with associate of distinguished literary attainments. It is to be DAILY MORNING PAPER de- voted principally to commere and manufactures but including politics, literature, and whatever else that may be Interesting to intelligent of business Ad- vertisnens for the theatre, of lottery tickets and of business be transacted the Sabbath, will be ex- cluded. It is intended that the Shipping List shall not be surpassed in the country, especially will thorough attention be paid Eastern vessels than is usual in NewYork. A price current will be inserted as soon arrangements can be made to furnish one, which can be relied upon. The price is the same as other New-Yor papers, $lO--A Journal will be is- sued SEMl-WEEKLY, containing the principal matter, at $4 To companies subscribing six papers seventh will be included gratis.\n\n The gentlemen who have determined upon the es- to any pccuniary advantage. They have higher motive and which has long interested the feelings of fmoral and religious men in Boston, New-York and other cities Theyare ready to sacrifice money, to any amount which may be required. But it is ev- dent that to accomplish any valuable purpose wide circulation must be had. good subscription list has been obtained in New York; but the enterprise is new m its character and hps to contend with many and powerful obstacles. To overcome these, no labor nor expense oRthe part of the projectors the Ed ifors will be spared And they invite the hearty operation of all those who would sustain the business of the country and it's civil and literary institutions, aEty.\n\n The publication will be commenced as soon as the details of preparation can be arranged. And it is re- quested that names should be returned soon without the payment of postage, to Arther Tappan Esq., New York. DAVID HALE.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 36,
+            "bbox": {
+                "x0": 2098,
+                "y0": 4767,
+                "x1": 2938,
+                "y1": 4814
+            },
+            "class": "headline",
+            "raw_text": "THE NEW-YORK JOURNAL OF CoMMERCl",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2995,
+                "y0": 1411,
+                "x1": 3887,
+                "y1": 4114
+            },
+            "class": "article",
+            "raw_text": "Attention is inuited Co the toocing articles,\n\n prising part ot' his assortment; Black Italian Lustring. Black Gros de Naples. Fancy colourd, plaid, and strp'd do. Black Levantine Fancy coour'd, plain & stripd do. Black India Satin. Satin Lavantine. Snchews, Lustrings and Sarcinets. Fancy Barrage Dresses. Barrage, guaze, and silk dress Handkerchefs Black and White Silk Hose. Cotton do. Ladies' and Gentlemen's Gloves Black Bombazine for Ladies' Dresses. French do. for Gentle mems wear. Black and Scarlet MERINO SHAWLS. Large fancy imitation do. Prussan do. Fine Irish Linen, Mddling do. Wide Irish Sheetng. White Brown, Mixd, and strip'd Linen Drilling. Cotton Drilling Long Lawns; Linen Cambricks' Black and White LACE WELLS, from 3 to 8 dolls. Silk Umbrellas and Parasols. SHELL COMBS, large and small sizes c,,;cocs light; dark and fancy, imported; domcs- O\"ieoe'' ] tic blue and other colours very cheap Furniture Cacoes. Buff stripd & shaded Ginghams. Verona stripe do. handsome for Ladies' Dresses. Domestic Plaids and Stripes superior style. Bleach'd and unbcach'd Shirtings Cambrick Muslins. Sarcinet do. Book do Plain and 6gurd Swiss do. Plain and figur'd Scotch Mul. Nankeens for Ladies' Dresses. Furniture Dimty. Cambric do TLADIEs' LEGHORN HATs-ycry inviting in\n\n quality and price. BROAD CLOTHS, fashionable olive & mix d, \" middling and common. Dlack, Dluc ana mix d. Satinets. Elegant HEARTH RUGS. Handsome PAPER HANGINGS, & Bordering. TEA WATERS, and many fancy articles of dard-\n\n ware and Cutlery China TEA SETTS, Liverpool do. Cut Glass Decanters and Plumbers. Common crock cry, full assortment SUGARS, brown, loaf, lump, and white powdcr'd. TEAS, Hyson young hyson, skin, and Tonkay. Best St. Croix RUM, Holland GIN, Madeira, Tene-\n\n rifle, Colmana, and Malaga WINE and all con-\n\n mon articles in the Grocery Line. Old Jamaica Spirits for Medicine. Madeira Wine for do. Porter, in bottes for do.\n\n General Assortment of\n\n DRUGS AND MEDICINES, of best quality, inviting the attention of Physicians and OIhrrp.\n\n u The whole Stock of the Subscriber is new and just purchased at the lowest AUCTION prices, & lowest PACKAGE prices of the Importers in the City of New-York. A continual supply of NEW GOODS will be received from his Agent in New. York, to replensh his Stock with such articles as may be desirable to his customers. PLEDGE is here given to sell as low as Goods oi equal quality are sold in Duchess or Litchfield Co., for ready pay in Cash. or Country Produce.\n\n All persons who desire to purchase Goods of first quality, and Very Cheap, respectfully invited to call at his Store and look for themselves.\n\n AARON READ. SHARON, JUNE l2, 1927.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 43,
+            "bbox": {
+                "x0": 3000,
+                "y0": 931,
+                "x1": 3875,
+                "y1": 1001
+            },
+            "class": "headline",
+            "raw_text": "SHARON VALLEY STORE.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -2
+        },
+        {
+            "id": 33,
+            "bbox": {
+                "x0": 3000,
+                "y0": 1018,
+                "x1": 3881,
+                "y1": 1406
+            },
+            "class": "headline",
+            "raw_text": "\\ HE Subscriber is now opening at his Store in SHARON VALLEY an extensive assortment of DRY GOODS, HARDWARE, CUTLERY, CROCKERY,\n\n GROCERIES, PAINTS,\n\n DRUGS & MEDICINES.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3897,
+                "y0": 289,
+                "x1": 4795,
+                "y1": 816
+            },
+            "class": "article",
+            "raw_text": "h is salea A New osaeans paper of she IFtA uiai' no thss Ssur ouage ehisfs saA eve kmsles scco@pa- panied hy an isscrprsser, had arrived thcre with the intention Co proceed b England.\n\n William W. WOlsey Esq. TFeaarer of the AmeEi- caa Bible Society, acknowledges the receipt Of I3- 773 dollars Sl cents during the mOnih of April, via For donations S269S 6i cents For contributions OD the debtO the SOCiey's house, e9aSO; For bibles and testamens S6l77 s7 cents: As permanent loans, interest payable in bibles and testaments, e247O.",
+            "legibility": "Questionable",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1178,
+                "y0": 306,
+                "x1": 2070,
+                "y1": 1048
+            },
+            "class": "article",
+            "raw_text": "Ths lsa eS NKw HARacSS.--lR a cig puPsr VI ohsSye tAe GoIlo~iag;\n\n Notice is hcrcly giVcn, not a Srus' Robert Owen On my account, as [ am determined not so pay any OG his debss or in any way whatever be rePosble tor any transactions be may have done may attempt 'O do in my name. WILLIAM MACLURE.\n\n \"NEw HARMONY, 3Olh April, 1927.\n\n Mr. MacIure is an enthusiast upon the subject of cd- ucaton He has made it his study in Europe for ma ny years and from the above may be inferred the re- suit of his experiment upon O'OenisD. He has been munifcent contributor and valuable books, and costly European minerals, to American scientific so- ceties and is the President of the American Geolo- gcal Society,\"",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2086,
+                "y0": 300,
+                "x1": 2967,
+                "y1": 886
+            },
+            "class": "article",
+            "raw_text": "A eoSumoash SM. H.l paper oI Saturday lass say --s A whsle supposcd e be hsswCea @ and 90 sccs long, came up river ThnEsaay afternoon. EIc has keps ssOus nOssaDoush Brdgc, spParensly afraid Co repass t. and has afforded has pursacrs 6ae chase. He stands but poor chance sO regain hs native ocean,\n\n The London Court Circular of April l7, announces that in addition to the other reSgnaiiOns of his jesys cabinet, and household, the Cook and Master Baker, and the Royal Chambermaid and Laundress, had resigned The morning Chronicle adds\" we trust difficulty will arise in filling up these ofces",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2983,
+                "y0": 295,
+                "x1": 3875,
+                "y1": 897
+            },
+            "class": "article",
+            "raw_text": "laae sCica'ihe Journa saARcs, thas whc ths wosa. aea were employed n conssEnctins sume sa6mazine ~Orks. Oa PemOush IEsnsl the rays Of thc sua pas sca through Se convex gass Of the diving bc, which was suEk s5 feet below the surface of the water, actually sct fire to a hat belonging to one of tho woTkmen.\n\n Potter, the ventrlOqui and juggler, has been mule ted in the small Of $4OOor practising has cra O boiling eggs in his hat, making guneas of haPennies and delivering lectures noses in Providence, R. without the lOrmaliy of license from the Town Council",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 269,
+                "y0": 312,
+                "x1": 1167,
+                "y1": 3437
+            },
+            "class": "article",
+            "raw_text": "4TY CT cUrS ON RELIGIOUS TRACTS.\n\n 10 a large manufacturing town in tAe West Riding. Yorkshire. some piOus persons are in the habit of leaving tracts at the dwellings of the poor. This is done every Sunday mOrn- ing, and the same tract is deposited at each habitatiom. On ohe OccasiOn, the narrative of\" WILLIAM KELLV;\" the frOntispiece of which represents the subject of the story, sneaking hare headed from the presence of a storming hostess, who had seized his hat as security for tavern score. Such circum- stance actually did take place, and proved tine turning point of his life, who was after wards appropriately designated, The happy Christian\" The disgrace of the incident induced sober reflection, sober reflection Is- sued in repentance, and repentance in one of the most pleasing specimens oflowiy piety that modern days can boast.\n\n This tract thus embellished was left among other houses at the house of one of the most proAigate drunkards in the place; and to him strange to say circumstance precisely sim liar to that which arrested Kelly in his career, had occurred the evening before. His hat be- ing detained for debt by the landlady of neighbouring ale house, he ~h had hastened homeward, bare headed, incensed and asham- ed, and had retired to rest raging like she bear robbed of her young. Sunday morning found him sullen and purturbed; he hurried down stairs half dressed, and flung himself ln- to a chair, which stood beside the breakfast table-when To, the first object that caught his attention was the frontispiece 1.-the tract which we have been describing, placed we will not say accidentally, full in his view. Glancing at it, with an eye of fierceness, he seized it, and striking the table with his fist, at the same time uttering fearful impreca- tion, exclaimed, \"Those villanOus Method jsts tiff they hav'nt got me already painted up to be the laughing stock of the whole town; here am without a hat. I'll be even with them.' Thus he raved till the tempest ofhis ire had somewhat exhausted itself in oaths and menaces; ; then prompted by curi- osity, he thought he would ascertain what was said concerning him. A near inspection of the object of his wrath Immediately cor rected his preposterous error but his curios- ty having beeu excited, he peruscd the little. narrative, and the perusal was productive of the happiest effects. He resolved in the strength of God that he would reform, he re- paired to place ofpublic worship, began to search the Scriptures, and exhibited every symptom of real repentance. He is now if rightly recollect, in the employ of the gen tleman who related the InGidont, and from being disgrace to society, a curse to his neighbourhood, and scourge to his family, he has become one of the kindest of neigh bours, faithfulest of servants, best of fathers, and soberest of men.-Lond. Tract Mug. for ADrI",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 3891,
+                "y0": 6092,
+                "x1": 4795,
+                "y1": 7030
+            },
+            "class": "article",
+            "raw_text": "MUSEUM cf Foreign Literature and Science.\n\n for June 1927, is just published, and for\n\n sale at the Litchfeld Bookstore, where\n\n the back numbers can be had. r CONTENrs.--Portrait of Dr. Helmuth.-- Kings Australia. The Par Home. The last days of Kant. The things that change. A chapter on Dreams. Orator Henley. His tory of Barbadoes. Henry Cornelius Agrip- pa. SimiIitudes. Oxford edition of Sopho- cles. The black Watch. Buckingham's Mesopotamia. Vernal Stanzas. The twins of I.amcrton. General Caulincourt. MISCELLANEOUS SELECTIONS. LITERARY\n\n INTELLIGESCE. Sc.\n\n Just Received, Slliman's Journal of Sci ence. No. 2, fer March, April, and May, 1897. No. 9, Vol. I. American Quarterly Review Subscriptions received at the Litch6eld Bookstore.\n\n Litchfcld. June IA 1897. 5e",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1178,
+                "y0": 5785,
+                "x1": 2058,
+                "y1": 6249
+            },
+            "class": "article",
+            "raw_text": "WOULD inform the inhabitants of Litchfield coun. ty that he has taken the stand formerly occupied by Wm. H. Adams where he intends carrying on the TAILORING BUsINESSin in all its branches. Peo. pie who feel disposed to favor him with their custom may rest assured that their work will be done in the first style, and in a workmanike manner.\n\n Particular attention will be paid to Cutting.\n\n E. SCOTT. Litchfeld, June, 1927. l",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 50,
+            "bbox": {
+                "x0": 1484,
+                "y0": 5236,
+                "x1": 1752,
+                "y1": 5283
+            },
+            "class": "headline",
+            "raw_text": "Gdllduten.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -2
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 1236,
+                "y0": 5600,
+                "x1": 2018,
+                "y1": 5769
+            },
+            "class": "headline",
+            "raw_text": "Tailoring Business. EDWARD SCOTT",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 2983,
+                "y0": 4420,
+                "x1": 3887,
+                "y1": 6006
+            },
+            "class": "article",
+            "raw_text": "Bsig the eleventh American Edition, and complete q, all respects aS the best London Edition. VVHE following MT. S. T. Armstromg's terms as published in the March No. Q827) of the Mis- sionary Herald.\n\n \"In sheep binding the price is S24 and in cali binding $50 from which prices very liberal DIs- COUNT is made to agents and others who buy to sell again. The work IS comp. ised in six volumes royal octave and we'll bound and lettered it will be sold as cheap, in proportion to the size of the pages, as the publications of the American Tract Society sod EVERY FOURTH SET GRATIS! That is, any person who takes three in sheep binding and pays for them the sum of $72 shall be entitled to set gratis if the sum of $72\n\n is divided equally all the four sets, it will reduce the amount payable for each of the four sets to $18\n\n instead of4 being discount of 5 per from the retail price, discount is made in te same psepor- tion on calf binding aud on ANY NUMBER OF COPIES, atOOe jour, ho'oever targe.\"\n\n U The price at the LITCHFIELD BOOK STORE is $2l per single set, and SIS per set where four or more are taken in company.\n\n 'The work contains the Old and New Testaments with copous Marginal References; also valuable Notes explanatory of the Scriptures and, lastly, the Pract cal Observations. The work is go generally known to all who acquainted with the publications of the present day, that is deemed unnecessary to enlarge upon it's contents\"\n\n The first edition of this work, (the constant and in- creasng sale of which proves the high esteem in which 1t IS deservedly hed begun in 1788 and published in London, in numbers, consisted of 5000 copies the second m l8O5 of2 OOO the third in 18lO 900; the fourth in 1872 of and the edition is Stete ope, the largest work ever submitted to that process. Besides these, eight other editions, consisting, alto gether, of 2525O copies, were printed in the United States of America, from 1908 to Recorder.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 1184,
+                "y0": 2007,
+                "x1": 2076,
+                "y1": 2755
+            },
+            "class": "article",
+            "raw_text": "DEUBEN HERMAN would inform lN the public that he has opened a Shop in Litchfeld, a few rods east of the Meeting house at the Stand lately occupied by l. Bunce Esq. where he will attend to the business, of Clock and Watch repairing, and Silver Smith, and keeps on hand an assortment of such ar ticles as are usually called for in his line, as low as can be bought elsewhere, ,ameng which are Silver Spectacles, Spoons, Jewefry, s1c. also few first rate Brass eight day Clocks. He solicits share of the public patronage.\n\n As DENTIST he will set teeth in the best manner for those wbO may favour him with their custom.-Cash paid for old Silver.\n\n Litchfeld, May 80, 1897. 6w5O",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 46,
+            "bbox": {
+                "x0": 1195,
+                "y0": 1990,
+                "x1": 1862,
+                "y1": 2089
+            },
+            "class": "headline",
+            "raw_text": "NOTICE. MERRIMAN wO,",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": -1
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 2080,
+                "y0": 6393,
+                "x1": 2955,
+                "y1": 6776
+            },
+            "class": "article",
+            "raw_text": "\\ HE Court of Probate for the district of Sharon will be holden for the year ensuing, at the Probate Office in Salisbury, on the first Tuesday of every month, and at such other times the Judge of said Court may be otherwise discngaged.\n\n SAMUEL CHURCH, Judge\n\n efProbats tor Sharon District. Salisbury, June Is, 1897. 1",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 2196,
+                "y0": 6306,
+                "x1": 2857,
+                "y1": 6371
+            },
+            "class": "headline",
+            "raw_text": "PROBATE NOTICE.",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": -1
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 1184,
+                "y0": 3130,
+                "x1": 2070,
+                "y1": 5590
+            },
+            "class": "article",
+            "raw_text": "se IGr ds gSHd of yDn Sk or TEA w pound a w eas as san be G Bought in Hap ford Lump SUGAR, best quality, for l6 cts per ID. by the lump,\n\n TAVERN KEEPERS, and erures. can be spnpled with all kinds of Groceries at low prices. AeoU N,t- megs, Cloves, Cinnamon and Perlash, Mackerel in bls. and half bls Also, great assortment Nova Sco- tia, blue sheet fine grit Grnd-stones, warranted ney. to 28l lbs. Also for Builders, A. 10, l2 and 20d. cut Nails, made of tough ron Best cast steel Plain Irons, hand and pannel Saws steel Gimblets, fee, R1les' iron Squares, polished steel nail Hammers rule joint Compasses, patent butt Hinges Screws, Brads, and door trimmings of most all kinds. Best London White Lead, Red Lead, Venetian Red, Span- ish Brown, Spanish White, Crome Yellow Prussian Blue, Spirits Turpentine Lintseed and Whale Oil, and Brushes.\n\n Also, for House-keepers good assortment of Loo king Glasses and Supportcrs,-Engls Flat-irons,- Brass Kettles,-Knives and Forks,-good common Spoons,-silver plated do. of both kinds, and fine assortment of Silver Tea and Table Spoons, Sugar Tongs and salt spoons these articles of sil- plate will be kept constantly hand, and at pri ces without any reserve as low as can be bought in Hartford or NewYork, and all warranted good silver by myself and the makers, whose names are stamped upon them. A good assortment Iron Pots, dish ket- tes tea Kettles, new fashioned Spiders bake Pans, Gridles Skillets screw bottom'd and brass Candle sticks, and patent Furnaces,\n\n A fine assortment New-York HATS, for old men, young men, and boys. Large BIBLES from Ills. to\n\n \n\n A good assortment of heavy jet black and blue black Bombazines, very cheap for dresses and long shaws; cheap Flowers and Wreaths bonnet and cap Ribbons, blue Broad Cloths very cheap;, very wide Bang-up Cord, real Russia Sheetng, Silk, Twist padding and other trimmings for Taors livery superior quail ity, and large supply of other Goods much too merous to mention any advertisement. Soon expec- ted brass Andirons, Shovels and Tongs, wrought Andirons, andmany other articles to make a greater variety of good common furniture for house keeping than has been fonnd in any store in the county within m yknowledge!\n\n EAS it is necessary for the Norfolk Farmers that there should be than Cheese dealer, the sub scriber will give all who may be disposed to favour him with their business, every encouragement in that line which prudent man can do.\n\n E. H. DENISON,\n\n GNamte0,\n\n z TONS good HAY,-on span good low price O Team HORSES,-on good Lumber Wagon and Harness.\n\n ALso to contract for 1900 Casks LIME, to be burnt after the middle of September. Goods will be advan- ced before hand and some money on the delivery of the Lime. l.. II. DENISON. Norfolk. June 9, 1897. 4w52",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 1172,
+                "y0": 6341,
+                "x1": 2058,
+                "y1": 7001
+            },
+            "class": "article",
+            "raw_text": "w the subscribers being appointed by the Hon. Court of Probate for the district of Ltchtied Com. missioners to examiue and adjust the claims of the Creditors of the Estate of\n\n ASAPH WRIGHT, late of Goshen deceased, represented insolvent and six months from date being allowed for the creditors We do hereby give notice that we sha attend to the duties of our said appointment, at the late dwelling house of the deceased the first Mondays of August and December, at o'clock A. M. on each of said days. .t7 '.~-- :\n\n DAVID WADHAMS.)\n\n ERAsTUs LYMAN, Commissioners. Goshen, June 2l, 1927. l",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 1461,
+                "y0": 6271,
+                "x1": 1775,
+                "y1": 6336
+            },
+            "class": "headline",
+            "raw_text": "NOTICE.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": -1
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 3903,
+                "y0": 850,
+                "x1": 4807,
+                "y1": 1962
+            },
+            "class": "article",
+            "raw_text": "Rec. D.. Dasa.-\" Dr. ScOtt's Commentary, has merted and obtained distinguish ed popularity. The spirit which pervades the work is excellent. is tho meek, aectionate, healing yet faithful spirit of the Gospel.\n\n Beside tke GbOve MANY OTHERS of the most iu- RuentiaL aOngt the Clergy hGUe recOHDeded tis 'OOr the JoiiOaUisg attracts hO'OeUer from Mr. EmerSons letter oM point out the adUGntages peculiar Co the OC- TAVO edition.\n\n Rep. Joseph Emerson, Author Of the EUGHgeIicM Primer\" Six editions of this great work have bees published in this cOuntry.-I have had considerable opportunity to examine and compare specimens of all these editions, and decidedly of opinion, that most people would greatly prefer ARMSFRONG'S EDITION, now publishing in Boston. As the fold is octave, the volumes not nearly so large as aae quarto editions but te paper finer and winter; the execution handsOmer; the print to appearance nearly as large; and it be turned to the light with much less inconvenience, it may perhaps be read with equal and pleasure. It has the advantage of be- ing cheaper less cumbersome, and more elegant.\n\n S'ARMSTRONG'S EDITION, therefore, is the one which most highly recommend for the use of families. It is peculiarly calculated supersede the of large Bible; and in two respects it will answer better purpose merely for reading the scrip tures as it is less cumbersome, and may be read by several persons at the same tine.''",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 2092,
+                "y0": 2592,
+                "x1": 2972,
+                "y1": 3102
+            },
+            "class": "article",
+            "raw_text": "n FROM the subscriber on or abou,\n\n ER / the 21st of April an indented appren-\n\n M&B9 tce boy to the Shoemaking Business, N/ by the name of DANIEL BLISS, a.\n\n N/ ged 20-about 5 feet inches in height, AneA rather of strong build, light complex ion, blue eyes and thin face. The subscriber has heard of him in Waterbury at work at the Button Factory---and in New-Haven at work at his trade.-- This is to forbid all persons harborng trusting or em ploying said boy on penalty ofthe law.\n\n Litchfeld, June 17, 1897.",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        },
+        {
+            "id": 41,
+            "bbox": {
+                "x0": 2335,
+                "y0": 2534,
+                "x1": 2741,
+                "y1": 2598
+            },
+            "class": "headline",
+            "raw_text": "RUN AWAY",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": -1
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 3909,
+                "y0": 2476,
+                "x1": 4332,
+                "y1": 5977
+            },
+            "class": "article",
+            "raw_text": "3a1lk N\n\n Bills of the following ment or deposit at the PHI The list will be corrected\n\n NEW-HAMPSHIRE. Cheshire Bank. Concord. Merrimac, at Concord. Exeter. New-Hampshire. Union. Strafford. Portsmouth. Rockingham. Grafton. Amherst.\n\n MASSACHUSETTS,. Boston Banks. Pittsfeld Bank. Agricultural, at do. Farmers, at do. Housatonic. Hampshire. Greenfield. Sunderland. Belchcrtown. Wcare. Mcndcn. Springfield. Westfield. Beverly. Bedford. Commercial, at do. Salem. Commercial, at do. Mechanics, at dc. Dedham. Essex. Gloucester. Lynn Mechanics. Franklin. Marblellead. Merchants. Merrimac. Nerburyport. Plymouth. Pawtuxct. Taunton. Union. Worcester. Falmouth. Andover. Pacific, Nantucket. *Phoenix, at do. \"Manufac. & Mec. at do,\n\n RHODE-ISLAND. Eagle. Bristol. Commercial. Frceman's. Agric'al. & Manufac. Rhode-Island. *Burrillville. Cranston. Exchange. Franklin. Kent. Landholders'. Manufacturers. Merchants. Newport. N. E. Company. Narragansct. N. Kingston. Mount Hope. Pautucket. Providence. Phoenix. R. I. Union. R. l. Central. R. Williams. Smithfeld Union.\n\n Do. Exchange.\n\n Do. Lime Rock. Scituate. Union. Washington. Warwick. Hope. Village. Cumberland.\n\n CONNECTICUT. Norwich. Bridgeport. New Haven. Mechanics' Hartford.\n\n do. Phoenix. Middletown. New-London.",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": 0
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 1189,
+                "y0": 1567,
+                "x1": 2076,
+                "y1": 1974
+            },
+            "class": "article",
+            "raw_text": "all which he offers for sale at wholesale, at the New-York prices, or the most accOmmo- dating terms, for Cash or approved Credit.\n\n -ALSO-\n\n On hand constant supply of Tin'd Plates, of all the different qualities, and complete assortment of IRON WIRE of all sizes from No. o to %. Hartford. Conn., May 80, 1927. 5O4w",
+            "legibility": "Legible",
+            "full_article_id": 30,
+            "reading_order_id": 0
+        },
+        {
+            "id": 45,
+            "bbox": {
+                "x0": 1438,
+                "y0": 1504,
+                "x1": 1833,
+                "y1": 1563
+            },
+            "class": "headline",
+            "raw_text": "CUTLER Y,",
+            "legibility": "Legible",
+            "full_article_id": 30,
+            "reading_order_id": -1
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 3897,
+                "y0": 5971,
+                "x1": 4789,
+                "y1": 6076
+            },
+            "class": "article",
+            "raw_text": "Current in New-York at discount of 1 or 2 per. cent; but not bankable here.\n\n Broken, and value uncertain.",
+            "legibility": "Legible",
+            "full_article_id": 31,
+            "reading_order_id": 0
+        },
+        {
+            "id": 35,
+            "bbox": {
+                "x0": 1195,
+                "y0": 1226,
+                "x1": 2070,
+                "y1": 1499
+            },
+            "class": "article",
+            "raw_text": "HAS imported this season by the Ships HI Corinthian, Pacific, and John Wells. arrived at New-YOrk from Liverpool snpe- riOr assortment Birmingham and Sheffield manufactures, among the latter is some un- commonly beautiful",
+            "legibility": "Legible",
+            "full_article_id": 36,
+            "reading_order_id": 0
+        },
+        {
+            "id": 32,
+            "bbox": {
+                "x0": 1224,
+                "y0": 1076,
+                "x1": 2029,
+                "y1": 1216
+            },
+            "class": "headline",
+            "raw_text": "CHARLES SIGOURNEY, H0rtfOrd, Connecticut,",
+            "legibility": "Legible",
+            "full_article_id": 36,
+            "reading_order_id": -1
+        },
+        {
+            "id": 44,
+            "bbox": {
+                "x0": 4349,
+                "y0": 2459,
+                "x1": 4836,
+                "y1": 4797
+            },
+            "class": "article",
+            "raw_text": "DtR Eable. 3anks are received in pay ENIX BANK in this town. as occasion may require 1 Union. Stonington.\n\n Thames. Windham County. Fairfield County. VERMONT. Burlington. Brattleborough, Windsor. Rutland. Montpelier. Franklin, at St. Albans. iCaIadonia, at DanviEfe.\n\n MAINE, IWatervil.e. Augusta. Bangor. Bath.\n\n Portland. Cumberland. Gardiner. kennebunk, Lincoln. Saco. itCastine, uncertain. itWiscasset. do. tHallowell & Augusta. do. tKennebeck, do. 'tPassamapuody. do. NETWORK. N. Y. City Banks. Long Island bank. Dutchess County. Middle District. E.ansingburgh. Waterford. |St. Bank, Albany. Mech. & Farm. at do. Bank of Albany. Commercial, at do. Ncwburgh. Columbia, at Hudson. Orange County. Cattsliill. Troy. Farmer'e, at Troy. Mohawk. Utica. Uitca Branch. Geneva. Auburn. Ontalio. lCentrai. 'Chenango. Rochester. Newburgh brancn, Ithica. Washington & Warren. Jefferson County. Niagara. tPlattsburgh. fGrcen County.\n\n ",
+            "legibility": "Illegible",
+            "full_article_id": 45,
+            "reading_order_id": 0
+        },
+        {
+            "id": 48,
+            "bbox": {
+                "x0": 4105,
+                "y0": 2459,
+                "x1": 4616,
+                "y1": 2512
+            },
+            "class": "headline",
+            "raw_text": "Ba1rk NOtR EahIe.",
+            "legibility": "Legible",
+            "full_article_id": 45,
+            "reading_order_id": -1
+        },
+        {
+            "id": 52,
+            "bbox": {
+                "x0": 1189,
+                "y0": 4987,
+                "x1": 2064,
+                "y1": 5208
+            },
+            "class": "article",
+            "raw_text": "there should be more than one Ceese deaer the snb. scriber will give all who may be disposed to favour him with their business, every encouragement in that line which prudent man can do.\n\n E. H. DENISON,",
+            "legibility": "Legible",
+            "full_article_id": 53,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                24,
+                0
+            ],
+            "headline": "STAGE NOTICE. Arrangement of the fol-\n\n IO2ri21D I12aps.",
+            "article": "FOX ALBANY AND HUDSON.\n\n Leaves Litchfeld daily Sundays excepted,l at O. clock in the morning, arrives at each place af ternoon and returns from each place in the same order.\n\n LITCHFIELD AND NEW-HAVEN.\n\n Leaves Litch6eld for New-Haven daily Sundays excepted) at o'clock in the morning; Monday, Wed nesday and Friday, by BethIem, Woodhury, Southbu- ry Oxford, Humphreys-Ville and arrives in N Haven at P. M.; Tuesday, Thursday and Saturday, by Watertown, Waterbury, Salem-bridge, and Wood- bridge, arrives at N. Haven at 9 F. M; and returns from N. Haven in the same order.\n\n LITCHFIELD AND HARTFORD.\n\n Leaves Ltchfeld for Hartford, Tuesdays, Thurs days and Saturdays at o'clock in the morning thro' Harwinton, Burlington, Pennington and West-Hart- ford and arrives in Hartford at o'clock F. M. Re- turns from Hartford Mondays Wednesdays and Fri days at o'clock in the morning.\n\n LITCHFIELD AND NORWALK.\n\n Leaves Litch6eld for New-Mlford, Danbury and Norwak every Friday afternoon arrival of the Stage from Hartford, through Bradeys-Vie, New Preston, New-Miford, Brookfeld, Danbury, Reading, and Wilton, and arrives at Norwak on Saturday at 12 o'clock at noon. Returns from Norwak Sundays, arrives at Ltch6ed Monday afternoon.\n\n This Line intersects the Steamboat at Norwalk and arrives i'll N. York same night.\n\n The Steam-Boat leaves N. Haven for N. York eve- \" evening at o'clock.\n\n The Steam Boats leave Hartford for N. York Mon days, Wednesdays, Thursdays and Saturdays, at II o'clock A. M.\n\n For information passage in the above Lines ap- ply to J. PARKS. Litchfeld, June II, 1897. tf52",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2104,
+                    "y0": 908,
+                    "x1": 2967,
+                    "y1": 1111
+                },
+                {
+                    "x0": 2086,
+                    "y0": 1139,
+                    "x1": 2978,
+                    "y1": 2512
+                }
+            ],
+            "bbox": [
+                2086,
+                908,
+                2978,
+                2512
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-06-28_p4_sn82014309_00414182926_1827062801_0204.json"
+        },
+        {
+            "object_ids": [
+                27,
+                1
+            ],
+            "headline": "RHcoMnrHMDAT1oNs",
+            "article": "FROM cLEEGYMEN OF VARIOUS DENOMINATIONS.\n\n From the Rer. Dr. GriEa.-\"I esteem Dr. Scott's Family Bible, emnently calculated to promote the cause of truth and pety. It scarcely possible tor me to read daily the Notes and Observations with out becoming wiser and better man.\"\n\n Rev. Asa Eaton, pastor of Christ Church, Boston. TO POSSESS For the of your undertaking you have my best wishes and fervent prayers\"\n\n Rev. Dr. Joshaa Bates, President of Middle6u,y Couege.-\"Sir am pleased with your proposals for publishing Scouts Family Bible, and sincerely wish you success in your undertaking. have doubt tha, twill be well patronzed by the religious public\n\n Rev Daniet Sharp, pastor of the Sd Baptist Church. BOstoa-\" The more it is read by pious Christians the more extensive will be it's circulation.\n\n Reu. Dr. BGLdtcia, late pastor of the 2d BaptiSt CRGrh, Bosfon.\"I feel free to say that in my esti- mation deservedy ranks among ablest and best Commentaries. An the leading doctrines of Chris tanity as professed and maintained by many of the most eminent Reomers are in my judgment very hap piiv illustrated and enforced\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3052,
+                    "y0": 6028,
+                    "x1": 3788,
+                    "y1": 6087
+                },
+                {
+                    "x0": 2977,
+                    "y0": 6104,
+                    "x1": 3869,
+                    "y1": 7025
+                }
+            ],
+            "bbox": [
+                2977,
+                6028,
+                3869,
+                7025
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-06-28_p4_sn82014309_00414182926_1827062801_0204.json"
+        },
+        {
+            "object_ids": [
+                36,
+                3
+            ],
+            "headline": "THE NEW-YORK JOURNAL OF CoMMERCl",
+            "article": "AA1C 4NAA\"-1S SAskA SOOASANAA OC SOINMELACE,\n\n Has been determined on by large number of lib- eral gentlemen of that city, and is to be edited by the subscriber, with associate of distinguished literary attainments. It is to be DAILY MORNING PAPER de- voted principally to commere and manufactures but including politics, literature, and whatever else that may be Interesting to intelligent of business Ad- vertisnens for the theatre, of lottery tickets and of business be transacted the Sabbath, will be ex- cluded. It is intended that the Shipping List shall not be surpassed in the country, especially will thorough attention be paid Eastern vessels than is usual in NewYork. A price current will be inserted as soon arrangements can be made to furnish one, which can be relied upon. The price is the same as other New-Yor papers, $lO--A Journal will be is- sued SEMl-WEEKLY, containing the principal matter, at $4 To companies subscribing six papers seventh will be included gratis.\n\n The gentlemen who have determined upon the es- to any pccuniary advantage. They have higher motive and which has long interested the feelings of fmoral and religious men in Boston, New-York and other cities Theyare ready to sacrifice money, to any amount which may be required. But it is ev- dent that to accomplish any valuable purpose wide circulation must be had. good subscription list has been obtained in New York; but the enterprise is new m its character and hps to contend with many and powerful obstacles. To overcome these, no labor nor expense oRthe part of the projectors the Ed ifors will be spared And they invite the hearty operation of all those who would sustain the business of the country and it's civil and literary institutions, aEty.\n\n The publication will be commenced as soon as the details of preparation can be arranged. And it is re- quested that names should be returned soon without the payment of postage, to Arther Tappan Esq., New York. DAVID HALE.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2098,
+                    "y0": 4767,
+                    "x1": 2938,
+                    "y1": 4814
+                },
+                {
+                    "x0": 2080,
+                    "y0": 4796,
+                    "x1": 2967,
+                    "y1": 6284
+                }
+            ],
+            "bbox": [
+                2080,
+                4767,
+                2967,
+                6284
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-06-28_p4_sn82014309_00414182926_1827062801_0204.json"
+        },
+        {
+            "object_ids": [
+                43,
+                33,
+                4
+            ],
+            "headline": "SHARON VALLEY STORE.\n\n\\ HE Subscriber is now opening at his Store in SHARON VALLEY an extensive assortment of DRY GOODS, HARDWARE, CUTLERY, CROCKERY,\n\n GROCERIES, PAINTS,\n\n DRUGS & MEDICINES.",
+            "article": "Attention is inuited Co the toocing articles,\n\n prising part ot' his assortment; Black Italian Lustring. Black Gros de Naples. Fancy colourd, plaid, and strp'd do. Black Levantine Fancy coour'd, plain & stripd do. Black India Satin. Satin Lavantine. Snchews, Lustrings and Sarcinets. Fancy Barrage Dresses. Barrage, guaze, and silk dress Handkerchefs Black and White Silk Hose. Cotton do. Ladies' and Gentlemen's Gloves Black Bombazine for Ladies' Dresses. French do. for Gentle mems wear. Black and Scarlet MERINO SHAWLS. Large fancy imitation do. Prussan do. Fine Irish Linen, Mddling do. Wide Irish Sheetng. White Brown, Mixd, and strip'd Linen Drilling. Cotton Drilling Long Lawns; Linen Cambricks' Black and White LACE WELLS, from 3 to 8 dolls. Silk Umbrellas and Parasols. SHELL COMBS, large and small sizes c,,;cocs light; dark and fancy, imported; domcs- O\"ieoe'' ] tic blue and other colours very cheap Furniture Cacoes. Buff stripd & shaded Ginghams. Verona stripe do. handsome for Ladies' Dresses. Domestic Plaids and Stripes superior style. Bleach'd and unbcach'd Shirtings Cambrick Muslins. Sarcinet do. Book do Plain and 6gurd Swiss do. Plain and figur'd Scotch Mul. Nankeens for Ladies' Dresses. Furniture Dimty. Cambric do TLADIEs' LEGHORN HATs-ycry inviting in\n\n quality and price. BROAD CLOTHS, fashionable olive & mix d, \" middling and common. Dlack, Dluc ana mix d. Satinets. Elegant HEARTH RUGS. Handsome PAPER HANGINGS, & Bordering. TEA WATERS, and many fancy articles of dard-\n\n ware and Cutlery China TEA SETTS, Liverpool do. Cut Glass Decanters and Plumbers. Common crock cry, full assortment SUGARS, brown, loaf, lump, and white powdcr'd. TEAS, Hyson young hyson, skin, and Tonkay. Best St. Croix RUM, Holland GIN, Madeira, Tene-\n\n rifle, Colmana, and Malaga WINE and all con-\n\n mon articles in the Grocery Line. Old Jamaica Spirits for Medicine. Madeira Wine for do. Porter, in bottes for do.\n\n General Assortment of\n\n DRUGS AND MEDICINES, of best quality, inviting the attention of Physicians and OIhrrp.\n\n u The whole Stock of the Subscriber is new and just purchased at the lowest AUCTION prices, & lowest PACKAGE prices of the Importers in the City of New-York. A continual supply of NEW GOODS will be received from his Agent in New. York, to replensh his Stock with such articles as may be desirable to his customers. PLEDGE is here given to sell as low as Goods oi equal quality are sold in Duchess or Litchfield Co., for ready pay in Cash. or Country Produce.\n\n All persons who desire to purchase Goods of first quality, and Very Cheap, respectfully invited to call at his Store and look for themselves.\n\n AARON READ. SHARON, JUNE l2, 1927.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3000,
+                    "y0": 931,
+                    "x1": 3875,
+                    "y1": 1001
+                },
+                {
+                    "x0": 3000,
+                    "y0": 1018,
+                    "x1": 3881,
+                    "y1": 1406
+                },
+                {
+                    "x0": 2995,
+                    "y0": 1411,
+                    "x1": 3887,
+                    "y1": 4114
+                }
+            ],
+            "bbox": [
+                2995,
+                931,
+                3887,
+                4114
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-06-28_p4_sn82014309_00414182926_1827062801_0204.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "h is salea A New osaeans paper of she IFtA uiai' no thss Ssur ouage ehisfs saA eve kmsles scco@pa- panied hy an isscrprsser, had arrived thcre with the intention Co proceed b England.\n\n William W. WOlsey Esq. TFeaarer of the AmeEi- caa Bible Society, acknowledges the receipt Of I3- 773 dollars Sl cents during the mOnih of April, via For donations S269S 6i cents For contributions OD the debtO the SOCiey's house, e9aSO; For bibles and testamens S6l77 s7 cents: As permanent loans, interest payable in bibles and testaments, e247O.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3897,
+                    "y0": 289,
+                    "x1": 4795,
+                    "y1": 816
+                }
+            ],
+            "bbox": [
+                3897,
+                289,
+                4795,
+                816
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-06-28_p4_sn82014309_00414182926_1827062801_0204.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "Ths lsa eS NKw HARacSS.--lR a cig puPsr VI ohsSye tAe GoIlo~iag;\n\n Notice is hcrcly giVcn, not a Srus' Robert Owen On my account, as [ am determined not so pay any OG his debss or in any way whatever be rePosble tor any transactions be may have done may attempt 'O do in my name. WILLIAM MACLURE.\n\n \"NEw HARMONY, 3Olh April, 1927.\n\n Mr. MacIure is an enthusiast upon the subject of cd- ucaton He has made it his study in Europe for ma ny years and from the above may be inferred the re- suit of his experiment upon O'OenisD. He has been munifcent contributor and valuable books, and costly European minerals, to American scientific so- ceties and is the President of the American Geolo- gcal Society,\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1178,
+                    "y0": 306,
+                    "x1": 2070,
+                    "y1": 1048
+                }
+            ],
+            "bbox": [
+                1178,
+                306,
+                2070,
+                1048
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-06-28_p4_sn82014309_00414182926_1827062801_0204.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "A eoSumoash SM. H.l paper oI Saturday lass say --s A whsle supposcd e be hsswCea @ and 90 sccs long, came up river ThnEsaay afternoon. EIc has keps ssOus nOssaDoush Brdgc, spParensly afraid Co repass t. and has afforded has pursacrs 6ae chase. He stands but poor chance sO regain hs native ocean,\n\n The London Court Circular of April l7, announces that in addition to the other reSgnaiiOns of his jesys cabinet, and household, the Cook and Master Baker, and the Royal Chambermaid and Laundress, had resigned The morning Chronicle adds\" we trust difficulty will arise in filling up these ofces",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2086,
+                    "y0": 300,
+                    "x1": 2967,
+                    "y1": 886
+                }
+            ],
+            "bbox": [
+                2086,
+                300,
+                2967,
+                886
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-06-28_p4_sn82014309_00414182926_1827062801_0204.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "laae sCica'ihe Journa saARcs, thas whc ths wosa. aea were employed n conssEnctins sume sa6mazine ~Orks. Oa PemOush IEsnsl the rays Of thc sua pas sca through Se convex gass Of the diving bc, which was suEk s5 feet below the surface of the water, actually sct fire to a hat belonging to one of tho woTkmen.\n\n Potter, the ventrlOqui and juggler, has been mule ted in the small Of $4OOor practising has cra O boiling eggs in his hat, making guneas of haPennies and delivering lectures noses in Providence, R. without the lOrmaliy of license from the Town Council",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2983,
+                    "y0": 295,
+                    "x1": 3875,
+                    "y1": 897
+                }
+            ],
+            "bbox": [
+                2983,
+                295,
+                3875,
+                897
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-06-28_p4_sn82014309_00414182926_1827062801_0204.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "4TY CT cUrS ON RELIGIOUS TRACTS.\n\n 10 a large manufacturing town in tAe West Riding. Yorkshire. some piOus persons are in the habit of leaving tracts at the dwellings of the poor. This is done every Sunday mOrn- ing, and the same tract is deposited at each habitatiom. On ohe OccasiOn, the narrative of\" WILLIAM KELLV;\" the frOntispiece of which represents the subject of the story, sneaking hare headed from the presence of a storming hostess, who had seized his hat as security for tavern score. Such circum- stance actually did take place, and proved tine turning point of his life, who was after wards appropriately designated, The happy Christian\" The disgrace of the incident induced sober reflection, sober reflection Is- sued in repentance, and repentance in one of the most pleasing specimens oflowiy piety that modern days can boast.\n\n This tract thus embellished was left among other houses at the house of one of the most proAigate drunkards in the place; and to him strange to say circumstance precisely sim liar to that which arrested Kelly in his career, had occurred the evening before. His hat be- ing detained for debt by the landlady of neighbouring ale house, he ~h had hastened homeward, bare headed, incensed and asham- ed, and had retired to rest raging like she bear robbed of her young. Sunday morning found him sullen and purturbed; he hurried down stairs half dressed, and flung himself ln- to a chair, which stood beside the breakfast table-when To, the first object that caught his attention was the frontispiece 1.-the tract which we have been describing, placed we will not say accidentally, full in his view. Glancing at it, with an eye of fierceness, he seized it, and striking the table with his fist, at the same time uttering fearful impreca- tion, exclaimed, \"Those villanOus Method jsts tiff they hav'nt got me already painted up to be the laughing stock of the whole town; here am without a hat. I'll be even with them.' Thus he raved till the tempest ofhis ire had somewhat exhausted itself in oaths and menaces; ; then prompted by curi- osity, he thought he would ascertain what was said concerning him. A near inspection of the object of his wrath Immediately cor rected his preposterous error but his curios- ty having beeu excited, he peruscd the little. narrative, and the perusal was productive of the happiest effects. He resolved in the strength of God that he would reform, he re- paired to place ofpublic worship, began to search the Scriptures, and exhibited every symptom of real repentance. He is now if rightly recollect, in the employ of the gen tleman who related the InGidont, and from being disgrace to society, a curse to his neighbourhood, and scourge to his family, he has become one of the kindest of neigh bours, faithfulest of servants, best of fathers, and soberest of men.-Lond. Tract Mug. for ADrI",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 269,
+                    "y0": 312,
+                    "x1": 1167,
+                    "y1": 3437
+                }
+            ],
+            "bbox": [
+                269,
+                312,
+                1167,
+                3437
+            ],
+            "full_article_id": 10,
+            "id": "10_1827-06-28_p4_sn82014309_00414182926_1827062801_0204.json"
+        },
+        {
+            "object_ids": [
+                10
+            ],
+            "headline": "",
+            "article": "MUSEUM cf Foreign Literature and Science.\n\n for June 1927, is just published, and for\n\n sale at the Litchfeld Bookstore, where\n\n the back numbers can be had. r CONTENrs.--Portrait of Dr. Helmuth.-- Kings Australia. The Par Home. The last days of Kant. The things that change. A chapter on Dreams. Orator Henley. His tory of Barbadoes. Henry Cornelius Agrip- pa. SimiIitudes. Oxford edition of Sopho- cles. The black Watch. Buckingham's Mesopotamia. Vernal Stanzas. The twins of I.amcrton. General Caulincourt. MISCELLANEOUS SELECTIONS. LITERARY\n\n INTELLIGESCE. Sc.\n\n Just Received, Slliman's Journal of Sci ence. No. 2, fer March, April, and May, 1897. No. 9, Vol. I. American Quarterly Review Subscriptions received at the Litch6eld Bookstore.\n\n Litchfcld. June IA 1897. 5e",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3891,
+                    "y0": 6092,
+                    "x1": 4795,
+                    "y1": 7030
+                }
+            ],
+            "bbox": [
+                3891,
+                6092,
+                4795,
+                7030
+            ],
+            "full_article_id": 11,
+            "id": "11_1827-06-28_p4_sn82014309_00414182926_1827062801_0204.json"
+        },
+        {
+            "object_ids": [
+                50,
+                28,
+                11
+            ],
+            "headline": "Gdllduten.\n\nTailoring Business. EDWARD SCOTT",
+            "article": "WOULD inform the inhabitants of Litchfield coun. ty that he has taken the stand formerly occupied by Wm. H. Adams where he intends carrying on the TAILORING BUsINESSin in all its branches. Peo. pie who feel disposed to favor him with their custom may rest assured that their work will be done in the first style, and in a workmanike manner.\n\n Particular attention will be paid to Cutting.\n\n E. SCOTT. Litchfeld, June, 1927. l",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1484,
+                    "y0": 5236,
+                    "x1": 1752,
+                    "y1": 5283
+                },
+                {
+                    "x0": 1236,
+                    "y0": 5600,
+                    "x1": 2018,
+                    "y1": 5769
+                },
+                {
+                    "x0": 1178,
+                    "y0": 5785,
+                    "x1": 2058,
+                    "y1": 6249
+                }
+            ],
+            "bbox": [
+                1178,
+                5236,
+                2058,
+                6249
+            ],
+            "full_article_id": 12,
+            "id": "12_1827-06-28_p4_sn82014309_00414182926_1827062801_0204.json"
+        },
+        {
+            "object_ids": [
+                15
+            ],
+            "headline": "",
+            "article": "Bsig the eleventh American Edition, and complete q, all respects aS the best London Edition. VVHE following MT. S. T. Armstromg's terms as published in the March No. Q827) of the Mis- sionary Herald.\n\n \"In sheep binding the price is S24 and in cali binding $50 from which prices very liberal DIs- COUNT is made to agents and others who buy to sell again. The work IS comp. ised in six volumes royal octave and we'll bound and lettered it will be sold as cheap, in proportion to the size of the pages, as the publications of the American Tract Society sod EVERY FOURTH SET GRATIS! That is, any person who takes three in sheep binding and pays for them the sum of $72 shall be entitled to set gratis if the sum of $72\n\n is divided equally all the four sets, it will reduce the amount payable for each of the four sets to $18\n\n instead of4 being discount of 5 per from the retail price, discount is made in te same psepor- tion on calf binding aud on ANY NUMBER OF COPIES, atOOe jour, ho'oever targe.\"\n\n U The price at the LITCHFIELD BOOK STORE is $2l per single set, and SIS per set where four or more are taken in company.\n\n 'The work contains the Old and New Testaments with copous Marginal References; also valuable Notes explanatory of the Scriptures and, lastly, the Pract cal Observations. The work is go generally known to all who acquainted with the publications of the present day, that is deemed unnecessary to enlarge upon it's contents\"\n\n The first edition of this work, (the constant and in- creasng sale of which proves the high esteem in which 1t IS deservedly hed begun in 1788 and published in London, in numbers, consisted of 5000 copies the second m l8O5 of2 OOO the third in 18lO 900; the fourth in 1872 of and the edition is Stete ope, the largest work ever submitted to that process. Besides these, eight other editions, consisting, alto gether, of 2525O copies, were printed in the United States of America, from 1908 to Recorder.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2983,
+                    "y0": 4420,
+                    "x1": 3887,
+                    "y1": 6006
+                }
+            ],
+            "bbox": [
+                2983,
+                4420,
+                3887,
+                6006
+            ],
+            "full_article_id": 16,
+            "id": "16_1827-06-28_p4_sn82014309_00414182926_1827062801_0204.json"
+        },
+        {
+            "object_ids": [
+                46,
+                16
+            ],
+            "headline": "NOTICE. MERRIMAN wO,",
+            "article": "DEUBEN HERMAN would inform lN the public that he has opened a Shop in Litchfeld, a few rods east of the Meeting house at the Stand lately occupied by l. Bunce Esq. where he will attend to the business, of Clock and Watch repairing, and Silver Smith, and keeps on hand an assortment of such ar ticles as are usually called for in his line, as low as can be bought elsewhere, ,ameng which are Silver Spectacles, Spoons, Jewefry, s1c. also few first rate Brass eight day Clocks. He solicits share of the public patronage.\n\n As DENTIST he will set teeth in the best manner for those wbO may favour him with their custom.-Cash paid for old Silver.\n\n Litchfeld, May 80, 1897. 6w5O",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1195,
+                    "y0": 1990,
+                    "x1": 1862,
+                    "y1": 2089
+                },
+                {
+                    "x0": 1184,
+                    "y0": 2007,
+                    "x1": 2076,
+                    "y1": 2755
+                }
+            ],
+            "bbox": [
+                1184,
+                1990,
+                2076,
+                2755
+            ],
+            "full_article_id": 17,
+            "id": "17_1827-06-28_p4_sn82014309_00414182926_1827062801_0204.json"
+        },
+        {
+            "object_ids": [
+                25,
+                17
+            ],
+            "headline": "PROBATE NOTICE.",
+            "article": "\\ HE Court of Probate for the district of Sharon will be holden for the year ensuing, at the Probate Office in Salisbury, on the first Tuesday of every month, and at such other times the Judge of said Court may be otherwise discngaged.\n\n SAMUEL CHURCH, Judge\n\n efProbats tor Sharon District. Salisbury, June Is, 1897. 1",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2196,
+                    "y0": 6306,
+                    "x1": 2857,
+                    "y1": 6371
+                },
+                {
+                    "x0": 2080,
+                    "y0": 6393,
+                    "x1": 2955,
+                    "y1": 6776
+                }
+            ],
+            "bbox": [
+                2080,
+                6306,
+                2955,
+                6776
+            ],
+            "full_article_id": 18,
+            "id": "18_1827-06-28_p4_sn82014309_00414182926_1827062801_0204.json"
+        },
+        {
+            "object_ids": [
+                18
+            ],
+            "headline": "",
+            "article": "se IGr ds gSHd of yDn Sk or TEA w pound a w eas as san be G Bought in Hap ford Lump SUGAR, best quality, for l6 cts per ID. by the lump,\n\n TAVERN KEEPERS, and erures. can be spnpled with all kinds of Groceries at low prices. AeoU N,t- megs, Cloves, Cinnamon and Perlash, Mackerel in bls. and half bls Also, great assortment Nova Sco- tia, blue sheet fine grit Grnd-stones, warranted ney. to 28l lbs. Also for Builders, A. 10, l2 and 20d. cut Nails, made of tough ron Best cast steel Plain Irons, hand and pannel Saws steel Gimblets, fee, R1les' iron Squares, polished steel nail Hammers rule joint Compasses, patent butt Hinges Screws, Brads, and door trimmings of most all kinds. Best London White Lead, Red Lead, Venetian Red, Span- ish Brown, Spanish White, Crome Yellow Prussian Blue, Spirits Turpentine Lintseed and Whale Oil, and Brushes.\n\n Also, for House-keepers good assortment of Loo king Glasses and Supportcrs,-Engls Flat-irons,- Brass Kettles,-Knives and Forks,-good common Spoons,-silver plated do. of both kinds, and fine assortment of Silver Tea and Table Spoons, Sugar Tongs and salt spoons these articles of sil- plate will be kept constantly hand, and at pri ces without any reserve as low as can be bought in Hartford or NewYork, and all warranted good silver by myself and the makers, whose names are stamped upon them. A good assortment Iron Pots, dish ket- tes tea Kettles, new fashioned Spiders bake Pans, Gridles Skillets screw bottom'd and brass Candle sticks, and patent Furnaces,\n\n A fine assortment New-York HATS, for old men, young men, and boys. Large BIBLES from Ills. to\n\n \n\n A good assortment of heavy jet black and blue black Bombazines, very cheap for dresses and long shaws; cheap Flowers and Wreaths bonnet and cap Ribbons, blue Broad Cloths very cheap;, very wide Bang-up Cord, real Russia Sheetng, Silk, Twist padding and other trimmings for Taors livery superior quail ity, and large supply of other Goods much too merous to mention any advertisement. Soon expec- ted brass Andirons, Shovels and Tongs, wrought Andirons, andmany other articles to make a greater variety of good common furniture for house keeping than has been fonnd in any store in the county within m yknowledge!\n\n EAS it is necessary for the Norfolk Farmers that there should be than Cheese dealer, the sub scriber will give all who may be disposed to favour him with their business, every encouragement in that line which prudent man can do.\n\n E. H. DENISON,\n\n GNamte0,\n\n z TONS good HAY,-on span good low price O Team HORSES,-on good Lumber Wagon and Harness.\n\n ALso to contract for 1900 Casks LIME, to be burnt after the middle of September. Goods will be advan- ced before hand and some money on the delivery of the Lime. l.. II. DENISON. Norfolk. June 9, 1897. 4w52",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1184,
+                    "y0": 3130,
+                    "x1": 2070,
+                    "y1": 5590
+                }
+            ],
+            "bbox": [
+                1184,
+                3130,
+                2070,
+                5590
+            ],
+            "full_article_id": 19,
+            "id": "19_1827-06-28_p4_sn82014309_00414182926_1827062801_0204.json"
+        },
+        {
+            "object_ids": [
+                31,
+                19
+            ],
+            "headline": "NOTICE.",
+            "article": "w the subscribers being appointed by the Hon. Court of Probate for the district of Ltchtied Com. missioners to examiue and adjust the claims of the Creditors of the Estate of\n\n ASAPH WRIGHT, late of Goshen deceased, represented insolvent and six months from date being allowed for the creditors We do hereby give notice that we sha attend to the duties of our said appointment, at the late dwelling house of the deceased the first Mondays of August and December, at o'clock A. M. on each of said days. .t7 '.~-- :\n\n DAVID WADHAMS.)\n\n ERAsTUs LYMAN, Commissioners. Goshen, June 2l, 1927. l",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1461,
+                    "y0": 6271,
+                    "x1": 1775,
+                    "y1": 6336
+                },
+                {
+                    "x0": 1172,
+                    "y0": 6341,
+                    "x1": 2058,
+                    "y1": 7001
+                }
+            ],
+            "bbox": [
+                1172,
+                6271,
+                2058,
+                7001
+            ],
+            "full_article_id": 20,
+            "id": "20_1827-06-28_p4_sn82014309_00414182926_1827062801_0204.json"
+        },
+        {
+            "object_ids": [
+                21
+            ],
+            "headline": "",
+            "article": "Rec. D.. Dasa.-\" Dr. ScOtt's Commentary, has merted and obtained distinguish ed popularity. The spirit which pervades the work is excellent. is tho meek, aectionate, healing yet faithful spirit of the Gospel.\n\n Beside tke GbOve MANY OTHERS of the most iu- RuentiaL aOngt the Clergy hGUe recOHDeded tis 'OOr the JoiiOaUisg attracts hO'OeUer from Mr. EmerSons letter oM point out the adUGntages peculiar Co the OC- TAVO edition.\n\n Rep. Joseph Emerson, Author Of the EUGHgeIicM Primer\" Six editions of this great work have bees published in this cOuntry.-I have had considerable opportunity to examine and compare specimens of all these editions, and decidedly of opinion, that most people would greatly prefer ARMSFRONG'S EDITION, now publishing in Boston. As the fold is octave, the volumes not nearly so large as aae quarto editions but te paper finer and winter; the execution handsOmer; the print to appearance nearly as large; and it be turned to the light with much less inconvenience, it may perhaps be read with equal and pleasure. It has the advantage of be- ing cheaper less cumbersome, and more elegant.\n\n S'ARMSTRONG'S EDITION, therefore, is the one which most highly recommend for the use of families. It is peculiarly calculated supersede the of large Bible; and in two respects it will answer better purpose merely for reading the scrip tures as it is less cumbersome, and may be read by several persons at the same tine.''",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3903,
+                    "y0": 850,
+                    "x1": 4807,
+                    "y1": 1962
+                }
+            ],
+            "bbox": [
+                3903,
+                850,
+                4807,
+                1962
+            ],
+            "full_article_id": 22,
+            "id": "22_1827-06-28_p4_sn82014309_00414182926_1827062801_0204.json"
+        },
+        {
+            "object_ids": [
+                41,
+                23
+            ],
+            "headline": "RUN AWAY",
+            "article": "n FROM the subscriber on or abou,\n\n ER / the 21st of April an indented appren-\n\n M&B9 tce boy to the Shoemaking Business, N/ by the name of DANIEL BLISS, a.\n\n N/ ged 20-about 5 feet inches in height, AneA rather of strong build, light complex ion, blue eyes and thin face. The subscriber has heard of him in Waterbury at work at the Button Factory---and in New-Haven at work at his trade.-- This is to forbid all persons harborng trusting or em ploying said boy on penalty ofthe law.\n\n Litchfeld, June 17, 1897.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2335,
+                    "y0": 2534,
+                    "x1": 2741,
+                    "y1": 2598
+                },
+                {
+                    "x0": 2092,
+                    "y0": 2592,
+                    "x1": 2972,
+                    "y1": 3102
+                }
+            ],
+            "bbox": [
+                2092,
+                2534,
+                2972,
+                3102
+            ],
+            "full_article_id": 24,
+            "id": "24_1827-06-28_p4_sn82014309_00414182926_1827062801_0204.json"
+        },
+        {
+            "object_ids": [
+                26
+            ],
+            "headline": "",
+            "article": "3a1lk N\n\n Bills of the following ment or deposit at the PHI The list will be corrected\n\n NEW-HAMPSHIRE. Cheshire Bank. Concord. Merrimac, at Concord. Exeter. New-Hampshire. Union. Strafford. Portsmouth. Rockingham. Grafton. Amherst.\n\n MASSACHUSETTS,. Boston Banks. Pittsfeld Bank. Agricultural, at do. Farmers, at do. Housatonic. Hampshire. Greenfield. Sunderland. Belchcrtown. Wcare. Mcndcn. Springfield. Westfield. Beverly. Bedford. Commercial, at do. Salem. Commercial, at do. Mechanics, at dc. Dedham. Essex. Gloucester. Lynn Mechanics. Franklin. Marblellead. Merchants. Merrimac. Nerburyport. Plymouth. Pawtuxct. Taunton. Union. Worcester. Falmouth. Andover. Pacific, Nantucket. *Phoenix, at do. \"Manufac. & Mec. at do,\n\n RHODE-ISLAND. Eagle. Bristol. Commercial. Frceman's. Agric'al. & Manufac. Rhode-Island. *Burrillville. Cranston. Exchange. Franklin. Kent. Landholders'. Manufacturers. Merchants. Newport. N. E. Company. Narragansct. N. Kingston. Mount Hope. Pautucket. Providence. Phoenix. R. I. Union. R. l. Central. R. Williams. Smithfeld Union.\n\n Do. Exchange.\n\n Do. Lime Rock. Scituate. Union. Washington. Warwick. Hope. Village. Cumberland.\n\n CONNECTICUT. Norwich. Bridgeport. New Haven. Mechanics' Hartford.\n\n do. Phoenix. Middletown. New-London.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3909,
+                    "y0": 2476,
+                    "x1": 4332,
+                    "y1": 5977
+                }
+            ],
+            "bbox": [
+                3909,
+                2476,
+                4332,
+                5977
+            ],
+            "full_article_id": 27,
+            "id": "27_1827-06-28_p4_sn82014309_00414182926_1827062801_0204.json"
+        },
+        {
+            "object_ids": [
+                45,
+                29
+            ],
+            "headline": "CUTLER Y,",
+            "article": "all which he offers for sale at wholesale, at the New-York prices, or the most accOmmo- dating terms, for Cash or approved Credit.\n\n -ALSO-\n\n On hand constant supply of Tin'd Plates, of all the different qualities, and complete assortment of IRON WIRE of all sizes from No. o to %. Hartford. Conn., May 80, 1927. 5O4w",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1438,
+                    "y0": 1504,
+                    "x1": 1833,
+                    "y1": 1563
+                },
+                {
+                    "x0": 1189,
+                    "y0": 1567,
+                    "x1": 2076,
+                    "y1": 1974
+                }
+            ],
+            "bbox": [
+                1189,
+                1504,
+                2076,
+                1974
+            ],
+            "full_article_id": 30,
+            "id": "30_1827-06-28_p4_sn82014309_00414182926_1827062801_0204.json"
+        },
+        {
+            "object_ids": [
+                30
+            ],
+            "headline": "",
+            "article": "Current in New-York at discount of 1 or 2 per. cent; but not bankable here.\n\n Broken, and value uncertain.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3897,
+                    "y0": 5971,
+                    "x1": 4789,
+                    "y1": 6076
+                }
+            ],
+            "bbox": [
+                3897,
+                5971,
+                4789,
+                6076
+            ],
+            "full_article_id": 31,
+            "id": "31_1827-06-28_p4_sn82014309_00414182926_1827062801_0204.json"
+        },
+        {
+            "object_ids": [
+                32,
+                35
+            ],
+            "headline": "CHARLES SIGOURNEY, H0rtfOrd, Connecticut,",
+            "article": "HAS imported this season by the Ships HI Corinthian, Pacific, and John Wells. arrived at New-YOrk from Liverpool snpe- riOr assortment Birmingham and Sheffield manufactures, among the latter is some un- commonly beautiful",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1224,
+                    "y0": 1076,
+                    "x1": 2029,
+                    "y1": 1216
+                },
+                {
+                    "x0": 1195,
+                    "y0": 1226,
+                    "x1": 2070,
+                    "y1": 1499
+                }
+            ],
+            "bbox": [
+                1195,
+                1076,
+                2070,
+                1499
+            ],
+            "full_article_id": 36,
+            "id": "36_1827-06-28_p4_sn82014309_00414182926_1827062801_0204.json"
+        },
+        {
+            "object_ids": [
+                48,
+                44
+            ],
+            "headline": "Ba1rk NOtR EahIe.",
+            "article": "DtR Eable. 3anks are received in pay ENIX BANK in this town. as occasion may require 1 Union. Stonington.\n\n Thames. Windham County. Fairfield County. VERMONT. Burlington. Brattleborough, Windsor. Rutland. Montpelier. Franklin, at St. Albans. iCaIadonia, at DanviEfe.\n\n MAINE, IWatervil.e. Augusta. Bangor. Bath.\n\n Portland. Cumberland. Gardiner. kennebunk, Lincoln. Saco. itCastine, uncertain. itWiscasset. do. tHallowell & Augusta. do. tKennebeck, do. 'tPassamapuody. do. NETWORK. N. Y. City Banks. Long Island bank. Dutchess County. Middle District. E.ansingburgh. Waterford. |St. Bank, Albany. Mech. & Farm. at do. Bank of Albany. Commercial, at do. Ncwburgh. Columbia, at Hudson. Orange County. Cattsliill. Troy. Farmer'e, at Troy. Mohawk. Utica. Uitca Branch. Geneva. Auburn. Ontalio. lCentrai. 'Chenango. Rochester. Newburgh brancn, Ithica. Washington & Warren. Jefferson County. Niagara. tPlattsburgh. fGrcen County.\n\n ",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 4105,
+                    "y0": 2459,
+                    "x1": 4616,
+                    "y1": 2512
+                },
+                {
+                    "x0": 4349,
+                    "y0": 2459,
+                    "x1": 4836,
+                    "y1": 4797
+                }
+            ],
+            "bbox": [
+                4105,
+                2459,
+                4836,
+                4797
+            ],
+            "full_article_id": 45,
+            "id": "45_1827-06-28_p4_sn82014309_00414182926_1827062801_0204.json"
+        },
+        {
+            "object_ids": [
+                52
+            ],
+            "headline": "",
+            "article": "there should be more than one Ceese deaer the snb. scriber will give all who may be disposed to favour him with their business, every encouragement in that line which prudent man can do.\n\n E. H. DENISON,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1189,
+                    "y0": 4987,
+                    "x1": 2064,
+                    "y1": 5208
+                }
+            ],
+            "bbox": [
+                1189,
+                4987,
+                2064,
+                5208
+            ],
+            "full_article_id": 53,
+            "id": "53_1827-06-28_p4_sn82014309_00414182926_1827062801_0204.json"
+        }
+    ]
+}

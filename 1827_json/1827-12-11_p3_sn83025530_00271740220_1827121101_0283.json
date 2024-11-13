@@ -1,0 +1,862 @@
+{
+    "lccn": {
+        "title": "Delaware journal.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2638-6917",
+        "lccn": "sn83025530",
+        "start_year": "1827",
+        "end_year": "1832",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [
+            "sn85042477"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn83025530",
+        "edition": "ed-01",
+        "date": "1827-12-11",
+        "pages": [
+            "seq-3",
+            "seq-4",
+            "seq-1",
+            "seq-2"
+        ]
+    },
+    "page_number": "3",
+    "scan": {
+        "lccn": "sn83025530",
+        "edition": "ed-01",
+        "date": "1827-12-11",
+        "page": "3",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-12-11/ed-1/seq-3.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-12-11/ed-1/seq-3/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-12-11/ed-1/seq-3/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn83025530/00271740220/1827121101/0283.jp2",
+        "height": 5584,
+        "width": 3632
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2527,
+                "y0": 4222,
+                "x1": 3343,
+                "y1": 5249
+            },
+            "class": "article",
+            "raw_text": "On Saturday 22d December next, at the house OF John\nNJ Smith sign OF the lndiae King in the Borough of Viii.\nmington at O'Clock in the afternoon, the following real\nEstate. - r\n\n\nNo lot Of ground, nineteen feet four inches 'front.'\ning on the north side of Market street, and between\n\n\nBroad and King Streets with small franc dwelling there\non occupied by Mrs. Bingham, and running through to\nShipley street. -\n\n\nNo. g. Adjoining MOL with two story brick dwelling,\nwith bake house and oven, in the cellar occupied by\n\n\nthomas Johnson The lot about IS feet front on Ship\nlev street. and running back the middle distance OF the\nsquare.\n\n\nNo s. two story brick house with frame kitchen and\nlot of ground containing three acres, bounded by Broad\nstreet the old Ferry road lands of Joshua Woston, and\nothers This property has been occupied Brick Yard\nfor many years. and possesses every convenience for car\nrying on the Brick making business upon large scae'\nand Is at present occupied by David c. Wilson.\n\n\nNo 4. lot of 81 acres Of excellent clay bounded by\nlands Of Esau Coke, John Morton and John Boser, with\nlane leading into Broad street.\n\n\nNo 5. A lot of Marsh, containing 24 acres, IN high\nstate Of cultyaton bounded by the Marsh road by lands\nIf Robert Porter John Way, Esq and Esau Coke.\nNo g. lot Of and containing about acres, bounced\nl,y the Wilmington and Chrsiana Turnpike, and Marsh\nDads by lands Of John Lyman and Esau Coke, beng TWO\n~ ~ ~ WILLIAM KIRK.\nDec. II.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2688,
+                "y0": 4140,
+                "x1": 3151,
+                "y1": 4210
+            },
+            "class": "headline",
+            "raw_text": "Public. Sale.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2518,
+                "y0": 3302,
+                "x1": 3326,
+                "y1": 4106
+            },
+            "class": "article",
+            "raw_text": "Died. at the residence of Mrs Mary Corse, in Kent\nCounty, Maryland, the first day OF November last, of\neuce and fortude, Miss REBEKAH RASIN, aged sixty\nnine years formerly resident of Wilmington, Del. where\nshe lived esteemed by all VINO had the pleasure Of her\nquantance This most excellent female adorned her sa\nton in society; she firm believer in the doctrines of\nthe christian religion and devoted through life the\nvice fher Kedeeer and the welfare and happiness of nu\nmeros relations and friends for whom she evncd the most\nanxious socitude. As friend she affectona,e and\nknd with gres, suav,y of united becoming\ncheeruness ard gravity Her hand reMy to obey\nthe dictates of and generous hear in liberal con-\ntrbutonsand very many the blessings and that\n|have followed her the tomb. But amongst her best\n\n\nes none shone conspicuous than that deep innate\nsentiment of piey which influenced her conduct during\nlong fe and in death enabled her to repose herself with\nlust confidence upon the merits of her Redeemer Ihs\nldispensaton of an awsc Providence has made vacuum\nin society easily repaired, and amongst her numerous\n\n\nfriends and relations who greatly bemoan their loss; and\nlong will the writer this small tribute cherish with live\ny sentiments the memory Of the deceased",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 2692,
+                "y0": 3263,
+                "x1": 3125,
+                "y1": 3299
+            },
+            "class": "headline",
+            "raw_text": "OEITUARY-Comn,uaicated.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1711,
+                "y0": 3241,
+                "x1": 2514,
+                "y1": 5266
+            },
+            "class": "article",
+            "raw_text": "We sometime since stated that, from personal\nwe were authorized to declare that great\nchanges in the public mind in this state taking\npIace in favor of the administration of the general\ngovernment. Proof this fact has been day after\nday laid before the public. In the county of Schuyl-\nxiii, at the last Presidential election, not a single\nuote uas given for Mr. ya'anas and it would have\nbeen difficult matter to nave found five men who\nwould have brayed the existing prejudice yopenly\ndeclaring themselves in favor of Mr. Adams. In\nthis same county an administration meeting was\ncalled to meet on the Oath ut. 1t appears to have\nbeen general gathering together of the talent and\nstanding of the county. The honourable Judges Yost\nand Raash, and Joseph Morgan, Esqs.. all prom-\nnent supporters of the administration Of this state\nwere called to preside over the meeting. John Ban\nnan, Mich'l Graeif. G. Leozer, Francis B. Nichols,\nand w. B. Potts, Esqs., were appointed commit\ntee to draft resolutions, &c.\n\n\nThe address and resolutions adopted. do great\nhonor to the meeting The sentiments expressed\nin opposition to the elevation OF Gen. Jackson, are\nof that firm serious, but dispassonate cast, which\nshow that deusion has yielded to the light of reason\nand evidence, and that the work Of conviction is\nthorough and well grounded.\n\n\nThe Legislature of PENNSYLVANIA met at Harris\nburgh ON Tuesday last. MIR. MAHoN was chosen\nSpeaker of the Senate, and Mr.. MIDDLEswARTH\nspeaker Oh Inc F1ouSc ol NepIeseutdtNco' ~ '\"\niority of AZ votes over VIM. McCREERy.\n\n\nThe Legislature of VIRGINIA met on Monday\nlast, at Richmond. Mr.. HoLr was reelected Spea.\nker of the Senate, and Mr.. BANKS Speaker OF the\nHouse of Representatives, without opposition.\n\n\nabundance of Doctors.-When we look abroad\nover our beloved and thrice happy country, and see\nevery village blessed with from three to dozen\nphysicians, and every city crowded with from nifty\nto five hundred Of these sons OF Escuaplus, we\nshould be apt to consider the Eastern salutatlon-\n6 May you Hve thousand years,' II adopted N\nthese United States, as no longer mere compll\nment, but on the contrary, should be at loss To\nconceive how it is possible to die short OF that Pc\nriod, except, indeed, where one is shot direct,\nthrough the head or through the heart, IN case\nof honour'' -, :.\n\n\nDR.. Rush predicted, some years ago, that the time\nwas fast approaching, when there should he no other",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1842,
+                "y0": 3197,
+                "x1": 2357,
+                "y1": 3242
+            },
+            "class": "headline",
+            "raw_text": "From the Pennsylvania Gazette.",
+            "legibility": "Questionable",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 873,
+                "y0": 283,
+                "x1": 1686,
+                "y1": 2055
+            },
+            "class": "article",
+            "raw_text": "I The Governor Of lower Canada has prorosued\nthe Provincial Parliament to the 5rd Of January\nthe House having adhered to their choice Of Speaker\nThis is though be the beginning serious trouble.\nWe notice, in the Baltimore papers, Prospectus\nof semi-wcelly Paper, to be published in the city\nof Baltimore by E.. p Roberts, and edited by Ed-\nWARD c. PINKNEY, and entitled The Marylander !;\nwhich we have read with much pleasure. In its\npolitics, it maniess decided preference of the civ\nil over the military candidate for the Presidency,\nlustrious statesman, John Quincy Adams\" Com\nmercial, Agricultural, and Mechanical affairs, as\nwe'll as Bellies Lettres, &c. &c. will receive all suit\nable attention. The Marylander is to be published\non Wednesday and Saturday, on an imperial sheet\nat Four dollars per annnm, payable in advance, and\nan extensive circulation is anticipated. The first\nnumber appearedon Wednesday last\n\n\nThe Editors of the Miners Journal give an\ncount Of the steam works in operation in the Pea\ncock mines, in the vicinity of Mount Carbon, and\nremark that anthracite must and will be used to\ngenerate steam in propeling boats, as much will be\nsaved by the use of coal.\n\n\nEnglish papers to the 3rd November have been\nreceived at New-York\n\n\nThe course of Turkey, was not fully manifest,\nthough some supposed she would resist the media\nton of the Combined Powers, at all hazzards.\n\n\nSpain continues in agitation-and there is still\nsome fighting between the rebels and the Kings\ntroops.\n\n\nSteam Boat built in England for the Greeks had\nbeen accidentally burnt in the Thames, and another\nhad foundered at sea.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1689,
+                "y0": 292,
+                "x1": 2493,
+                "y1": 2308
+            },
+            "class": "article",
+            "raw_text": "At a large and respectable meeting If lie citizens o\nWilmington convened Al the Town HALL, al 3 o'cpck, ?\nNJ Saturday the inst. pursuant to public Notice, io\nthe purpose uf forming IA Temperance socely, join\nBullock Jailed the Chair; and Robert Porter, chos\nen- Secretary.\n\n\nAfter which the meeting was addressed at considerable\nlength by Judge Hail. in which he took view Of the ex\ntent Of the vice of ntempeance in this country ard the\nmeans Which the temperate portion OF society possess\nentirely to eradicate least very materially 70 crai\nIFS baneful effects He then read to the Meeting form\nof CONSTITUTIONS proposed for their government which\nafter being discussed, adopted and as folows\nCONSTITUTION\n\n\nOf the Temperance Society of Wilmington and 1T\nvicinity.\n\n\nArt !. This Society shall be denominated \" The Tem\nperance Sociey of Wilmington and its vicinity\"\n\n\n1t shall hold meeting on the Sd Monday of July every\nyear\n\n\nIts officers shall be President, Vice Presidents\nCorresponding Secretary, Recording Secretary Treas\nand eight Directors. shall be the duty these Of\nfcers meet the 4th Monday OF December, March,\n\n\nJune and September and they may hold occasional meet\nngs Any five of them shall constitute Board with pow\nconduct all the concerns of the Society. They shall\neach annual meeting lay before the society Report Of\nits operations and concerns. .+\n\n\nThe officers shall be chosen Immediately this constu.\nton being established and at every annual meeting Of the\nsociety Vacancies may be filled by the Board,\n\n\nII The object this Society shall be osuppress intem-\nperance.\n\n\nIll., The Members of this society believe that any use Of\nsprituous liquors has tendency produce intempern\naud that no use these liquors can be considered safe\nOtne temperance, Wncn dStreSSee the community there\nrarely case hat has not arisen from what first\nmoderate and deemed prudent of arden spirits\nhe natural effect Of the of ardent spirits is to\ncome and destroy the very prudence, which, all admit\nnecessary to guard against the dangers arising from it.\nTherefore the Members of this society regard SOL\nemn duty to discountenance any of sprt liquors\nand they hold themselves pledged to each other and to the\ncommunity, which they live abstain altogether from\nthe use ofsptuous liquors and not to suffer them in their\nhouses any establishments Of which they have the\ntrout excepting only the of these liquors medi\ncine, when prescribed by physician.\n\n\nNv. This Society shall pond with Societies having\nhe object, in other paris Of the United States with\nview to obtain all the information, which thus be &C.\nquired to enable them more efecuay to promote their\nobject.\n\n\nv. Each member shall annually pay to the Treasurer\ncents fund to defrAy the expenses Of\nand in dusng the information which shall deem proper\nfrom time to time to lay before the public.\n\n\nVI. Every person signing this Constitution shall be a\nmember of the Society, so long as he complies with the\nfora uar1ic",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2505,
+                "y0": 283,
+                "x1": 3326,
+                "y1": 2766
+            },
+            "class": "article",
+            "raw_text": "ourlet to life but through the doors Of old age, to\nsuch perfection would the art of healing arrive, and\nIa wiser man than Rush, (but not half 80 good one)\nhas told US that in the multitude Of counselcrs\nthere is safety. Ergo. to say, '..may you live\nthousand years., is nothing more than saying SEM\nlploy the doctors and pay them well.''\n\n\nAs to what is said Of young physician, going to\nthe Westward to look for an opening, and finding\nthose Of his profession grew thicker he advanced,\nuntil at length seeing to doctors riding one horse,\nThe got discouraged and came home, it may be true\nIor not, we have seen nothing like it in New Eng\nHand. There are some, it is true, in this land OF\nhills and health, who cannot get horse to ride, but\nthen it is not for the want OF horses, but Of money\nto buy them.\n\n\nWe have made some estimate of the proportion Of\npractising physicians, in New England. to the rest\nof the inhabitants, and near as we can jump at the\ntruth, or we don't pretend to arrive at It slept by\nstept,) we calculate the former, or curers to be as\nto 500 of the latter or curees We believe the pro-\nportion will not vary materially from this statement,\nand when it is considered that 19-20ths OF the 600\nget sick as seldom as possible, and still schooner\nemploy physician, it will be seen, that the doctor\nhas ample time to repair the health of the remainder,\nand fit their constitutions for a thousand years\nvoyage and still be drawing out his bills to the re-\nquisite longitude, or ia other words, making their\nlengths in the inverse ratio Of the number OF pa\ntients.-Berkshire american.\n\n\nShut the Door.-Among the greatest evils we are\ndoomed to suffer in this northern cmate, is that OF\nbeing exposed to open doors-o keen blasts Of pt-\nless winter day, through the carelessness OF those\nwho run in and out, as if for other purpose than\n10 render well furnished room and good fire \"null\nand void.'\n\n\n1t is rather idle project to think of warming call\nout of doors,\" especially when the mercury is at 10\ndegrees below zero. And now that winter IS APP\npreaching, beg leave to enoin upon all, to shut\nhe door! 1t is lesson that cannot be too early lncu-\nGated upon children to shut the door after them\nThe lesson should be given to hired people a.\nbout the house. And this most important lesson\nshould not only be inculcated upon children and do\nmestcs, but should be enforced, in such manner as\nit may be best, even to chastisement of the former,\nand when other means fail, to loss Of employment to\nthe latter. Possibly the method of Dean Swift might\nbe practised with advantage His hired girl, going\nabroad enc day, left the door open and after pro-\nceedng couple of miles, was sent for by the Dean\nto come back in great haste.-She obeyed the sum-\nmons-and on returning, coolly ordered to shut\nthe door, She did So and forgot the lesson at\nforwards. To conclnde, we say, 'Shut, shut the\ndoor, good John\" Betty, Molly, Peggy-master,\nand mistress, man and maid, and daughter--get\nthis lesson by heart-nay, have it at your fingers\nends, and ever ready for applcaon--Shna the door.\n\n\nBerk. american.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2505,
+                "y0": 2770,
+                "x1": 3326,
+                "y1": 3037
+            },
+            "class": "article",
+            "raw_text": "The British army in India consists at present of\n100000 men--of which 100000 are mostly native\ntroops belonging to the East India Company. and\ncommanded by British oHicers--the remaining\no. 900 are kings troops, that the proportion be\ntween the former and the latter'is only twelve to\none.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 899,
+                "y0": 4135,
+                "x1": 1703,
+                "y1": 4363
+            },
+            "class": "article",
+            "raw_text": "KENTUCKY ELEcTIoN.-We learn that Messrs.\nCALHOUN and Chiffon have both resigned their\nclaims to the contested seat in Congress, under the\nlate election and have fairly agreed to refer the issue\nto a new election, which the ernor Of the State\nhas no doubt, ordered to be he'd",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 899,
+                "y0": 3917,
+                "x1": 1707,
+                "y1": 4106
+            },
+            "class": "article",
+            "raw_text": "We are sorrow to learn that Mr.. WEBSTER is\nstill detained in New York by the indispositlon both\nof himself and Mrs. Webster-the consequence OF\nmuch exposure on the journey from Boston during\nthe late severe weather.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 1288,
+                "y0": 3782,
+                "x1": 1659,
+                "y1": 3835
+            },
+            "class": "headline",
+            "raw_text": "GEORGE MCCLURE.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -2
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 1039,
+                "y0": 3865,
+                "x1": 1563,
+                "y1": 3905
+            },
+            "class": "headline",
+            "raw_text": "From, the National MteMgencer.",
+            "legibility": "Questionable",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2509,
+                "y0": 3114,
+                "x1": 3322,
+                "y1": 3229
+            },
+            "class": "article",
+            "raw_text": "Gu Saturday evening the 9Th inst. bv the Rev.\nJoseph Wilson, Mr.. JOHN A. NAUDAIN to Mrs.\nJENNA BRISCOE, all of Middletown.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 2801,
+                "y0": 3058,
+                "x1": 3034,
+                "y1": 3107
+            },
+            "class": "headline",
+            "raw_text": "-,In arrien,",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 40,
+                "y0": 349,
+                "x1": 861,
+                "y1": 4533
+            },
+            "class": "article",
+            "raw_text": "mr. wheat sells tor 10 or 300 cents bushel lnose\nstates which consume by far the greatest portion o.\nBritish goods, are chiefly grain growing states 5u\nEngland will not take this gram in exchange, il\nshe can possibly avoid it and it is not Iatona to\nsuppose that she would purchasethe cotton and 9TH\ner productions Of the Southern States, did she find\nil Eer interest to do other10sse.\n\n\nSince the above was written, Governor Giles has\nagain addressed the Legislature of Virgina-and\nspeaks of the destructive effects of the Tariff upon\naerculture--in opposition to various facts and evil\ndence. On this part of his message, the Richmond\nWing remarks\n\n\n10 this broad declaration, every buying and sell\nling man will oppose downright negative. Both\nclasses know, the that they never bought their\nGoods 1.-THE otherthat they never able to sell\nthem cheaper. This single fact which every man.\npersonal experience in great measure confirms, is\nworth volumes of defamation on the subject OF the\nTariff. In what sense does the Message mean,\nthat the Tariff has proved destructive ofagrcnlture?\nWe can put but two constructions upon it-elther\nthat il has enhanced the price of commodities Affect\ned by IT, to \"a runous degree, that it has led to\nrealiatory measures in foreign Governments, dl-\nrected against cur agricultural prosperity we de-\nnv the assumption in both Senses Great Britain\nhas not attempted to counteract tariff by legis-\nation Her corn laws under which our bread stuffs\nare prohibited except in contingencies, were ante\nrior to our tariff or our independent existence, and\nform system which she adopted to favor her agri-\ncnltursts. not to annoy ours. VIII Gov. Giles pre-\ntend that our tariff has excluded from foreign ports\nsingle bushel of wheat, barrel Of -four, hogs\nhead of Tobacco that would have been otherwise adj\nmtted Will he pretend, that If cur tariff we're\n| layed Great Britnn would in consideration, more\nfreely admit our agricultural products He has paid\nF little attention to the unwavering sehshness, and\nmonopolizng spirit of British policy, if he thinks\nthis If then, the Tariff has not ruinousy enhanc-\ned commodities, as every mans experience\ntells him-fit has had no influence in excluding our\nbread stulfs from British ports, as is obvous-in\nwhat has it proved so destructive to the agrcultu\nrist In nothing, save the unreal alarms of dema-\ngogues--aarms that most people fortunately, begin\nTO see are merely imaginary, # not in fact atogeth\ner assumed to cover and advance some sinister po-\n( tical purpose. For years, the tariff has been\nhobby horse in Virginia--upon which various gen.\n| temen have ridden into popular favor. Governor\nGiles has mounted him, and believe it is the last\ntime, any political asprant will think it worth his\ntrouble to do so. We have seen the popular mind\nundergo the most wonderful change on the subject\nof manufactures, and expect to see that change\n= in short time, universal and radical\n\n\nGovernor Shulze, of Pennsylvania, in his address\nto the Legislature which met the 9Th inst. amongst\nother things-sp with qualification, of the gen.\neral health, peace and plenty of the rapid ex-\ntingnishment of the revolutionary and late war\ndebt, as well as that incurred by the purchase o\nLouisiana and Florida of our exemption from\ndirect taxes at the moment we are thus discharglne\ndebts, and still having immense sums to devote te\n\n\ninternal improvement; Of the cause Of our presen\n\n\nprosperity being attributable to wise course o\npolicy Of the strength of the Union consisting ii\n\n\nthe capacity of the several States to supply th\n\n\nwants Of others and Of the maintenance of the re\n\n\nlative rank and ability of Pennsylvania to upho\n\n\nthe Union, being inseparaby connected with anter\n\n\nnal Improvement and american manufactures\n\n\nOf the powers and duties Of Congress, on thes\n\n\nsubjects, the Governor thus expresses himself\n\n\ndiffering, as will be seen, from their Exellencie\n\n\nIn Georgia, the Carolinas, and Virginia:\n\n\nIn regard, however, TO both of these great OF\n\n\njects there are duties belonging to the governmel\n\n\nof the Union, and there are powers commensura'\n\n\nwith those duties, unquestionable IN their const\n\n\ntutional existence they are beneficial in their OPP\n\n\nration, and Indispensable, to give the effect to tn\n\n\npolicy of the individual States.-They concern til\n\n\ngeneral welfare, and correspond with the nations\n\n\nexigency. They are the concentrated energy\n\n\nALL applied under the guidance of all, to the commt\n\n\nobjects which transcend the powers, OF the abill'\n\n\nof the particular States yet are necessary for tt\n\n\ngeneral government. To open, or to aid in oPeniI\n\n\nthose great lines of interior communication whic\n\n\npromise extensive national benefits, in peace and\n\n\nwar; to protect American manufactures, and gi'\n\n\nencouragement to domestic industry, by adequa\n\n\nduties upon articles of foreign eompeton:-a\n\n\nwithinthose powers of Congress which have be'\n\n\nfnvn nr,h1 dad ualpp\n\n\nobvious as the bounds of our confidence are exten\n\n\ned hu the admission of new Stntes.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 869,
+                "y0": 2150,
+                "x1": 1681,
+                "y1": 3822
+            },
+            "class": "article",
+            "raw_text": "1t gives US great pleasure to lay before our read\ners, the following letter from Gen. GEO. MCCLURE,\nto the Hon. RoBERT s. ROSE, on subject OF much\ninterest to the people Of the United States. We\nregard the extract which it contains. of letter\nfrom H. Clay, dated December 49, 1924 as trl-\numphant refutation OF the charges of corruption\npreferred against him by Gen. Jackson, in relation\nto the vote which he gave in the presidential eec\nton\n\n\nBath ST. Novenaber, 1927.\nHon. ROBERT s. RosE,\n\n\nSIR: Your letter of the goth ult. was duly re-\nceved Your request that will transmit to you,\ncopy, extract of a certain letter which recev-\ned from Mr. Clay, in Dec 1924. on the subject of\nthe Presidential contest Nothing but regard for\nthe character Of Mr.. Clay induce me to comply with\nyour request, believing as do, that the charges\nhbited against him by George Krener + Co. are\nFALSE, and cannot be supported.\n| After the electors of the President and Vice Pre-\nslent were chosen in 1924, it was ascertained that\nthe election would come before the House of Repre-\nsentatiyes and that Mr.. Clay would not be amongst\nthe number returned. Not knowing his sentiments\nin relation to the candidates. addressed letter to\nhim. stating, that in all probability, the contest\nwould be confined to Mr.. Adams and Gen Jackson\nand. in that case, wished to know which of them he\nwould prefer. Mr. Clay answered me promptly\nBY letter, bearing date 28th Dec. 1874, of which\nthe following is ali extract.\n\n\n81 have no hesitation IN saying. that nave lons\n\"since decided in favor of MIR. Adams, i'll case tht\n\"contest shoudb be between him and Gen. Jackson\n\"What, would ask, should be the distinguishing\n:. characteristic ofan American Statesman Shoult\n. s.itnot be devotion to civil liberty? Is it thel\nIS compatible with that principle. to elect maj\n\" whose sole recommendation rests on military pre-\n\"tensions? | therefore say toyou unequyocally\n\"that | cannot consistent with my own principles\n..support a. military man.\"\n\n\nYours, respectfully,",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 969,
+                "y0": 2089,
+                "x1": 1555,
+                "y1": 2134
+            },
+            "class": "headline",
+            "raw_text": "From the Geneva (N. ~ Chronicle.",
+            "legibility": "Questionable",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 1685,
+                "y0": 2312,
+                "x1": 2484,
+                "y1": 3181
+            },
+            "class": "article",
+            "raw_text": "\n\n\nMEMBERS.\nWillard Hall, Dell Noblett,\nJ. +. Vaughan, r. 4. Henderson,\nJohn Sebo, Charles Canby,\n\". A. Mendenhall, Benjamin Chandler,\ng. l.. Ma.kay, j. e. Wilson,\nseph Scott, Mark Brear,\nVIM. \". Muhannah, Robert Porter,\nJohn Bullock, w w. Baker,\nJAS e Allen, Geo. jones,\nf. w. Gilbert, Branch Green,\nJames Watson, Bishop Davenport.\nThomas MCorxle, Andrew Taylor,\nS. E. Merrihew, James Rice,\n| l. G. Algichs, VIII. Naff,\n| Benjamin Webb, Eli iiiiles,\n| Isaac Peirce, Huson Swayne.\n\n\n1t was then on motion Resolved, that Committee offv\npersons be appointed by the Chairman, to wait the c\nof this Borough, to obtain signatures to this Consti\ntuition The Committee ID. C. Wilson, George Jones\nbenjamin Webb, Thomas G. Alrichs and Isaac Pearce.\nAdjourned to meet next Saturday, at Henry Heald'\nSchool room, at 5 O'clock, p NJ.\n\n\nJOHN BULLOCK, Chairman.\nRoBERr PORTER, Sec, etary.\n| i'ec. 8, 1877.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 1968,
+                "y0": 2312,
+                "x1": 2196,
+                "y1": 2352
+            },
+            "class": "headline",
+            "raw_text": "MEMBERS.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": -1
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 908,
+                "y0": 4454,
+                "x1": 1712,
+                "y1": 5279
+            },
+            "class": "article",
+            "raw_text": "following artlcie =\n\n\nEurope-lmportant Private Intelligence.\n\n\nThe packet ship York brought letter to an\nEnglish gentleman in this city, from which we gath,\ner important intelligence with respect to Greek and\nTurkish affairs. This letter is from gentleman\nin London, occupying responsible official station.\n\n\nHe states that there is an an express agreement\n(not on understandings entered into by England\nRussia and France, to conquer and partition the\nTurkish dominions in Europe and Africa-Constan-\ntnople and its dependencies are allotted to Russia\nEgypt to England, and the isles of the Mediterra-\nmean and some portions of the land ADJOINING tha'\ncon ia France. The Turk is'to be drove into ASIA\nand the Greeks are to have IA government of their\nown under the guaranty and protection of the Three\nPowers\n\n\nWe are not at liberty. for obvious reasons, to\ngive names in regard to this information,--we can\nonly say that it comes from responsible source\nthrough respectable medium",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 904,
+                "y0": 4393,
+                "x1": 1699,
+                "y1": 4476
+            },
+            "class": "headline",
+            "raw_text": "The New-York Morning Courier contains the\nfollowing article -",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": -1
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 105,
+                "y0": 5056,
+                "x1": 900,
+                "y1": 5288
+            },
+            "class": "article",
+            "raw_text": "Both Houses of Congress adjourned from We'd\nnesday to Monday, when the Committees would be\nchosen. by ballot in the senatc--and appointed by\nthe speakerin the House. No business ofmoment\ns'.', transacted on Wednesday and Tuesday last",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 1698,
+                "y0": 3101,
+                "x1": 2388,
+                "y1": 3176
+            },
+            "class": "article",
+            "raw_text": "RoBERr PORTER. Sec' c'etary.\ni'ec. 8, 1877.",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 3652,
+                "y0": 309,
+                "x1": 4613,
+                "y1": 4367
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 29,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                11,
+                0
+            ],
+            "headline": "Public. Sale.",
+            "article": "On Saturday 22d December next, at the house OF John\nNJ Smith sign OF the lndiae King in the Borough of Viii.\nmington at O'Clock in the afternoon, the following real\nEstate. - r\n\n\nNo lot Of ground, nineteen feet four inches 'front.'\ning on the north side of Market street, and between\n\n\nBroad and King Streets with small franc dwelling there\non occupied by Mrs. Bingham, and running through to\nShipley street. -\n\n\nNo. g. Adjoining MOL with two story brick dwelling,\nwith bake house and oven, in the cellar occupied by\n\n\nthomas Johnson The lot about IS feet front on Ship\nlev street. and running back the middle distance OF the\nsquare.\n\n\nNo s. two story brick house with frame kitchen and\nlot of ground containing three acres, bounded by Broad\nstreet the old Ferry road lands of Joshua Woston, and\nothers This property has been occupied Brick Yard\nfor many years. and possesses every convenience for car\nrying on the Brick making business upon large scae'\nand Is at present occupied by David c. Wilson.\n\n\nNo 4. lot of 81 acres Of excellent clay bounded by\nlands Of Esau Coke, John Morton and John Boser, with\nlane leading into Broad street.\n\n\nNo 5. A lot of Marsh, containing 24 acres, IN high\nstate Of cultyaton bounded by the Marsh road by lands\nIf Robert Porter John Way, Esq and Esau Coke.\nNo g. lot Of and containing about acres, bounced\nl,y the Wilmington and Chrsiana Turnpike, and Marsh\nDads by lands Of John Lyman and Esau Coke, beng TWO\n~ ~ ~ WILLIAM KIRK.\nDec. II.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2688,
+                    "y0": 4140,
+                    "x1": 3151,
+                    "y1": 4210
+                },
+                {
+                    "x0": 2527,
+                    "y0": 4222,
+                    "x1": 3343,
+                    "y1": 5249
+                }
+            ],
+            "bbox": [
+                2527,
+                4140,
+                3343,
+                5249
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-12-11_p3_sn83025530_00271740220_1827121101_0283.json"
+        },
+        {
+            "object_ids": [
+                19,
+                1
+            ],
+            "headline": "OEITUARY-Comn,uaicated.",
+            "article": "Died. at the residence of Mrs Mary Corse, in Kent\nCounty, Maryland, the first day OF November last, of\neuce and fortude, Miss REBEKAH RASIN, aged sixty\nnine years formerly resident of Wilmington, Del. where\nshe lived esteemed by all VINO had the pleasure Of her\nquantance This most excellent female adorned her sa\nton in society; she firm believer in the doctrines of\nthe christian religion and devoted through life the\nvice fher Kedeeer and the welfare and happiness of nu\nmeros relations and friends for whom she evncd the most\nanxious socitude. As friend she affectona,e and\nknd with gres, suav,y of united becoming\ncheeruness ard gravity Her hand reMy to obey\nthe dictates of and generous hear in liberal con-\ntrbutonsand very many the blessings and that\n|have followed her the tomb. But amongst her best\n\n\nes none shone conspicuous than that deep innate\nsentiment of piey which influenced her conduct during\nlong fe and in death enabled her to repose herself with\nlust confidence upon the merits of her Redeemer Ihs\nldispensaton of an awsc Providence has made vacuum\nin society easily repaired, and amongst her numerous\n\n\nfriends and relations who greatly bemoan their loss; and\nlong will the writer this small tribute cherish with live\ny sentiments the memory Of the deceased",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2692,
+                    "y0": 3263,
+                    "x1": 3125,
+                    "y1": 3299
+                },
+                {
+                    "x0": 2518,
+                    "y0": 3302,
+                    "x1": 3326,
+                    "y1": 4106
+                }
+            ],
+            "bbox": [
+                2518,
+                3263,
+                3326,
+                4106
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-12-11_p3_sn83025530_00271740220_1827121101_0283.json"
+        },
+        {
+            "object_ids": [
+                15,
+                2
+            ],
+            "headline": "From the Pennsylvania Gazette.",
+            "article": "We sometime since stated that, from personal\nwe were authorized to declare that great\nchanges in the public mind in this state taking\npIace in favor of the administration of the general\ngovernment. Proof this fact has been day after\nday laid before the public. In the county of Schuyl-\nxiii, at the last Presidential election, not a single\nuote uas given for Mr. ya'anas and it would have\nbeen difficult matter to nave found five men who\nwould have brayed the existing prejudice yopenly\ndeclaring themselves in favor of Mr. Adams. In\nthis same county an administration meeting was\ncalled to meet on the Oath ut. 1t appears to have\nbeen general gathering together of the talent and\nstanding of the county. The honourable Judges Yost\nand Raash, and Joseph Morgan, Esqs.. all prom-\nnent supporters of the administration Of this state\nwere called to preside over the meeting. John Ban\nnan, Mich'l Graeif. G. Leozer, Francis B. Nichols,\nand w. B. Potts, Esqs., were appointed commit\ntee to draft resolutions, &c.\n\n\nThe address and resolutions adopted. do great\nhonor to the meeting The sentiments expressed\nin opposition to the elevation OF Gen. Jackson, are\nof that firm serious, but dispassonate cast, which\nshow that deusion has yielded to the light of reason\nand evidence, and that the work Of conviction is\nthorough and well grounded.\n\n\nThe Legislature of PENNSYLVANIA met at Harris\nburgh ON Tuesday last. MIR. MAHoN was chosen\nSpeaker of the Senate, and Mr.. MIDDLEswARTH\nspeaker Oh Inc F1ouSc ol NepIeseutdtNco' ~ '\"\niority of AZ votes over VIM. McCREERy.\n\n\nThe Legislature of VIRGINIA met on Monday\nlast, at Richmond. Mr.. HoLr was reelected Spea.\nker of the Senate, and Mr.. BANKS Speaker OF the\nHouse of Representatives, without opposition.\n\n\nabundance of Doctors.-When we look abroad\nover our beloved and thrice happy country, and see\nevery village blessed with from three to dozen\nphysicians, and every city crowded with from nifty\nto five hundred Of these sons OF Escuaplus, we\nshould be apt to consider the Eastern salutatlon-\n6 May you Hve thousand years,' II adopted N\nthese United States, as no longer mere compll\nment, but on the contrary, should be at loss To\nconceive how it is possible to die short OF that Pc\nriod, except, indeed, where one is shot direct,\nthrough the head or through the heart, IN case\nof honour'' -, :.\n\n\nDR.. Rush predicted, some years ago, that the time\nwas fast approaching, when there should he no other",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1842,
+                    "y0": 3197,
+                    "x1": 2357,
+                    "y1": 3242
+                },
+                {
+                    "x0": 1711,
+                    "y0": 3241,
+                    "x1": 2514,
+                    "y1": 5266
+                }
+            ],
+            "bbox": [
+                1711,
+                3197,
+                2514,
+                5266
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-12-11_p3_sn83025530_00271740220_1827121101_0283.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "I The Governor Of lower Canada has prorosued\nthe Provincial Parliament to the 5rd Of January\nthe House having adhered to their choice Of Speaker\nThis is though be the beginning serious trouble.\nWe notice, in the Baltimore papers, Prospectus\nof semi-wcelly Paper, to be published in the city\nof Baltimore by E.. p Roberts, and edited by Ed-\nWARD c. PINKNEY, and entitled The Marylander !;\nwhich we have read with much pleasure. In its\npolitics, it maniess decided preference of the civ\nil over the military candidate for the Presidency,\nlustrious statesman, John Quincy Adams\" Com\nmercial, Agricultural, and Mechanical affairs, as\nwe'll as Bellies Lettres, &c. &c. will receive all suit\nable attention. The Marylander is to be published\non Wednesday and Saturday, on an imperial sheet\nat Four dollars per annnm, payable in advance, and\nan extensive circulation is anticipated. The first\nnumber appearedon Wednesday last\n\n\nThe Editors of the Miners Journal give an\ncount Of the steam works in operation in the Pea\ncock mines, in the vicinity of Mount Carbon, and\nremark that anthracite must and will be used to\ngenerate steam in propeling boats, as much will be\nsaved by the use of coal.\n\n\nEnglish papers to the 3rd November have been\nreceived at New-York\n\n\nThe course of Turkey, was not fully manifest,\nthough some supposed she would resist the media\nton of the Combined Powers, at all hazzards.\n\n\nSpain continues in agitation-and there is still\nsome fighting between the rebels and the Kings\ntroops.\n\n\nSteam Boat built in England for the Greeks had\nbeen accidentally burnt in the Thames, and another\nhad foundered at sea.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 873,
+                    "y0": 283,
+                    "x1": 1686,
+                    "y1": 2055
+                }
+            ],
+            "bbox": [
+                873,
+                283,
+                1686,
+                2055
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-12-11_p3_sn83025530_00271740220_1827121101_0283.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "At a large and respectable meeting If lie citizens o\nWilmington convened Al the Town HALL, al 3 o'cpck, ?\nNJ Saturday the inst. pursuant to public Notice, io\nthe purpose uf forming IA Temperance socely, join\nBullock Jailed the Chair; and Robert Porter, chos\nen- Secretary.\n\n\nAfter which the meeting was addressed at considerable\nlength by Judge Hail. in which he took view Of the ex\ntent Of the vice of ntempeance in this country ard the\nmeans Which the temperate portion OF society possess\nentirely to eradicate least very materially 70 crai\nIFS baneful effects He then read to the Meeting form\nof CONSTITUTIONS proposed for their government which\nafter being discussed, adopted and as folows\nCONSTITUTION\n\n\nOf the Temperance Society of Wilmington and 1T\nvicinity.\n\n\nArt !. This Society shall be denominated \" The Tem\nperance Sociey of Wilmington and its vicinity\"\n\n\n1t shall hold meeting on the Sd Monday of July every\nyear\n\n\nIts officers shall be President, Vice Presidents\nCorresponding Secretary, Recording Secretary Treas\nand eight Directors. shall be the duty these Of\nfcers meet the 4th Monday OF December, March,\n\n\nJune and September and they may hold occasional meet\nngs Any five of them shall constitute Board with pow\nconduct all the concerns of the Society. They shall\neach annual meeting lay before the society Report Of\nits operations and concerns. .+\n\n\nThe officers shall be chosen Immediately this constu.\nton being established and at every annual meeting Of the\nsociety Vacancies may be filled by the Board,\n\n\nII The object this Society shall be osuppress intem-\nperance.\n\n\nIll., The Members of this society believe that any use Of\nsprituous liquors has tendency produce intempern\naud that no use these liquors can be considered safe\nOtne temperance, Wncn dStreSSee the community there\nrarely case hat has not arisen from what first\nmoderate and deemed prudent of arden spirits\nhe natural effect Of the of ardent spirits is to\ncome and destroy the very prudence, which, all admit\nnecessary to guard against the dangers arising from it.\nTherefore the Members of this society regard SOL\nemn duty to discountenance any of sprt liquors\nand they hold themselves pledged to each other and to the\ncommunity, which they live abstain altogether from\nthe use ofsptuous liquors and not to suffer them in their\nhouses any establishments Of which they have the\ntrout excepting only the of these liquors medi\ncine, when prescribed by physician.\n\n\nNv. This Society shall pond with Societies having\nhe object, in other paris Of the United States with\nview to obtain all the information, which thus be &C.\nquired to enable them more efecuay to promote their\nobject.\n\n\nv. Each member shall annually pay to the Treasurer\ncents fund to defrAy the expenses Of\nand in dusng the information which shall deem proper\nfrom time to time to lay before the public.\n\n\nVI. Every person signing this Constitution shall be a\nmember of the Society, so long as he complies with the\nfora uar1ic",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1689,
+                    "y0": 292,
+                    "x1": 2493,
+                    "y1": 2308
+                }
+            ],
+            "bbox": [
+                1689,
+                292,
+                2493,
+                2308
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-12-11_p3_sn83025530_00271740220_1827121101_0283.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "ourlet to life but through the doors Of old age, to\nsuch perfection would the art of healing arrive, and\nIa wiser man than Rush, (but not half 80 good one)\nhas told US that in the multitude Of counselcrs\nthere is safety. Ergo. to say, '..may you live\nthousand years., is nothing more than saying SEM\nlploy the doctors and pay them well.''\n\n\nAs to what is said Of young physician, going to\nthe Westward to look for an opening, and finding\nthose Of his profession grew thicker he advanced,\nuntil at length seeing to doctors riding one horse,\nThe got discouraged and came home, it may be true\nIor not, we have seen nothing like it in New Eng\nHand. There are some, it is true, in this land OF\nhills and health, who cannot get horse to ride, but\nthen it is not for the want OF horses, but Of money\nto buy them.\n\n\nWe have made some estimate of the proportion Of\npractising physicians, in New England. to the rest\nof the inhabitants, and near as we can jump at the\ntruth, or we don't pretend to arrive at It slept by\nstept,) we calculate the former, or curers to be as\nto 500 of the latter or curees We believe the pro-\nportion will not vary materially from this statement,\nand when it is considered that 19-20ths OF the 600\nget sick as seldom as possible, and still schooner\nemploy physician, it will be seen, that the doctor\nhas ample time to repair the health of the remainder,\nand fit their constitutions for a thousand years\nvoyage and still be drawing out his bills to the re-\nquisite longitude, or ia other words, making their\nlengths in the inverse ratio Of the number OF pa\ntients.-Berkshire american.\n\n\nShut the Door.-Among the greatest evils we are\ndoomed to suffer in this northern cmate, is that OF\nbeing exposed to open doors-o keen blasts Of pt-\nless winter day, through the carelessness OF those\nwho run in and out, as if for other purpose than\n10 render well furnished room and good fire \"null\nand void.'\n\n\n1t is rather idle project to think of warming call\nout of doors,\" especially when the mercury is at 10\ndegrees below zero. And now that winter IS APP\npreaching, beg leave to enoin upon all, to shut\nhe door! 1t is lesson that cannot be too early lncu-\nGated upon children to shut the door after them\nThe lesson should be given to hired people a.\nbout the house. And this most important lesson\nshould not only be inculcated upon children and do\nmestcs, but should be enforced, in such manner as\nit may be best, even to chastisement of the former,\nand when other means fail, to loss Of employment to\nthe latter. Possibly the method of Dean Swift might\nbe practised with advantage His hired girl, going\nabroad enc day, left the door open and after pro-\nceedng couple of miles, was sent for by the Dean\nto come back in great haste.-She obeyed the sum-\nmons-and on returning, coolly ordered to shut\nthe door, She did So and forgot the lesson at\nforwards. To conclnde, we say, 'Shut, shut the\ndoor, good John\" Betty, Molly, Peggy-master,\nand mistress, man and maid, and daughter--get\nthis lesson by heart-nay, have it at your fingers\nends, and ever ready for applcaon--Shna the door.\n\n\nBerk. american.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2505,
+                    "y0": 283,
+                    "x1": 3326,
+                    "y1": 2766
+                }
+            ],
+            "bbox": [
+                2505,
+                283,
+                3326,
+                2766
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-12-11_p3_sn83025530_00271740220_1827121101_0283.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "The British army in India consists at present of\n100000 men--of which 100000 are mostly native\ntroops belonging to the East India Company. and\ncommanded by British oHicers--the remaining\no. 900 are kings troops, that the proportion be\ntween the former and the latter'is only twelve to\none.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2505,
+                    "y0": 2770,
+                    "x1": 3326,
+                    "y1": 3037
+                }
+            ],
+            "bbox": [
+                2505,
+                2770,
+                3326,
+                3037
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-12-11_p3_sn83025530_00271740220_1827121101_0283.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "KENTUCKY ELEcTIoN.-We learn that Messrs.\nCALHOUN and Chiffon have both resigned their\nclaims to the contested seat in Congress, under the\nlate election and have fairly agreed to refer the issue\nto a new election, which the ernor Of the State\nhas no doubt, ordered to be he'd",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 899,
+                    "y0": 4135,
+                    "x1": 1703,
+                    "y1": 4363
+                }
+            ],
+            "bbox": [
+                899,
+                4135,
+                1703,
+                4363
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-12-11_p3_sn83025530_00271740220_1827121101_0283.json"
+        },
+        {
+            "object_ids": [
+                18,
+                16,
+                8
+            ],
+            "headline": "GEORGE MCCLURE.\n\nFrom, the National MteMgencer.",
+            "article": "We are sorrow to learn that Mr.. WEBSTER is\nstill detained in New York by the indispositlon both\nof himself and Mrs. Webster-the consequence OF\nmuch exposure on the journey from Boston during\nthe late severe weather.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1288,
+                    "y0": 3782,
+                    "x1": 1659,
+                    "y1": 3835
+                },
+                {
+                    "x0": 1039,
+                    "y0": 3865,
+                    "x1": 1563,
+                    "y1": 3905
+                },
+                {
+                    "x0": 899,
+                    "y0": 3917,
+                    "x1": 1707,
+                    "y1": 4106
+                }
+            ],
+            "bbox": [
+                899,
+                3782,
+                1707,
+                4106
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-12-11_p3_sn83025530_00271740220_1827121101_0283.json"
+        },
+        {
+            "object_ids": [
+                17,
+                9
+            ],
+            "headline": "-,In arrien,",
+            "article": "Gu Saturday evening the 9Th inst. bv the Rev.\nJoseph Wilson, Mr.. JOHN A. NAUDAIN to Mrs.\nJENNA BRISCOE, all of Middletown.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2801,
+                    "y0": 3058,
+                    "x1": 3034,
+                    "y1": 3107
+                },
+                {
+                    "x0": 2509,
+                    "y0": 3114,
+                    "x1": 3322,
+                    "y1": 3229
+                }
+            ],
+            "bbox": [
+                2509,
+                3058,
+                3322,
+                3229
+            ],
+            "full_article_id": 10,
+            "id": "10_1827-12-11_p3_sn83025530_00271740220_1827121101_0283.json"
+        },
+        {
+            "object_ids": [
+                10
+            ],
+            "headline": "",
+            "article": "mr. wheat sells tor 10 or 300 cents bushel lnose\nstates which consume by far the greatest portion o.\nBritish goods, are chiefly grain growing states 5u\nEngland will not take this gram in exchange, il\nshe can possibly avoid it and it is not Iatona to\nsuppose that she would purchasethe cotton and 9TH\ner productions Of the Southern States, did she find\nil Eer interest to do other10sse.\n\n\nSince the above was written, Governor Giles has\nagain addressed the Legislature of Virgina-and\nspeaks of the destructive effects of the Tariff upon\naerculture--in opposition to various facts and evil\ndence. On this part of his message, the Richmond\nWing remarks\n\n\n10 this broad declaration, every buying and sell\nling man will oppose downright negative. Both\nclasses know, the that they never bought their\nGoods 1.-THE otherthat they never able to sell\nthem cheaper. This single fact which every man.\npersonal experience in great measure confirms, is\nworth volumes of defamation on the subject OF the\nTariff. In what sense does the Message mean,\nthat the Tariff has proved destructive ofagrcnlture?\nWe can put but two constructions upon it-elther\nthat il has enhanced the price of commodities Affect\ned by IT, to \"a runous degree, that it has led to\nrealiatory measures in foreign Governments, dl-\nrected against cur agricultural prosperity we de-\nnv the assumption in both Senses Great Britain\nhas not attempted to counteract tariff by legis-\nation Her corn laws under which our bread stuffs\nare prohibited except in contingencies, were ante\nrior to our tariff or our independent existence, and\nform system which she adopted to favor her agri-\ncnltursts. not to annoy ours. VIII Gov. Giles pre-\ntend that our tariff has excluded from foreign ports\nsingle bushel of wheat, barrel Of -four, hogs\nhead of Tobacco that would have been otherwise adj\nmtted Will he pretend, that If cur tariff we're\n| layed Great Britnn would in consideration, more\nfreely admit our agricultural products He has paid\nF little attention to the unwavering sehshness, and\nmonopolizng spirit of British policy, if he thinks\nthis If then, the Tariff has not ruinousy enhanc-\ned commodities, as every mans experience\ntells him-fit has had no influence in excluding our\nbread stulfs from British ports, as is obvous-in\nwhat has it proved so destructive to the agrcultu\nrist In nothing, save the unreal alarms of dema-\ngogues--aarms that most people fortunately, begin\nTO see are merely imaginary, # not in fact atogeth\ner assumed to cover and advance some sinister po-\n( tical purpose. For years, the tariff has been\nhobby horse in Virginia--upon which various gen.\n| temen have ridden into popular favor. Governor\nGiles has mounted him, and believe it is the last\ntime, any political asprant will think it worth his\ntrouble to do so. We have seen the popular mind\nundergo the most wonderful change on the subject\nof manufactures, and expect to see that change\n= in short time, universal and radical\n\n\nGovernor Shulze, of Pennsylvania, in his address\nto the Legislature which met the 9Th inst. amongst\nother things-sp with qualification, of the gen.\neral health, peace and plenty of the rapid ex-\ntingnishment of the revolutionary and late war\ndebt, as well as that incurred by the purchase o\nLouisiana and Florida of our exemption from\ndirect taxes at the moment we are thus discharglne\ndebts, and still having immense sums to devote te\n\n\ninternal improvement; Of the cause Of our presen\n\n\nprosperity being attributable to wise course o\npolicy Of the strength of the Union consisting ii\n\n\nthe capacity of the several States to supply th\n\n\nwants Of others and Of the maintenance of the re\n\n\nlative rank and ability of Pennsylvania to upho\n\n\nthe Union, being inseparaby connected with anter\n\n\nnal Improvement and american manufactures\n\n\nOf the powers and duties Of Congress, on thes\n\n\nsubjects, the Governor thus expresses himself\n\n\ndiffering, as will be seen, from their Exellencie\n\n\nIn Georgia, the Carolinas, and Virginia:\n\n\nIn regard, however, TO both of these great OF\n\n\njects there are duties belonging to the governmel\n\n\nof the Union, and there are powers commensura'\n\n\nwith those duties, unquestionable IN their const\n\n\ntutional existence they are beneficial in their OPP\n\n\nration, and Indispensable, to give the effect to tn\n\n\npolicy of the individual States.-They concern til\n\n\ngeneral welfare, and correspond with the nations\n\n\nexigency. They are the concentrated energy\n\n\nALL applied under the guidance of all, to the commt\n\n\nobjects which transcend the powers, OF the abill'\n\n\nof the particular States yet are necessary for tt\n\n\ngeneral government. To open, or to aid in oPeniI\n\n\nthose great lines of interior communication whic\n\n\npromise extensive national benefits, in peace and\n\n\nwar; to protect American manufactures, and gi'\n\n\nencouragement to domestic industry, by adequa\n\n\nduties upon articles of foreign eompeton:-a\n\n\nwithinthose powers of Congress which have be'\n\n\nfnvn nr,h1 dad ualpp\n\n\nobvious as the bounds of our confidence are exten\n\n\ned hu the admission of new Stntes.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 40,
+                    "y0": 349,
+                    "x1": 861,
+                    "y1": 4533
+                }
+            ],
+            "bbox": [
+                40,
+                349,
+                861,
+                4533
+            ],
+            "full_article_id": 11,
+            "id": "11_1827-12-11_p3_sn83025530_00271740220_1827121101_0283.json"
+        },
+        {
+            "object_ids": [
+                20,
+                12
+            ],
+            "headline": "From the Geneva (N. ~ Chronicle.",
+            "article": "1t gives US great pleasure to lay before our read\ners, the following letter from Gen. GEO. MCCLURE,\nto the Hon. RoBERT s. ROSE, on subject OF much\ninterest to the people Of the United States. We\nregard the extract which it contains. of letter\nfrom H. Clay, dated December 49, 1924 as trl-\numphant refutation OF the charges of corruption\npreferred against him by Gen. Jackson, in relation\nto the vote which he gave in the presidential eec\nton\n\n\nBath ST. Novenaber, 1927.\nHon. ROBERT s. RosE,\n\n\nSIR: Your letter of the goth ult. was duly re-\nceved Your request that will transmit to you,\ncopy, extract of a certain letter which recev-\ned from Mr. Clay, in Dec 1924. on the subject of\nthe Presidential contest Nothing but regard for\nthe character Of Mr.. Clay induce me to comply with\nyour request, believing as do, that the charges\nhbited against him by George Krener + Co. are\nFALSE, and cannot be supported.\n| After the electors of the President and Vice Pre-\nslent were chosen in 1924, it was ascertained that\nthe election would come before the House of Repre-\nsentatiyes and that Mr.. Clay would not be amongst\nthe number returned. Not knowing his sentiments\nin relation to the candidates. addressed letter to\nhim. stating, that in all probability, the contest\nwould be confined to Mr.. Adams and Gen Jackson\nand. in that case, wished to know which of them he\nwould prefer. Mr. Clay answered me promptly\nBY letter, bearing date 28th Dec. 1874, of which\nthe following is ali extract.\n\n\n81 have no hesitation IN saying. that nave lons\n\"since decided in favor of MIR. Adams, i'll case tht\n\"contest shoudb be between him and Gen. Jackson\n\"What, would ask, should be the distinguishing\n:. characteristic ofan American Statesman Shoult\n. s.itnot be devotion to civil liberty? Is it thel\nIS compatible with that principle. to elect maj\n\" whose sole recommendation rests on military pre-\n\"tensions? | therefore say toyou unequyocally\n\"that | cannot consistent with my own principles\n..support a. military man.\"\n\n\nYours, respectfully,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 969,
+                    "y0": 2089,
+                    "x1": 1555,
+                    "y1": 2134
+                },
+                {
+                    "x0": 869,
+                    "y0": 2150,
+                    "x1": 1681,
+                    "y1": 3822
+                }
+            ],
+            "bbox": [
+                869,
+                2089,
+                1681,
+                3822
+            ],
+            "full_article_id": 13,
+            "id": "13_1827-12-11_p3_sn83025530_00271740220_1827121101_0283.json"
+        },
+        {
+            "object_ids": [
+                27,
+                13
+            ],
+            "headline": "MEMBERS.",
+            "article": "\n\n\nMEMBERS.\nWillard Hall, Dell Noblett,\nJ. +. Vaughan, r. 4. Henderson,\nJohn Sebo, Charles Canby,\n\". A. Mendenhall, Benjamin Chandler,\ng. l.. Ma.kay, j. e. Wilson,\nseph Scott, Mark Brear,\nVIM. \". Muhannah, Robert Porter,\nJohn Bullock, w w. Baker,\nJAS e Allen, Geo. jones,\nf. w. Gilbert, Branch Green,\nJames Watson, Bishop Davenport.\nThomas MCorxle, Andrew Taylor,\nS. E. Merrihew, James Rice,\n| l. G. Algichs, VIII. Naff,\n| Benjamin Webb, Eli iiiiles,\n| Isaac Peirce, Huson Swayne.\n\n\n1t was then on motion Resolved, that Committee offv\npersons be appointed by the Chairman, to wait the c\nof this Borough, to obtain signatures to this Consti\ntuition The Committee ID. C. Wilson, George Jones\nbenjamin Webb, Thomas G. Alrichs and Isaac Pearce.\nAdjourned to meet next Saturday, at Henry Heald'\nSchool room, at 5 O'clock, p NJ.\n\n\nJOHN BULLOCK, Chairman.\nRoBERr PORTER, Sec, etary.\n| i'ec. 8, 1877.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1968,
+                    "y0": 2312,
+                    "x1": 2196,
+                    "y1": 2352
+                },
+                {
+                    "x0": 1685,
+                    "y0": 2312,
+                    "x1": 2484,
+                    "y1": 3181
+                }
+            ],
+            "bbox": [
+                1685,
+                2312,
+                2484,
+                3181
+            ],
+            "full_article_id": 14,
+            "id": "14_1827-12-11_p3_sn83025530_00271740220_1827121101_0283.json"
+        },
+        {
+            "object_ids": [
+                22,
+                14
+            ],
+            "headline": "The New-York Morning Courier contains the\nfollowing article -",
+            "article": "following artlcie =\n\n\nEurope-lmportant Private Intelligence.\n\n\nThe packet ship York brought letter to an\nEnglish gentleman in this city, from which we gath,\ner important intelligence with respect to Greek and\nTurkish affairs. This letter is from gentleman\nin London, occupying responsible official station.\n\n\nHe states that there is an an express agreement\n(not on understandings entered into by England\nRussia and France, to conquer and partition the\nTurkish dominions in Europe and Africa-Constan-\ntnople and its dependencies are allotted to Russia\nEgypt to England, and the isles of the Mediterra-\nmean and some portions of the land ADJOINING tha'\ncon ia France. The Turk is'to be drove into ASIA\nand the Greeks are to have IA government of their\nown under the guaranty and protection of the Three\nPowers\n\n\nWe are not at liberty. for obvious reasons, to\ngive names in regard to this information,--we can\nonly say that it comes from responsible source\nthrough respectable medium",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 904,
+                    "y0": 4393,
+                    "x1": 1699,
+                    "y1": 4476
+                },
+                {
+                    "x0": 908,
+                    "y0": 4454,
+                    "x1": 1712,
+                    "y1": 5279
+                }
+            ],
+            "bbox": [
+                904,
+                4393,
+                1712,
+                5279
+            ],
+            "full_article_id": 15,
+            "id": "15_1827-12-11_p3_sn83025530_00271740220_1827121101_0283.json"
+        },
+        {
+            "object_ids": [
+                24
+            ],
+            "headline": "",
+            "article": "Both Houses of Congress adjourned from We'd\nnesday to Monday, when the Committees would be\nchosen. by ballot in the senatc--and appointed by\nthe speakerin the House. No business ofmoment\ns'.', transacted on Wednesday and Tuesday last",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 105,
+                    "y0": 5056,
+                    "x1": 900,
+                    "y1": 5288
+                }
+            ],
+            "bbox": [
+                105,
+                5056,
+                900,
+                5288
+            ],
+            "full_article_id": 25,
+            "id": "25_1827-12-11_p3_sn83025530_00271740220_1827121101_0283.json"
+        },
+        {
+            "object_ids": [
+                25
+            ],
+            "headline": "",
+            "article": "RoBERr PORTER. Sec' c'etary.\ni'ec. 8, 1877.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1698,
+                    "y0": 3101,
+                    "x1": 2388,
+                    "y1": 3176
+                }
+            ],
+            "bbox": [
+                1698,
+                3101,
+                2388,
+                3176
+            ],
+            "full_article_id": 26,
+            "id": "26_1827-12-11_p3_sn83025530_00271740220_1827121101_0283.json"
+        }
+    ]
+}

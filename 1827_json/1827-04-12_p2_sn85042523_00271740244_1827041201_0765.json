@@ -1,0 +1,1282 @@
+{
+    "lccn": {
+        "title": "The Wilmingtonian, and Delaware advertiser.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2638-1117",
+        "lccn": "sn85042523",
+        "start_year": "1825",
+        "end_year": "1827",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [
+            "sn88053080"
+        ],
+        "successors": [
+            "sn84020426"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn85042523",
+        "edition": "ed-01",
+        "date": "1827-04-12",
+        "pages": [
+            "seq-4",
+            "seq-1",
+            "seq-3",
+            "seq-2"
+        ]
+    },
+    "page_number": "2",
+    "scan": {
+        "lccn": "sn85042523",
+        "edition": "ed-01",
+        "date": "1827-04-12",
+        "page": "2",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn85042523/1827-04-12/ed-1/seq-2.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn85042523/1827-04-12/ed-1/seq-2/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn85042523/1827-04-12/ed-1/seq-2/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn85042523/00271740244/1827041201/0765.jp2",
+        "height": 5608,
+        "width": 3712
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 1571,
+                "y0": 5003,
+                "x1": 2220,
+                "y1": 5455
+            },
+            "class": "article",
+            "raw_text": "The Liverpool Chronicle of the 18th Feb.\ncontains long account of an arrest on board\nthe Commerce Steam Packet at the mo-\nment she was about starting for Dublin, OF !.\nfemale passenger who was dressed in sal\n\n\nloi's clothes, and passed by the name OF\nWilliam Brown. The officers who took\nher in custody, acted from information Of\nthe disguise, which they supposed might\nhave been done to conceal SOME theft. The\nsailor was conveyed to prison. From some\nenquiries, the house where Brown lodged\nwas discovered, the proprietor of which re-\n\n\n| terrcd the officers to the master of the bril",
+            "legibility": "Questionable",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 1623,
+                "y0": 4959,
+                "x1": 2159,
+                "y1": 5000
+            },
+            "class": "headline",
+            "raw_text": "WILLIAM BROWN, THE SAILOR.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 896,
+                "y0": 5003,
+                "x1": 1559,
+                "y1": 5468
+            },
+            "class": "article",
+            "raw_text": "A gentleman who resides IN the neighbor-\n\n\nhood If Manchester, and who, having paid\n\n\nhis addresses 10 IA young lady who resides not\nmany miles from Liverpool, and who it is\nstated, had so far approved of his suit as to\nfix a day, il the last week, for the perform\nance Of the marriage ceremony, came to\ntown on Saturday week, for the purpose of\nmaking preparations for the approaching\nnu,ti;.ls: In the course of the day he enter\ned a glover's shop not one mile from street\nwhich is undergone great improvements, tc\npurchase gloves for the wedding. A young\nlady was behind the counter. She smiled, a:",
+            "legibility": "Questionable",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1023,
+                "y0": 4959,
+                "x1": 1410,
+                "y1": 5000
+            },
+            "class": "headline",
+            "raw_text": "QUICK COURTSHIP.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2881,
+                "y0": 1892,
+                "x1": 3548,
+                "y1": 2809
+            },
+            "class": "article",
+            "raw_text": "{ q 'Re JSuffoFS \" ifsc A'tttO'f-t H'tt''65S''N\"\n\n\nCcntlcmen--Iiaying seen in the National In\ntclIigcnccr OF the 27th ult notice of report\nii Philadelphia, founded OH private letters, rel\nalive to the breaking up Of Mr.. Owens estah-\nlishment at Ncw.Ilarmony, take the liberty to\nassure you, upon personal knowledge, that Mr..\no. himself was al Ncw-iiarmony on the 20th CT\nMarch, apparently felcitating in the progress\nwhich he says those principles he advocates have\nmade and are making. II is true that consider\nable dmnu,ion OF the population has taken\nplace; but that change is considered beneficial.\nboth as relates to business concerns and the pro-\nmotion oi NIr. owens more extended views. A\nSuccession of more contcnted and more intclli-\ngent families, are confidently expected Indeed\nL is known to the writcr that the changes\nwhich have lately taken place have led to an IN\ncrease ofindustIy and happiness to those thatre-\nE.ain.\n\n\n1t is the intention Of Mr.. o. to visit Europe, IN\nthe course OF the present month; but it Is also,\nas stated ~ himself, his dc ign to return, as\nspeedily as his extensive concerns IN Scotland\nviii permit, accompanied by the remainder OF his\ni4ully, two Of lis sons being now at Harmony\nA TRAVELLER,\nHcsAington, .2.pr33, 1927.",
+            "legibility": "Illegible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 2942,
+                "y0": 1862,
+                "x1": 3517,
+                "y1": 1906
+            },
+            "class": "headline",
+            "raw_text": "u he Ediio.s ofMs National Intelligence.",
+            "legibility": "Questionable",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1518,
+                "y0": 166,
+                "x1": 2181,
+                "y1": 829
+            },
+            "class": "article",
+            "raw_text": "female shepkeepers generally do, \"hsh ,ney y\nobserve the face Of male customer he\ngloves were soon displayed on the counter\nand the fair one proceeded to fit a par on\nthe hand of her new customer. The gentle\nman first looked at the lady. then at the\ngloves, and again at the lady. Hiseye bright\nrnrd--his bosom heaved, and sigh escaped\nIII another moment the gentleman was des-\nperatey. incurably in love. lie forgot her\nwhom he had come hither to marry, and\nbecame f,ithlcss lover. lie instantly oiler-\ned hi, hand to the fair glover. She Just hes\nitated one moment, as ladies generally hesi-\ntate when placed in such singular circum-\nstances, and blushingly yielded herself to hiS\nsoft seduction.-On Monday last the parties\nwe're married, and drove out of town attend\ned by a splendid cavalcadc, to the rcsideaec\nOf the hot and fiery inamorato.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2868,
+                "y0": 359,
+                "x1": 3530,
+                "y1": 1836
+            },
+            "class": "article",
+            "raw_text": "Mr.. Wesley had clerk, who believed ths\nrector his master, to be the greatest man in\nthe parish, if not in the country; and himser\nto be the next to him in worth and impor,'\nance. He had the advantage and privilege\nOf wearing out Mr.. Wcsey's cast off clothes\nand wigs, for the latter of which his head\nwas far too small The rector fndinr\nhim particularly vain Of one of these canon.\nica substitutes for hair which he had lately\nreceived, formed the design to mortify him\nin the presence Of that congregation before\nwhich John wished to appear in every re-\nspect what he thought himself. One morn\ning before church time Mr.. w. said \"re\nJohn, shall preach on particular subject\nto-day; and shall choose my own psalm, Of\nwhich shall give the first line, ard YOU\nshall proceed as usual\" John was pleased\nand service went forward as it was wont to\ndo till they came to the singing, when Mr.,\nw. gave out the following line -\n\n\n\"l.ikc to an owl in ivy bush''\n\n\nThis was sung--and the following line.\nJohn pccping out of the huge canonical wig,\nin which his head was half lost, gave out\nwith an audible voice and appropriate con-\nmeeting, twang-\n\n\n\"1hat rucful thing am Il\"\nThe whole congregation, struck with\nJohns appearance. saw and felt the slmii-\ntrdc and burst into laughter. The rector\nwas pleased, for John was mortified, and his\nself-conccit humblcd. This is the same man,\nwho, when King William returned to Lon\ndon after some of his expeditions. gave out\nii lIcpwerth church--Let US sing to the\npraise aud glory of God, a hymn of my own\ncotnposng:--\n\n\n/ \"king William is come home, come home.\nKing William home is come;\n\n\nTherefore let US together sing\n\n\nThe hymn that's calld 1s Dum\"",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 2977,
+                "y0": 315,
+                "x1": 3407,
+                "y1": 355
+            },
+            "class": "headline",
+            "raw_text": "THE REV. S. WESLEY.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 164,
+                "y0": 350,
+                "x1": 849,
+                "y1": 4553
+            },
+            "class": "article",
+            "raw_text": "almost always Si.tin sight, except when nd I\nden from the yicW by hollow i'll the SANDS,\nOF which there are many, resembling 'lle\nsnacc LETT between two succeeding oiliowS III\nq tempest; and as vessels sink between tne\nrising waves, So as to be lost TOR 'loa'e\"s\nfrom the sight OF those around them SO even\nGIN this desert plain the same eitert IS pro\ntluceti by MANI fuirows, which ihtercep's i'S\notherwise ie, Ell surface. In ii0nt - inc car 4\navan, and Immediately preceding y, was\nsix-poun1 iron cannon, very loosely Nt'eu -\nfield piece, on heavy car, ana drawn py\nfour horses. On each side this, were par\nties or about twenty horsemen IN each,\"host\nprovince It appeared to be to Keep an eguAi\nline, bY riding up and down the oreaath ana\ntbe front, and checking those who were too\nfar advanced, \"a, well as bringing up by q\nquicker pace those who appeared to tarry\nBehind. Following in succession came sepa-\nrate trains Of camels, some Of which contain\ned more than fifty animals in line. IN the\ncentre a large space was le!t for the harem\nof the Pasha, the principal personaEcs OF\nwhich were conveyed each III separate Vc-\nhicie, resembling a paanauin, closed on all\nsides round with hoiow lattice work, very\ngautiily painted and gllded, and 0orne be-\ntween two camsls,\n\n\nAl the attendant females, whether COM\npanions, servants, or slaves, We're borne Oh\ncaraels in a kind Of tented pannier, one Of\nthem suspended Oil each side of the animal.\n50 that the pair Of tents contained two per-\nsons. who faced each other, and were shell\n+ared from the sun By the canvass, which at\nonce covered them and cultained thtm from\nthe prying eyes of curious passengers IN\nfront OF the central group were PEDESTRIAN\nband OF musicians, who walked between tiit\nTWO principal paiaqTns as they Kept thtlf\npace abreast ot each other; and Whenever\nthcir porien Of the caravan halted for q rev\nminutes, which happened frequently from\nthe pressure q those before, or the interYcn'\nzion of very triliing circumstances, they be\npuiled the tediun Of the delay by an Arabic\nsong, accompanl ing their yA!cea With the\ncommon Instruments in use among them.\n\n\nAS it was considered more than prebahle\nsaat the known passage Of the Pdsha 5 ha-\nrem across the desert might attract the BE-\ntlouins of the surrounding country, un\"tr thc\nhope Of beng able 70 plundcr them q Their\nJewels, Exc. they were completely hcmmrd\ninthe centre OF the caravan; and vcrr s'tonS-\n\" guarded also by two dctachneats q htty\nmen each under the separate commands I\nlbrahim Pasha and Ismacl Pasha, the vice.\nrows Sons, whose mothers were also among\nthe priac pal females Of those whom they\nprotected. On the right and left ot the cen\nIRE, and about the same distance from tue\nnearest limits ot the edge Of the caravan a.\n'hc adyadced guard werc from rs front, two\nparties Of horsemen formed what might PC\ncalled the wing guards, as their province was\n10 keepa good look out in their respective\nquarters, and to protect that portion OF IN.\ncaravan nearest to which they were placed\nBehind came trains OF camels, fastened ta\nIL, ~ e,1 CT pf ALI \" tG\nparty of about twenty horseincn, apparent\ny for the purpose ot Keeping thc caravan as\ncompact'y as possible, while q rear goard, 1t\nthe distance OF Fl ON two to three mi!e,, bro I.\nup the whole.\n\n\nThe route taken BY tie caravan was the\ncentral or most generally treqnentcl one be-\ning to the rthwald Of that which l had\npursued across the Desert Of .oue2, and re\nssmbng it in soil, having tlrai and hard\ngravel, over which artillery and baggage\nwagons might be drawn with ease; indeed,\nbeside the Gell-piect car which was drawn\nin front, there were several othcr wheel\ned carriages accompanying the present car,\nj avan\n\n\nTowards sunset we had on our left a long\nline Of sand hills, whose summits were Point-\ned and yariegated in thousand iornS, and\nghcir outlines more accurately defined as e.\nNenlnb advanced, ,tOrlnen bedUtlIul COHtTdA!,\nby opposing their yellow edges to the deep\nazure of serene sky. At Muggrib, the hour\nwhen twilight ends, the sigma! gun was fired\n20 halt; and while the camcls retosed OIL the\nground without being un!adcn, the pilgrim,\nof the caravan performed their abluuons anl\nevening prayers, and another hour was al\nlowed for supper, AS the former was duty\nin which did not join and the latter entire\nly omitted for want of inclination, proiittet\nby the interval to throw myself along upor\nthe sand, and catch 4 short repose; but It\nsleep was impossible. Appetite TO eat hac\nnarc; to have drunk vine, With the nigh fe\nyer which continued on me, would have\nbeen poison, and Of water no supply had beer\nlaid in, from an expectation that the chic\n10 whose care and protection had beer\nrecommended, would aiiiord it to me tron\nhis tent, las well az every other species OF pro\nvision; so that subsequently,, when unable Il\nendure any longer the parched thirst tina\noppressed u,e, was Obliged to alGht, anl\nwalking by the side Of the camel, 10 sucH\nfrom a goat skin the putrid water whicl\nour drivers had provided furahc asses AM\nbeasts of butden--they having, for their owt\nuse, only small kids skin iull, which tn\nimpossibility Of rrpleaishing IN the desei\n\n\nmade them carefully preserve.\n\n\nWhen night advanced, its darkness WA\nvery sensibly lessened by the yellowls\nWilderness of the plains around as we'll as b\nthe nncloudcd shy. which welded rs a cica",
+            "legibility": "Questionable",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2889,
+                "y0": 3421,
+                "x1": 3561,
+                "y1": 3707
+            },
+            "class": "article",
+            "raw_text": "4 WING ,actlhant in London was fined G50,\ntncarly s}50l for libclling Baronct by writing\nin private ltttcr:.--\"You may be baronct, but\nYOU are disgrace to Your rank, j am sure you\nare net L gentleman\" Tine liaronet had COM\nblamed of short measure in some Of his wines.\nThe fine was reduced because the wine mer-\nchant had offered an apology previous to the III\ndCmcnt.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1527,
+                "y0": 1204,
+                "x1": 2189,
+                "y1": 5368
+            },
+            "class": "article",
+            "raw_text": "from our correspondent at Bnenos hvres,\nfiles Of the \"Bri,ish Picket\" up to 9th Jan\nuar, after glanciug occr which we find vc-\nry little news tNat would be important 70\nour readers. Discomfort, which has, for a\nlength Of time existed On the part oi the pro-\nvinccs Of Mendoza, SIl Iuan, Cordova and\nSantiago 1cl Es,ero, t,wards the general\ngovernment of the confelerated States, has\nnot, !. would appear, yet subsidized. They\nrefuse to acknowledge eitaer, the new con\ns,itution or the Executive, and have sign'h-\ned a determination to withdraw. That the\nbond Of union should be THIS l'roken. is\neortcc Of much regret, particularly at this\nanfortnnltr moment, When the strength OF\n,,ery Gbre is impcrioua'y Failed for.\n\n\nOn tic - January, dcbutis who wcyc\nchosen to urcscn, the new constitution to othc\ndissidcut provinces, sci outtor their dinrr-\nant Il ,;natjoos; but there was unt much\n/ room for the indugtnce OF s,Hgune c%pcc-\ntatons concerning the ilvG,d5e result Of\n'hru aurncv Some ltc lvs o! Congress,\nare = a.ticular'y ohnnNions e tue disenectcd;\nmd tll4tMalCh met With the stnnscst marks\nq disappro5ation IN one {\" tic provinces,\n(CorAoya,) and caused it, declaration of en-\ntive se9a, atnn from the Cuio', was law\nthat mHac the dcratir, u Cunsress uurc-\nmovable tur any rher cause Ilan irgal\nones, and prchibit.d their rcmoHl II the\noption of their constituents; which was pre-\nyitu,IY practis\"d. Thc wight Of tic people\nto change thcir rcrrcsentativcs i'll any other\nlaw. is one which Is entirely Inconsistent\n\n\nSith al sound principl, !, and ncyet avow-\n\"a \\ the mos, lb,ral ot political ius,itl-\ntions.\n\n\n1t Is tho determination Of the goycrnment,\n. to enforce snbj@ction on the Iart ot those\nPROVINCES; alleging that t,iey havc 20 right\n\n\nAfter having onoe entered into alliance, and\n\n\neccertcd a constitution 81 the Union, (Which\n\n\nm 81 them hAyc done, except Cnrdova) to\nwithdraw without the consent oi the whole\nI The disaiTected had taken mp arms in thcii\ni dtc4Mce, and some shlrhiahins had taken\n\n\nplace.\n\n\n/ Admiral Brown had hlockatlcd 81 sail ot\nthe BRAZILIAN fleet in the Uruguay river\ntNherc they had gone On plundering e%pc-\nditon lie hal erected a fort a a poutrall-\n\n\nCd Punla Ioia,, Whirh he called \"l}rown',\n\n\nntttgY},\" !\" and was detcimincdto 10 hold them\n\n\nIN ste Keeping. This pass, it IS said, com\n\n\npleIci\" commands the river, SO that ho re-\n\n\nenforcement cun grt ny\n\n\n\\ letter has been received hy gentle\n\n\nman at Pensacola from Com. Porter, datei\n\n\nNev West, Goth February, ~ which he Says\n\n\n40 u .tom being hlockaded by In bortle\nhis vessels 80 IN and ont oi port at pleasure\n\n\n0nc a ~ brirs has been ciuiZing Ctl Moro\n\n\nCastle, ana thc olhlr DESTROYING all the trade\nhyt@ryn y. .tan2dY ana Ecu,ites. In speak\n\n\ning Of III, crew, he says 81 am proud e chem\n\n\n10 men could Learn flsttr, 20 men coAld be-\n\n\ndavc hcttcr;\" they worked y SHIP and ma\n\n\nnamcd ruar in all admirable manner. Iht\n\n\nANINlll JIOIC uttA ISt 81 Htl '@HSFA III '' ~\naud was, at the date of his lctter. not well.\nThe committee appointed by the Assem-\n) by of the State OF New Work. 10 Investigate\nthe II rgan affair, have made report; i\nthe conclusion CT which they recommend\ni should the Senate concur thercin---that I'll\nS Governor Of the State should be reqnestc\n\n\nTo issue hi, proclamation, Offering rewar\n;, OF $1,000 for the discovery Of the said Mo,\nn gan. if living, and like sum for the mul\nII dcrer, or murderers, of the said Morgan,\nZ dead, TO be paid on conviction. Also, til;\n\" committee from the two houses be az\nIS pointed, whose duty it shall be to visit cc'\n# tain counties, 10 enquire into the facts Al\n&c circumstances connected with the abducto\n- detention and disposition of the said Morga\n\n\nWILLIAM BROWN, THE SAILOR.\nr The Liverpool Chronicle OF the 18th re\nid contains long account OF an arrest on boa\nOF the Commerce Steam Packet at the IN\nis mcnt she was about starting for Dublin, oi\nto female passenger who was dressed IN s.\nn ol's clothes, and passed by the name\nto William Brown. The officers who to\nof her in custody, acted from information\nng the disguise, which they supposed mig\n,r- have been done to conceal SOME theft. L\n-et sailor was conveyed to prison. From sol\n.l.- Il. tN1,",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 1544,
+                "y0": 854,
+                "x1": 2159,
+                "y1": 912
+            },
+            "class": "headline",
+            "raw_text": ",l.e.sszIs !. yvz EGEgssT & I! 0ME AIg,",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -3
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 1579,
+                "y0": 924,
+                "x1": 2115,
+                "y1": 995
+            },
+            "class": "headline",
+            "raw_text": "DELAWARE ADVERTISER.",
+            "legibility": "Questionable",
+            "full_article_id": 9,
+            "reading_order_id": -2
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 1571,
+                "y0": 1016,
+                "x1": 2141,
+                "y1": 1078
+            },
+            "class": "headline",
+            "raw_text": "Thursday, April IL, 1927.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 843,
+                "y0": 214,
+                "x1": 1515,
+                "y1": 4408
+            },
+            "class": "article",
+            "raw_text": "Inconvenience and severe illness, it was i'm\nDossible 10 be perfectly prepared for the\nimDl essons which our Situation was so wei\ncalculated to excite; yet am sure they lost\nfor moment their poignancy, if they were\nno. altogether forgotten, III the admiration\nwith which ! viewed so grand spectacle as\nthe one that this hour OF midnight present\ned. The caravan consisted OF more than hNe\nthousand camcls, besides mules, asses,\nwheeled carriages, &c. and the number OF\npersons who accompanied 1t, mounted ana\nON foot, were certainly double.\n\n\nThe four points Of the hol'Hon we're inter-\nccpted bv the separate groups q! llbh'S tna,\nacconnauied those respective DIVISIONS oi\nour surrounding guards; although white the\nwaving movements Of the lights themselves\nwere distinctly marked, not AN 1hHlVlau'''\neither OF the Arabs by whom they were\nborne, or of the gnar,l whose path they we're\nintended to Illuminate, could at all be seen.\nImmediately around US. the crowded cara\nvan pursued its march in the most compact\nand closest order, to the unbrokcn prcserya-\nt;oD of which every Individual was induced\n,c attend by regard 70 Ii, own personal\nsafety; when it was considered that We had\nent, red desert, before whose tribes, It they\nattacked. fiirht would he incHrctual, and\nupon whose naked plaigs, no refuge could be\n\\ found\n\n\nThe Arab drivers sung to their caniels\nmost appropriate songs; alternately encour-\nairing them to continue with unsiackchea\nI stems towards The fountain whose streams a\nwaited their arrival, ;,nd promising to leae\n,hem to a SPOT where wells and hcihASe\nwou,d reward them with a sweet rcpaSt\nthen irplorng Allah 10 give strrnhfA\nand iirmncss to thtir limbs ana straoi-\nness to all their pacesi whit\" the beasts\nthemselves seemed really consf i0us OF hp-\nprobation and encouragement GtlhE lntPnS\"\nLin the sounds they heard, moSt PROBABLY\nI from titir repetition, hare nevcr listen\ned 60 them n,vSelf without considerable\npleasure, lrom knowing how unaffected =\n:he attachment which tie ARABS bear To-\nwards their animals in general, ana It has II\nWAYS fnrciblv recalled tn Wy u,@noty thg\ngeneral truth, rs well rs hran'v, OF that II\ncrcting address which liAssnu utaht to ms\nc,uels white trtv,rejnr the desert ~ md\nIav. so uoetcal,v cNNrcssnd \"a Eo|',ns n\nlie sccanl Of his Orlrettl ftl18nes:--\n\n\n..yc mute companion. oim, ,oi tha' hcat,\n\n\nIn AL ny grciS 4 muie tilsn el'll narc\n\n\nHere, w,crc ii9 snf4Aci in narnu,e hr',k awal\nOr moss crowned t5Gutnns m'!E&f'he Cay,\n\n\nn vain yc hope thc green drsGIt' % LnoN,\nWhich plains more blest, or ycE!An' 'aIet be.\n\n\nSTOW,\n\n\nHere rocks alone. anl tn,tcless sands arc iounl,\nAnd tant anl sickly wiai5 forever how araGnd'\n\n\nTn short. all the varictir- of scenes rf cir\ncumstanCeS, an.l ot rccul,rctians, arising oui\nOf our immediate situation, contributed unly\n10 hcghten thr interest ot i; while tn\nslow and steady pace a: thr clmtls, the sona\nof their drivers, tn c0uaticss n0mhcr n\ntorches that blazed through every pa't n\ntie caravan, the t1yins sGp4drons u Horse\nthat gAlioDed thruu III our lines, ant Nkrt.\nI'd their txtrtmes, tp preserve the Cohpacl\nor!cr of OUR march, TIE scattered parties o\n\n\nt.Ab musicians hO surrounded tle lltttr!\nOil pul ,nquias Of the hrcul, and the rcrcdt-\ned crie, Vi \"lsh Allah\" that were heard a\nInterval, from cvtry quarter, being pro\n\n\nHOqnctl in such tone of r\",Cc As to rdis'\n.cpriior IN the mingled tumut Of other\nSounds, altogether formed Scenc, whitl\nfor grlt.Jcur and impressive effect, ! have\nseldom s.en cquallel, certainly never sur\npassed, am, 1T which il woutd not bu easy\nsoon to l,su Jhe remembrance.\n\n\n\nIn thr ,iciaty Of philadelphia, on Fu' 5\ndaY, the 3 I inst, The corner stoac cfthc y\n\n\nval As,ium WAS laid with due Ceremony, il\nthe prtsyucc of the Navy Commissioner\n\n\naud Il nnnAer Of citi2lns A.ter the ston,\nhad bccn propcAty Sccn 81, E\"ao.or'\n,, Bninbfiase, ?re.d, u q tac .Savy BoAid, d.\niivercd the following addrt> -\n\n\n\"'ihc expense ct the building which is a\n: bout to commence uader circumstances s.\na,lspicons, is betrayed tut cf 4 iund raise\n, by the monthly contributions OF TIE Officers\n! 5ramen, md Marines in the National Ser\n! vice. These contributions commenced il\n!, TIE year 1796, ard oi course nearly to' ten\n! poraucously with the origin ot our naN cs\n\n\ntabiishmcnt By tl,e fostering carf ot gn,\netnmeui the fnnd 50 raised has accHmuiate'\n, 20 a sun cxcctaing $40 ,oU0\n\n\n. This joint STOCK !, nov about II he ap\ny prGurinted uaGcr ne direction uf ~, yrn\nmear, u the purposes ior which ii w,s oil\n! ginaly mtendea.--A home w,l thps BE Is\n\n\nt4biished 10y the faithful tar, who has bee\neither worn ont or manned, in hshtin\nD the battles cf his cou!try--a comfort\n! able harbour will be secured, where h\nu may safely mcor aud ride ort the ebb of iii\nD from The cares ard storms BY which he ha\n= been previously surrcuhded,- viii her\nQ cheeltuiIy ara proudly live with his ow\n), ncssmatea; With the companions OF ms tor\n= !, mer sports, toiis, and dangers. md whtr\n: they will animate ctch other, by rc-couat\n! ing the pleasures which they cnjcycd, TIA\ny perils which thcy escaped, and tay battle\nu which they fought. \\ picture Ct happincs\ne VIII thus DC exhibited, net less gratifying\nu the Patriot, than i, val he useful, i'll stunt",
+            "legibility": "Illegible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2885,
+                "y0": 3745,
+                "x1": 3565,
+                "y1": 4040
+            },
+            "class": "article",
+            "raw_text": "Hr4,,y1cn = NJ. Crook, an English Fhrenoi'\noGist, has discovered 4 new organ, which he ac-\nInou6natcs 9Uotdtirtac8S. 1t is situated imned'-\natcIy anterior to the organ Of des'rae''rf\"rss'-\nThis organ IS daFnosic of the tore 4 .eI'\"E'\nand we presume that it IS pretty gcnersiiy ue'el-\nopc,l il III mankind. Perhaps BY thc hammer\ning down Of this organ the dyspepsia may DC\ncuretl",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2237,
+                "y0": 5248,
+                "x1": 2899,
+                "y1": 5455
+            },
+            "class": "article",
+            "raw_text": "A duel was fought at Calais on the Sd, be-\ntween Partisan, and a Mr. King Of London.\nThe former was attended by one second, the\nlatter by four, among them the Rep. Mr..\nJones'. The reverend gentleman was con-\nsiderably endangered by the ,aecilental dis.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2206,
+                "y0": 2782,
+                "x1": 2877,
+                "y1": 3054
+            },
+            "class": "article",
+            "raw_text": "FIRE --The barn oi N'r. Nicholas Ry-\neison, in the town OF Ntraon, Sussc% coun-\n~, n. J. was burut to the Ground ON tho C.\nvenus Of SUNDAY The 25th u!t together with\nall its contents, consisting OF TNHlN l.\nHORSES, quanti'y OF grain, hay, &c. The\nhorses we've very valuable, some OF them es-\nleemed TO be Solth .5.lcO a piece,",
+            "legibility": "Illegible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2889,
+                "y0": 3027,
+                "x1": 3561,
+                "y1": 3383
+            },
+            "class": "article",
+            "raw_text": "m .qfair qf Hnort-Two blacks, the tion'eS'\ntic servants of Thomas II. Carnegie, OF Wacca'\nNAV, Geo ''scttlei an affair OF homer\" by sI''\nGle combat few weeks since. They had . rie\nand pistol between them, and tossed up for the\nchoice. The negro, to whom the rife fell, was\nwounded BY his antagonist, and in spite OF his\nwound, after dischargng lis rAe, walked up\nand beat ont the brains sc the other with the but\nend He has since been committed to Jail and\naill probably be hanged.",
+            "legibility": "Questionable",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3122,
+                "y0": 2839,
+                "x1": 3315,
+                "y1": 2879
+            },
+            "class": "headline",
+            "raw_text": "DUEIIING.",
+            "legibility": "Illegible",
+            "full_article_id": 15,
+            "reading_order_id": -2
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 2973,
+                "y0": 2887,
+                "x1": 3399,
+                "y1": 3010
+            },
+            "class": "headline",
+            "raw_text": "\"Anlif among the whites,\nThis noble ant grows dulieE\nhope to sec some fights\n\n\nAmonr thc folks OF colour",
+            "legibility": "Illegible",
+            "full_article_id": 15,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2188,
+                "y0": 157,
+                "x1": 2864,
+                "y1": 4097
+            },
+            "class": "article",
+            "raw_text": "Laura. of New YoiL, IS ali about her. iief\nstory as well as could be recohected, ap-\npears to be as follows; Her father IS hier-\nchant in London. About three years ago\nShe left his house to follow her lover, VINO\nvas the mate Of d vessel in the North Amer\nican trade, and hearing he had sailed TOT\nSt. Johns, she came to Liverpool. and TOOK\nmassage for that port. On arriving at ot.\nJohns. she discovered the vessel had gone\nto Quebec, thither she went, -sand therc\nlearned that her lover was drowned -oh n.S\npassage up the St. Lawrence ohe imlheu!-\natelv determined TO become sailor loi hia\nsake. aud assuming the garb OF man. en-\ngagged as cook and stewart to the Was'ei VI\nvessel .or London, with whom ahe remain\ned upwards Of twelve months. ne hs\"t\nvessel she ioincd, and in which Shc also sef'\ned UPWARDS Of twelve months, some weeks\nback, brought her to Liverpool. but tEe mas\"\nter. suspcctinG her sex cHtorted from ncr\nthe secret, and wished her to remain win\nhim, but she would rot consent, ana shy\nwas about to proceed to Ireland. WINE ID\nprison she said her name was Selma hgus!a\nHamilton. She is said TO be complete sal\nlor, taking her grog and using TOBACCO iihc\nother tars. She states that she VIII nave\nfour thousand pounds at her disposal when\n\n\n\ntends 10 ennp vessel aud take command.\nShe was brought up Tor sanitation on the\n10th Of February at the Town Hall, when 1t\nappcared that her arrest was caused by the\nCaptain of the Laura. The girl refused to\nten the Magistrate. Alderman Bourne, her\nftthcrsnamc, she said She could see no ncces\nsty for it; She said She was sailor row anG\nsuch intended to rcn,4n. Mr. Duticv, OF the\nLaura, wished the Magistrate TO place her\nin his charge, that lie might restore her to\nher father. At tbs She gave him look OF\nsurprise, aud then remarked to the magls-\ntratc she had made choice Of her present\nmode Of life, and meant 10 pursue u. he\nMagistrate discharged hci\n\n\nThe Editors Of lie q area Journal in re\nplv 20 the complains ot some subscriber,\nwho mad rccciveA lis paper vrcEnlallv,\n/ make th\" following sensible remark.\n\n\n\"ifbv the happcn,ng Of some accident to\nthe mil, onr newspapers should fail but\nonce to reach their destination, We soon hear\nii the complaints of subscribers. They are\ntlissatisGrd aud have reason 10 he So From\nMS they should !aalu to appreciate the dis\nsatisfaction We may be supposed to feel,\n\\ zWicn oHr8Ht&crihi9s n,oncy bccomcS aHc,\nand thcg f11i to SrHa II 10 as! II the tail\nurc Of newspaper one week, Is matter oi\nSO much ANNOYANCE to subscribers, low\nmuch more reason haSe We t@ complain\nwhen there is a f,ilurc, week alter week,\nand month attcr utcnth, in the receipt q\nwhat is Justly due Us for cur time aud .abor\nIexpcndcd iur thc amusement and iastrnc-\nton ct others\"\n\n\nMASS SCHltsGi rs .\".he election FOL\nGo,erhnr ai1! i.iruteuant Governor il Mas\nsachuse,ts, ~, hrld u Monday. IL boston\ntue yotes tur C.nN crnor ere\n\n\nFer l.i\"coln, roe\nlaiAi4, 1862\n\n\nllayrlsca q. OGs sos\n\n\nFIRE THE barn oG MI. Nicholas Ry\neison, in the town OF Neraon, SnsscN coun\nty, n. }. was burnt to the rrourtl On tho c\nvenin., Of sunday the 2ath u!t. together VIII\nall its cnatel.ts, consisting OF TWHlN /\n\n\nHORSES, qualify Of grain, hay, &c. Ih'\nhorses we've very valuable, some Of them es\n\n\nleemed TO be Solth .5.tcO piece,\n\n\nGreek Huhl'l-.--Carro. purchased b,\nlie Philadelphia Greek Committee, for til\nbrig To;itinc. Which sailed fox Greece Oh III\n\n\n23d at March.\n\n\n9sS barrels fdnr, 2 bvs domestic goods\n\n\nl5I half bis. do. 100 dozen SHIRTS,\n90s hls. corn meal, 4 boxes vermiccln,\n\n\n722 hls. navy bread, boxes taploca,\n\n\n40 ticrcuS Of rice, barrel salts,\n\n\n80 l,arre's beef, 90. dss'd m\"dlc'nes\n: / haifhnrrcl do. KEYS glauhcr salt,\n8harrcis pork, box Surgical instru\n\n\n100 barrels mackerel, mentS.,\n\n\nAmounting with trciHht, insurance, exc, t\n\n\nii, 900 dollars Is cents\n\n\nAmong the causes tr.ed BY tie last ccnat\ncourt, at NTontpeli@r, VI. was one fer\nbreach Of the marriage promise. The \"a\n!.othar;n was MIR David Hatch. IN\nbreach was clearly proved, and the jary or\ntlcrcd it TO be mc,dcd bv awarding the fai\n\n\nsplnstcr who was plaintiff, S6o3 Al wiz\ncosts\n\n\nMiss Tootr. q the l.nglsh Theatre, La\n: clearrd twcnty-two thous,nl dollars, ,.HriH\n; the last wear. rhis is acting to some pur\npose Dumati, genius, when coupled Wit\n\n\nbeauty, is ihc most profitable stock in tn",
+            "legibility": "Questionable",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 2232,
+                "y0": 4928,
+                "x1": 2890,
+                "y1": 5205
+            },
+            "class": "article",
+            "raw_text": "Cleared at Charleston March 10, Ship\nFriends, for Grecnock with As bales Sea Isl\nand, and 1856 Of Upland Cotton. Also,\nship Mordecai, for Liverpool, with 293 bales\nSea Island, and o9o Upland.\n\n\nCotton. at Cheraw, S. e. is quoted at and\nfrom to cents; at Camden, \"a to 81; and\nat Wilmington n. c. 81 %.",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 2920,
+                "y0": 5345,
+                "x1": 3583,
+                "y1": 5460
+            },
+            "class": "article",
+            "raw_text": "The Quebec Gazette states thtt t'o'e\n-uow fell in the month of March, tt\"h '\"r'N\nhad fallen since the opening o, w.As. :.",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 2197,
+                "y0": 2501,
+                "x1": 2873,
+                "y1": 2748
+            },
+            "class": "article",
+            "raw_text": "MASS SCHLsri IS -'.he election for\nGo, erKpr auA i.ieuteuaNt e. werner il Mas\nsathusetts. Has hrld N Monday. Ia bOston,\ninP yotes tur Col ernor ere\n\n\ntur l.'\"ccln, zoe\nlaiAi9, llb2\nllarrlsca q. OGs sos",
+            "legibility": "Illegible",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 2215,
+                "y0": 4153,
+                "x1": 2886,
+                "y1": 4899
+            },
+            "class": "article",
+            "raw_text": "From one Of the mosc respectable dealers\nin cloths, We learn that ENGLlSH\nCLOlH HS of the sharitHs, nr ioWi\"9dd dye,\nhave found their way into the Bitimore\nmarket. There is 10 douht, we learn, that\nthcy came from the same source through\nwhich they had been heretofore introduced\n\n\ninto New York ard Boston. Ihc spurious\nor logwood dyed cloths, after being made un\nand exposed to the air for short time, be\ncone clarrt or dirty red color, aud cShih-\n1t a shabby appearance. Our informant i\"\norder to show the difference between the\ngenuine and spurious dyes, applied, in our\n| presence, the test Of aquA-turtis to several\n( pieces Of cloth of each Kind. The effect il\nevery instance WAS, that the indigo remained\nunchanged, while the logwood dye was de-\nstroyed aud turned to scarlet hue. These\nspurious cloths, from the cheapness OF the\ndye, are sold at low rate, but to the consum-\ner they vii! always prove dear bagain.\n\n\n.jEe,iciu,",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 2889,
+                "y0": 4074,
+                "x1": 3565,
+                "y1": 4307
+            },
+            "class": "article",
+            "raw_text": "The cw-Englarl Farmer mentions an act o'\nbase depreciation recently committed Ill RoHpn-\nry Mass, by some undctccted m.iiians. Mr. l.\n4. Knight secretary TO the Horticultural Soci-\nETY. of London, sent over TO MIR. Lowell, some\nvaluable specimens Of fruit trees, which the VII\nlains have utterly destroyed.",
+            "legibility": "Questionable",
+            "full_article_id": 28,
+            "reading_order_id": 0
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 2898,
+                "y0": 4337,
+                "x1": 3561,
+                "y1": 4522
+            },
+            "class": "article",
+            "raw_text": "The inhabitants Of Nantucket, 1t late\ntown mtctiug, chose school committe OF\ntwelve persons, and appropriated S25oo tor\nthe organization Of public schools, aud the\nsupport of them for the current year.",
+            "legibility": "Questionable",
+            "full_article_id": 31,
+            "reading_order_id": 0
+        },
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 2903,
+                "y0": 5038,
+                "x1": 3578,
+                "y1": 5302
+            },
+            "class": "article",
+            "raw_text": "The Rev. Robert Cox, minister of the Meth\nodst Episcopal Church, died in Suffolk county,\nVa on the 18th ult. lniis will he made PROVISION\nfor emancipating all his slaves, Upwards OF ao,l\nand for giving each handsome sum OF money\nlie had offered to transport them to Atrlca aHF\ning his life, but they chose to live with h' si'''\nreceive wages.",
+            "legibility": "Legible",
+            "full_article_id": 32,
+            "reading_order_id": 0
+        },
+        {
+            "id": 32,
+            "bbox": {
+                "x0": 2210,
+                "y0": 3093,
+                "x1": 2877,
+                "y1": 3216
+            },
+            "class": "article",
+            "raw_text": "Greek HHAi'i-.--Carro. purchased by\nthe Philadelphia Greek Gou.nitter, for the\nbrig 1'outinc, Which sailed fox Greece Oh the\ngel ~ VI trfb",
+            "legibility": "Questionable",
+            "full_article_id": 33,
+            "reading_order_id": 0
+        },
+        {
+            "id": 33,
+            "bbox": {
+                "x0": 2210,
+                "y0": 3921,
+                "x1": 2877,
+                "y1": 4128
+            },
+            "class": "article",
+            "raw_text": "Miss Tootr of the l.nglish Theatre, has\ncleared twenty two thous,nA dollars, curing\nthe last wear. Ths is acting to some pur,\npose Dramatic genius, when coupled with\nbeauty, is The most profitable stock in the\nworld.",
+            "legibility": "Illegible",
+            "full_article_id": 34,
+            "reading_order_id": 0
+        },
+        {
+            "id": 34,
+            "bbox": {
+                "x0": 2898,
+                "y0": 4556,
+                "x1": 3570,
+                "y1": 4767
+            },
+            "class": "article",
+            "raw_text": "4 gang Of cnunteifciters has been discov-\nGre ii New-Yurk. Seven Of them were ar\nrested on Saturday morning, and brought 10\nthe police oilice Bills of the bank OF New\nburgh, of the denomination OF $40 were\nfound in their possession.",
+            "legibility": "Questionable",
+            "full_article_id": 35,
+            "reading_order_id": 0
+        },
+        {
+            "id": 35,
+            "bbox": {
+                "x0": 2903,
+                "y0": 4797,
+                "x1": 3574,
+                "y1": 5004
+            },
+            "class": "article",
+            "raw_text": "The debtors of Boston Prison, witt, %r IT,\ntude tender their acknowledgements 80 the\nlberality and humanity Of Josfd y. i1er-\nkias, esq. (ate Sheriff of London,) in DIS\ncharging and liberating them from coniine-\nmtnt.",
+            "legibility": "Legible",
+            "full_article_id": 36,
+            "reading_order_id": 0
+        },
+        {
+            "id": 37,
+            "bbox": {
+                "x0": 3665,
+                "y0": 240,
+                "x1": 4665,
+                "y1": 4250
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 38,
+            "reading_order_id": 0
+        },
+        {
+            "id": 38,
+            "bbox": {
+                "x0": 3599,
+                "y0": 157,
+                "x1": 3714,
+                "y1": 701
+            },
+            "class": "article",
+            "raw_text": "II is s.\natrenne|\n\nwesk.\nthe accd\nstone o1\nwhich, 4\nwe're xii\nbed, in\ngarre''\n\" the peri\noftllc \\\nsmall \\\n\n\nblown z\nevery y\n\n\ncspcd \\",
+            "legibility": "Questionable",
+            "full_article_id": 39,
+            "reading_order_id": 0
+        },
+        {
+            "id": 39,
+            "bbox": {
+                "x0": 2210,
+                "y0": 3632,
+                "x1": 2877,
+                "y1": 3895
+            },
+            "class": "article",
+            "raw_text": "Among the CAUSES ,r.ed BY tie last ccnaty\ncourt, at Montpelier, VI. wns one fer q\nbreach Of the marriage promise. The gay\nI.othar;n was a Mr.. David Hatch. The\nbreach was clearly proved, and the jary Or\ndcrcd it TO be mcndcd bv awarding the fair\nspnster who was plaintiff, S6o3 ~ with\ncosts.",
+            "legibility": "Illegible",
+            "full_article_id": 40,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                23,
+                0
+            ],
+            "headline": "WILLIAM BROWN, THE SAILOR.",
+            "article": "The Liverpool Chronicle of the 18th Feb.\ncontains long account of an arrest on board\nthe Commerce Steam Packet at the mo-\nment she was about starting for Dublin, OF !.\nfemale passenger who was dressed in sal\n\n\nloi's clothes, and passed by the name OF\nWilliam Brown. The officers who took\nher in custody, acted from information Of\nthe disguise, which they supposed might\nhave been done to conceal SOME theft. The\nsailor was conveyed to prison. From some\nenquiries, the house where Brown lodged\nwas discovered, the proprietor of which re-\n\n\n| terrcd the officers to the master of the bril",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1623,
+                    "y0": 4959,
+                    "x1": 2159,
+                    "y1": 5000
+                },
+                {
+                    "x0": 1571,
+                    "y0": 5003,
+                    "x1": 2220,
+                    "y1": 5455
+                }
+            ],
+            "bbox": [
+                1571,
+                4959,
+                2220,
+                5455
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-04-12_p2_sn85042523_00271740244_1827041201_0765.json"
+        },
+        {
+            "object_ids": [
+                17,
+                1
+            ],
+            "headline": "QUICK COURTSHIP.",
+            "article": "A gentleman who resides IN the neighbor-\n\n\nhood If Manchester, and who, having paid\n\n\nhis addresses 10 IA young lady who resides not\nmany miles from Liverpool, and who it is\nstated, had so far approved of his suit as to\nfix a day, il the last week, for the perform\nance Of the marriage ceremony, came to\ntown on Saturday week, for the purpose of\nmaking preparations for the approaching\nnu,ti;.ls: In the course of the day he enter\ned a glover's shop not one mile from street\nwhich is undergone great improvements, tc\npurchase gloves for the wedding. A young\nlady was behind the counter. She smiled, a:",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1023,
+                    "y0": 4959,
+                    "x1": 1410,
+                    "y1": 5000
+                },
+                {
+                    "x0": 896,
+                    "y0": 5003,
+                    "x1": 1559,
+                    "y1": 5468
+                }
+            ],
+            "bbox": [
+                896,
+                4959,
+                1559,
+                5468
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-04-12_p2_sn85042523_00271740244_1827041201_0765.json"
+        },
+        {
+            "object_ids": [
+                15,
+                2
+            ],
+            "headline": "u he Ediio.s ofMs National Intelligence.",
+            "article": "{ q 'Re JSuffoFS \" ifsc A'tttO'f-t H'tt''65S''N\"\n\n\nCcntlcmen--Iiaying seen in the National In\ntclIigcnccr OF the 27th ult notice of report\nii Philadelphia, founded OH private letters, rel\nalive to the breaking up Of Mr.. Owens estah-\nlishment at Ncw.Ilarmony, take the liberty to\nassure you, upon personal knowledge, that Mr..\no. himself was al Ncw-iiarmony on the 20th CT\nMarch, apparently felcitating in the progress\nwhich he says those principles he advocates have\nmade and are making. II is true that consider\nable dmnu,ion OF the population has taken\nplace; but that change is considered beneficial.\nboth as relates to business concerns and the pro-\nmotion oi NIr. owens more extended views. A\nSuccession of more contcnted and more intclli-\ngent families, are confidently expected Indeed\nL is known to the writcr that the changes\nwhich have lately taken place have led to an IN\ncrease ofindustIy and happiness to those thatre-\nE.ain.\n\n\n1t is the intention Of Mr.. o. to visit Europe, IN\nthe course OF the present month; but it Is also,\nas stated ~ himself, his dc ign to return, as\nspeedily as his extensive concerns IN Scotland\nviii permit, accompanied by the remainder OF his\ni4ully, two Of lis sons being now at Harmony\nA TRAVELLER,\nHcsAington, .2.pr33, 1927.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2942,
+                    "y0": 1862,
+                    "x1": 3517,
+                    "y1": 1906
+                },
+                {
+                    "x0": 2881,
+                    "y0": 1892,
+                    "x1": 3548,
+                    "y1": 2809
+                }
+            ],
+            "bbox": [
+                2881,
+                1862,
+                3548,
+                2809
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-04-12_p2_sn85042523_00271740244_1827041201_0765.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "female shepkeepers generally do, \"hsh ,ney y\nobserve the face Of male customer he\ngloves were soon displayed on the counter\nand the fair one proceeded to fit a par on\nthe hand of her new customer. The gentle\nman first looked at the lady. then at the\ngloves, and again at the lady. Hiseye bright\nrnrd--his bosom heaved, and sigh escaped\nIII another moment the gentleman was des-\nperatey. incurably in love. lie forgot her\nwhom he had come hither to marry, and\nbecame f,ithlcss lover. lie instantly oiler-\ned hi, hand to the fair glover. She Just hes\nitated one moment, as ladies generally hesi-\ntate when placed in such singular circum-\nstances, and blushingly yielded herself to hiS\nsoft seduction.-On Monday last the parties\nwe're married, and drove out of town attend\ned by a splendid cavalcadc, to the rcsideaec\nOf the hot and fiery inamorato.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1518,
+                    "y0": 166,
+                    "x1": 2181,
+                    "y1": 829
+                }
+            ],
+            "bbox": [
+                1518,
+                166,
+                2181,
+                829
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-04-12_p2_sn85042523_00271740244_1827041201_0765.json"
+        },
+        {
+            "object_ids": [
+                19,
+                4
+            ],
+            "headline": "THE REV. S. WESLEY.",
+            "article": "Mr.. Wesley had clerk, who believed ths\nrector his master, to be the greatest man in\nthe parish, if not in the country; and himser\nto be the next to him in worth and impor,'\nance. He had the advantage and privilege\nOf wearing out Mr.. Wcsey's cast off clothes\nand wigs, for the latter of which his head\nwas far too small The rector fndinr\nhim particularly vain Of one of these canon.\nica substitutes for hair which he had lately\nreceived, formed the design to mortify him\nin the presence Of that congregation before\nwhich John wished to appear in every re-\nspect what he thought himself. One morn\ning before church time Mr.. w. said \"re\nJohn, shall preach on particular subject\nto-day; and shall choose my own psalm, Of\nwhich shall give the first line, ard YOU\nshall proceed as usual\" John was pleased\nand service went forward as it was wont to\ndo till they came to the singing, when Mr.,\nw. gave out the following line -\n\n\n\"l.ikc to an owl in ivy bush''\n\n\nThis was sung--and the following line.\nJohn pccping out of the huge canonical wig,\nin which his head was half lost, gave out\nwith an audible voice and appropriate con-\nmeeting, twang-\n\n\n\"1hat rucful thing am Il\"\nThe whole congregation, struck with\nJohns appearance. saw and felt the slmii-\ntrdc and burst into laughter. The rector\nwas pleased, for John was mortified, and his\nself-conccit humblcd. This is the same man,\nwho, when King William returned to Lon\ndon after some of his expeditions. gave out\nii lIcpwerth church--Let US sing to the\npraise aud glory of God, a hymn of my own\ncotnposng:--\n\n\n/ \"king William is come home, come home.\nKing William home is come;\n\n\nTherefore let US together sing\n\n\nThe hymn that's calld 1s Dum\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2977,
+                    "y0": 315,
+                    "x1": 3407,
+                    "y1": 355
+                },
+                {
+                    "x0": 2868,
+                    "y0": 359,
+                    "x1": 3530,
+                    "y1": 1836
+                }
+            ],
+            "bbox": [
+                2868,
+                315,
+                3530,
+                1836
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-04-12_p2_sn85042523_00271740244_1827041201_0765.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "almost always Si.tin sight, except when nd I\nden from the yicW by hollow i'll the SANDS,\nOF which there are many, resembling 'lle\nsnacc LETT between two succeeding oiliowS III\nq tempest; and as vessels sink between tne\nrising waves, So as to be lost TOR 'loa'e\"s\nfrom the sight OF those around them SO even\nGIN this desert plain the same eitert IS pro\ntluceti by MANI fuirows, which ihtercep's i'S\notherwise ie, Ell surface. In ii0nt - inc car 4\navan, and Immediately preceding y, was\nsix-poun1 iron cannon, very loosely Nt'eu -\nfield piece, on heavy car, ana drawn py\nfour horses. On each side this, were par\nties or about twenty horsemen IN each,\"host\nprovince It appeared to be to Keep an eguAi\nline, bY riding up and down the oreaath ana\ntbe front, and checking those who were too\nfar advanced, \"a, well as bringing up by q\nquicker pace those who appeared to tarry\nBehind. Following in succession came sepa-\nrate trains Of camels, some Of which contain\ned more than fifty animals in line. IN the\ncentre a large space was le!t for the harem\nof the Pasha, the principal personaEcs OF\nwhich were conveyed each III separate Vc-\nhicie, resembling a paanauin, closed on all\nsides round with hoiow lattice work, very\ngautiily painted and gllded, and 0orne be-\ntween two camsls,\n\n\nAl the attendant females, whether COM\npanions, servants, or slaves, We're borne Oh\ncaraels in a kind Of tented pannier, one Of\nthem suspended Oil each side of the animal.\n50 that the pair Of tents contained two per-\nsons. who faced each other, and were shell\n+ared from the sun By the canvass, which at\nonce covered them and cultained thtm from\nthe prying eyes of curious passengers IN\nfront OF the central group were PEDESTRIAN\nband OF musicians, who walked between tiit\nTWO principal paiaqTns as they Kept thtlf\npace abreast ot each other; and Whenever\nthcir porien Of the caravan halted for q rev\nminutes, which happened frequently from\nthe pressure q those before, or the interYcn'\nzion of very triliing circumstances, they be\npuiled the tediun Of the delay by an Arabic\nsong, accompanl ing their yA!cea With the\ncommon Instruments in use among them.\n\n\nAS it was considered more than prebahle\nsaat the known passage Of the Pdsha 5 ha-\nrem across the desert might attract the BE-\ntlouins of the surrounding country, un\"tr thc\nhope Of beng able 70 plundcr them q Their\nJewels, Exc. they were completely hcmmrd\ninthe centre OF the caravan; and vcrr s'tonS-\n\" guarded also by two dctachneats q htty\nmen each under the separate commands I\nlbrahim Pasha and Ismacl Pasha, the vice.\nrows Sons, whose mothers were also among\nthe priac pal females Of those whom they\nprotected. On the right and left ot the cen\nIRE, and about the same distance from tue\nnearest limits ot the edge Of the caravan a.\n'hc adyadced guard werc from rs front, two\nparties Of horsemen formed what might PC\ncalled the wing guards, as their province was\n10 keepa good look out in their respective\nquarters, and to protect that portion OF IN.\ncaravan nearest to which they were placed\nBehind came trains OF camels, fastened ta\nIL, ~ e,1 CT pf ALI \" tG\nparty of about twenty horseincn, apparent\ny for the purpose ot Keeping thc caravan as\ncompact'y as possible, while q rear goard, 1t\nthe distance OF Fl ON two to three mi!e,, bro I.\nup the whole.\n\n\nThe route taken BY tie caravan was the\ncentral or most generally treqnentcl one be-\ning to the rthwald Of that which l had\npursued across the Desert Of .oue2, and re\nssmbng it in soil, having tlrai and hard\ngravel, over which artillery and baggage\nwagons might be drawn with ease; indeed,\nbeside the Gell-piect car which was drawn\nin front, there were several othcr wheel\ned carriages accompanying the present car,\nj avan\n\n\nTowards sunset we had on our left a long\nline Of sand hills, whose summits were Point-\ned and yariegated in thousand iornS, and\nghcir outlines more accurately defined as e.\nNenlnb advanced, ,tOrlnen bedUtlIul COHtTdA!,\nby opposing their yellow edges to the deep\nazure of serene sky. At Muggrib, the hour\nwhen twilight ends, the sigma! gun was fired\n20 halt; and while the camcls retosed OIL the\nground without being un!adcn, the pilgrim,\nof the caravan performed their abluuons anl\nevening prayers, and another hour was al\nlowed for supper, AS the former was duty\nin which did not join and the latter entire\nly omitted for want of inclination, proiittet\nby the interval to throw myself along upor\nthe sand, and catch 4 short repose; but It\nsleep was impossible. Appetite TO eat hac\nnarc; to have drunk vine, With the nigh fe\nyer which continued on me, would have\nbeen poison, and Of water no supply had beer\nlaid in, from an expectation that the chic\n10 whose care and protection had beer\nrecommended, would aiiiord it to me tron\nhis tent, las well az every other species OF pro\nvision; so that subsequently,, when unable Il\nendure any longer the parched thirst tina\noppressed u,e, was Obliged to alGht, anl\nwalking by the side Of the camel, 10 sucH\nfrom a goat skin the putrid water whicl\nour drivers had provided furahc asses AM\nbeasts of butden--they having, for their owt\nuse, only small kids skin iull, which tn\nimpossibility Of rrpleaishing IN the desei\n\n\nmade them carefully preserve.\n\n\nWhen night advanced, its darkness WA\nvery sensibly lessened by the yellowls\nWilderness of the plains around as we'll as b\nthe nncloudcd shy. which welded rs a cica",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 164,
+                    "y0": 350,
+                    "x1": 849,
+                    "y1": 4553
+                }
+            ],
+            "bbox": [
+                164,
+                350,
+                849,
+                4553
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-04-12_p2_sn85042523_00271740244_1827041201_0765.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "4 WING ,actlhant in London was fined G50,\ntncarly s}50l for libclling Baronct by writing\nin private ltttcr:.--\"You may be baronct, but\nYOU are disgrace to Your rank, j am sure you\nare net L gentleman\" Tine liaronet had COM\nblamed of short measure in some Of his wines.\nThe fine was reduced because the wine mer-\nchant had offered an apology previous to the III\ndCmcnt.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2889,
+                    "y0": 3421,
+                    "x1": 3561,
+                    "y1": 3707
+                }
+            ],
+            "bbox": [
+                2889,
+                3421,
+                3561,
+                3707
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-04-12_p2_sn85042523_00271740244_1827041201_0765.json"
+        },
+        {
+            "object_ids": [
+                25,
+                28,
+                20,
+                8
+            ],
+            "headline": ",l.e.sszIs !. yvz EGEgssT & I! 0ME AIg,\n\nDELAWARE ADVERTISER.\n\nThursday, April IL, 1927.",
+            "article": "from our correspondent at Bnenos hvres,\nfiles Of the \"Bri,ish Picket\" up to 9th Jan\nuar, after glanciug occr which we find vc-\nry little news tNat would be important 70\nour readers. Discomfort, which has, for a\nlength Of time existed On the part oi the pro-\nvinccs Of Mendoza, SIl Iuan, Cordova and\nSantiago 1cl Es,ero, t,wards the general\ngovernment of the confelerated States, has\nnot, !. would appear, yet subsidized. They\nrefuse to acknowledge eitaer, the new con\ns,itution or the Executive, and have sign'h-\ned a determination to withdraw. That the\nbond Of union should be THIS l'roken. is\neortcc Of much regret, particularly at this\nanfortnnltr moment, When the strength OF\n,,ery Gbre is impcrioua'y Failed for.\n\n\nOn tic - January, dcbutis who wcyc\nchosen to urcscn, the new constitution to othc\ndissidcut provinces, sci outtor their dinrr-\nant Il ,;natjoos; but there was unt much\n/ room for the indugtnce OF s,Hgune c%pcc-\ntatons concerning the ilvG,d5e result Of\n'hru aurncv Some ltc lvs o! Congress,\nare = a.ticular'y ohnnNions e tue disenectcd;\nmd tll4tMalCh met With the stnnscst marks\nq disappro5ation IN one {\" tic provinces,\n(CorAoya,) and caused it, declaration of en-\ntive se9a, atnn from the Cuio', was law\nthat mHac the dcratir, u Cunsress uurc-\nmovable tur any rher cause Ilan irgal\nones, and prchibit.d their rcmoHl II the\noption of their constituents; which was pre-\nyitu,IY practis\"d. Thc wight Of tic people\nto change thcir rcrrcsentativcs i'll any other\nlaw. is one which Is entirely Inconsistent\n\n\nSith al sound principl, !, and ncyet avow-\n\"a \\ the mos, lb,ral ot political ius,itl-\ntions.\n\n\n1t Is tho determination Of the goycrnment,\n. to enforce snbj@ction on the Iart ot those\nPROVINCES; alleging that t,iey havc 20 right\n\n\nAfter having onoe entered into alliance, and\n\n\neccertcd a constitution 81 the Union, (Which\n\n\nm 81 them hAyc done, except Cnrdova) to\nwithdraw without the consent oi the whole\nI The disaiTected had taken mp arms in thcii\ni dtc4Mce, and some shlrhiahins had taken\n\n\nplace.\n\n\n/ Admiral Brown had hlockatlcd 81 sail ot\nthe BRAZILIAN fleet in the Uruguay river\ntNherc they had gone On plundering e%pc-\nditon lie hal erected a fort a a poutrall-\n\n\nCd Punla Ioia,, Whirh he called \"l}rown',\n\n\nntttgY},\" !\" and was detcimincdto 10 hold them\n\n\nIN ste Keeping. This pass, it IS said, com\n\n\npleIci\" commands the river, SO that ho re-\n\n\nenforcement cun grt ny\n\n\n\\ letter has been received hy gentle\n\n\nman at Pensacola from Com. Porter, datei\n\n\nNev West, Goth February, ~ which he Says\n\n\n40 u .tom being hlockaded by In bortle\nhis vessels 80 IN and ont oi port at pleasure\n\n\n0nc a ~ brirs has been ciuiZing Ctl Moro\n\n\nCastle, ana thc olhlr DESTROYING all the trade\nhyt@ryn y. .tan2dY ana Ecu,ites. In speak\n\n\ning Of III, crew, he says 81 am proud e chem\n\n\n10 men could Learn flsttr, 20 men coAld be-\n\n\ndavc hcttcr;\" they worked y SHIP and ma\n\n\nnamcd ruar in all admirable manner. Iht\n\n\nANINlll JIOIC uttA ISt 81 Htl '@HSFA III '' ~\naud was, at the date of his lctter. not well.\nThe committee appointed by the Assem-\n) by of the State OF New Work. 10 Investigate\nthe II rgan affair, have made report; i\nthe conclusion CT which they recommend\ni should the Senate concur thercin---that I'll\nS Governor Of the State should be reqnestc\n\n\nTo issue hi, proclamation, Offering rewar\n;, OF $1,000 for the discovery Of the said Mo,\nn gan. if living, and like sum for the mul\nII dcrer, or murderers, of the said Morgan,\nZ dead, TO be paid on conviction. Also, til;\n\" committee from the two houses be az\nIS pointed, whose duty it shall be to visit cc'\n# tain counties, 10 enquire into the facts Al\n&c circumstances connected with the abducto\n- detention and disposition of the said Morga\n\n\nWILLIAM BROWN, THE SAILOR.\nr The Liverpool Chronicle OF the 18th re\nid contains long account OF an arrest on boa\nOF the Commerce Steam Packet at the IN\nis mcnt she was about starting for Dublin, oi\nto female passenger who was dressed IN s.\nn ol's clothes, and passed by the name\nto William Brown. The officers who to\nof her in custody, acted from information\nng the disguise, which they supposed mig\n,r- have been done to conceal SOME theft. L\n-et sailor was conveyed to prison. From sol\n.l.- Il. tN1,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1544,
+                    "y0": 854,
+                    "x1": 2159,
+                    "y1": 912
+                },
+                {
+                    "x0": 1579,
+                    "y0": 924,
+                    "x1": 2115,
+                    "y1": 995
+                },
+                {
+                    "x0": 1571,
+                    "y0": 1016,
+                    "x1": 2141,
+                    "y1": 1078
+                },
+                {
+                    "x0": 1527,
+                    "y0": 1204,
+                    "x1": 2189,
+                    "y1": 5368
+                }
+            ],
+            "bbox": [
+                1527,
+                854,
+                2189,
+                5368
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-04-12_p2_sn85042523_00271740244_1827041201_0765.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "Inconvenience and severe illness, it was i'm\nDossible 10 be perfectly prepared for the\nimDl essons which our Situation was so wei\ncalculated to excite; yet am sure they lost\nfor moment their poignancy, if they were\nno. altogether forgotten, III the admiration\nwith which ! viewed so grand spectacle as\nthe one that this hour OF midnight present\ned. The caravan consisted OF more than hNe\nthousand camcls, besides mules, asses,\nwheeled carriages, &c. and the number OF\npersons who accompanied 1t, mounted ana\nON foot, were certainly double.\n\n\nThe four points Of the hol'Hon we're inter-\nccpted bv the separate groups q! llbh'S tna,\nacconnauied those respective DIVISIONS oi\nour surrounding guards; although white the\nwaving movements Of the lights themselves\nwere distinctly marked, not AN 1hHlVlau'''\neither OF the Arabs by whom they were\nborne, or of the gnar,l whose path they we're\nintended to Illuminate, could at all be seen.\nImmediately around US. the crowded cara\nvan pursued its march in the most compact\nand closest order, to the unbrokcn prcserya-\nt;oD of which every Individual was induced\n,c attend by regard 70 Ii, own personal\nsafety; when it was considered that We had\nent, red desert, before whose tribes, It they\nattacked. fiirht would he incHrctual, and\nupon whose naked plaigs, no refuge could be\n\\ found\n\n\nThe Arab drivers sung to their caniels\nmost appropriate songs; alternately encour-\nairing them to continue with unsiackchea\nI stems towards The fountain whose streams a\nwaited their arrival, ;,nd promising to leae\n,hem to a SPOT where wells and hcihASe\nwou,d reward them with a sweet rcpaSt\nthen irplorng Allah 10 give strrnhfA\nand iirmncss to thtir limbs ana straoi-\nness to all their pacesi whit\" the beasts\nthemselves seemed really consf i0us OF hp-\nprobation and encouragement GtlhE lntPnS\"\nLin the sounds they heard, moSt PROBABLY\nI from titir repetition, hare nevcr listen\ned 60 them n,vSelf without considerable\npleasure, lrom knowing how unaffected =\n:he attachment which tie ARABS bear To-\nwards their animals in general, ana It has II\nWAYS fnrciblv recalled tn Wy u,@noty thg\ngeneral truth, rs well rs hran'v, OF that II\ncrcting address which liAssnu utaht to ms\nc,uels white trtv,rejnr the desert ~ md\nIav. so uoetcal,v cNNrcssnd \"a Eo|',ns n\nlie sccanl Of his Orlrettl ftl18nes:--\n\n\n..yc mute companion. oim, ,oi tha' hcat,\n\n\nIn AL ny grciS 4 muie tilsn el'll narc\n\n\nHere, w,crc ii9 snf4Aci in narnu,e hr',k awal\nOr moss crowned t5Gutnns m'!E&f'he Cay,\n\n\nn vain yc hope thc green drsGIt' % LnoN,\nWhich plains more blest, or ycE!An' 'aIet be.\n\n\nSTOW,\n\n\nHere rocks alone. anl tn,tcless sands arc iounl,\nAnd tant anl sickly wiai5 forever how araGnd'\n\n\nTn short. all the varictir- of scenes rf cir\ncumstanCeS, an.l ot rccul,rctians, arising oui\nOf our immediate situation, contributed unly\n10 hcghten thr interest ot i; while tn\nslow and steady pace a: thr clmtls, the sona\nof their drivers, tn c0uaticss n0mhcr n\ntorches that blazed through every pa't n\ntie caravan, the t1yins sGp4drons u Horse\nthat gAlioDed thruu III our lines, ant Nkrt.\nI'd their txtrtmes, tp preserve the Cohpacl\nor!cr of OUR march, TIE scattered parties o\n\n\nt.Ab musicians hO surrounded tle lltttr!\nOil pul ,nquias Of the hrcul, and the rcrcdt-\ned crie, Vi \"lsh Allah\" that were heard a\nInterval, from cvtry quarter, being pro\n\n\nHOqnctl in such tone of r\",Cc As to rdis'\n.cpriior IN the mingled tumut Of other\nSounds, altogether formed Scenc, whitl\nfor grlt.Jcur and impressive effect, ! have\nseldom s.en cquallel, certainly never sur\npassed, am, 1T which il woutd not bu easy\nsoon to l,su Jhe remembrance.\n\n\n\nIn thr ,iciaty Of philadelphia, on Fu' 5\ndaY, the 3 I inst, The corner stoac cfthc y\n\n\nval As,ium WAS laid with due Ceremony, il\nthe prtsyucc of the Navy Commissioner\n\n\naud Il nnnAer Of citi2lns A.ter the ston,\nhad bccn propcAty Sccn 81, E\"ao.or'\n,, Bninbfiase, ?re.d, u q tac .Savy BoAid, d.\niivercd the following addrt> -\n\n\n\"'ihc expense ct the building which is a\n: bout to commence uader circumstances s.\na,lspicons, is betrayed tut cf 4 iund raise\n, by the monthly contributions OF TIE Officers\n! 5ramen, md Marines in the National Ser\n! vice. These contributions commenced il\n!, TIE year 1796, ard oi course nearly to' ten\n! poraucously with the origin ot our naN cs\n\n\ntabiishmcnt By tl,e fostering carf ot gn,\netnmeui the fnnd 50 raised has accHmuiate'\n, 20 a sun cxcctaing $40 ,oU0\n\n\n. This joint STOCK !, nov about II he ap\ny prGurinted uaGcr ne direction uf ~, yrn\nmear, u the purposes ior which ii w,s oil\n! ginaly mtendea.--A home w,l thps BE Is\n\n\nt4biished 10y the faithful tar, who has bee\neither worn ont or manned, in hshtin\nD the battles cf his cou!try--a comfort\n! able harbour will be secured, where h\nu may safely mcor aud ride ort the ebb of iii\nD from The cares ard storms BY which he ha\n= been previously surrcuhded,- viii her\nQ cheeltuiIy ara proudly live with his ow\n), ncssmatea; With the companions OF ms tor\n= !, mer sports, toiis, and dangers. md whtr\n: they will animate ctch other, by rc-couat\n! ing the pleasures which they cnjcycd, TIA\ny perils which thcy escaped, and tay battle\nu which they fought. \\ picture Ct happincs\ne VIII thus DC exhibited, net less gratifying\nu the Patriot, than i, val he useful, i'll stunt",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 843,
+                    "y0": 214,
+                    "x1": 1515,
+                    "y1": 4408
+                }
+            ],
+            "bbox": [
+                843,
+                214,
+                1515,
+                4408
+            ],
+            "full_article_id": 10,
+            "id": "10_1827-04-12_p2_sn85042523_00271740244_1827041201_0765.json"
+        },
+        {
+            "object_ids": [
+                10
+            ],
+            "headline": "",
+            "article": "Hr4,,y1cn = NJ. Crook, an English Fhrenoi'\noGist, has discovered 4 new organ, which he ac-\nInou6natcs 9Uotdtirtac8S. 1t is situated imned'-\natcIy anterior to the organ Of des'rae''rf\"rss'-\nThis organ IS daFnosic of the tore 4 .eI'\"E'\nand we presume that it IS pretty gcnersiiy ue'el-\nopc,l il III mankind. Perhaps BY thc hammer\ning down Of this organ the dyspepsia may DC\ncuretl",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2885,
+                    "y0": 3745,
+                    "x1": 3565,
+                    "y1": 4040
+                }
+            ],
+            "bbox": [
+                2885,
+                3745,
+                3565,
+                4040
+            ],
+            "full_article_id": 11,
+            "id": "11_1827-04-12_p2_sn85042523_00271740244_1827041201_0765.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "A duel was fought at Calais on the Sd, be-\ntween Partisan, and a Mr. King Of London.\nThe former was attended by one second, the\nlatter by four, among them the Rep. Mr..\nJones'. The reverend gentleman was con-\nsiderably endangered by the ,aecilental dis.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2237,
+                    "y0": 5248,
+                    "x1": 2899,
+                    "y1": 5455
+                }
+            ],
+            "bbox": [
+                2237,
+                5248,
+                2899,
+                5455
+            ],
+            "full_article_id": 12,
+            "id": "12_1827-04-12_p2_sn85042523_00271740244_1827041201_0765.json"
+        },
+        {
+            "object_ids": [
+                13
+            ],
+            "headline": "",
+            "article": "FIRE --The barn oi N'r. Nicholas Ry-\neison, in the town OF Ntraon, Sussc% coun-\n~, n. J. was burut to the Ground ON tho C.\nvenus Of SUNDAY The 25th u!t together with\nall its contents, consisting OF TNHlN l.\nHORSES, quanti'y OF grain, hay, &c. The\nhorses we've very valuable, some OF them es-\nleemed TO be Solth .5.lcO a piece,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2206,
+                    "y0": 2782,
+                    "x1": 2877,
+                    "y1": 3054
+                }
+            ],
+            "bbox": [
+                2206,
+                2782,
+                2877,
+                3054
+            ],
+            "full_article_id": 14,
+            "id": "14_1827-04-12_p2_sn85042523_00271740244_1827041201_0765.json"
+        },
+        {
+            "object_ids": [
+                12,
+                24,
+                14
+            ],
+            "headline": "DUEIIING.\n\n\"Anlif among the whites,\nThis noble ant grows dulieE\nhope to sec some fights\n\n\nAmonr thc folks OF colour",
+            "article": "m .qfair qf Hnort-Two blacks, the tion'eS'\ntic servants of Thomas II. Carnegie, OF Wacca'\nNAV, Geo ''scttlei an affair OF homer\" by sI''\nGle combat few weeks since. They had . rie\nand pistol between them, and tossed up for the\nchoice. The negro, to whom the rife fell, was\nwounded BY his antagonist, and in spite OF his\nwound, after dischargng lis rAe, walked up\nand beat ont the brains sc the other with the but\nend He has since been committed to Jail and\naill probably be hanged.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3122,
+                    "y0": 2839,
+                    "x1": 3315,
+                    "y1": 2879
+                },
+                {
+                    "x0": 2973,
+                    "y0": 2887,
+                    "x1": 3399,
+                    "y1": 3010
+                },
+                {
+                    "x0": 2889,
+                    "y0": 3027,
+                    "x1": 3561,
+                    "y1": 3383
+                }
+            ],
+            "bbox": [
+                2889,
+                2839,
+                3561,
+                3383
+            ],
+            "full_article_id": 15,
+            "id": "15_1827-04-12_p2_sn85042523_00271740244_1827041201_0765.json"
+        },
+        {
+            "object_ids": [
+                16
+            ],
+            "headline": "",
+            "article": "Laura. of New YoiL, IS ali about her. iief\nstory as well as could be recohected, ap-\npears to be as follows; Her father IS hier-\nchant in London. About three years ago\nShe left his house to follow her lover, VINO\nvas the mate Of d vessel in the North Amer\nican trade, and hearing he had sailed TOT\nSt. Johns, she came to Liverpool. and TOOK\nmassage for that port. On arriving at ot.\nJohns. she discovered the vessel had gone\nto Quebec, thither she went, -sand therc\nlearned that her lover was drowned -oh n.S\npassage up the St. Lawrence ohe imlheu!-\natelv determined TO become sailor loi hia\nsake. aud assuming the garb OF man. en-\ngagged as cook and stewart to the Was'ei VI\nvessel .or London, with whom ahe remain\ned upwards Of twelve months. ne hs\"t\nvessel she ioincd, and in which Shc also sef'\ned UPWARDS Of twelve months, some weeks\nback, brought her to Liverpool. but tEe mas\"\nter. suspcctinG her sex cHtorted from ncr\nthe secret, and wished her to remain win\nhim, but she would rot consent, ana shy\nwas about to proceed to Ireland. WINE ID\nprison she said her name was Selma hgus!a\nHamilton. She is said TO be complete sal\nlor, taking her grog and using TOBACCO iihc\nother tars. She states that she VIII nave\nfour thousand pounds at her disposal when\n\n\n\ntends 10 ennp vessel aud take command.\nShe was brought up Tor sanitation on the\n10th Of February at the Town Hall, when 1t\nappcared that her arrest was caused by the\nCaptain of the Laura. The girl refused to\nten the Magistrate. Alderman Bourne, her\nftthcrsnamc, she said She could see no ncces\nsty for it; She said She was sailor row anG\nsuch intended to rcn,4n. Mr. Duticv, OF the\nLaura, wished the Magistrate TO place her\nin his charge, that lie might restore her to\nher father. At tbs She gave him look OF\nsurprise, aud then remarked to the magls-\ntratc she had made choice Of her present\nmode Of life, and meant 10 pursue u. he\nMagistrate discharged hci\n\n\nThe Editors Of lie q area Journal in re\nplv 20 the complains ot some subscriber,\nwho mad rccciveA lis paper vrcEnlallv,\n/ make th\" following sensible remark.\n\n\n\"ifbv the happcn,ng Of some accident to\nthe mil, onr newspapers should fail but\nonce to reach their destination, We soon hear\nii the complaints of subscribers. They are\ntlissatisGrd aud have reason 10 he So From\nMS they should !aalu to appreciate the dis\nsatisfaction We may be supposed to feel,\n\\ zWicn oHr8Ht&crihi9s n,oncy bccomcS aHc,\nand thcg f11i to SrHa II 10 as! II the tail\nurc Of newspaper one week, Is matter oi\nSO much ANNOYANCE to subscribers, low\nmuch more reason haSe We t@ complain\nwhen there is a f,ilurc, week alter week,\nand month attcr utcnth, in the receipt q\nwhat is Justly due Us for cur time aud .abor\nIexpcndcd iur thc amusement and iastrnc-\nton ct others\"\n\n\nMASS SCHltsGi rs .\".he election FOL\nGo,erhnr ai1! i.iruteuant Governor il Mas\nsachuse,ts, ~, hrld u Monday. IL boston\ntue yotes tur C.nN crnor ere\n\n\nFer l.i\"coln, roe\nlaiAi4, 1862\n\n\nllayrlsca q. OGs sos\n\n\nFIRE THE barn oG MI. Nicholas Ry\neison, in the town OF Neraon, SnsscN coun\nty, n. }. was burnt to the rrourtl On tho c\nvenin., Of sunday the 2ath u!t. together VIII\nall its cnatel.ts, consisting OF TWHlN /\n\n\nHORSES, qualify Of grain, hay, &c. Ih'\nhorses we've very valuable, some Of them es\n\n\nleemed TO be Solth .5.tcO piece,\n\n\nGreek Huhl'l-.--Carro. purchased b,\nlie Philadelphia Greek Committee, for til\nbrig To;itinc. Which sailed fox Greece Oh III\n\n\n23d at March.\n\n\n9sS barrels fdnr, 2 bvs domestic goods\n\n\nl5I half bis. do. 100 dozen SHIRTS,\n90s hls. corn meal, 4 boxes vermiccln,\n\n\n722 hls. navy bread, boxes taploca,\n\n\n40 ticrcuS Of rice, barrel salts,\n\n\n80 l,arre's beef, 90. dss'd m\"dlc'nes\n: / haifhnrrcl do. KEYS glauhcr salt,\n8harrcis pork, box Surgical instru\n\n\n100 barrels mackerel, mentS.,\n\n\nAmounting with trciHht, insurance, exc, t\n\n\nii, 900 dollars Is cents\n\n\nAmong the causes tr.ed BY tie last ccnat\ncourt, at NTontpeli@r, VI. was one fer\nbreach Of the marriage promise. The \"a\n!.othar;n was MIR David Hatch. IN\nbreach was clearly proved, and the jary or\ntlcrcd it TO be mc,dcd bv awarding the fai\n\n\nsplnstcr who was plaintiff, S6o3 Al wiz\ncosts\n\n\nMiss Tootr. q the l.nglsh Theatre, La\n: clearrd twcnty-two thous,nl dollars, ,.HriH\n; the last wear. rhis is acting to some pur\npose Dumati, genius, when coupled Wit\n\n\nbeauty, is ihc most profitable stock in tn",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2188,
+                    "y0": 157,
+                    "x1": 2864,
+                    "y1": 4097
+                }
+            ],
+            "bbox": [
+                2188,
+                157,
+                2864,
+                4097
+            ],
+            "full_article_id": 17,
+            "id": "17_1827-04-12_p2_sn85042523_00271740244_1827041201_0765.json"
+        },
+        {
+            "object_ids": [
+                18
+            ],
+            "headline": "",
+            "article": "Cleared at Charleston March 10, Ship\nFriends, for Grecnock with As bales Sea Isl\nand, and 1856 Of Upland Cotton. Also,\nship Mordecai, for Liverpool, with 293 bales\nSea Island, and o9o Upland.\n\n\nCotton. at Cheraw, S. e. is quoted at and\nfrom to cents; at Camden, \"a to 81; and\nat Wilmington n. c. 81 %.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2232,
+                    "y0": 4928,
+                    "x1": 2890,
+                    "y1": 5205
+                }
+            ],
+            "bbox": [
+                2232,
+                4928,
+                2890,
+                5205
+            ],
+            "full_article_id": 19,
+            "id": "19_1827-04-12_p2_sn85042523_00271740244_1827041201_0765.json"
+        },
+        {
+            "object_ids": [
+                21
+            ],
+            "headline": "",
+            "article": "The Quebec Gazette states thtt t'o'e\n-uow fell in the month of March, tt\"h '\"r'N\nhad fallen since the opening o, w.As. :.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2920,
+                    "y0": 5345,
+                    "x1": 3583,
+                    "y1": 5460
+                }
+            ],
+            "bbox": [
+                2920,
+                5345,
+                3583,
+                5460
+            ],
+            "full_article_id": 22,
+            "id": "22_1827-04-12_p2_sn85042523_00271740244_1827041201_0765.json"
+        },
+        {
+            "object_ids": [
+                22
+            ],
+            "headline": "",
+            "article": "MASS SCHLsri IS -'.he election for\nGo, erKpr auA i.ieuteuaNt e. werner il Mas\nsathusetts. Has hrld N Monday. Ia bOston,\ninP yotes tur Col ernor ere\n\n\ntur l.'\"ccln, zoe\nlaiAi9, llb2\nllarrlsca q. OGs sos",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2197,
+                    "y0": 2501,
+                    "x1": 2873,
+                    "y1": 2748
+                }
+            ],
+            "bbox": [
+                2197,
+                2501,
+                2873,
+                2748
+            ],
+            "full_article_id": 23,
+            "id": "23_1827-04-12_p2_sn85042523_00271740244_1827041201_0765.json"
+        },
+        {
+            "object_ids": [
+                26
+            ],
+            "headline": "",
+            "article": "From one Of the mosc respectable dealers\nin cloths, We learn that ENGLlSH\nCLOlH HS of the sharitHs, nr ioWi\"9dd dye,\nhave found their way into the Bitimore\nmarket. There is 10 douht, we learn, that\nthcy came from the same source through\nwhich they had been heretofore introduced\n\n\ninto New York ard Boston. Ihc spurious\nor logwood dyed cloths, after being made un\nand exposed to the air for short time, be\ncone clarrt or dirty red color, aud cShih-\n1t a shabby appearance. Our informant i\"\norder to show the difference between the\ngenuine and spurious dyes, applied, in our\n| presence, the test Of aquA-turtis to several\n( pieces Of cloth of each Kind. The effect il\nevery instance WAS, that the indigo remained\nunchanged, while the logwood dye was de-\nstroyed aud turned to scarlet hue. These\nspurious cloths, from the cheapness OF the\ndye, are sold at low rate, but to the consum-\ner they vii! always prove dear bagain.\n\n\n.jEe,iciu,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2215,
+                    "y0": 4153,
+                    "x1": 2886,
+                    "y1": 4899
+                }
+            ],
+            "bbox": [
+                2215,
+                4153,
+                2886,
+                4899
+            ],
+            "full_article_id": 27,
+            "id": "27_1827-04-12_p2_sn85042523_00271740244_1827041201_0765.json"
+        },
+        {
+            "object_ids": [
+                27
+            ],
+            "headline": "",
+            "article": "The cw-Englarl Farmer mentions an act o'\nbase depreciation recently committed Ill RoHpn-\nry Mass, by some undctccted m.iiians. Mr. l.\n4. Knight secretary TO the Horticultural Soci-\nETY. of London, sent over TO MIR. Lowell, some\nvaluable specimens Of fruit trees, which the VII\nlains have utterly destroyed.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2889,
+                    "y0": 4074,
+                    "x1": 3565,
+                    "y1": 4307
+                }
+            ],
+            "bbox": [
+                2889,
+                4074,
+                3565,
+                4307
+            ],
+            "full_article_id": 28,
+            "id": "28_1827-04-12_p2_sn85042523_00271740244_1827041201_0765.json"
+        },
+        {
+            "object_ids": [
+                30
+            ],
+            "headline": "",
+            "article": "The inhabitants Of Nantucket, 1t late\ntown mtctiug, chose school committe OF\ntwelve persons, and appropriated S25oo tor\nthe organization Of public schools, aud the\nsupport of them for the current year.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2898,
+                    "y0": 4337,
+                    "x1": 3561,
+                    "y1": 4522
+                }
+            ],
+            "bbox": [
+                2898,
+                4337,
+                3561,
+                4522
+            ],
+            "full_article_id": 31,
+            "id": "31_1827-04-12_p2_sn85042523_00271740244_1827041201_0765.json"
+        },
+        {
+            "object_ids": [
+                31
+            ],
+            "headline": "",
+            "article": "The Rev. Robert Cox, minister of the Meth\nodst Episcopal Church, died in Suffolk county,\nVa on the 18th ult. lniis will he made PROVISION\nfor emancipating all his slaves, Upwards OF ao,l\nand for giving each handsome sum OF money\nlie had offered to transport them to Atrlca aHF\ning his life, but they chose to live with h' si'''\nreceive wages.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2903,
+                    "y0": 5038,
+                    "x1": 3578,
+                    "y1": 5302
+                }
+            ],
+            "bbox": [
+                2903,
+                5038,
+                3578,
+                5302
+            ],
+            "full_article_id": 32,
+            "id": "32_1827-04-12_p2_sn85042523_00271740244_1827041201_0765.json"
+        },
+        {
+            "object_ids": [
+                32
+            ],
+            "headline": "",
+            "article": "Greek HHAi'i-.--Carro. purchased by\nthe Philadelphia Greek Gou.nitter, for the\nbrig 1'outinc, Which sailed fox Greece Oh the\ngel ~ VI trfb",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2210,
+                    "y0": 3093,
+                    "x1": 2877,
+                    "y1": 3216
+                }
+            ],
+            "bbox": [
+                2210,
+                3093,
+                2877,
+                3216
+            ],
+            "full_article_id": 33,
+            "id": "33_1827-04-12_p2_sn85042523_00271740244_1827041201_0765.json"
+        },
+        {
+            "object_ids": [
+                33
+            ],
+            "headline": "",
+            "article": "Miss Tootr of the l.nglish Theatre, has\ncleared twenty two thous,nA dollars, curing\nthe last wear. Ths is acting to some pur,\npose Dramatic genius, when coupled with\nbeauty, is The most profitable stock in the\nworld.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2210,
+                    "y0": 3921,
+                    "x1": 2877,
+                    "y1": 4128
+                }
+            ],
+            "bbox": [
+                2210,
+                3921,
+                2877,
+                4128
+            ],
+            "full_article_id": 34,
+            "id": "34_1827-04-12_p2_sn85042523_00271740244_1827041201_0765.json"
+        },
+        {
+            "object_ids": [
+                34
+            ],
+            "headline": "",
+            "article": "4 gang Of cnunteifciters has been discov-\nGre ii New-Yurk. Seven Of them were ar\nrested on Saturday morning, and brought 10\nthe police oilice Bills of the bank OF New\nburgh, of the denomination OF $40 were\nfound in their possession.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2898,
+                    "y0": 4556,
+                    "x1": 3570,
+                    "y1": 4767
+                }
+            ],
+            "bbox": [
+                2898,
+                4556,
+                3570,
+                4767
+            ],
+            "full_article_id": 35,
+            "id": "35_1827-04-12_p2_sn85042523_00271740244_1827041201_0765.json"
+        },
+        {
+            "object_ids": [
+                35
+            ],
+            "headline": "",
+            "article": "The debtors of Boston Prison, witt, %r IT,\ntude tender their acknowledgements 80 the\nlberality and humanity Of Josfd y. i1er-\nkias, esq. (ate Sheriff of London,) in DIS\ncharging and liberating them from coniine-\nmtnt.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2903,
+                    "y0": 4797,
+                    "x1": 3574,
+                    "y1": 5004
+                }
+            ],
+            "bbox": [
+                2903,
+                4797,
+                3574,
+                5004
+            ],
+            "full_article_id": 36,
+            "id": "36_1827-04-12_p2_sn85042523_00271740244_1827041201_0765.json"
+        },
+        {
+            "object_ids": [
+                38
+            ],
+            "headline": "",
+            "article": "II is s.\natrenne|\n\nwesk.\nthe accd\nstone o1\nwhich, 4\nwe're xii\nbed, in\ngarre''\n\" the peri\noftllc \\\nsmall \\\n\n\nblown z\nevery y\n\n\ncspcd \\",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3599,
+                    "y0": 157,
+                    "x1": 3714,
+                    "y1": 701
+                }
+            ],
+            "bbox": [
+                3599,
+                157,
+                3714,
+                701
+            ],
+            "full_article_id": 39,
+            "id": "39_1827-04-12_p2_sn85042523_00271740244_1827041201_0765.json"
+        },
+        {
+            "object_ids": [
+                39
+            ],
+            "headline": "",
+            "article": "Among the CAUSES ,r.ed BY tie last ccnaty\ncourt, at Montpelier, VI. wns one fer q\nbreach Of the marriage promise. The gay\nI.othar;n was a Mr.. David Hatch. The\nbreach was clearly proved, and the jary Or\ndcrcd it TO be mcndcd bv awarding the fair\nspnster who was plaintiff, S6o3 ~ with\ncosts.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2210,
+                    "y0": 3632,
+                    "x1": 2877,
+                    "y1": 3895
+                }
+            ],
+            "bbox": [
+                2210,
+                3632,
+                2877,
+                3895
+            ],
+            "full_article_id": 40,
+            "id": "40_1827-04-12_p2_sn85042523_00271740244_1827041201_0765.json"
+        }
+    ]
+}

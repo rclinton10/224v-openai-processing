@@ -1,0 +1,770 @@
+{
+    "lccn": {
+        "title": "American watchman and Delaware advertiser.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2576-7445",
+        "lccn": "sn82014894",
+        "start_year": "1822",
+        "end_year": "1828",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [
+            "sn82014895"
+        ],
+        "successors": [
+            "sn82014393"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn82014894",
+        "edition": "ed-01",
+        "date": "1827-04-03",
+        "pages": [
+            "seq-1",
+            "seq-2",
+            "seq-3",
+            "seq-4"
+        ]
+    },
+    "page_number": "3",
+    "scan": {
+        "lccn": "sn82014894",
+        "edition": "ed-01",
+        "date": "1827-04-03",
+        "page": "3",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn82014894/1827-04-03/ed-1/seq-3.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn82014894/1827-04-03/ed-1/seq-3/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn82014894/1827-04-03/ed-1/seq-3/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn82014894/00271740219/1827040301/0127.jp2",
+        "height": 5608,
+        "width": 3520
+    },
+    "bboxes": [
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 2487,
+                "y0": 933,
+                "x1": 3285,
+                "y1": 991
+            },
+            "class": "article",
+            "raw_text": "\"Frown Indignantly upon dawnng\none poru n OF the u.io1 from anoher.n WARRINGTON.",
+            "legibility": "Legible",
+            "full_article_id": 32,
+            "reading_order_id": 0
+        },
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 848,
+                "y0": 4206,
+                "x1": 1647,
+                "y1": 5289
+            },
+            "class": "article",
+            "raw_text": "From the New York Commercial Advertiser. March a.\n\n\nLATEST FROM EUROPE.\n\n\nThe ship Trident, Capt Swaine, arrived last\nevening from Liverpool, whence she sailed on the\nmorning of the 10Th of February, but Capt Swaine\nbrought no advces later from London than the\nCourier of the evening of the 10th.\n\n\n.smsrfcan Stocks on the 18th of February\nThree per Cents 70 1-2 ; -Four and Half, 50; Fiyes,\nfor 1921, 95 Skies. for 1878, 81 2; Do. for u,\nSo; DO for 1915. 90 l-2; N. Y. Canal Stock for\n1926, 95 Louisiana Fives, 81 LA 90; U. ). Bank,\n24i.\n\n\nThe Liverpool Commercial Chronicle contains\ngloomy picture of the distress prevailing IN the\nmanutac curing districts.\n\n\nA Ion. debate took place in the House OF Com\nmons on the 18th Of Feb. the subject of the emf\ncratons to the colonies, which endedn the reap\npointnent Of committee for that purpose.\n\n\nPetitions were pouring into both houses Of par\nlament upon the subject of the corn laws some for\ntheir continuance, and others for their repeal. At\nthe sitting of the 18th\n\n\nLord King said he had great number OF pc.\ntitions to present on the same subject, some ct ct\nwhich he should present tosnight: They prayed\nfor an alteration Of these laws. He was desirous\nto see them amendcd--he cc'ld not seethat an al",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 866,
+                "y0": 4210,
+                "x1": 1647,
+                "y1": 4290
+            },
+            "class": "headline",
+            "raw_text": "From the New York Commercial Advertiser, March 3l\n\n\nLATEST FROM EUROPE.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1654,
+                "y0": 4197,
+                "x1": 2453,
+                "y1": 5276
+            },
+            "class": "article",
+            "raw_text": "teration of those laws could in any way injure the\nlanded interests--he was landed proprietor, and\nnnetenths Of his property consisted of land, and he\nwas willing to part with the Corn Laws. The first\npetition he should present was the inhabitants OF\nDysart, in Scotland--the petitioners complained\nthat they worked 16 l-2 hours, day, and could\nnot earn more than IS sd per week. They we're\ndesrous of seeing the corn law amended-they\nwished that the Poor Laws rather than the Corn\nLaws might be extended to Scotland The petit\nton was then read and ordered to lie the table.\nThe other petitions were from Elgin, and from the\nSIX incorporated trades of the Royal Burgh OF\nBauff to the same effect\"\n\n\nIn the house of lords on the 18th. the Marquis of\nLansdown gave notice that he would call their\nlordships' attention to the catholic claims on the\n9th of March.\n\n\nConstantinopte, Jan. 1o.-Nothins particular\nhas occurred since last post. But the affairs Of\nGreece, according to the most recent accounts\nfrom the theatre Of war. received by way Of Smyr-\nma, and which come down to the Cd January, ap-\npear to take turn more favorable to the wishes Of\nthe friends of the Greeks than was to be expected\nafter the last campaign. All Livada, East and\nWest Greece, are again in complete state of in\nsurrection. The apparent submission Of those pro",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2465,
+                "y0": 4315,
+                "x1": 3268,
+                "y1": 4715
+            },
+            "class": "article",
+            "raw_text": "From the Baltimorp -4merlcdn, -HaTch oH.\n\n\nA letter from Harrisburg, under date of esd in\nslant says:-\" In the House Of Representatives,\nMr.. LEHMAN offered resolution which was adopt\nell, and which goes in effect to put off, at least Tor\nthe present session, the Baltimore application 1T\nsanctions the principle, that Pennsy yivania ought\nto keep the Susquehanna in her own hand. and that\na rail road from Swatara to Columbia. and thence\nthrough Lancaster to Philadelphia ought to be\nmade\"",
+            "legibility": "Questionable",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 2531,
+                "y0": 4302,
+                "x1": 3206,
+                "y1": 4347
+            },
+            "class": "headline",
+            "raw_text": "From the Baltimore american, March %.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 857,
+                "y0": 240,
+                "x1": 1392,
+                "y1": 631
+            },
+            "class": "article",
+            "raw_text": "Down, March 27,h, 1897.\nA List showing the namesand amount\nI n of stock OF the retailers Of for.\ncign goods, wares and merchandise,\nwithin the State Of Delaware, who have,\nconformably to the provisions of the.\nacts OF Assembly in such case made,\nobtained and paid for licenses 10 sell\nby retail. the said goods, wares and\nmerchandise; prepared from returns\nmade into this Office by the Clerks of\nthe Peace ofthe Counties respectively /;\nTO wit:",
+            "legibility": "Questionable",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 931,
+                "y0": 197,
+                "x1": 1357,
+                "y1": 237
+            },
+            "class": "headline",
+            "raw_text": "Office n HE Scyefary ef Slc.e,",
+            "legibility": "Questionable",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2461,
+                "y0": 4740,
+                "x1": 3268,
+                "y1": 5271
+            },
+            "class": "article",
+            "raw_text": "Destruction of Inssets.-As the season Of veg\netation approaches, remark upon the application\nNAV m not be amiss. In he process of preparing\ntobacco for use, liquid is finally expressed from\nit which is very cheap, and highly destructive to\nanimal lite. This mixed with three to five parts\nof water, is found to be an efectua remedy, for\nthe aphis caterpllars, and similar insects which\ninfest fruit trees.\n\n\nMr.. J. C. Giilelund, late member Of the Penn\nsylyania Legislature, has associated himself as CO\neditor with Sir. Rinas. Of the DemoeratisPfess.",
+            "legibility": "Questionable",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2487,
+                "y0": 214,
+                "x1": 3298,
+                "y1": 369
+            },
+            "class": "article",
+            "raw_text": "yinces has ceased; ell tic inhabitants Is fs- a.\nsalona and Folo, are under arms. The Greek\n'apitanl are every where distributing arms and\nammunition.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2478,
+                "y0": 1020,
+                "x1": 3290,
+                "y1": 1705
+            },
+            "class": "article",
+            "raw_text": "The press Of advertisements has compelled us\nto defer several communications, and much other\nmatter, to our next.\n\n\nWe sorry that some Of subscribers pay little\nregard to their promise We would those of them\nwhom this will apply. whether they think their conduct is\npatience of Job 10 keep in a good lumor with some Of\nyour Promising Of newspaper For the innrma\n\n\non Of those who have been long time indebted for the\npaper, for advertising and to whom many unsuccessful\napplications have been mahe would observe that we\nexpect stock Of patience be entirely exhausted in\nprecisely weeks rom this date when intend take\nthe speedies means obtain what they disposed not\nto give until compelled.\n\n\nWhilst complain Of the unjust return our sincere\nthanks to those who have been just and by whose punc\ntuaity have been enabled proceed with pubca\ntion. April 3, 1897.",
+            "legibility": "Questionable",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2469,
+                "y0": 1743,
+                "x1": 3272,
+                "y1": 1906
+            },
+            "class": "article",
+            "raw_text": "G An assortment of new and elegant Types and borders\nenables the Editors Of the Wstcman to print CARDS.\nHANDBIrI.s and all kinds Of Job printing, in the best\nstyle. Terms will be reasonable.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 2474,
+                "y0": 1954,
+                "x1": 3281,
+                "y1": 2656
+            },
+            "class": "article",
+            "raw_text": "The Borough election is approaching, and the\nsubject begins to excite public attention. We be-\nieve, from what we have heard. that the election\nwill turn on the question of \" Water. or no wa\nter :\"-vhether we shall have the water from the\nBrandywinc brought into the Borough or mott\nWe think that every citizen who has the good Of\nthe Borough at heart. would give his vote to man\nwho will support measures calculated to furnish\nplentiful supply Of water to the Borough. IL pc\nference to bestowng it on one who would oppose\nsuch measures.\n\n\nThe attempt to supply the town with water -\nmeans Of Lottery, having failed. we understand\nthat many of our citizens are determined t. .pnort\nonly such persons for Councmen as will lie u.\nvorable to obtaining loan to purchase mil site.\nand endeavor to accomplish the desirable q1]rc. il\nthat manner.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 2688,
+                "y0": 1914,
+                "x1": 3005,
+                "y1": 1941
+            },
+            "class": "headline",
+            "raw_text": "-~ .I0DNoG c.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": -1
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 2474,
+                "y0": 2685,
+                "x1": 3276,
+                "y1": 3181
+            },
+            "class": "article",
+            "raw_text": "Discernmsnt.-Corporal Harker is just begin\nming to find out that General Jackson is great pst-\nriot. He says the General never prosecuted the\nFederalsts. To show the Corporal's consistency,\nwe would refer the reader to the file of the Della\nware Gazette for 1892 The Corporal is beginning\nto repent for all the naughty that he then APP\nPiled to the General. He's not going to say any\nthing more about \"the military despot' and the\nsecond section-\" the most Objectionable mana\nand the defer of the laws and tramp!er upon the\nrights of others, &c. No, no-Mr. MI.aae has\nchanged, and the Corporal MUST.",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 1935,
+                "y0": 3925,
+                "x1": 2457,
+                "y1": 4150
+            },
+            "class": "article",
+            "raw_text": "Published in obedience to The act Of\nAssembly entitled can act laying du.\nles on licenses to retailers of foreign\ngoods, wares and merchandise\"\n\n\nJOHN NJ. CLAYTON,\n42-&s Secretary Of Ssute.",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 2325,
+                "y0": 3877,
+                "x1": 2457,
+                "y1": 3917
+            },
+            "class": "headline",
+            "raw_text": "S6o,e45",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": -1
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 2469,
+                "y0": 3487,
+                "x1": 3276,
+                "y1": 4259
+            },
+            "class": "article",
+            "raw_text": "The First African Protestant Episcopal Church\nin Baltimore, was consecrated on the s1st ult.\n\n\nMr. Lockwood, respectable merchant of New\nYork, who was so severely scalded by the acci\ndent on board the steam boat Oliver Ellsworth,\nhas died.\n\n\nAn Ok, weighing iioo pounds, fatted in Cecil\nCounty, Md. BY Mr.. Moses Starr, was sold IN the\nElkton market on Friday.\n\n\nThe Apprentices Library of Philadelphia has\na capital Of above Sao0o-and dispenses instrnc-\ntion to between Z and hundred youths\n\n\nA Schoomaster Of Harvard, Mass, has been tri-\ned for expeilng lad from his School who refused\nto attend prayers when in the room. The Court\nheld that the master exercised righttnl authority,\nand acquitted him without leaving their seats.\n\n\nA living Chameleon from Malaga is exhibiting at\nthe Philadelphia Museum.",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 423,
+                "y0": 240,
+                "x1": 845,
+                "y1": 1411
+            },
+            "class": "article",
+            "raw_text": "Office, at Wilmington, Del.\nST, 1927.\nletters on this list, will please\ntised.\n\n\nLydia 8. Lackey\nANNA Long\nMary Livezey\n\n\nM\nJoseph Mitchell\nSarah Ann Massa\nAnn Miller :\nCamille Mignoo\nHenry Massey\nJames Murdoch\nThomas Munhollen\nGilley Mathews\nC. Mignot\nWilliam Miller 8\nAnn Moogins\nWilliam Murphcy\nMary Moore\nM. II. Miller\nJohn Morrow\nJames Mathews\nWilliam Muthey\nHannah Moore\nJohn Mcguire\nDaniel Moran\nJohn Miller\nFrances Nils\n\n\n\"\nJames Newall\nStephen Newell\nMary holland\nJohn Meals\nDeborah North\nCa,p,at Naokitt",
+            "legibility": "Illegible",
+            "full_article_id": 28,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 173,
+                "y0": 192,
+                "x1": 709,
+                "y1": 246
+            },
+            "class": "headline",
+            "raw_text": "LIST OF LETTERS",
+            "legibility": "Questionable",
+            "full_article_id": 28,
+            "reading_order_id": -1
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 857,
+                "y0": 683,
+                "x1": 1384,
+                "y1": 750
+            },
+            "class": "article",
+            "raw_text": "From June lsf, 1926, to February\n\n\n22d. 1927.",
+            "legibility": "Legible",
+            "full_article_id": 31,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 857,
+                "y0": 639,
+                "x1": 1379,
+                "y1": 684
+            },
+            "class": "headline",
+            "raw_text": "IN NEWCASTLE COUNTY",
+            "legibility": "Legible",
+            "full_article_id": 31,
+            "reading_order_id": -1
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                31
+            ],
+            "headline": "",
+            "article": "\"Frown Indignantly upon dawnng\none poru n OF the u.io1 from anoher.n WARRINGTON.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2487,
+                    "y0": 933,
+                    "x1": 3285,
+                    "y1": 991
+                }
+            ],
+            "bbox": [
+                2487,
+                933,
+                3285,
+                991
+            ],
+            "full_article_id": 32,
+            "id": "32_1827-04-03_p3_sn82014894_00271740219_1827040301_0127.json"
+        },
+        {
+            "object_ids": [
+                23,
+                0
+            ],
+            "headline": "From the New York Commercial Advertiser, March 3l\n\n\nLATEST FROM EUROPE.",
+            "article": "From the New York Commercial Advertiser. March a.\n\n\nLATEST FROM EUROPE.\n\n\nThe ship Trident, Capt Swaine, arrived last\nevening from Liverpool, whence she sailed on the\nmorning of the 10Th of February, but Capt Swaine\nbrought no advces later from London than the\nCourier of the evening of the 10th.\n\n\n.smsrfcan Stocks on the 18th of February\nThree per Cents 70 1-2 ; -Four and Half, 50; Fiyes,\nfor 1921, 95 Skies. for 1878, 81 2; Do. for u,\nSo; DO for 1915. 90 l-2; N. Y. Canal Stock for\n1926, 95 Louisiana Fives, 81 LA 90; U. ). Bank,\n24i.\n\n\nThe Liverpool Commercial Chronicle contains\ngloomy picture of the distress prevailing IN the\nmanutac curing districts.\n\n\nA Ion. debate took place in the House OF Com\nmons on the 18th Of Feb. the subject of the emf\ncratons to the colonies, which endedn the reap\npointnent Of committee for that purpose.\n\n\nPetitions were pouring into both houses Of par\nlament upon the subject of the corn laws some for\ntheir continuance, and others for their repeal. At\nthe sitting of the 18th\n\n\nLord King said he had great number OF pc.\ntitions to present on the same subject, some ct ct\nwhich he should present tosnight: They prayed\nfor an alteration Of these laws. He was desirous\nto see them amendcd--he cc'ld not seethat an al",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 866,
+                    "y0": 4210,
+                    "x1": 1647,
+                    "y1": 4290
+                },
+                {
+                    "x0": 848,
+                    "y0": 4206,
+                    "x1": 1647,
+                    "y1": 5289
+                }
+            ],
+            "bbox": [
+                848,
+                4206,
+                1647,
+                5289
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-04-03_p3_sn82014894_00271740219_1827040301_0127.json"
+        },
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "teration of those laws could in any way injure the\nlanded interests--he was landed proprietor, and\nnnetenths Of his property consisted of land, and he\nwas willing to part with the Corn Laws. The first\npetition he should present was the inhabitants OF\nDysart, in Scotland--the petitioners complained\nthat they worked 16 l-2 hours, day, and could\nnot earn more than IS sd per week. They we're\ndesrous of seeing the corn law amended-they\nwished that the Poor Laws rather than the Corn\nLaws might be extended to Scotland The petit\nton was then read and ordered to lie the table.\nThe other petitions were from Elgin, and from the\nSIX incorporated trades of the Royal Burgh OF\nBauff to the same effect\"\n\n\nIn the house of lords on the 18th. the Marquis of\nLansdown gave notice that he would call their\nlordships' attention to the catholic claims on the\n9th of March.\n\n\nConstantinopte, Jan. 1o.-Nothins particular\nhas occurred since last post. But the affairs Of\nGreece, according to the most recent accounts\nfrom the theatre Of war. received by way Of Smyr-\nma, and which come down to the Cd January, ap-\npear to take turn more favorable to the wishes Of\nthe friends of the Greeks than was to be expected\nafter the last campaign. All Livada, East and\nWest Greece, are again in complete state of in\nsurrection. The apparent submission Of those pro",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1654,
+                    "y0": 4197,
+                    "x1": 2453,
+                    "y1": 5276
+                }
+            ],
+            "bbox": [
+                1654,
+                4197,
+                2453,
+                5276
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-04-03_p3_sn82014894_00271740219_1827040301_0127.json"
+        },
+        {
+            "object_ids": [
+                18,
+                2
+            ],
+            "headline": "From the Baltimore american, March %.",
+            "article": "From the Baltimorp -4merlcdn, -HaTch oH.\n\n\nA letter from Harrisburg, under date of esd in\nslant says:-\" In the House Of Representatives,\nMr.. LEHMAN offered resolution which was adopt\nell, and which goes in effect to put off, at least Tor\nthe present session, the Baltimore application 1T\nsanctions the principle, that Pennsy yivania ought\nto keep the Susquehanna in her own hand. and that\na rail road from Swatara to Columbia. and thence\nthrough Lancaster to Philadelphia ought to be\nmade\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2531,
+                    "y0": 4302,
+                    "x1": 3206,
+                    "y1": 4347
+                },
+                {
+                    "x0": 2465,
+                    "y0": 4315,
+                    "x1": 3268,
+                    "y1": 4715
+                }
+            ],
+            "bbox": [
+                2465,
+                4302,
+                3268,
+                4715
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-04-03_p3_sn82014894_00271740219_1827040301_0127.json"
+        },
+        {
+            "object_ids": [
+                14,
+                5
+            ],
+            "headline": "Office n HE Scyefary ef Slc.e,",
+            "article": "Down, March 27,h, 1897.\nA List showing the namesand amount\nI n of stock OF the retailers Of for.\ncign goods, wares and merchandise,\nwithin the State Of Delaware, who have,\nconformably to the provisions of the.\nacts OF Assembly in such case made,\nobtained and paid for licenses 10 sell\nby retail. the said goods, wares and\nmerchandise; prepared from returns\nmade into this Office by the Clerks of\nthe Peace ofthe Counties respectively /;\nTO wit:",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 931,
+                    "y0": 197,
+                    "x1": 1357,
+                    "y1": 237
+                },
+                {
+                    "x0": 857,
+                    "y0": 240,
+                    "x1": 1392,
+                    "y1": 631
+                }
+            ],
+            "bbox": [
+                857,
+                197,
+                1392,
+                631
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-04-03_p3_sn82014894_00271740219_1827040301_0127.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "Destruction of Inssets.-As the season Of veg\netation approaches, remark upon the application\nNAV m not be amiss. In he process of preparing\ntobacco for use, liquid is finally expressed from\nit which is very cheap, and highly destructive to\nanimal lite. This mixed with three to five parts\nof water, is found to be an efectua remedy, for\nthe aphis caterpllars, and similar insects which\ninfest fruit trees.\n\n\nMr.. J. C. Giilelund, late member Of the Penn\nsylyania Legislature, has associated himself as CO\neditor with Sir. Rinas. Of the DemoeratisPfess.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2461,
+                    "y0": 4740,
+                    "x1": 3268,
+                    "y1": 5271
+                }
+            ],
+            "bbox": [
+                2461,
+                4740,
+                3268,
+                5271
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-04-03_p3_sn82014894_00271740219_1827040301_0127.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "yinces has ceased; ell tic inhabitants Is fs- a.\nsalona and Folo, are under arms. The Greek\n'apitanl are every where distributing arms and\nammunition.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2487,
+                    "y0": 214,
+                    "x1": 3298,
+                    "y1": 369
+                }
+            ],
+            "bbox": [
+                2487,
+                214,
+                3298,
+                369
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-04-03_p3_sn82014894_00271740219_1827040301_0127.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "The press Of advertisements has compelled us\nto defer several communications, and much other\nmatter, to our next.\n\n\nWe sorry that some Of subscribers pay little\nregard to their promise We would those of them\nwhom this will apply. whether they think their conduct is\npatience of Job 10 keep in a good lumor with some Of\nyour Promising Of newspaper For the innrma\n\n\non Of those who have been long time indebted for the\npaper, for advertising and to whom many unsuccessful\napplications have been mahe would observe that we\nexpect stock Of patience be entirely exhausted in\nprecisely weeks rom this date when intend take\nthe speedies means obtain what they disposed not\nto give until compelled.\n\n\nWhilst complain Of the unjust return our sincere\nthanks to those who have been just and by whose punc\ntuaity have been enabled proceed with pubca\ntion. April 3, 1897.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2478,
+                    "y0": 1020,
+                    "x1": 3290,
+                    "y1": 1705
+                }
+            ],
+            "bbox": [
+                2478,
+                1020,
+                3290,
+                1705
+            ],
+            "full_article_id": 12,
+            "id": "12_1827-04-03_p3_sn82014894_00271740219_1827040301_0127.json"
+        },
+        {
+            "object_ids": [
+                12
+            ],
+            "headline": "",
+            "article": "G An assortment of new and elegant Types and borders\nenables the Editors Of the Wstcman to print CARDS.\nHANDBIrI.s and all kinds Of Job printing, in the best\nstyle. Terms will be reasonable.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2469,
+                    "y0": 1743,
+                    "x1": 3272,
+                    "y1": 1906
+                }
+            ],
+            "bbox": [
+                2469,
+                1743,
+                3272,
+                1906
+            ],
+            "full_article_id": 13,
+            "id": "13_1827-04-03_p3_sn82014894_00271740219_1827040301_0127.json"
+        },
+        {
+            "object_ids": [
+                28,
+                19
+            ],
+            "headline": "-~ .I0DNoG c.",
+            "article": "The Borough election is approaching, and the\nsubject begins to excite public attention. We be-\nieve, from what we have heard. that the election\nwill turn on the question of \" Water. or no wa\nter :\"-vhether we shall have the water from the\nBrandywinc brought into the Borough or mott\nWe think that every citizen who has the good Of\nthe Borough at heart. would give his vote to man\nwho will support measures calculated to furnish\nplentiful supply Of water to the Borough. IL pc\nference to bestowng it on one who would oppose\nsuch measures.\n\n\nThe attempt to supply the town with water -\nmeans Of Lottery, having failed. we understand\nthat many of our citizens are determined t. .pnort\nonly such persons for Councmen as will lie u.\nvorable to obtaining loan to purchase mil site.\nand endeavor to accomplish the desirable q1]rc. il\nthat manner.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2688,
+                    "y0": 1914,
+                    "x1": 3005,
+                    "y1": 1941
+                },
+                {
+                    "x0": 2474,
+                    "y0": 1954,
+                    "x1": 3281,
+                    "y1": 2656
+                }
+            ],
+            "bbox": [
+                2474,
+                1914,
+                3281,
+                2656
+            ],
+            "full_article_id": 20,
+            "id": "20_1827-04-03_p3_sn82014894_00271740219_1827040301_0127.json"
+        },
+        {
+            "object_ids": [
+                20
+            ],
+            "headline": "",
+            "article": "Discernmsnt.-Corporal Harker is just begin\nming to find out that General Jackson is great pst-\nriot. He says the General never prosecuted the\nFederalsts. To show the Corporal's consistency,\nwe would refer the reader to the file of the Della\nware Gazette for 1892 The Corporal is beginning\nto repent for all the naughty that he then APP\nPiled to the General. He's not going to say any\nthing more about \"the military despot' and the\nsecond section-\" the most Objectionable mana\nand the defer of the laws and tramp!er upon the\nrights of others, &c. No, no-Mr. MI.aae has\nchanged, and the Corporal MUST.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2474,
+                    "y0": 2685,
+                    "x1": 3276,
+                    "y1": 3181
+                }
+            ],
+            "bbox": [
+                2474,
+                2685,
+                3276,
+                3181
+            ],
+            "full_article_id": 21,
+            "id": "21_1827-04-03_p3_sn82014894_00271740219_1827040301_0127.json"
+        },
+        {
+            "object_ids": [
+                25,
+                21
+            ],
+            "headline": "S6o,e45",
+            "article": "Published in obedience to The act Of\nAssembly entitled can act laying du.\nles on licenses to retailers of foreign\ngoods, wares and merchandise\"\n\n\nJOHN NJ. CLAYTON,\n42-&s Secretary Of Ssute.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2325,
+                    "y0": 3877,
+                    "x1": 2457,
+                    "y1": 3917
+                },
+                {
+                    "x0": 1935,
+                    "y0": 3925,
+                    "x1": 2457,
+                    "y1": 4150
+                }
+            ],
+            "bbox": [
+                1935,
+                3877,
+                2457,
+                4150
+            ],
+            "full_article_id": 22,
+            "id": "22_1827-04-03_p3_sn82014894_00271740219_1827040301_0127.json"
+        },
+        {
+            "object_ids": [
+                26
+            ],
+            "headline": "",
+            "article": "The First African Protestant Episcopal Church\nin Baltimore, was consecrated on the s1st ult.\n\n\nMr. Lockwood, respectable merchant of New\nYork, who was so severely scalded by the acci\ndent on board the steam boat Oliver Ellsworth,\nhas died.\n\n\nAn Ok, weighing iioo pounds, fatted in Cecil\nCounty, Md. BY Mr.. Moses Starr, was sold IN the\nElkton market on Friday.\n\n\nThe Apprentices Library of Philadelphia has\na capital Of above Sao0o-and dispenses instrnc-\ntion to between Z and hundred youths\n\n\nA Schoomaster Of Harvard, Mass, has been tri-\ned for expeilng lad from his School who refused\nto attend prayers when in the room. The Court\nheld that the master exercised righttnl authority,\nand acquitted him without leaving their seats.\n\n\nA living Chameleon from Malaga is exhibiting at\nthe Philadelphia Museum.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2469,
+                    "y0": 3487,
+                    "x1": 3276,
+                    "y1": 4259
+                }
+            ],
+            "bbox": [
+                2469,
+                3487,
+                3276,
+                4259
+            ],
+            "full_article_id": 27,
+            "id": "27_1827-04-03_p3_sn82014894_00271740219_1827040301_0127.json"
+        },
+        {
+            "object_ids": [
+                13,
+                27
+            ],
+            "headline": "LIST OF LETTERS",
+            "article": "Office, at Wilmington, Del.\nST, 1927.\nletters on this list, will please\ntised.\n\n\nLydia 8. Lackey\nANNA Long\nMary Livezey\n\n\nM\nJoseph Mitchell\nSarah Ann Massa\nAnn Miller :\nCamille Mignoo\nHenry Massey\nJames Murdoch\nThomas Munhollen\nGilley Mathews\nC. Mignot\nWilliam Miller 8\nAnn Moogins\nWilliam Murphcy\nMary Moore\nM. II. Miller\nJohn Morrow\nJames Mathews\nWilliam Muthey\nHannah Moore\nJohn Mcguire\nDaniel Moran\nJohn Miller\nFrances Nils\n\n\n\"\nJames Newall\nStephen Newell\nMary holland\nJohn Meals\nDeborah North\nCa,p,at Naokitt",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 173,
+                    "y0": 192,
+                    "x1": 709,
+                    "y1": 246
+                },
+                {
+                    "x0": 423,
+                    "y0": 240,
+                    "x1": 845,
+                    "y1": 1411
+                }
+            ],
+            "bbox": [
+                173,
+                192,
+                845,
+                1411
+            ],
+            "full_article_id": 28,
+            "id": "28_1827-04-03_p3_sn82014894_00271740219_1827040301_0127.json"
+        },
+        {
+            "object_ids": [
+                22,
+                30
+            ],
+            "headline": "IN NEWCASTLE COUNTY",
+            "article": "From June lsf, 1926, to February\n\n\n22d. 1927.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 857,
+                    "y0": 639,
+                    "x1": 1379,
+                    "y1": 684
+                },
+                {
+                    "x0": 857,
+                    "y0": 683,
+                    "x1": 1384,
+                    "y1": 750
+                }
+            ],
+            "bbox": [
+                857,
+                639,
+                1384,
+                750
+            ],
+            "full_article_id": 31,
+            "id": "31_1827-04-03_p3_sn82014894_00271740219_1827040301_0127.json"
+        }
+    ]
+}

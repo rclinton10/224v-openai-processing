@@ -1,0 +1,820 @@
+{
+    "lccn": {
+        "title": "American watchman and Delaware advertiser.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2576-7445",
+        "lccn": "sn82014894",
+        "start_year": "1822",
+        "end_year": "1828",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [
+            "sn82014895"
+        ],
+        "successors": [
+            "sn82014393"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn82014894",
+        "edition": "ed-01",
+        "date": "1827-03-09",
+        "pages": [
+            "seq-3",
+            "seq-4",
+            "seq-1",
+            "seq-2"
+        ]
+    },
+    "page_number": "1",
+    "scan": {
+        "lccn": "sn82014894",
+        "edition": "ed-01",
+        "date": "1827-03-09",
+        "page": "1",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn82014894/1827-03-09/ed-1/seq-1.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn82014894/1827-03-09/ed-1/seq-1/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn82014894/1827-03-09/ed-1/seq-1/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn82014894/00271740219/1827030901/0096.jp2",
+        "height": 5624,
+        "width": 3528
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 19,
+                "y0": 1485,
+                "x1": 846,
+                "y1": 3278
+            },
+            "class": "article",
+            "raw_text": "gIyIE Subscriber, DocroR MEDICINE and PnAcrcAl\nCHsaIr, respectfully informs the Ladies and Gentle.\nmen OF Wilmington and its vicinity, that be has\nmsnced to prepare Medicine, in MARKET STREET,\nWilmington, Delaware, IN the house opposite Mr. Henry\nHopes y Cos Lumber Ylrd-@here he prepares the fol\nloving Medicines The Sulphate of Quinne. This medi-\n\n\ncine contains the active principle Of the Peruvian Bark aud\nproperly prepared the med cine yet dis\n\n\ncovered for tile cure of Agucs enitten and Intermittent\nFeyers e also prepares lsamic Restorative for dis\nof the Breast and Lungs Pulmonary Gonsumpio\nPhtsic and medicine which will eficetualy the\n\n\nmost distressing Headache no mater how long its contn.\nuance may be tie also cures the inothache III few\n\n\nminutes, without making OF any OF the corodiHg acids,\nred hot IRON, or plugging the eeth III gold leaf or\n\n\nsheet lead The medicine he makes Of III preserve\n\n\nthe teeth for years prepares Tooth Powder hat VII\n\n\nwhten the teeth, be they black from taking meli\ncine any other DR. r. y, ep res Eye Wate\nthat will remove all niammatiuns from the eyes have\ncured numbers from the rheumatism ami some n them\ncppies for years from it. Mares ,iTualures do no\nrequire, as see it is too much tne with ackery\nFrom my practice of medicine and my experience and\nknowledge OF chemistry, am able to extract edcinai\nvirtues contained III animals, vegetables an n, And\napply them for tile different diseases the tin\"\nOf people may want hem Perso .fsfed vi Cancers,\nIf they make timely applica alton, cart ured.\n\n\nThere IS medicine sold be the Sicd,mS Pdnd\nwhich did not hear anil saw ~ ssains adve\n,isemen, some few wees past he calc, on d\nthe most EN- nen physicians in Phacel and spoke 80\nthen respecting the Panacea and nioled hem that\nhad the authors works who nvcned the medicine and\ndiscovered its effects in the oi CERTAIN tscasca All\nthe gentlemen spoke To TIE suhiec, ss they wer\ncertain that Mr. SWAIN not the inye ntor e the neG\ncine. The that invented Inc PaHacea W. 0 II ne\n\n\ngreatest chemists that Europe Produced; and deal near\ntwo hundred years and his writings difficult I\" be had\nThat Mr. Swain has got part Of his orks - some\nperson gave him receipt from he work. have no doubt\nOf have prepared chraiicti and real preparaii\nOf the PANACEA, which vii! sell one dollar per bot\ntie by the dozen, and dollar and fifty cents single\nDr. p. prepares Wash for the LADIES which Yemoves\nall Spots, Erupons and Teter from the face aud hands,\nand clears and beauties the skin Vie also prepares\n\n\nsalve that will take Corns h he roots from the toes\nand not give the least sensation OF pa't\n\n\nLadies or Gentlemen who afl ced with any disease\nthat is curable if they pleased ta on me- shall b\nattended to with the strctest punctNaiy\n\n\nJAS. PURCELL, NJ ID. p. G\nWilmington Del, Jan 23, 1927 22-1y",
+            "legibility": "Questionable",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 103,
+                "y0": 944,
+                "x1": 714,
+                "y1": 980
+            },
+            "class": "headline",
+            "raw_text": "TERMS OF ADVERTISING.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -2
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 155,
+                "y0": 1423,
+                "x1": 710,
+                "y1": 1477
+            },
+            "class": "headline",
+            "raw_text": "MEDICAL NOTICE.",
+            "legibility": "Questionable",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2510,
+                "y0": 663,
+                "x1": 3337,
+                "y1": 1569
+            },
+            "class": "article",
+            "raw_text": "Judge necessary TO ascertain the expense of con-\nstrucing the said Railway. provided the making\nOF constructing the same shall be deemed practical\nbic, and 10 return such plans and estimates to the\nLegislature as soon as may be, with detailed Re-\nport Of their lpings under the Commission.\n\n\nResoeued. That the Governor OF this Common.\nwealth with the advice and consent of the Council,\nbe and he hereby is authorized to appoint suitable\nEngineer, who may be one of said Commissioners,\nif il shall be deemed proper, to make the surveys,\nplans and estimates aforesaid, under the drec'oni\nand with the assistance OF said Commissioners.\n\n\nResotred, That the Governor, by and with the\nconsent Of the Council, be and he hereby is author\nICED to draw his warrant on the Treasury OF the\nCommonw eath, at such times. and for such sumr\nas may BY them be thought necessary. not exceed\ning the sum Of Five Thousand Dollars in the whole,\nfor the purpose of defraying the expense OF such\nsurveys, examinations, paas, and estimates.\n\n\nABNER PHELPS.\n\n\nEMORY WASHBURN,]",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 37,
+                "y0": 3352,
+                "x1": 851,
+                "y1": 4126
+            },
+            "class": "article",
+            "raw_text": "FayE following described knees wanted al the Fha\n\n\ndelpha Navy Yard, tor which the price annexed viii\nbe paid delivery hey must be OF ,he hest Hte OAK,\nand delivered in The uf the year 1897\n\n\nKNEES--Body and arm feet inches diameter OF The\narm clear of bark Is inches side when corpr -lY fin\nished the ship 10 nches to be square and IN s4ae\nshape: price dollars.\n\n\nKNEES-Body z feet inches, arm feet inches,\ndiameter Of the arm clear of bark IL inches, de when\ncompletely finished in the ship 81 inches, 10 be square II\nshape: price dtllars and SO cents.\n\n\nKNEES-Body feet s inches, arm feet inches, di-\namser of the arm clear of bark 12 inches to side vi\ncompletely finished in the ship inches, 10 be square ad\nin square in shape: price dollars.\n\n\nKNEES-Body feet, arm S feet 6 inches, diameter of\nthe arm clear Of bark Is nches side when petey\nfinished in the ship 10 inches, to be square in shape price\ndollars and SO cents.\n\n\nKNEES-Body Z feet arm S feet 6 inches, diameter OF\nthe arm clear of bark Is inches side when completely\nfinished in the ship inches, be square IN shape price\n10 dollars and so cents.\n\n\nNavy Agents Office, Philadelphia, Feb. II. Sis",
+            "legibility": "Questionable",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 230,
+                "y0": 3295,
+                "x1": 653,
+                "y1": 3344
+            },
+            "class": "headline",
+            "raw_text": "SHIP TIMBER.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 854,
+                "y0": 2482,
+                "x1": 1677,
+                "y1": 5414
+            },
+            "class": "article",
+            "raw_text": "We proceed new to notice the second part OF the\nReport OF the Committee Of the House Of Repre-\n\\. natives, on the expectancy OF Railway from\nBoston TO the Hudson river. The Committee say\n\n\nThe subject Of improving the facilities Of inter\ncourse between Boston and the interior has been\nlong growing in Importance and has now become\n~ vast interest to the State. It has increased in\nmagnitude in nroportion the sno'c of our minfprS\nha. heen diminished our mana featuring establish\n,nppfs muffippd, nnd neD channel to direct the\ntrddp Of this Commonwealth into other States\nmade\n\n\nFor many years previous to tho present season,\nhe snow Of our winters 10 Massachusetts, has been\nrsdually diminished. Instead Of seighing for\ntour months in winter, it is now rare for so many\nweeks and in the neighborhood OF Boston. during\nThe twelve years previous TO the present, the guam\ntity has not upon an average been more than suf\ncirnt for two weeks. This change in our seasons,\nwhich afiotds interesting topic for the philoso\nphrr has greatly diminished the means Of trans\npo,taion Our winters have often been wet; our\nDads have been rendered so!t, and nearly impassa\nhIf lr heavy loaded teams; and this has occur\n| red Al that season OF the year. when the great ag.\nticul n.al interest has most required the means OF\ninte course with the market. The cultivaors du-\n/ ING The summer season, is engaged on bis farm,\nand he has no produce except oi the lighter kind\nrescv Tor the market, nor time to transport u he\n|\nseticles Of produce are prepared for the market,\nour roads have h en- ln such state as TO render\ntranspo, alton difficult and expensive. For the want\n! ot A fferent mode OF transportation, the winter\nseason in Massachusetts. and in all our northern\nStstes has been passed in comparative idleness -\nThis time Of the farmer during that season, could\nin no way be so pro6taby employed as in conveying\nproduce, wood, lumber building Materials etc. 10\nmarket, if suitable facilities for transportation were\nafforded And from the increase OF business. which\na short time of sleighing produces, It has been\ncomputed by intelligent agricultursts and mer.\nchants that more than three tmes the number oil\nton. would be transported duriug the year. II these\nfacilities we're provided.\n\n\nThe increase of our manufacturing establish\nments, through the interior, has likewise created\nan additional demand Of no ordinary magnitude,\nfor improving the means Of intercourse with the\ncapits, of the State. The immense benefits which\nwould accrue to these establishments by the con-\nstruction Of an easy, constant. cheap' ana e*peai-\ntous mode Of conveyance at all seasons oil the year\ncen hardly be estimated.\n\n\nThe facilities OF conveyance IN England nave\ncontributed essentially to advance the CROWN and\nprospetty OF their manufactures and have enabled\nthem 10 compete so successfully with those OF other\nnations Until we adopt the same policy IN this\nre pect. our manufactures must continue TO main\ntain an unequal contest.\n\n\ni The contemplated canals, and the improvements\nof the navigation Of rivers, are objects OF great\nimportance 10 the public. These improvements\nwill enrich The many towns in their vicinity; and\n\n\nthe wealth and prosperity of any part OF the State,\n\n\nis the wealth and prosperity of the whole But\n\n\nthen i. must be obvious. that canal will be closed\nbv frost nearly FIVE months oil the year, when It is\nmost wanted. IF during that important part OF the\nwear, a cheap and easy mode Of conveyance should\nbe opened from the interior to the seabord. II would\nafford additional advantages to the public. II would\nrive choice Of markets TO the farmer, the meT",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 1043,
+                "y0": 2394,
+                "x1": 1483,
+                "y1": 2448
+            },
+            "class": "headline",
+            "raw_text": "From the Bostor Patriot.",
+            "legibility": "Questionable",
+            "full_article_id": 4,
+            "reading_order_id": -2
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 1162,
+                "y0": 2451,
+                "x1": 1378,
+                "y1": 2487
+            },
+            "class": "author",
+            "raw_text": "RAILW AY.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 37,
+                "y0": 4551,
+                "x1": 855,
+                "y1": 5291
+            },
+            "class": "article",
+            "raw_text": "VDURSUANT to the last Will and Testament Of JOIN\nI PoGuH, dec, late of the Borough Of Wilmington,\nwill be exposed to public sale, the house of James Pn\nlnnkeeper, in said Borough, on WEDNESDAY the l4h\ndcg If laeh lert the following described Real Estate,\nviz:\n\n\nNo IA lot of land Front street, in the said\nBorough, 80 feet 'front.' and extending back III fee.\ninches with story frame house and kitchen thereon,\nand frame stable This property is suitable for tavern,\nany kind Of public business.\n\n\nNo. \"a lot OF land adjoining No i; is IS feet front\nand 1856 feet 10 inches back which has been occupied\nawood yard for number Of years. There two frame\nbuildings thereon, the one occupied stable, and the\nother store\n\n\nNo 3Fve Of msrs situate in the said borough.\nin Clemens matsh, adjoining marsh Of joseph Ba\nand oters which may be divided into three lots, TO suit\npurchasers.\n\n\nThe sale at two O'Clock, when attendance\nwill be given and conditions made known by\n\n\nJOSEPH POGUE, SvSsr1ng Erscntor\nWilmington, Feb, 25d 1927. S2-5t",
+            "legibility": "Questionable",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 54,
+                "y0": 4490,
+                "x1": 824,
+                "y1": 4539
+            },
+            "class": "headline",
+            "raw_text": "REAL ESTATE FOR SALE.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 872,
+                "y0": 746,
+                "x1": 1571,
+                "y1": 2338
+            },
+            "class": "article",
+            "raw_text": "BIZ THE REV. THOMAS DALE\nonce more clasp thee to my breast,\nChild of my first and fondest love,\nEre YET enter into rest,\n\n\nEre JON the ransomed hosts above:\nAnd earlhward though my thoughts must rove\nFrom Sal\"ts and Seraphs bending there,\nWho shall parting sigh reptove\nGer one as pure and scarce less farl\nMy bud OF beauty thou must bloom,\nMid the chill rains, and wintry blast,\nWhere skies are wrapt in starless gloom,\nAND summer suns have beamed their last,\nyet though dark clouds the heaven osercast.\nlie, at whose word the winds are still,\nCan screen thee till the storm be past.\nIkrow He CALL trust he will\nYet, who shall form thine infan, sghs\nTo syllable the first brief prayer'\nAnd who shall point thee to the skies\nAnd say, Thou hast a Father there\nAnd who shall watch with ccaseless care\nLest thy young STEPS unheeding stray\nWhere Pleasure plants the secret snare\nAnd Hopes seductive smiles betray?\nOh could bear thee hence, while vet,\nThe strife of passion is unknown,\nEre guilt her fatal seal hath set\n\n\nOr earth has mark'd thee for its own,-..\nWhile Natute's debt Of death alone\nIs all mortality must pay\n\n\nTo gaze upon the eternal throne,\nAnd swell The glad unceasng lay!\nBut now leave thee-not alone\nMore welcome far were solitude,\nFor tie, who ne'er forsakes his own,\nZen in the desert, vast and rude,\nNight bid the ravens bring thee food,\nOr streams gush forth amidst the Wild\nOr guide the wanderings of the good\nTo seek and save his landmaid's child.\nleave thee 10 thy mothers foes,\n\n\nleave thee TO the foes of Heaven -\nYet d. leave thee but to those r.\nLord be The guilty thought forgiven!\nO. If she strive as have striyen,\nWith stormy winds on lfe's rough sea,\nMay she by warning waves be driven\nTo find haven, Lord, with thee!",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 1061,
+                "y0": 540,
+                "x1": 2353,
+                "y1": 607
+            },
+            "class": "headline",
+            "raw_text": "WILMINGTON, Del FRIDAY, MARCH o 1927.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -3
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1003,
+                "y0": 650,
+                "x1": 1523,
+                "y1": 734
+            },
+            "class": "headline",
+            "raw_text": "From The AMULET for 1877.\nTHE MARTYRS CHILD.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -2
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 1065,
+                "y0": 742,
+                "x1": 1496,
+                "y1": 769
+            },
+            "class": "author",
+            "raw_text": "By THE REV. TnomAs Da1r",
+            "legibility": "Illegible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 37,
+                "y0": 4196,
+                "x1": 855,
+                "y1": 4473
+            },
+            "class": "article",
+            "raw_text": "PROPOSALS will be received, at any time before the\nE 10th of next month, for printing and furnishing, in\ncomplete ORDER three hundred copies of the Journal Il\" the\nSenate of the State of Delaw The January Sessl\"\n1897 The journal be printed in the octave form,\nwith 1850 ms each page plea type, and in the order\nof the Journal the Senate of the said Sta for the\n1925. HENRY STOUT.\n\n\nDover Feb. 81, 1897. S2-4t",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 94,
+                "y0": 4143,
+                "x1": 780,
+                "y1": 4192
+            },
+            "class": "headline",
+            "raw_text": "TO the Printers of Delaware.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1671,
+                "y0": 773,
+                "x1": 2507,
+                "y1": 4987
+            },
+            "class": "article",
+            "raw_text": "description could be sent with despatch. and at all\nseasons as soon as prepared and to the market\nwhere the various commodities would bring the\nhighest price. 1t would obviae the necessity and\nexpense OF storing various, and frequently perisha\nBile articles; circumstance alike important to the\nowner and consumer. 1t would benefit all the con-\n\n\nemplaed canals, and the navigation OF our rivers,\nby increasing the general amount 10 be transported;\nand it would save much Of the trade within own\nState. And if equal, or higher prices be obtain\ned within territories, an additional a1yan.\ntage would accrue to the whole Commonwealth.\n\n\nThese and other reasons which might be men\ntoned, have operated TO produce strong and an\nincreasing conviction in the public mind that some\ndecisive measures are necessary to facilitate the\nintercourse between Boston and the Hudson river a\nor near Albany. 1t is measure which His Excel\nlency the Governor has repeatedly urged upon the\nattention Of the Legislature. The necessity Of The\nmeasure has been cvinced by the appointment Of\nBoard OF Commissioners to explore route for\ncanal; evinced by the general anxiety felt for the\nsuccess of that enterprise, and the regret that\nmore favorable route could not have been ascertain\ned. 1t has been recently eyinced by repeated meet\n| ings and resolves in various parts oil the Common\nwealth and also by highly respectable petitions.\nsigned by some of the most intelligent, influential\nand wealthy citizens n the community.\n\n\n| The committee then review the two means\n| of inter communication which have been most\nthough, Of, levels and railways, and after candid\nexamination of the advantages, expenses, &c OF\n| each, come to the conclusion that the latter is pre-\nfcrsble The irst cost OF an iron Railway, with\ntwo sets of tracks, is less than that Of canal,\nand the expense of repairs essentially iess.-The\ncost OF the Quincy Railway is stated at 8l1 o52 90\ncts. q mile, which is believed to be a third more\nThan like undertaking would now cost.\n\n\nIn answer to the Circular appended TO this Re\n| port, your Committee have received estimates Of\nthe amount of tonnage from between thirty and for\nty towns, in the five western counties oi this Com\nmon wealth.-From Of the largest towns no\nreturns have been received. and Of course are not\nestimated. The average amount Of tonnage IN each\n\n\ntown returned, is upwards of five hundred and fifty\neight tons annually And the conviction appears\ngeneral ,ha. should the price Of transportation be\nreduced, great and increasing addition would be\nmade to this amount. The returns also state, with\nvery few exceptions, that The land to be occupied by\nthe Railway would be given.\n\n\ni The navigation Of the Hudson River from Alba\nny to New York is upon average suspended by\nice one fourth part of the year. And this circum\nstance would contribute, in no small degree, TO in\ncrease the extent Of business upon the contempls\nted road. The transportation OF passengers end\nmails would add TO it.-Stages are no. SO liable 10\naccidents upon Railway as upon common road\n\n\nwhile their speed can be greatly increased A con\nvenience not afforded by canals.\n\n\nI The extensive advantages OF opening canal be-\n\n\n\n\n\nand national point of view, have already been pre-\nsented to the Legislature. And II 80 great advan\ntaees would result from canal it is safe to con-\ncude that much greater advantages would be real\nlied by tha construction OF Railway, and at d.\nminished expenditure.\n\n\nThe extension Of the proposed Railway from the\nwestern line of Massachusetts, 10 the Hudson.\nis a measure, which your Committee believe will\n\n\nmeet the enlightened views and receive the cordial\nco operation of the government OF the State OF\nNew York. In support o! this opinion they refer\n; to the letter Of His Excellency De Witt Clinton.\nmarked B. The public journals in the nelehbor-\nhood Of the Hudson have already expressed live\nly interes, in this enterprise ard no opposition can\nbe apprchended from the liberal policy which actu\n, stes our sister State.\n\n\nFrom these considerations, your Committee are\nsatisfied of the Practicability and convinced of\nthe E1 pedisncy of constructing Railway from\n\n\nBoston to the Hudson, the cost OF which can 10 their\n\n\nopinion be accurately estimated only after actual sur\nyey.\n!, In closing their report. your Committee would\nearnestly express their deep sense of the impor-\ntance Of the design. which has been submitted to\ntheir consideratc vestigation. design. intended\nto procure for Massachusetts the enjoyment OF the\nproducts OF her territory, the interest OF her\nown capital the intercourse Of her own population,\nthe accumulation of her own resources; design\nworthy the attention of free and powerful com\n\n\nmunity, worthy the mature and deliberate consd\n\n\nGrafton Of an enlightened Legislature, and worthy\nthe active enterprise Of an American S'ate; de\n\n\nSIGN too important in its results and too beneficial ia\nits consequences to be lightly laid aside; tco honor\n\n\nable to the character of Massachusetts, 1t capable\nOf successful accomplishment, to be abandoned\nwithout careful and accurate inquiry. Guided\nby these views, your Committee would respectfully\nrecommend the adoption Of the following\nRESOLVES s.\n\n\nRScoT,,pd That the Governor OF this Common\n\n\n,u~.ltl hv und with the cnnsert of the Council, be",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 24,
+                "y0": 694,
+                "x1": 846,
+                "y1": 1389
+            },
+            "class": "article",
+            "raw_text": "january or July, six months III advance-for D9u,s a\nyear From those who do pay above, Five DoNars\nwill be demanded. If sub crber wishes to Decline he\nmust notify the editors of his ntentlon before the first OF\nIune or December, and pay all arrearages. Without\ncompliance with these conditions, paper will be discon.\ninued except at the option of the editors\n\n\nTERMS OF ADVERTISING.\n\n\nAdvertisements not exceeding twelve lines for term\nless than three months; four times for dollar, and We\nv cents for every subsequent insertion longer pro-\nnorton Advertisers requested to specify in writing\nhov long their advertisements be d. or the,\nwill be continued till forbid Letters the Editors TO III.\naare attention must be post paid\n\n\nAdoerttstng 6ytheyear.\nIto Subscribers. To Non-S uhs cribers\nyear SIS, 90 year S18, 90\nmonths 3, % months 9, so\n8 do. q, SO 8 do. 500",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 41,
+                "y0": 531,
+                "x1": 350,
+                "y1": 594
+            },
+            "class": "headline",
+            "raw_text": "Number 535.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -2
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 50,
+                "y0": 632,
+                "x1": 807,
+                "y1": 682
+            },
+            "class": "headline",
+            "raw_text": "CONDITIONS OF THE WATCHMAN",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2510,
+                "y0": 1603,
+                "x1": 3329,
+                "y1": 2101
+            },
+            "class": "article",
+            "raw_text": "Philadelphia, February ai.-On Monday last,\nJohn Porter. Coroner of Gloucester county. New\nJersey, held an inquest over the body OF female,\nlound near Cooper's Creek, on the Jersey side Of\nthe Deleware. No ks Of violence appearing on\nthe body, the inquest were Of opinion, that she came\nto her death by drowning. She was recognized 10\nbe the same person who was domestic in the lam\nlily Of Mr.. Michael Ritter, and was supposed have\nfallen into the Delaware at Callowhill street wharf\n10 November last. She was yesterday handed over\nby the Coroner TO her parents. and was buried in\nrespectable manner.",
+            "legibility": "Questionable",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2515,
+                "y0": 3387,
+                "x1": 3346,
+                "y1": 5365
+            },
+            "class": "article",
+            "raw_text": "\n\n\nthe tin Of the nose the end OF the tail killed\nabout seventeen miles from his place, a lew weeks\nsince by Mr.. David Hover. About the hour OF\n10, the night previous. he was aroused from his\nsumbcrs by the cries o! his dog and rising he went\nTO the front door Of his house to ascertain the cause\nHe Judged rightly that the faithful animal had fallen\nprey to some wild beast and again retired TO rest\nThe ne xt morning. having assembled some Of his\nneighbors they joined in pursuit. Not more than\nthree hundred yards from the house having crossed\ngully and accidentally looking back, he esped the\npanther crouched upon he half devourcd carcasc OF\nhis dog He fred, and killed it. 1t is conJectured\nthat the great quantity of snow upon the mountains.\nhas forced them to the plains in quest OF iood\nAn explosion Of large quantity OF gunpowder\ntook place in the government stores al Port au\nPrince on The Cd Of February, by which the Com\nmssary of the Navy several officers, and about go\nmen were killed. The accident was osc asioned by\nusing iron hammers and iron nails in boxing up\n1000 casks to put on board government vessel.\nPresident Boyer had left the store but . short ms\nprevious. BY the exertions OF the crews of TWO\nFrench men Of war, with thsr FIRE engines, the city\nwas saved from destruction.\n\n\nAccording to an ad advertisement in the Rochester Album.\n!, seems ts, the Trustees the Roman Catholic Church\nOf Rochester, have advertised their PASTOR the heperend\nJohn M'Cormick, as having clipped with young woman\nil violation Of morality and of the obligations of his sacred\nOffice and of all other ties which good men reverence\"\n\n\nW 4. .9nerican,\n\n\n.Musterious aGair.-A little son of Benjamin\nC,.rL of Arkansas, between three and four years\nOf age. disappeared in mysterious manner, ia\nOctoper, 1925, and supposed 10 have hsen\ndrowned, Notwithstanding little negro glr about\nhis own age said he was aiken away BY man on\nhorseback. Recently the parents received letter.\nstating that their child would be delivered TO them\n;r th-y ,Uonld enclose ESQ in q letter to Thomas\nTu,ty. at Natchsz The rpotber repaired to Natchez\nand throu the aid Of the postmaster, succeeded IN\nappvshending the pretended Thomas Iulty' whose\nreal nams was Edward H. Norris an ir,shmsn aud\nscboolmas,er. He was committed TO JAIL and re-\nfuses TO discover the place where the child IS\nThe country around has been searchse' and Ssoo\nreward offered for the child",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 2774,
+                "y0": 3317,
+                "x1": 3307,
+                "y1": 3357
+            },
+            "class": "headline",
+            "raw_text": "Easton, (Penn. J February %.",
+            "legibility": "Questionable",
+            "full_article_id": 14,
+            "reading_order_id": -1
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 2510,
+                "y0": 2135,
+                "x1": 3329,
+                "y1": 2848
+            },
+            "class": "article",
+            "raw_text": "baltimore February ga Coroner's Inquest held\nby John Asqith Esq yesterday afternuon the body\nOf John Tiyard aged three years, son Of Henry W. Til\nyard Verdict Of the jury that he came to his DEATH BY\nbeing accidentally shot by Jesse c. Earle\n\n\nThe following account Of this very affecting accident we\ncopy from the Chronicle :-\"As Mr.. Jesse G. Eaes\nSurgical instrument Maker. IF this city, was yesterday\nmaking preparation to go shooting, he took iowling\npiece which had been in the habit Of hiring persons,\nand which had been uniformly returned without load\n\n\nHe put small charge Of powder into the piece, and after\nhaving pinned it. attempted to fire il but The gun fasheds\nwhen ne took gun pick and after clearing the touch\nhole, put in prming, and again drew the trigger,\nOf shot, which without his knowledge in it, lodg-\ned in the body of the of MIR. II w Tilsard, Lom-\nbard street, child about years old who just enter\nchild died ely, and on examination it found\n\n\nthat ten shots had entered the heart Of the innocent sue\nrer'",
+            "legibility": "Questionable",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 2519,
+                "y0": 2869,
+                "x1": 3333,
+                "y1": 3291
+            },
+            "class": "article",
+            "raw_text": "PHILADELPHIA, Feb 21.-A FIRE broke out last night, be-\nII and l2 o'clock. in Elijah Ches'ons coacnakers\n,royed, together with number of unfinished carriages,\n&C. and the backsmh's shop in the Insurance was\neffected tie dwelling bonse of Mr. cheston, which IS\nconsiderably damaged, but his shop and its\ntents We regret say that Mr. Chesons loss has been\nseyere-about $4,000 We assured lila, fire had\nbeen in the shop after three o'clock This fire was doubt,\nless the work of incendary. Five six dwelling tou.\nses have been materially injured having their roofs\ndestroyed. There much destruction otturni,nre.\n\n\nDrese",
+            "legibility": "Questionable",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                26,
+                9,
+                0
+            ],
+            "headline": "TERMS OF ADVERTISING.\n\nMEDICAL NOTICE.",
+            "article": "gIyIE Subscriber, DocroR MEDICINE and PnAcrcAl\nCHsaIr, respectfully informs the Ladies and Gentle.\nmen OF Wilmington and its vicinity, that be has\nmsnced to prepare Medicine, in MARKET STREET,\nWilmington, Delaware, IN the house opposite Mr. Henry\nHopes y Cos Lumber Ylrd-@here he prepares the fol\nloving Medicines The Sulphate of Quinne. This medi-\n\n\ncine contains the active principle Of the Peruvian Bark aud\nproperly prepared the med cine yet dis\n\n\ncovered for tile cure of Agucs enitten and Intermittent\nFeyers e also prepares lsamic Restorative for dis\nof the Breast and Lungs Pulmonary Gonsumpio\nPhtsic and medicine which will eficetualy the\n\n\nmost distressing Headache no mater how long its contn.\nuance may be tie also cures the inothache III few\n\n\nminutes, without making OF any OF the corodiHg acids,\nred hot IRON, or plugging the eeth III gold leaf or\n\n\nsheet lead The medicine he makes Of III preserve\n\n\nthe teeth for years prepares Tooth Powder hat VII\n\n\nwhten the teeth, be they black from taking meli\ncine any other DR. r. y, ep res Eye Wate\nthat will remove all niammatiuns from the eyes have\ncured numbers from the rheumatism ami some n them\ncppies for years from it. Mares ,iTualures do no\nrequire, as see it is too much tne with ackery\nFrom my practice of medicine and my experience and\nknowledge OF chemistry, am able to extract edcinai\nvirtues contained III animals, vegetables an n, And\napply them for tile different diseases the tin\"\nOf people may want hem Perso .fsfed vi Cancers,\nIf they make timely applica alton, cart ured.\n\n\nThere IS medicine sold be the Sicd,mS Pdnd\nwhich did not hear anil saw ~ ssains adve\n,isemen, some few wees past he calc, on d\nthe most EN- nen physicians in Phacel and spoke 80\nthen respecting the Panacea and nioled hem that\nhad the authors works who nvcned the medicine and\ndiscovered its effects in the oi CERTAIN tscasca All\nthe gentlemen spoke To TIE suhiec, ss they wer\ncertain that Mr. SWAIN not the inye ntor e the neG\ncine. The that invented Inc PaHacea W. 0 II ne\n\n\ngreatest chemists that Europe Produced; and deal near\ntwo hundred years and his writings difficult I\" be had\nThat Mr. Swain has got part Of his orks - some\nperson gave him receipt from he work. have no doubt\nOf have prepared chraiicti and real preparaii\nOf the PANACEA, which vii! sell one dollar per bot\ntie by the dozen, and dollar and fifty cents single\nDr. p. prepares Wash for the LADIES which Yemoves\nall Spots, Erupons and Teter from the face aud hands,\nand clears and beauties the skin Vie also prepares\n\n\nsalve that will take Corns h he roots from the toes\nand not give the least sensation OF pa't\n\n\nLadies or Gentlemen who afl ced with any disease\nthat is curable if they pleased ta on me- shall b\nattended to with the strctest punctNaiy\n\n\nJAS. PURCELL, NJ ID. p. G\nWilmington Del, Jan 23, 1927 22-1y",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 103,
+                    "y0": 944,
+                    "x1": 714,
+                    "y1": 980
+                },
+                {
+                    "x0": 155,
+                    "y0": 1423,
+                    "x1": 710,
+                    "y1": 1477
+                },
+                {
+                    "x0": 19,
+                    "y0": 1485,
+                    "x1": 846,
+                    "y1": 3278
+                }
+            ],
+            "bbox": [
+                19,
+                944,
+                846,
+                3278
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-03-09_p1_sn82014894_00271740219_1827030901_0096.json"
+        },
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "Judge necessary TO ascertain the expense of con-\nstrucing the said Railway. provided the making\nOF constructing the same shall be deemed practical\nbic, and 10 return such plans and estimates to the\nLegislature as soon as may be, with detailed Re-\nport Of their lpings under the Commission.\n\n\nResoeued. That the Governor OF this Common.\nwealth with the advice and consent of the Council,\nbe and he hereby is authorized to appoint suitable\nEngineer, who may be one of said Commissioners,\nif il shall be deemed proper, to make the surveys,\nplans and estimates aforesaid, under the drec'oni\nand with the assistance OF said Commissioners.\n\n\nResotred, That the Governor, by and with the\nconsent Of the Council, be and he hereby is author\nICED to draw his warrant on the Treasury OF the\nCommonw eath, at such times. and for such sumr\nas may BY them be thought necessary. not exceed\ning the sum Of Five Thousand Dollars in the whole,\nfor the purpose of defraying the expense OF such\nsurveys, examinations, paas, and estimates.\n\n\nABNER PHELPS.\n\n\nEMORY WASHBURN,]",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2510,
+                    "y0": 663,
+                    "x1": 3337,
+                    "y1": 1569
+                }
+            ],
+            "bbox": [
+                2510,
+                663,
+                3337,
+                1569
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-03-09_p1_sn82014894_00271740219_1827030901_0096.json"
+        },
+        {
+            "object_ids": [
+                10,
+                2
+            ],
+            "headline": "SHIP TIMBER.",
+            "article": "FayE following described knees wanted al the Fha\n\n\ndelpha Navy Yard, tor which the price annexed viii\nbe paid delivery hey must be OF ,he hest Hte OAK,\nand delivered in The uf the year 1897\n\n\nKNEES--Body and arm feet inches diameter OF The\narm clear of bark Is inches side when corpr -lY fin\nished the ship 10 nches to be square and IN s4ae\nshape: price dollars.\n\n\nKNEES-Body z feet inches, arm feet inches,\ndiameter Of the arm clear of bark IL inches, de when\ncompletely finished in the ship 81 inches, 10 be square II\nshape: price dtllars and SO cents.\n\n\nKNEES-Body feet s inches, arm feet inches, di-\namser of the arm clear of bark 12 inches to side vi\ncompletely finished in the ship inches, 10 be square ad\nin square in shape: price dollars.\n\n\nKNEES-Body feet, arm S feet 6 inches, diameter of\nthe arm clear Of bark Is nches side when petey\nfinished in the ship 10 inches, to be square in shape price\ndollars and SO cents.\n\n\nKNEES-Body Z feet arm S feet 6 inches, diameter OF\nthe arm clear of bark Is inches side when completely\nfinished in the ship inches, be square IN shape price\n10 dollars and so cents.\n\n\nNavy Agents Office, Philadelphia, Feb. II. Sis",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 230,
+                    "y0": 3295,
+                    "x1": 653,
+                    "y1": 3344
+                },
+                {
+                    "x0": 37,
+                    "y0": 3352,
+                    "x1": 851,
+                    "y1": 4126
+                }
+            ],
+            "bbox": [
+                37,
+                3295,
+                851,
+                4126
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-03-09_p1_sn82014894_00271740219_1827030901_0096.json"
+        },
+        {
+            "object_ids": [
+                18,
+                22,
+                3
+            ],
+            "headline": "From the Bostor Patriot.",
+            "article": "We proceed new to notice the second part OF the\nReport OF the Committee Of the House Of Repre-\n\\. natives, on the expectancy OF Railway from\nBoston TO the Hudson river. The Committee say\n\n\nThe subject Of improving the facilities Of inter\ncourse between Boston and the interior has been\nlong growing in Importance and has now become\n~ vast interest to the State. It has increased in\nmagnitude in nroportion the sno'c of our minfprS\nha. heen diminished our mana featuring establish\n,nppfs muffippd, nnd neD channel to direct the\ntrddp Of this Commonwealth into other States\nmade\n\n\nFor many years previous to tho present season,\nhe snow Of our winters 10 Massachusetts, has been\nrsdually diminished. Instead Of seighing for\ntour months in winter, it is now rare for so many\nweeks and in the neighborhood OF Boston. during\nThe twelve years previous TO the present, the guam\ntity has not upon an average been more than suf\ncirnt for two weeks. This change in our seasons,\nwhich afiotds interesting topic for the philoso\nphrr has greatly diminished the means Of trans\npo,taion Our winters have often been wet; our\nDads have been rendered so!t, and nearly impassa\nhIf lr heavy loaded teams; and this has occur\n| red Al that season OF the year. when the great ag.\nticul n.al interest has most required the means OF\ninte course with the market. The cultivaors du-\n/ ING The summer season, is engaged on bis farm,\nand he has no produce except oi the lighter kind\nrescv Tor the market, nor time to transport u he\n|\nseticles Of produce are prepared for the market,\nour roads have h en- ln such state as TO render\ntranspo, alton difficult and expensive. For the want\n! ot A fferent mode OF transportation, the winter\nseason in Massachusetts. and in all our northern\nStstes has been passed in comparative idleness -\nThis time Of the farmer during that season, could\nin no way be so pro6taby employed as in conveying\nproduce, wood, lumber building Materials etc. 10\nmarket, if suitable facilities for transportation were\nafforded And from the increase OF business. which\na short time of sleighing produces, It has been\ncomputed by intelligent agricultursts and mer.\nchants that more than three tmes the number oil\nton. would be transported duriug the year. II these\nfacilities we're provided.\n\n\nThe increase of our manufacturing establish\nments, through the interior, has likewise created\nan additional demand Of no ordinary magnitude,\nfor improving the means Of intercourse with the\ncapits, of the State. The immense benefits which\nwould accrue to these establishments by the con-\nstruction Of an easy, constant. cheap' ana e*peai-\ntous mode Of conveyance at all seasons oil the year\ncen hardly be estimated.\n\n\nThe facilities OF conveyance IN England nave\ncontributed essentially to advance the CROWN and\nprospetty OF their manufactures and have enabled\nthem 10 compete so successfully with those OF other\nnations Until we adopt the same policy IN this\nre pect. our manufactures must continue TO main\ntain an unequal contest.\n\n\ni The contemplated canals, and the improvements\nof the navigation Of rivers, are objects OF great\nimportance 10 the public. These improvements\nwill enrich The many towns in their vicinity; and\n\n\nthe wealth and prosperity of any part OF the State,\n\n\nis the wealth and prosperity of the whole But\n\n\nthen i. must be obvious. that canal will be closed\nbv frost nearly FIVE months oil the year, when It is\nmost wanted. IF during that important part OF the\nwear, a cheap and easy mode Of conveyance should\nbe opened from the interior to the seabord. II would\nafford additional advantages to the public. II would\nrive choice Of markets TO the farmer, the meT",
+            "byline": "RAILW AY.",
+            "bbox_list": [
+                {
+                    "x0": 1043,
+                    "y0": 2394,
+                    "x1": 1483,
+                    "y1": 2448
+                },
+                {
+                    "x0": 1162,
+                    "y0": 2451,
+                    "x1": 1378,
+                    "y1": 2487
+                },
+                {
+                    "x0": 854,
+                    "y0": 2482,
+                    "x1": 1677,
+                    "y1": 5414
+                }
+            ],
+            "bbox": [
+                854,
+                2394,
+                1677,
+                5414
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-03-09_p1_sn82014894_00271740219_1827030901_0096.json"
+        },
+        {
+            "object_ids": [
+                15,
+                4
+            ],
+            "headline": "REAL ESTATE FOR SALE.",
+            "article": "VDURSUANT to the last Will and Testament Of JOIN\nI PoGuH, dec, late of the Borough Of Wilmington,\nwill be exposed to public sale, the house of James Pn\nlnnkeeper, in said Borough, on WEDNESDAY the l4h\ndcg If laeh lert the following described Real Estate,\nviz:\n\n\nNo IA lot of land Front street, in the said\nBorough, 80 feet 'front.' and extending back III fee.\ninches with story frame house and kitchen thereon,\nand frame stable This property is suitable for tavern,\nany kind Of public business.\n\n\nNo. \"a lot OF land adjoining No i; is IS feet front\nand 1856 feet 10 inches back which has been occupied\nawood yard for number Of years. There two frame\nbuildings thereon, the one occupied stable, and the\nother store\n\n\nNo 3Fve Of msrs situate in the said borough.\nin Clemens matsh, adjoining marsh Of joseph Ba\nand oters which may be divided into three lots, TO suit\npurchasers.\n\n\nThe sale at two O'Clock, when attendance\nwill be given and conditions made known by\n\n\nJOSEPH POGUE, SvSsr1ng Erscntor\nWilmington, Feb, 25d 1927. S2-5t",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 54,
+                    "y0": 4490,
+                    "x1": 824,
+                    "y1": 4539
+                },
+                {
+                    "x0": 37,
+                    "y0": 4551,
+                    "x1": 855,
+                    "y1": 5291
+                }
+            ],
+            "bbox": [
+                37,
+                4490,
+                855,
+                5291
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-03-09_p1_sn82014894_00271740219_1827030901_0096.json"
+        },
+        {
+            "object_ids": [
+                19,
+                17,
+                27,
+                5
+            ],
+            "headline": "WILMINGTON, Del FRIDAY, MARCH o 1927.\n\nFrom The AMULET for 1877.\nTHE MARTYRS CHILD.",
+            "article": "BIZ THE REV. THOMAS DALE\nonce more clasp thee to my breast,\nChild of my first and fondest love,\nEre YET enter into rest,\n\n\nEre JON the ransomed hosts above:\nAnd earlhward though my thoughts must rove\nFrom Sal\"ts and Seraphs bending there,\nWho shall parting sigh reptove\nGer one as pure and scarce less farl\nMy bud OF beauty thou must bloom,\nMid the chill rains, and wintry blast,\nWhere skies are wrapt in starless gloom,\nAND summer suns have beamed their last,\nyet though dark clouds the heaven osercast.\nlie, at whose word the winds are still,\nCan screen thee till the storm be past.\nIkrow He CALL trust he will\nYet, who shall form thine infan, sghs\nTo syllable the first brief prayer'\nAnd who shall point thee to the skies\nAnd say, Thou hast a Father there\nAnd who shall watch with ccaseless care\nLest thy young STEPS unheeding stray\nWhere Pleasure plants the secret snare\nAnd Hopes seductive smiles betray?\nOh could bear thee hence, while vet,\nThe strife of passion is unknown,\nEre guilt her fatal seal hath set\n\n\nOr earth has mark'd thee for its own,-..\nWhile Natute's debt Of death alone\nIs all mortality must pay\n\n\nTo gaze upon the eternal throne,\nAnd swell The glad unceasng lay!\nBut now leave thee-not alone\nMore welcome far were solitude,\nFor tie, who ne'er forsakes his own,\nZen in the desert, vast and rude,\nNight bid the ravens bring thee food,\nOr streams gush forth amidst the Wild\nOr guide the wanderings of the good\nTo seek and save his landmaid's child.\nleave thee 10 thy mothers foes,\n\n\nleave thee TO the foes of Heaven -\nYet d. leave thee but to those r.\nLord be The guilty thought forgiven!\nO. If she strive as have striyen,\nWith stormy winds on lfe's rough sea,\nMay she by warning waves be driven\nTo find haven, Lord, with thee!",
+            "byline": "By THE REV. TnomAs Da1r",
+            "bbox_list": [
+                {
+                    "x0": 1061,
+                    "y0": 540,
+                    "x1": 2353,
+                    "y1": 607
+                },
+                {
+                    "x0": 1003,
+                    "y0": 650,
+                    "x1": 1523,
+                    "y1": 734
+                },
+                {
+                    "x0": 1065,
+                    "y0": 742,
+                    "x1": 1496,
+                    "y1": 769
+                },
+                {
+                    "x0": 872,
+                    "y0": 746,
+                    "x1": 1571,
+                    "y1": 2338
+                }
+            ],
+            "bbox": [
+                872,
+                540,
+                2353,
+                2338
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-03-09_p1_sn82014894_00271740219_1827030901_0096.json"
+        },
+        {
+            "object_ids": [
+                14,
+                6
+            ],
+            "headline": "TO the Printers of Delaware.",
+            "article": "PROPOSALS will be received, at any time before the\nE 10th of next month, for printing and furnishing, in\ncomplete ORDER three hundred copies of the Journal Il\" the\nSenate of the State of Delaw The January Sessl\"\n1897 The journal be printed in the octave form,\nwith 1850 ms each page plea type, and in the order\nof the Journal the Senate of the said Sta for the\n1925. HENRY STOUT.\n\n\nDover Feb. 81, 1897. S2-4t",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 94,
+                    "y0": 4143,
+                    "x1": 780,
+                    "y1": 4192
+                },
+                {
+                    "x0": 37,
+                    "y0": 4196,
+                    "x1": 855,
+                    "y1": 4473
+                }
+            ],
+            "bbox": [
+                37,
+                4143,
+                855,
+                4473
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-03-09_p1_sn82014894_00271740219_1827030901_0096.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "description could be sent with despatch. and at all\nseasons as soon as prepared and to the market\nwhere the various commodities would bring the\nhighest price. 1t would obviae the necessity and\nexpense OF storing various, and frequently perisha\nBile articles; circumstance alike important to the\nowner and consumer. 1t would benefit all the con-\n\n\nemplaed canals, and the navigation OF our rivers,\nby increasing the general amount 10 be transported;\nand it would save much Of the trade within own\nState. And if equal, or higher prices be obtain\ned within territories, an additional a1yan.\ntage would accrue to the whole Commonwealth.\n\n\nThese and other reasons which might be men\ntoned, have operated TO produce strong and an\nincreasing conviction in the public mind that some\ndecisive measures are necessary to facilitate the\nintercourse between Boston and the Hudson river a\nor near Albany. 1t is measure which His Excel\nlency the Governor has repeatedly urged upon the\nattention Of the Legislature. The necessity Of The\nmeasure has been cvinced by the appointment Of\nBoard OF Commissioners to explore route for\ncanal; evinced by the general anxiety felt for the\nsuccess of that enterprise, and the regret that\nmore favorable route could not have been ascertain\ned. 1t has been recently eyinced by repeated meet\n| ings and resolves in various parts oil the Common\nwealth and also by highly respectable petitions.\nsigned by some of the most intelligent, influential\nand wealthy citizens n the community.\n\n\n| The committee then review the two means\n| of inter communication which have been most\nthough, Of, levels and railways, and after candid\nexamination of the advantages, expenses, &c OF\n| each, come to the conclusion that the latter is pre-\nfcrsble The irst cost OF an iron Railway, with\ntwo sets of tracks, is less than that Of canal,\nand the expense of repairs essentially iess.-The\ncost OF the Quincy Railway is stated at 8l1 o52 90\ncts. q mile, which is believed to be a third more\nThan like undertaking would now cost.\n\n\nIn answer to the Circular appended TO this Re\n| port, your Committee have received estimates Of\nthe amount of tonnage from between thirty and for\nty towns, in the five western counties oi this Com\nmon wealth.-From Of the largest towns no\nreturns have been received. and Of course are not\nestimated. The average amount Of tonnage IN each\n\n\ntown returned, is upwards of five hundred and fifty\neight tons annually And the conviction appears\ngeneral ,ha. should the price Of transportation be\nreduced, great and increasing addition would be\nmade to this amount. The returns also state, with\nvery few exceptions, that The land to be occupied by\nthe Railway would be given.\n\n\ni The navigation Of the Hudson River from Alba\nny to New York is upon average suspended by\nice one fourth part of the year. And this circum\nstance would contribute, in no small degree, TO in\ncrease the extent Of business upon the contempls\nted road. The transportation OF passengers end\nmails would add TO it.-Stages are no. SO liable 10\naccidents upon Railway as upon common road\n\n\nwhile their speed can be greatly increased A con\nvenience not afforded by canals.\n\n\nI The extensive advantages OF opening canal be-\n\n\n\n\n\nand national point of view, have already been pre-\nsented to the Legislature. And II 80 great advan\ntaees would result from canal it is safe to con-\ncude that much greater advantages would be real\nlied by tha construction OF Railway, and at d.\nminished expenditure.\n\n\nThe extension Of the proposed Railway from the\nwestern line of Massachusetts, 10 the Hudson.\nis a measure, which your Committee believe will\n\n\nmeet the enlightened views and receive the cordial\nco operation of the government OF the State OF\nNew York. In support o! this opinion they refer\n; to the letter Of His Excellency De Witt Clinton.\nmarked B. The public journals in the nelehbor-\nhood Of the Hudson have already expressed live\nly interes, in this enterprise ard no opposition can\nbe apprchended from the liberal policy which actu\n, stes our sister State.\n\n\nFrom these considerations, your Committee are\nsatisfied of the Practicability and convinced of\nthe E1 pedisncy of constructing Railway from\n\n\nBoston to the Hudson, the cost OF which can 10 their\n\n\nopinion be accurately estimated only after actual sur\nyey.\n!, In closing their report. your Committee would\nearnestly express their deep sense of the impor-\ntance Of the design. which has been submitted to\ntheir consideratc vestigation. design. intended\nto procure for Massachusetts the enjoyment OF the\nproducts OF her territory, the interest OF her\nown capital the intercourse Of her own population,\nthe accumulation of her own resources; design\nworthy the attention of free and powerful com\n\n\nmunity, worthy the mature and deliberate consd\n\n\nGrafton Of an enlightened Legislature, and worthy\nthe active enterprise Of an American S'ate; de\n\n\nSIGN too important in its results and too beneficial ia\nits consequences to be lightly laid aside; tco honor\n\n\nable to the character of Massachusetts, 1t capable\nOf successful accomplishment, to be abandoned\nwithout careful and accurate inquiry. Guided\nby these views, your Committee would respectfully\nrecommend the adoption Of the following\nRESOLVES s.\n\n\nRScoT,,pd That the Governor OF this Common\n\n\n,u~.ltl hv und with the cnnsert of the Council, be",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1671,
+                    "y0": 773,
+                    "x1": 2507,
+                    "y1": 4987
+                }
+            ],
+            "bbox": [
+                1671,
+                773,
+                2507,
+                4987
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-03-09_p1_sn82014894_00271740219_1827030901_0096.json"
+        },
+        {
+            "object_ids": [
+                25,
+                12,
+                8
+            ],
+            "headline": "Number 535.\n\nCONDITIONS OF THE WATCHMAN",
+            "article": "january or July, six months III advance-for D9u,s a\nyear From those who do pay above, Five DoNars\nwill be demanded. If sub crber wishes to Decline he\nmust notify the editors of his ntentlon before the first OF\nIune or December, and pay all arrearages. Without\ncompliance with these conditions, paper will be discon.\ninued except at the option of the editors\n\n\nTERMS OF ADVERTISING.\n\n\nAdvertisements not exceeding twelve lines for term\nless than three months; four times for dollar, and We\nv cents for every subsequent insertion longer pro-\nnorton Advertisers requested to specify in writing\nhov long their advertisements be d. or the,\nwill be continued till forbid Letters the Editors TO III.\naare attention must be post paid\n\n\nAdoerttstng 6ytheyear.\nIto Subscribers. To Non-S uhs cribers\nyear SIS, 90 year S18, 90\nmonths 3, % months 9, so\n8 do. q, SO 8 do. 500",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 41,
+                    "y0": 531,
+                    "x1": 350,
+                    "y1": 594
+                },
+                {
+                    "x0": 50,
+                    "y0": 632,
+                    "x1": 807,
+                    "y1": 682
+                },
+                {
+                    "x0": 24,
+                    "y0": 694,
+                    "x1": 846,
+                    "y1": 1389
+                }
+            ],
+            "bbox": [
+                24,
+                531,
+                846,
+                1389
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-03-09_p1_sn82014894_00271740219_1827030901_0096.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "Philadelphia, February ai.-On Monday last,\nJohn Porter. Coroner of Gloucester county. New\nJersey, held an inquest over the body OF female,\nlound near Cooper's Creek, on the Jersey side Of\nthe Deleware. No ks Of violence appearing on\nthe body, the inquest were Of opinion, that she came\nto her death by drowning. She was recognized 10\nbe the same person who was domestic in the lam\nlily Of Mr.. Michael Ritter, and was supposed have\nfallen into the Delaware at Callowhill street wharf\n10 November last. She was yesterday handed over\nby the Coroner TO her parents. and was buried in\nrespectable manner.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2510,
+                    "y0": 1603,
+                    "x1": 3329,
+                    "y1": 2101
+                }
+            ],
+            "bbox": [
+                2510,
+                1603,
+                3329,
+                2101
+            ],
+            "full_article_id": 12,
+            "id": "12_1827-03-09_p1_sn82014894_00271740219_1827030901_0096.json"
+        },
+        {
+            "object_ids": [
+                24,
+                13
+            ],
+            "headline": "Easton, (Penn. J February %.",
+            "article": "\n\n\nthe tin Of the nose the end OF the tail killed\nabout seventeen miles from his place, a lew weeks\nsince by Mr.. David Hover. About the hour OF\n10, the night previous. he was aroused from his\nsumbcrs by the cries o! his dog and rising he went\nTO the front door Of his house to ascertain the cause\nHe Judged rightly that the faithful animal had fallen\nprey to some wild beast and again retired TO rest\nThe ne xt morning. having assembled some Of his\nneighbors they joined in pursuit. Not more than\nthree hundred yards from the house having crossed\ngully and accidentally looking back, he esped the\npanther crouched upon he half devourcd carcasc OF\nhis dog He fred, and killed it. 1t is conJectured\nthat the great quantity of snow upon the mountains.\nhas forced them to the plains in quest OF iood\nAn explosion Of large quantity OF gunpowder\ntook place in the government stores al Port au\nPrince on The Cd Of February, by which the Com\nmssary of the Navy several officers, and about go\nmen were killed. The accident was osc asioned by\nusing iron hammers and iron nails in boxing up\n1000 casks to put on board government vessel.\nPresident Boyer had left the store but . short ms\nprevious. BY the exertions OF the crews of TWO\nFrench men Of war, with thsr FIRE engines, the city\nwas saved from destruction.\n\n\nAccording to an ad advertisement in the Rochester Album.\n!, seems ts, the Trustees the Roman Catholic Church\nOf Rochester, have advertised their PASTOR the heperend\nJohn M'Cormick, as having clipped with young woman\nil violation Of morality and of the obligations of his sacred\nOffice and of all other ties which good men reverence\"\n\n\nW 4. .9nerican,\n\n\n.Musterious aGair.-A little son of Benjamin\nC,.rL of Arkansas, between three and four years\nOf age. disappeared in mysterious manner, ia\nOctoper, 1925, and supposed 10 have hsen\ndrowned, Notwithstanding little negro glr about\nhis own age said he was aiken away BY man on\nhorseback. Recently the parents received letter.\nstating that their child would be delivered TO them\n;r th-y ,Uonld enclose ESQ in q letter to Thomas\nTu,ty. at Natchsz The rpotber repaired to Natchez\nand throu the aid Of the postmaster, succeeded IN\nappvshending the pretended Thomas Iulty' whose\nreal nams was Edward H. Norris an ir,shmsn aud\nscboolmas,er. He was committed TO JAIL and re-\nfuses TO discover the place where the child IS\nThe country around has been searchse' and Ssoo\nreward offered for the child",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2774,
+                    "y0": 3317,
+                    "x1": 3307,
+                    "y1": 3357
+                },
+                {
+                    "x0": 2515,
+                    "y0": 3387,
+                    "x1": 3346,
+                    "y1": 5365
+                }
+            ],
+            "bbox": [
+                2515,
+                3317,
+                3346,
+                5365
+            ],
+            "full_article_id": 14,
+            "id": "14_1827-03-09_p1_sn82014894_00271740219_1827030901_0096.json"
+        },
+        {
+            "object_ids": [
+                20
+            ],
+            "headline": "",
+            "article": "baltimore February ga Coroner's Inquest held\nby John Asqith Esq yesterday afternuon the body\nOf John Tiyard aged three years, son Of Henry W. Til\nyard Verdict Of the jury that he came to his DEATH BY\nbeing accidentally shot by Jesse c. Earle\n\n\nThe following account Of this very affecting accident we\ncopy from the Chronicle :-\"As Mr.. Jesse G. Eaes\nSurgical instrument Maker. IF this city, was yesterday\nmaking preparation to go shooting, he took iowling\npiece which had been in the habit Of hiring persons,\nand which had been uniformly returned without load\n\n\nHe put small charge Of powder into the piece, and after\nhaving pinned it. attempted to fire il but The gun fasheds\nwhen ne took gun pick and after clearing the touch\nhole, put in prming, and again drew the trigger,\nOf shot, which without his knowledge in it, lodg-\ned in the body of the of MIR. II w Tilsard, Lom-\nbard street, child about years old who just enter\nchild died ely, and on examination it found\n\n\nthat ten shots had entered the heart Of the innocent sue\nrer'",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2510,
+                    "y0": 2135,
+                    "x1": 3329,
+                    "y1": 2848
+                }
+            ],
+            "bbox": [
+                2510,
+                2135,
+                3329,
+                2848
+            ],
+            "full_article_id": 21,
+            "id": "21_1827-03-09_p1_sn82014894_00271740219_1827030901_0096.json"
+        },
+        {
+            "object_ids": [
+                21
+            ],
+            "headline": "",
+            "article": "PHILADELPHIA, Feb 21.-A FIRE broke out last night, be-\nII and l2 o'clock. in Elijah Ches'ons coacnakers\n,royed, together with number of unfinished carriages,\n&C. and the backsmh's shop in the Insurance was\neffected tie dwelling bonse of Mr. cheston, which IS\nconsiderably damaged, but his shop and its\ntents We regret say that Mr. Chesons loss has been\nseyere-about $4,000 We assured lila, fire had\nbeen in the shop after three o'clock This fire was doubt,\nless the work of incendary. Five six dwelling tou.\nses have been materially injured having their roofs\ndestroyed. There much destruction otturni,nre.\n\n\nDrese",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2519,
+                    "y0": 2869,
+                    "x1": 3333,
+                    "y1": 3291
+                }
+            ],
+            "bbox": [
+                2519,
+                2869,
+                3333,
+                3291
+            ],
+            "full_article_id": 22,
+            "id": "22_1827-03-09_p1_sn82014894_00271740219_1827030901_0096.json"
+        }
+    ]
+}

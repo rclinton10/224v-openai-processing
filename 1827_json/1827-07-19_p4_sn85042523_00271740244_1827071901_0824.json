@@ -1,0 +1,1570 @@
+{
+    "lccn": {
+        "title": "The Wilmingtonian, and Delaware advertiser.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2638-1117",
+        "lccn": "sn85042523",
+        "start_year": "1825",
+        "end_year": "1827",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [
+            "sn88053080"
+        ],
+        "successors": [
+            "sn84020426"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn85042523",
+        "edition": "ed-01",
+        "date": "1827-07-19",
+        "pages": [
+            "seq-2",
+            "seq-3",
+            "seq-4",
+            "seq-1"
+        ]
+    },
+    "page_number": "4",
+    "scan": {
+        "lccn": "sn85042523",
+        "edition": "ed-01",
+        "date": "1827-07-19",
+        "page": "4",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn85042523/1827-07-19/ed-1/seq-4.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn85042523/1827-07-19/ed-1/seq-4/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn85042523/1827-07-19/ed-1/seq-4/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn85042523/00271740244/1827071901/0824.jp2",
+        "height": 5576,
+        "width": 3648
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 843,
+                "y0": 683,
+                "x1": 1515,
+                "y1": 1338
+            },
+            "class": "article",
+            "raw_text": "n SCOTT, No 80. Market-st. between\ngo ~. Larlin's and Q. Lamdmn's Grocery\nstores, bcgs leave to inform his friends and the\npublic generally, that he has lust received atrcsh\nsupply Of PL.lfN 8 FASHIONABLE h4IS\nfrom the manufactory Of Thomas Elres, No 100\nMarket-st Philalclphia, which are warranted to\nbe equal in poyt Of color and quality to any hats hats\nmanufactured ii the country such as IS beilev-\ned will give perfect satisfaction 70 the wearcr;---\nthey will be disposed Of at Philadelphia prices\n\n\nj. S. has always ON hand, for sale, iafge as,\nsort,nent Of Scsool c,d ofaer Books, in plain and\nfancy binding, together with good assortment\nOf Statioaory, blank books, paper, states, &c\nali Of which lie will sell at city prices.\n\n\nMAY ., ls2z. 90\n\n\nn. Is. Blanks and other books ruled and bount\nto order. !.\n\n\nAl Apprentice wanted to the Bookbinding",
+            "legibility": "Questionable",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 32,
+            "bbox": {
+                "x0": 939,
+                "y0": 627,
+                "x1": 1411,
+                "y1": 676
+            },
+            "class": "headline",
+            "raw_text": "Nook s. Mat Store.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1519,
+                "y0": 278,
+                "x1": 2186,
+                "y1": 1394
+            },
+            "class": "article",
+            "raw_text": "The spacious and elegant house belonging 10\nthe Company, which was completed last iail, Is\nnow open and handsomely furnished Tor the re-\nccpton of visitors and boaders, under INC su'\nperintendence of the Subscriber.\n\n\nThis WATERING pLAcg IS finely situaiea III\nthe high and healthy county, five miles west Q,\nWilmington, commanding an extensive we\" 2,\nthe surrounding country, the River Delaware ana\nthe neighboring States. The grounds q ths\ncompany afford pleasant and shady pro'henihcs'\nand are bounded by fine streams\n\n\nThe virtues Of the Waters are those OF ilie put-\nest Chalybeate, according to the ANALYSIS or FRO\nfessor Keating, of Philaieiph.a. They have been\nparticularly etiieaciols IN bilious and olher ie'\nscrs and are celcblatedas fine tonic.\nThe ycinityto Wilmington, offers AZ all limes\naccess to an excellent market; and the daily IN\ntcrcoursc by Steam Boat lines between tha'\nplace and New Castle, 10 and from PhiladeiPhia\nand Baltimore, affords facility OF comHunlca\nton not possessed by any other Watering Place\nParties can be accommodated at short nolics\nwith dinners, collations, Ice creams, see, Sea'\nNo exertions shall DC spared by the Proprietor\nto crafty every want ofte visitor TO TINS pleas\nant and saubrions Retreat\n\n\nCharges will be moderate.\n\n\nCHARI rs STANLEY.\n\n\nJune /, 1927. o9-oii'\n\n\nNh. Carriages, gigs Or horses may a'\"ay\nbe had; and there are delightful rides over goo,\nroads, 10 the neighbo'ing towns, villages, caiai\n&c, Horses taken AT livery. 49,",
+            "legibility": "Questionable",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 1536,
+                "y0": 165,
+                "x1": 2160,
+                "y1": 275
+            },
+            "class": "headline",
+            "raw_text": "Brandywinc 'thaAybeate\n\n\nSPRING.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2939,
+                "y0": 4800,
+                "x1": 3597,
+                "y1": 5485
+            },
+            "class": "article",
+            "raw_text": "yaOHN BANCROFT, having removed 'son'\n\n\n~ BrandyWinc Bridge, to Providence ftc:o'\n~, Delaware Co. Pa, takes this means 70 Y.\nform his friends and the public generaily WI. \";\nhe there continues the Cardng Of Wool. ior =.\nthose who arc pleased to favor him win W., ~\ncustom; and that he hopes By strict attention ass NJ\npunctualitv, to ,aerit a continuance OF l'un, l.',\nlie patronage. He also takes this opporlnn'J\nto inform those to whose favor he was ilislep'ea\nfor work this line, while at Brandywne i'TiosS,\nthat all wool left forhm TO card, at John lofpvi,\nStore, or at the soap Factory of nraiiitol : b,'\ncroft, Wilmington, or at Wm. MCmley : 90 ~, !,\nBrandy vine, will be taken from thence on.e IL,\ncry week. and, being carled will be punc.na'. iva\netunred the week following; hoping, ny a.rr, .\nbove arrangement, and pnnctnaiiy ~ 'nme5ed n\nand good performance of the work cohhHe\" .s;n g.\nhim, they may be induced 70 continue taef =\nyours. - -, On\n\n\n1t|,mo :. 1897 -'AM",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 3021,
+                "y0": 4739,
+                "x1": 3493,
+                "y1": 4788
+            },
+            "class": "headline",
+            "raw_text": "WOOL CARDLNG.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2921,
+                "y0": 3166,
+                "x1": 3597,
+                "y1": 4727
+            },
+            "class": "article",
+            "raw_text": "Parent FcnS and SieUeS manufactured by\nEdward krookes & Son, Orange, between\nFront and Second streets.\nBernard lf Guigcn bottles Porter, Ale and\nCider, at No. 81, market-st., and IS, East\nIhird-st.\nPi2heh ltshiRg ard IWeelgwighting.-\nAbraham Aldrrlice, corner of Market and\nNIater-St.\nIron and C0ai 1Krchaut--Thomas Garrett,\nJr, 50, Shiply-st.\nd7G8fer Brfckianer, and Line l.erchdnt.-\nB. w. Brachin, old Lime stand, No. IS,\nwest Broad-st.\n1aAscr.-Rcnami Webb, Queen, between\nTatnell and Orange-sts.\nLotfery and E.rchaAgr CNce.-Robertson\n& Little, %, market street.\nJames &. Aiken Ieachtr No. los, Orange-st.,\nabove the Hay Scales.\nThomas G. Alrclls, Fancy Hardware, I'm\nand Sheet Iron Manufacturer, corner OF\nmarket and second streets\nJacob Alrichs, Machine Maker, cornero o.\nshiplcy and broad streets.\nIron FounGry-Mahlon Belts, second-st\nnear the Black Horse tavern\nMorocc. NEUTRALITY-SUSPICIOUS. s Co.\n98 market st.\nACKNOWLEDGEMENTS ferfRS, at tHe eoi\nncr of West and Third streets.\n]. T. Fairlamb, Notary Public, surveyor q\nLand, Conveyancer, Regulator Of Streets\n&c. No. King street.\n\n\nPatent Hay and Grain Pakfs\nJoshua Johnson & Son, makers, Pike\nCreek Mills.\n\n\nNotary Public and Convcyancer.-IsaaS\nHendrick son, corner Of French and sts\nond streets, No. 43.\nLiuery Stable-Kept by Huson Swayne' ~\nShipley st. above Queen.\n| China, y lass and Queeaazaare Stofe.--i'.''\n( vid Smyth, 68 market st.\nDruggist y Chemist.--joscph BringhuFs''\ns. markct st.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 33,
+            "bbox": {
+                "x0": 3013,
+                "y0": 3110,
+                "x1": 3489,
+                "y1": 3159
+            },
+            "class": "headline",
+            "raw_text": "MISCELLANEOUS.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1584,
+                "y0": 4639,
+                "x1": 2247,
+                "y1": 5485
+            },
+            "class": "article",
+            "raw_text": "In justice TO myself, have been induced to\nreply to false and uniust,tiabIc attack made\nupon Inc and others by swain, the vender Of a\ncertain panacea in this city. do thisulso, in or\nder to remove from the public mind, the false\nimpressions which may arise out OF bis pompous\nand incorrect statement il the public prints\nMFR. Swain wishes to establish the belief, that he\nis the SoiG patentee of the celebrated Panaccu,\nupon which he has built his fortues; and not sat.\nisfed with asserting ths, he goes ON TO condemn\nall others as spurious and false limitations. Now\nnothing is mere entirely destitute Of TRUTH. ]\nhave been acquainted with the % ORIGINAL nE.\nc1pE FROM wHrn SWAIN MANUFACTURES MS MED\n\n\nIcISE, FOR UPWARDS OF TEN FEARS. lr WAS Oh\n\n\nTanned FROM Ny FArHER-IN-LAw, WHO NOW RE\nSIDES IN THE STATE OF New YoRK, VINO mas US\n4 En- 1T FOR TIL RrY YEARS, AND PERFORMED ISNu\n\n\nMEnABLE EXTRAORDINARY CURES WITH IT. ir\neu,,.y case wiere have administered this medi\n\n\ncine, its poyerftl viisues have not been know\n\n\nto fail: this, of itself, and have certificates t,\n\n\nsubstantiatethe fact, would give the lie to Mr.\nSwaim's bar. assertion. Perfectly satisfied as\n\n\nam, with tlE increasing orders for it, which arr\nreaching m, from various parts Of the Union,",
+            "legibility": "Questionable",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 39,
+            "bbox": {
+                "x0": 1649,
+                "y0": 4578,
+                "x1": 2190,
+                "y1": 4631
+            },
+            "class": "headline",
+            "raw_text": "TO THE AFFLICTED!",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2194,
+                "y0": 139,
+                "x1": 2861,
+                "y1": 841
+            },
+            "class": "article",
+            "raw_text": "should not have thought L necessary 70 make\nthis plain statement Of the relative merits Of .he\ncase. case had no, Mr.. Swain, on one occasion, when\na LADY personally waited on him, to purchase\nhis Panacsa, and complained of his extortohate\nprice, remarking to him that she could purchase\nmine for hall the money, advised her not 70 .ahe\nany OF it for fear 1t might produce iatai ooilse-\na';cnces and went ON 10 say that it was not gen\n,nne Thousands of persons who are now en-\n\n\nloving the blessings Of health; established by its\nuse, will bear me out Of this assertion That\n\n\npArKen' RtyoyAriSG VEGETABLE PANAcEA\nIl. * rgrpy nEsprrr, EauAl TO SwAiM's, Asp\nrAkEs N ALL CASES Where ms HAS faoN\n| M ERIC tcioua, wrrn SECURITY And FRkkpoM'\n4 ANN 10 SAY, WITHOUT fEAH OF eoNrhApiSiioN'\n\n\nANpICAS EsrAnLtsh rhG FACT bhfosp ~. ~ ~\n\n\nnIilr, or popar--ri4r ny MEDICINE and iii'\n\n\nARE osg ASn rHE sANE 1HiNG, WITH the LAohf\nTIuX or ANT MLncuRIAL PREPARATION\n\n\nJOHN 4. PARKER.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 207,
+                "y0": 3720,
+                "x1": 875,
+                "y1": 4344
+            },
+            "class": "article",
+            "raw_text": "Some dissatisfaction having been expressed as\n70 the manner in which the recent meeting held\non these subjects was conducted, is well as at\nThe result thereof, and several Of tile Delegates\nappointed at said meeting having declined @\nact under their ppontmcnt-the citizens of The\nState Of Delaware, friendly TO the protection Of\nAmerican labor, and to the encouragement Of a\nhome market, are invited to meet again al the\nTown Hall in Wilmington, OH Saturday the 2lst\nINST. at 3 o'clock\n\n\nWith view that the proposed meeting should\nstand on the face and pure ground Of the great\nNational Interests in question, it Is hereby de.\nclared that the object Of tic present call, is u\npromote the interest Of Agriculture and Mann\niact4res, by expressing our sentiments publicl,\nOn those Important subj cts, and to appoint Del\negates TO the Convention which is to meet a\nHarrisburg on the 30th inst.",
+            "legibility": "Questionable",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 212,
+                "y0": 3559,
+                "x1": 862,
+                "y1": 3712
+            },
+            "class": "headline",
+            "raw_text": "TTEEsTyNCs\n\n\nOF THE FRIENDS OF\nAgriculture and Manufactures",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 904,
+                "y0": 4364,
+                "x1": 1572,
+                "y1": 5398
+            },
+            "class": "article",
+            "raw_text": "vNNliE SUBSCRIBER has just received in adj\nIl dtlon 10 his former stock, large assort-\nment Of Spring Goods, among which arc,\n\n\nCLOTHS and h-ERSE PN,ERES,\nSILK, Tonet, Valencia and Malscilles yestings.\nLeventnes, Florenses, eros de Naples, and Lus-\n\n\ntring silks\nRavens Duck, Russia and Porter Sheetings.\nirish Linens, Sea Island and Prime N. Orleans\n\n\nShrtngs.\n\n\nCambria, Iaconet, Swiss and Null Muslns.\nBomhazets, Bambazenes, and Norwich Grapes.\nsilk, Cotton and Wooden Hosiery.\nDrlllings. Blue and Yellow Nankeens.\nCases Ieghorn-1 do. Straw Bonnets\nAlso, large assortment of\n\n\nROOFS & SEaOEs,\n\n\nal The toiiouing lop prices. ui2.\n| cases Mems fine Boots, 81 90 per pair.\n5 do. do. Munroes, 874 do.\ndo. Ladies Valencia Shoes rs do.\n3 do, do. Morocco 625 do.\n! do. do. Leather, do. so do.\nl do Ladies' Morocco Shoes, with heels, a\n\n\nIS cents per pair\n/ do Misses do Springs so do do\nl do do Kid do so do do\n/ case rs pair Seersucker pantalets\nThe above arc well worthy the attention Q\nthe public\n\n\nJOHN PATTERSON.\n1 April, 1927. 30-3m,",
+            "legibility": "Questionable",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 46,
+            "bbox": {
+                "x0": 1026,
+                "y0": 4308,
+                "x1": 1446,
+                "y1": 4361
+            },
+            "class": "headline",
+            "raw_text": "SPRING GOODS.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 852,
+                "y0": 1402,
+                "x1": 1520,
+                "y1": 1843
+            },
+            "class": "article",
+            "raw_text": "The firm Of j. THOMAS Z co. being dis\nsolved on The 18TH Of the Fourth month last Al\npersons having claims against said firm are desir-\ned to produce them Immediately for settlements\nand ali who are indebted to said firm arc request\ned TO call Oh E-ra H0opeS and settle the same\n\n\nANY person having demands aga'ss' the firm\nOf II. Il f.. HOPES. or against EZRA iiOoPES,\nare requested to furnish them for settlement 10\nIl. HoorEs: and any person indebted 70 either\nofthe above concerns, are earnestly requested 20\ndischarge the same without delay TO to The SAID\n\n\nEZRA nOOrtS.\n\n\nWilmington, 9TH mo- Sd, 1887, -",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 34,
+            "bbox": {
+                "x0": 1066,
+                "y0": 1346,
+                "x1": 1293,
+                "y1": 1390
+            },
+            "class": "headline",
+            "raw_text": "NOI'ICE.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2229,
+                "y0": 2757,
+                "x1": 2896,
+                "y1": 3150
+            },
+            "class": "article",
+            "raw_text": "post Masters, or other Gentlemen, who\nmy nterc, themselves d thc sale IF this Med\njcinc, Shall have liberal discount allowed them\nlhcy mas Nc assured Tim Tie ingredients Used\nii ,he manufacture q i alc entirely simple, and\n81 i corrective nature, and its specific qualities\nlave been tested b laany q our most respecta-\nbe Physicians.\n\n\norders from any part of thc Union viii he\n.i;ei.icd toMit. rlucfUa!ity, and every nioHna\nton given t.lat ma! be required. Address 70\n\n\nJDiI% a. PARKER,",
+            "legibility": "Illegible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 41,
+            "bbox": {
+                "x0": 2311,
+                "y0": 2679,
+                "x1": 2813,
+                "y1": 2723
+            },
+            "class": "headline",
+            "raw_text": "j lls:sxc;r 81 PE.a 1cT'rE.E.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -2
+        },
+        {
+            "id": 65,
+            "bbox": {
+                "x0": 2416,
+                "y0": 2727,
+                "x1": 2700,
+                "y1": 2754
+            },
+            "class": "headline",
+            "raw_text": ".,1J FR UOINN",
+            "legibility": "Illegible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2882,
+                "y0": 710,
+                "x1": 3554,
+                "y1": 1090
+            },
+            "class": "article",
+            "raw_text": "Joseph Mendenhall & Co. corner Of Kipe\n\n\nand Second streets.\nJoseph {. Gilpin, 46, market st.\nJames &. Samuel Brown, s High st.\nClement < Gordon, corner of Market and\n\n\nKennel.\n\n\nPeter Horn, corner king and front SITS.\nJohn Rice, Brandywine, south of bridge.\nSamuel Stroud, corner of front and orange\nGeorge Winslow, 179 market st.\njohn Wright, corner of Front and Marke",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 44,
+            "bbox": {
+                "x0": 3039,
+                "y0": 653,
+                "x1": 3384,
+                "y1": 702
+            },
+            "class": "headline",
+            "raw_text": "Grocery Stores.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": -1
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 1532,
+                "y0": 1520,
+                "x1": 2208,
+                "y1": 3429
+            },
+            "class": "article",
+            "raw_text": "Idluqbie Medicine for CGghs, Co'Samptlons ana\n\n\n.9sthNlaS,\n\n\nThis Elixir is offered to the public as pos\nsessing virtues peculiarly adapted TO the present\nprevailing disorders Of the breast and lungs,\nleading 10 consumption. A timely use OF these\ndrops may be considered a certain cure \" most\neases Of Common G0R, ConghS, Influenza,\nHoping Cs0.t, PUN u TIE Sde, D.BnahB n\nB4athjug, Itam II Nleep arising from debility,\nana ID S9qs mo3e .lst'taA i is ssngulary ellica\ncious particular attention TO the dIfeet4ohS\nACCOMMODATING each bottle s ncccssafy\n\n\nThe following certificates from respectable\ngentlemen, Physicians and surgeons arc subloni-\ncd, to show that TINS composition + one ~'Ach\nMedical men are disposed 70 gata Is cfhcacous\nand WORTHY Of pu! u paitoAaBn\nHaving exam cd tic composition % IA\nNofr's cough Drops, inproAed, we haze no\nhesitation il rtcontnead,ng thcmto Tie pfblie,\nIS bciug Wcll adapted o Aose cases q dlae\"ae\nior Nhica tAcS arc recommended.\n\n\nnociof, .iu>ArHAS Dom, Albany Dcc 4, l62li\nJANls Fnsr, Of y hile Greek, Feb. l4th 1895\nWArsaS Str<fn, OF CanDlider, Fcb, 2eth\nISIS, soloNo, DEAN, oi J4cAsGn, Januai! w,\n/ lalo.\n\n\nl Ertroct of tasrJ - Reu, Etsm Mgftg.\n4 lam pleased Nititas opportunity pf lelatiH5\nd few facts which may serve il COMMUNICATION u\n/ 0Il ENNN4itAtN N3b1.3ii At'3l'a' = Aet' s'f5 ?\nwas afflicted with pulmonary complaint lag\ncough Was severe, n@ appeiitc Weas, .n\nstrength tallinG. ] used i,.4ty popular ncar\ncncs, but only fotad tefl asuS rehrf, ,ntl 4\na continued use II your salNatc Drops, hNt\nhecn blessed Siil sgeh peiFet hcath u fcn\nder fuithtrngails alaece@sals.\n\n\ni.HENi.AiE IiARias.\n\n\nSoifm. n D. jst ~ 1879.\n\n\nMessrs. Gres5g' ~, have f1f II wears btct\ntroa5ied With NJ aiicctlclo 6,t.atmru udg\na,tenae.l v.tu soNcrc calSI, pail u ne slt!e\nand difficulty q blcairs: aati Athe .iit oflh25\nhccrne ,t much r,t!natl t..st ny to was d, 5\npaired of; ;ap,l receiving ~ lieisl, benefit t,on\nmy physician, wa, I,ts sad % lriEe trial ot j.\nNatts Cough nroas aHl sttor taking one bottl\nMas rcs'Wrrdto perfect hcalth; anaA IS 4ly firm\nhe!isf. t'at the use % t!,e above nanpd di9ps\ntveo. tul TIE, THOMAS JONES\neai,Wba. ni'0, .Iityaa, lS1a.\n\n\n,.iid wholesale a,iIsttall by q. !. s. Crosby\ni Coga5as, plio. ave @eu's III f6eii appointing\n/, thrtul bout the ulNteG stttcs aid Canals, ~.\n\n\nitch bot e contains .ib.doses, lseirt \"\n\n\nsold in WlmingtoaHA .lnss.al lin:NgHt IS\nDlas gis and Chemist, @7, Msrk,t-st.\n\n\nMarch, 6--.J--t5m.",
+            "legibility": "Illegible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 56,
+            "bbox": {
+                "x0": 1662,
+                "y0": 1415,
+                "x1": 2060,
+                "y1": 1469
+            },
+            "class": "headline",
+            "raw_text": "LA MOTIFS",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": -3
+        },
+        {
+            "id": 54,
+            "bbox": {
+                "x0": 1645,
+                "y0": 1468,
+                "x1": 2060,
+                "y1": 1508
+            },
+            "class": "author",
+            "raw_text": "csNTrgEa nTOES",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": -2
+        },
+        {
+            "id": 62,
+            "bbox": {
+                "x0": 1536,
+                "y0": 1515,
+                "x1": 2203,
+                "y1": 1577
+            },
+            "class": "author",
+            "raw_text": "Idluable Medicine for cGgds, Co,lsumptions ana\n\n\n.4sthMnS.",
+            "legibility": "Questionable",
+            "full_article_id": 15,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 878,
+                "y0": 2970,
+                "x1": 1537,
+                "y1": 3538
+            },
+            "class": "article",
+            "raw_text": "tEa ,eroa~t, c5,sncll a comn,iee d receive pro.\np1aas for i loan uot exceeding 10000 ~ laFs,\nOn the credit ot the Bor5lsh ii Wilmington,\nfor the purpose Ct Supplying the Borough w,tl\nwater at a raie oi interest not exceeding iNt\nper centum per annui, payable seni-annaally,\nand reMbursahc At tlic ens Of 20 fc;i from tht\n4th OF ,hly, lH27--Nptice i, therefore hereby\ngiven, tina, such proposals win nov By receltet\nBY tic undersigned n any tine after the plcsen\nlate, for taking said Loan.\n\n\nJAMES nEGHsON,\n\n\nJAMES GARDNER,\n\n\nJOSEPH GtsI BG,\n\n\nMM. LARkiN.\n\n\nigmmihce.\nJune eth, 1927 39-tf",
+            "legibility": "Questionable",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 43,
+            "bbox": {
+                "x0": 996,
+                "y0": 2914,
+                "x1": 1402,
+                "y1": 2967
+            },
+            "class": "headline",
+            "raw_text": "nogougM lA0an.",
+            "legibility": "Questionable",
+            "full_article_id": 17,
+            "reading_order_id": -1
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1562,
+                "y0": 3493,
+                "x1": 2225,
+                "y1": 3864
+            },
+            "class": "article",
+            "raw_text": "FEeiE Subscriber hegs leave 70 oiler hinsclfto\n4 tac Democratic Citizens 81 Newcastle Coun-\nn forihe oIce OF SHERIFF, TO hc supplied IN\nOctober next; assuring them that in case he\nshould b. the object ftleir choice, bis best ex-\nrr'ions shall be etnpioved TO execute Tie dutie,\nof the Office with iidoli,y: aud pledging hinseii\nq ABIDE by the decision of the County Meeting.\n10 - htd Al the Red Lion, for the nomination ii\nthe Co,ln'y Ticket,\n\n\nALEXANDER PORTER.\nNAV II, 1897. S5-tF.",
+            "legibility": "Illegible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 42,
+            "bbox": {
+                "x0": 1715,
+                "y0": 3450,
+                "x1": 2068,
+                "y1": 3490
+            },
+            "class": "headline",
+            "raw_text": "s.zyE.Ry-r ,AIT.r,",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": -1
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 155,
+                "y0": 339,
+                "x1": 840,
+                "y1": 3516
+            },
+            "class": "article",
+            "raw_text": "\n\n\ny,e diversions ofthe Inhabitants of the Havana\na.e fever tl.sn those Of most cities Of the United\nstates: ana this fact may in some degree be as !\ncribed to the natute of the government, as ven\n1, to the states Of society. The scenes OF dissi-\nnation are much fever than those which Nc\".\nYork. philads lphia or Boston furnish. euoa mas\n10 drunk ards: and when an evil of SUCH hiaShl-\nude is taken away, society in one poh't mas ios'\ncurse. - 4!\nThe most prominent exhibitions Tor and ot |\nehe ladies' of Havana, is to be founa IN Hue\nof about three quarters OF mile Ill length, run\nming parallel with the city, winch separate y\nfrom the suburbs. it IS ca'iea ene Piaeo, i.1etai\n~ trals. Il is a smooth, level road, kept IN the\nnest pe,ect ORDER for the sole object OF display\nno Cuban bellies and beauty. On each side ct\n4 are fwo walks for the spectators, each shaded\n81 q double row of trees, such - oranges, lines,\nocoanass. &c. planted with the most perfect\n-eruiaFifv. To separate the walk from the road\n3 small stone wall, about two and hall teet\nhigh and one foot in thickness. In the eye oi\ni. Cuban there is. nothing like the paseo' The\ntheatre Aamenla, plaza de arInas are mere en-\ntircly ec,ipsed. \"Ihe pazeo, the pazeo, have\nsou seen the pazeo\" is question which for\n.igner must answer fifty times the first week OF\nlis arrival; and if the enquirer be met with neg\nalive he will tell YOU that YOU have not vet seen\nCuba. In short, he will feel like the citizen OF\n! much greater city OF Europe, represented IN\nthe play, when he exclaims, that \"lf you have\nnot seen Paris, then you have seen nothlag =\nAs far as the ladies' of Havana are concerned, this\nopinion is not unfotnded On the holidays, at\nabout O'Clock in the afternoon, forth from the\ncities come the voants and quitras, crowd after\ncrowd. Foot passengers also are eagerly, and\nat some hazard, endeayoring TO get out, all\nbound for the pazeo. vol,nt is a vehicle like\nthe pig, except that it is much larger, the\nwheels heavy and set wide apart, he body\nbrought much farther forward, and vide enough\n70 contain three persons. The qultra differs only\nIN this particular, that the top falls down at the\nwill ofthe rider, the yolant top IS permanent\nHavana contains an immense number OF these\nvehicles, public and private. It IS however, con.\nsIleretl beneath a lady to ride in public volan\nhence all that appear at tie pa-eo are owned by\nfamilies, and consequently are remarkable Tor\ntheir elegance and coatliness. No person IS Al\nawed to use reins in driving, al Havana; the\n.tretts are too narrow. Each horse is therefore\nt,onntcG. b a driver Ecabtsero) always dresscc\nin livery. There is, as may be expected, a clash\ning III the pless, for the pazco. The Virgin Ma\n~ finds her name abused and inrok ed--wlth al\nthe addition oi 'ssantssina,\" \"purlslha, &c\nconnected with other words not quite SO respect.\nsui, in the midst Of locked wheels and broker\nharnesses But the pace once gained, all ttou\nbic is over. On each side Of the road are ranged\nclose to the wall and the volants and qnltras pls.\nfrom owe end to the other at SLOW walk\nand noX commences the display. The dress 4\ntht ladies' is almost invariably white, ct the mos\ncostly kind. A wreath Of roses IN the hair, al,\nsometimes veil hanging from the comb, 50 q\n20 cover 0ny about half Of the head, and uon'\nOf the face, is all the head-drcsS which they Wear\nThe small wan is lined with gentlemen, who ,ta\nlion themselves there to gaze at the ladies'; AM\n;ht ladies' in turn pass by, TO gaze at the genie\nmen. 1t may he called a staring match th\nnumber of vehicles sometimes amounts 70 500\nin which case the ride is extended beyond ~\npaceo The ladies' amount to more than an\nthousand From end to end they pass for abou\nshree hours, to see and he seen. At dusk til\n,ame confusion is observable IN returning as\nentering the city. The sign ofrecogniton is\nshake Of the hand TO the acquaintance on tn\nwalk, ard consequently there y perpetual wa'\ning OF hanikerchiets, fans, and hands\n\n\nOr the subject Of female beauty ef Havana,\nmay sc SAID that about the usual proportion\nfemales are pretty. Not indeed, if We make OF\nnorthern standard the test, for no Cuba beaui\npossesses lips and checks, Of which\n\n\ns'They tell,\n\n\n0utshine the beauty Of the sea,\n\n\nWhite foam and crimson she'll\"\n\n\nBut if regularity Of features-smoothnes\nskin--dark eyes-dark hair, and beautiful teet\ngive any claims-then the Eabeneras may con\nin for their share, Byron's description of II\n- l. al.",
+            "legibility": "Questionable",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        },
+        {
+            "id": 47,
+            "bbox": {
+                "x0": 334,
+                "y0": 222,
+                "x1": 674,
+                "y1": 266
+            },
+            "class": "headline",
+            "raw_text": "CUBA In 1e27.",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": -2
+        },
+        {
+            "id": 64,
+            "bbox": {
+                "x0": 216,
+                "y0": 278,
+                "x1": 770,
+                "y1": 349
+            },
+            "class": "author",
+            "raw_text": "s'ror, tie Ne,c- I'ork Dolly .4dcerttSe.'.\n\n\nLETTER vi.",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": -1
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 2233,
+                "y0": 3249,
+                "x1": 2905,
+                "y1": 3638
+            },
+            "class": "article",
+            "raw_text": "was aaaiictea, several wears ago, With mer-\ncaija disease. which destroyed MY health aud\nctftGblea my constitution 70 that dcErrc that !\ndespmrcd Of ever again recovering fom the cf.\nfccts Of Il. h4l bcei ender i,a care d ply\nsician for nor: til.l sa,cn months ind my nala.\n~ stil, continued p increase, II fact hatl be\ncome liberated WHEN by chance, became ac-\ngtlajntcd with Mr. .hbaa Gaehe.', who in!omnct!\ninc ,lla,t he believed Nc could cure nc If very\nshort ti,lc will Sis .hoaocfo, five botles (which\nrestored No d ealtl and comiolt",
+            "legibility": "Illegible",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        },
+        {
+            "id": 66,
+            "bbox": {
+                "x0": 2237,
+                "y0": 3145,
+                "x1": 2748,
+                "y1": 3207
+            },
+            "class": "headline",
+            "raw_text": "TO thc care Of Atkinson and AieAA\nlcrs, Hdtiuaeiaht9,",
+            "legibility": "Questionable",
+            "full_article_id": 24,
+            "reading_order_id": -2
+        },
+        {
+            "id": 50,
+            "bbox": {
+                "x0": 2412,
+                "y0": 3210,
+                "x1": 2731,
+                "y1": 3246
+            },
+            "class": "headline",
+            "raw_text": "CERTIFICATES.",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": -1
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 2873,
+                "y0": 278,
+                "x1": 3563,
+                "y1": 628
+            },
+            "class": "article",
+            "raw_text": "Chalkly Somers, 48, Market street.\nBuzby & Bassett, 90, market ST.\nJohn Patterson, so market Street.\nW b. Tomlinson, No. &c, market Street\nJohn r. Biinckle, corner of market & Queen\n\n\nstreets.\n\n\nWilliam NJ M'Caullcy, Brandywine, north side\nof the Bridge.\n\n\nAllan Thomson, As market st.\nJohn w. Tatum, 80 market st.",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": 0
+        },
+        {
+            "id": 57,
+            "bbox": {
+                "x0": 2908,
+                "y0": 156,
+                "x1": 3493,
+                "y1": 214
+            },
+            "class": "headline",
+            "raw_text": "\nGENERAL REGISTER",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": -2
+        },
+        {
+            "id": 58,
+            "bbox": {
+                "x0": 2960,
+                "y0": 230,
+                "x1": 3467,
+                "y1": 279
+            },
+            "class": "headline",
+            "raw_text": "Dry Good Merchants.",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": -1
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 2207,
+                "y0": 1184,
+                "x1": 2883,
+                "y1": 2675
+            },
+            "class": "article",
+            "raw_text": "l otter, OlccrS, &C. &C.\n\n\nII Is particularly beneficial in MeumatismS, its\neffects being sach as completely to remove the\ncompliant.\n\n\nIn III cutaneous diseases, or affections of the\nskin, perhaps there is no medicine tht has bech\nmore crnintntly successful. In the early stages\nOf Gonstt0iDtioli, il will BE- found Of eminent SER\nWee. 1t affords ehcctna reNcf III Sylphthtc\nand Ntlcarfni Niseis,S :,\n\n\nScycr.I eases Of Jaunilicc have been radically\nremoved by the use Of only tew bottles.\n\n\nDyspepsia, or indigestion, is taken away by\nits powerful virtues; and where Children are\nconcerned it is known to be . salutary operative\nan, for that purpose kept by families to be used\nIN the complaints incident 10 the change OF the\nseasons\n\n\nms Medicine Is Warranted Genuine, and is\nequal d any now il use; It's carefully prepared\nrom ,he original lteeiac,\n\n\nBy JOIN A. PARKER\n\n\nDirections for using this Medicine, and certitl-\nGates from respectable persons who y has roate-\n4 an cured of various Wirmtd diseases, accom-\np,uy each batt..\n\n\nlAis pan4ce II MN hacn highly recommended\nlly many respectable fhysicfaH5, and PaJtSso,S\n4 in the {ntciiY n Pennsylvania. It has per\nformed remarkable cures, aityr all the efforts o\nexperience and s6ill have talked. = timely nsC\n&c ii Nil prevent G0aso4ptanHy, as i caines on\n,Ae complaints that terminate in This fatal WIDE\n3,4eading disrs,c Ii is yell known fact that\nmore die with thia at5eaie than Of any other Z\nwhich the ti,iinan family ne exposed Indeed\nil Till 3Fteael d sHeh analarmng extent, and IS s'\ncertain III lis npel.lou, when once it has got th'\nasec0lcncy, taat Wr Vannot hc too careiuln mp\nping in,ht bud lie disease that generate It.\n\n\nlacast ! Where hetcnty ll.s been used, the e\nt.cla II .iigh eman 10 hc,sgsieni, i y an inyal\n\n\n,lN. tttIt tsfNsNt\nN. WoHte! sitaFanl solm,lncss, and completed\nsladn.ate, the ctils ll.at attend It, and man\nmnit can he,r testimony to is good effects I\nlili. ii.lrllclliN..",
+            "legibility": "Illegible",
+            "full_article_id": 29,
+            "reading_order_id": 0
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 861,
+                "y0": 1955,
+                "x1": 1528,
+                "y1": 2893
+            },
+            "class": "article",
+            "raw_text": "fs.;.TtA \"a bh Farm, situated ~ tlncadrr\nI;,,ssi, 54s hundred, Newcastle Cou.iy, Del\ntG.s4ssss-aa bout mile south OF Newark adicin\ning lands Of r. II. ilolt2bcckrr the heirs o. WI.\nlam ltnlscl, dec, Zacharah Jones, and others,\ncontaining lO6a \"mnre or lees hi% Farm\nis on 4 bIek oak and hickory sol u hsn state\nii cu8yati q, md eqaaied y! few \", itgi'\nbonraool. lit i w.ll adapted 70 All knd, ol\ntirasse, Ana Craia:--h4s on il yognG ttnsnR\norchard 81 about one hundred trees of choice\ntrut; an excellent kouop meaaoW, though\nvb.ch rams ! never fennS ~ ans anl seven I'll\nhgc, ag hrlls, all auiiH goo, tracc, The I'M.\npioven.nts are atwos y lag dwell.ag hansc,\nwell weather-bouled outside and IL 81 ani\nplastercd inside, haylng three rooi.s down and\nfonr up sta.,s, Witiia tiest rite cellar under the\nwhole.-Aiso3 l,tehea A. sininS, with pamp\nOf excellent water Al tac door; stone ntth\nhouse aud 4 sHakr hose; 4 iahe Darn, nearly\nugw. uith excellent stablng underneath, sniii-\ncent ~ hold ten 81 twelve heal ot horses, he.\nsides uilch cows, calves, ste. Farther dcsc,ip\nt!1n X deemed unnecessary, Is 4 is expecte\nthat any Wishing y purchase silt4e@ the prem\nses, Which the subscriber, living thereon, car\nshow, and taNke knosn tile cond TOSS of sale.\n\n\njoins PlINER.\n\n\nMay 2E, 1877, SIT.",
+            "legibility": "Illegible",
+            "full_article_id": 30,
+            "reading_order_id": 0
+        },
+        {
+            "id": 36,
+            "bbox": {
+                "x0": 2246,
+                "y0": 3981,
+                "x1": 2918,
+                "y1": 5485
+            },
+            "class": "article",
+            "raw_text": "Tile Proprietor Of Parkcl's Panacca has the\nsatistae Goa Of laying before the public, the iol-\nlowing recommendatory notice ot his Medicine\nfrom Dr. Edwin 4 Atlee, highly respectable\nPractitioner in Philadelphia.\n\n\nsIIsvlng been requested to state, what expert\nen.c have had Of the efficacy Of i'arkcr's Pana-\nCA, am enabled to say, that three patients,\nwho have used OF the bottles, presented Tor trial,\nhave evidently derived grea benefit, The first\nIS q respectable female, who labored under eS\ntrcme acrotci0us debility, in which the stomach\nparticipated hrgely--its digestive functions be\nling much disordcred. After taking one bottle,\nher health was improvcd-her appetite, diges-\nton and complexion moderated; and in the use\nOf the second bottle her conyalescnce is speedy.\n\n\nThe second is the son Of a board merchant,\nwho suffers with the hipdsease, a scrofuous al\n1 fcction or carries Of Inc neck of the thigh bone.\n! Previously to the use Of P.trker's Panscea he\nhad habituaily suffered great pain in the afit ctct\n! part, and his General health was much impaired.\n\n\nHe has taken nearly two bottles, and his parents\n\n\nsay he has been more free OF pain than before.\n\n\nwhile his general heal,his fast improving.\n\n\nThe third is lady, whose disease is supposed\nto be Rhcumatlc-and who las long suffered\n\n\nwith an extensive ulcer oi tile leg, resisting the\nremedies prescribed by two regular and eminent\n\n\nphysicians, who apprchcnded the loss fthe limb\n\n\nby gansrene. BY request, called to see her TO\n\n\nday; viewed the ulcer which is now not more\n\n\nthan afonrth, in diameter and depth, Of what il\n\n\nwas orgnally-is much less swollen, very sli ght\ny paintu-and she says she has received mors\nbenefit from the two bottles Of Parker's Panacea\nthan from any medicine that had been before ad\nministered.\"\n\n\n, ifthe above recommendatory notice is calcu\n\n\nlated to benefit the proprietor, it is at his service\nf. A. ATLEE.\n, Philadeiphia 5th mo. so, 1927\n\n\nSold by JosErH BRlsenuRsr, Druggist ant\nChemist, No 81, Market street wilmington.\nAlso, at J. IiARLAS's Drug Store, opposite tn\n| tcwn-Hall, Market stree",
+            "legibility": "Legible",
+            "full_article_id": 37,
+            "reading_order_id": 0
+        },
+        {
+            "id": 55,
+            "bbox": {
+                "x0": 2573,
+                "y0": 3938,
+                "x1": 2887,
+                "y1": 3978
+            },
+            "class": "headline",
+            "raw_text": "LAnE.S G. lYRCM.",
+            "legibility": "Legible",
+            "full_article_id": 37,
+            "reading_order_id": -1
+        },
+        {
+            "id": 40,
+            "bbox": {
+                "x0": 2242,
+                "y0": 3720,
+                "x1": 2914,
+                "y1": 3956
+            },
+            "class": "article",
+            "raw_text": "PbVie,hie, .2pra III 1927\nhereby certify that ny wife VA, afflicted With\nThe mast cxcrl l,tiny Rheumatic pans ~ all her\nii,n',s ~ two months, being advised TO Try PW-\nhe,,s i9a8aeea, procured t@o bottles, one how\ncver, entirely removed NE lin, AMI she y now\nsell.",
+            "legibility": "Questionable",
+            "full_article_id": 41,
+            "reading_order_id": 0
+        },
+        {
+            "id": 60,
+            "bbox": {
+                "x0": 2290,
+                "y0": 3654,
+                "x1": 2687,
+                "y1": 3690
+            },
+            "class": "headline",
+            "raw_text": "Witness. \\. II srEwAnr.",
+            "legibility": "Legible",
+            "full_article_id": 41,
+            "reading_order_id": -2
+        },
+        {
+            "id": 63,
+            "bbox": {
+                "x0": 2281,
+                "y0": 3681,
+                "x1": 2735,
+                "y1": 3725
+            },
+            "class": "headline",
+            "raw_text": "PdsiuGe pda, tf5tWw3 ID, 1897.",
+            "legibility": "Questionable",
+            "full_article_id": 41,
+            "reading_order_id": -1
+        },
+        {
+            "id": 45,
+            "bbox": {
+                "x0": 2886,
+                "y0": 1110,
+                "x1": 3550,
+                "y1": 1364
+            },
+            "class": "article",
+            "raw_text": "Boot and Shoe Manufacturers.\nJohn Matthews, Delaware st., third door be.\n\n\nlow water-st. N. Castle.\nThcophilus Jones, u market St.\nVal. M'Neal & son. 90 and 100 market st,\nWilliam M'Neal, 17o king St.\nWilliam White, high st.",
+            "legibility": "Legible",
+            "full_article_id": 46,
+            "reading_order_id": 0
+        },
+        {
+            "id": 53,
+            "bbox": {
+                "x0": 865,
+                "y0": 1916,
+                "x1": 1528,
+                "y1": 2048
+            },
+            "class": "article",
+            "raw_text": "arxya yss offered 70 private sale, laltta,\nfE1s,.TSA 4 Is dc Farm, situated n trnra'ier\nl,,,,sst. EE55as hundred, Newcastle Coul5y, Del\n80 - Bout mile south Of Newark sdicin",
+            "legibility": "Questionable",
+            "full_article_id": 54,
+            "reading_order_id": 0
+        },
+        {
+            "id": 37,
+            "bbox": {
+                "x0": 900,
+                "y0": 1860,
+                "x1": 1472,
+                "y1": 1909
+            },
+            "class": "headline",
+            "raw_text": "A Valuable Farm for Sale.",
+            "legibility": "Legible",
+            "full_article_id": 54,
+            "reading_order_id": -1
+        },
+        {
+            "id": 61,
+            "bbox": {
+                "x0": 2207,
+                "y0": 914,
+                "x1": 2870,
+                "y1": 1216
+            },
+            "class": "article",
+            "raw_text": "Carefully prapared from the original recipe,\nand warranted equal 70 any now in use\n\n\nFOR THE CURE OF\n\n\nLiver Complaints, Scrofala, or\nKings Evil, Mercurial Disease,\nTumours, Putiid Sore Throat,\nletter, Ulcers, &c. &c.",
+            "legibility": "Legible",
+            "full_article_id": 62,
+            "reading_order_id": 0
+        },
+        {
+            "id": 38,
+            "bbox": {
+                "x0": 2202,
+                "y0": 853,
+                "x1": 2861,
+                "y1": 907
+            },
+            "class": "headline",
+            "raw_text": "Vegetable Renoyating Panacea'",
+            "legibility": "Questionable",
+            "full_article_id": 62,
+            "reading_order_id": -1
+        },
+        {
+            "id": 68,
+            "bbox": {
+                "x0": 896,
+                "y0": 3498,
+                "x1": 1145,
+                "y1": 3538
+            },
+            "class": "article",
+            "raw_text": "June l2tb, 1872.",
+            "legibility": "Illegible",
+            "full_article_id": 69,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                32,
+                1
+            ],
+            "headline": "Nook s. Mat Store.",
+            "article": "n SCOTT, No 80. Market-st. between\ngo ~. Larlin's and Q. Lamdmn's Grocery\nstores, bcgs leave to inform his friends and the\npublic generally, that he has lust received atrcsh\nsupply Of PL.lfN 8 FASHIONABLE h4IS\nfrom the manufactory Of Thomas Elres, No 100\nMarket-st Philalclphia, which are warranted to\nbe equal in poyt Of color and quality to any hats hats\nmanufactured ii the country such as IS beilev-\ned will give perfect satisfaction 70 the wearcr;---\nthey will be disposed Of at Philadelphia prices\n\n\nj. S. has always ON hand, for sale, iafge as,\nsort,nent Of Scsool c,d ofaer Books, in plain and\nfancy binding, together with good assortment\nOf Statioaory, blank books, paper, states, &c\nali Of which lie will sell at city prices.\n\n\nMAY ., ls2z. 90\n\n\nn. Is. Blanks and other books ruled and bount\nto order. !.\n\n\nAl Apprentice wanted to the Bookbinding",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 939,
+                    "y0": 627,
+                    "x1": 1411,
+                    "y1": 676
+                },
+                {
+                    "x0": 843,
+                    "y0": 683,
+                    "x1": 1515,
+                    "y1": 1338
+                }
+            ],
+            "bbox": [
+                843,
+                627,
+                1515,
+                1338
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-07-19_p4_sn85042523_00271740244_1827071901_0824.json"
+        },
+        {
+            "object_ids": [
+                25,
+                2
+            ],
+            "headline": "Brandywinc 'thaAybeate\n\n\nSPRING.",
+            "article": "The spacious and elegant house belonging 10\nthe Company, which was completed last iail, Is\nnow open and handsomely furnished Tor the re-\nccpton of visitors and boaders, under INC su'\nperintendence of the Subscriber.\n\n\nThis WATERING pLAcg IS finely situaiea III\nthe high and healthy county, five miles west Q,\nWilmington, commanding an extensive we\" 2,\nthe surrounding country, the River Delaware ana\nthe neighboring States. The grounds q ths\ncompany afford pleasant and shady pro'henihcs'\nand are bounded by fine streams\n\n\nThe virtues Of the Waters are those OF ilie put-\nest Chalybeate, according to the ANALYSIS or FRO\nfessor Keating, of Philaieiph.a. They have been\nparticularly etiieaciols IN bilious and olher ie'\nscrs and are celcblatedas fine tonic.\nThe ycinityto Wilmington, offers AZ all limes\naccess to an excellent market; and the daily IN\ntcrcoursc by Steam Boat lines between tha'\nplace and New Castle, 10 and from PhiladeiPhia\nand Baltimore, affords facility OF comHunlca\nton not possessed by any other Watering Place\nParties can be accommodated at short nolics\nwith dinners, collations, Ice creams, see, Sea'\nNo exertions shall DC spared by the Proprietor\nto crafty every want ofte visitor TO TINS pleas\nant and saubrions Retreat\n\n\nCharges will be moderate.\n\n\nCHARI rs STANLEY.\n\n\nJune /, 1927. o9-oii'\n\n\nNh. Carriages, gigs Or horses may a'\"ay\nbe had; and there are delightful rides over goo,\nroads, 10 the neighbo'ing towns, villages, caiai\n&c, Horses taken AT livery. 49,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1536,
+                    "y0": 165,
+                    "x1": 2160,
+                    "y1": 275
+                },
+                {
+                    "x0": 1519,
+                    "y0": 278,
+                    "x1": 2186,
+                    "y1": 1394
+                }
+            ],
+            "bbox": [
+                1519,
+                165,
+                2186,
+                1394
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-07-19_p4_sn85042523_00271740244_1827071901_0824.json"
+        },
+        {
+            "object_ids": [
+                31,
+                3
+            ],
+            "headline": "WOOL CARDLNG.",
+            "article": "yaOHN BANCROFT, having removed 'son'\n\n\n~ BrandyWinc Bridge, to Providence ftc:o'\n~, Delaware Co. Pa, takes this means 70 Y.\nform his friends and the public generaily WI. \";\nhe there continues the Cardng Of Wool. ior =.\nthose who arc pleased to favor him win W., ~\ncustom; and that he hopes By strict attention ass NJ\npunctualitv, to ,aerit a continuance OF l'un, l.',\nlie patronage. He also takes this opporlnn'J\nto inform those to whose favor he was ilislep'ea\nfor work this line, while at Brandywne i'TiosS,\nthat all wool left forhm TO card, at John lofpvi,\nStore, or at the soap Factory of nraiiitol : b,'\ncroft, Wilmington, or at Wm. MCmley : 90 ~, !,\nBrandy vine, will be taken from thence on.e IL,\ncry week. and, being carled will be punc.na'. iva\netunred the week following; hoping, ny a.rr, .\nbove arrangement, and pnnctnaiiy ~ 'nme5ed n\nand good performance of the work cohhHe\" .s;n g.\nhim, they may be induced 70 continue taef =\nyours. - -, On\n\n\n1t|,mo :. 1897 -'AM",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3021,
+                    "y0": 4739,
+                    "x1": 3493,
+                    "y1": 4788
+                },
+                {
+                    "x0": 2939,
+                    "y0": 4800,
+                    "x1": 3597,
+                    "y1": 5485
+                }
+            ],
+            "bbox": [
+                2939,
+                4739,
+                3597,
+                5485
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-07-19_p4_sn85042523_00271740244_1827071901_0824.json"
+        },
+        {
+            "object_ids": [
+                33,
+                4
+            ],
+            "headline": "MISCELLANEOUS.",
+            "article": "Parent FcnS and SieUeS manufactured by\nEdward krookes & Son, Orange, between\nFront and Second streets.\nBernard lf Guigcn bottles Porter, Ale and\nCider, at No. 81, market-st., and IS, East\nIhird-st.\nPi2heh ltshiRg ard IWeelgwighting.-\nAbraham Aldrrlice, corner of Market and\nNIater-St.\nIron and C0ai 1Krchaut--Thomas Garrett,\nJr, 50, Shiply-st.\nd7G8fer Brfckianer, and Line l.erchdnt.-\nB. w. Brachin, old Lime stand, No. IS,\nwest Broad-st.\n1aAscr.-Rcnami Webb, Queen, between\nTatnell and Orange-sts.\nLotfery and E.rchaAgr CNce.-Robertson\n& Little, %, market street.\nJames &. Aiken Ieachtr No. los, Orange-st.,\nabove the Hay Scales.\nThomas G. Alrclls, Fancy Hardware, I'm\nand Sheet Iron Manufacturer, corner OF\nmarket and second streets\nJacob Alrichs, Machine Maker, cornero o.\nshiplcy and broad streets.\nIron FounGry-Mahlon Belts, second-st\nnear the Black Horse tavern\nMorocc. NEUTRALITY-SUSPICIOUS. s Co.\n98 market st.\nACKNOWLEDGEMENTS ferfRS, at tHe eoi\nncr of West and Third streets.\n]. T. Fairlamb, Notary Public, surveyor q\nLand, Conveyancer, Regulator Of Streets\n&c. No. King street.\n\n\nPatent Hay and Grain Pakfs\nJoshua Johnson & Son, makers, Pike\nCreek Mills.\n\n\nNotary Public and Convcyancer.-IsaaS\nHendrick son, corner Of French and sts\nond streets, No. 43.\nLiuery Stable-Kept by Huson Swayne' ~\nShipley st. above Queen.\n| China, y lass and Queeaazaare Stofe.--i'.''\n( vid Smyth, 68 market st.\nDruggist y Chemist.--joscph BringhuFs''\ns. markct st.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3013,
+                    "y0": 3110,
+                    "x1": 3489,
+                    "y1": 3159
+                },
+                {
+                    "x0": 2921,
+                    "y0": 3166,
+                    "x1": 3597,
+                    "y1": 4727
+                }
+            ],
+            "bbox": [
+                2921,
+                3110,
+                3597,
+                4727
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-07-19_p4_sn85042523_00271740244_1827071901_0824.json"
+        },
+        {
+            "object_ids": [
+                39,
+                5
+            ],
+            "headline": "TO THE AFFLICTED!",
+            "article": "In justice TO myself, have been induced to\nreply to false and uniust,tiabIc attack made\nupon Inc and others by swain, the vender Of a\ncertain panacea in this city. do thisulso, in or\nder to remove from the public mind, the false\nimpressions which may arise out OF bis pompous\nand incorrect statement il the public prints\nMFR. Swain wishes to establish the belief, that he\nis the SoiG patentee of the celebrated Panaccu,\nupon which he has built his fortues; and not sat.\nisfed with asserting ths, he goes ON TO condemn\nall others as spurious and false limitations. Now\nnothing is mere entirely destitute Of TRUTH. ]\nhave been acquainted with the % ORIGINAL nE.\nc1pE FROM wHrn SWAIN MANUFACTURES MS MED\n\n\nIcISE, FOR UPWARDS OF TEN FEARS. lr WAS Oh\n\n\nTanned FROM Ny FArHER-IN-LAw, WHO NOW RE\nSIDES IN THE STATE OF New YoRK, VINO mas US\n4 En- 1T FOR TIL RrY YEARS, AND PERFORMED ISNu\n\n\nMEnABLE EXTRAORDINARY CURES WITH IT. ir\neu,,.y case wiere have administered this medi\n\n\ncine, its poyerftl viisues have not been know\n\n\nto fail: this, of itself, and have certificates t,\n\n\nsubstantiatethe fact, would give the lie to Mr.\nSwaim's bar. assertion. Perfectly satisfied as\n\n\nam, with tlE increasing orders for it, which arr\nreaching m, from various parts Of the Union,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1649,
+                    "y0": 4578,
+                    "x1": 2190,
+                    "y1": 4631
+                },
+                {
+                    "x0": 1584,
+                    "y0": 4639,
+                    "x1": 2247,
+                    "y1": 5485
+                }
+            ],
+            "bbox": [
+                1584,
+                4578,
+                2247,
+                5485
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-07-19_p4_sn85042523_00271740244_1827071901_0824.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "should not have thought L necessary 70 make\nthis plain statement Of the relative merits Of .he\ncase. case had no, Mr.. Swain, on one occasion, when\na LADY personally waited on him, to purchase\nhis Panacsa, and complained of his extortohate\nprice, remarking to him that she could purchase\nmine for hall the money, advised her not 70 .ahe\nany OF it for fear 1t might produce iatai ooilse-\na';cnces and went ON 10 say that it was not gen\n,nne Thousands of persons who are now en-\n\n\nloving the blessings Of health; established by its\nuse, will bear me out Of this assertion That\n\n\npArKen' RtyoyAriSG VEGETABLE PANAcEA\nIl. * rgrpy nEsprrr, EauAl TO SwAiM's, Asp\nrAkEs N ALL CASES Where ms HAS faoN\n| M ERIC tcioua, wrrn SECURITY And FRkkpoM'\n4 ANN 10 SAY, WITHOUT fEAH OF eoNrhApiSiioN'\n\n\nANpICAS EsrAnLtsh rhG FACT bhfosp ~. ~ ~\n\n\nnIilr, or popar--ri4r ny MEDICINE and iii'\n\n\nARE osg ASn rHE sANE 1HiNG, WITH the LAohf\nTIuX or ANT MLncuRIAL PREPARATION\n\n\nJOHN 4. PARKER.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2194,
+                    "y0": 139,
+                    "x1": 2861,
+                    "y1": 841
+                }
+            ],
+            "bbox": [
+                2194,
+                139,
+                2861,
+                841
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-07-19_p4_sn85042523_00271740244_1827071901_0824.json"
+        },
+        {
+            "object_ids": [
+                30,
+                7
+            ],
+            "headline": "TTEEsTyNCs\n\n\nOF THE FRIENDS OF\nAgriculture and Manufactures",
+            "article": "Some dissatisfaction having been expressed as\n70 the manner in which the recent meeting held\non these subjects was conducted, is well as at\nThe result thereof, and several Of tile Delegates\nappointed at said meeting having declined @\nact under their ppontmcnt-the citizens of The\nState Of Delaware, friendly TO the protection Of\nAmerican labor, and to the encouragement Of a\nhome market, are invited to meet again al the\nTown Hall in Wilmington, OH Saturday the 2lst\nINST. at 3 o'clock\n\n\nWith view that the proposed meeting should\nstand on the face and pure ground Of the great\nNational Interests in question, it Is hereby de.\nclared that the object Of tic present call, is u\npromote the interest Of Agriculture and Mann\niact4res, by expressing our sentiments publicl,\nOn those Important subj cts, and to appoint Del\negates TO the Convention which is to meet a\nHarrisburg on the 30th inst.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 212,
+                    "y0": 3559,
+                    "x1": 862,
+                    "y1": 3712
+                },
+                {
+                    "x0": 207,
+                    "y0": 3720,
+                    "x1": 875,
+                    "y1": 4344
+                }
+            ],
+            "bbox": [
+                207,
+                3559,
+                875,
+                4344
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-07-19_p4_sn85042523_00271740244_1827071901_0824.json"
+        },
+        {
+            "object_ids": [
+                46,
+                8
+            ],
+            "headline": "SPRING GOODS.",
+            "article": "vNNliE SUBSCRIBER has just received in adj\nIl dtlon 10 his former stock, large assort-\nment Of Spring Goods, among which arc,\n\n\nCLOTHS and h-ERSE PN,ERES,\nSILK, Tonet, Valencia and Malscilles yestings.\nLeventnes, Florenses, eros de Naples, and Lus-\n\n\ntring silks\nRavens Duck, Russia and Porter Sheetings.\nirish Linens, Sea Island and Prime N. Orleans\n\n\nShrtngs.\n\n\nCambria, Iaconet, Swiss and Null Muslns.\nBomhazets, Bambazenes, and Norwich Grapes.\nsilk, Cotton and Wooden Hosiery.\nDrlllings. Blue and Yellow Nankeens.\nCases Ieghorn-1 do. Straw Bonnets\nAlso, large assortment of\n\n\nROOFS & SEaOEs,\n\n\nal The toiiouing lop prices. ui2.\n| cases Mems fine Boots, 81 90 per pair.\n5 do. do. Munroes, 874 do.\ndo. Ladies Valencia Shoes rs do.\n3 do, do. Morocco 625 do.\n! do. do. Leather, do. so do.\nl do Ladies' Morocco Shoes, with heels, a\n\n\nIS cents per pair\n/ do Misses do Springs so do do\nl do do Kid do so do do\n/ case rs pair Seersucker pantalets\nThe above arc well worthy the attention Q\nthe public\n\n\nJOHN PATTERSON.\n1 April, 1927. 30-3m,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1026,
+                    "y0": 4308,
+                    "x1": 1446,
+                    "y1": 4361
+                },
+                {
+                    "x0": 904,
+                    "y0": 4364,
+                    "x1": 1572,
+                    "y1": 5398
+                }
+            ],
+            "bbox": [
+                904,
+                4308,
+                1572,
+                5398
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-07-19_p4_sn85042523_00271740244_1827071901_0824.json"
+        },
+        {
+            "object_ids": [
+                34,
+                9
+            ],
+            "headline": "NOI'ICE.",
+            "article": "The firm Of j. THOMAS Z co. being dis\nsolved on The 18TH Of the Fourth month last Al\npersons having claims against said firm are desir-\ned to produce them Immediately for settlements\nand ali who are indebted to said firm arc request\ned TO call Oh E-ra H0opeS and settle the same\n\n\nANY person having demands aga'ss' the firm\nOf II. Il f.. HOPES. or against EZRA iiOoPES,\nare requested to furnish them for settlement 10\nIl. HoorEs: and any person indebted 70 either\nofthe above concerns, are earnestly requested 20\ndischarge the same without delay TO to The SAID\n\n\nEZRA nOOrtS.\n\n\nWilmington, 9TH mo- Sd, 1887, -",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1066,
+                    "y0": 1346,
+                    "x1": 1293,
+                    "y1": 1390
+                },
+                {
+                    "x0": 852,
+                    "y0": 1402,
+                    "x1": 1520,
+                    "y1": 1843
+                }
+            ],
+            "bbox": [
+                852,
+                1346,
+                1520,
+                1843
+            ],
+            "full_article_id": 10,
+            "id": "10_1827-07-19_p4_sn85042523_00271740244_1827071901_0824.json"
+        },
+        {
+            "object_ids": [
+                41,
+                65,
+                12
+            ],
+            "headline": "j lls:sxc;r 81 PE.a 1cT'rE.E.\n\n.,1J FR UOINN",
+            "article": "post Masters, or other Gentlemen, who\nmy nterc, themselves d thc sale IF this Med\njcinc, Shall have liberal discount allowed them\nlhcy mas Nc assured Tim Tie ingredients Used\nii ,he manufacture q i alc entirely simple, and\n81 i corrective nature, and its specific qualities\nlave been tested b laany q our most respecta-\nbe Physicians.\n\n\norders from any part of thc Union viii he\n.i;ei.icd toMit. rlucfUa!ity, and every nioHna\nton given t.lat ma! be required. Address 70\n\n\nJDiI% a. PARKER,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2311,
+                    "y0": 2679,
+                    "x1": 2813,
+                    "y1": 2723
+                },
+                {
+                    "x0": 2416,
+                    "y0": 2727,
+                    "x1": 2700,
+                    "y1": 2754
+                },
+                {
+                    "x0": 2229,
+                    "y0": 2757,
+                    "x1": 2896,
+                    "y1": 3150
+                }
+            ],
+            "bbox": [
+                2229,
+                2679,
+                2896,
+                3150
+            ],
+            "full_article_id": 13,
+            "id": "13_1827-07-19_p4_sn85042523_00271740244_1827071901_0824.json"
+        },
+        {
+            "object_ids": [
+                44,
+                13
+            ],
+            "headline": "Grocery Stores.",
+            "article": "Joseph Mendenhall & Co. corner Of Kipe\n\n\nand Second streets.\nJoseph {. Gilpin, 46, market st.\nJames &. Samuel Brown, s High st.\nClement < Gordon, corner of Market and\n\n\nKennel.\n\n\nPeter Horn, corner king and front SITS.\nJohn Rice, Brandywine, south of bridge.\nSamuel Stroud, corner of front and orange\nGeorge Winslow, 179 market st.\njohn Wright, corner of Front and Marke",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3039,
+                    "y0": 653,
+                    "x1": 3384,
+                    "y1": 702
+                },
+                {
+                    "x0": 2882,
+                    "y0": 710,
+                    "x1": 3554,
+                    "y1": 1090
+                }
+            ],
+            "bbox": [
+                2882,
+                653,
+                3554,
+                1090
+            ],
+            "full_article_id": 14,
+            "id": "14_1827-07-19_p4_sn85042523_00271740244_1827071901_0824.json"
+        },
+        {
+            "object_ids": [
+                56,
+                54,
+                62,
+                14
+            ],
+            "headline": "LA MOTIFS",
+            "article": "Idluqbie Medicine for CGghs, Co'Samptlons ana\n\n\n.9sthNlaS,\n\n\nThis Elixir is offered to the public as pos\nsessing virtues peculiarly adapted TO the present\nprevailing disorders Of the breast and lungs,\nleading 10 consumption. A timely use OF these\ndrops may be considered a certain cure \" most\neases Of Common G0R, ConghS, Influenza,\nHoping Cs0.t, PUN u TIE Sde, D.BnahB n\nB4athjug, Itam II Nleep arising from debility,\nana ID S9qs mo3e .lst'taA i is ssngulary ellica\ncious particular attention TO the dIfeet4ohS\nACCOMMODATING each bottle s ncccssafy\n\n\nThe following certificates from respectable\ngentlemen, Physicians and surgeons arc subloni-\ncd, to show that TINS composition + one ~'Ach\nMedical men are disposed 70 gata Is cfhcacous\nand WORTHY Of pu! u paitoAaBn\nHaving exam cd tic composition % IA\nNofr's cough Drops, inproAed, we haze no\nhesitation il rtcontnead,ng thcmto Tie pfblie,\nIS bciug Wcll adapted o Aose cases q dlae\"ae\nior Nhica tAcS arc recommended.\n\n\nnociof, .iu>ArHAS Dom, Albany Dcc 4, l62li\nJANls Fnsr, Of y hile Greek, Feb. l4th 1895\nWArsaS Str<fn, OF CanDlider, Fcb, 2eth\nISIS, soloNo, DEAN, oi J4cAsGn, Januai! w,\n/ lalo.\n\n\nl Ertroct of tasrJ - Reu, Etsm Mgftg.\n4 lam pleased Nititas opportunity pf lelatiH5\nd few facts which may serve il COMMUNICATION u\n/ 0Il ENNN4itAtN N3b1.3ii At'3l'a' = Aet' s'f5 ?\nwas afflicted with pulmonary complaint lag\ncough Was severe, n@ appeiitc Weas, .n\nstrength tallinG. ] used i,.4ty popular ncar\ncncs, but only fotad tefl asuS rehrf, ,ntl 4\na continued use II your salNatc Drops, hNt\nhecn blessed Siil sgeh peiFet hcath u fcn\nder fuithtrngails alaece@sals.\n\n\ni.HENi.AiE IiARias.\n\n\nSoifm. n D. jst ~ 1879.\n\n\nMessrs. Gres5g' ~, have f1f II wears btct\ntroa5ied With NJ aiicctlclo 6,t.atmru udg\na,tenae.l v.tu soNcrc calSI, pail u ne slt!e\nand difficulty q blcairs: aati Athe .iit oflh25\nhccrne ,t much r,t!natl t..st ny to was d, 5\npaired of; ;ap,l receiving ~ lieisl, benefit t,on\nmy physician, wa, I,ts sad % lriEe trial ot j.\nNatts Cough nroas aHl sttor taking one bottl\nMas rcs'Wrrdto perfect hcalth; anaA IS 4ly firm\nhe!isf. t'at the use % t!,e above nanpd di9ps\ntveo. tul TIE, THOMAS JONES\neai,Wba. ni'0, .Iityaa, lS1a.\n\n\n,.iid wholesale a,iIsttall by q. !. s. Crosby\ni Coga5as, plio. ave @eu's III f6eii appointing\n/, thrtul bout the ulNteG stttcs aid Canals, ~.\n\n\nitch bot e contains .ib.doses, lseirt \"\n\n\nsold in WlmingtoaHA .lnss.al lin:NgHt IS\nDlas gis and Chemist, @7, Msrk,t-st.\n\n\nMarch, 6--.J--t5m.",
+            "byline": "csNTrgEa nTOES\n\nIdluable Medicine for cGgds, Co,lsumptions ana\n\n\n.4sthMnS.",
+            "bbox_list": [
+                {
+                    "x0": 1662,
+                    "y0": 1415,
+                    "x1": 2060,
+                    "y1": 1469
+                },
+                {
+                    "x0": 1645,
+                    "y0": 1468,
+                    "x1": 2060,
+                    "y1": 1508
+                },
+                {
+                    "x0": 1536,
+                    "y0": 1515,
+                    "x1": 2203,
+                    "y1": 1577
+                },
+                {
+                    "x0": 1532,
+                    "y0": 1520,
+                    "x1": 2208,
+                    "y1": 3429
+                }
+            ],
+            "bbox": [
+                1532,
+                1415,
+                2208,
+                3429
+            ],
+            "full_article_id": 15,
+            "id": "15_1827-07-19_p4_sn85042523_00271740244_1827071901_0824.json"
+        },
+        {
+            "object_ids": [
+                43,
+                16
+            ],
+            "headline": "nogougM lA0an.",
+            "article": "tEa ,eroa~t, c5,sncll a comn,iee d receive pro.\np1aas for i loan uot exceeding 10000 ~ laFs,\nOn the credit ot the Bor5lsh ii Wilmington,\nfor the purpose Ct Supplying the Borough w,tl\nwater at a raie oi interest not exceeding iNt\nper centum per annui, payable seni-annaally,\nand reMbursahc At tlic ens Of 20 fc;i from tht\n4th OF ,hly, lH27--Nptice i, therefore hereby\ngiven, tina, such proposals win nov By receltet\nBY tic undersigned n any tine after the plcsen\nlate, for taking said Loan.\n\n\nJAMES nEGHsON,\n\n\nJAMES GARDNER,\n\n\nJOSEPH GtsI BG,\n\n\nMM. LARkiN.\n\n\nigmmihce.\nJune eth, 1927 39-tf",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 996,
+                    "y0": 2914,
+                    "x1": 1402,
+                    "y1": 2967
+                },
+                {
+                    "x0": 878,
+                    "y0": 2970,
+                    "x1": 1537,
+                    "y1": 3538
+                }
+            ],
+            "bbox": [
+                878,
+                2914,
+                1537,
+                3538
+            ],
+            "full_article_id": 17,
+            "id": "17_1827-07-19_p4_sn85042523_00271740244_1827071901_0824.json"
+        },
+        {
+            "object_ids": [
+                42,
+                17
+            ],
+            "headline": "s.zyE.Ry-r ,AIT.r,",
+            "article": "FEeiE Subscriber hegs leave 70 oiler hinsclfto\n4 tac Democratic Citizens 81 Newcastle Coun-\nn forihe oIce OF SHERIFF, TO hc supplied IN\nOctober next; assuring them that in case he\nshould b. the object ftleir choice, bis best ex-\nrr'ions shall be etnpioved TO execute Tie dutie,\nof the Office with iidoli,y: aud pledging hinseii\nq ABIDE by the decision of the County Meeting.\n10 - htd Al the Red Lion, for the nomination ii\nthe Co,ln'y Ticket,\n\n\nALEXANDER PORTER.\nNAV II, 1897. S5-tF.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1715,
+                    "y0": 3450,
+                    "x1": 2068,
+                    "y1": 3490
+                },
+                {
+                    "x0": 1562,
+                    "y0": 3493,
+                    "x1": 2225,
+                    "y1": 3864
+                }
+            ],
+            "bbox": [
+                1562,
+                3450,
+                2225,
+                3864
+            ],
+            "full_article_id": 18,
+            "id": "18_1827-07-19_p4_sn85042523_00271740244_1827071901_0824.json"
+        },
+        {
+            "object_ids": [
+                47,
+                64,
+                22
+            ],
+            "headline": "CUBA In 1e27.",
+            "article": "\n\n\ny,e diversions ofthe Inhabitants of the Havana\na.e fever tl.sn those Of most cities Of the United\nstates: ana this fact may in some degree be as !\ncribed to the natute of the government, as ven\n1, to the states Of society. The scenes OF dissi-\nnation are much fever than those which Nc\".\nYork. philads lphia or Boston furnish. euoa mas\n10 drunk ards: and when an evil of SUCH hiaShl-\nude is taken away, society in one poh't mas ios'\ncurse. - 4!\nThe most prominent exhibitions Tor and ot |\nehe ladies' of Havana, is to be founa IN Hue\nof about three quarters OF mile Ill length, run\nming parallel with the city, winch separate y\nfrom the suburbs. it IS ca'iea ene Piaeo, i.1etai\n~ trals. Il is a smooth, level road, kept IN the\nnest pe,ect ORDER for the sole object OF display\nno Cuban bellies and beauty. On each side ct\n4 are fwo walks for the spectators, each shaded\n81 q double row of trees, such - oranges, lines,\nocoanass. &c. planted with the most perfect\n-eruiaFifv. To separate the walk from the road\n3 small stone wall, about two and hall teet\nhigh and one foot in thickness. In the eye oi\ni. Cuban there is. nothing like the paseo' The\ntheatre Aamenla, plaza de arInas are mere en-\ntircly ec,ipsed. \"Ihe pazeo, the pazeo, have\nsou seen the pazeo\" is question which for\n.igner must answer fifty times the first week OF\nlis arrival; and if the enquirer be met with neg\nalive he will tell YOU that YOU have not vet seen\nCuba. In short, he will feel like the citizen OF\n! much greater city OF Europe, represented IN\nthe play, when he exclaims, that \"lf you have\nnot seen Paris, then you have seen nothlag =\nAs far as the ladies' of Havana are concerned, this\nopinion is not unfotnded On the holidays, at\nabout O'Clock in the afternoon, forth from the\ncities come the voants and quitras, crowd after\ncrowd. Foot passengers also are eagerly, and\nat some hazard, endeayoring TO get out, all\nbound for the pazeo. vol,nt is a vehicle like\nthe pig, except that it is much larger, the\nwheels heavy and set wide apart, he body\nbrought much farther forward, and vide enough\n70 contain three persons. The qultra differs only\nIN this particular, that the top falls down at the\nwill ofthe rider, the yolant top IS permanent\nHavana contains an immense number OF these\nvehicles, public and private. It IS however, con.\nsIleretl beneath a lady to ride in public volan\nhence all that appear at tie pa-eo are owned by\nfamilies, and consequently are remarkable Tor\ntheir elegance and coatliness. No person IS Al\nawed to use reins in driving, al Havana; the\n.tretts are too narrow. Each horse is therefore\nt,onntcG. b a driver Ecabtsero) always dresscc\nin livery. There is, as may be expected, a clash\ning III the pless, for the pazco. The Virgin Ma\n~ finds her name abused and inrok ed--wlth al\nthe addition oi 'ssantssina,\" \"purlslha, &c\nconnected with other words not quite SO respect.\nsui, in the midst Of locked wheels and broker\nharnesses But the pace once gained, all ttou\nbic is over. On each side Of the road are ranged\nclose to the wall and the volants and qnltras pls.\nfrom owe end to the other at SLOW walk\nand noX commences the display. The dress 4\ntht ladies' is almost invariably white, ct the mos\ncostly kind. A wreath Of roses IN the hair, al,\nsometimes veil hanging from the comb, 50 q\n20 cover 0ny about half Of the head, and uon'\nOf the face, is all the head-drcsS which they Wear\nThe small wan is lined with gentlemen, who ,ta\nlion themselves there to gaze at the ladies'; AM\n;ht ladies' in turn pass by, TO gaze at the genie\nmen. 1t may he called a staring match th\nnumber of vehicles sometimes amounts 70 500\nin which case the ride is extended beyond ~\npaceo The ladies' amount to more than an\nthousand From end to end they pass for abou\nshree hours, to see and he seen. At dusk til\n,ame confusion is observable IN returning as\nentering the city. The sign ofrecogniton is\nshake Of the hand TO the acquaintance on tn\nwalk, ard consequently there y perpetual wa'\ning OF hanikerchiets, fans, and hands\n\n\nOr the subject Of female beauty ef Havana,\nmay sc SAID that about the usual proportion\nfemales are pretty. Not indeed, if We make OF\nnorthern standard the test, for no Cuba beaui\npossesses lips and checks, Of which\n\n\ns'They tell,\n\n\n0utshine the beauty Of the sea,\n\n\nWhite foam and crimson she'll\"\n\n\nBut if regularity Of features-smoothnes\nskin--dark eyes-dark hair, and beautiful teet\ngive any claims-then the Eabeneras may con\nin for their share, Byron's description of II\n- l. al.",
+            "byline": "s'ror, tie Ne,c- I'ork Dolly .4dcerttSe.'.\n\n\nLETTER vi.",
+            "bbox_list": [
+                {
+                    "x0": 334,
+                    "y0": 222,
+                    "x1": 674,
+                    "y1": 266
+                },
+                {
+                    "x0": 216,
+                    "y0": 278,
+                    "x1": 770,
+                    "y1": 349
+                },
+                {
+                    "x0": 155,
+                    "y0": 339,
+                    "x1": 840,
+                    "y1": 3516
+                }
+            ],
+            "bbox": [
+                155,
+                222,
+                840,
+                3516
+            ],
+            "full_article_id": 23,
+            "id": "23_1827-07-19_p4_sn85042523_00271740244_1827071901_0824.json"
+        },
+        {
+            "object_ids": [
+                66,
+                50,
+                23
+            ],
+            "headline": "TO thc care Of Atkinson and AieAA\nlcrs, Hdtiuaeiaht9,\n\nCERTIFICATES.",
+            "article": "was aaaiictea, several wears ago, With mer-\ncaija disease. which destroyed MY health aud\nctftGblea my constitution 70 that dcErrc that !\ndespmrcd Of ever again recovering fom the cf.\nfccts Of Il. h4l bcei ender i,a care d ply\nsician for nor: til.l sa,cn months ind my nala.\n~ stil, continued p increase, II fact hatl be\ncome liberated WHEN by chance, became ac-\ngtlajntcd with Mr. .hbaa Gaehe.', who in!omnct!\ninc ,lla,t he believed Nc could cure nc If very\nshort ti,lc will Sis .hoaocfo, five botles (which\nrestored No d ealtl and comiolt",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2237,
+                    "y0": 3145,
+                    "x1": 2748,
+                    "y1": 3207
+                },
+                {
+                    "x0": 2412,
+                    "y0": 3210,
+                    "x1": 2731,
+                    "y1": 3246
+                },
+                {
+                    "x0": 2233,
+                    "y0": 3249,
+                    "x1": 2905,
+                    "y1": 3638
+                }
+            ],
+            "bbox": [
+                2233,
+                3145,
+                2905,
+                3638
+            ],
+            "full_article_id": 24,
+            "id": "24_1827-07-19_p4_sn85042523_00271740244_1827071901_0824.json"
+        },
+        {
+            "object_ids": [
+                57,
+                58,
+                26
+            ],
+            "headline": "\nGENERAL REGISTER\n\nDry Good Merchants.",
+            "article": "Chalkly Somers, 48, Market street.\nBuzby & Bassett, 90, market ST.\nJohn Patterson, so market Street.\nW b. Tomlinson, No. &c, market Street\nJohn r. Biinckle, corner of market & Queen\n\n\nstreets.\n\n\nWilliam NJ M'Caullcy, Brandywine, north side\nof the Bridge.\n\n\nAllan Thomson, As market st.\nJohn w. Tatum, 80 market st.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2908,
+                    "y0": 156,
+                    "x1": 3493,
+                    "y1": 214
+                },
+                {
+                    "x0": 2960,
+                    "y0": 230,
+                    "x1": 3467,
+                    "y1": 279
+                },
+                {
+                    "x0": 2873,
+                    "y0": 278,
+                    "x1": 3563,
+                    "y1": 628
+                }
+            ],
+            "bbox": [
+                2873,
+                156,
+                3563,
+                628
+            ],
+            "full_article_id": 27,
+            "id": "27_1827-07-19_p4_sn85042523_00271740244_1827071901_0824.json"
+        },
+        {
+            "object_ids": [
+                28
+            ],
+            "headline": "",
+            "article": "l otter, OlccrS, &C. &C.\n\n\nII Is particularly beneficial in MeumatismS, its\neffects being sach as completely to remove the\ncompliant.\n\n\nIn III cutaneous diseases, or affections of the\nskin, perhaps there is no medicine tht has bech\nmore crnintntly successful. In the early stages\nOf Gonstt0iDtioli, il will BE- found Of eminent SER\nWee. 1t affords ehcctna reNcf III Sylphthtc\nand Ntlcarfni Niseis,S :,\n\n\nScycr.I eases Of Jaunilicc have been radically\nremoved by the use Of only tew bottles.\n\n\nDyspepsia, or indigestion, is taken away by\nits powerful virtues; and where Children are\nconcerned it is known to be . salutary operative\nan, for that purpose kept by families to be used\nIN the complaints incident 10 the change OF the\nseasons\n\n\nms Medicine Is Warranted Genuine, and is\nequal d any now il use; It's carefully prepared\nrom ,he original lteeiac,\n\n\nBy JOIN A. PARKER\n\n\nDirections for using this Medicine, and certitl-\nGates from respectable persons who y has roate-\n4 an cured of various Wirmtd diseases, accom-\np,uy each batt..\n\n\nlAis pan4ce II MN hacn highly recommended\nlly many respectable fhysicfaH5, and PaJtSso,S\n4 in the {ntciiY n Pennsylvania. It has per\nformed remarkable cures, aityr all the efforts o\nexperience and s6ill have talked. = timely nsC\n&c ii Nil prevent G0aso4ptanHy, as i caines on\n,Ae complaints that terminate in This fatal WIDE\n3,4eading disrs,c Ii is yell known fact that\nmore die with thia at5eaie than Of any other Z\nwhich the ti,iinan family ne exposed Indeed\nil Till 3Fteael d sHeh analarmng extent, and IS s'\ncertain III lis npel.lou, when once it has got th'\nasec0lcncy, taat Wr Vannot hc too careiuln mp\nping in,ht bud lie disease that generate It.\n\n\nlacast ! Where hetcnty ll.s been used, the e\nt.cla II .iigh eman 10 hc,sgsieni, i y an inyal\n\n\n,lN. tttIt tsfNsNt\nN. WoHte! sitaFanl solm,lncss, and completed\nsladn.ate, the ctils ll.at attend It, and man\nmnit can he,r testimony to is good effects I\nlili. ii.lrllclliN..",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2207,
+                    "y0": 1184,
+                    "x1": 2883,
+                    "y1": 2675
+                }
+            ],
+            "bbox": [
+                2207,
+                1184,
+                2883,
+                2675
+            ],
+            "full_article_id": 29,
+            "id": "29_1827-07-19_p4_sn85042523_00271740244_1827071901_0824.json"
+        },
+        {
+            "object_ids": [
+                29
+            ],
+            "headline": "",
+            "article": "fs.;.TtA \"a bh Farm, situated ~ tlncadrr\nI;,,ssi, 54s hundred, Newcastle Cou.iy, Del\ntG.s4ssss-aa bout mile south OF Newark adicin\ning lands Of r. II. ilolt2bcckrr the heirs o. WI.\nlam ltnlscl, dec, Zacharah Jones, and others,\ncontaining lO6a \"mnre or lees hi% Farm\nis on 4 bIek oak and hickory sol u hsn state\nii cu8yati q, md eqaaied y! few \", itgi'\nbonraool. lit i w.ll adapted 70 All knd, ol\ntirasse, Ana Craia:--h4s on il yognG ttnsnR\norchard 81 about one hundred trees of choice\ntrut; an excellent kouop meaaoW, though\nvb.ch rams ! never fennS ~ ans anl seven I'll\nhgc, ag hrlls, all auiiH goo, tracc, The I'M.\npioven.nts are atwos y lag dwell.ag hansc,\nwell weather-bouled outside and IL 81 ani\nplastercd inside, haylng three rooi.s down and\nfonr up sta.,s, Witiia tiest rite cellar under the\nwhole.-Aiso3 l,tehea A. sininS, with pamp\nOf excellent water Al tac door; stone ntth\nhouse aud 4 sHakr hose; 4 iahe Darn, nearly\nugw. uith excellent stablng underneath, sniii-\ncent ~ hold ten 81 twelve heal ot horses, he.\nsides uilch cows, calves, ste. Farther dcsc,ip\nt!1n X deemed unnecessary, Is 4 is expecte\nthat any Wishing y purchase silt4e@ the prem\nses, Which the subscriber, living thereon, car\nshow, and taNke knosn tile cond TOSS of sale.\n\n\njoins PlINER.\n\n\nMay 2E, 1877, SIT.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 861,
+                    "y0": 1955,
+                    "x1": 1528,
+                    "y1": 2893
+                }
+            ],
+            "bbox": [
+                861,
+                1955,
+                1528,
+                2893
+            ],
+            "full_article_id": 30,
+            "id": "30_1827-07-19_p4_sn85042523_00271740244_1827071901_0824.json"
+        },
+        {
+            "object_ids": [
+                55,
+                36
+            ],
+            "headline": "LAnE.S G. lYRCM.",
+            "article": "Tile Proprietor Of Parkcl's Panacca has the\nsatistae Goa Of laying before the public, the iol-\nlowing recommendatory notice ot his Medicine\nfrom Dr. Edwin 4 Atlee, highly respectable\nPractitioner in Philadelphia.\n\n\nsIIsvlng been requested to state, what expert\nen.c have had Of the efficacy Of i'arkcr's Pana-\nCA, am enabled to say, that three patients,\nwho have used OF the bottles, presented Tor trial,\nhave evidently derived grea benefit, The first\nIS q respectable female, who labored under eS\ntrcme acrotci0us debility, in which the stomach\nparticipated hrgely--its digestive functions be\nling much disordcred. After taking one bottle,\nher health was improvcd-her appetite, diges-\nton and complexion moderated; and in the use\nOf the second bottle her conyalescnce is speedy.\n\n\nThe second is the son Of a board merchant,\nwho suffers with the hipdsease, a scrofuous al\n1 fcction or carries Of Inc neck of the thigh bone.\n! Previously to the use Of P.trker's Panscea he\nhad habituaily suffered great pain in the afit ctct\n! part, and his General health was much impaired.\n\n\nHe has taken nearly two bottles, and his parents\n\n\nsay he has been more free OF pain than before.\n\n\nwhile his general heal,his fast improving.\n\n\nThe third is lady, whose disease is supposed\nto be Rhcumatlc-and who las long suffered\n\n\nwith an extensive ulcer oi tile leg, resisting the\nremedies prescribed by two regular and eminent\n\n\nphysicians, who apprchcnded the loss fthe limb\n\n\nby gansrene. BY request, called to see her TO\n\n\nday; viewed the ulcer which is now not more\n\n\nthan afonrth, in diameter and depth, Of what il\n\n\nwas orgnally-is much less swollen, very sli ght\ny paintu-and she says she has received mors\nbenefit from the two bottles Of Parker's Panacea\nthan from any medicine that had been before ad\nministered.\"\n\n\n, ifthe above recommendatory notice is calcu\n\n\nlated to benefit the proprietor, it is at his service\nf. A. ATLEE.\n, Philadeiphia 5th mo. so, 1927\n\n\nSold by JosErH BRlsenuRsr, Druggist ant\nChemist, No 81, Market street wilmington.\nAlso, at J. IiARLAS's Drug Store, opposite tn\n| tcwn-Hall, Market stree",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2573,
+                    "y0": 3938,
+                    "x1": 2887,
+                    "y1": 3978
+                },
+                {
+                    "x0": 2246,
+                    "y0": 3981,
+                    "x1": 2918,
+                    "y1": 5485
+                }
+            ],
+            "bbox": [
+                2246,
+                3938,
+                2918,
+                5485
+            ],
+            "full_article_id": 37,
+            "id": "37_1827-07-19_p4_sn85042523_00271740244_1827071901_0824.json"
+        },
+        {
+            "object_ids": [
+                60,
+                63,
+                40
+            ],
+            "headline": "Witness. \\. II srEwAnr.\n\nPdsiuGe pda, tf5tWw3 ID, 1897.",
+            "article": "PbVie,hie, .2pra III 1927\nhereby certify that ny wife VA, afflicted With\nThe mast cxcrl l,tiny Rheumatic pans ~ all her\nii,n',s ~ two months, being advised TO Try PW-\nhe,,s i9a8aeea, procured t@o bottles, one how\ncver, entirely removed NE lin, AMI she y now\nsell.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2290,
+                    "y0": 3654,
+                    "x1": 2687,
+                    "y1": 3690
+                },
+                {
+                    "x0": 2281,
+                    "y0": 3681,
+                    "x1": 2735,
+                    "y1": 3725
+                },
+                {
+                    "x0": 2242,
+                    "y0": 3720,
+                    "x1": 2914,
+                    "y1": 3956
+                }
+            ],
+            "bbox": [
+                2242,
+                3654,
+                2914,
+                3956
+            ],
+            "full_article_id": 41,
+            "id": "41_1827-07-19_p4_sn85042523_00271740244_1827071901_0824.json"
+        },
+        {
+            "object_ids": [
+                45
+            ],
+            "headline": "",
+            "article": "Boot and Shoe Manufacturers.\nJohn Matthews, Delaware st., third door be.\n\n\nlow water-st. N. Castle.\nThcophilus Jones, u market St.\nVal. M'Neal & son. 90 and 100 market st,\nWilliam M'Neal, 17o king St.\nWilliam White, high st.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2886,
+                    "y0": 1110,
+                    "x1": 3550,
+                    "y1": 1364
+                }
+            ],
+            "bbox": [
+                2886,
+                1110,
+                3550,
+                1364
+            ],
+            "full_article_id": 46,
+            "id": "46_1827-07-19_p4_sn85042523_00271740244_1827071901_0824.json"
+        },
+        {
+            "object_ids": [
+                37,
+                53
+            ],
+            "headline": "A Valuable Farm for Sale.",
+            "article": "arxya yss offered 70 private sale, laltta,\nfE1s,.TSA 4 Is dc Farm, situated n trnra'ier\nl,,,,sst. EE55as hundred, Newcastle Coul5y, Del\n80 - Bout mile south Of Newark sdicin",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 900,
+                    "y0": 1860,
+                    "x1": 1472,
+                    "y1": 1909
+                },
+                {
+                    "x0": 865,
+                    "y0": 1916,
+                    "x1": 1528,
+                    "y1": 2048
+                }
+            ],
+            "bbox": [
+                865,
+                1860,
+                1528,
+                2048
+            ],
+            "full_article_id": 54,
+            "id": "54_1827-07-19_p4_sn85042523_00271740244_1827071901_0824.json"
+        },
+        {
+            "object_ids": [
+                38,
+                61
+            ],
+            "headline": "Vegetable Renoyating Panacea'",
+            "article": "Carefully prapared from the original recipe,\nand warranted equal 70 any now in use\n\n\nFOR THE CURE OF\n\n\nLiver Complaints, Scrofala, or\nKings Evil, Mercurial Disease,\nTumours, Putiid Sore Throat,\nletter, Ulcers, &c. &c.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2202,
+                    "y0": 853,
+                    "x1": 2861,
+                    "y1": 907
+                },
+                {
+                    "x0": 2207,
+                    "y0": 914,
+                    "x1": 2870,
+                    "y1": 1216
+                }
+            ],
+            "bbox": [
+                2202,
+                853,
+                2870,
+                1216
+            ],
+            "full_article_id": 62,
+            "id": "62_1827-07-19_p4_sn85042523_00271740244_1827071901_0824.json"
+        },
+        {
+            "object_ids": [
+                68
+            ],
+            "headline": "",
+            "article": "June l2tb, 1872.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 896,
+                    "y0": 3498,
+                    "x1": 1145,
+                    "y1": 3538
+                }
+            ],
+            "bbox": [
+                896,
+                3498,
+                1145,
+                3538
+            ],
+            "full_article_id": 69,
+            "id": "69_1827-07-19_p4_sn85042523_00271740244_1827071901_0824.json"
+        }
+    ]
+}

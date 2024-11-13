@@ -1,0 +1,630 @@
+{
+    "lccn": {
+        "title": "Delaware journal.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2638-6917",
+        "lccn": "sn83025530",
+        "start_year": "1827",
+        "end_year": "1832",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [
+            "sn85042477"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn83025530",
+        "edition": "ed-01",
+        "date": "1827-10-26",
+        "pages": [
+            "seq-3",
+            "seq-1",
+            "seq-2",
+            "seq-4"
+        ]
+    },
+    "page_number": "3",
+    "scan": {
+        "lccn": "sn83025530",
+        "edition": "ed-01",
+        "date": "1827-10-26",
+        "page": "3",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-10-26/ed-1/seq-3.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-10-26/ed-1/seq-3/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-10-26/ed-1/seq-3/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn83025530/00271740220/1827102601/0234.jp2",
+        "height": 5552,
+        "width": 3632
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2509,
+                "y0": 3856,
+                "x1": 3326,
+                "y1": 5266
+            },
+            "class": "article",
+            "raw_text": "Mr.. EDITOR,\n\n\n1t is an unpleasant task to take any notice Of a\nbeing who is so far sunk as to be proud of his own\nshame, and one who glories in being known as the\nauthor of pitful and disgracefu falsehoods. have\nbeen led to these remarks by the notice OF several\npieces published in paper in your piace--which\nonce had some claim to decency !; but by admitting\nthe production Of all coors into its columns, has des\ncended to situation that may be pitied but cannot\nbe envied. will now take some notice of piece\npublished in the Delaware Gazette of the 10Th,\nsigned g. A LOCKER on This, by the by, is\nry appropriate signature for man who has the lib\nerty to look on the best Houses 10 his Neghborhood\nbut as 10 the inside ofthe House where he is pleas\ned to say he witnessed such scenes, he knows NO\nsuch thing for his credit is not sufficient to gain\nhim an admttance into its door. do not lind fault\nwith his notice of the gentlemen who attended this\nmeeting. They care nothing for his falsehoods\nknowing we'll the contempt in which his character\nis held but the abuse ofGovernor Kent is the sun\nkindest cut of all-lt is but very short time since\nthe Governor exercised his constitutional preroga\ntive to save this same LOCKER on from the punish\nment due to his crimes (; and it may not be amiss TO\nstate the manner of deceiving the Governor out of\nthis pardon. 1t was done by stating that Mr.. Hark\ners famous correspondent engaged in procuring\nsubjects for dissection for the Young Students of\nMedicine in Elkton, on the night which he was\ncharged with committing certain crimes. hearth\nly wish Mr.. Harker all the advantage of this Resur\nrectionists talents, and inform (.My. LOCKER on)\nthat when he favors the public with another decent\naccount of the People Of Elkton will give more\nminute account of him. CASTIGATOR.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2696,
+                "y0": 3808,
+                "x1": 3139,
+                "y1": 3852
+            },
+            "class": "headline",
+            "raw_text": "For the Delaware Journal.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 874,
+                "y0": 303,
+                "x1": 1678,
+                "y1": 1501
+            },
+            "class": "article",
+            "raw_text": "n their hostility to the administration. Exclude a\nlew, very lew, conscientious men, who act upon\nparticular constitutional views and the opposition in\nboth houses, beginning with the Vice President ana\nending with kreuier, of political put.idily\n\n\nThe Jefferson County (Va.) Anti-Jackson meet\ning in their preamble thus express themselves\n\n\nThe citizens now assembled have seen with as\ntonshment and regret, and not without alarm, the\ncourse pursued by many of the opponents of the\npresent Administration OF the General Government\nthey have witnessed an unremitted and bitter hos\ntility manifested to Administration pursuing mea-\nsures which have received the sanction Of preced-\ning administrations, and the appreciation of the peo-\npie themselves-and they have seen urged, with AN\nunwearied pertinacty, objections which, in their\nopinion, are aimed at instead OF measures They\nhave seen public servants prescribed, whose whole\nlives and talents have been devoted to the common\nwelfare and glory of our country, upon suspicion.\nunsustaned by facts-and they have witnessed these\nsuspicious urged an every possible form for nearl\n\n\nthree gears, 1oathout the exhibition Of single proc\nzuhich reason admit Under these circumstances\nthey deem it their duty TO sustain, by their inAu\nence and example, however humble, an Administra\nton which they conscienousy believe to have a\nheart the best interests ofthe country, and to be full\nly deserving the mead Of appreciation.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2518,
+                "y0": 325,
+                "x1": 3335,
+                "y1": 1180
+            },
+            "class": "article",
+            "raw_text": "minisLed, and it is mitigated and converted into q\nharmless disease DIR. Thompson in his account OF\nthe sarlooid epidemic which prevailed in Scotland\nin 1913 and 1919, states that when the small pox at-\ntackled those who had been previously vaccinaed, it\nwas almost invariably so mild and So exactly resem-\nbled the chicken pox that he could not distinguish\nthem.\n\n\nWe learn that there few cases of the varioloid\ndisease in the western part Of Cummingtou, and one\nin Westhanpton. Gazette.\n\n\n: Savings Bank.-The last half gears report Of q\nsingle Savings Bank in London, gives an aggregate\nof deposites for that period, of f2ss,2sO l5s. one\nthird of which was by females.\n\n\nThe utility of those institutions is becoming every\nday more apparent, and the solid advantages deriv-\nweekly earnings to the accumulation Of fund, that\nmay enable them to procure in after days comfor-\ntable subsistence, ought to induce every enc to be-\ncome depositor.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 874,
+                "y0": 2494,
+                "x1": 1682,
+                "y1": 2933
+            },
+            "class": "article",
+            "raw_text": "writer in the United States Gazette, declares\nthat \" the majority in favour Of the Administration\nin the city OF Philadelphia, at this time, if the whole\nstrength Of both parties were brought out, would\ncsGeed ono thousand votes.\" The reasons which he\ngives for this opinion are-that hundreds voted for\nMr. Hemphill who were still opposed to the election\nOF Gen. jackson, and that third, least of the\nmembers the society Of Friends did not go to the\nPolls.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2518,
+                "y0": 1257,
+                "x1": 3343,
+                "y1": 3787
+            },
+            "class": "article",
+            "raw_text": "GlBRALTEK.-Ihe he advlces from GIbrater, are\nto the 18th ult. The Chronicle of the 14th states\nthat the Insurgents Spain, to the number Of about\n1000, took possession Of Reus, lin Catalonia) on the\n9Th of September, and imprisoned the principal n-\nhabitants until they paid certain contributions. The\nrebels had previously entered Vendrel, where they\nlevied $4,000 and were masters Of Blanes and 9TH\ner places on the coast 400 troops had arrived at\nTarragona from Valencia, and subsequently march\ned out, The Madrid Gazette of the 4h, which had\npreviously kept strict silence on the matters, gives\ndetailed account of the proceedings of the rebels\nsince 1925, and concludes with royal order, di-\nrectng considerable body Of troops of the line to\nbe sent to Catalonia, and announcing that general\nofficer will be appointed to superintend the military\noperations, with powers from his Majesty to pardon\nthe rebels, excepting the leaders.\n\n\nDR.. Muse has made this season, on fve acres Of\nland, notwithstanding severe drought ninety bar\nTeis OF shell-corn, wanting peck and half-that is\nninety bushels per acre, wanting small fraction of\nbushel. On ten acres he made also, this\nhundred and fytOo barrels shelLeorn, or 760 bush\nels-that is 70 bushels per acre\n\n\nEastern Shore Chronicle.\n\n\nEMYGRATIoNs FROM THE CONTINENT OF EURopf.\nA French paper which has been lying before us for\nsome time, mentions facts relating to the emi-\ngrations from Switzerland and Alsace, which we are\ndesirous Of publishing.\n\n\nHavre has been for several years the point of en-\nbarkation for great numbers Of poor families from\nAsace and Switzerland, for the U. States and the\ndetails of their prudence and econumy before leav-\ning Europe, would be as remarkable as their indus.\ntry and success usually are after their arrival on this\nside of the Atlantic. They performed journey Of\ntwo hundred leagues through the centre OF France,\nat less expence than conlon traveller would spend\nin going from Havre tn Paris. The father of fam\nlily provides horse and wagon. made OF pieces Of\nthe fir of Monnt Jura- In this he puts little straw\nfew kitchen utensils Of coarse pottery, and lit\ntie bag of Indian meal and this forms the amount\nOf their preparations for the journey. They drink\nwater and their thirst is satisfied and they\nter an inn ON their route, be small Or hum\nBile. When they reach the shore they sell the\nhorse, but the Wagon is taken in pieces and put\nboard the ship.\n\n\nThese plain and simple people are described as\nlarge and robust, with frames unmpared by the lux\nures of civilization On reaching the United States,\nthey commence their journey irYmediately for the\ninterior. Those who first came out, said to have\nencountered great trials and discouragements but\nthey have since become large proprietors, SO that\nthose who now arrive, welcomed by friends and\nImmediately to the comforts Of life.\n\n\nThe editor Of the paper before US remarks, that\nJudging from the numbers who lave emigrated with\nin two or three years, whole districts will eventually\nbe peoped by men Of that race 5, and the names Of\nAlsace, French Ecompte, &c. will be transferred to\nAmerica. N. Y. Dailyl",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2666,
+                "y0": 1205,
+                "x1": 3178,
+                "y1": 1245
+            },
+            "class": "headline",
+            "raw_text": "From the Baltimore .A4neric an.",
+            "legibility": "Questionable",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1694,
+                "y0": 286,
+                "x1": 2493,
+                "y1": 4360
+            },
+            "class": "article",
+            "raw_text": "let us take them ON their own ground. Does Gene\nraj Jackson revere the character, and approve Of thu\nconduct, OF the Father Of his countrys Let thu\nJournals OF Congress speak this subject. On tin\n18th Of December, l79i, the answer to the speecl\nof Gen. W ashngton, was under consideration in tn,\nHouse of Representatives. The concluding sen\ntence of the Address, was as follows For ou\ncountry's sake, for the sake of republican liberty\nit is our earnest wish, that your example n,ay b\nthe guide Of your successors, and thus, after beny\nthe ornament and safeguard Of the present age, be\ncome the patrimony Of our descendants\" MIR\nBlount moved to strike out this sentence, and An\ndrew Jackson, together with Governor Giles, hi\npresent supporter, voted in favor Of striking out tina\nsentence. Mr.. Bount then moved that the yea\nand nays be taken, that posterty might that h,\nwas not consenting to the address, and ANDREW JACK\nSON and GOVERNOR GILES voted against the address\nthe man who was \" first in war, first in peace, ant\n\n\nfirst in the hearts of his countrymen,'' was disog\nproved by Jackson, and he solemnly declared by hi\nvote that the example Of Washington might NOT b\nthe guide Of has Successors. And yet his partisan\n\n\nhave the hardihood to call him second Washington\n! safs,s -\n\n\n.andrew Jackson vs.. Washingfon-As the friend\nof Gen. Jackson pretend to compare him with tn\nFather of his country. and call him second Wash\n\n\nngton, it may not be amiss to examine the justice\nthese pretensions. On the 18th Of December 179e\nthe answer to the speech Of Gen. Washington, wa\nunder consideration in the house of Representative\nOF people grateful for his great and faithful sci\nvices.\n\n\nThe concluding sentence of the Address was a\nfollows For our country's sake, for the sake o\nrepublican liberty, it is earnest wish that yotl\nexample may be the guide Of y0ur successors, an\nthus after being the ornament and safegard of tn\npresent age, become the patrimony of our decen\ndants.\" MIR. Blount moved to strike out this sen\ntence, and Andrew Jackson, together with Gov. Giles\nhis present supporter voted in favor OF striking GU\nthat sentence.\n\n\nMr.. Blount then moved that the yeas and nays\ntaken that posterity might that he was not con\nsenting to the address, and Andrew Jackson 4 Gov\nGiles voted against the address, Nat. Advocate.\nFrom the 7soy. N. r SentineLl\nThe following article from the Buffalo Journal o\nthe 9th inst. viii be read with attention. The Jour\nnal has ever been decided supporter OF Mr.. Gin\nton, in state politics, aud the maniness and lndepen\ndence of its sentiments as expressed below, arr\ntherefore the more striking and honourable.\n\n\nlNr. Giaaton-It has been asserted in several o\nthe papers. that Mr. Clinton had finally formed ar\nalliance offensive 4 defensive, with Mr. Van Buren,\nand that of the articles Of the treaty was. tina\nClinton should support Gen. Jackson TOR the Presl\nGency, and himself be the candidate for Vice Pres\nident. The bodness s. air Of certainty with whicl\nthe assertion was made at first impressed us with\npartial belief Of its truth but, after much observa\nton, the unwelcome nature of the news; or th\ndulness of our perception, has prevented our com\n\n\ning fully to the understanding that such is the fact\nin its full sense The American first prOclaims thu\nnews-the Argus does not deny it; and the Rich\nmond Enquirer says he knew it six weeks ago Or\nthe back of this the Evening Post says: '.We arr\nindeed aware that the scurril0us columns of an Ad\nans paper proclaimed in broad terms the slander\nthat coalition had been entered into between Mr..\nClinton and Mr.. Van Buren,. by which the latter\nhad agreed to support the former for the office o\nVice President, but the falsehood unfortunate\none, and not beieved.''\n\n\nSo that look where we will (Mr. Clinton not vet\nhaving committed himselfby any public act) we are\nat loss how to determine the point. One thing\nis certan-let Mr.. Clinton 60 where he may, his\nformer friends will be found the firm and efficient\nsupporters of the present Administration. Upon\nthis subject the public mind is too well informed to\nbe in doubt.-There is no room for hesitation, for\nhowever exalted an opinion the people of this state\nmay have for the talents and services Mr. Clinton,\nthey cannot. i'll question affecting the prospective\nwelfare of the nation, sacrifice their own judgments\nin blind reliance on his reference-honestly\nformed, perhaps, but evidently founded in er-\nr0r.\n\n\nWe make this remark upon the supposition that it\nis true that Mr.. Clinton has manifested to some Of\nhis friends his preference for Gen. Jackson. True\nfalse, thanks to the intelligence of the people, we\nare not likely to witness the degradation of the\nState, by vassaage to the southern domination.\nNo coalition, with Martin Van Buren, at its head,\nand Noah and Coleman for its supporters, though it\nshould be sanctioned by the name of Mr.. Clinton,\ncan preva-more especially when formed for the\ncorrupt purposes of the union.\n\n\nE,o,,, tIo No,a n,rI 4,,,orsco, 0nfohor",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 46,
+                "y0": 355,
+                "x1": 867,
+                "y1": 4507
+            },
+            "class": "article",
+            "raw_text": "October Ia, 1927.\n\n\ns am happy to see recoil Of public opinion in\nfavor of the Administration. For some time after\nthe last Presidential election, many honest well\nmeaning men were carried TO the side Of the yMilia-\ngu Chefiain, by the popular cry of bargain, sale,\nbribery, corruption, intrigue\" &c. &c. and confess\nthat myself labored for short time under the same\ndeIuson and, indeed, strange it was to me, when,\non mature reflection, | took deliberate view of\npast events.\n\n\nThe recent publication of the letters on that\nsubject, and particularly Mr.. Buchanan's, of Penn\nsylvana, has operated on the public mind in my\nneighborhood, the sun does when he rises to dis\nperse the shades of night.\n\n\nIn the recent development alluded to, Clay\nhas gained triumph over his enemies, (or ra-\nthcr they have put themselyes) completely to\nshame rejoice in his triumph and hope every\nman OF correct principles may come out equally\npure, and pass through the ordeal of public cen\nsure with equal credit. have gone to a grea-\nter length on this subject than intended. but could\nsay much more. 1t is subject that think all i'm\nporant at this time to the American People. In\ndeed, it appears to me we are standing on preci-\npice that ought to be viewed with horror\n\n\nSOME OF THE GENERALS FRIENDS.\nThe following remarks by the Richmond Wing,\nrelative to his neghbor, the Enquirer, and, certain\nprominent members of the Opposition, should be\nread with great attention in small State of three\ncounties. True--nolhing is said about Delaware\npapers men but the application to them, in part\nthese remarks, will be easy, and follow almost ir-\nresstably.\n\n\nThat this support should be headed and recon-\nmended by his former adyersares-by men who\nfelt pretended TO feel the utmost horror at the\nmere possibility of his success-that his success\nwould endanger liberty and the republic itself, is\nphenomenon, which as 1t cannot be explained upon\nprinciples creditable to the human character, we\nshall leave altogether uninterrupted. fes--these\nmen not only opposed Gen. jackson, but they were\nthe first 10 do it-they not only the first but\nthey carried their enmity to the most violent ex-\ntreme--they exposed his MANY military vioences---\nIlls contempt of orders his ihractons of the consti-\ntulion-ls disregard OF the rights of persons-his\ndespotlc resort to court martals to ails and to the\nOffice of the hangman, whenever his wishes were OBJ\nstructed, or his imperial temper provoked. Reas-\nonns upon these exhibitions Of character these gem\ntemen affirmed that Gen jackson was dangerous in\naRepubc-that he had never been vested with\nauthority without grossly abusing it--that he had in\nevery Instance sacrificed the law and the constitu-\nton, personal rights, the liberty of the citizen and\nhumanity itself to his ungoyernable passions-and\nthat he was disqualified by nature, by habit and by\neducation, for any civil office whatever. His pub\nlie conduct was scrutinzed with rigorous severity,\nand the Enquirer groaned under the load of denun-\nclatlon and appeals to the people to their lib\ncritics from the grasp ofthe Military Despot. Could\npossibly be imagined, that any state of things\nwould thereafter enlist the support of these gen\n4 leEaen for Gen. Jackson Could if be believed that\nmen of responsibility and sense, would in so short\natime give the lie to their former declarations, or\nsubject themselves to the suspicion of present in\nsincerity, when they profess their faith in General\nJackson's capacity 10 rule this country\n\n\nAn opposition thus vicious in its origin could be\nsupported only by means equally yicious-and hence\nthat rapid succession OF fabricated charges directed\nagainst the honor and purity of the Administration\nthe employment of such venal Instruments as dis\ngrace the American Press--the innumerable false\nmoods which are coined and thrown into circulation\nwith rapldity which has kept the people in con-\nslant state of excitement, and left them no time to\n\n\ninvestigate the truth Of one, before they called\n\"Ponto examine another Eighteen months ago, we\npronounced this opposition. farther than Virginia\nand North Carolina were engaged in it, (and drew\nupon ourselves by doing so, denunciation in the Sc\nnate of the U. States, factious and unprincipled\ntirglnla and N. Carolina alone, could upon princi-\nP'e' oppose this administration, for they alone had\n\"aged consistent war against that latitudinous con-\nSuchon which, practlsed under all administrations,\npu' more expressly recognized by Mr.. Monroe's,\n,aa been, or it was conjectured, would be adopted\ny 4 t mat OF MT. Adams. Beyond these two States\ncalhoun, Van Buren, Benton, McDufie, Woodbury.\n\n\n\"A. al was facton--for beyond these two States, and\nperhaPs Georgia in part all without exception, en-\ns\"seo IN the uncompromising hostility to Mr.. Ad-\nss and his administration, had invariably, from the\npsgnnng of their political lives, supported and ap\n\n\nthat construction of the Constitution and the\nI'easures to which it led, upon the basis Of which\n\n\nne new administration proposed to conduct the Gov\n\n\n'lheht. When these men were observed sudden\n\n\nana simultaneously, to renounce their old opin-",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 328,
+                "y0": 290,
+                "x1": 828,
+                "y1": 343
+            },
+            "class": "headline",
+            "raw_text": "FAuauIER County, VIRGINIA,",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -2
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 510,
+                "y0": 351,
+                "x1": 793,
+                "y1": 382
+            },
+            "class": "author",
+            "raw_text": "October Ia, 1897.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 883,
+                "y0": 1561,
+                "x1": 1691,
+                "y1": 1696
+            },
+            "class": "article",
+            "raw_text": "The following is statement, showing the numb\ner of graduates at several principal colleges, in FIVE\nsuccessive years.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1030,
+                "y0": 1513,
+                "x1": 1543,
+                "y1": 1558
+            },
+            "class": "headline",
+            "raw_text": "VIEW OF THE COLLEGES.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1698,
+                "y0": 4810,
+                "x1": 2497,
+                "y1": 5266
+            },
+            "class": "article",
+            "raw_text": "1t is undoubtedly true that all vaccinated persons\ndo not resist the contagon of the varoloid, small\n\n\npox, but from what has occurred here, and in other\nplaces in this country and Europe it may be safely\ninferred that the kline pox affords degree of secur-\nty as great can be reasonably expected from any\nhuman invention,-as great certainly small pox it.\nself. Only small proportion lone in twenty. ac-\ncording to the London Quarterly Review of vacci-\nmated persons susceptible to the contagion OF the\nyariood, and these, with very exceptions, suf\n\n\nfer none Of its dangers; in them its violence is di-",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2011,
+                "y0": 4779,
+                "x1": 2476,
+                "y1": 4819
+            },
+            "class": "headline",
+            "raw_text": "NORTHAMPTON, Mass Oct. 8",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 1694,
+                "y0": 4328,
+                "x1": 2497,
+                "y1": 4750
+            },
+            "class": "article",
+            "raw_text": "From, the New- Pork american, October \"a.\n\n\nBY the Cadmus, arrived at this port last evenings\nwe have received our files of Paris and Havre pa\npers to the 18th Sept.\n\n\nThe quarter to which we look for intelligence of\nprominent interest, Greece, yields much upon which\nthe friends of the cause of liberty may found their\nfluctuations. The intervention of the European pow\ners had assumeda serious aspect, and a combined\nfeet had formed junction off Milo to overlook and\ndictate the desnes of the Greeks.",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 870,
+                "y0": 2962,
+                "x1": 1682,
+                "y1": 5275
+            },
+            "class": "article",
+            "raw_text": "FROM the Nea0 York Commercial of SATURDAY..\n\n\nIMPORTANT TO THE PEopLE!-In addition to the\npartial development OF part of the jackson ope-\nratlons which we gave yestelday,we now enabled\nto make another suggestion, OF momentous mpol\ntance to the people. We are advised from Albany\nthat the Albany Jackson Regency have it in conten-\nplation, if they carry the Legislature at the ap-\npreaching election, TO REPEAL THE ELECt\nTORAL LAW, which the people, in their majesty,\nwrung from them two years since, and again U.s.\nURP The POWER OF APPOIN ling THE\nELEC TORS OF PRESIDENT THEMSELVES. +.\n1t is the unquestonabe determination of these men,\nthat jackson shall be President, though his trium-\npha car be wheeled over the PROSTATE liberties OF\nthe People!\n\n\nFrom, tie Nesv York National .adyocate Of, Saturday\n\n\nTIE ELECTORAL Law IN DANoER.-it is not to\nbe doubted that should the combined powerof Clinton\nand Van Buren, send to the next legislature Of this\nstate majority of persons subservient to their views\nthey would instantly make sacrifice of the elcctor\nal law, and take the choice OF President electors\ninto their own hands. After great struggle the\npeople Of this state have obtained the just privilege\nof themselves appointing the persons who shall elect\nthe President and Vice President. Let them now\nbeware how they hazard this important and popular\nright by sending to the Legislature those who will de-\nprlve them OF 1t. We raise voice of warning; we\nbid them beware in 1927 of those men who in 1928\nspurned, and contumaciously spurned, the loud\nvoice of the Freemen of this state. The same man\nnow as then manages the scenery, and he will not\nhesitate when ehas power to use it. Again we re-\npeat, preserve your electoral Iaw-and do it at the\npolls in the men you send to Albany as your repre-\nsentatives.\n\n\nFrom the United States Gazette\n| Will somebody mend the pocket Of Major Noah's\naam.entionables2 When Delaware promised to vote\nfor Jackson, the Major said that Delaware had heart\nenough for the whole United States. When Della\nware did vote for the administration, the Major said\nhe ''could put the whole concern in his breeches\npocket\"-doubtless the worthy major overlooked\n| Mr.. Duponts establishment.\n\n\nFrom the Neu- York Commercial .4dvertiser.\n\n\nGeneral Jackson and General Washington.- -\nThe friends of the military candidate for the Presi-\ndency, have hitherto had reply which they have\ndeemed convincing, to the apprehension expressed\nby sober citizens of the danger Of elevating mere\nsoldier and Court Martial Judgeto such high and\nresponsible station that of Head Of our republic.\nThis knock down argument has been, that General\nWashington was soldier too and that General Jack\nson would tread in the footsteps Of so illusrious\npredecessor The comparison Of the two names\nwas modest enough on their part to be sure; But",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 913,
+                "y0": 2962,
+                "x1": 1656,
+                "y1": 3006
+            },
+            "class": "headline",
+            "raw_text": "From the NeaO York Commercial of Safatrduu.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": -1
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 3642,
+                "y0": 277,
+                "x1": 4597,
+                "y1": 4199
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                11,
+                1
+            ],
+            "headline": "For the Delaware Journal.",
+            "article": "Mr.. EDITOR,\n\n\n1t is an unpleasant task to take any notice Of a\nbeing who is so far sunk as to be proud of his own\nshame, and one who glories in being known as the\nauthor of pitful and disgracefu falsehoods. have\nbeen led to these remarks by the notice OF several\npieces published in paper in your piace--which\nonce had some claim to decency !; but by admitting\nthe production Of all coors into its columns, has des\ncended to situation that may be pitied but cannot\nbe envied. will now take some notice of piece\npublished in the Delaware Gazette of the 10Th,\nsigned g. A LOCKER on This, by the by, is\nry appropriate signature for man who has the lib\nerty to look on the best Houses 10 his Neghborhood\nbut as 10 the inside ofthe House where he is pleas\ned to say he witnessed such scenes, he knows NO\nsuch thing for his credit is not sufficient to gain\nhim an admttance into its door. do not lind fault\nwith his notice of the gentlemen who attended this\nmeeting. They care nothing for his falsehoods\nknowing we'll the contempt in which his character\nis held but the abuse ofGovernor Kent is the sun\nkindest cut of all-lt is but very short time since\nthe Governor exercised his constitutional preroga\ntive to save this same LOCKER on from the punish\nment due to his crimes (; and it may not be amiss TO\nstate the manner of deceiving the Governor out of\nthis pardon. 1t was done by stating that Mr.. Hark\ners famous correspondent engaged in procuring\nsubjects for dissection for the Young Students of\nMedicine in Elkton, on the night which he was\ncharged with committing certain crimes. hearth\nly wish Mr.. Harker all the advantage of this Resur\nrectionists talents, and inform (.My. LOCKER on)\nthat when he favors the public with another decent\naccount of the People Of Elkton will give more\nminute account of him. CASTIGATOR.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2696,
+                    "y0": 3808,
+                    "x1": 3139,
+                    "y1": 3852
+                },
+                {
+                    "x0": 2509,
+                    "y0": 3856,
+                    "x1": 3326,
+                    "y1": 5266
+                }
+            ],
+            "bbox": [
+                2509,
+                3808,
+                3326,
+                5266
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-10-26_p3_sn83025530_00271740220_1827102601_0234.json"
+        },
+        {
+            "object_ids": [
+                2
+            ],
+            "headline": "",
+            "article": "n their hostility to the administration. Exclude a\nlew, very lew, conscientious men, who act upon\nparticular constitutional views and the opposition in\nboth houses, beginning with the Vice President ana\nending with kreuier, of political put.idily\n\n\nThe Jefferson County (Va.) Anti-Jackson meet\ning in their preamble thus express themselves\n\n\nThe citizens now assembled have seen with as\ntonshment and regret, and not without alarm, the\ncourse pursued by many of the opponents of the\npresent Administration OF the General Government\nthey have witnessed an unremitted and bitter hos\ntility manifested to Administration pursuing mea-\nsures which have received the sanction Of preced-\ning administrations, and the appreciation of the peo-\npie themselves-and they have seen urged, with AN\nunwearied pertinacty, objections which, in their\nopinion, are aimed at instead OF measures They\nhave seen public servants prescribed, whose whole\nlives and talents have been devoted to the common\nwelfare and glory of our country, upon suspicion.\nunsustaned by facts-and they have witnessed these\nsuspicious urged an every possible form for nearl\n\n\nthree gears, 1oathout the exhibition Of single proc\nzuhich reason admit Under these circumstances\nthey deem it their duty TO sustain, by their inAu\nence and example, however humble, an Administra\nton which they conscienousy believe to have a\nheart the best interests ofthe country, and to be full\nly deserving the mead Of appreciation.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 874,
+                    "y0": 303,
+                    "x1": 1678,
+                    "y1": 1501
+                }
+            ],
+            "bbox": [
+                874,
+                303,
+                1678,
+                1501
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-10-26_p3_sn83025530_00271740220_1827102601_0234.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "minisLed, and it is mitigated and converted into q\nharmless disease DIR. Thompson in his account OF\nthe sarlooid epidemic which prevailed in Scotland\nin 1913 and 1919, states that when the small pox at-\ntackled those who had been previously vaccinaed, it\nwas almost invariably so mild and So exactly resem-\nbled the chicken pox that he could not distinguish\nthem.\n\n\nWe learn that there few cases of the varioloid\ndisease in the western part Of Cummingtou, and one\nin Westhanpton. Gazette.\n\n\n: Savings Bank.-The last half gears report Of q\nsingle Savings Bank in London, gives an aggregate\nof deposites for that period, of f2ss,2sO l5s. one\nthird of which was by females.\n\n\nThe utility of those institutions is becoming every\nday more apparent, and the solid advantages deriv-\nweekly earnings to the accumulation Of fund, that\nmay enable them to procure in after days comfor-\ntable subsistence, ought to induce every enc to be-\ncome depositor.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2518,
+                    "y0": 325,
+                    "x1": 3335,
+                    "y1": 1180
+                }
+            ],
+            "bbox": [
+                2518,
+                325,
+                3335,
+                1180
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-10-26_p3_sn83025530_00271740220_1827102601_0234.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "writer in the United States Gazette, declares\nthat \" the majority in favour Of the Administration\nin the city OF Philadelphia, at this time, if the whole\nstrength Of both parties were brought out, would\ncsGeed ono thousand votes.\" The reasons which he\ngives for this opinion are-that hundreds voted for\nMr. Hemphill who were still opposed to the election\nOF Gen. jackson, and that third, least of the\nmembers the society Of Friends did not go to the\nPolls.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 874,
+                    "y0": 2494,
+                    "x1": 1682,
+                    "y1": 2933
+                }
+            ],
+            "bbox": [
+                874,
+                2494,
+                1682,
+                2933
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-10-26_p3_sn83025530_00271740220_1827102601_0234.json"
+        },
+        {
+            "object_ids": [
+                13,
+                5
+            ],
+            "headline": "From the Baltimore .A4neric an.",
+            "article": "GlBRALTEK.-Ihe he advlces from GIbrater, are\nto the 18th ult. The Chronicle of the 14th states\nthat the Insurgents Spain, to the number Of about\n1000, took possession Of Reus, lin Catalonia) on the\n9Th of September, and imprisoned the principal n-\nhabitants until they paid certain contributions. The\nrebels had previously entered Vendrel, where they\nlevied $4,000 and were masters Of Blanes and 9TH\ner places on the coast 400 troops had arrived at\nTarragona from Valencia, and subsequently march\ned out, The Madrid Gazette of the 4h, which had\npreviously kept strict silence on the matters, gives\ndetailed account of the proceedings of the rebels\nsince 1925, and concludes with royal order, di-\nrectng considerable body Of troops of the line to\nbe sent to Catalonia, and announcing that general\nofficer will be appointed to superintend the military\noperations, with powers from his Majesty to pardon\nthe rebels, excepting the leaders.\n\n\nDR.. Muse has made this season, on fve acres Of\nland, notwithstanding severe drought ninety bar\nTeis OF shell-corn, wanting peck and half-that is\nninety bushels per acre, wanting small fraction of\nbushel. On ten acres he made also, this\nhundred and fytOo barrels shelLeorn, or 760 bush\nels-that is 70 bushels per acre\n\n\nEastern Shore Chronicle.\n\n\nEMYGRATIoNs FROM THE CONTINENT OF EURopf.\nA French paper which has been lying before us for\nsome time, mentions facts relating to the emi-\ngrations from Switzerland and Alsace, which we are\ndesirous Of publishing.\n\n\nHavre has been for several years the point of en-\nbarkation for great numbers Of poor families from\nAsace and Switzerland, for the U. States and the\ndetails of their prudence and econumy before leav-\ning Europe, would be as remarkable as their indus.\ntry and success usually are after their arrival on this\nside of the Atlantic. They performed journey Of\ntwo hundred leagues through the centre OF France,\nat less expence than conlon traveller would spend\nin going from Havre tn Paris. The father of fam\nlily provides horse and wagon. made OF pieces Of\nthe fir of Monnt Jura- In this he puts little straw\nfew kitchen utensils Of coarse pottery, and lit\ntie bag of Indian meal and this forms the amount\nOf their preparations for the journey. They drink\nwater and their thirst is satisfied and they\nter an inn ON their route, be small Or hum\nBile. When they reach the shore they sell the\nhorse, but the Wagon is taken in pieces and put\nboard the ship.\n\n\nThese plain and simple people are described as\nlarge and robust, with frames unmpared by the lux\nures of civilization On reaching the United States,\nthey commence their journey irYmediately for the\ninterior. Those who first came out, said to have\nencountered great trials and discouragements but\nthey have since become large proprietors, SO that\nthose who now arrive, welcomed by friends and\nImmediately to the comforts Of life.\n\n\nThe editor Of the paper before US remarks, that\nJudging from the numbers who lave emigrated with\nin two or three years, whole districts will eventually\nbe peoped by men Of that race 5, and the names Of\nAlsace, French Ecompte, &c. will be transferred to\nAmerica. N. Y. Dailyl",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2666,
+                    "y0": 1205,
+                    "x1": 3178,
+                    "y1": 1245
+                },
+                {
+                    "x0": 2518,
+                    "y0": 1257,
+                    "x1": 3343,
+                    "y1": 3787
+                }
+            ],
+            "bbox": [
+                2518,
+                1205,
+                3343,
+                3787
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-10-26_p3_sn83025530_00271740220_1827102601_0234.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "let us take them ON their own ground. Does Gene\nraj Jackson revere the character, and approve Of thu\nconduct, OF the Father Of his countrys Let thu\nJournals OF Congress speak this subject. On tin\n18th Of December, l79i, the answer to the speecl\nof Gen. W ashngton, was under consideration in tn,\nHouse of Representatives. The concluding sen\ntence of the Address, was as follows For ou\ncountry's sake, for the sake of republican liberty\nit is our earnest wish, that your example n,ay b\nthe guide Of your successors, and thus, after beny\nthe ornament and safeguard Of the present age, be\ncome the patrimony Of our descendants\" MIR\nBlount moved to strike out this sentence, and An\ndrew Jackson, together with Governor Giles, hi\npresent supporter, voted in favor Of striking out tina\nsentence. Mr.. Bount then moved that the yea\nand nays be taken, that posterty might that h,\nwas not consenting to the address, and ANDREW JACK\nSON and GOVERNOR GILES voted against the address\nthe man who was \" first in war, first in peace, ant\n\n\nfirst in the hearts of his countrymen,'' was disog\nproved by Jackson, and he solemnly declared by hi\nvote that the example Of Washington might NOT b\nthe guide Of has Successors. And yet his partisan\n\n\nhave the hardihood to call him second Washington\n! safs,s -\n\n\n.andrew Jackson vs.. Washingfon-As the friend\nof Gen. Jackson pretend to compare him with tn\nFather of his country. and call him second Wash\n\n\nngton, it may not be amiss to examine the justice\nthese pretensions. On the 18th Of December 179e\nthe answer to the speech Of Gen. Washington, wa\nunder consideration in the house of Representative\nOF people grateful for his great and faithful sci\nvices.\n\n\nThe concluding sentence of the Address was a\nfollows For our country's sake, for the sake o\nrepublican liberty, it is earnest wish that yotl\nexample may be the guide Of y0ur successors, an\nthus after being the ornament and safegard of tn\npresent age, become the patrimony of our decen\ndants.\" MIR. Blount moved to strike out this sen\ntence, and Andrew Jackson, together with Gov. Giles\nhis present supporter voted in favor OF striking GU\nthat sentence.\n\n\nMr.. Blount then moved that the yeas and nays\ntaken that posterity might that he was not con\nsenting to the address, and Andrew Jackson 4 Gov\nGiles voted against the address, Nat. Advocate.\nFrom the 7soy. N. r SentineLl\nThe following article from the Buffalo Journal o\nthe 9th inst. viii be read with attention. The Jour\nnal has ever been decided supporter OF Mr.. Gin\nton, in state politics, aud the maniness and lndepen\ndence of its sentiments as expressed below, arr\ntherefore the more striking and honourable.\n\n\nlNr. Giaaton-It has been asserted in several o\nthe papers. that Mr. Clinton had finally formed ar\nalliance offensive 4 defensive, with Mr. Van Buren,\nand that of the articles Of the treaty was. tina\nClinton should support Gen. Jackson TOR the Presl\nGency, and himself be the candidate for Vice Pres\nident. The bodness s. air Of certainty with whicl\nthe assertion was made at first impressed us with\npartial belief Of its truth but, after much observa\nton, the unwelcome nature of the news; or th\ndulness of our perception, has prevented our com\n\n\ning fully to the understanding that such is the fact\nin its full sense The American first prOclaims thu\nnews-the Argus does not deny it; and the Rich\nmond Enquirer says he knew it six weeks ago Or\nthe back of this the Evening Post says: '.We arr\nindeed aware that the scurril0us columns of an Ad\nans paper proclaimed in broad terms the slander\nthat coalition had been entered into between Mr..\nClinton and Mr.. Van Buren,. by which the latter\nhad agreed to support the former for the office o\nVice President, but the falsehood unfortunate\none, and not beieved.''\n\n\nSo that look where we will (Mr. Clinton not vet\nhaving committed himselfby any public act) we are\nat loss how to determine the point. One thing\nis certan-let Mr.. Clinton 60 where he may, his\nformer friends will be found the firm and efficient\nsupporters of the present Administration. Upon\nthis subject the public mind is too well informed to\nbe in doubt.-There is no room for hesitation, for\nhowever exalted an opinion the people of this state\nmay have for the talents and services Mr. Clinton,\nthey cannot. i'll question affecting the prospective\nwelfare of the nation, sacrifice their own judgments\nin blind reliance on his reference-honestly\nformed, perhaps, but evidently founded in er-\nr0r.\n\n\nWe make this remark upon the supposition that it\nis true that Mr.. Clinton has manifested to some Of\nhis friends his preference for Gen. Jackson. True\nfalse, thanks to the intelligence of the people, we\nare not likely to witness the degradation of the\nState, by vassaage to the southern domination.\nNo coalition, with Martin Van Buren, at its head,\nand Noah and Coleman for its supporters, though it\nshould be sanctioned by the name of Mr.. Clinton,\ncan preva-more especially when formed for the\ncorrupt purposes of the union.\n\n\nE,o,,, tIo No,a n,rI 4,,,orsco, 0nfohor",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1694,
+                    "y0": 286,
+                    "x1": 2493,
+                    "y1": 4360
+                }
+            ],
+            "bbox": [
+                1694,
+                286,
+                2493,
+                4360
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-10-26_p3_sn83025530_00271740220_1827102601_0234.json"
+        },
+        {
+            "object_ids": [
+                10,
+                18,
+                7
+            ],
+            "headline": "FAuauIER County, VIRGINIA,",
+            "article": "October Ia, 1927.\n\n\ns am happy to see recoil Of public opinion in\nfavor of the Administration. For some time after\nthe last Presidential election, many honest well\nmeaning men were carried TO the side Of the yMilia-\ngu Chefiain, by the popular cry of bargain, sale,\nbribery, corruption, intrigue\" &c. &c. and confess\nthat myself labored for short time under the same\ndeIuson and, indeed, strange it was to me, when,\non mature reflection, | took deliberate view of\npast events.\n\n\nThe recent publication of the letters on that\nsubject, and particularly Mr.. Buchanan's, of Penn\nsylvana, has operated on the public mind in my\nneighborhood, the sun does when he rises to dis\nperse the shades of night.\n\n\nIn the recent development alluded to, Clay\nhas gained triumph over his enemies, (or ra-\nthcr they have put themselyes) completely to\nshame rejoice in his triumph and hope every\nman OF correct principles may come out equally\npure, and pass through the ordeal of public cen\nsure with equal credit. have gone to a grea-\nter length on this subject than intended. but could\nsay much more. 1t is subject that think all i'm\nporant at this time to the American People. In\ndeed, it appears to me we are standing on preci-\npice that ought to be viewed with horror\n\n\nSOME OF THE GENERALS FRIENDS.\nThe following remarks by the Richmond Wing,\nrelative to his neghbor, the Enquirer, and, certain\nprominent members of the Opposition, should be\nread with great attention in small State of three\ncounties. True--nolhing is said about Delaware\npapers men but the application to them, in part\nthese remarks, will be easy, and follow almost ir-\nresstably.\n\n\nThat this support should be headed and recon-\nmended by his former adyersares-by men who\nfelt pretended TO feel the utmost horror at the\nmere possibility of his success-that his success\nwould endanger liberty and the republic itself, is\nphenomenon, which as 1t cannot be explained upon\nprinciples creditable to the human character, we\nshall leave altogether uninterrupted. fes--these\nmen not only opposed Gen. jackson, but they were\nthe first 10 do it-they not only the first but\nthey carried their enmity to the most violent ex-\ntreme--they exposed his MANY military vioences---\nIlls contempt of orders his ihractons of the consti-\ntulion-ls disregard OF the rights of persons-his\ndespotlc resort to court martals to ails and to the\nOffice of the hangman, whenever his wishes were OBJ\nstructed, or his imperial temper provoked. Reas-\nonns upon these exhibitions Of character these gem\ntemen affirmed that Gen jackson was dangerous in\naRepubc-that he had never been vested with\nauthority without grossly abusing it--that he had in\nevery Instance sacrificed the law and the constitu-\nton, personal rights, the liberty of the citizen and\nhumanity itself to his ungoyernable passions-and\nthat he was disqualified by nature, by habit and by\neducation, for any civil office whatever. His pub\nlie conduct was scrutinzed with rigorous severity,\nand the Enquirer groaned under the load of denun-\nclatlon and appeals to the people to their lib\ncritics from the grasp ofthe Military Despot. Could\npossibly be imagined, that any state of things\nwould thereafter enlist the support of these gen\n4 leEaen for Gen. Jackson Could if be believed that\nmen of responsibility and sense, would in so short\natime give the lie to their former declarations, or\nsubject themselves to the suspicion of present in\nsincerity, when they profess their faith in General\nJackson's capacity 10 rule this country\n\n\nAn opposition thus vicious in its origin could be\nsupported only by means equally yicious-and hence\nthat rapid succession OF fabricated charges directed\nagainst the honor and purity of the Administration\nthe employment of such venal Instruments as dis\ngrace the American Press--the innumerable false\nmoods which are coined and thrown into circulation\nwith rapldity which has kept the people in con-\nslant state of excitement, and left them no time to\n\n\ninvestigate the truth Of one, before they called\n\"Ponto examine another Eighteen months ago, we\npronounced this opposition. farther than Virginia\nand North Carolina were engaged in it, (and drew\nupon ourselves by doing so, denunciation in the Sc\nnate of the U. States, factious and unprincipled\ntirglnla and N. Carolina alone, could upon princi-\nP'e' oppose this administration, for they alone had\n\"aged consistent war against that latitudinous con-\nSuchon which, practlsed under all administrations,\npu' more expressly recognized by Mr.. Monroe's,\n,aa been, or it was conjectured, would be adopted\ny 4 t mat OF MT. Adams. Beyond these two States\ncalhoun, Van Buren, Benton, McDufie, Woodbury.\n\n\n\"A. al was facton--for beyond these two States, and\nperhaPs Georgia in part all without exception, en-\ns\"seo IN the uncompromising hostility to Mr.. Ad-\nss and his administration, had invariably, from the\npsgnnng of their political lives, supported and ap\n\n\nthat construction of the Constitution and the\nI'easures to which it led, upon the basis Of which\n\n\nne new administration proposed to conduct the Gov\n\n\n'lheht. When these men were observed sudden\n\n\nana simultaneously, to renounce their old opin-",
+            "byline": "October Ia, 1897.",
+            "bbox_list": [
+                {
+                    "x0": 328,
+                    "y0": 290,
+                    "x1": 828,
+                    "y1": 343
+                },
+                {
+                    "x0": 510,
+                    "y0": 351,
+                    "x1": 793,
+                    "y1": 382
+                },
+                {
+                    "x0": 46,
+                    "y0": 355,
+                    "x1": 867,
+                    "y1": 4507
+                }
+            ],
+            "bbox": [
+                46,
+                290,
+                867,
+                4507
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-10-26_p3_sn83025530_00271740220_1827102601_0234.json"
+        },
+        {
+            "object_ids": [
+                12,
+                8
+            ],
+            "headline": "VIEW OF THE COLLEGES.",
+            "article": "The following is statement, showing the numb\ner of graduates at several principal colleges, in FIVE\nsuccessive years.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1030,
+                    "y0": 1513,
+                    "x1": 1543,
+                    "y1": 1558
+                },
+                {
+                    "x0": 883,
+                    "y0": 1561,
+                    "x1": 1691,
+                    "y1": 1696
+                }
+            ],
+            "bbox": [
+                883,
+                1513,
+                1691,
+                1696
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-10-26_p3_sn83025530_00271740220_1827102601_0234.json"
+        },
+        {
+            "object_ids": [
+                16,
+                9
+            ],
+            "headline": "NORTHAMPTON, Mass Oct. 8",
+            "article": "1t is undoubtedly true that all vaccinated persons\ndo not resist the contagon of the varoloid, small\n\n\npox, but from what has occurred here, and in other\nplaces in this country and Europe it may be safely\ninferred that the kline pox affords degree of secur-\nty as great can be reasonably expected from any\nhuman invention,-as great certainly small pox it.\nself. Only small proportion lone in twenty. ac-\ncording to the London Quarterly Review of vacci-\nmated persons susceptible to the contagion OF the\nyariood, and these, with very exceptions, suf\n\n\nfer none Of its dangers; in them its violence is di-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2011,
+                    "y0": 4779,
+                    "x1": 2476,
+                    "y1": 4819
+                },
+                {
+                    "x0": 1698,
+                    "y0": 4810,
+                    "x1": 2497,
+                    "y1": 5266
+                }
+            ],
+            "bbox": [
+                1698,
+                4779,
+                2497,
+                5266
+            ],
+            "full_article_id": 10,
+            "id": "10_1827-10-26_p3_sn83025530_00271740220_1827102601_0234.json"
+        },
+        {
+            "object_ids": [
+                14
+            ],
+            "headline": "",
+            "article": "From, the New- Pork american, October \"a.\n\n\nBY the Cadmus, arrived at this port last evenings\nwe have received our files of Paris and Havre pa\npers to the 18th Sept.\n\n\nThe quarter to which we look for intelligence of\nprominent interest, Greece, yields much upon which\nthe friends of the cause of liberty may found their\nfluctuations. The intervention of the European pow\ners had assumeda serious aspect, and a combined\nfeet had formed junction off Milo to overlook and\ndictate the desnes of the Greeks.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1694,
+                    "y0": 4328,
+                    "x1": 2497,
+                    "y1": 4750
+                }
+            ],
+            "bbox": [
+                1694,
+                4328,
+                2497,
+                4750
+            ],
+            "full_article_id": 15,
+            "id": "15_1827-10-26_p3_sn83025530_00271740220_1827102601_0234.json"
+        },
+        {
+            "object_ids": [
+                19,
+                15
+            ],
+            "headline": "From the NeaO York Commercial of Safatrduu.",
+            "article": "FROM the Nea0 York Commercial of SATURDAY..\n\n\nIMPORTANT TO THE PEopLE!-In addition to the\npartial development OF part of the jackson ope-\nratlons which we gave yestelday,we now enabled\nto make another suggestion, OF momentous mpol\ntance to the people. We are advised from Albany\nthat the Albany Jackson Regency have it in conten-\nplation, if they carry the Legislature at the ap-\npreaching election, TO REPEAL THE ELECt\nTORAL LAW, which the people, in their majesty,\nwrung from them two years since, and again U.s.\nURP The POWER OF APPOIN ling THE\nELEC TORS OF PRESIDENT THEMSELVES. +.\n1t is the unquestonabe determination of these men,\nthat jackson shall be President, though his trium-\npha car be wheeled over the PROSTATE liberties OF\nthe People!\n\n\nFrom, tie Nesv York National .adyocate Of, Saturday\n\n\nTIE ELECTORAL Law IN DANoER.-it is not to\nbe doubted that should the combined powerof Clinton\nand Van Buren, send to the next legislature Of this\nstate majority of persons subservient to their views\nthey would instantly make sacrifice of the elcctor\nal law, and take the choice OF President electors\ninto their own hands. After great struggle the\npeople Of this state have obtained the just privilege\nof themselves appointing the persons who shall elect\nthe President and Vice President. Let them now\nbeware how they hazard this important and popular\nright by sending to the Legislature those who will de-\nprlve them OF 1t. We raise voice of warning; we\nbid them beware in 1927 of those men who in 1928\nspurned, and contumaciously spurned, the loud\nvoice of the Freemen of this state. The same man\nnow as then manages the scenery, and he will not\nhesitate when ehas power to use it. Again we re-\npeat, preserve your electoral Iaw-and do it at the\npolls in the men you send to Albany as your repre-\nsentatives.\n\n\nFrom the United States Gazette\n| Will somebody mend the pocket Of Major Noah's\naam.entionables2 When Delaware promised to vote\nfor Jackson, the Major said that Delaware had heart\nenough for the whole United States. When Della\nware did vote for the administration, the Major said\nhe ''could put the whole concern in his breeches\npocket\"-doubtless the worthy major overlooked\n| Mr.. Duponts establishment.\n\n\nFrom the Neu- York Commercial .4dvertiser.\n\n\nGeneral Jackson and General Washington.- -\nThe friends of the military candidate for the Presi-\ndency, have hitherto had reply which they have\ndeemed convincing, to the apprehension expressed\nby sober citizens of the danger Of elevating mere\nsoldier and Court Martial Judgeto such high and\nresponsible station that of Head Of our republic.\nThis knock down argument has been, that General\nWashington was soldier too and that General Jack\nson would tread in the footsteps Of so illusrious\npredecessor The comparison Of the two names\nwas modest enough on their part to be sure; But",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 913,
+                    "y0": 2962,
+                    "x1": 1656,
+                    "y1": 3006
+                },
+                {
+                    "x0": 870,
+                    "y0": 2962,
+                    "x1": 1682,
+                    "y1": 5275
+                }
+            ],
+            "bbox": [
+                870,
+                2962,
+                1682,
+                5275
+            ],
+            "full_article_id": 16,
+            "id": "16_1827-10-26_p3_sn83025530_00271740220_1827102601_0234.json"
+        }
+    ]
+}

@@ -1,0 +1,1340 @@
+{
+    "lccn": {
+        "title": "The Wilmingtonian, and Delaware advertiser.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2638-1117",
+        "lccn": "sn85042523",
+        "start_year": "1825",
+        "end_year": "1827",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [
+            "sn88053080"
+        ],
+        "successors": [
+            "sn84020426"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn85042523",
+        "edition": "ed-01",
+        "date": "1827-09-06",
+        "pages": [
+            "seq-4",
+            "seq-3",
+            "seq-2",
+            "seq-1"
+        ]
+    },
+    "page_number": "3",
+    "scan": {
+        "lccn": "sn85042523",
+        "edition": "ed-01",
+        "date": "1827-09-06",
+        "page": "3",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn85042523/1827-09-06/ed-1/seq-3.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn85042523/1827-09-06/ed-1/seq-3/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn85042523/1827-09-06/ed-1/seq-3/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn85042523/00271740244/1827090601/0851.jp2",
+        "height": 5560,
+        "width": 3736
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 769,
+                "y0": 464,
+                "x1": 1430,
+                "y1": 1738
+            },
+            "class": "article",
+            "raw_text": "Prornostics of the zueather indicated bg\nbirds and other animals A German writer,\nwhose work is noticed in the \"Bulletin des\nSciences\" says that BIRDS, ana some ami\nmails. have foresight of the changes Of the\nweather. The feathers Of birds are electri-\ncal to high degree. and he ascribcs to this\ntheir sensibility to change in the atmos-\nphere. He gives the following indications,\namong others.\n\n\nSigns of far 7oeather.--NVhen swallows\nny very high, (because flies are then high in\nthe air;) ravens and hawks make more noise\nthan usual; wrens sing from 9 to 10 o'clock\nA. M. and from to =. NJ. (their song af-\nter these hours announces rain;) glow worms\nare stirring in the evening; insects and flies\nsport in the air after sunset; bats show\nthemselves late; spiders weave their nets\nquietly, and extend them much.\n\n\nSigns of Rain-When ducks and geese\nplunge into the water, shake themselves and\nmake a noise; swallows fly low; domestic\nfowls, partridges and small birds sport in\nthe sand; cocks crow Immediately after sun\nset; larks, sparrows, linnets and robbins\nsing or make noise IN the mernings; pea\ncocks and owls CRY louder and more frequent\nthan usual in the night; sheep and goats\nskip about and quarrel; hogs play and scat\nter about their food; cats rub their head and\nears; dogs become restless, scratch the\nground, and growi in barking; foxes bark ;\nfrogs croak moro than usual; bats do not\nleave their retreats III the evening; spiders\nwork but little, and make short threads /;\nflies bite the legs of horses and cattle, and\nfly about tumultuously; fish are disturbed.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 1034,
+                "y0": 430,
+                "x1": 1169,
+                "y1": 461
+            },
+            "class": "headline",
+            "raw_text": "SIGNS.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2111,
+                "y0": 1598,
+                "x1": 2776,
+                "y1": 2854
+            },
+            "class": "article",
+            "raw_text": "latin and Labor.-The following anec-\ndote was related by the late John ADAMS,\neven to the last of his life, with all that good\nhumour which was SO characteristic OF him,\nand it is presumed has not yet passed from\nthe minds of many, who have heard 1t from\nhis own lips; few only Of his strong express\nsions are remembered.\n\n\nwhen was boy, had to study the Lat\nIN grammar; but it was dull, and l hated 1t.\nNV father was anxious to send me to Col\nlege, and therefore l studied the grammar\ntill could bear with it no longer: and going\nto my father / told him did not like study,\nand asked for some other employment. II\nwas opposing his wishes, and he was quick\nin his answer. We'll John, said he, if Latin\ngrammar does not suit you, you may try\nditching, perhaps that will my meadow\nWonder needs ditch, and you may put by\nLatin and try that.\n\n\nThis seemed delightful change, and to\nthe meadow went. But soon found ditch\ning harder than Latin, and the first forenoon\nwas the longest I ever experienced. That\nday ! ate the the bread OF labor, and glad\nwas Iwhen night came on. That night\nmade some comparison between Latir\ngrammer and ditchins. but said not wort\nabout it. I dug the next forenoon and want\ned to return to Latin at dinner, but It wa\nhumiliating. and could not do it. At nigh\ntoll conquered pride, and told my father\none OF the seycrcst trials Of my lite, that\nhe chose, I would go back to latin grammar\nHe was glad OF it; and if have since gaine'\nany distinction, it has been owing to th\ntwo days labor in that abomiuable ditch",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2801,
+                "y0": 2128,
+                "x1": 3463,
+                "y1": 2672
+            },
+            "class": "article",
+            "raw_text": "At an Election for officers of the VII.\nmington Library COMPANY. held on Mon.\nday last, at the Town Hall, the following\ngentlemen were chosen to serve for one\nyear, viz:\nDirectors.--HON. WILLARD HALL.\n\n\nISAAC II. STARR,\n\n\nJOSEPH BRINGHURSTs\n\n\nJOHN BULLOCK,\n\n\nSAM'L HILLES,\n\n\nGEN. JOHN CALDWELL,\n\n\nr. A. HENDERSON,\n\n\nJACOB ALRICHS,\n\n\nHENRY HEAD.\nTreasurer.- PORTER.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 2923,
+                "y0": 2067,
+                "x1": 3319,
+                "y1": 2116
+            },
+            "class": "headline",
+            "raw_text": "Library Election.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1446,
+                "y0": 247,
+                "x1": 2090,
+                "y1": 739
+            },
+            "class": "article",
+            "raw_text": "Mr.. RDiron-In reply to your note on ny last\ncommunication, can inform you that l was not\nunder any mistake respecting the eduction\nvalves Of the pump. have conversed with some\nOf the members of the committee on the subject,\nand have been informed by them that they had\nunanimously agreed to have, what might per-\nhaps, be called guard vaiue. above the air ves-\nsci in the main pipe, and this is the valve that\nthe committee have. on some occasions alluded\nto, when they stated \"there was no valve be-\ntween the pump and reservoir at Fair Mount, I\"",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 1590,
+                "y0": 199,
+                "x1": 1947,
+                "y1": 239
+            },
+            "class": "headline",
+            "raw_text": "Eoy Tie Wikmingtonian.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 786,
+                "y0": 2002,
+                "x1": 1443,
+                "y1": 2407
+            },
+            "class": "article",
+            "raw_text": "L1mentaJb. On Monday last, Sd inst whilst\nsome labourcrs were at work, cutting down a\nhigh bank in this Borough, large quantity of\nprojecting earth fell and, instantly buried in its\nruins, Jaales Young, who was in the act of load\ning his cart. The cart was crushed to pieces,\nand the nearest horse was so much injured as to\nrender him unfit for future service. The lifcless\nbody ofthc unfortunate man was dug out and\ncarried home to his parents.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 777,
+                "y0": 1767,
+                "x1": 1434,
+                "y1": 1829
+            },
+            "class": "headline",
+            "raw_text": "TEzE WIzr1xrJ GTOMIAM,",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -3
+        },
+        {
+            "id": 36,
+            "bbox": {
+                "x0": 825,
+                "y0": 1841,
+                "x1": 1378,
+                "y1": 1907
+            },
+            "class": "headline",
+            "raw_text": "DELAWARE ADVERTISER.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -2
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 825,
+                "y0": 1928,
+                "x1": 1386,
+                "y1": 1981
+            },
+            "class": "headline",
+            "raw_text": "Thursday, Sept. 6, 1927.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2102,
+                "y0": 204,
+                "x1": 2768,
+                "y1": 1569
+            },
+            "class": "article",
+            "raw_text": "at a sudden knock at your door you are\nstartled and alarmed at the. Interruption,\nand for a second or two doubt whether you\nare in your own study with classic in your\nhand, or upon the plains of Lombardy, gaz-\ning at the hard and weather beaten counte-\nnance of Hannibal. Read, if possible. SO in\ntensely, that the morning shall have passed\naway two hours before you imagine 1t was\nfinished, and let many night be given to\ninquiry and meditation.\n\n\nThe great bar of improvement is what\nmay be called a languid st\"dy; that indolent\nand remitted occupation which requires no.\nthing. and leaves us only disguised by a\nfruitless effort. To profit by study we\nshould determine to possess; for it is like a\nnettle; he who presses its surface lightly\nonly stings his fingers; to grasp it firmly, is\nthe only way to escape its mischief, and to\nhold it safe.\n\n\nA great deal has been said about the\nquestion whether we should have stated\nhours of study, or commit ourselves to occa-\nsional appication-he who can be sure OF\nhis desire to apply at all times. may trust\nhimself to opportunities, but in general, 1t is\nbetter to limit the irregular fancy of man.\nThis may be safe Recommendation, DO as\nyou please to do right The truth is, that\nlittle hard thinking will overcome the\ntendency of the mind to dissipation-by hard\nthinking, mean determination to conhne\nthe fancy, and to this effect shake yourself,\ntry to rivet YOUR attention-ifit it flies off new\ner mind, it will return-the images which\nperpetually float before it become less ire\nouent, and you are finally absorbed in the\nobject of your study. The mind OF man is a\nrestive colt; all your effort is to keep IN\ntrack, from which it is constantly flying off,",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1485,
+                "y0": 5151,
+                "x1": 2133,
+                "y1": 5504
+            },
+            "class": "article",
+            "raw_text": "The first great step to the cultivation OF\nthe understanding is to get a habit OF study\nI know that at first severe application is\npainful thing; that, like the relish tor olives\nand coffee it is only acquired by persever-\nance; but say perservere and you. acquire\nit; nothing is tc be done without t;take your\nLivy, work yourself SO into the lively events\nwhich he places before you, that you see his\nscenery, and become acquainted with ms",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 32,
+            "bbox": {
+                "x0": 1715,
+                "y0": 5116,
+                "x1": 1886,
+                "y1": 5143
+            },
+            "class": "headline",
+            "raw_text": "READING.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2128,
+                "y0": 2962,
+                "x1": 2798,
+                "y1": 5513
+            },
+            "class": "article",
+            "raw_text": "We are pleased to see the Red Rover; by\nCoopcr announced as being already in the\npress. 1t is Sea Story, much may consc-\nouently be expected. for as soon as this wri-\nter gets upon the ocean he is perfectly at\nhome.\n\n\n1t is said that the gold gathered from\nthe sweepings of one Jewellers shop At\nPhiladelphia, amounts to 1900 dollars\nwear. This is a triAe compared with the re-\ncorded waste Of gold in India, by the friction\nof ornaments.\nThe greatest insult that can be conceived,\nis after conquering country, and killing\nthe women and children, to offer the few\nsurviving men leave to return honieH\nThe report of the death of Mr., WM OAR\nnv georrapher, is unfounded. He is in good\nhealth. as a letter from HIM assures the cdi-\ntors of the Democratic Press.\nIn the British House of Commons. on the\n2sth of June, DIR. Lush..ston gave notice Of\nmotion relstveto the British \"Brazilian\nMining Company\" which he understood\n'employed 700 slaves, and were about to\npurchase 700 more\"\n\n\nThe London New Times announces that\nSir James M'Intosh is Immediately going to\npress with his History Of Engfand,\" Sir\nJames was supposed to have abandoned this\nenterprise; we reJolCe tndt II 10 W oS cheSue-\ned by so able writer.\n\n\nMrs. Mary Covert of Owego, n. Y. aged\n81 wears, drowned herself and her infant\naged two weeks, on the 9th ult. in fit OF in\nsanity, it is supposed-leaving husband\nand four children.\n\n\nFemale Industry.-Sally Johnson. Of Sem\npronins: Cayuga CO. spun l70 knots Of WOOL\nlen warn. OH a common wheel, by day light.\nMiss Emeline Gale, of Bennington. Gennes-\nsee county-140 knots.\n\n\nA conyterfeiter by the name OF Wallace\nhas been convicted at Pittsburg, and SEN\nfenced to three years confinement in the\n! Penitentiary.\n\n\nTwo men near Red River, La. lately drank\ngallon of whskey upon bet, in the space\nof few minutes. The person who proposed\nthe bet, went for more, but on his return\nfound the others lifeless.\n\n\nMr.. Henry Darling, attached to the COM\nmany of Eouestrians now in the city of Lam\neaster. was engaged on Thursday afternoon,\nwith Others in coursing horses in an orch\nard. and in some manner chow we have not\nheard his head came in contact with one\nof the trees, by which he was instantly kill\ned.\n\n\nAs soon as the election of Gen. Lafayette\nwas known at Marselles, the Americans III\nthat town illuminated their hotels. The n\nmerican vessels in tho harbor also hoisted\ntheir colors in testimony of rejoicing upon\nthe occasion.\n\n\nJerome Napoleon Buonaparte came passenger\nin the William Byrne, arrived at New-York.\nOur booksellers advertise the \"Epicurian,\" {\ntale by Thomas Moore. The extracts from the\nwork, which have been offered to the public\npromise one of the richest treats that the gen\nius ofthat pleasing writer has ever afforded.\nThe Mentor arrived at Boston, from Hamburg\nbrought 1872 Saxony Sheep.\nr Soms person has attempted 70 poison tam''.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 2267,
+                "y0": 2875,
+                "x1": 2646,
+                "y1": 2933
+            },
+            "class": "headline",
+            "raw_text": "GLEANINES.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2806,
+                "y0": 2975,
+                "x1": 3476,
+                "y1": 3267
+            },
+            "class": "article",
+            "raw_text": "From the Subscriber OH the 24th of June last, an\nindentured apprentice, named MAHLON LU.\nKENS, 16 years old, about five feet high, pale\ncomplexion, and common size for his age: his\ndress is not recollected. Any person who will\nreturn said boy to me shall receive reward Of\ncents, but no charges.\n\n\nTHOMAS A. STERRETT,\n\n\nAug. %, 1927. 49-4t. 1obacconiss-",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 2979,
+                "y0": 2927,
+                "x1": 3302,
+                "y1": 2972
+            },
+            "class": "headline",
+            "raw_text": "Strayed Away",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 104,
+                "y0": 1107,
+                "x1": 756,
+                "y1": 1781
+            },
+            "class": "article",
+            "raw_text": "The twentieth biennial stated meeting OF the\n.,merican Convention for Promoting the Aboli-\nlion Of Slavery &c. will be held at Philadelphia,\non Sd day Tuesday, the I'd day of 10th month,\n(october) next, at 10 o'clock, A. NJ to which\nthe Abolition and Manumisson Societies, not\nheretofore represented arc invited to send Dele\ngates.\n\n\nPhiiadelghia, 4th mo. 81, 1927\n\n\nN. Il. Printers of Newspapers throughout\nthe Union, are respectfully requested to give\nthe above notice few insertions.\n\n\nExtract from the Constitution ofthe Convention\n\n\n\"Article ID. The Convention shall be com,\nposed of such representatives as the respective\nSocieties associated to protect the rights OF free\npersons of color, or to promote tic Abolition OF\nSlavery. within the United States, may think\nproper to Provided that the number\nfrom any one Society shall not exceed ten\"",
+            "legibility": "Questionable",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 213,
+                "y0": 1064,
+                "x1": 644,
+                "y1": 1099
+            },
+            "class": "headline",
+            "raw_text": "AMrnIcAN CONVENTION.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2780,
+                "y0": 191,
+                "x1": 3458,
+                "y1": 1152
+            },
+            "class": "article",
+            "raw_text": "of Shakers, containing 81 persons, in Entielos\nConn. by throwing into the pump wei, guam\ntity of Arsenic. One person only suffered Sc,\nverely. There was enough arsenic dePositeo\nto kill thousand persons. ,\n\n\nAccording to the report Of NJ. M. Peiletier ana\nCaventou, to the French Academy OF Medicine,\n10000 ounces ofsulphate Of quinine, was manu-\nfeatured in 1926, in France.\n\n\nMr. j. Bird sal, of Sing Sing, killed rat\ntie snake last week. Just before ne came\nup to the snake, he saw several snakes max\ning down the throat Of the mother. On\nopening the snake, thirty three young snakes\nwere found, each ten inches long.\n\n\nA new Quarterly Review Of Foreign Lit\nerature and Science is about to be establish\ned in Londen.\n\n\nAn exceeding drought prevails in Seor-\ngia. Whole cornhelds are entirely destroy\ned. ii\n\n\nThe Annual Report of the American Ed\nucation Society states that the population OF\nthe United States is advanced at the rate OF\n1000 every day-365 900 year.\n\n\nAt bear hunt in Pitt6eld, VT, few days\nago, at which upwards of10o persons were\nengaged, four bears were killed and one cub\ntaken alive.",
+            "legibility": "Questionable",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 795,
+                "y0": 2484,
+                "x1": 1456,
+                "y1": 5552
+            },
+            "class": "article",
+            "raw_text": "We hayr received from our Correspondent at\nBuenos Ayres, files OF the \"American\" and\n\"Britsh Packet\" up to the 2lst April, from\nwhich extracts shall be given next week.\n\n\nOn the 9TH March, Brazilian squadron con-\nsisting of four vessels Of war manned with 654\nmen, attacked the small establishment OF Pata-\ngonas, but were repellcd with the loss OF three\nof their vessels captured and the fourth got a.\nground and VENT pieces, and about 10 Of her\ncrew ipershed. of the vessels captured, one\nmouated twenty guns, and the others three guns\neach\n\n\nExtract of letter from a Correspondent Of the\n\n\nWitmingtonian, dated Buenos tyres, '1Prt1 ~\n\n\n1927.\n\n\nMr.. Manuel Jose Gai cia, the ex-Secretary\nof State, left here this morning in the British\npacket for Rio, where he gees fully authorls-\ned and empowered to open negotiations OF\npeace with the Brazilian Emperor. MIR. &. is\nknown to be the devoted tool Of the English,\nwho, under the pretext of mediating, are so\nactively intriguing in this question for their\nown final interest-and his appointment OH\nthis mission is, for them, first sreattriumph\nin the progress Of their work. The basis OF\nthis epociation--dictated by Lord Ponsonby\n\n\nis known with tolerable certainty to be\nthe fayorte project SO long cherished by the\nEnglish, viz: mutual evacuation OF the DIS\nuuted territory, Banda Oriental, which is to\nbe erected into an independent Government\nand Of which independence Great britain IS\nto be the guardian. That Independence,\ntherefore, cannot be other than purely nom\nina,: because, by assuming the guaranty OF\nit. England obtains there an indirect Intu-\nence of a character so powerful as will be\n,antamount to actual sovereignty. 1t is even\ne,id that three British Commissioners Will\nbe appointed to reside near, COUNSEL ana d.\nr,ct the feeble and infant Government.\nNumbers of British merchants have gone o.\nyer from this place, and others have sent a\ngents, with the object of making large pur-\nchases Of land in that beautiful PROVINCE\nnow so clearly destined TO become mere\nColony Of Britain. Montevideo will be es-\n,ablished free port; and the rival COM\nmerce of that place must bring Buenos Ay-\nres and the Occidental country to compara-\ntive ruin.\n\n\nTo the humiliating proposals which Mr.\nGarcia is authorised to make, the Executive\nnow 6nds itself reduced by the disunited\nstate OF the Republic, throughout winch\ncivil war RACES, which assumes each day an\naspect more and more alarming The opPo'\nsitlon party, dcnominated federalisfs, persist\nin rejecting the Constitution, which eatao'\nfishes the system of unity or consolidated\nfirm framed and sanctioned by the Genera\nConyress-and are clamourous for the Jede'\nyal system. They have collected consid\ncradle body of troops in the Interior whici\nhave obtained various successes over th'\nforces sent against them by the general 60\nv.rnmeut. Some Of the leading provinces\nhave actually declared war in q lorna\nmanner against the capital-are organizing\nFederal Congress at the city OF San Juan\n, in the Province of that name, where the.\ninvite all the Provinces to meet them' tor III\n..--r -. S.l.-c 81. !.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 821,
+                "y0": 2441,
+                "x1": 1404,
+                "y1": 2489
+            },
+            "class": "headline",
+            "raw_text": "IMPORTANT FROM BUENos AYREs.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 769,
+                "y0": 195,
+                "x1": 1438,
+                "y1": 396
+            },
+            "class": "article",
+            "raw_text": "A 60ring match was advertised short time\nsince at Lyons, and about 1000 persons met\nbuta discussion having arisen between the COM\nbatants, the public took part, and general set\nto followed. 1t is thought that this will satisfy\nthe citizens of of Lyons.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2806,
+                "y0": 3331,
+                "x1": 3480,
+                "y1": 3558
+            },
+            "class": "article",
+            "raw_text": "An excellent JVater PoWer and small Farm,\nwithin about IA miles of Wilmington, the fall\nabout 90 feet, saw-mill on the premises, will be\nsold on reasonable terms, or exchanged tor real\nestate in the Borough of Wilmington. Apply at\nthis Office.\n\n\nAug. %, 1927. 49-4t.",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 2975,
+                "y0": 3283,
+                "x1": 3298,
+                "y1": 3328
+            },
+            "class": "headline",
+            "raw_text": "Water Power.",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": -1
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1446,
+                "y0": 903,
+                "x1": 2116,
+                "y1": 5065
+            },
+            "class": "article",
+            "raw_text": "\n\n\nthe 28th August, 1897; by HESRr GIBBoys.-\n\n\nIiead bctoye the DeLlWare .icademy Of Natural\n\n\nScience, Sept. 1st, 1927.\n\n\nAbout 10 o. slock, this phenomenon first\nassumed a remarkable appearance. in the\ntorn of zone of white light, extending from\nthe f. n. Z. to the w. N. w. points of the\nhorizon; thongh diffused light, like the\nbreak Of day had been observed in the Aor-\nthern HORIZON during the previous half hour.\nThe zone or arch was midway between the\nzenith and horizon. and about 100 broad, ex-\ncept a. the western extremity, where it was\ncontracted nearly to point. Its Eastern cx-\ntremity was faint, uniform, intermitting\nlight. about its middle, slender streaks or\ncolumns became visible, converging towards\npoint far beyond the zenith, and moving\nlaterally from East to West. with the ra-\npidity of the lower stratum, of clouds in our\ncommon Easterly storus. These columns\nunderlined as they approached the West.\nwhere they appeared almost stationary\nThis appearance continued with little vara-\nton for three quarters of an hour. The\nEastern half Of the arch then disappeared\nentirely, and the remaining part approach\ned the zenith in the form Of a slender, in\nverted pyramid, and gave place to another\nOf half the width, composed of broader col\nunns, more distant, and well defined, NOV\ning but slowly, and presenting very s!nsu-\nlar and striking appearance. \"a supersti-\ntious eye would have construed every col\numn into sword, portending some dire ca\nlamity. The two semi. arches soon united,\nthe upper extremity disappeared. and the\nlower part formed into three long, slender\ncolumns, not unlike the tails of comets, very\nwe'll defined, overlapping each other, and\npointing south Of the zenith. These remain\ncd permanent half all hour. and then grad\nually mingled into one, which soon vanished\n\n\nAt this time III, o'clock) the phenome-\nnon was restricted to the light in the North,\nwhich had gradually becemc SO bright as to\ncast faint shadow, and had assumed the\nform of low rainbow, sending directly up\nwards long, slender luminous beams. which\nmoved in a lateral direction, backward and\nforward. and remained visible some minutes.\nFrom this bow, more especially when the\ncolumns faded, broad patches of light flash\ned upward, frequently from its whsle length.\nThese flashes were at times given oil in such\nquick succession, as to present continued\n{ undulating light. About IL o'clock, the\narch and columns were gradually resolved\ninto homogeneous light. which continued\nTO send off flashes, and afterwards dlsap-\npeared by degrees without Offering any\nthing further worthy of notice.\n\n\nThe motion of the columns in the upper\n: arch was ALWAYS from East to West. They\nappeared very low in the atmosphere, and\none might readily have imagined them NOV\ned bv the wind. for when they first appear.\ned. an Eastcrly breeze sprang up, but soon\nfell. and at the same tiae the motion OF the\ny columns nearly ceased. But according te\nthe lowest calculations OF late writer's on the\n. sub;ect. the Aurora Boreals does not ap'\nproach nearer to tho Garth than 100 miles\n. rs ~. admit this the columns moved at the\nrate of more than three hundred miles in\nminutc-as they passed through quad\nrant Of a circle in about so seconds. The\nlight was mostly white, but had purpls\n\n\ntinge where brightest.\n\n\nThe inverted pyramid bore some analogy\nTO the zodiacal light. But it was not visible til\n\n\na hours after sunset, and its base was more\nthan 40 degrees from the ecliptic, though\nthe apex was nearly stationary in the place\nOf the SUMS setting, Whereas the zediaca\n\n\nlight, is seen or an hour after sunset, gen.\n\n\nerallv in the SUMS track, ard never without\nthe zodiac.\n\n\nThe evening of the 2sth was cool and ths\n\n\nsky perfectly clear. The thermometer stooc\nAZ zoo and the Barometer at 29.SO inches\nA Northerly wind had prevailed for some\n!, d.vs and on the 26th there had been vio\na len, Easterly storm.\n!, In Cregory's Dict, article Aurora Boreal\nis. is a description by Dalton, nearly answer\ni, ing TO that Of the lower Bow. &c. but 1t\n\n\ndoubtful whether any account has been CIV\n>, en- of phenomenon similar to that first de\n;, scrib.d. The oldest inhabitants OF WI\n\n\nminrt,n do not reeollect having seen it IL",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 33,
+            "bbox": {
+                "x0": 1620,
+                "y0": 799,
+                "x1": 1925,
+                "y1": 834
+            },
+            "class": "headline",
+            "raw_text": "ICoMMUNIcATED.1",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 108,
+                "y0": 1885,
+                "x1": 765,
+                "y1": 2459
+            },
+            "class": "article",
+            "raw_text": "A recontre took place this day in Ex-\nchange street, between Mr.. Goddard, a\ngentleman of Boston, and Mr. Vance, of N.\nYork. in which the latter received very Sc\nwe're cowhding, in consequence OF his having\ntaken the unwarrantabe liberty Of publicly\nposting Mr.. G. a fewdays since. 1t would APP\npear that Mr. Vance was not altogether unap'\nprsed of the intention of his assallant, Tor\nafter the first blow was given, he presented\nloaded pistol to the breast of Mr.. y. which\nhe fortunately parried, upon which Vance\ndrew a second, which Aashed in Mr.. G.''\nface, but did not go off. Mr. Goddard al\nthe while applying the cowhidc. The by\nstanders then interfering, prevented further\nmischief.",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 40,
+            "bbox": {
+                "x0": 273,
+                "y0": 1355,
+                "x1": 717,
+                "y1": 1386
+            },
+            "class": "headline",
+            "raw_text": "EDWIN p. ATLEE, Secretary",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": -2
+        },
+        {
+            "id": 35,
+            "bbox": {
+                "x0": 200,
+                "y0": 1811,
+                "x1": 735,
+                "y1": 1881
+            },
+            "class": "headline",
+            "raw_text": "View York, tug. IS.\nPIIRIIC CAS'rIGAIION.",
+            "legibility": "Questionable",
+            "full_article_id": 17,
+            "reading_order_id": -1
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 2806,
+                "y0": 2749,
+                "x1": 3467,
+                "y1": 2911
+            },
+            "class": "article",
+            "raw_text": "The semi.annuaI examination of the Students\nin this Institution, will take place on Thursdays\nthe goth inst BY Order,\n\n\nII. WHITELEY, Sec'ry.\nSeptember S, 1897.",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        },
+        {
+            "id": 39,
+            "bbox": {
+                "x0": 2901,
+                "y0": 2697,
+                "x1": 3345,
+                "y1": 2746
+            },
+            "class": "headline",
+            "raw_text": "New Ark Academy.",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 2784,
+                "y0": 1237,
+                "x1": 3458,
+                "y1": 2051
+            },
+            "class": "article",
+            "raw_text": "LOH.\n\n\nAS this is the season for making the best\ncondiment for fsh or steak that ever pantry\nwas furnished with. send the following re-\ncipe:--\n\n\nTake gallon of skinned tomatoes,\n\n\ntable spoonsful of salt,\n4 do. do. black pepper, !\n\n\nhalf a spoonful alspice,\n8 pods red pepper.\n\n\ntable spoonsful of mustard.\nArticles ground fine, and simmered slowly\nin sharp vinegar, in pewter basin, three or\nfour hours, and then strained through wire\nsieve and bottled close. 1t may be used in\ntwo weeks. but improves much by age\nThose who like the article may add. after\nthe simmering is over, and the ingredients\nsome what cooled. two table spoonsful OF the\njuice of garlic. So much vinegar is to be\nused as to have half gallon ofliquor when the\nprocess is over Ton taste this is superior\nto any West India ketchup that have ever\nmet with, and it is withal an excellent reme'\ndy for dyspepsia'-.4mcr. Farmer.",
+            "legibility": "Questionable",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 37,
+            "bbox": {
+                "x0": 2788,
+                "y0": 1177,
+                "x1": 3441,
+                "y1": 1234
+            },
+            "class": "headline",
+            "raw_text": "FOR TOMATTO CATSUP-haya gal",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": -1
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 91,
+                "y0": 208,
+                "x1": 756,
+                "y1": 1039
+            },
+            "class": "article",
+            "raw_text": "is eye is large and vacant, and what, VIVA, is re re-\na,artable 40 the ostrich appears entirely des-\ntuts Of attachmsn. to is ,Ssrs. Uwn sperss hs ns\n','as ms oft.nt;mes ride them; and though their\nWING WINGS are too small for Aging their speed,\novsr \"S the deserts of their own native coun-\n~ try is far greater than the heetest Arabian\nhorse.\n\n\nA fact worthy of occupying the attention\ng ro.trorologists this year is the co-exist-\n.nce of a drought which threatens the crops\nn mt the Northern countries OF Europe, and\ninundatiens that lay waste the central and\nSouthern countries. 1t is apprehended that\nn many provinces on the Baltic, the ex, :,\nrene heat, Joined to the want of rain, wlll\ndry the corn before it has attained IT'S full\nrrowth, and it may happen that the SAINT! same\nCountries will be ravaged by the Overlooking\nofthe rivers, which are swollen at their\nsources. The height OF the Elbe in partlc-\nular gives rise to serious alarm.",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        },
+        {
+            "id": 34,
+            "bbox": {
+                "x0": 117,
+                "y0": 2497,
+                "x1": 778,
+                "y1": 3002
+            },
+            "class": "article",
+            "raw_text": "Enfan Trouve.-rhc Philadelphia u\nnted States Gazette says:--Yesterday at\nscrneon, a we'll dressed female requested a\nwoman who was sitting in the High street\nmarket, to hold her infant while she per\nformed an errand at the distance of few\nsquares. The woman accordingly took the\nchild apparently about six months old. and\nwith it small bundle, containing the child's\nclothes. The supposed mother. however,\ndid not redeem her pledge; and after wait\ning long time, the person who received the\nchild. was compelled to return to her own\nhouse. with the gratuitous addition to her\nfamily.",
+            "legibility": "Legible",
+            "full_article_id": 35,
+            "reading_order_id": 0
+        },
+        {
+            "id": 38,
+            "bbox": {
+                "x0": 126,
+                "y0": 3040,
+                "x1": 787,
+                "y1": 3415
+            },
+            "class": "article",
+            "raw_text": "Road fran Buffalo 10 Washington.-Ar--\nrangements are making to construct road\nfrom Marlborough to Southport. in Pennsyl-\nvania, on part of the route between the \"a\nbove places, by an incorporated company Of\nthat State. 1t is intended to make applica-\nton to Congress for assistance; and the\nPresident of the Company, Mr.. Karthaus,\nis expected to visit Buffalo. in the course Of\nthe present month, to obtain cooperation\nin the design.",
+            "legibility": "Questionable",
+            "full_article_id": 39,
+            "reading_order_id": 0
+        },
+        {
+            "id": 41,
+            "bbox": {
+                "x0": 156,
+                "y0": 4938,
+                "x1": 800,
+                "y1": 5521
+            },
+            "class": "article",
+            "raw_text": "'MONTKEAL, hubuSt -F'\n\n\n:, IN my letter of Wednesday, mentioned that\nwe VT celebrated Captain Franklin had arrived\n.' near this CITY, He came at An early hour yes\n.Mraay morning, and proceeded Immediately TOR\nvi. u,e United States. lie looks well, and under\n1,Ahd that he has generally enjoyed good health\n:. A. Is stated that he travelled from Mackenzie's\n.lyer to the Icy Cape, and was within $50 miles\nN'he spot the ship Blossom was to have touch\nvs. w. where he remained nine days, in consequence\nOMtaiog. He saw nothing which indicated an\nros,ructon to the navigation for as far as ne\nQUO see at any time, an open sea was to be seen,\nh'Ive hue very singular circumstance was mentioned\nts ss him' In January last, when the thermome-\nma ma was 81 degrees below zero, \"the weather was\nM S'oie comfortable\" than when it ascended TO l2'\nes;SI .a sle latter case the clothing was burden",
+            "legibility": "Questionable",
+            "full_article_id": 42,
+            "reading_order_id": 0
+        },
+        {
+            "id": 42,
+            "bbox": {
+                "x0": 160,
+                "y0": 4847,
+                "x1": 800,
+                "y1": 4922
+            },
+            "class": "headline",
+            "raw_text": "fr0ra one Of the editors ofMe ~ Y. Commercial\n\n\nadvertiser.",
+            "legibility": "Illegible",
+            "full_article_id": 42,
+            "reading_order_id": -2
+        },
+        {
+            "id": 45,
+            "bbox": {
+                "x0": 395,
+                "y0": 4925,
+                "x1": 752,
+                "y1": 4957
+            },
+            "class": "author",
+            "raw_text": "MONTREAL, August \"a",
+            "legibility": "Legible",
+            "full_article_id": 42,
+            "reading_order_id": -1
+        },
+        {
+            "id": 43,
+            "bbox": {
+                "x0": 126,
+                "y0": 3448,
+                "x1": 787,
+                "y1": 3823
+            },
+            "class": "article",
+            "raw_text": "Mr. Joseph r. Ladd. an enterprisng citi-\nzen Of Alexandria, has met with serious\nloss in the destruction of his new steam mill\nby fire on Thursday morning. The mill\nh a been in operation not more than fort\nnight, and was not insured. The loss we\nunderstand is estimated at about sixteen\ntn nsand dollars. The fire, which it is be-\nlievcd was accidental. was discovered by the\nwatchmcn about three O'Clock in the morn\ning.",
+            "legibility": "Legible",
+            "full_article_id": 44,
+            "reading_order_id": 0
+        },
+        {
+            "id": 46,
+            "bbox": {
+                "x0": 3761,
+                "y0": 230,
+                "x1": 4653,
+                "y1": 4188
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 47,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                31,
+                0
+            ],
+            "headline": "SIGNS.",
+            "article": "Prornostics of the zueather indicated bg\nbirds and other animals A German writer,\nwhose work is noticed in the \"Bulletin des\nSciences\" says that BIRDS, ana some ami\nmails. have foresight of the changes Of the\nweather. The feathers Of birds are electri-\ncal to high degree. and he ascribcs to this\ntheir sensibility to change in the atmos-\nphere. He gives the following indications,\namong others.\n\n\nSigns of far 7oeather.--NVhen swallows\nny very high, (because flies are then high in\nthe air;) ravens and hawks make more noise\nthan usual; wrens sing from 9 to 10 o'clock\nA. M. and from to =. NJ. (their song af-\nter these hours announces rain;) glow worms\nare stirring in the evening; insects and flies\nsport in the air after sunset; bats show\nthemselves late; spiders weave their nets\nquietly, and extend them much.\n\n\nSigns of Rain-When ducks and geese\nplunge into the water, shake themselves and\nmake a noise; swallows fly low; domestic\nfowls, partridges and small birds sport in\nthe sand; cocks crow Immediately after sun\nset; larks, sparrows, linnets and robbins\nsing or make noise IN the mernings; pea\ncocks and owls CRY louder and more frequent\nthan usual in the night; sheep and goats\nskip about and quarrel; hogs play and scat\nter about their food; cats rub their head and\nears; dogs become restless, scratch the\nground, and growi in barking; foxes bark ;\nfrogs croak moro than usual; bats do not\nleave their retreats III the evening; spiders\nwork but little, and make short threads /;\nflies bite the legs of horses and cattle, and\nfly about tumultuously; fish are disturbed.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1034,
+                    "y0": 430,
+                    "x1": 1169,
+                    "y1": 461
+                },
+                {
+                    "x0": 769,
+                    "y0": 464,
+                    "x1": 1430,
+                    "y1": 1738
+                }
+            ],
+            "bbox": [
+                769,
+                430,
+                1430,
+                1738
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-09-06_p3_sn85042523_00271740244_1827090601_0851.json"
+        },
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "latin and Labor.-The following anec-\ndote was related by the late John ADAMS,\neven to the last of his life, with all that good\nhumour which was SO characteristic OF him,\nand it is presumed has not yet passed from\nthe minds of many, who have heard 1t from\nhis own lips; few only Of his strong express\nsions are remembered.\n\n\nwhen was boy, had to study the Lat\nIN grammar; but it was dull, and l hated 1t.\nNV father was anxious to send me to Col\nlege, and therefore l studied the grammar\ntill could bear with it no longer: and going\nto my father / told him did not like study,\nand asked for some other employment. II\nwas opposing his wishes, and he was quick\nin his answer. We'll John, said he, if Latin\ngrammar does not suit you, you may try\nditching, perhaps that will my meadow\nWonder needs ditch, and you may put by\nLatin and try that.\n\n\nThis seemed delightful change, and to\nthe meadow went. But soon found ditch\ning harder than Latin, and the first forenoon\nwas the longest I ever experienced. That\nday ! ate the the bread OF labor, and glad\nwas Iwhen night came on. That night\nmade some comparison between Latir\ngrammer and ditchins. but said not wort\nabout it. I dug the next forenoon and want\ned to return to Latin at dinner, but It wa\nhumiliating. and could not do it. At nigh\ntoll conquered pride, and told my father\none OF the seycrcst trials Of my lite, that\nhe chose, I would go back to latin grammar\nHe was glad OF it; and if have since gaine'\nany distinction, it has been owing to th\ntwo days labor in that abomiuable ditch",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2111,
+                    "y0": 1598,
+                    "x1": 2776,
+                    "y1": 2854
+                }
+            ],
+            "bbox": [
+                2111,
+                1598,
+                2776,
+                2854
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-09-06_p3_sn85042523_00271740244_1827090601_0851.json"
+        },
+        {
+            "object_ids": [
+                21,
+                2
+            ],
+            "headline": "Library Election.",
+            "article": "At an Election for officers of the VII.\nmington Library COMPANY. held on Mon.\nday last, at the Town Hall, the following\ngentlemen were chosen to serve for one\nyear, viz:\nDirectors.--HON. WILLARD HALL.\n\n\nISAAC II. STARR,\n\n\nJOSEPH BRINGHURSTs\n\n\nJOHN BULLOCK,\n\n\nSAM'L HILLES,\n\n\nGEN. JOHN CALDWELL,\n\n\nr. A. HENDERSON,\n\n\nJACOB ALRICHS,\n\n\nHENRY HEAD.\nTreasurer.- PORTER.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2923,
+                    "y0": 2067,
+                    "x1": 3319,
+                    "y1": 2116
+                },
+                {
+                    "x0": 2801,
+                    "y0": 2128,
+                    "x1": 3463,
+                    "y1": 2672
+                }
+            ],
+            "bbox": [
+                2801,
+                2067,
+                3463,
+                2672
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-09-06_p3_sn85042523_00271740244_1827090601_0851.json"
+        },
+        {
+            "object_ids": [
+                26,
+                3
+            ],
+            "headline": "Eoy Tie Wikmingtonian.",
+            "article": "Mr.. RDiron-In reply to your note on ny last\ncommunication, can inform you that l was not\nunder any mistake respecting the eduction\nvalves Of the pump. have conversed with some\nOf the members of the committee on the subject,\nand have been informed by them that they had\nunanimously agreed to have, what might per-\nhaps, be called guard vaiue. above the air ves-\nsci in the main pipe, and this is the valve that\nthe committee have. on some occasions alluded\nto, when they stated \"there was no valve be-\ntween the pump and reservoir at Fair Mount, I\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1590,
+                    "y0": 199,
+                    "x1": 1947,
+                    "y1": 239
+                },
+                {
+                    "x0": 1446,
+                    "y0": 247,
+                    "x1": 2090,
+                    "y1": 739
+                }
+            ],
+            "bbox": [
+                1446,
+                199,
+                2090,
+                739
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-09-06_p3_sn85042523_00271740244_1827090601_0851.json"
+        },
+        {
+            "object_ids": [
+                30,
+                36,
+                24,
+                4
+            ],
+            "headline": "TEzE WIzr1xrJ GTOMIAM,\n\nDELAWARE ADVERTISER.\n\nThursday, Sept. 6, 1927.",
+            "article": "L1mentaJb. On Monday last, Sd inst whilst\nsome labourcrs were at work, cutting down a\nhigh bank in this Borough, large quantity of\nprojecting earth fell and, instantly buried in its\nruins, Jaales Young, who was in the act of load\ning his cart. The cart was crushed to pieces,\nand the nearest horse was so much injured as to\nrender him unfit for future service. The lifcless\nbody ofthc unfortunate man was dug out and\ncarried home to his parents.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 777,
+                    "y0": 1767,
+                    "x1": 1434,
+                    "y1": 1829
+                },
+                {
+                    "x0": 825,
+                    "y0": 1841,
+                    "x1": 1378,
+                    "y1": 1907
+                },
+                {
+                    "x0": 825,
+                    "y0": 1928,
+                    "x1": 1386,
+                    "y1": 1981
+                },
+                {
+                    "x0": 786,
+                    "y0": 2002,
+                    "x1": 1443,
+                    "y1": 2407
+                }
+            ],
+            "bbox": [
+                777,
+                1767,
+                1443,
+                2407
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-09-06_p3_sn85042523_00271740244_1827090601_0851.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "at a sudden knock at your door you are\nstartled and alarmed at the. Interruption,\nand for a second or two doubt whether you\nare in your own study with classic in your\nhand, or upon the plains of Lombardy, gaz-\ning at the hard and weather beaten counte-\nnance of Hannibal. Read, if possible. SO in\ntensely, that the morning shall have passed\naway two hours before you imagine 1t was\nfinished, and let many night be given to\ninquiry and meditation.\n\n\nThe great bar of improvement is what\nmay be called a languid st\"dy; that indolent\nand remitted occupation which requires no.\nthing. and leaves us only disguised by a\nfruitless effort. To profit by study we\nshould determine to possess; for it is like a\nnettle; he who presses its surface lightly\nonly stings his fingers; to grasp it firmly, is\nthe only way to escape its mischief, and to\nhold it safe.\n\n\nA great deal has been said about the\nquestion whether we should have stated\nhours of study, or commit ourselves to occa-\nsional appication-he who can be sure OF\nhis desire to apply at all times. may trust\nhimself to opportunities, but in general, 1t is\nbetter to limit the irregular fancy of man.\nThis may be safe Recommendation, DO as\nyou please to do right The truth is, that\nlittle hard thinking will overcome the\ntendency of the mind to dissipation-by hard\nthinking, mean determination to conhne\nthe fancy, and to this effect shake yourself,\ntry to rivet YOUR attention-ifit it flies off new\ner mind, it will return-the images which\nperpetually float before it become less ire\nouent, and you are finally absorbed in the\nobject of your study. The mind OF man is a\nrestive colt; all your effort is to keep IN\ntrack, from which it is constantly flying off,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2102,
+                    "y0": 204,
+                    "x1": 2768,
+                    "y1": 1569
+                }
+            ],
+            "bbox": [
+                2102,
+                204,
+                2768,
+                1569
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-09-06_p3_sn85042523_00271740244_1827090601_0851.json"
+        },
+        {
+            "object_ids": [
+                32,
+                6
+            ],
+            "headline": "READING.",
+            "article": "The first great step to the cultivation OF\nthe understanding is to get a habit OF study\nI know that at first severe application is\npainful thing; that, like the relish tor olives\nand coffee it is only acquired by persever-\nance; but say perservere and you. acquire\nit; nothing is tc be done without t;take your\nLivy, work yourself SO into the lively events\nwhich he places before you, that you see his\nscenery, and become acquainted with ms",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1715,
+                    "y0": 5116,
+                    "x1": 1886,
+                    "y1": 5143
+                },
+                {
+                    "x0": 1485,
+                    "y0": 5151,
+                    "x1": 2133,
+                    "y1": 5504
+                }
+            ],
+            "bbox": [
+                1485,
+                5116,
+                2133,
+                5504
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-09-06_p3_sn85042523_00271740244_1827090601_0851.json"
+        },
+        {
+            "object_ids": [
+                17,
+                7
+            ],
+            "headline": "GLEANINES.",
+            "article": "We are pleased to see the Red Rover; by\nCoopcr announced as being already in the\npress. 1t is Sea Story, much may consc-\nouently be expected. for as soon as this wri-\nter gets upon the ocean he is perfectly at\nhome.\n\n\n1t is said that the gold gathered from\nthe sweepings of one Jewellers shop At\nPhiladelphia, amounts to 1900 dollars\nwear. This is a triAe compared with the re-\ncorded waste Of gold in India, by the friction\nof ornaments.\nThe greatest insult that can be conceived,\nis after conquering country, and killing\nthe women and children, to offer the few\nsurviving men leave to return honieH\nThe report of the death of Mr., WM OAR\nnv georrapher, is unfounded. He is in good\nhealth. as a letter from HIM assures the cdi-\ntors of the Democratic Press.\nIn the British House of Commons. on the\n2sth of June, DIR. Lush..ston gave notice Of\nmotion relstveto the British \"Brazilian\nMining Company\" which he understood\n'employed 700 slaves, and were about to\npurchase 700 more\"\n\n\nThe London New Times announces that\nSir James M'Intosh is Immediately going to\npress with his History Of Engfand,\" Sir\nJames was supposed to have abandoned this\nenterprise; we reJolCe tndt II 10 W oS cheSue-\ned by so able writer.\n\n\nMrs. Mary Covert of Owego, n. Y. aged\n81 wears, drowned herself and her infant\naged two weeks, on the 9th ult. in fit OF in\nsanity, it is supposed-leaving husband\nand four children.\n\n\nFemale Industry.-Sally Johnson. Of Sem\npronins: Cayuga CO. spun l70 knots Of WOOL\nlen warn. OH a common wheel, by day light.\nMiss Emeline Gale, of Bennington. Gennes-\nsee county-140 knots.\n\n\nA conyterfeiter by the name OF Wallace\nhas been convicted at Pittsburg, and SEN\nfenced to three years confinement in the\n! Penitentiary.\n\n\nTwo men near Red River, La. lately drank\ngallon of whskey upon bet, in the space\nof few minutes. The person who proposed\nthe bet, went for more, but on his return\nfound the others lifeless.\n\n\nMr.. Henry Darling, attached to the COM\nmany of Eouestrians now in the city of Lam\neaster. was engaged on Thursday afternoon,\nwith Others in coursing horses in an orch\nard. and in some manner chow we have not\nheard his head came in contact with one\nof the trees, by which he was instantly kill\ned.\n\n\nAs soon as the election of Gen. Lafayette\nwas known at Marselles, the Americans III\nthat town illuminated their hotels. The n\nmerican vessels in tho harbor also hoisted\ntheir colors in testimony of rejoicing upon\nthe occasion.\n\n\nJerome Napoleon Buonaparte came passenger\nin the William Byrne, arrived at New-York.\nOur booksellers advertise the \"Epicurian,\" {\ntale by Thomas Moore. The extracts from the\nwork, which have been offered to the public\npromise one of the richest treats that the gen\nius ofthat pleasing writer has ever afforded.\nThe Mentor arrived at Boston, from Hamburg\nbrought 1872 Saxony Sheep.\nr Soms person has attempted 70 poison tam''.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2267,
+                    "y0": 2875,
+                    "x1": 2646,
+                    "y1": 2933
+                },
+                {
+                    "x0": 2128,
+                    "y0": 2962,
+                    "x1": 2798,
+                    "y1": 5513
+                }
+            ],
+            "bbox": [
+                2128,
+                2875,
+                2798,
+                5513
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-09-06_p3_sn85042523_00271740244_1827090601_0851.json"
+        },
+        {
+            "object_ids": [
+                27,
+                8
+            ],
+            "headline": "Strayed Away",
+            "article": "From the Subscriber OH the 24th of June last, an\nindentured apprentice, named MAHLON LU.\nKENS, 16 years old, about five feet high, pale\ncomplexion, and common size for his age: his\ndress is not recollected. Any person who will\nreturn said boy to me shall receive reward Of\ncents, but no charges.\n\n\nTHOMAS A. STERRETT,\n\n\nAug. %, 1927. 49-4t. 1obacconiss-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2979,
+                    "y0": 2927,
+                    "x1": 3302,
+                    "y1": 2972
+                },
+                {
+                    "x0": 2806,
+                    "y0": 2975,
+                    "x1": 3476,
+                    "y1": 3267
+                }
+            ],
+            "bbox": [
+                2806,
+                2927,
+                3476,
+                3267
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-09-06_p3_sn85042523_00271740244_1827090601_0851.json"
+        },
+        {
+            "object_ids": [
+                25,
+                9
+            ],
+            "headline": "AMrnIcAN CONVENTION.",
+            "article": "The twentieth biennial stated meeting OF the\n.,merican Convention for Promoting the Aboli-\nlion Of Slavery &c. will be held at Philadelphia,\non Sd day Tuesday, the I'd day of 10th month,\n(october) next, at 10 o'clock, A. NJ to which\nthe Abolition and Manumisson Societies, not\nheretofore represented arc invited to send Dele\ngates.\n\n\nPhiiadelghia, 4th mo. 81, 1927\n\n\nN. Il. Printers of Newspapers throughout\nthe Union, are respectfully requested to give\nthe above notice few insertions.\n\n\nExtract from the Constitution ofthe Convention\n\n\n\"Article ID. The Convention shall be com,\nposed of such representatives as the respective\nSocieties associated to protect the rights OF free\npersons of color, or to promote tic Abolition OF\nSlavery. within the United States, may think\nproper to Provided that the number\nfrom any one Society shall not exceed ten\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 213,
+                    "y0": 1064,
+                    "x1": 644,
+                    "y1": 1099
+                },
+                {
+                    "x0": 104,
+                    "y0": 1107,
+                    "x1": 756,
+                    "y1": 1781
+                }
+            ],
+            "bbox": [
+                104,
+                1064,
+                756,
+                1781
+            ],
+            "full_article_id": 10,
+            "id": "10_1827-09-06_p3_sn85042523_00271740244_1827090601_0851.json"
+        },
+        {
+            "object_ids": [
+                10
+            ],
+            "headline": "",
+            "article": "of Shakers, containing 81 persons, in Entielos\nConn. by throwing into the pump wei, guam\ntity of Arsenic. One person only suffered Sc,\nverely. There was enough arsenic dePositeo\nto kill thousand persons. ,\n\n\nAccording to the report Of NJ. M. Peiletier ana\nCaventou, to the French Academy OF Medicine,\n10000 ounces ofsulphate Of quinine, was manu-\nfeatured in 1926, in France.\n\n\nMr. j. Bird sal, of Sing Sing, killed rat\ntie snake last week. Just before ne came\nup to the snake, he saw several snakes max\ning down the throat Of the mother. On\nopening the snake, thirty three young snakes\nwere found, each ten inches long.\n\n\nA new Quarterly Review Of Foreign Lit\nerature and Science is about to be establish\ned in Londen.\n\n\nAn exceeding drought prevails in Seor-\ngia. Whole cornhelds are entirely destroy\ned. ii\n\n\nThe Annual Report of the American Ed\nucation Society states that the population OF\nthe United States is advanced at the rate OF\n1000 every day-365 900 year.\n\n\nAt bear hunt in Pitt6eld, VT, few days\nago, at which upwards of10o persons were\nengaged, four bears were killed and one cub\ntaken alive.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2780,
+                    "y0": 191,
+                    "x1": 3458,
+                    "y1": 1152
+                }
+            ],
+            "bbox": [
+                2780,
+                191,
+                3458,
+                1152
+            ],
+            "full_article_id": 11,
+            "id": "11_1827-09-06_p3_sn85042523_00271740244_1827090601_0851.json"
+        },
+        {
+            "object_ids": [
+                28,
+                11
+            ],
+            "headline": "IMPORTANT FROM BUENos AYREs.",
+            "article": "We hayr received from our Correspondent at\nBuenos Ayres, files OF the \"American\" and\n\"Britsh Packet\" up to the 2lst April, from\nwhich extracts shall be given next week.\n\n\nOn the 9TH March, Brazilian squadron con-\nsisting of four vessels Of war manned with 654\nmen, attacked the small establishment OF Pata-\ngonas, but were repellcd with the loss OF three\nof their vessels captured and the fourth got a.\nground and VENT pieces, and about 10 Of her\ncrew ipershed. of the vessels captured, one\nmouated twenty guns, and the others three guns\neach\n\n\nExtract of letter from a Correspondent Of the\n\n\nWitmingtonian, dated Buenos tyres, '1Prt1 ~\n\n\n1927.\n\n\nMr.. Manuel Jose Gai cia, the ex-Secretary\nof State, left here this morning in the British\npacket for Rio, where he gees fully authorls-\ned and empowered to open negotiations OF\npeace with the Brazilian Emperor. MIR. &. is\nknown to be the devoted tool Of the English,\nwho, under the pretext of mediating, are so\nactively intriguing in this question for their\nown final interest-and his appointment OH\nthis mission is, for them, first sreattriumph\nin the progress Of their work. The basis OF\nthis epociation--dictated by Lord Ponsonby\n\n\nis known with tolerable certainty to be\nthe fayorte project SO long cherished by the\nEnglish, viz: mutual evacuation OF the DIS\nuuted territory, Banda Oriental, which is to\nbe erected into an independent Government\nand Of which independence Great britain IS\nto be the guardian. That Independence,\ntherefore, cannot be other than purely nom\nina,: because, by assuming the guaranty OF\nit. England obtains there an indirect Intu-\nence of a character so powerful as will be\n,antamount to actual sovereignty. 1t is even\ne,id that three British Commissioners Will\nbe appointed to reside near, COUNSEL ana d.\nr,ct the feeble and infant Government.\nNumbers of British merchants have gone o.\nyer from this place, and others have sent a\ngents, with the object of making large pur-\nchases Of land in that beautiful PROVINCE\nnow so clearly destined TO become mere\nColony Of Britain. Montevideo will be es-\n,ablished free port; and the rival COM\nmerce of that place must bring Buenos Ay-\nres and the Occidental country to compara-\ntive ruin.\n\n\nTo the humiliating proposals which Mr.\nGarcia is authorised to make, the Executive\nnow 6nds itself reduced by the disunited\nstate OF the Republic, throughout winch\ncivil war RACES, which assumes each day an\naspect more and more alarming The opPo'\nsitlon party, dcnominated federalisfs, persist\nin rejecting the Constitution, which eatao'\nfishes the system of unity or consolidated\nfirm framed and sanctioned by the Genera\nConyress-and are clamourous for the Jede'\nyal system. They have collected consid\ncradle body of troops in the Interior whici\nhave obtained various successes over th'\nforces sent against them by the general 60\nv.rnmeut. Some Of the leading provinces\nhave actually declared war in q lorna\nmanner against the capital-are organizing\nFederal Congress at the city OF San Juan\n, in the Province of that name, where the.\ninvite all the Provinces to meet them' tor III\n..--r -. S.l.-c 81. !.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 821,
+                    "y0": 2441,
+                    "x1": 1404,
+                    "y1": 2489
+                },
+                {
+                    "x0": 795,
+                    "y0": 2484,
+                    "x1": 1456,
+                    "y1": 5552
+                }
+            ],
+            "bbox": [
+                795,
+                2441,
+                1456,
+                5552
+            ],
+            "full_article_id": 12,
+            "id": "12_1827-09-06_p3_sn85042523_00271740244_1827090601_0851.json"
+        },
+        {
+            "object_ids": [
+                12
+            ],
+            "headline": "",
+            "article": "A 60ring match was advertised short time\nsince at Lyons, and about 1000 persons met\nbuta discussion having arisen between the COM\nbatants, the public took part, and general set\nto followed. 1t is thought that this will satisfy\nthe citizens of of Lyons.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 769,
+                    "y0": 195,
+                    "x1": 1438,
+                    "y1": 396
+                }
+            ],
+            "bbox": [
+                769,
+                195,
+                1438,
+                396
+            ],
+            "full_article_id": 13,
+            "id": "13_1827-09-06_p3_sn85042523_00271740244_1827090601_0851.json"
+        },
+        {
+            "object_ids": [
+                29,
+                14
+            ],
+            "headline": "Water Power.",
+            "article": "An excellent JVater PoWer and small Farm,\nwithin about IA miles of Wilmington, the fall\nabout 90 feet, saw-mill on the premises, will be\nsold on reasonable terms, or exchanged tor real\nestate in the Borough of Wilmington. Apply at\nthis Office.\n\n\nAug. %, 1927. 49-4t.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2975,
+                    "y0": 3283,
+                    "x1": 3298,
+                    "y1": 3328
+                },
+                {
+                    "x0": 2806,
+                    "y0": 3331,
+                    "x1": 3480,
+                    "y1": 3558
+                }
+            ],
+            "bbox": [
+                2806,
+                3283,
+                3480,
+                3558
+            ],
+            "full_article_id": 15,
+            "id": "15_1827-09-06_p3_sn85042523_00271740244_1827090601_0851.json"
+        },
+        {
+            "object_ids": [
+                33,
+                15
+            ],
+            "headline": "ICoMMUNIcATED.1",
+            "article": "\n\n\nthe 28th August, 1897; by HESRr GIBBoys.-\n\n\nIiead bctoye the DeLlWare .icademy Of Natural\n\n\nScience, Sept. 1st, 1927.\n\n\nAbout 10 o. slock, this phenomenon first\nassumed a remarkable appearance. in the\ntorn of zone of white light, extending from\nthe f. n. Z. to the w. N. w. points of the\nhorizon; thongh diffused light, like the\nbreak Of day had been observed in the Aor-\nthern HORIZON during the previous half hour.\nThe zone or arch was midway between the\nzenith and horizon. and about 100 broad, ex-\ncept a. the western extremity, where it was\ncontracted nearly to point. Its Eastern cx-\ntremity was faint, uniform, intermitting\nlight. about its middle, slender streaks or\ncolumns became visible, converging towards\npoint far beyond the zenith, and moving\nlaterally from East to West. with the ra-\npidity of the lower stratum, of clouds in our\ncommon Easterly storus. These columns\nunderlined as they approached the West.\nwhere they appeared almost stationary\nThis appearance continued with little vara-\nton for three quarters of an hour. The\nEastern half Of the arch then disappeared\nentirely, and the remaining part approach\ned the zenith in the form Of a slender, in\nverted pyramid, and gave place to another\nOf half the width, composed of broader col\nunns, more distant, and well defined, NOV\ning but slowly, and presenting very s!nsu-\nlar and striking appearance. \"a supersti-\ntious eye would have construed every col\numn into sword, portending some dire ca\nlamity. The two semi. arches soon united,\nthe upper extremity disappeared. and the\nlower part formed into three long, slender\ncolumns, not unlike the tails of comets, very\nwe'll defined, overlapping each other, and\npointing south Of the zenith. These remain\ncd permanent half all hour. and then grad\nually mingled into one, which soon vanished\n\n\nAt this time III, o'clock) the phenome-\nnon was restricted to the light in the North,\nwhich had gradually becemc SO bright as to\ncast faint shadow, and had assumed the\nform of low rainbow, sending directly up\nwards long, slender luminous beams. which\nmoved in a lateral direction, backward and\nforward. and remained visible some minutes.\nFrom this bow, more especially when the\ncolumns faded, broad patches of light flash\ned upward, frequently from its whsle length.\nThese flashes were at times given oil in such\nquick succession, as to present continued\n{ undulating light. About IL o'clock, the\narch and columns were gradually resolved\ninto homogeneous light. which continued\nTO send off flashes, and afterwards dlsap-\npeared by degrees without Offering any\nthing further worthy of notice.\n\n\nThe motion of the columns in the upper\n: arch was ALWAYS from East to West. They\nappeared very low in the atmosphere, and\none might readily have imagined them NOV\ned bv the wind. for when they first appear.\ned. an Eastcrly breeze sprang up, but soon\nfell. and at the same tiae the motion OF the\ny columns nearly ceased. But according te\nthe lowest calculations OF late writer's on the\n. sub;ect. the Aurora Boreals does not ap'\nproach nearer to tho Garth than 100 miles\n. rs ~. admit this the columns moved at the\nrate of more than three hundred miles in\nminutc-as they passed through quad\nrant Of a circle in about so seconds. The\nlight was mostly white, but had purpls\n\n\ntinge where brightest.\n\n\nThe inverted pyramid bore some analogy\nTO the zodiacal light. But it was not visible til\n\n\na hours after sunset, and its base was more\nthan 40 degrees from the ecliptic, though\nthe apex was nearly stationary in the place\nOf the SUMS setting, Whereas the zediaca\n\n\nlight, is seen or an hour after sunset, gen.\n\n\nerallv in the SUMS track, ard never without\nthe zodiac.\n\n\nThe evening of the 2sth was cool and ths\n\n\nsky perfectly clear. The thermometer stooc\nAZ zoo and the Barometer at 29.SO inches\nA Northerly wind had prevailed for some\n!, d.vs and on the 26th there had been vio\na len, Easterly storm.\n!, In Cregory's Dict, article Aurora Boreal\nis. is a description by Dalton, nearly answer\ni, ing TO that Of the lower Bow. &c. but 1t\n\n\ndoubtful whether any account has been CIV\n>, en- of phenomenon similar to that first de\n;, scrib.d. The oldest inhabitants OF WI\n\n\nminrt,n do not reeollect having seen it IL",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1620,
+                    "y0": 799,
+                    "x1": 1925,
+                    "y1": 834
+                },
+                {
+                    "x0": 1446,
+                    "y0": 903,
+                    "x1": 2116,
+                    "y1": 5065
+                }
+            ],
+            "bbox": [
+                1446,
+                799,
+                2116,
+                5065
+            ],
+            "full_article_id": 16,
+            "id": "16_1827-09-06_p3_sn85042523_00271740244_1827090601_0851.json"
+        },
+        {
+            "object_ids": [
+                40,
+                35,
+                16
+            ],
+            "headline": "EDWIN p. ATLEE, Secretary\n\nView York, tug. IS.\nPIIRIIC CAS'rIGAIION.",
+            "article": "A recontre took place this day in Ex-\nchange street, between Mr.. Goddard, a\ngentleman of Boston, and Mr. Vance, of N.\nYork. in which the latter received very Sc\nwe're cowhding, in consequence OF his having\ntaken the unwarrantabe liberty Of publicly\nposting Mr.. G. a fewdays since. 1t would APP\npear that Mr. Vance was not altogether unap'\nprsed of the intention of his assallant, Tor\nafter the first blow was given, he presented\nloaded pistol to the breast of Mr.. y. which\nhe fortunately parried, upon which Vance\ndrew a second, which Aashed in Mr.. G.''\nface, but did not go off. Mr. Goddard al\nthe while applying the cowhidc. The by\nstanders then interfering, prevented further\nmischief.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 273,
+                    "y0": 1355,
+                    "x1": 717,
+                    "y1": 1386
+                },
+                {
+                    "x0": 200,
+                    "y0": 1811,
+                    "x1": 735,
+                    "y1": 1881
+                },
+                {
+                    "x0": 108,
+                    "y0": 1885,
+                    "x1": 765,
+                    "y1": 2459
+                }
+            ],
+            "bbox": [
+                108,
+                1355,
+                765,
+                2459
+            ],
+            "full_article_id": 17,
+            "id": "17_1827-09-06_p3_sn85042523_00271740244_1827090601_0851.json"
+        },
+        {
+            "object_ids": [
+                39,
+                18
+            ],
+            "headline": "New Ark Academy.",
+            "article": "The semi.annuaI examination of the Students\nin this Institution, will take place on Thursdays\nthe goth inst BY Order,\n\n\nII. WHITELEY, Sec'ry.\nSeptember S, 1897.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2901,
+                    "y0": 2697,
+                    "x1": 3345,
+                    "y1": 2746
+                },
+                {
+                    "x0": 2806,
+                    "y0": 2749,
+                    "x1": 3467,
+                    "y1": 2911
+                }
+            ],
+            "bbox": [
+                2806,
+                2697,
+                3467,
+                2911
+            ],
+            "full_article_id": 19,
+            "id": "19_1827-09-06_p3_sn85042523_00271740244_1827090601_0851.json"
+        },
+        {
+            "object_ids": [
+                37,
+                19
+            ],
+            "headline": "FOR TOMATTO CATSUP-haya gal",
+            "article": "LOH.\n\n\nAS this is the season for making the best\ncondiment for fsh or steak that ever pantry\nwas furnished with. send the following re-\ncipe:--\n\n\nTake gallon of skinned tomatoes,\n\n\ntable spoonsful of salt,\n4 do. do. black pepper, !\n\n\nhalf a spoonful alspice,\n8 pods red pepper.\n\n\ntable spoonsful of mustard.\nArticles ground fine, and simmered slowly\nin sharp vinegar, in pewter basin, three or\nfour hours, and then strained through wire\nsieve and bottled close. 1t may be used in\ntwo weeks. but improves much by age\nThose who like the article may add. after\nthe simmering is over, and the ingredients\nsome what cooled. two table spoonsful OF the\njuice of garlic. So much vinegar is to be\nused as to have half gallon ofliquor when the\nprocess is over Ton taste this is superior\nto any West India ketchup that have ever\nmet with, and it is withal an excellent reme'\ndy for dyspepsia'-.4mcr. Farmer.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2788,
+                    "y0": 1177,
+                    "x1": 3441,
+                    "y1": 1234
+                },
+                {
+                    "x0": 2784,
+                    "y0": 1237,
+                    "x1": 3458,
+                    "y1": 2051
+                }
+            ],
+            "bbox": [
+                2784,
+                1177,
+                3458,
+                2051
+            ],
+            "full_article_id": 20,
+            "id": "20_1827-09-06_p3_sn85042523_00271740244_1827090601_0851.json"
+        },
+        {
+            "object_ids": [
+                22
+            ],
+            "headline": "",
+            "article": "is eye is large and vacant, and what, VIVA, is re re-\na,artable 40 the ostrich appears entirely des-\ntuts Of attachmsn. to is ,Ssrs. Uwn sperss hs ns\n','as ms oft.nt;mes ride them; and though their\nWING WINGS are too small for Aging their speed,\novsr \"S the deserts of their own native coun-\n~ try is far greater than the heetest Arabian\nhorse.\n\n\nA fact worthy of occupying the attention\ng ro.trorologists this year is the co-exist-\n.nce of a drought which threatens the crops\nn mt the Northern countries OF Europe, and\ninundatiens that lay waste the central and\nSouthern countries. 1t is apprehended that\nn many provinces on the Baltic, the ex, :,\nrene heat, Joined to the want of rain, wlll\ndry the corn before it has attained IT'S full\nrrowth, and it may happen that the SAINT! same\nCountries will be ravaged by the Overlooking\nofthe rivers, which are swollen at their\nsources. The height OF the Elbe in partlc-\nular gives rise to serious alarm.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 91,
+                    "y0": 208,
+                    "x1": 756,
+                    "y1": 1039
+                }
+            ],
+            "bbox": [
+                91,
+                208,
+                756,
+                1039
+            ],
+            "full_article_id": 23,
+            "id": "23_1827-09-06_p3_sn85042523_00271740244_1827090601_0851.json"
+        },
+        {
+            "object_ids": [
+                34
+            ],
+            "headline": "",
+            "article": "Enfan Trouve.-rhc Philadelphia u\nnted States Gazette says:--Yesterday at\nscrneon, a we'll dressed female requested a\nwoman who was sitting in the High street\nmarket, to hold her infant while she per\nformed an errand at the distance of few\nsquares. The woman accordingly took the\nchild apparently about six months old. and\nwith it small bundle, containing the child's\nclothes. The supposed mother. however,\ndid not redeem her pledge; and after wait\ning long time, the person who received the\nchild. was compelled to return to her own\nhouse. with the gratuitous addition to her\nfamily.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 117,
+                    "y0": 2497,
+                    "x1": 778,
+                    "y1": 3002
+                }
+            ],
+            "bbox": [
+                117,
+                2497,
+                778,
+                3002
+            ],
+            "full_article_id": 35,
+            "id": "35_1827-09-06_p3_sn85042523_00271740244_1827090601_0851.json"
+        },
+        {
+            "object_ids": [
+                38
+            ],
+            "headline": "",
+            "article": "Road fran Buffalo 10 Washington.-Ar--\nrangements are making to construct road\nfrom Marlborough to Southport. in Pennsyl-\nvania, on part of the route between the \"a\nbove places, by an incorporated company Of\nthat State. 1t is intended to make applica-\nton to Congress for assistance; and the\nPresident of the Company, Mr.. Karthaus,\nis expected to visit Buffalo. in the course Of\nthe present month, to obtain cooperation\nin the design.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 126,
+                    "y0": 3040,
+                    "x1": 787,
+                    "y1": 3415
+                }
+            ],
+            "bbox": [
+                126,
+                3040,
+                787,
+                3415
+            ],
+            "full_article_id": 39,
+            "id": "39_1827-09-06_p3_sn85042523_00271740244_1827090601_0851.json"
+        },
+        {
+            "object_ids": [
+                42,
+                45,
+                41
+            ],
+            "headline": "fr0ra one Of the editors ofMe ~ Y. Commercial\n\n\nadvertiser.",
+            "article": "'MONTKEAL, hubuSt -F'\n\n\n:, IN my letter of Wednesday, mentioned that\nwe VT celebrated Captain Franklin had arrived\n.' near this CITY, He came at An early hour yes\n.Mraay morning, and proceeded Immediately TOR\nvi. u,e United States. lie looks well, and under\n1,Ahd that he has generally enjoyed good health\n:. A. Is stated that he travelled from Mackenzie's\n.lyer to the Icy Cape, and was within $50 miles\nN'he spot the ship Blossom was to have touch\nvs. w. where he remained nine days, in consequence\nOMtaiog. He saw nothing which indicated an\nros,ructon to the navigation for as far as ne\nQUO see at any time, an open sea was to be seen,\nh'Ive hue very singular circumstance was mentioned\nts ss him' In January last, when the thermome-\nma ma was 81 degrees below zero, \"the weather was\nM S'oie comfortable\" than when it ascended TO l2'\nes;SI .a sle latter case the clothing was burden",
+            "byline": "MONTREAL, August \"a",
+            "bbox_list": [
+                {
+                    "x0": 160,
+                    "y0": 4847,
+                    "x1": 800,
+                    "y1": 4922
+                },
+                {
+                    "x0": 395,
+                    "y0": 4925,
+                    "x1": 752,
+                    "y1": 4957
+                },
+                {
+                    "x0": 156,
+                    "y0": 4938,
+                    "x1": 800,
+                    "y1": 5521
+                }
+            ],
+            "bbox": [
+                156,
+                4847,
+                800,
+                5521
+            ],
+            "full_article_id": 42,
+            "id": "42_1827-09-06_p3_sn85042523_00271740244_1827090601_0851.json"
+        },
+        {
+            "object_ids": [
+                43
+            ],
+            "headline": "",
+            "article": "Mr. Joseph r. Ladd. an enterprisng citi-\nzen Of Alexandria, has met with serious\nloss in the destruction of his new steam mill\nby fire on Thursday morning. The mill\nh a been in operation not more than fort\nnight, and was not insured. The loss we\nunderstand is estimated at about sixteen\ntn nsand dollars. The fire, which it is be-\nlievcd was accidental. was discovered by the\nwatchmcn about three O'Clock in the morn\ning.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 126,
+                    "y0": 3448,
+                    "x1": 787,
+                    "y1": 3823
+                }
+            ],
+            "bbox": [
+                126,
+                3448,
+                787,
+                3823
+            ],
+            "full_article_id": 44,
+            "id": "44_1827-09-06_p3_sn85042523_00271740244_1827090601_0851.json"
+        }
+    ]
+}

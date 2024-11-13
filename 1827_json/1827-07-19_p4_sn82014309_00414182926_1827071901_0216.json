@@ -1,0 +1,1286 @@
+{
+    "lccn": {
+        "title": "The Litchfield County post.",
+        "geonames_ids": [
+            "4837799"
+        ],
+        "dbpedia_ids": [
+            "Litchfield%2C_Connecticut"
+        ],
+        "issn": "",
+        "lccn": "sn82014309",
+        "start_year": "1826",
+        "end_year": "1829",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [
+            "sn84020071"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn82014309",
+        "edition": "ed-01",
+        "date": "1827-07-19",
+        "pages": [
+            "seq-1",
+            "seq-2",
+            "seq-3",
+            "seq-4"
+        ]
+    },
+    "page_number": "4",
+    "scan": {
+        "lccn": "sn82014309",
+        "edition": "ed-01",
+        "date": "1827-07-19",
+        "page": "4",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-07-19/ed-1/seq-4.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-07-19/ed-1/seq-4/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-07-19/ed-1/seq-4/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/ct_barnum_ver01/data/sn82014309/00414182926/1827071901/0216.jp2",
+        "height": 7435,
+        "width": 5040
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 3036,
+                "y0": 4675,
+                "x1": 3909,
+                "y1": 5379
+            },
+            "class": "article",
+            "raw_text": "DEUBEN HERMAN would inform Il the public that he has opened Shop in Litchfeld, few rods east of the Meeting house at the Stand lately occupied by I. Bunce Esq. where he will attend to the business of Clock and Watch repairing, and Silver Smith, and keeps on hand an assortment of such ar ticles as are usually called for in his line, as low as can be bought elsewhere, among which are Silver Spectacles, Spoons, Jewelry, Sc. also few first rate Brass eight day Clocks. He solicits share of the public patronage.\n\n As a DENTIST he will set teeth in the best manner for those who may favour him with their custom.-Cash paid for old Silver.\n\n Litchfield, May 30, I827.% 6w5O",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 40,
+            "bbox": {
+                "x0": 3321,
+                "y0": 4617,
+                "x1": 3618,
+                "y1": 4665
+            },
+            "class": "headline",
+            "raw_text": "NOTICE.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1259,
+                "y0": 5918,
+                "x1": 2131,
+                "y1": 6692
+            },
+            "class": "article",
+            "raw_text": "NOTICE is hereby given that the subscribers have been duly apponted by the Hon. Court of Probate for the District of Shason Commissioners receive exa- mine adjust and settle tho aims of the several credit ors to the estate of\n\n JESSE HUl,BARD,\n\n late Salisbury deceased insolvent: And that six months from the third day of July instant, limited and allowed by said Court for creditors to cx- hibit their claims against said estate. Wesall attend to the business of our said appointneht the first Monday in August next at the late dwell;nghouse of sa.a e and on the last Mondsy o Salisbury, at ten o'clock A. M. each of sad days-- All those who shall negectto exhibit their ciaias with m the time limited aforesaid duly atcsted will be 'I TiIoMAs N. SMITH, consu.is.\n\n LOT NORTON, sfoaeys. Salisbury, July 4th, 1897. A",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 1306,
+                "y0": 5837,
+                "x1": 2073,
+                "y1": 5896
+            },
+            "class": "headline",
+            "raw_text": "COMMISSIONERS NOTICE.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2148,
+                "y0": 6540,
+                "x1": 3014,
+                "y1": 7064
+            },
+            "class": "article",
+            "raw_text": "DY order of the Court of Probate for the district of Litchfeld, will be sold at public Auction, on Tuesday, the 17th of July next, uncss previously disposed of at private salel 50 much of the real estate of SAMUEL GUNN, late ofLitch6eld in said district deceased will raise the sum of one thousand and fifty dollars. Sale to commence at 10 o'clock A. M. at the late residence of the deceased e.\n\n THOMAS J. GUNN.1 A,..;.,..\n\n RALPH R. GUNN, { -A\"\"V\"' S' Litchfeld, June q, 1927.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 2398,
+                "y0": 6441,
+                "x1": 2759,
+                "y1": 6512
+            },
+            "class": "headline",
+            "raw_text": "AUCTION.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 3036,
+                "y0": 2515,
+                "x1": 3915,
+                "y1": 3672
+            },
+            "class": "article",
+            "raw_text": "Or tue GENERAL RESIORAIIVES0 Of Ladies' Dresses and Gentlemen's Clothing,\n\n of every description of colour aud\n\n quality, acithout doing the\n\n least injury to either.\n\n THE above composition, so justly celebrated in \\ Europe, and also in the principal cities and towns in the United States the former, the Vegetable Oil for it's superior quality in extracting oi or grease of any kind, ,aso paint tar, &c. from Gentemens Cloah ing, and woollen cloth and carpeting of every dis crpton; restoring the to their former condition without doing the least injury to quality or color. And is emnently useful to sea-farng and travellers, itpossessing the singular quality of washing in or salt water, well other soap can do in rain water and will be sovereign remedy for scurbutc and oth- eruptions ofthc face and skin.\n\n And the latter, the Iperiai Renoodter for it is ve- ry extraordinary qualities in extracting spots or stains caused by grease oil, soil of any kind, from Silks Sattens, Merinos, Canton Grapes, Bombaznes, and Ladies' dresses of every description restoring the to their former condition, without doing the least injury to either Gloss, Color, Quality, let the be whatever it may, and in most cases in very few minutes too without the aid of any kind fliqud hea ted irons, or any thing else and may be left upon silks of the most delicate coors, for whole months gether, with the greatest safety.\n\n Sold by s. $. SMITH,",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3031,
+                "y0": 3717,
+                "x1": 3909,
+                "y1": 4607
+            },
+            "class": "article",
+            "raw_text": "Sole Agent for the IoaOn of fLitchjfeld. It is requested that any Lady or Gentleman, who entertans any doubt of the superior excellence of the stained as above described, for trial; and the same will be removed in their presence, gratis; and the satisfactory proof given that the practice of send ing fine dresses, account of such stains, to the Dy makes the above request, that Ladies and Gentlemen may be able to distinguish the genuine articles from numerous counterfeits that imposed upon the pub lie under the above titles. It may be had at all times at Doyle's Bookstore, Broadway, and Mr. Eggleso's, No. 8l. Bowery.\n\n zhe Agents torthe sale o these articles as Co,aec- ticut are, Messrs Price &c MLean, Noraoalk; DOct. Dyer Bridgeport; Bala,cin S, Bears, Ne,cto,on \" $, s. Comstock, Danbvy; M. 4. Dmand, Ne,c- Hayen; Doct. Dyer, Middletouon Mr Robinso's, Nor scich; Peter Norton, Hartford; s. s. Smith, Litch- field. UTA rery hbardl allopance aoM De made to one person each toon, scho may purchase to sell agun\n\n June 9, 1897. 8tc 54",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 52,
+            "bbox": {
+                "x0": 3187,
+                "y0": 3607,
+                "x1": 3856,
+                "y1": 3672
+            },
+            "class": "headline",
+            "raw_text": "Sold by s. $. SMITH,",
+            "legibility": "Questionable",
+            "full_article_id": 5,
+            "reading_order_id": -2
+        },
+        {
+            "id": 47,
+            "bbox": {
+                "x0": 3257,
+                "y0": 3676,
+                "x1": 3851,
+                "y1": 3718
+            },
+            "class": "headline",
+            "raw_text": "At the \"Litchfeld Book- Store, ,",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2148,
+                "y0": 4617,
+                "x1": 3014,
+                "y1": 6425
+            },
+            "class": "article",
+            "raw_text": "\n\n and for the District of Litchfeld, July 2d, 1897.\n\n Present F. WOLCOTT, Esq. Judge. UPON the petition of William c. Abernethy and Elisha Smith, Guardians Sophia D. Hoadiy and Lu- ther Hoadly, minors, of Harwnton in said District showing to this Court that said Minors own the inter- est hereinafter mentioned, in the following described real estate, situate in the town of Winchester the in terest of said Minors in the whole ofsad being subject to the incumbrance of the life estate of their mother, Sophia Abernethy, Hate Sophia Hoady) in the one undivided third part thereof, viz:\n\n About three fourths of an acre of land lying the East Branch ofStill River, about half mile north of Wnsted Meeting House, in said town of Winchester, with dwelling house and shed standing thereon.\n\n Aso sixtyseven rods of land lying east ofthe piece above described.\n\n A!so the one undivided half of seven acres of land owned in common with Riley Whiting, lying on the East branch of said Still Rver and north of the high way leading to Walling's hill.\n\n Also, one undivided half of Grist Mill and the one undivided half of seven eghts of the mill privilege and the one undivided half of small mill house, with about half of an acre of land on which said mill and mill house stand. 4\n\n Also. the one halfof Clock Shop, and the one half ofseven eghts of the water privilege ofthe same, with the one half of small piece of land on which said shop stands and that which adjoins the same which has heretofore been occupied as a lumber yard.\n\n Also, the undivided third part of fifteen acres of land lying in said Winchester, on the East Bank of said Stin River, bounded north on Halsey Burr and Riley Whiting g:--praying for liberty to sell the same, as her petition on file, dated May 4, 1927.\n\n Whereupon this Court doth order that said petition be continued to the second Monday in September next at ten o'clock A. M then be heard before this Court at the Probate Office in Litchfeld in sad Dis rict and that notice of the pendancy of said petition be given by publishing this order in newspaperprin- ted in said Ltchfeld three weeks successvey least six weeks before said second Monday in September next. A true Copy of Record.\n\n FREDERICK WOLCOTT, Judge.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2159,
+                "y0": 1550,
+                "x1": 3014,
+                "y1": 2022
+            },
+            "class": "article",
+            "raw_text": "THE Hon. Court of Probate for the District of Litch6eld hath assigned Tuesday the 18th day ot ln- stant July at ten o'clock in the orenoon at the Pro- bate Office in Litchfeld for the examination and set clement of the administration account of the subscrl- ber Executor of :he last will and testament of Joseph Mansfield, late of said Ltchfeld, deceased, at which time and place all persons interested in said Estate will they see cause attend before said court and be heard in the premises By order of said Court\n\n JOHN T. MANSFIELD, Ececutor. 2 ELIHU HARRISON.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 2432,
+                "y0": 1463,
+                "x1": 2730,
+                "y1": 1528
+            },
+            "class": "headline",
+            "raw_text": "NOTICE.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2148,
+                "y0": 3415,
+                "x1": 3014,
+                "y1": 4194
+            },
+            "class": "article",
+            "raw_text": "LEAVES Poughkeepsie every Monday, Wednesday, and Friday, at o'clock A: M, passes through Sha- ron, and arrives at Ltch6eld the same day, where it meets the Hartford, New-Haven, and Albany sta-\n\n Leaves Litchfeld every Tuesday, Thursday, and Saturday, at 5 o'clock A. M. and arrives at Pough- keepse in time to take the Steamboat for New York or Albany.-Passengers in this line will arrive in AL bany the morning after leaving Litch6eld in time to take the morning stages for the west. .,\n\n The proprietors of this line having provided good coaches and horses and careful drivers and reduced the fare respectfully solicit share of public patron- age. e\n\n Seats taken at BUSH'S, Poughkeepsie, and at S.. DEMING'S, Ltchfeld 5@@\n\n WILLIAM STEVENS & Go. Proprietors\n\n N. B.-An goods and baggage at the risk of the owners VI\n\n June, 1897. tf3",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 39,
+            "bbox": {
+                "x0": 2159,
+                "y0": 2933,
+                "x1": 3008,
+                "y1": 3056
+            },
+            "class": "headline",
+            "raw_text": "POUGHKEEPsIE, SHARON\n\n AND LITCHFIELD",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1288,
+                "y0": 406,
+                "x1": 2137,
+                "y1": 645
+            },
+            "class": "article",
+            "raw_text": "The Agricultural Society Ofthe COuny OfLichfeld, propose to have Cattle Show and Fair at Litch- 6eld near the COurt-hOuse, on the 10th of October next;-and the Executive Committee, to promote the objects Ofthe SOciey, offer the following",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1288,
+                "y0": 331,
+                "x1": 2143,
+                "y1": 395
+            },
+            "class": "headline",
+            "raw_text": "CATTLE SHOW AND FAIR",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1253,
+                "y0": 6796,
+                "x1": 2126,
+                "y1": 7064
+            },
+            "class": "article",
+            "raw_text": "A DROKE into the inclosure of the subscriber on or about the 18th ipst SKXrM a two year old red Heifer, some white ,... q N on her belly-no artificial mark The owner IS requested to pay damages and take her away. JOHN WEIGH. q Litchfeld, Milton Society,l June 28th. 1897. 2",
+            "legibility": "Questionable",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 1532,
+                "y0": 6714,
+                "x1": 1835,
+                "y1": 6773
+            },
+            "class": "headline",
+            "raw_text": "ESTRAY.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 370,
+                "y0": 470,
+                "x1": 1260,
+                "y1": 6036
+            },
+            "class": "article",
+            "raw_text": "\n\n man may give that the habit ls coming over him with power. The signs he names are seven in number. of which we now copy the first. Boston Recorder\n\n One of the early indications of intemper- ance may be found in the associations of time and place. In the commencement of this e. vii habit there are many who drink to excess only on particular days, such as days for mil- itary exhibition, the anniversary of eur inde- pendence. the birth day of Washington, Christmas, new years day, election, and others of the like nature. When any of these holidays arrive. and they come as often al- most as saints days in the calendar. they bring with them to many the unsuitable de- sire of drinking as well as a dispensatiOn from the sin, as eficacious and quieting to the con- science, as papal indulgences.\n\n There are some am aware that have re- commended the multiplication of holidays and public amusementS, as a remedy for lntem- perance about as wise prescrptiOn-as the multiplying gambling houses to superscede gambling, pr the building of theatres to cor rect the evils of the stage.\n\n There are others who feel the desire of drinking stirred up within them by the asso- citations of place. They could go from end\n\n  its, were there nc tavern on the road. But the very sight of these resceptacles of pil- grims awakens the desire 'iust to step in and take something.\" And so powerful does the association become, that many will nO more pass tavern than they would pass a fortified place with all the engines of death directed against them. There are in every city, town and village, places of resort, which in like manner as soon as the eye falls upon them creates thirst of drinking, and many who coming to market on business, ,pass near them, pay toll there as regularly as they do at the gates and sometimes both when they come in and when they go out. In cities and their suburbs, there are hundreds of shops at which a large proportion of those who bring produce stop regularly to receive the customary bey- craze.\n\n In every community you may observe par ticular persons who can never meet without feeling the simultaneous desire of strong drink. What can be the reason of this ! All men, when they meet are not affected thus. 1t is not uncommon for men of similar em- ployment to be drawn by association, when they meet, to the same topics of conversation: physicians, upon the concerns of their pro- fession :-politicians, upon the events of the day :-and Christians when they meet, are drawn by common interest to speak of the kingdom of God. But this is upon the principle of a common interest in these sub- iects, which has no slight hold upon the thoughts and affections. Whoever then finds himself tempted on meeting his companion or friend to say, \"come and let us go and take something,' 2 or, to make it his first busi- ness to set out his decanter and glasses, ought to understand that he discloses his in- ordinate attachment to ardent spirits, and accuses his Friend of incompetence.\n\n Sympathy ofthe Heart.-There is curious thing with respect to the heart, showing its sympathies with the lungs. This is one of the curious experiments that have been made. If an animal be pithed,the medulla spinalis be divided high up, he dies; because the lungs want energy, and the diaphrGmatie nerve has its function abolished, and dies for want of breath. But let him be pithed and rcspira- ton kept up by mechanical means, the infa- tion kept up and life will go on. Now this is pair of bellows for drowned animals; he upon the lungs, for \"when l left off blowing my bellows, (said John the heart left of it's motion; and when began again to blow in-\n\n  action, at first feebly, but after little. more strongly I use the words exactly as Mir. Hunter uttered them. Now, trust all that nonsense is completely abolished: people say the cereJrum has no influence upon the heart but I say unquestiOnably, it has great influence upon it, and quote an instance to show it: suppose timid person, or deli cate female, hears noise in the middle of the night, which she supposes either to he a ghost ora robber egad, her pulsation falls, she gets cold and is so alarmed as to be al. most dead. Suppose fellow calls another person scoundrel ;-the person so called, feels his spirit rising, his face grows red, and he takes up his fist, and knocks the other down. Now, why such person as Bichat should point to the heart as the seat of feeling. and puts his other hand upon his| head to denote that it'sthe place of thought, don't know but his head had no thought init, think, when he talked such nonsense as that. You know that pleasant feelings do 1 produce pleasant action, as Shakespeare 1 said, ' my bosom's lord sits lightly on its thrOnc;\" and that uneasiness of mind has di- ] rectly the converse effect. It is therefore l certainly the effect of the cerebrum that acts ! upon these organs. wonder it had not en- tered into the wise head of some person to ar- | que that the diaphragm was not the seat of all these emotions. Shakespeare seems to me to have most sensibly felt these emotions Canst thou minister to a mind diseased ! l pinck rom the memory a rooted sorrow |",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 32,
+            "bbox": {
+                "x0": 550,
+                "y0": 296,
+                "x1": 1103,
+                "y1": 349
+            },
+            "class": "headline",
+            "raw_text": "SIGNS OF INTEMPERANcE.",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": -1
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 2154,
+                "y0": 377,
+                "x1": 3014,
+                "y1": 1447
+            },
+            "class": "article",
+            "raw_text": " Remainnr h the -Oice Lisehfed, July |, 1897. Eliah Anarcws Joel MnnkeF IyTaan Avery, Samuel Merchant, Mary B1ll, Isaac Newton, Erassus Benton. Mary Pierce, Timothy Barrett, Edwin Prenus, Almira Bradley, Manly Peters, Harvey Beach, Joseph ]. PrudeD, 9 John Bissen, Newton Pruden, James Brace, Eber Peters, George Cool. George Rapel, Joseph E. Camp, Hicks smith, John Campbell, Stiles Scott, Allen T. Cole, Frederick Smedley, Ann P. Cable, Eli Stone, Eliakiln Curtis. Joseph H. Smith, Frederick Deming, Deborah Smith, Edgar B. Day, Job Simmons, Timothy Foote, Charles Sedgwick, Rev. Havel Gaylord, Reuben Tyrrell, Sally G. Gum, George w. Tallmadge, William S. Hollabird, Joseph Tufts, Samuel Hawley, Joseph Tryon, Hiram G. Hand, Eli Terry & Sons, Amos Johnson, Timothy P. P. 1ugmuttOn, Daniel Lamson, Tomlins0n Wells, Rhoda Mead, Charles L. Webb, William Munson, Timothy Wheaton, Hezekiah Murray, Christopher Wheeler. 3 CHARLES SEYMOUR, ?. M.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 36,
+            "bbox": {
+                "x0": 2363,
+                "y0": 331,
+                "x1": 2805,
+                "y1": 384
+            },
+            "class": "headline",
+            "raw_text": "Nfat nf Hettfrs",
+            "legibility": "Illegible",
+            "full_article_id": 16,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2142,
+                "y0": 4286,
+                "x1": 3014,
+                "y1": 4479
+            },
+            "class": "article",
+            "raw_text": "w HEREAS my wife Mary has left my bed and board and refuses live with me, this is to forbid all persons harboring, rusting employing heron pen- alty ofthe law. HOLSEY T. BIGALOW.\n\n Goshen June 3d. 1897. -.l .---. 3",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 2421,
+                "y0": 4199,
+                "x1": 2735,
+                "y1": 4270
+            },
+            "class": "headline",
+            "raw_text": "NOTICE.",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": -1
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 3925,
+                "y0": 1184,
+                "x1": 4809,
+                "y1": 1592
+            },
+            "class": "article",
+            "raw_text": "LNROM Litchfeld to New York--by Steam\n\n L Boat John Marshall-through in one day-fare ss l-9-by line stages, to meet the boat at Norwalk-ieaving Litchfield Mon days, Wednesdays and Fridays, at 9 A. M. through Woodbury. NewtOwn and Bridge port and New-Yorl, Tuesdays, Thursdays and Saturdays. at A. M. for Litch6eld, un- til the lst May-after that at A. M. 6m46",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 3925,
+                "y0": 406,
+                "x1": 4803,
+                "y1": 883
+            },
+            "class": "article",
+            "raw_text": "IN pursuance Ofan order from the Hon. Court of Probate for the district of Granby, will be sold at pub ic Auction, on the first Monday in September nexs at ten o'clock A. Nj. unless previously disposed of saps- vase sale sOmuch Ofthe Real Estate of Joseph FOOse, late of Hartand, in said district deceased as will raise the sum of two hundred and fOrywO dOlarsand twelve cents, with incidental charges of sale.\n\n EZRA FOOTE, EEecator. Goshen, July 5th, 1927.",
+            "legibility": "Questionable",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 4204,
+                "y0": 313,
+                "x1": 4507,
+                "y1": 384
+            },
+            "class": "headline",
+            "raw_text": "NOTICE.",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": -1
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 1259,
+                "y0": 4031,
+                "x1": 2126,
+                "y1": 5821
+            },
+            "class": "article",
+            "raw_text": "No article of Houshold Manufactures will be enti- tied to premium unless manuatured entirely within the county.\n\n To entitle himself to premiums for Horticultural Productions, the person claiming must state in wri- ting, and prove to the satisfaction of the Awarding Committee, the quantity of land, and the amount of the product Ito be ascerained by measure, and must also state in writing the nature or kind of soil--he previous situation of the Iand-how tilled-thc kind and quality manure, and how and when appied--how the seed was applied, and how, and when sown, and the quantity per acre.\n\n The claims for premiums under this article mus, be entered with the Treasurer, MR. LEONARD Coop WIN on or before the 9th day of October next; but the evidence of actual product except aax which will be admitted till the list day of March next and Winter Wheat to the 1st day of January l829 will be admit ted at any time previous to the fst day of January next Persons intending to offer Domestic Animals, or Houshold manufactures give notice to the Treas arer, on or before the 9th day of October next re- quMeailng an entry to be made of such notice. out competition, unless such article shall be, in the pinlon ot the Awarding Committee, highly merito- rious. No Animal or article of Houshold Manufacture. winch shall have obtained premium previous ex- hlbton, wills under the same denomination be enti- tied to second premium.\n\n A statement of the quantity and quality of Milk giv- en by, and of the butter made from, the Mich Cows entered for premiums crediby attested will be requi- red ny the Awarding Commte.\n\n The examinations of Domestic Animals and Hous. hold Manufactures will commence near the Court House, at 9 A. M.\n\n No person but member ofthe Society, can be en- titled to premium except on Hearth Rugs, Bonnets Stockings and other articles of Domestic Manufac. tnres highly meritorious.\n\n All premiums not called for within three months at- ter awarded, will be forfeited to the Society.\n\n UTAH persons in arrears to the Society, are re- qnested 10 forward the amount to the TreasIrer\n\n GT An GRAFTON will be delivered on the oc. casion. Per order, S. P. BOLLES, Rec. Sec.\n\n LITCEFTEsLD, JUNE q, 1897. 1vsa#",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 3036,
+                "y0": 737,
+                "x1": 3915,
+                "y1": 2196
+            },
+            "class": "article",
+            "raw_text": "LOsoing LGnes.\n\n FOR ALBANY AND HUDSON.\n\n Leaves Litchfeld daily Sundays excepted at o. clock in the morning, arrives at each place af ternoOn, and returns from each place in the order\n\n LITCHFIELD AND NEW-HAVEN. Leaves Ltchfeld for New-Haven daily Sundays excepted) at o'clock in the morning; Monday, We'd nesday and Friday, by Bethem, WOOdbury, Southbu- ry, Oxford, Humphreys-Ve, and arrives in N. Haven at P. M.; Tuesday, Thursday and Saturday, by WatertOwn, Waterbury, Salem-bridge, and Wood bridge, arrives at N. Haven at 9 P. M. and returns from N. Haven in the same order.\n\n LITCHFIELD AND HARTFORD.\n\n Leaves Litchfeld for Hartford, Tuesdays, Thurs days and Saturdays o'clock in the morning thro' HarwintOn, Burlington, Pennington and West-Hart- ford, and arrives in Hartford at o'clock P. M Re- turns from Hartford Mondays, Wednesdays and Fri days at o'clock in the morning.\n\n LITCHFIELD AND NORWALK.\n\n Leaves Ltchfeld for New-Milford, Danbury and Norwalk every Friday afternoon on arrival of the Stage from Hartford, through Bradleys-Ville, New Preston, New-Milford Brookfeld, Danbury, Reading, and Wilton, and arrives at Norwalk on Saturday at 12 o'clock at noon. Returns from Norwalk Sundays, arrives at Litchfeld Monday afternoon.\n\n This Line intersects the Steamboat at Norwalk and arrives in N. York same night.\n\n The Steamboat leaves N. Haven for N. York eve- \" evening at z o'clock.\n\n The Steam-Boats leave Hartford for N. York Mon- days, Wednesdays, Thursdays and Saturdays, at Il o'clock A. M.\n\n For information or passage in the above Lines ap- ply to J. PARKS. Ltchfed, June II, 1897. tf52",
+            "legibility": "Legible",
+            "full_article_id": 30,
+            "reading_order_id": 0
+        },
+        {
+            "id": 46,
+            "bbox": {
+                "x0": 3042,
+                "y0": 586,
+                "x1": 3903,
+                "y1": 785
+            },
+            "class": "headline",
+            "raw_text": "STAGE NOTICE. SwmWer Arrangement 0f tue fOl-\n\n LOaninC Lines. ..",
+            "legibility": "Legible",
+            "full_article_id": 30,
+            "reading_order_id": -1
+        },
+        {
+            "id": 33,
+            "bbox": {
+                "x0": 3931,
+                "y0": 1643,
+                "x1": 4344,
+                "y1": 5222
+            },
+            "class": "article",
+            "raw_text": "~0SN~ N\n\n Bills of the following mentor deposit at the PH( The list will be corrected\n\n NEW-HAMPSHIRE. Cheshire Bank. Concord. Merrimac, at Concord. Exeter. New-Hampshire. Union. Strafford. Portsmouth. Rockingham. Grafton. Amherst. MASSACHUSETTS,. Boston Banks. Pittsfield Bank. Agricultural, at do. Farmers, at do. Housatonic. Hampshire. Greenfield. Sunderland. Belchertown. Weare. Menden. Springfield. Westfieid. Beverly. Bedford. Commercial, at do. Salem. Commercial, at do. Mechanics, at do. Dedham. Essex. Gloucester. Lynn Mechanics. Franklin. Marbiehead. Merchants. Merrimac. Nerburyport. Plymouth. Pawtuxet. Taunton. Union. Worcester. Falmouth. Andover. Pacific, Nantucket. *Phoenix, at do. *Manufac. & Mec. at do.\n\n RHODE-ISLAND. Eagle. Bristol. Commercial. Freeman's. Agric'al. & ManuEac. Rhode-Island. *Burrillville. Cranston. Exchange. Franklin. Kent. Landholders'. @ Manufacturers. Merchants. Newport. N. E. Company. Narraganset. N. Kingston. Mount Hope. Pautucket. Providence. P hoenix. R. l. Union. R. !. Central. R. Williams. Smithfeld Union.\n\n Do. Exchange.\n\n Do. Lime Rock. Scituate. Union. Washington. Warwick. Hope. Village. Cumberland.\n\n CONNECTICUT. Norwich. Bridgeport. New-Haven. Mechanics Hartford.\n\n do. Phoenix. Middletown. New-London.\n\n *Current in New-Y York cent ; but not bankable h",
+            "legibility": "Legible",
+            "full_article_id": 34,
+            "reading_order_id": 0
+        },
+        {
+            "id": 53,
+            "bbox": {
+                "x0": 4117,
+                "y0": 1608,
+                "x1": 4623,
+                "y1": 1662
+            },
+            "class": "headline",
+            "raw_text": "1saak Nots EaMe.",
+            "legibility": "Illegible",
+            "full_article_id": 34,
+            "reading_order_id": -1
+        },
+        {
+            "id": 42,
+            "bbox": {
+                "x0": 3931,
+                "y0": 5454,
+                "x1": 4815,
+                "y1": 6524
+            },
+            "class": "article",
+            "raw_text": "TOR pleasantness, safety, expedition, ease. N and certainty, is infinitely superior to any other to cure that tormenting disOrder.- Price s cents per box.\n\n Clay's Stomack Bsttcrs. They will be found, in all cases of fgt the fol- lowing description, to give relief nausea, vomiting, heartburn, costiveness.s weakness at the breast, pain in the stomach, loss of ap-. petite, and all other simptons of indigestion and Aatulence, and as a nervous cordial is not to he surpassed by any thing. 25 cents box.\n\n Pe0rt Tooth Posoder. This celebrated Powder needs no recou,- mendation-every gentleman and lady should be in the constant use of it, if they wish to preserve their teeth from decay, and have them appear of a beautiful pearly whiteness. Price 25 cents box. Sold 6y w. & s. BUEL and HENRI PHELPS\n\n ID. CLAY. November 2l, 1926. eowly2S",
+            "legibility": "Legible",
+            "full_article_id": 43,
+            "reading_order_id": 0
+        },
+        {
+            "id": 38,
+            "bbox": {
+                "x0": 4059,
+                "y0": 5280,
+                "x1": 4687,
+                "y1": 5449
+            },
+            "class": "headline",
+            "raw_text": ".CIAY'S HCh Ointment.",
+            "legibility": "Legible",
+            "full_article_id": 43,
+            "reading_order_id": -1
+        },
+        {
+            "id": 43,
+            "bbox": {
+                "x0": 2159,
+                "y0": 4588,
+                "x1": 3014,
+                "y1": 4735
+            },
+            "class": "article",
+            "raw_text": "Ata Court of Probate holden at Litchfeld, within and for the District of Litchfeld July 2d, 1897.\n\n Present F. WOLCOTT, Esq. Judge.",
+            "legibility": "Legible",
+            "full_article_id": 44,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 2363,
+                "y0": 4501,
+                "x1": 2794,
+                "y1": 4578
+            },
+            "class": "headline",
+            "raw_text": "NOTICE.",
+            "legibility": "Legible",
+            "full_article_id": 44,
+            "reading_order_id": -1
+        },
+        {
+            "id": 44,
+            "bbox": {
+                "x0": 1271,
+                "y0": 627,
+                "x1": 2114,
+                "y1": 4130
+            },
+            "class": "article",
+            "raw_text": "\n\n l17REAafGI9aS.\n\n AGRICULTURAL PRODUCTIONS. To he person who shall, on one acre raise the grestest quantity of Indian Corn, $60O To the person who shall ,on one acre ,yase the. greatest quantity of Flax, dressed for spinning, 500 To the person who shall, on one acre, raise the greatest quantity of Winter Wheat, not less than 25 bushels to be taken of in 1893. zoo\n\n DOMESTIC ANIMALS. N.\n\n For the best Ball, ,not less than two years old, which shall have sbecn owned and kept in the County six months next previous to the time of exhibition, with satisfactory assurances that he shall remain in the county one year thereafter. $500 For the second best, do. 400 For the best Yearlng Bull, with satisfactory assurance that he shall remain in the county one year after exhibition, 300 For the best Mich Cow, which shall have been owned and kept in the county six months next preceding, 400 For the second best, do 300 For the best Heifer, two years old, raised in .. the county, 300\n\n do. 2d do. 200\n\n do. best Yearling Heifer, 900\n\n do. best Bull Cali, 200 For the best lot of calves, not less than fouP in number, owned by one person in the county four months next before entering for premium, 400 For the best pair of Workin Oxen, which\n\n \n\n ed by the person offering them, four months next preceding; taking into consideration the service they have performed, the manner in which they have been kept, and their abilityto perform service 800 For the second best do. 600 For the best pair of Steers, years old, raised and owned as aforesaid, 500 For the second best do. 400 For the best pair of Steers, 2 years old raised . and owned as aforesaid, MS .# 400 For the best pair of Yearling Steers. do. 300 county, 800 For the best Boar, not less than months old owned in the county, with satisfactory as- surance that he shall remain in the county, one year thereafter, 300 For the second best, do. 900\n\n For the best Colt, 3 years old, raised in the county, 500 For do. 2d do. do. 400 For do. do. do. goo For the best Stallion, which shall have been kept in the county six months next preceding, having reference to stock, 600 For the second best, do. 400 For the best Team of oxen, and handsomest exhibition of Farming Impliments, and Agricul- tural productions, lrespect being had to num- Der and quality of Cattie,) 500 For the second best, do. GOO HOUSEHOLD MANUFACTURES. For the best 20 yards of Flannel, oue yard wide, 300 For the best 20 yards Whitened Liuen Cloth, one yard wide, 300 For the best 20 yards Carpeting, 400 Forthe second best do, 300 For the best Hearth Rug 900 For the best Linen Table -Cloth, mot less than eight quarters square, 200 For the best 10 yards of Table Linen, goo For the best Grass Bonnet. 500 For the best pair of Worsted or WooIlen Stockings, 100 For the greatest quantity of Cheese, and of the best quality, manufactured in the County, from any number of Cows not less than four. The persons presenting Cheese for the premi- um, will be expected to favor the Society with an account of the method they have a. dopted in making Cheese---their manner of Keeping and managing their cows, and gen. eral description of all that appertains to dairy. 500 For other articles of Domestic Manufacture, which are highly meritorious, Premiums will be awarded at the discretion of the committee, No article of Houshold Manufactures will be enti tied to premium. unless manufatured entirely within the Countv",
+            "legibility": "Legible",
+            "full_article_id": 45,
+            "reading_order_id": 0
+        },
+        {
+            "id": 34,
+            "bbox": {
+                "x0": 1462,
+                "y0": 656,
+                "x1": 1928,
+                "y1": 709
+            },
+            "class": "headline",
+            "raw_text": "3B9EA EAafaaMS.",
+            "legibility": "Legible",
+            "full_article_id": 45,
+            "reading_order_id": -1
+        },
+        {
+            "id": 48,
+            "bbox": {
+                "x0": 1276,
+                "y0": 772,
+                "x1": 2131,
+                "y1": 1046
+            },
+            "class": "article",
+            "raw_text": "To the person who shall, ,on one acre, raise the grestest quantity of Indian Corn, $500\n\n To the person who shall, ,On one acre, raise the greatest quantity of Flax, dressed for spinning, 500\n\n To the person who shall, one acre, raise the greatest quantity of Winter Wheat, not less than 25 bushels, to be taken of in 1898. zoo",
+            "legibility": "Legible",
+            "full_article_id": 49,
+            "reading_order_id": 0
+        },
+        {
+            "id": 45,
+            "bbox": {
+                "x0": 1311,
+                "y0": 731,
+                "x1": 2067,
+                "y1": 785
+            },
+            "class": "headline",
+            "raw_text": "AGRICULTURAL PRODUCTION",
+            "legibility": "Questionable",
+            "full_article_id": 49,
+            "reading_order_id": -1
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                40,
+                0
+            ],
+            "headline": "NOTICE.",
+            "article": "DEUBEN HERMAN would inform Il the public that he has opened Shop in Litchfeld, few rods east of the Meeting house at the Stand lately occupied by I. Bunce Esq. where he will attend to the business of Clock and Watch repairing, and Silver Smith, and keeps on hand an assortment of such ar ticles as are usually called for in his line, as low as can be bought elsewhere, among which are Silver Spectacles, Spoons, Jewelry, Sc. also few first rate Brass eight day Clocks. He solicits share of the public patronage.\n\n As a DENTIST he will set teeth in the best manner for those who may favour him with their custom.-Cash paid for old Silver.\n\n Litchfield, May 30, I827.% 6w5O",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3321,
+                    "y0": 4617,
+                    "x1": 3618,
+                    "y1": 4665
+                },
+                {
+                    "x0": 3036,
+                    "y0": 4675,
+                    "x1": 3909,
+                    "y1": 5379
+                }
+            ],
+            "bbox": [
+                3036,
+                4617,
+                3909,
+                5379
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-07-19_p4_sn82014309_00414182926_1827071901_0216.json"
+        },
+        {
+            "object_ids": [
+                27,
+                1
+            ],
+            "headline": "COMMISSIONERS NOTICE.",
+            "article": "NOTICE is hereby given that the subscribers have been duly apponted by the Hon. Court of Probate for the District of Shason Commissioners receive exa- mine adjust and settle tho aims of the several credit ors to the estate of\n\n JESSE HUl,BARD,\n\n late Salisbury deceased insolvent: And that six months from the third day of July instant, limited and allowed by said Court for creditors to cx- hibit their claims against said estate. Wesall attend to the business of our said appointneht the first Monday in August next at the late dwell;nghouse of sa.a e and on the last Mondsy o Salisbury, at ten o'clock A. M. each of sad days-- All those who shall negectto exhibit their ciaias with m the time limited aforesaid duly atcsted will be 'I TiIoMAs N. SMITH, consu.is.\n\n LOT NORTON, sfoaeys. Salisbury, July 4th, 1897. A",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1306,
+                    "y0": 5837,
+                    "x1": 2073,
+                    "y1": 5896
+                },
+                {
+                    "x0": 1259,
+                    "y0": 5918,
+                    "x1": 2131,
+                    "y1": 6692
+                }
+            ],
+            "bbox": [
+                1259,
+                5837,
+                2131,
+                6692
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-07-19_p4_sn82014309_00414182926_1827071901_0216.json"
+        },
+        {
+            "object_ids": [
+                24,
+                2
+            ],
+            "headline": "AUCTION.",
+            "article": "DY order of the Court of Probate for the district of Litchfeld, will be sold at public Auction, on Tuesday, the 17th of July next, uncss previously disposed of at private salel 50 much of the real estate of SAMUEL GUNN, late ofLitch6eld in said district deceased will raise the sum of one thousand and fifty dollars. Sale to commence at 10 o'clock A. M. at the late residence of the deceased e.\n\n THOMAS J. GUNN.1 A,..;.,..\n\n RALPH R. GUNN, { -A\"\"V\"' S' Litchfeld, June q, 1927.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2398,
+                    "y0": 6441,
+                    "x1": 2759,
+                    "y1": 6512
+                },
+                {
+                    "x0": 2148,
+                    "y0": 6540,
+                    "x1": 3014,
+                    "y1": 7064
+                }
+            ],
+            "bbox": [
+                2148,
+                6441,
+                3014,
+                7064
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-07-19_p4_sn82014309_00414182926_1827071901_0216.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "Or tue GENERAL RESIORAIIVES0 Of Ladies' Dresses and Gentlemen's Clothing,\n\n of every description of colour aud\n\n quality, acithout doing the\n\n least injury to either.\n\n THE above composition, so justly celebrated in \\ Europe, and also in the principal cities and towns in the United States the former, the Vegetable Oil for it's superior quality in extracting oi or grease of any kind, ,aso paint tar, &c. from Gentemens Cloah ing, and woollen cloth and carpeting of every dis crpton; restoring the to their former condition without doing the least injury to quality or color. And is emnently useful to sea-farng and travellers, itpossessing the singular quality of washing in or salt water, well other soap can do in rain water and will be sovereign remedy for scurbutc and oth- eruptions ofthc face and skin.\n\n And the latter, the Iperiai Renoodter for it is ve- ry extraordinary qualities in extracting spots or stains caused by grease oil, soil of any kind, from Silks Sattens, Merinos, Canton Grapes, Bombaznes, and Ladies' dresses of every description restoring the to their former condition, without doing the least injury to either Gloss, Color, Quality, let the be whatever it may, and in most cases in very few minutes too without the aid of any kind fliqud hea ted irons, or any thing else and may be left upon silks of the most delicate coors, for whole months gether, with the greatest safety.\n\n Sold by s. $. SMITH,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3036,
+                    "y0": 2515,
+                    "x1": 3915,
+                    "y1": 3672
+                }
+            ],
+            "bbox": [
+                3036,
+                2515,
+                3915,
+                3672
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-07-19_p4_sn82014309_00414182926_1827071901_0216.json"
+        },
+        {
+            "object_ids": [
+                52,
+                47,
+                4
+            ],
+            "headline": "Sold by s. $. SMITH,\n\nAt the \"Litchfeld Book- Store, ,",
+            "article": "Sole Agent for the IoaOn of fLitchjfeld. It is requested that any Lady or Gentleman, who entertans any doubt of the superior excellence of the stained as above described, for trial; and the same will be removed in their presence, gratis; and the satisfactory proof given that the practice of send ing fine dresses, account of such stains, to the Dy makes the above request, that Ladies and Gentlemen may be able to distinguish the genuine articles from numerous counterfeits that imposed upon the pub lie under the above titles. It may be had at all times at Doyle's Bookstore, Broadway, and Mr. Eggleso's, No. 8l. Bowery.\n\n zhe Agents torthe sale o these articles as Co,aec- ticut are, Messrs Price &c MLean, Noraoalk; DOct. Dyer Bridgeport; Bala,cin S, Bears, Ne,cto,on \" $, s. Comstock, Danbvy; M. 4. Dmand, Ne,c- Hayen; Doct. Dyer, Middletouon Mr Robinso's, Nor scich; Peter Norton, Hartford; s. s. Smith, Litch- field. UTA rery hbardl allopance aoM De made to one person each toon, scho may purchase to sell agun\n\n June 9, 1897. 8tc 54",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3187,
+                    "y0": 3607,
+                    "x1": 3856,
+                    "y1": 3672
+                },
+                {
+                    "x0": 3257,
+                    "y0": 3676,
+                    "x1": 3851,
+                    "y1": 3718
+                },
+                {
+                    "x0": 3031,
+                    "y0": 3717,
+                    "x1": 3909,
+                    "y1": 4607
+                }
+            ],
+            "bbox": [
+                3031,
+                3607,
+                3909,
+                4607
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-07-19_p4_sn82014309_00414182926_1827071901_0216.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "\n\n and for the District of Litchfeld, July 2d, 1897.\n\n Present F. WOLCOTT, Esq. Judge. UPON the petition of William c. Abernethy and Elisha Smith, Guardians Sophia D. Hoadiy and Lu- ther Hoadly, minors, of Harwnton in said District showing to this Court that said Minors own the inter- est hereinafter mentioned, in the following described real estate, situate in the town of Winchester the in terest of said Minors in the whole ofsad being subject to the incumbrance of the life estate of their mother, Sophia Abernethy, Hate Sophia Hoady) in the one undivided third part thereof, viz:\n\n About three fourths of an acre of land lying the East Branch ofStill River, about half mile north of Wnsted Meeting House, in said town of Winchester, with dwelling house and shed standing thereon.\n\n Aso sixtyseven rods of land lying east ofthe piece above described.\n\n A!so the one undivided half of seven acres of land owned in common with Riley Whiting, lying on the East branch of said Still Rver and north of the high way leading to Walling's hill.\n\n Also, one undivided half of Grist Mill and the one undivided half of seven eghts of the mill privilege and the one undivided half of small mill house, with about half of an acre of land on which said mill and mill house stand. 4\n\n Also. the one halfof Clock Shop, and the one half ofseven eghts of the water privilege ofthe same, with the one half of small piece of land on which said shop stands and that which adjoins the same which has heretofore been occupied as a lumber yard.\n\n Also, the undivided third part of fifteen acres of land lying in said Winchester, on the East Bank of said Stin River, bounded north on Halsey Burr and Riley Whiting g:--praying for liberty to sell the same, as her petition on file, dated May 4, 1927.\n\n Whereupon this Court doth order that said petition be continued to the second Monday in September next at ten o'clock A. M then be heard before this Court at the Probate Office in Litchfeld in sad Dis rict and that notice of the pendancy of said petition be given by publishing this order in newspaperprin- ted in said Ltchfeld three weeks successvey least six weeks before said second Monday in September next. A true Copy of Record.\n\n FREDERICK WOLCOTT, Judge.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2148,
+                    "y0": 4617,
+                    "x1": 3014,
+                    "y1": 6425
+                }
+            ],
+            "bbox": [
+                2148,
+                4617,
+                3014,
+                6425
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-07-19_p4_sn82014309_00414182926_1827071901_0216.json"
+        },
+        {
+            "object_ids": [
+                28,
+                6
+            ],
+            "headline": "NOTICE.",
+            "article": "THE Hon. Court of Probate for the District of Litch6eld hath assigned Tuesday the 18th day ot ln- stant July at ten o'clock in the orenoon at the Pro- bate Office in Litchfeld for the examination and set clement of the administration account of the subscrl- ber Executor of :he last will and testament of Joseph Mansfield, late of said Ltchfeld, deceased, at which time and place all persons interested in said Estate will they see cause attend before said court and be heard in the premises By order of said Court\n\n JOHN T. MANSFIELD, Ececutor. 2 ELIHU HARRISON.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2432,
+                    "y0": 1463,
+                    "x1": 2730,
+                    "y1": 1528
+                },
+                {
+                    "x0": 2159,
+                    "y0": 1550,
+                    "x1": 3014,
+                    "y1": 2022
+                }
+            ],
+            "bbox": [
+                2159,
+                1463,
+                3014,
+                2022
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-07-19_p4_sn82014309_00414182926_1827071901_0216.json"
+        },
+        {
+            "object_ids": [
+                39,
+                9
+            ],
+            "headline": "POUGHKEEPsIE, SHARON\n\n AND LITCHFIELD",
+            "article": "LEAVES Poughkeepsie every Monday, Wednesday, and Friday, at o'clock A: M, passes through Sha- ron, and arrives at Ltch6eld the same day, where it meets the Hartford, New-Haven, and Albany sta-\n\n Leaves Litchfeld every Tuesday, Thursday, and Saturday, at 5 o'clock A. M. and arrives at Pough- keepse in time to take the Steamboat for New York or Albany.-Passengers in this line will arrive in AL bany the morning after leaving Litch6eld in time to take the morning stages for the west. .,\n\n The proprietors of this line having provided good coaches and horses and careful drivers and reduced the fare respectfully solicit share of public patron- age. e\n\n Seats taken at BUSH'S, Poughkeepsie, and at S.. DEMING'S, Ltchfeld 5@@\n\n WILLIAM STEVENS & Go. Proprietors\n\n N. B.-An goods and baggage at the risk of the owners VI\n\n June, 1897. tf3",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2159,
+                    "y0": 2933,
+                    "x1": 3008,
+                    "y1": 3056
+                },
+                {
+                    "x0": 2148,
+                    "y0": 3415,
+                    "x1": 3014,
+                    "y1": 4194
+                }
+            ],
+            "bbox": [
+                2148,
+                2933,
+                3014,
+                4194
+            ],
+            "full_article_id": 10,
+            "id": "10_1827-07-19_p4_sn82014309_00414182926_1827071901_0216.json"
+        },
+        {
+            "object_ids": [
+                17,
+                11
+            ],
+            "headline": "CATTLE SHOW AND FAIR",
+            "article": "The Agricultural Society Ofthe COuny OfLichfeld, propose to have Cattle Show and Fair at Litch- 6eld near the COurt-hOuse, on the 10th of October next;-and the Executive Committee, to promote the objects Ofthe SOciey, offer the following",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1288,
+                    "y0": 331,
+                    "x1": 2143,
+                    "y1": 395
+                },
+                {
+                    "x0": 1288,
+                    "y0": 406,
+                    "x1": 2137,
+                    "y1": 645
+                }
+            ],
+            "bbox": [
+                1288,
+                331,
+                2143,
+                645
+            ],
+            "full_article_id": 12,
+            "id": "12_1827-07-19_p4_sn82014309_00414182926_1827071901_0216.json"
+        },
+        {
+            "object_ids": [
+                31,
+                12
+            ],
+            "headline": "ESTRAY.",
+            "article": "A DROKE into the inclosure of the subscriber on or about the 18th ipst SKXrM a two year old red Heifer, some white ,... q N on her belly-no artificial mark The owner IS requested to pay damages and take her away. JOHN WEIGH. q Litchfeld, Milton Society,l June 28th. 1897. 2",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1532,
+                    "y0": 6714,
+                    "x1": 1835,
+                    "y1": 6773
+                },
+                {
+                    "x0": 1253,
+                    "y0": 6796,
+                    "x1": 2126,
+                    "y1": 7064
+                }
+            ],
+            "bbox": [
+                1253,
+                6714,
+                2126,
+                7064
+            ],
+            "full_article_id": 13,
+            "id": "13_1827-07-19_p4_sn82014309_00414182926_1827071901_0216.json"
+        },
+        {
+            "object_ids": [
+                32,
+                14
+            ],
+            "headline": "SIGNS OF INTEMPERANcE.",
+            "article": "\n\n man may give that the habit ls coming over him with power. The signs he names are seven in number. of which we now copy the first. Boston Recorder\n\n One of the early indications of intemper- ance may be found in the associations of time and place. In the commencement of this e. vii habit there are many who drink to excess only on particular days, such as days for mil- itary exhibition, the anniversary of eur inde- pendence. the birth day of Washington, Christmas, new years day, election, and others of the like nature. When any of these holidays arrive. and they come as often al- most as saints days in the calendar. they bring with them to many the unsuitable de- sire of drinking as well as a dispensatiOn from the sin, as eficacious and quieting to the con- science, as papal indulgences.\n\n There are some am aware that have re- commended the multiplication of holidays and public amusementS, as a remedy for lntem- perance about as wise prescrptiOn-as the multiplying gambling houses to superscede gambling, pr the building of theatres to cor rect the evils of the stage.\n\n There are others who feel the desire of drinking stirred up within them by the asso- citations of place. They could go from end\n\n  its, were there nc tavern on the road. But the very sight of these resceptacles of pil- grims awakens the desire 'iust to step in and take something.\" And so powerful does the association become, that many will nO more pass tavern than they would pass a fortified place with all the engines of death directed against them. There are in every city, town and village, places of resort, which in like manner as soon as the eye falls upon them creates thirst of drinking, and many who coming to market on business, ,pass near them, pay toll there as regularly as they do at the gates and sometimes both when they come in and when they go out. In cities and their suburbs, there are hundreds of shops at which a large proportion of those who bring produce stop regularly to receive the customary bey- craze.\n\n In every community you may observe par ticular persons who can never meet without feeling the simultaneous desire of strong drink. What can be the reason of this ! All men, when they meet are not affected thus. 1t is not uncommon for men of similar em- ployment to be drawn by association, when they meet, to the same topics of conversation: physicians, upon the concerns of their pro- fession :-politicians, upon the events of the day :-and Christians when they meet, are drawn by common interest to speak of the kingdom of God. But this is upon the principle of a common interest in these sub- iects, which has no slight hold upon the thoughts and affections. Whoever then finds himself tempted on meeting his companion or friend to say, \"come and let us go and take something,' 2 or, to make it his first busi- ness to set out his decanter and glasses, ought to understand that he discloses his in- ordinate attachment to ardent spirits, and accuses his Friend of incompetence.\n\n Sympathy ofthe Heart.-There is curious thing with respect to the heart, showing its sympathies with the lungs. This is one of the curious experiments that have been made. If an animal be pithed,the medulla spinalis be divided high up, he dies; because the lungs want energy, and the diaphrGmatie nerve has its function abolished, and dies for want of breath. But let him be pithed and rcspira- ton kept up by mechanical means, the infa- tion kept up and life will go on. Now this is pair of bellows for drowned animals; he upon the lungs, for \"when l left off blowing my bellows, (said John the heart left of it's motion; and when began again to blow in-\n\n  action, at first feebly, but after little. more strongly I use the words exactly as Mir. Hunter uttered them. Now, trust all that nonsense is completely abolished: people say the cereJrum has no influence upon the heart but I say unquestiOnably, it has great influence upon it, and quote an instance to show it: suppose timid person, or deli cate female, hears noise in the middle of the night, which she supposes either to he a ghost ora robber egad, her pulsation falls, she gets cold and is so alarmed as to be al. most dead. Suppose fellow calls another person scoundrel ;-the person so called, feels his spirit rising, his face grows red, and he takes up his fist, and knocks the other down. Now, why such person as Bichat should point to the heart as the seat of feeling. and puts his other hand upon his| head to denote that it'sthe place of thought, don't know but his head had no thought init, think, when he talked such nonsense as that. You know that pleasant feelings do 1 produce pleasant action, as Shakespeare 1 said, ' my bosom's lord sits lightly on its thrOnc;\" and that uneasiness of mind has di- ] rectly the converse effect. It is therefore l certainly the effect of the cerebrum that acts ! upon these organs. wonder it had not en- tered into the wise head of some person to ar- | que that the diaphragm was not the seat of all these emotions. Shakespeare seems to me to have most sensibly felt these emotions Canst thou minister to a mind diseased ! l pinck rom the memory a rooted sorrow |",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 550,
+                    "y0": 296,
+                    "x1": 1103,
+                    "y1": 349
+                },
+                {
+                    "x0": 370,
+                    "y0": 470,
+                    "x1": 1260,
+                    "y1": 6036
+                }
+            ],
+            "bbox": [
+                370,
+                296,
+                1260,
+                6036
+            ],
+            "full_article_id": 15,
+            "id": "15_1827-07-19_p4_sn82014309_00414182926_1827071901_0216.json"
+        },
+        {
+            "object_ids": [
+                36,
+                15
+            ],
+            "headline": "Nfat nf Hettfrs",
+            "article": " Remainnr h the -Oice Lisehfed, July |, 1897. Eliah Anarcws Joel MnnkeF IyTaan Avery, Samuel Merchant, Mary B1ll, Isaac Newton, Erassus Benton. Mary Pierce, Timothy Barrett, Edwin Prenus, Almira Bradley, Manly Peters, Harvey Beach, Joseph ]. PrudeD, 9 John Bissen, Newton Pruden, James Brace, Eber Peters, George Cool. George Rapel, Joseph E. Camp, Hicks smith, John Campbell, Stiles Scott, Allen T. Cole, Frederick Smedley, Ann P. Cable, Eli Stone, Eliakiln Curtis. Joseph H. Smith, Frederick Deming, Deborah Smith, Edgar B. Day, Job Simmons, Timothy Foote, Charles Sedgwick, Rev. Havel Gaylord, Reuben Tyrrell, Sally G. Gum, George w. Tallmadge, William S. Hollabird, Joseph Tufts, Samuel Hawley, Joseph Tryon, Hiram G. Hand, Eli Terry & Sons, Amos Johnson, Timothy P. P. 1ugmuttOn, Daniel Lamson, Tomlins0n Wells, Rhoda Mead, Charles L. Webb, William Munson, Timothy Wheaton, Hezekiah Murray, Christopher Wheeler. 3 CHARLES SEYMOUR, ?. M.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2363,
+                    "y0": 331,
+                    "x1": 2805,
+                    "y1": 384
+                },
+                {
+                    "x0": 2154,
+                    "y0": 377,
+                    "x1": 3014,
+                    "y1": 1447
+                }
+            ],
+            "bbox": [
+                2154,
+                331,
+                3014,
+                1447
+            ],
+            "full_article_id": 16,
+            "id": "16_1827-07-19_p4_sn82014309_00414182926_1827071901_0216.json"
+        },
+        {
+            "object_ids": [
+                30,
+                16
+            ],
+            "headline": "NOTICE.",
+            "article": "w HEREAS my wife Mary has left my bed and board and refuses live with me, this is to forbid all persons harboring, rusting employing heron pen- alty ofthe law. HOLSEY T. BIGALOW.\n\n Goshen June 3d. 1897. -.l .---. 3",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2421,
+                    "y0": 4199,
+                    "x1": 2735,
+                    "y1": 4270
+                },
+                {
+                    "x0": 2142,
+                    "y0": 4286,
+                    "x1": 3014,
+                    "y1": 4479
+                }
+            ],
+            "bbox": [
+                2142,
+                4199,
+                3014,
+                4479
+            ],
+            "full_article_id": 17,
+            "id": "17_1827-07-19_p4_sn82014309_00414182926_1827071901_0216.json"
+        },
+        {
+            "object_ids": [
+                18
+            ],
+            "headline": "",
+            "article": "LNROM Litchfeld to New York--by Steam\n\n L Boat John Marshall-through in one day-fare ss l-9-by line stages, to meet the boat at Norwalk-ieaving Litchfield Mon days, Wednesdays and Fridays, at 9 A. M. through Woodbury. NewtOwn and Bridge port and New-Yorl, Tuesdays, Thursdays and Saturdays. at A. M. for Litch6eld, un- til the lst May-after that at A. M. 6m46",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3925,
+                    "y0": 1184,
+                    "x1": 4809,
+                    "y1": 1592
+                }
+            ],
+            "bbox": [
+                3925,
+                1184,
+                4809,
+                1592
+            ],
+            "full_article_id": 19,
+            "id": "19_1827-07-19_p4_sn82014309_00414182926_1827071901_0216.json"
+        },
+        {
+            "object_ids": [
+                25,
+                21
+            ],
+            "headline": "NOTICE.",
+            "article": "IN pursuance Ofan order from the Hon. Court of Probate for the district of Granby, will be sold at pub ic Auction, on the first Monday in September nexs at ten o'clock A. Nj. unless previously disposed of saps- vase sale sOmuch Ofthe Real Estate of Joseph FOOse, late of Hartand, in said district deceased as will raise the sum of two hundred and fOrywO dOlarsand twelve cents, with incidental charges of sale.\n\n EZRA FOOTE, EEecator. Goshen, July 5th, 1927.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 4204,
+                    "y0": 313,
+                    "x1": 4507,
+                    "y1": 384
+                },
+                {
+                    "x0": 3925,
+                    "y0": 406,
+                    "x1": 4803,
+                    "y1": 883
+                }
+            ],
+            "bbox": [
+                3925,
+                313,
+                4803,
+                883
+            ],
+            "full_article_id": 22,
+            "id": "22_1827-07-19_p4_sn82014309_00414182926_1827071901_0216.json"
+        },
+        {
+            "object_ids": [
+                22
+            ],
+            "headline": "",
+            "article": "No article of Houshold Manufactures will be enti- tied to premium unless manuatured entirely within the county.\n\n To entitle himself to premiums for Horticultural Productions, the person claiming must state in wri- ting, and prove to the satisfaction of the Awarding Committee, the quantity of land, and the amount of the product Ito be ascerained by measure, and must also state in writing the nature or kind of soil--he previous situation of the Iand-how tilled-thc kind and quality manure, and how and when appied--how the seed was applied, and how, and when sown, and the quantity per acre.\n\n The claims for premiums under this article mus, be entered with the Treasurer, MR. LEONARD Coop WIN on or before the 9th day of October next; but the evidence of actual product except aax which will be admitted till the list day of March next and Winter Wheat to the 1st day of January l829 will be admit ted at any time previous to the fst day of January next Persons intending to offer Domestic Animals, or Houshold manufactures give notice to the Treas arer, on or before the 9th day of October next re- quMeailng an entry to be made of such notice. out competition, unless such article shall be, in the pinlon ot the Awarding Committee, highly merito- rious. No Animal or article of Houshold Manufacture. winch shall have obtained premium previous ex- hlbton, wills under the same denomination be enti- tied to second premium.\n\n A statement of the quantity and quality of Milk giv- en by, and of the butter made from, the Mich Cows entered for premiums crediby attested will be requi- red ny the Awarding Commte.\n\n The examinations of Domestic Animals and Hous. hold Manufactures will commence near the Court House, at 9 A. M.\n\n No person but member ofthe Society, can be en- titled to premium except on Hearth Rugs, Bonnets Stockings and other articles of Domestic Manufac. tnres highly meritorious.\n\n All premiums not called for within three months at- ter awarded, will be forfeited to the Society.\n\n UTAH persons in arrears to the Society, are re- qnested 10 forward the amount to the TreasIrer\n\n GT An GRAFTON will be delivered on the oc. casion. Per order, S. P. BOLLES, Rec. Sec.\n\n LITCEFTEsLD, JUNE q, 1897. 1vsa#",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1259,
+                    "y0": 4031,
+                    "x1": 2126,
+                    "y1": 5821
+                }
+            ],
+            "bbox": [
+                1259,
+                4031,
+                2126,
+                5821
+            ],
+            "full_article_id": 23,
+            "id": "23_1827-07-19_p4_sn82014309_00414182926_1827071901_0216.json"
+        },
+        {
+            "object_ids": [
+                46,
+                29
+            ],
+            "headline": "STAGE NOTICE. SwmWer Arrangement 0f tue fOl-\n\n LOaninC Lines. ..",
+            "article": "LOsoing LGnes.\n\n FOR ALBANY AND HUDSON.\n\n Leaves Litchfeld daily Sundays excepted at o. clock in the morning, arrives at each place af ternoOn, and returns from each place in the order\n\n LITCHFIELD AND NEW-HAVEN. Leaves Ltchfeld for New-Haven daily Sundays excepted) at o'clock in the morning; Monday, We'd nesday and Friday, by Bethem, WOOdbury, Southbu- ry, Oxford, Humphreys-Ve, and arrives in N. Haven at P. M.; Tuesday, Thursday and Saturday, by WatertOwn, Waterbury, Salem-bridge, and Wood bridge, arrives at N. Haven at 9 P. M. and returns from N. Haven in the same order.\n\n LITCHFIELD AND HARTFORD.\n\n Leaves Litchfeld for Hartford, Tuesdays, Thurs days and Saturdays o'clock in the morning thro' HarwintOn, Burlington, Pennington and West-Hart- ford, and arrives in Hartford at o'clock P. M Re- turns from Hartford Mondays, Wednesdays and Fri days at o'clock in the morning.\n\n LITCHFIELD AND NORWALK.\n\n Leaves Ltchfeld for New-Milford, Danbury and Norwalk every Friday afternoon on arrival of the Stage from Hartford, through Bradleys-Ville, New Preston, New-Milford Brookfeld, Danbury, Reading, and Wilton, and arrives at Norwalk on Saturday at 12 o'clock at noon. Returns from Norwalk Sundays, arrives at Litchfeld Monday afternoon.\n\n This Line intersects the Steamboat at Norwalk and arrives in N. York same night.\n\n The Steamboat leaves N. Haven for N. York eve- \" evening at z o'clock.\n\n The Steam-Boats leave Hartford for N. York Mon- days, Wednesdays, Thursdays and Saturdays, at Il o'clock A. M.\n\n For information or passage in the above Lines ap- ply to J. PARKS. Ltchfed, June II, 1897. tf52",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3042,
+                    "y0": 586,
+                    "x1": 3903,
+                    "y1": 785
+                },
+                {
+                    "x0": 3036,
+                    "y0": 737,
+                    "x1": 3915,
+                    "y1": 2196
+                }
+            ],
+            "bbox": [
+                3036,
+                586,
+                3915,
+                2196
+            ],
+            "full_article_id": 30,
+            "id": "30_1827-07-19_p4_sn82014309_00414182926_1827071901_0216.json"
+        },
+        {
+            "object_ids": [
+                53,
+                33
+            ],
+            "headline": "1saak Nots EaMe.",
+            "article": "~0SN~ N\n\n Bills of the following mentor deposit at the PH( The list will be corrected\n\n NEW-HAMPSHIRE. Cheshire Bank. Concord. Merrimac, at Concord. Exeter. New-Hampshire. Union. Strafford. Portsmouth. Rockingham. Grafton. Amherst. MASSACHUSETTS,. Boston Banks. Pittsfield Bank. Agricultural, at do. Farmers, at do. Housatonic. Hampshire. Greenfield. Sunderland. Belchertown. Weare. Menden. Springfield. Westfieid. Beverly. Bedford. Commercial, at do. Salem. Commercial, at do. Mechanics, at do. Dedham. Essex. Gloucester. Lynn Mechanics. Franklin. Marbiehead. Merchants. Merrimac. Nerburyport. Plymouth. Pawtuxet. Taunton. Union. Worcester. Falmouth. Andover. Pacific, Nantucket. *Phoenix, at do. *Manufac. & Mec. at do.\n\n RHODE-ISLAND. Eagle. Bristol. Commercial. Freeman's. Agric'al. & ManuEac. Rhode-Island. *Burrillville. Cranston. Exchange. Franklin. Kent. Landholders'. @ Manufacturers. Merchants. Newport. N. E. Company. Narraganset. N. Kingston. Mount Hope. Pautucket. Providence. P hoenix. R. l. Union. R. !. Central. R. Williams. Smithfeld Union.\n\n Do. Exchange.\n\n Do. Lime Rock. Scituate. Union. Washington. Warwick. Hope. Village. Cumberland.\n\n CONNECTICUT. Norwich. Bridgeport. New-Haven. Mechanics Hartford.\n\n do. Phoenix. Middletown. New-London.\n\n *Current in New-Y York cent ; but not bankable h",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 4117,
+                    "y0": 1608,
+                    "x1": 4623,
+                    "y1": 1662
+                },
+                {
+                    "x0": 3931,
+                    "y0": 1643,
+                    "x1": 4344,
+                    "y1": 5222
+                }
+            ],
+            "bbox": [
+                3931,
+                1608,
+                4623,
+                5222
+            ],
+            "full_article_id": 34,
+            "id": "34_1827-07-19_p4_sn82014309_00414182926_1827071901_0216.json"
+        },
+        {
+            "object_ids": [
+                38,
+                42
+            ],
+            "headline": ".CIAY'S HCh Ointment.",
+            "article": "TOR pleasantness, safety, expedition, ease. N and certainty, is infinitely superior to any other to cure that tormenting disOrder.- Price s cents per box.\n\n Clay's Stomack Bsttcrs. They will be found, in all cases of fgt the fol- lowing description, to give relief nausea, vomiting, heartburn, costiveness.s weakness at the breast, pain in the stomach, loss of ap-. petite, and all other simptons of indigestion and Aatulence, and as a nervous cordial is not to he surpassed by any thing. 25 cents box.\n\n Pe0rt Tooth Posoder. This celebrated Powder needs no recou,- mendation-every gentleman and lady should be in the constant use of it, if they wish to preserve their teeth from decay, and have them appear of a beautiful pearly whiteness. Price 25 cents box. Sold 6y w. & s. BUEL and HENRI PHELPS\n\n ID. CLAY. November 2l, 1926. eowly2S",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 4059,
+                    "y0": 5280,
+                    "x1": 4687,
+                    "y1": 5449
+                },
+                {
+                    "x0": 3931,
+                    "y0": 5454,
+                    "x1": 4815,
+                    "y1": 6524
+                }
+            ],
+            "bbox": [
+                3931,
+                5280,
+                4815,
+                6524
+            ],
+            "full_article_id": 43,
+            "id": "43_1827-07-19_p4_sn82014309_00414182926_1827071901_0216.json"
+        },
+        {
+            "object_ids": [
+                23,
+                43
+            ],
+            "headline": "NOTICE.",
+            "article": "Ata Court of Probate holden at Litchfeld, within and for the District of Litchfeld July 2d, 1897.\n\n Present F. WOLCOTT, Esq. Judge.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2363,
+                    "y0": 4501,
+                    "x1": 2794,
+                    "y1": 4578
+                },
+                {
+                    "x0": 2159,
+                    "y0": 4588,
+                    "x1": 3014,
+                    "y1": 4735
+                }
+            ],
+            "bbox": [
+                2159,
+                4501,
+                3014,
+                4735
+            ],
+            "full_article_id": 44,
+            "id": "44_1827-07-19_p4_sn82014309_00414182926_1827071901_0216.json"
+        },
+        {
+            "object_ids": [
+                34,
+                44
+            ],
+            "headline": "3B9EA EAafaaMS.",
+            "article": "\n\n l17REAafGI9aS.\n\n AGRICULTURAL PRODUCTIONS. To he person who shall, on one acre raise the grestest quantity of Indian Corn, $60O To the person who shall ,on one acre ,yase the. greatest quantity of Flax, dressed for spinning, 500 To the person who shall, on one acre, raise the greatest quantity of Winter Wheat, not less than 25 bushels to be taken of in 1893. zoo\n\n DOMESTIC ANIMALS. N.\n\n For the best Ball, ,not less than two years old, which shall have sbecn owned and kept in the County six months next previous to the time of exhibition, with satisfactory assurances that he shall remain in the county one year thereafter. $500 For the second best, do. 400 For the best Yearlng Bull, with satisfactory assurance that he shall remain in the county one year after exhibition, 300 For the best Mich Cow, which shall have been owned and kept in the county six months next preceding, 400 For the second best, do 300 For the best Heifer, two years old, raised in .. the county, 300\n\n do. 2d do. 200\n\n do. best Yearling Heifer, 900\n\n do. best Bull Cali, 200 For the best lot of calves, not less than fouP in number, owned by one person in the county four months next before entering for premium, 400 For the best pair of Workin Oxen, which\n\n \n\n ed by the person offering them, four months next preceding; taking into consideration the service they have performed, the manner in which they have been kept, and their abilityto perform service 800 For the second best do. 600 For the best pair of Steers, years old, raised and owned as aforesaid, 500 For the second best do. 400 For the best pair of Steers, 2 years old raised . and owned as aforesaid, MS .# 400 For the best pair of Yearling Steers. do. 300 county, 800 For the best Boar, not less than months old owned in the county, with satisfactory as- surance that he shall remain in the county, one year thereafter, 300 For the second best, do. 900\n\n For the best Colt, 3 years old, raised in the county, 500 For do. 2d do. do. 400 For do. do. do. goo For the best Stallion, which shall have been kept in the county six months next preceding, having reference to stock, 600 For the second best, do. 400 For the best Team of oxen, and handsomest exhibition of Farming Impliments, and Agricul- tural productions, lrespect being had to num- Der and quality of Cattie,) 500 For the second best, do. GOO HOUSEHOLD MANUFACTURES. For the best 20 yards of Flannel, oue yard wide, 300 For the best 20 yards Whitened Liuen Cloth, one yard wide, 300 For the best 20 yards Carpeting, 400 Forthe second best do, 300 For the best Hearth Rug 900 For the best Linen Table -Cloth, mot less than eight quarters square, 200 For the best 10 yards of Table Linen, goo For the best Grass Bonnet. 500 For the best pair of Worsted or WooIlen Stockings, 100 For the greatest quantity of Cheese, and of the best quality, manufactured in the County, from any number of Cows not less than four. The persons presenting Cheese for the premi- um, will be expected to favor the Society with an account of the method they have a. dopted in making Cheese---their manner of Keeping and managing their cows, and gen. eral description of all that appertains to dairy. 500 For other articles of Domestic Manufacture, which are highly meritorious, Premiums will be awarded at the discretion of the committee, No article of Houshold Manufactures will be enti tied to premium. unless manufatured entirely within the Countv",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1462,
+                    "y0": 656,
+                    "x1": 1928,
+                    "y1": 709
+                },
+                {
+                    "x0": 1271,
+                    "y0": 627,
+                    "x1": 2114,
+                    "y1": 4130
+                }
+            ],
+            "bbox": [
+                1271,
+                627,
+                2114,
+                4130
+            ],
+            "full_article_id": 45,
+            "id": "45_1827-07-19_p4_sn82014309_00414182926_1827071901_0216.json"
+        },
+        {
+            "object_ids": [
+                45,
+                48
+            ],
+            "headline": "AGRICULTURAL PRODUCTION",
+            "article": "To the person who shall, ,on one acre, raise the grestest quantity of Indian Corn, $500\n\n To the person who shall, ,On one acre, raise the greatest quantity of Flax, dressed for spinning, 500\n\n To the person who shall, one acre, raise the greatest quantity of Winter Wheat, not less than 25 bushels, to be taken of in 1898. zoo",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1311,
+                    "y0": 731,
+                    "x1": 2067,
+                    "y1": 785
+                },
+                {
+                    "x0": 1276,
+                    "y0": 772,
+                    "x1": 2131,
+                    "y1": 1046
+                }
+            ],
+            "bbox": [
+                1276,
+                731,
+                2131,
+                1046
+            ],
+            "full_article_id": 49,
+            "id": "49_1827-07-19_p4_sn82014309_00414182926_1827071901_0216.json"
+        }
+    ]
+}

@@ -1,0 +1,738 @@
+{
+    "lccn": {
+        "title": "Delaware journal.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2638-6917",
+        "lccn": "sn83025530",
+        "start_year": "1827",
+        "end_year": "1832",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [
+            "sn85042477"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn83025530",
+        "edition": "ed-01",
+        "date": "1827-11-16",
+        "pages": [
+            "seq-1",
+            "seq-2",
+            "seq-4",
+            "seq-3"
+        ]
+    },
+    "page_number": "1",
+    "scan": {
+        "lccn": "sn83025530",
+        "edition": "ed-01",
+        "date": "1827-11-16",
+        "page": "1",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-11-16/ed-1/seq-1.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-11-16/ed-1/seq-1/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-11-16/ed-1/seq-1/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn83025530/00271740220/1827111601/0260.jp2",
+        "height": 5536,
+        "width": 3568
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 84,
+                "y0": 4359,
+                "x1": 868,
+                "y1": 5104
+            },
+            "class": "article",
+            "raw_text": "OF this State are hereby requested to make their re-\nturns of the fines, imposed by them, also the names\nOf the Conssables, who had the collection OF sad\nfines.\n\n\nl Those Justices of the Peace, who have neglected\n\n\n10 make their returns for several years past are re-\nquested to make return OF all the fines imposed by\nthem since their last return\n\n\nAttention to this notice is requested, as report\nWill be made to the Legislature of all those who neg\n\n\nect to make their report according to Law\nAlso the Road Commissioners of the County OF\n\n\nCastle, who have not made their returns of the\nexpenditures on Roads and Bridges in their respec\n1--WE hundred for the year of 1896, gre requested to\niorward them as soon as convenient.\nS. WILLIAMS,\nauditor Of accounts State of Delavpare.\nOot. 3lst, 1927. 57-4t",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 84,
+                "y0": 4212,
+                "x1": 863,
+                "y1": 4343
+            },
+            "class": "headline",
+            "raw_text": "Notice\nTO JUSTICES c. TEzE FEkCE.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 53,
+                "y0": 1768,
+                "x1": 833,
+                "y1": 2526
+            },
+            "class": "article",
+            "raw_text": "CcycoRp.-Dr Thomas Adams, P. Nj.\nBarDcEvILlE.-Henry Cannon, P. M.\nMILToN.-Mr. Arthur Mlby.\nFRANKFoRp.-Mr. Isaiah Long\nDAGsBoRcuaH.-Dr. Edward Dingle.\nGE,HGE TowN.--Mr. Joshua S. Layton.\nIEwEs--H. f. Rodney, T. M.\nMlLFoeD.-Mr. Joseph G. Oliver.\nFREpEaIcA-J Emerson, ?. NJ.\n\n\nCAMpeN.- Thomas Wainwright, ?. NJ.\nDovEa.-John Robertson, Esq.\n\n\nSMYRNA-Samuel ii. Hodson Esq.\n\n\nCANrwELrs BR1DGE.-Manove Hayes, T M.\nThomas Harry, T. M.\nSUMMIT BRIDGE.--John Clement, T. nj.\nWARWICK, Md.--John Moreton, +. M.\nSubscribers living in the vicinity of the residence\npf these Agents, may pay their subscription money\n10 them, they being authorized to receive it, and to\ngive receipts.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 296,
+                "y0": 1708,
+                "x1": 561,
+                "y1": 1756
+            },
+            "class": "headline",
+            "raw_text": "AGENTS..",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 32,
+                "y0": 1275,
+                "x1": 820,
+                "y1": 1692
+            },
+            "class": "article",
+            "raw_text": "Persons wishing any sort ofPR1NTINe done, with\nbeatness, accuracy, and dispatch ADVERTISEMENTS\nInserted or SuBscRIpTIoNs paid where there are\nI,o Agents appointed in their neghbourhood to re-\nEeiya them, will please apply, or direct to H. Porter\nknd Son. No. 81, Market Street, Wilmington.\n| All communications, not of the above character,\n\n\nd be addressed to NJ Bradford, Editor of the Della\n|eare Journal, Wilmington.\n\n\nThis arrangement is made for the more regular\n|and prompt execution of business.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 291,
+                "y0": 1223,
+                "x1": 543,
+                "y1": 1268
+            },
+            "class": "headline",
+            "raw_text": "NOTICE.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 53,
+                "y0": 2655,
+                "x1": 846,
+                "y1": 3214
+            },
+            "class": "article",
+            "raw_text": "|NTT ILL be opened on the first Monday in De-\nw cember next, under the superintendent OF\nbliss IsABELLA ANDERSON.\nTERMS Reading, Writing, Spelling sc. So per\nquarter: payable in advance.\nGeography, arithmetic, and plain needle work,\n|S3 SO cts. per quarter\nEmbroidery and Painting, S. per quarter.\nGood boarding can be had in the village on reas-\nenable terms. JOHN EDDOWES, Secy.\nMtddIetogn, Del. Nov. s, 1897. 59-3m\nThe papers that have published the ADVERTISE\n\n\nment for the Classical School in this institution are\n\n\nrequested to insert the above and send their bills to\n! the Secretary.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 75,
+                "y0": 2538,
+                "x1": 798,
+                "y1": 2643
+            },
+            "class": "headline",
+            "raw_text": "The Female School in the\nMIDDLETOWN ACADEMY",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2445,
+                "y0": 830,
+                "x1": 3259,
+                "y1": 1878
+            },
+            "class": "article",
+            "raw_text": "sc. I'll nature increases.\n81. Very meddling and oficious. N. B. growing\n\n\npenchant.\n\n\n80. Ifrch, as derner resort, makes love to ayoung\n\n\nman without fortune.\n80. Not succeeding, rails against the SEX.\n40. Partially for cards and scandal commences.\nAl. Severe against the manners Of the age.\nAZ Strong prediction for the parson OF the parish.\n43. Enraged at his desertion.\n\"A. Becomes desponding and takes snuff.\nAs. Turns all her sensibiIity to cats and dogs.\nAl. Becomes disguised with the world, and vents\nall her i'll humor on this unfortunate relation.\n\n\n.Noterhe ages affixed to the above altered to sui\nthis latitude, the original commenced at l5 years\nEd. Fen. G6z.\nThe followngs specimen Of the Toasts drank\nat the late Anniversary of the Mddlesex Agrcuitu-\nraj Society. held at Concord, Massachusetts\n\n\n:\" The hypocriticat Parson, the pe'tyoging Lanyey.\nand the quack Doctor, if they must live may they\nlive on each other.'\n\n\n\"The political and religious partisdn, always on\nthe right side, so is an eft or.\"\nOid Bacheors and old Maids, with all their get<\ntngs may one get taxed and the other get married\"",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 2912,
+                "y0": 648,
+                "x1": 3229,
+                "y1": 736
+            },
+            "class": "headline",
+            "raw_text": "N'O. 60.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2463,
+                "y0": 2024,
+                "x1": 3285,
+                "y1": 5312
+            },
+            "class": "article",
+            "raw_text": "Every article OF American manufacture which,\naccidentally or designedly, has been protected 10\ncheaper because of that protection, and has become\nan article Of export, such cotton goods, nails,\nhats, toots, shoes glass, chemical preparations, pa\nper and other things.\n\n\nManufactures promote intelligence among the\npeople. which, it has been well said, is the soul Of\nliberty\" Bozrahvlle, in Connecticut, is new\nmanufacturing vilage--its inhabitants 'schurch\ngoing and readng people,\" The number of families\nin the village are 10, adults about so the weekly\nand other periodical papers taken at this place, are\nabout four foreyery family and nearly one for every\nadult nhabitant. What volume of instruction il\nthere in this little fact\n\n\nThe morals OF the people employed at Lowell\n(and about 800 of them are females, and all over\n| IA years Of age,) are highly spoken of, and, no\n| .oubt excellent. Every person employed in the\nfactories s required to attend public worship, for\nthe support of which each pays 81 cents per quar-\nter. There are three religious societies at Lowell,\nand this contribution is paid TO either, at the\ndiscretion of the work people. Its object is chief\n| ly to prevent pretences OF wanting seat, &c.\nPopulation than 5000 There are several\nschools for children, between and IA years old.\nand Sunday and other schools.\n| visit TO the Sunday schools Of any large and\nwell regulated manufacturing establishment in the\nUnited States, cannot fail to warm the heart of every\n| friend of man-and in beholding the healthiness.\n4\nhe willing to trust the whole matter to the most pre-\nJUDGED and bitter of our opponents, if they would\nonly reflect upon the subjects presented.\n/ The whole capital invested in manufactures.\ngreat and small, in the United States, independent\nproperty in sheep and lands TO feed them, lands\n| for the supply Of minerals and fuel, &C. may be\nestimated at 800 millions of dollars--The annual\nproduce at 400 millions, and they subsst more than\ntwo millions of people, not including cooperating\nagricuturasts.\n\n\nColquhoun on Indulgence\" says, that the Britt\nsh agricultural counties exceed the manufacturing\ncounties in paupers, is to /, or 100 per cent\nin criminal cases go per cent.--in poor rates $50\nper cent.\n\n\nDISCLAIMERS against the immortality and poverty\nwhich manufactures cause, will do well TO look at\nthis, though it is fatal TO their theory, being pract-\ncal. and even in England.\n\\ The following list takes in some of the chief things\nwhich are manufactured in the United States TO u\nprofit, at cheaper rates than the imported articles\nmany of which are included or passing into the ca\nports of our country, conclusiyely showing their\nmoderate prices\n\n\nLeather and manufacture thereof, of all sorts;\nCotton goods in great variety\n\n\nMuch woolen goods, especially of ofhousehold ma.\nf nuacure !; negro cloths\n\n\nWood work of all scriptions-from ships of the.\nline TO common sitting chairs and minor articles;\n\n\nFlannes, webbing, coach trimmings, including.\nIaces\n\n\nHats, paper, books, types, printing and other\npresses, printers ink and ink powder, globes, pen~\ncils, water colors, maps and charts {;\nMANY articles of metals or earths and mixtures Of\nhen--such as common castings of iron and pune,\nrous articles of wrought iron, among them the best\nfinished and most efficient machinery of all descrp-\nlons; chain cables, nails, brads and tacks, screws,\nmill and cross-cut saws, shoyels, spades sickles,\nscythes, hoes, axes straw knives, adzes, hammers.\nmuskes, rifles, cannon and ball, good locks, latchese\nmany articles of cutlery, buttons brass wares, arti-\ncle Of copper, brass, Iead tin, silver, god plated\nsaddery, lamps, japanned ware, tin ware, cotton\nand wool cards, stone and earthen ware, copperas\nand alum;\n\n\nPlain and cut, and window glass, thermometers\nand other scientific instruments, musical instruments\numbrellas, qnills, womens hats and bonnets;\n\n\nSoap. cand'es, glue, whips, paint stuhs, carpeus",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2527,
+                "y0": 1903,
+                "x1": 3160,
+                "y1": 1955
+            },
+            "class": "headline",
+            "raw_text": "DOMESTIC INDUSTRY",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -2
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 2571,
+                "y0": 1967,
+                "x1": 3143,
+                "y1": 2003
+            },
+            "class": "headline",
+            "raw_text": "EXTRACTED FROM NILES REPORT.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 75,
+                "y0": 3620,
+                "x1": 859,
+                "y1": 4174
+            },
+            "class": "article",
+            "raw_text": "FEVIE Commissioners under the Act OF December\n4 Session 1925, for receiving subscriptions to the\nstock of the Pennsylvania. Delaware and Maryland\nSteam Navigation Company, hereby give notice that\nthe first nstalment of Five Dollars per share in said\nCompany is requested to be paid by the stockhold-\ners who have subscribed at the Franklin Bank Of\nBaltimore, or at the Bank ofDelaware, Wilmington\nor before the 29th Inst. and until such time the\nBooks will be opened for additional subscriptions\nat the same places.\n\n\nTuomAs TENANT. JAMES L. HAwKIns,\n\n\nGEoRsr REIsroN. WILLIAM MEETEER,\n\n\nVIM. w. SEAroN. EDWARD II. BAILy.\ntN29",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 317,
+                "y0": 3537,
+                "x1": 586,
+                "y1": 3608
+            },
+            "class": "headline",
+            "raw_text": "Notice.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 32,
+                "y0": 834,
+                "x1": 820,
+                "y1": 1211
+            },
+            "class": "article",
+            "raw_text": "THE DELAW.aRE JOURNAL is pub\ntslsd on Tues'tuys and Fridays. at four dollars\nber annun: !: too dollars every sir months in ad-\nLyapce. No paper to be discontinued, untit ar\nrsarages are paid.\n\n\nAdvertise nents inserted on the nsuat terms\nVIZ: One dollar for four insertions Of sixteen\n\n\nlines. and so in proportion for erery number g\nadditional lines aud insertions.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 36,
+                "y0": 661,
+                "x1": 275,
+                "y1": 753
+            },
+            "class": "headline",
+            "raw_text": "Vol. l..",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 66,
+                "y0": 3321,
+                "x1": 850,
+                "y1": 3517
+            },
+            "class": "article",
+            "raw_text": "A First Rate Stand, in Narket-Street, occupied as\ntAa Dry Good Store, by William b. Tomlnson.\nThe payment to be made to suit the purchaser.\n\n\nInquire of JOSEPH POGUE, No. 1O7, Market\nStreet, Wilmington. 59-4f",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 261,
+                "y0": 3235,
+                "x1": 634,
+                "y1": 3309
+            },
+            "class": "headline",
+            "raw_text": "For Sale,",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 823,
+                "y0": 782,
+                "x1": 1603,
+                "y1": 4702
+            },
+            "class": "article",
+            "raw_text": "TWENTIETH CONGRESS-lsts SESSION.\nlist Of Members Of the Senate and House Of n\n\n\npersonalities Of the United States.\nSENATE.\n\n\nMAINE.\nJohn Chandler Albion K. Paris\"\nNEW HAMPSHIRE.\nSamuel Bell levi Woodbury..\n\n\nMASSACHUSETTS.\nNathaniel Silsbee Daniel Webster.\nCONNECTICUT.\nSamuel A. Foot* Calvin Wiley.\n\n\nRHODE ISLAND.\nNehemiah r. Knight Asher Robbins.\n\n\nVERMONT.\nDudley Chase Horatio Seymour.\n| NEw-YoRK.\nMartin Van Buren Nathan Sanford.\nNEW JERSEY.\nMahlon Dickerson Ephraim Bateman.\n\n\nPENNSYLVANIA.\nWilliam Marks Isaac d. Bainard.*\nDELAWARE.\nLouis M'Lane* Henry NJ. Ridgely.\n| MARYLAND\nSamuel Smith Ezekiel F. Chambers.\n| VIRGINIA\nL. w. Tazewel John Tyer.*\n\n\nNORTH CAROLINA.\nJohn Branch Nathaniel Macon.\n\n\nSOUTH CAROLINA.\nWilliam Smith Robert Y. Hayne\nGEORGIA.\n]. MCPHERSON Berrien Thomas w. Cobb.\n\n\nKENTUCKY.\nRichard nj. Johnson John Rowan.\n\n\nTENNESSEE.\nJohn II. Eaton Hugh L. White.\nWilliam H. Harrison Benjamin Ruggles.\nLOUISIANA.\n, Dominique Bouligny Josiah S. Johnston.\nINDIANA.\nWilliam Hendricks James Noble.\nMISSISSIPPI.\nThomas II. Williams Powhattan Ellis.t\n\n\nILLINOIS.\nElias K. Kane Jesse B. Thomas.\n. ALABAMA.\n# Henry Chambers William r. King.\n\n\nMISSOURI.\nr David Barton Thomas H. Benton.\n(, HOUSE OF REPRESENTATIVES..\n\n\nNAME.\nJohn Anderson James w. Ripleyv\ns. Samuel ButmanS Peeg Spraeue\nRufus M'Intic Joseph F. Wingate.*\nJeremiah O'Brien\ne. NEW HAMpsHIRE-6.\nre David Barker, Jr. Joseph Hcaly\nto Ichabod Bartlett Jonathan Harvey\nTitus Brown* Thomas Whipple, Jr.\nvERMoNT-5.\nHeman Allen* Kolin G.. Mallary\nDaniel A A. Bnckf George E. Wales.\nas Jonathan Hunt\nn MASsAcHusETTs-lS.\nSamuel c. Allen Benjamin Gorhamf\net- John Bailey -flodges*\nIsaac c. Batcs* John Locke\n: B. w. Crownnshield John Reed\nJohn Davis Joseph Richardson\nHenry w. Dwight John Varnum.\ner Edward Everett.\nhe RHODE ISLAND.\nnd Trastram Burgess Dutee ]. Pearce.\nlat coNNEcrlcur-6.\naid John Baldwin Orange Merwin\nId Moves Barber Elisha Phelps\nOf Raj ph j. Ingersol David Plants\nOn. NEW yoRK-34\nhe Daniel u. Barnard Henry G. Martindale\nMS, George 0. Beldenx Dudley Marvin\nRudolph Bunner& John NIagee*\nc. G Cambreleng John Maynads\nSamuel Chase* Thomas ]. Oakleyf\n+. John C. Clark S. Van Rensselaer,\n} John d Dickinson Henry II. Storrs\n. Jonas Earll. Jr. James Strong\nDaniel G. Garnsey John G. StowerT\nNathaniel Garrow* John w. Taylor\ne John L. DE GratfN Gnllan Y. Nerpanck\nA' John Hallock. Jr. Aaron Ward\nles Splah Il. Hobbies John j. Woods\nre- Martin Hoffman Sllas Wood\nnes Jcromus johnson David Woodcockf\naid Richard Keese* Silas Wright, Jr.\nHenry Markell Zone vacancy.)\nted NEw-JERsEY-6.\nre- lewis Condct Samuel Swan\nby George Hocombe Hedge Thompsons\nIsaac Pierson* Ebenezer Tucker.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 906,
+                "y0": 648,
+                "x1": 2256,
+                "y1": 749
+            },
+            "class": "headline",
+            "raw_text": "FRIDAY, .1'ouember lG, 1927.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": -1
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 1658,
+                "y0": 1898,
+                "x1": 2459,
+                "y1": 5273
+            },
+            "class": "article",
+            "raw_text": "Warren r. Davis Thomas r. Mitchell\nWilliam Drayon VIM. t. Nuckohs~\nJames Hamilton Starting Tucker.\nGeorge NJ, Dulle.\n\n\nGEORGIA..\nJohn Floyds Geo. L. Gilmert\nTomlinson Forts Wilson Lumkint\nCharles L. Haynes Wiley Tompson\nVacancy in room of ]. Forsyth, elected Governor.\n\n\nKENTucKy-l2.\nRichard A. Bnckner Thomas Metcafe\nJames Clarke Robert M'Haton\nHenry Daniels Thomas F. Moore\nJoseph Lecompte Charles A. Wicklfe\nRobert P. Letcher Joel Yancey\nChittenden Lyons Zone vacancy.)\n\n\nTENNEssEE--9.\nJohn Bell* Pryor Ieet\nJohn Blair John II. Alarable\nDavid Crockett* James c. Mitchell\nRobert Desha: james X. Polk\nJ acob G. Isacks.\noHIo--14.\n| Mordpcai Barley John Sloane\nPhilemon Beecher VIM Stanherry~\nWm Creighton, jr. Joseph Vance\nJohn Davenport* Samuel r. Vinton\nJames FindIay Elisha Whittlesey\nWilliam MLean John Woods\nVIM. RusselI* John C. Wright*\n\n\n1oursIANA--3.\nVIM. L. Brent Edward Livingston\nHenry H. Gurley.\n| INDIANA--3.\n| Thomas H. Blake* Oliver H. Smiths\nJonathan Jennings.\n| MIssIssIpPI-1.\nWilliam Hale.\nILLINOIS,.\n\n\nJoseph Duncan*\n\n\nALABAMA--3\nGabriel P Moore John MKee.\nGeorge w. Owen.\n\n\nMIssouRI-l.\n\n\nEdmund Bates.*\n|ARKANAsAs.-Henry w. Conway.\nMrcnraAN--Austin F. Wing.\nFLoRrnA.-Joseph Al. White\n\n\nNew Members Members of previous\nCongress, but not of the last.\n\n\nFrom The London Literary Mgozine.\nyns. THE OLD MAIDS DIARY.\nIL. Anxious for coming out and the attention ofth\n\n\nmen.\n\n\n13. Begins TO have some idea Of the tender passion\nIA. Talks OF love in cottage, and disinterested af\n\n\nfection.\nIs. Tancies herself in love with some handsome\n| man who has hattered her.\n16. Is little more difficult in consequence of bens\n| noticed.\nII. Commences fashionable and dashes\nls. Still more confidence in her attractions ant\n\n\nexpects brilliant establishment.\n10. Refuses good offer, because he is not a man 0\n\n\nfashion.\n90. Flrts with every young man she meets.\nFL. Wonders she is not married.\n90. Rather more circumspect in her conduct.\n25. Begins to think large fortune not quite SO nds\n\n\npensablc.\n\"a. Prefers the company of raona! ulcn to flirting\n25. Wishes to be married in quiet way with\n\n\ncomfortable income.\n&c. Almost despairs entering the married state.\nE27. Rather fearful of being called an old maid.\n90. An additional love of dress\n90. Processing to dislike balls, finding it difficult to\n\n\nget good partners.\n30 Wonders how men can leave the society Of SEN\n\n\nshe women to tlrt with chts.\n81. Affects good humor in her conversation with\n\n\nmen.\n80. Jealous of the praises of women.\n33. Quarres with her friend who is lately married\n81. Thinks herself sighted in society\n35. Likes talking of her acquaintance who are mar\n\n\nried unfortunately, and finds consolation intheil",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 884,
+                "y0": 4805,
+                "x1": 1192,
+                "y1": 5290
+            },
+            "class": "article",
+            "raw_text": "William Addams\n\n\nSamuel Anderson\nThomas Rarlow*\n\n\njames Buchanan\n| Richard Coulter*\nChaunccv Forward\nJoseph Frey. jr.*\nInnes Green\"\n| Samuel D. lngham\n| George Kremer\nAdam King\nJoseph Lawrence\nDaniel II. Miller",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                10,
+                0
+            ],
+            "headline": "Notice\nTO JUSTICES c. TEzE FEkCE.",
+            "article": "OF this State are hereby requested to make their re-\nturns of the fines, imposed by them, also the names\nOf the Conssables, who had the collection OF sad\nfines.\n\n\nl Those Justices of the Peace, who have neglected\n\n\n10 make their returns for several years past are re-\nquested to make return OF all the fines imposed by\nthem since their last return\n\n\nAttention to this notice is requested, as report\nWill be made to the Legislature of all those who neg\n\n\nect to make their report according to Law\nAlso the Road Commissioners of the County OF\n\n\nCastle, who have not made their returns of the\nexpenditures on Roads and Bridges in their respec\n1--WE hundred for the year of 1896, gre requested to\niorward them as soon as convenient.\nS. WILLIAMS,\nauditor Of accounts State of Delavpare.\nOot. 3lst, 1927. 57-4t",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 84,
+                    "y0": 4212,
+                    "x1": 863,
+                    "y1": 4343
+                },
+                {
+                    "x0": 84,
+                    "y0": 4359,
+                    "x1": 868,
+                    "y1": 5104
+                }
+            ],
+            "bbox": [
+                84,
+                4212,
+                868,
+                5104
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-11-16_p1_sn83025530_00271740220_1827111601_0260.json"
+        },
+        {
+            "object_ids": [
+                14,
+                1
+            ],
+            "headline": "AGENTS..",
+            "article": "CcycoRp.-Dr Thomas Adams, P. Nj.\nBarDcEvILlE.-Henry Cannon, P. M.\nMILToN.-Mr. Arthur Mlby.\nFRANKFoRp.-Mr. Isaiah Long\nDAGsBoRcuaH.-Dr. Edward Dingle.\nGE,HGE TowN.--Mr. Joshua S. Layton.\nIEwEs--H. f. Rodney, T. M.\nMlLFoeD.-Mr. Joseph G. Oliver.\nFREpEaIcA-J Emerson, ?. NJ.\n\n\nCAMpeN.- Thomas Wainwright, ?. NJ.\nDovEa.-John Robertson, Esq.\n\n\nSMYRNA-Samuel ii. Hodson Esq.\n\n\nCANrwELrs BR1DGE.-Manove Hayes, T M.\nThomas Harry, T. M.\nSUMMIT BRIDGE.--John Clement, T. nj.\nWARWICK, Md.--John Moreton, +. M.\nSubscribers living in the vicinity of the residence\npf these Agents, may pay their subscription money\n10 them, they being authorized to receive it, and to\ngive receipts.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 296,
+                    "y0": 1708,
+                    "x1": 561,
+                    "y1": 1756
+                },
+                {
+                    "x0": 53,
+                    "y0": 1768,
+                    "x1": 833,
+                    "y1": 2526
+                }
+            ],
+            "bbox": [
+                53,
+                1708,
+                833,
+                2526
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-11-16_p1_sn83025530_00271740220_1827111601_0260.json"
+        },
+        {
+            "object_ids": [
+                16,
+                2
+            ],
+            "headline": "NOTICE.",
+            "article": "Persons wishing any sort ofPR1NTINe done, with\nbeatness, accuracy, and dispatch ADVERTISEMENTS\nInserted or SuBscRIpTIoNs paid where there are\nI,o Agents appointed in their neghbourhood to re-\nEeiya them, will please apply, or direct to H. Porter\nknd Son. No. 81, Market Street, Wilmington.\n| All communications, not of the above character,\n\n\nd be addressed to NJ Bradford, Editor of the Della\n|eare Journal, Wilmington.\n\n\nThis arrangement is made for the more regular\n|and prompt execution of business.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 291,
+                    "y0": 1223,
+                    "x1": 543,
+                    "y1": 1268
+                },
+                {
+                    "x0": 32,
+                    "y0": 1275,
+                    "x1": 820,
+                    "y1": 1692
+                }
+            ],
+            "bbox": [
+                32,
+                1223,
+                820,
+                1692
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-11-16_p1_sn83025530_00271740220_1827111601_0260.json"
+        },
+        {
+            "object_ids": [
+                9,
+                3
+            ],
+            "headline": "The Female School in the\nMIDDLETOWN ACADEMY",
+            "article": "|NTT ILL be opened on the first Monday in De-\nw cember next, under the superintendent OF\nbliss IsABELLA ANDERSON.\nTERMS Reading, Writing, Spelling sc. So per\nquarter: payable in advance.\nGeography, arithmetic, and plain needle work,\n|S3 SO cts. per quarter\nEmbroidery and Painting, S. per quarter.\nGood boarding can be had in the village on reas-\nenable terms. JOHN EDDOWES, Secy.\nMtddIetogn, Del. Nov. s, 1897. 59-3m\nThe papers that have published the ADVERTISE\n\n\nment for the Classical School in this institution are\n\n\nrequested to insert the above and send their bills to\n! the Secretary.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 75,
+                    "y0": 2538,
+                    "x1": 798,
+                    "y1": 2643
+                },
+                {
+                    "x0": 53,
+                    "y0": 2655,
+                    "x1": 846,
+                    "y1": 3214
+                }
+            ],
+            "bbox": [
+                53,
+                2538,
+                846,
+                3214
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-11-16_p1_sn83025530_00271740220_1827111601_0260.json"
+        },
+        {
+            "object_ids": [
+                22,
+                4
+            ],
+            "headline": "N'O. 60.",
+            "article": "sc. I'll nature increases.\n81. Very meddling and oficious. N. B. growing\n\n\npenchant.\n\n\n80. Ifrch, as derner resort, makes love to ayoung\n\n\nman without fortune.\n80. Not succeeding, rails against the SEX.\n40. Partially for cards and scandal commences.\nAl. Severe against the manners Of the age.\nAZ Strong prediction for the parson OF the parish.\n43. Enraged at his desertion.\n\"A. Becomes desponding and takes snuff.\nAs. Turns all her sensibiIity to cats and dogs.\nAl. Becomes disguised with the world, and vents\nall her i'll humor on this unfortunate relation.\n\n\n.Noterhe ages affixed to the above altered to sui\nthis latitude, the original commenced at l5 years\nEd. Fen. G6z.\nThe followngs specimen Of the Toasts drank\nat the late Anniversary of the Mddlesex Agrcuitu-\nraj Society. held at Concord, Massachusetts\n\n\n:\" The hypocriticat Parson, the pe'tyoging Lanyey.\nand the quack Doctor, if they must live may they\nlive on each other.'\n\n\n\"The political and religious partisdn, always on\nthe right side, so is an eft or.\"\nOid Bacheors and old Maids, with all their get<\ntngs may one get taxed and the other get married\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2912,
+                    "y0": 648,
+                    "x1": 3229,
+                    "y1": 736
+                },
+                {
+                    "x0": 2445,
+                    "y0": 830,
+                    "x1": 3259,
+                    "y1": 1878
+                }
+            ],
+            "bbox": [
+                2445,
+                648,
+                3259,
+                1878
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-11-16_p1_sn83025530_00271740220_1827111601_0260.json"
+        },
+        {
+            "object_ids": [
+                12,
+                21,
+                5
+            ],
+            "headline": "DOMESTIC INDUSTRY\n\nEXTRACTED FROM NILES REPORT.",
+            "article": "Every article OF American manufacture which,\naccidentally or designedly, has been protected 10\ncheaper because of that protection, and has become\nan article Of export, such cotton goods, nails,\nhats, toots, shoes glass, chemical preparations, pa\nper and other things.\n\n\nManufactures promote intelligence among the\npeople. which, it has been well said, is the soul Of\nliberty\" Bozrahvlle, in Connecticut, is new\nmanufacturing vilage--its inhabitants 'schurch\ngoing and readng people,\" The number of families\nin the village are 10, adults about so the weekly\nand other periodical papers taken at this place, are\nabout four foreyery family and nearly one for every\nadult nhabitant. What volume of instruction il\nthere in this little fact\n\n\nThe morals OF the people employed at Lowell\n(and about 800 of them are females, and all over\n| IA years Of age,) are highly spoken of, and, no\n| .oubt excellent. Every person employed in the\nfactories s required to attend public worship, for\nthe support of which each pays 81 cents per quar-\nter. There are three religious societies at Lowell,\nand this contribution is paid TO either, at the\ndiscretion of the work people. Its object is chief\n| ly to prevent pretences OF wanting seat, &c.\nPopulation than 5000 There are several\nschools for children, between and IA years old.\nand Sunday and other schools.\n| visit TO the Sunday schools Of any large and\nwell regulated manufacturing establishment in the\nUnited States, cannot fail to warm the heart of every\n| friend of man-and in beholding the healthiness.\n4\nhe willing to trust the whole matter to the most pre-\nJUDGED and bitter of our opponents, if they would\nonly reflect upon the subjects presented.\n/ The whole capital invested in manufactures.\ngreat and small, in the United States, independent\nproperty in sheep and lands TO feed them, lands\n| for the supply Of minerals and fuel, &C. may be\nestimated at 800 millions of dollars--The annual\nproduce at 400 millions, and they subsst more than\ntwo millions of people, not including cooperating\nagricuturasts.\n\n\nColquhoun on Indulgence\" says, that the Britt\nsh agricultural counties exceed the manufacturing\ncounties in paupers, is to /, or 100 per cent\nin criminal cases go per cent.--in poor rates $50\nper cent.\n\n\nDISCLAIMERS against the immortality and poverty\nwhich manufactures cause, will do well TO look at\nthis, though it is fatal TO their theory, being pract-\ncal. and even in England.\n\\ The following list takes in some of the chief things\nwhich are manufactured in the United States TO u\nprofit, at cheaper rates than the imported articles\nmany of which are included or passing into the ca\nports of our country, conclusiyely showing their\nmoderate prices\n\n\nLeather and manufacture thereof, of all sorts;\nCotton goods in great variety\n\n\nMuch woolen goods, especially of ofhousehold ma.\nf nuacure !; negro cloths\n\n\nWood work of all scriptions-from ships of the.\nline TO common sitting chairs and minor articles;\n\n\nFlannes, webbing, coach trimmings, including.\nIaces\n\n\nHats, paper, books, types, printing and other\npresses, printers ink and ink powder, globes, pen~\ncils, water colors, maps and charts {;\nMANY articles of metals or earths and mixtures Of\nhen--such as common castings of iron and pune,\nrous articles of wrought iron, among them the best\nfinished and most efficient machinery of all descrp-\nlons; chain cables, nails, brads and tacks, screws,\nmill and cross-cut saws, shoyels, spades sickles,\nscythes, hoes, axes straw knives, adzes, hammers.\nmuskes, rifles, cannon and ball, good locks, latchese\nmany articles of cutlery, buttons brass wares, arti-\ncle Of copper, brass, Iead tin, silver, god plated\nsaddery, lamps, japanned ware, tin ware, cotton\nand wool cards, stone and earthen ware, copperas\nand alum;\n\n\nPlain and cut, and window glass, thermometers\nand other scientific instruments, musical instruments\numbrellas, qnills, womens hats and bonnets;\n\n\nSoap. cand'es, glue, whips, paint stuhs, carpeus",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2527,
+                    "y0": 1903,
+                    "x1": 3160,
+                    "y1": 1955
+                },
+                {
+                    "x0": 2571,
+                    "y0": 1967,
+                    "x1": 3143,
+                    "y1": 2003
+                },
+                {
+                    "x0": 2463,
+                    "y0": 2024,
+                    "x1": 3285,
+                    "y1": 5312
+                }
+            ],
+            "bbox": [
+                2463,
+                1903,
+                3285,
+                5312
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-11-16_p1_sn83025530_00271740220_1827111601_0260.json"
+        },
+        {
+            "object_ids": [
+                17,
+                6
+            ],
+            "headline": "Notice.",
+            "article": "FEVIE Commissioners under the Act OF December\n4 Session 1925, for receiving subscriptions to the\nstock of the Pennsylvania. Delaware and Maryland\nSteam Navigation Company, hereby give notice that\nthe first nstalment of Five Dollars per share in said\nCompany is requested to be paid by the stockhold-\ners who have subscribed at the Franklin Bank Of\nBaltimore, or at the Bank ofDelaware, Wilmington\nor before the 29th Inst. and until such time the\nBooks will be opened for additional subscriptions\nat the same places.\n\n\nTuomAs TENANT. JAMES L. HAwKIns,\n\n\nGEoRsr REIsroN. WILLIAM MEETEER,\n\n\nVIM. w. SEAroN. EDWARD II. BAILy.\ntN29",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 317,
+                    "y0": 3537,
+                    "x1": 586,
+                    "y1": 3608
+                },
+                {
+                    "x0": 75,
+                    "y0": 3620,
+                    "x1": 859,
+                    "y1": 4174
+                }
+            ],
+            "bbox": [
+                75,
+                3537,
+                859,
+                4174
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-11-16_p1_sn83025530_00271740220_1827111601_0260.json"
+        },
+        {
+            "object_ids": [
+                25,
+                7
+            ],
+            "headline": "Vol. l..",
+            "article": "THE DELAW.aRE JOURNAL is pub\ntslsd on Tues'tuys and Fridays. at four dollars\nber annun: !: too dollars every sir months in ad-\nLyapce. No paper to be discontinued, untit ar\nrsarages are paid.\n\n\nAdvertise nents inserted on the nsuat terms\nVIZ: One dollar for four insertions Of sixteen\n\n\nlines. and so in proportion for erery number g\nadditional lines aud insertions.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 36,
+                    "y0": 661,
+                    "x1": 275,
+                    "y1": 753
+                },
+                {
+                    "x0": 32,
+                    "y0": 834,
+                    "x1": 820,
+                    "y1": 1211
+                }
+            ],
+            "bbox": [
+                32,
+                661,
+                820,
+                1211
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-11-16_p1_sn83025530_00271740220_1827111601_0260.json"
+        },
+        {
+            "object_ids": [
+                13,
+                8
+            ],
+            "headline": "For Sale,",
+            "article": "A First Rate Stand, in Narket-Street, occupied as\ntAa Dry Good Store, by William b. Tomlnson.\nThe payment to be made to suit the purchaser.\n\n\nInquire of JOSEPH POGUE, No. 1O7, Market\nStreet, Wilmington. 59-4f",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 261,
+                    "y0": 3235,
+                    "x1": 634,
+                    "y1": 3309
+                },
+                {
+                    "x0": 66,
+                    "y0": 3321,
+                    "x1": 850,
+                    "y1": 3517
+                }
+            ],
+            "bbox": [
+                66,
+                3235,
+                850,
+                3517
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-11-16_p1_sn83025530_00271740220_1827111601_0260.json"
+        },
+        {
+            "object_ids": [
+                20,
+                15
+            ],
+            "headline": "FRIDAY, .1'ouember lG, 1927.",
+            "article": "TWENTIETH CONGRESS-lsts SESSION.\nlist Of Members Of the Senate and House Of n\n\n\npersonalities Of the United States.\nSENATE.\n\n\nMAINE.\nJohn Chandler Albion K. Paris\"\nNEW HAMPSHIRE.\nSamuel Bell levi Woodbury..\n\n\nMASSACHUSETTS.\nNathaniel Silsbee Daniel Webster.\nCONNECTICUT.\nSamuel A. Foot* Calvin Wiley.\n\n\nRHODE ISLAND.\nNehemiah r. Knight Asher Robbins.\n\n\nVERMONT.\nDudley Chase Horatio Seymour.\n| NEw-YoRK.\nMartin Van Buren Nathan Sanford.\nNEW JERSEY.\nMahlon Dickerson Ephraim Bateman.\n\n\nPENNSYLVANIA.\nWilliam Marks Isaac d. Bainard.*\nDELAWARE.\nLouis M'Lane* Henry NJ. Ridgely.\n| MARYLAND\nSamuel Smith Ezekiel F. Chambers.\n| VIRGINIA\nL. w. Tazewel John Tyer.*\n\n\nNORTH CAROLINA.\nJohn Branch Nathaniel Macon.\n\n\nSOUTH CAROLINA.\nWilliam Smith Robert Y. Hayne\nGEORGIA.\n]. MCPHERSON Berrien Thomas w. Cobb.\n\n\nKENTUCKY.\nRichard nj. Johnson John Rowan.\n\n\nTENNESSEE.\nJohn II. Eaton Hugh L. White.\nWilliam H. Harrison Benjamin Ruggles.\nLOUISIANA.\n, Dominique Bouligny Josiah S. Johnston.\nINDIANA.\nWilliam Hendricks James Noble.\nMISSISSIPPI.\nThomas II. Williams Powhattan Ellis.t\n\n\nILLINOIS.\nElias K. Kane Jesse B. Thomas.\n. ALABAMA.\n# Henry Chambers William r. King.\n\n\nMISSOURI.\nr David Barton Thomas H. Benton.\n(, HOUSE OF REPRESENTATIVES..\n\n\nNAME.\nJohn Anderson James w. Ripleyv\ns. Samuel ButmanS Peeg Spraeue\nRufus M'Intic Joseph F. Wingate.*\nJeremiah O'Brien\ne. NEW HAMpsHIRE-6.\nre David Barker, Jr. Joseph Hcaly\nto Ichabod Bartlett Jonathan Harvey\nTitus Brown* Thomas Whipple, Jr.\nvERMoNT-5.\nHeman Allen* Kolin G.. Mallary\nDaniel A A. Bnckf George E. Wales.\nas Jonathan Hunt\nn MASsAcHusETTs-lS.\nSamuel c. Allen Benjamin Gorhamf\net- John Bailey -flodges*\nIsaac c. Batcs* John Locke\n: B. w. Crownnshield John Reed\nJohn Davis Joseph Richardson\nHenry w. Dwight John Varnum.\ner Edward Everett.\nhe RHODE ISLAND.\nnd Trastram Burgess Dutee ]. Pearce.\nlat coNNEcrlcur-6.\naid John Baldwin Orange Merwin\nId Moves Barber Elisha Phelps\nOf Raj ph j. Ingersol David Plants\nOn. NEW yoRK-34\nhe Daniel u. Barnard Henry G. Martindale\nMS, George 0. Beldenx Dudley Marvin\nRudolph Bunner& John NIagee*\nc. G Cambreleng John Maynads\nSamuel Chase* Thomas ]. Oakleyf\n+. John C. Clark S. Van Rensselaer,\n} John d Dickinson Henry II. Storrs\n. Jonas Earll. Jr. James Strong\nDaniel G. Garnsey John G. StowerT\nNathaniel Garrow* John w. Taylor\ne John L. DE GratfN Gnllan Y. Nerpanck\nA' John Hallock. Jr. Aaron Ward\nles Splah Il. Hobbies John j. Woods\nre- Martin Hoffman Sllas Wood\nnes Jcromus johnson David Woodcockf\naid Richard Keese* Silas Wright, Jr.\nHenry Markell Zone vacancy.)\nted NEw-JERsEY-6.\nre- lewis Condct Samuel Swan\nby George Hocombe Hedge Thompsons\nIsaac Pierson* Ebenezer Tucker.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 906,
+                    "y0": 648,
+                    "x1": 2256,
+                    "y1": 749
+                },
+                {
+                    "x0": 823,
+                    "y0": 782,
+                    "x1": 1603,
+                    "y1": 4702
+                }
+            ],
+            "bbox": [
+                823,
+                648,
+                2256,
+                4702
+            ],
+            "full_article_id": 16,
+            "id": "16_1827-11-16_p1_sn83025530_00271740220_1827111601_0260.json"
+        },
+        {
+            "object_ids": [
+                18
+            ],
+            "headline": "",
+            "article": "Warren r. Davis Thomas r. Mitchell\nWilliam Drayon VIM. t. Nuckohs~\nJames Hamilton Starting Tucker.\nGeorge NJ, Dulle.\n\n\nGEORGIA..\nJohn Floyds Geo. L. Gilmert\nTomlinson Forts Wilson Lumkint\nCharles L. Haynes Wiley Tompson\nVacancy in room of ]. Forsyth, elected Governor.\n\n\nKENTucKy-l2.\nRichard A. Bnckner Thomas Metcafe\nJames Clarke Robert M'Haton\nHenry Daniels Thomas F. Moore\nJoseph Lecompte Charles A. Wicklfe\nRobert P. Letcher Joel Yancey\nChittenden Lyons Zone vacancy.)\n\n\nTENNEssEE--9.\nJohn Bell* Pryor Ieet\nJohn Blair John II. Alarable\nDavid Crockett* James c. Mitchell\nRobert Desha: james X. Polk\nJ acob G. Isacks.\noHIo--14.\n| Mordpcai Barley John Sloane\nPhilemon Beecher VIM Stanherry~\nWm Creighton, jr. Joseph Vance\nJohn Davenport* Samuel r. Vinton\nJames FindIay Elisha Whittlesey\nWilliam MLean John Woods\nVIM. RusselI* John C. Wright*\n\n\n1oursIANA--3.\nVIM. L. Brent Edward Livingston\nHenry H. Gurley.\n| INDIANA--3.\n| Thomas H. Blake* Oliver H. Smiths\nJonathan Jennings.\n| MIssIssIpPI-1.\nWilliam Hale.\nILLINOIS,.\n\n\nJoseph Duncan*\n\n\nALABAMA--3\nGabriel P Moore John MKee.\nGeorge w. Owen.\n\n\nMIssouRI-l.\n\n\nEdmund Bates.*\n|ARKANAsAs.-Henry w. Conway.\nMrcnraAN--Austin F. Wing.\nFLoRrnA.-Joseph Al. White\n\n\nNew Members Members of previous\nCongress, but not of the last.\n\n\nFrom The London Literary Mgozine.\nyns. THE OLD MAIDS DIARY.\nIL. Anxious for coming out and the attention ofth\n\n\nmen.\n\n\n13. Begins TO have some idea Of the tender passion\nIA. Talks OF love in cottage, and disinterested af\n\n\nfection.\nIs. Tancies herself in love with some handsome\n| man who has hattered her.\n16. Is little more difficult in consequence of bens\n| noticed.\nII. Commences fashionable and dashes\nls. Still more confidence in her attractions ant\n\n\nexpects brilliant establishment.\n10. Refuses good offer, because he is not a man 0\n\n\nfashion.\n90. Flrts with every young man she meets.\nFL. Wonders she is not married.\n90. Rather more circumspect in her conduct.\n25. Begins to think large fortune not quite SO nds\n\n\npensablc.\n\"a. Prefers the company of raona! ulcn to flirting\n25. Wishes to be married in quiet way with\n\n\ncomfortable income.\n&c. Almost despairs entering the married state.\nE27. Rather fearful of being called an old maid.\n90. An additional love of dress\n90. Processing to dislike balls, finding it difficult to\n\n\nget good partners.\n30 Wonders how men can leave the society Of SEN\n\n\nshe women to tlrt with chts.\n81. Affects good humor in her conversation with\n\n\nmen.\n80. Jealous of the praises of women.\n33. Quarres with her friend who is lately married\n81. Thinks herself sighted in society\n35. Likes talking of her acquaintance who are mar\n\n\nried unfortunately, and finds consolation intheil",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1658,
+                    "y0": 1898,
+                    "x1": 2459,
+                    "y1": 5273
+                }
+            ],
+            "bbox": [
+                1658,
+                1898,
+                2459,
+                5273
+            ],
+            "full_article_id": 19,
+            "id": "19_1827-11-16_p1_sn83025530_00271740220_1827111601_0260.json"
+        },
+        {
+            "object_ids": [
+                24
+            ],
+            "headline": "",
+            "article": "William Addams\n\n\nSamuel Anderson\nThomas Rarlow*\n\n\njames Buchanan\n| Richard Coulter*\nChaunccv Forward\nJoseph Frey. jr.*\nInnes Green\"\n| Samuel D. lngham\n| George Kremer\nAdam King\nJoseph Lawrence\nDaniel II. Miller",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 884,
+                    "y0": 4805,
+                    "x1": 1192,
+                    "y1": 5290
+                }
+            ],
+            "bbox": [
+                884,
+                4805,
+                1192,
+                5290
+            ],
+            "full_article_id": 25,
+            "id": "25_1827-11-16_p1_sn83025530_00271740220_1827111601_0260.json"
+        }
+    ]
+}

@@ -1,0 +1,481 @@
+{
+    "lccn": {
+        "title": "Delaware journal.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2638-6917",
+        "lccn": "sn83025530",
+        "start_year": "1827",
+        "end_year": "1832",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [
+            "sn85042477"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn83025530",
+        "edition": "ed-01",
+        "date": "1827-10-23",
+        "pages": [
+            "seq-4",
+            "seq-1",
+            "seq-3",
+            "seq-2"
+        ]
+    },
+    "page_number": "2",
+    "scan": {
+        "lccn": "sn83025530",
+        "edition": "ed-01",
+        "date": "1827-10-23",
+        "page": "2",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-10-23/ed-1/seq-2.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-10-23/ed-1/seq-2/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-10-23/ed-1/seq-2/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn83025530/00271740220/1827102301/0227.jp2",
+        "height": 5560,
+        "width": 3616
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 1130,
+                "y0": 2219,
+                "x1": 1921,
+                "y1": 3493
+            },
+            "class": "article",
+            "raw_text": "Taken at the several Annual Conferences of the\n\n\nMethodist Episcopal Church for the year 1897.\n\n\nNew York, published by N. Bangs and J. Ene-\n\n\nry; octave. PIP. 72-Price l83cents.\n\n\nThis work, which has just issued from the Confer\nence office, contains full and complete view of the\npresent prosperous state of the Methodist Episcopal\nChurch. 1t embraces the names ofthe Bishops, FL\nders, Deacons, and candidates for orders designa-\nting those who have been received on trial, during\nthe year; those who remain on trial who are ad-\nmted into full connection, who are the deacons\nwho have been elected and ordained elders who\nhave located who are the supernnmerary preach\ners who are the superannuated OF worn out peach\ners; who have been expelled who have Withdrawn\nromthe connection and who have died, with short\nobituary notices. 1t gives the of all the dis\ntricts, circuits and stations, together with the num-\nDer OF members in each, and the appointments OF the\nseveral preachers with an alphabetical list Of the\npreachers names, showing to what circuits, stations\nand conferences they scvrrally belong 1t shows\nthat there seventeen annual conferences, divided\n\n\ninto eighty five districts, embracing eight hundred\nand fifty nine circuits and staons-that there are\nfifteen hundred and seventy six travelling preachers;\none hundred and eleven OF whom are superannu;,-\n! ted and that there three hundred and eighty\none THOUSAND, nine hundred and ninety seven church\nImenbers being nett increase snce the last year\nlof twenty thousand, one hundred and ninety\nseven 1t also contains the following table, present\n\n\ning at one view, the number of members and preach\no,nh",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1421,
+                "y0": 2180,
+                "x1": 1613,
+                "y1": 2220
+            },
+            "class": "headline",
+            "raw_text": "MINUTES",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1178,
+                "y0": 4500,
+                "x1": 1939,
+                "y1": 5222
+            },
+            "class": "article",
+            "raw_text": "from Tie Na1lonuz HtelEgencer.\n\n\n:HE BEAUTIES OF NATuRE-From q verv\narticle, in the new Western Revewy\npublished at Cincinnati by Mr.. Flint, descriptive Of\nthe flowers of The valley of the Mississippi we ex.\ntract the following introductory reflections. which\nare alike creitabe to the head aud the heart of the\neditor.\n\n\nsin fitting up this magnificent universe, in which\nGod has laced US, every thing seems to have been\nformed with double reference to utility and bean\nty. In the arrangements of the Creator we can see\nno reason, priori why the predominant coors Of\nvegetable nature should not have been crimson. or\nblue, instead OF green. Every one has felt, indeed.\nthat this last Us the most pleasing color to the eye\nBut every has not looked beyond this fact to ibt\n,actual wisdom, contrivance, and benevolenco -\nProvidence, in clothing nature with this cheerful\ndelightful color. Colors, in which light abounds",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1173,
+                "y0": 4243,
+                "x1": 1674,
+                "y1": 4462
+            },
+            "class": "headline",
+            "raw_text": "'uperannuated,\n\n\nTotal, 327932 535la 523\nTotal last year,\n\n\nIncrease this year,",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -2
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 1317,
+                "y0": 4487,
+                "x1": 1808,
+                "y1": 4522
+            },
+            "class": "headline",
+            "raw_text": "From the National MteTgencer.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1903,
+                "y0": 351,
+                "x1": 2712,
+                "y1": 4509
+            },
+            "class": "article",
+            "raw_text": "10 exclude the reuuhtant ktarc. COiolS, III wiz\"\nshade is in excess. cause an expansion, equally\npainful. that sufficient number Of rays may be re-\nceivet, to give the picture in clear relief Green\nis that color Of nature in which light and shade are\nneutralzed in balancing proportions For instance,\nan exact mixture in equal proportions OF white aud\nblack, constitutes the delightful hue OF green, on\nwhich the eye reposes with untiring satistaction and\nin viewing which its nerves are neither strained\nwith excess or lack Of rays and for tins reason, uh\n,loubtedly, it is, that vegetable nature is clothed\nwith green in preference to any other hue. Every\nlime, then, in which we contemplate nature, when\nrobed in the verdure Of spring. we ought to look\n\n\nhrough the physical beauty Of the spectacle. to the\n\n\nmanifest and merci!nl regard of the All Good to air\ncomfort and enjoyment, in the most delightful and\nperfect Of all our senses-that OF vision.\n\n\nIn the same manner it might have pleased the\n\n\nAuthor of Nature to have presented us tne SEEDS\n\n\nand fruits Of the various trees. shrubs and plants on\n\n\nthe naked stem, or from cup OF foliage instead OF\nflowers But. apparently. to relieve the monotony\nof beauty in the universal verduie. Providence has\n\n\nseen fit to cradle the infant seed and fruit IN an am\nbrosal nest of flowers where, in mysterious pro-\n\n\ncess of generation found to be more analogous 10\n| the beginnings OF animal existence, in the same\n\n\nproportion. as it is most intimately explored, the\nyoung seeds and fruits repOse in pavions more gor\n\n\ngeous than those Of mOnarchs, and breathing airs\nmore aromatic than those Of Araby the best'\n\n\nHence, too, as one of the benevolent intentions in\nthe formation of flowers seems to be to relieve the\n\n\nmonOtony of yerure to the eye, the fOrms the hues,\n\n\nthe MEETINGS of one shade into another in flowers,\nhave that magnificent and infinite variety which we\n\n\ndiscover in that kingdom. At the same time. that\n\n\nthe eye might be more delighted in contemplating\n\n\nthe splendor of blossoms, arrayed in beauty, to\n\n\nwhich all the glory of Solomon might not be compar-\n\n\ned, they emit Perfume SO rich and exquisite, as to\n\n\nset at nougt ali the efforts of art and luxury to mi\n\n\ntate and thus, by gratifying one sense, create\n\n\ndelightful associations for incl easing the enjoyment\n\n\nof the other\n\n\nIn completing the processes of vegetable nature,\n\n\nwe discover that Providence has designed gratifi-\n\n\ncation for every sense. The seeds of apples, oran\n\n\nges figs, grapes, pomegranates. and all the delicious\n\n\nfruits might have been matured for aught that ap-\n\n\nDear-, in the sterile capsules of the cotton plant or\n\n\nthistle, as well in the centre OF that nurltive and\ngrateful pulp, where they attain their ultimate ma\n\n\nturty. But beauty, utility, and the means OF com.\nPortable existence, seem to be bound together IN\nZ this our creation by an indissolnble chain.\n\n\nThe study of natural history, in this point Of\nview, becomes to rightly constituted mind, moi\nonly source of pleasure and instruction but il\noriginates admirng and adoring conceptions OF the\nAuthor of Nature, and originates reg gious feeling\n; New proofs of wisdom and design develop at every\nstep, Gods found to be the same Being in the hue.\nand fragrance of flower, as in the rich coloring\nthe Clouds the spendors of the armament, and ths\nneffable grandeur OF the starry heavens We trace\nI precisely the same wisdom. design, and arrangmen\ny of means TO an end in the minute as in the vast o\nl. his works and find it is the impress of the same\ne hand\n\n\nsThat gives its gliding to insects wing,\n\n\ni And wheel; his throne pom the rolling worlds\"\n: How often, while wandering in the deep iiowerin\nu u forests of the Mississippi valley, in Spring, hav\nu these sentiments forced themselves upon us. w\nY M pI m tha u.r Of yarNu\ny above and the splendid variety of flowers aroun\nt US. The wild bees, in their courses through tn\nair, seemed, like the interminable wires of in i'm\nII manse Eolian harp, as they sped to their repa:\n= of nectar All the irrational tribes appeared, b\ny heir various expressions of excited movement an\n= 10y, to enter as deeply into the beauty and grandeu\nY OF what was before them, we did. Althoug\n\n\nthere was but one visible rational worshpper. W\nrs could not but consider this of solitary grandeu\n- and beauty, as temple. We imagined unseen an\nW higher ntelligences enjoying the spectacle with\n~ and united in the same delightful sentiments of az\noZ mraton and worship.\n\n\nq The University of Virginia is not as fully attende\n70 This session as was anticipated. One hundred an\n81 eighteen students only, have as yet matriculae\n~ though more are expected. The 'hard times\" la,\n\"a doubtless prevented many from attending.\nvi PHILADELPHIA, Der. 16.\n80 The Friends Yesterday morning. the first yea\n81 y meeting of that part of the Society of Friend\n56 adopting the opinions of Elias Hicks was held in tn\n50 meeting house near Green street. The females o,\nSO cupying the brick houses and the men large tempc\nrary frame building erected for that purpose in til\nSo court. vast crowd assembled, including man\nII friends from the country. During the meeting\n- which will last the whole week, it is said some I\n70 their celebrated preachers will visit them.\noo Ihe Friend--The first number of weekly \"a\n- per, says the Philadelphia Gazette, bearing til\n~ foregoing title, was issued in this city on Saturda\n\n\nlast. 1t is in the quarto form. and well printed",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 292,
+                "y0": 490,
+                "x1": 1118,
+                "y1": 4653
+            },
+            "class": "article",
+            "raw_text": ",n the Presideat of the United States, at the City\nJi,el The Rev Mr.. Ecceson, Vice President OF d\nthe Ce-e, briefly addressed the President IN the y\nfollowing words:\n\n\nS,p-We have the honor of presenting to you d\nthe Students of ST. Mary's College. Sharing the f\nrespect cordially manifested by their fellow citizens\nthey are desirous OF giving expression to the feel\nings called forth by this grateful occasion. 1t, ip HI\ntheir sudious retreat they delight to contemplate I\nthe lofty virtues recorded the classic pages OF an\ntauity, and their youthful bOsoins catch the iire oi\nRoman patriots and Greclan sages may they not t\nbe allowed to feel something mere than aimlral,\"n.\nwhen they pay the tribute ct their hearts to those\nvenerable titles III the person Of the first mags;ra\nOF their country! II\nBut, Sir, of these Youths considerable portion\napproach you with more than ordinary INTEREST,\"\nThey are from the rising republics OF the South.\nBY their standing in society destined to the discharge\nof great and responsible duties, they have come to\nprepare themselves for their high calling in an inst-\ntuition which already boasts OF numbering among It's\nalumni several Of the distinguished patriots who are\nnow reaping glory and freedom at the side OF the\n-Boivars and the La Mars. With what pleasing\nemotions will not these youthful stran .ers remember\nmoment, which shows to them power resolved\ninto paterual regard, and fidelity exalted into hial\naffection. A moment which even now perhaps be-\ncomes for them another motive to generous deeds, (\nand presage of future success.\nAccent, therefore, Sir, the testimony OF respect\nwhich flows from ardent and ingenious hearts II\nand while we become the organ OF their ieengs,\nwe need not add, that they are IN unison with our\nown\"\nTo this short address. Mr.. Adams with much\nemotion and interest replied in words to this effect\nsin receiving this pleasing mark Of attention\nfrom the Professors and Students OF ST. Marys col\nlece am happy to renew the recollection Ut scenes\nin which I myself was once engaged. too have\nperformed the duties of an instructor IN literary\ninstitution and entertain the highest respect for\nthat important function\" And he concluded with\nsome observations favourable to the reputation of\nthe college.\n\n\nAfter this feeling and highly appropriate reply.\nthe Vice president proceeded to introduce the Stu\ndents Individually to Mr.. Adams, who received\nthem with the most marked and cordial condesccn-\nsion.\n\n\nAfter the Introduction, and an interval OF mo-\nments, during which he was evidently striving to\nsuppress his emotion, he advanced, and with great\nenergy and feeling. addressed the students in words\nTO- the following effect:\n\n\nYouse GEyrLEMnN.-I am happy to have had\nthe opportunity Of taking you by the hand-and be-\nfore we part permit me to remind you. while recol-\nlectng, the sublime examples OF patriotism witt\nwhich your daily studies make you conversant II\nthe histories of Ancient Greece and Rome so Justly\nnoticed in the address from your respected lnstruc\ntor, which you have ust heard, that you have ii\nthis city and its immediate vicinity, the monument\nof the same exalted spirits exhibited in the defence\nof our own country-and hope and trust that the,\nwill influence your future lives as deeply as th'\nmost exalted proofs of public spirit which you viii\nfind in the course of your studies.\n\n\nAt four O'Clock he dned with the Cincinnati o\nMaryland, and the Officers and soldiers wounded\nin the Battle of North Point. The entertainment\nwas handsome, and creditabe to Mr. Barnum.-\nThe following toast was given on behalf Of the CON\nmittee\n\n\nThe United States of .an,erica-Mav other cour\ntries learn from them. that the easy access of tn\npeople to their rulers, is the means of confdenc\non thsone side and of right government on the othe\n\n\nAfter short time the President gave the follow\ning sentiment, which he accompanied with some II\nmarks explanatory Of the allusion -\n\n\n\"Ebony aud Iopaz-GeneraI Ross Posth\nnous coat of arms, and the republican militia ina\nwho gave it.\"\n\n\nan apprehehensve that the ausion upon whic\nthis sentiment is founded, may not be familiar\nevery of you at this table aud that it W\ntherefore need short explanation.\n\n\nII nav perhaps. not be known to vou all. tn\nfor the splendid achievements of Gen. Ross in til\ncountry, his family have been rewarded by hers\ndie addition to their coat of arms, and as it was Il\narm of republican mtlaman of Maryland, tn\nredered this service to the family. may fairly CO\nslider him as having given it. Hcraldrv is a n,\nnarchcal institution, about which know little.\nWhether this inference would pass muster with L\ngarter king at not, do moi know, but ho\nit will pass for republican depice. But the CO\nnection of this sentiment with the of Ebo\nand Topaz, is founded upon philosophical rale\nVoltaire. by which in my yoath was amused a\ninstructed. 1t is an ancient fableot the Hindu b\nMinis, and has come down, through the Arabians\nthe modern European nations and to u.s. I\nsame tale, under different Names has been told\nEnglish verse by Parnell, as we'll as in French pr\n\n\nby Voaife.\n\n\nIn the tCnln 10 which my tnnst allnlns Ehnn,",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 396,
+                "y0": 299,
+                "x1": 992,
+                "y1": 352
+            },
+            "class": "headline",
+            "raw_text": ".x,5n Dx baltimore Patriot Oc,. \".",
+            "legibility": "Questionable",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2694,
+                "y0": 629,
+                "x1": 3516,
+                "y1": 4792
+            },
+            "class": "article",
+            "raw_text": "marks-'' IT Intelligence rcspectability, patriotism\nend weight Of character can effect any thing, wa\nmay regard this movement now fairly commenced\nin this great and influential commonwealth, as rauob\nwith the most auspcious results for the future ham,\n\n\npness OF our county\n\n\nAdviecs from Liberia, by late arrival from Al.\nRIGA, very cneouragingas to the continued good\nhealth and condition OF the colony.\n| 1t may not be known TO all our readers, that tho\n\n\nfour states which voted for Mr.. Crawford, by their\n\n\nRepresentatives in Congress, would have eventually\n\n\nvoted for Mr. Adams in preference to General Jacl,\n\n\nson. The evidence of this is various: but We sim.\n\n\nply give the following extracts from the numbers of\n\n\nHampden, publishing in the National lntelllgencer\n\n\nrelative to the tales ofthe Opposition worthies.\nI \" General Jackson had but seven certain States\n\n\nDid he expect Delaware, Virginia, or Georgia? He\n\n\ncould not, and will shew it. 1t is clear he did NOT\nbecause all the world knew he could not expectt\n\n\nThe opinion of the Representative of Delaware\n\n\nwas always freely expressed The sentiment Of the\nVirginia Delegation could not have been msappre\nhended The Legislature of Georgia refused to\nrecommend General Jackson, by an immense manor\n} ity. Virginia was opposed to General Jackson 50\n\n\nto leave doubt of their preference, even if the\nopen expression ofther opinions had not been known\nBesides, it was known, and now assert the fact,\ne and challenge u dendt that The leaders Of the\nfriends OF Mr. Crawford, in expectation of bis death\n\n\nor inability, six months before the election, deter.\n!, mined, in that event. to support Mr.. Adams, and\ni which was known to be in conformity with the SEN\ni tlment OF their respective States.\n\n\nIS The Representatives OF North Carolina were hos.\n= tile to General Jackson, and voted against him in\nthe House, notwithstanding he had the electoral votc\nd because that vote the result of an union be.\nl. tween the friends OF Mr. Adams and General Jack.\n4 son, by which they, together, defeated Mr. Craw-\nin ford, although he had plurality in the State The\n\n\nmembers were entirely free to vote between Mr. |\nOf Adams and General Jackson; and we hazard noll\not ing in saying they would have voted for Gen\nit Jackson\ne DO you believe that Delaware and Virginia would\n9. have voted for him ~ (Jackson)\nJ Brutus, 4 writer in the Richmond Whig makes\nac the following statement on this subject\n\n\n\" The electoral college OF DsluzYare had given two|\n- votes to Mr.. Craujord, and TO Mr.. adams butt\n:. none to Gen. Jackson. And the sole Representative\nof Delaware,) whatever may be the disposition bel\n~ ~ has subsequently eyinced towards 60 the Hero,\"\n\n\nwould at Mat hme as soon have voted for the Prince\n\n\nof darkness as for him. The same may be said Of\n\n\nall the States which had in the first instance. voted\n\n\nfor Mr.. Crawford, between whose friends and those\ns of ten. Jackson there THEN seemed to be barrier\n\" that nothing but miracle could have broken down\nIhis was not only the individual feeling OF the rep\n~ resentailves, who eynced their devotion to Mr.\nNV Crawford by giving him their first vote but was\n- the concerted determination of the whole after\nw. abandoning him. to throw their weight into the scale\nas, lsl with MIR. Adauis.''\n\n\nIII From ths Loudon County, IVA Anti jackson\ngh Resolutions, adopted at meeting on the 9th of 0c-\nwe tober tor the purpose of sending dele gates to the\nur Richmond Convention, we copy the 70 flowing:\nmd Resoived, as the opinion of this meeting, that no\nu.s. just causes OF complaint exist against the Admins.\nad- traitor OF the General government since the election\n\n\nOF the present chief magistrate, whose claims to our\n\n\nconfidence are founded upon long course Of pub.\ned TIC service his distinguished talents and faithful de-\nh Votoh 10 the public good, and whose policy Of go.\ned based upon the best precedents Of those\nlve who have gone before him.\n\n\nhesooea' that we spurn the dication of those who\n\n\nahectihg TO treat the people of Virginia as vassals\n\n\ntransferable at their pleasure, bid us to sustain in\nar io@o' the man, whom, in 1884, they openly and un\nus, equivocally denounced to u.s.\n\n\nne from the preamble to the resolutions passed at\noc- the Anti jackson meeting held at LyncEburg Va\n30 Oct. 9Th, we select the following:\n\n\nne Your committee declare that after considering the\nwhoe course OF the opposition to the present admins\n~ aon tey are convinced, that, in by far the larger\n\n\n,0uSSe' @\"u unpr'hcipied, pretending no\n\n\nfoundation bas he bafied, reiu,ed and wholly dis\nID s'Paed charge o corruption in the late electoI\nDut restng IN iact rst in hatred of the North and\nay second on personal jealousy and malice against the\nd. Secretary of State heiShened if not originating,\nIts from hunger foi afiice.\nnd Your committee declare that there are very few\nor public characters in America whom they would NOT\nerr prefer to Zen Jackson With not one earthly qua\nOF hcat'on Tor the Presidency, that is not in its es-\n20 sence merely military, through life marked I'm TO\nlate aye with almost every species Of ycious habit",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2763,
+                "y0": 304,
+                "x1": 3403,
+                "y1": 361
+            },
+            "class": "headline",
+            "raw_text": "DELAWARE JOURNAL.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -2
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2741,
+                "y0": 390,
+                "x1": 3429,
+                "y1": 513
+            },
+            "class": "headline",
+            "raw_text": "WliLt:5g.!1lsS GEgNs\nTuesday, October %, 1921.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1099,
+                "y0": 308,
+                "x1": 1895,
+                "y1": 2155
+            },
+            "class": "article",
+            "raw_text": "On retiring the President, alter few remarks,\nreturning thanks for the reception which had been\ngwen to him by his ieow-citizcns .of Baltimore\ngave\n\n\nBaltimore, the Monumental City-Nay the days\nOf her safety be as prosperous and happy. as the\ndays of her dangers have been trying and trium-\nphant.\n\n\nAccording to previous arrangement the Presi-\ndent again the evening received the visits of his\nllow-citizens, Of whom he took leave in brief\nand cordial address, praying those with whom he\nhad exchanged salutaiions TO convey them as from.\nhim to their families. But having received an intine\nton from number of his fellow citizens who had\nnot before been presented to hm, that they were\ndcsrous of exchanging salutations with him, he re-\nturned to the place appointed for the reception OF\nhis visitors, and having been greeted by all who de-\nsired TO see him, finally retired. Having afterwards\nlearnt that several of his friends had called to see\nhim after he finally retired, he expressed his regret\nthat for want of time, full opportunity was not\n\n\nafforded him to exchange salutations with every cit\nlzen who was desrouse to take him by the hand.\nThe President left Baltimore this morning at\ntended by a number OF his low-ciizens, who\ntook leave of him at short distance from the city\nFrom, The National LpeiHgencer, Oct. 19.\n| The PRESIDENT of the United States returned to\nthe Seat of Government yesterday, from his visit to\nhis native State. We are glad to learn that his\nhealth and strength have been materially improved\nby the Journey, and the relaxation it afforded ron\nthe close attention which he habIlualy gives to his\npublic duties.\n\n\n| In letter of business, from friend in Baltimore\n\n\nhe thus incidentally notices the Presidents sojourn\n\n\nin that city\n\n\n\"The President has given hims up to the Peo\n\n\npie here for these two days and no not see how\n\n\nhe could have wlthsood their earnest apphcaton tt\nhim for that purpose. He has received ana ex\nchanged salutations with thousands oi cttzans ad\n\n\nversares well as friends, and asn sau to be anil\n\n\nsay to the credit of the former thai equal respac\n\n\nfor his official character seems to be manifested b.\nJ. !, all parties",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3489,
+                "y0": 482,
+                "x1": 3620,
+                "y1": 4340
+            },
+            "class": "article",
+            "raw_text": "| oonfdd\n| tary o1\n| our COT\n| State u\n| Mr.. Ad\n| ors for\n\n\n| origln;|\n| village\n! !, CONT\n\n\n2ens.7|\n! sitleral|\n| the - \\\n| c,lmela|\n| TO be d\n! ware.\n\n\nBut |\nAt reseptd\n\n\n| bOurs |\n\n\nDelaw|\n| ly to tA\n| to Mr.\n\n\nbeen a |\n\n\n| ject, II\n| ciation|\ni same 4\n! and sol\n\n\nthese |\n/ unless\n\n\n/ tons.\n! Lett\n\n\nthat tl|\n\n\nwas me-\n\n\nslandir|\n\n\n! MaRag\n\n\n! Eaton\n\n\nselectd\ner, and\n|circuld\nneed d\n: men al\n:. | really\n\n\n: would\n; ; Idisintd\n\n\nof Del\nd |discov|\n\n\n! wagiin|\nIS ALLY\n\n\nhave |\n~ stancd\n. Ihave\nhe not I'd\n!\" ! They\n\n\n&c der VI\nVI Nv 40|\nE, sesSel\nPr more\nn. Cd\nas WI\n'la ia | /. CT\non II\nr.. | for 4\n/. beer\n\n\n\"' Will\n\n\nthe |\nno torll\nis. X that\non tlle|\n'ur tel'I\nID. X the|\nle- wiq\no. old\nSc eyi |\n\n\nsptI\nllo t!,t|\nlis tioI\nin / VII\nn feJ\n\n\n| fc,\n\n\nat tIl|\nne t4\ner II\n10. u",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 2702,
+                "y0": 925,
+                "x1": 3455,
+                "y1": 1060
+            },
+            "class": "article",
+            "raw_text": "Adviees from Liberia, by late arrival from Az\nRIGA, are very cneouraginsas to the continued goo.\nhealth and condition OF the colony.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                8,
+                0
+            ],
+            "headline": "MINUTES",
+            "article": "Taken at the several Annual Conferences of the\n\n\nMethodist Episcopal Church for the year 1897.\n\n\nNew York, published by N. Bangs and J. Ene-\n\n\nry; octave. PIP. 72-Price l83cents.\n\n\nThis work, which has just issued from the Confer\nence office, contains full and complete view of the\npresent prosperous state of the Methodist Episcopal\nChurch. 1t embraces the names ofthe Bishops, FL\nders, Deacons, and candidates for orders designa-\nting those who have been received on trial, during\nthe year; those who remain on trial who are ad-\nmted into full connection, who are the deacons\nwho have been elected and ordained elders who\nhave located who are the supernnmerary preach\ners who are the superannuated OF worn out peach\ners; who have been expelled who have Withdrawn\nromthe connection and who have died, with short\nobituary notices. 1t gives the of all the dis\ntricts, circuits and stations, together with the num-\nDer OF members in each, and the appointments OF the\nseveral preachers with an alphabetical list Of the\npreachers names, showing to what circuits, stations\nand conferences they scvrrally belong 1t shows\nthat there seventeen annual conferences, divided\n\n\ninto eighty five districts, embracing eight hundred\nand fifty nine circuits and staons-that there are\nfifteen hundred and seventy six travelling preachers;\none hundred and eleven OF whom are superannu;,-\n! ted and that there three hundred and eighty\none THOUSAND, nine hundred and ninety seven church\nImenbers being nett increase snce the last year\nlof twenty thousand, one hundred and ninety\nseven 1t also contains the following table, present\n\n\ning at one view, the number of members and preach\no,nh",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1421,
+                    "y0": 2180,
+                    "x1": 1613,
+                    "y1": 2220
+                },
+                {
+                    "x0": 1130,
+                    "y0": 2219,
+                    "x1": 1921,
+                    "y1": 3493
+                }
+            ],
+            "bbox": [
+                1130,
+                2180,
+                1921,
+                3493
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-10-23_p2_sn83025530_00271740220_1827102301_0227.json"
+        },
+        {
+            "object_ids": [
+                11,
+                13,
+                1
+            ],
+            "headline": "'uperannuated,\n\n\nTotal, 327932 535la 523\nTotal last year,\n\n\nIncrease this year,\n\nFrom the National MteTgencer.",
+            "article": "from Tie Na1lonuz HtelEgencer.\n\n\n:HE BEAUTIES OF NATuRE-From q verv\narticle, in the new Western Revewy\npublished at Cincinnati by Mr.. Flint, descriptive Of\nthe flowers of The valley of the Mississippi we ex.\ntract the following introductory reflections. which\nare alike creitabe to the head aud the heart of the\neditor.\n\n\nsin fitting up this magnificent universe, in which\nGod has laced US, every thing seems to have been\nformed with double reference to utility and bean\nty. In the arrangements of the Creator we can see\nno reason, priori why the predominant coors Of\nvegetable nature should not have been crimson. or\nblue, instead OF green. Every one has felt, indeed.\nthat this last Us the most pleasing color to the eye\nBut every has not looked beyond this fact to ibt\n,actual wisdom, contrivance, and benevolenco -\nProvidence, in clothing nature with this cheerful\ndelightful color. Colors, in which light abounds",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1173,
+                    "y0": 4243,
+                    "x1": 1674,
+                    "y1": 4462
+                },
+                {
+                    "x0": 1317,
+                    "y0": 4487,
+                    "x1": 1808,
+                    "y1": 4522
+                },
+                {
+                    "x0": 1178,
+                    "y0": 4500,
+                    "x1": 1939,
+                    "y1": 5222
+                }
+            ],
+            "bbox": [
+                1173,
+                4243,
+                1939,
+                5222
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-10-23_p2_sn83025530_00271740220_1827102301_0227.json"
+        },
+        {
+            "object_ids": [
+                2
+            ],
+            "headline": "",
+            "article": "10 exclude the reuuhtant ktarc. COiolS, III wiz\"\nshade is in excess. cause an expansion, equally\npainful. that sufficient number Of rays may be re-\nceivet, to give the picture in clear relief Green\nis that color Of nature in which light and shade are\nneutralzed in balancing proportions For instance,\nan exact mixture in equal proportions OF white aud\nblack, constitutes the delightful hue OF green, on\nwhich the eye reposes with untiring satistaction and\nin viewing which its nerves are neither strained\nwith excess or lack Of rays and for tins reason, uh\n,loubtedly, it is, that vegetable nature is clothed\nwith green in preference to any other hue. Every\nlime, then, in which we contemplate nature, when\nrobed in the verdure Of spring. we ought to look\n\n\nhrough the physical beauty Of the spectacle. to the\n\n\nmanifest and merci!nl regard of the All Good to air\ncomfort and enjoyment, in the most delightful and\nperfect Of all our senses-that OF vision.\n\n\nIn the same manner it might have pleased the\n\n\nAuthor of Nature to have presented us tne SEEDS\n\n\nand fruits Of the various trees. shrubs and plants on\n\n\nthe naked stem, or from cup OF foliage instead OF\nflowers But. apparently. to relieve the monotony\nof beauty in the universal verduie. Providence has\n\n\nseen fit to cradle the infant seed and fruit IN an am\nbrosal nest of flowers where, in mysterious pro-\n\n\ncess of generation found to be more analogous 10\n| the beginnings OF animal existence, in the same\n\n\nproportion. as it is most intimately explored, the\nyoung seeds and fruits repOse in pavions more gor\n\n\ngeous than those Of mOnarchs, and breathing airs\nmore aromatic than those Of Araby the best'\n\n\nHence, too, as one of the benevolent intentions in\nthe formation of flowers seems to be to relieve the\n\n\nmonOtony of yerure to the eye, the fOrms the hues,\n\n\nthe MEETINGS of one shade into another in flowers,\nhave that magnificent and infinite variety which we\n\n\ndiscover in that kingdom. At the same time. that\n\n\nthe eye might be more delighted in contemplating\n\n\nthe splendor of blossoms, arrayed in beauty, to\n\n\nwhich all the glory of Solomon might not be compar-\n\n\ned, they emit Perfume SO rich and exquisite, as to\n\n\nset at nougt ali the efforts of art and luxury to mi\n\n\ntate and thus, by gratifying one sense, create\n\n\ndelightful associations for incl easing the enjoyment\n\n\nof the other\n\n\nIn completing the processes of vegetable nature,\n\n\nwe discover that Providence has designed gratifi-\n\n\ncation for every sense. The seeds of apples, oran\n\n\nges figs, grapes, pomegranates. and all the delicious\n\n\nfruits might have been matured for aught that ap-\n\n\nDear-, in the sterile capsules of the cotton plant or\n\n\nthistle, as well in the centre OF that nurltive and\ngrateful pulp, where they attain their ultimate ma\n\n\nturty. But beauty, utility, and the means OF com.\nPortable existence, seem to be bound together IN\nZ this our creation by an indissolnble chain.\n\n\nThe study of natural history, in this point Of\nview, becomes to rightly constituted mind, moi\nonly source of pleasure and instruction but il\noriginates admirng and adoring conceptions OF the\nAuthor of Nature, and originates reg gious feeling\n; New proofs of wisdom and design develop at every\nstep, Gods found to be the same Being in the hue.\nand fragrance of flower, as in the rich coloring\nthe Clouds the spendors of the armament, and ths\nneffable grandeur OF the starry heavens We trace\nI precisely the same wisdom. design, and arrangmen\ny of means TO an end in the minute as in the vast o\nl. his works and find it is the impress of the same\ne hand\n\n\nsThat gives its gliding to insects wing,\n\n\ni And wheel; his throne pom the rolling worlds\"\n: How often, while wandering in the deep iiowerin\nu u forests of the Mississippi valley, in Spring, hav\nu these sentiments forced themselves upon us. w\nY M pI m tha u.r Of yarNu\ny above and the splendid variety of flowers aroun\nt US. The wild bees, in their courses through tn\nair, seemed, like the interminable wires of in i'm\nII manse Eolian harp, as they sped to their repa:\n= of nectar All the irrational tribes appeared, b\ny heir various expressions of excited movement an\n= 10y, to enter as deeply into the beauty and grandeu\nY OF what was before them, we did. Althoug\n\n\nthere was but one visible rational worshpper. W\nrs could not but consider this of solitary grandeu\n- and beauty, as temple. We imagined unseen an\nW higher ntelligences enjoying the spectacle with\n~ and united in the same delightful sentiments of az\noZ mraton and worship.\n\n\nq The University of Virginia is not as fully attende\n70 This session as was anticipated. One hundred an\n81 eighteen students only, have as yet matriculae\n~ though more are expected. The 'hard times\" la,\n\"a doubtless prevented many from attending.\nvi PHILADELPHIA, Der. 16.\n80 The Friends Yesterday morning. the first yea\n81 y meeting of that part of the Society of Friend\n56 adopting the opinions of Elias Hicks was held in tn\n50 meeting house near Green street. The females o,\nSO cupying the brick houses and the men large tempc\nrary frame building erected for that purpose in til\nSo court. vast crowd assembled, including man\nII friends from the country. During the meeting\n- which will last the whole week, it is said some I\n70 their celebrated preachers will visit them.\noo Ihe Friend--The first number of weekly \"a\n- per, says the Philadelphia Gazette, bearing til\n~ foregoing title, was issued in this city on Saturda\n\n\nlast. 1t is in the quarto form. and well printed",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1903,
+                    "y0": 351,
+                    "x1": 2712,
+                    "y1": 4509
+                }
+            ],
+            "bbox": [
+                1903,
+                351,
+                2712,
+                4509
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-10-23_p2_sn83025530_00271740220_1827102301_0227.json"
+        },
+        {
+            "object_ids": [
+                9,
+                4
+            ],
+            "headline": ".x,5n Dx baltimore Patriot Oc,. \".",
+            "article": ",n the Presideat of the United States, at the City\nJi,el The Rev Mr.. Ecceson, Vice President OF d\nthe Ce-e, briefly addressed the President IN the y\nfollowing words:\n\n\nS,p-We have the honor of presenting to you d\nthe Students of ST. Mary's College. Sharing the f\nrespect cordially manifested by their fellow citizens\nthey are desirous OF giving expression to the feel\nings called forth by this grateful occasion. 1t, ip HI\ntheir sudious retreat they delight to contemplate I\nthe lofty virtues recorded the classic pages OF an\ntauity, and their youthful bOsoins catch the iire oi\nRoman patriots and Greclan sages may they not t\nbe allowed to feel something mere than aimlral,\"n.\nwhen they pay the tribute ct their hearts to those\nvenerable titles III the person Of the first mags;ra\nOF their country! II\nBut, Sir, of these Youths considerable portion\napproach you with more than ordinary INTEREST,\"\nThey are from the rising republics OF the South.\nBY their standing in society destined to the discharge\nof great and responsible duties, they have come to\nprepare themselves for their high calling in an inst-\ntuition which already boasts OF numbering among It's\nalumni several Of the distinguished patriots who are\nnow reaping glory and freedom at the side OF the\n-Boivars and the La Mars. With what pleasing\nemotions will not these youthful stran .ers remember\nmoment, which shows to them power resolved\ninto paterual regard, and fidelity exalted into hial\naffection. A moment which even now perhaps be-\ncomes for them another motive to generous deeds, (\nand presage of future success.\nAccent, therefore, Sir, the testimony OF respect\nwhich flows from ardent and ingenious hearts II\nand while we become the organ OF their ieengs,\nwe need not add, that they are IN unison with our\nown\"\nTo this short address. Mr.. Adams with much\nemotion and interest replied in words to this effect\nsin receiving this pleasing mark Of attention\nfrom the Professors and Students OF ST. Marys col\nlece am happy to renew the recollection Ut scenes\nin which I myself was once engaged. too have\nperformed the duties of an instructor IN literary\ninstitution and entertain the highest respect for\nthat important function\" And he concluded with\nsome observations favourable to the reputation of\nthe college.\n\n\nAfter this feeling and highly appropriate reply.\nthe Vice president proceeded to introduce the Stu\ndents Individually to Mr.. Adams, who received\nthem with the most marked and cordial condesccn-\nsion.\n\n\nAfter the Introduction, and an interval OF mo-\nments, during which he was evidently striving to\nsuppress his emotion, he advanced, and with great\nenergy and feeling. addressed the students in words\nTO- the following effect:\n\n\nYouse GEyrLEMnN.-I am happy to have had\nthe opportunity Of taking you by the hand-and be-\nfore we part permit me to remind you. while recol-\nlectng, the sublime examples OF patriotism witt\nwhich your daily studies make you conversant II\nthe histories of Ancient Greece and Rome so Justly\nnoticed in the address from your respected lnstruc\ntor, which you have ust heard, that you have ii\nthis city and its immediate vicinity, the monument\nof the same exalted spirits exhibited in the defence\nof our own country-and hope and trust that the,\nwill influence your future lives as deeply as th'\nmost exalted proofs of public spirit which you viii\nfind in the course of your studies.\n\n\nAt four O'Clock he dned with the Cincinnati o\nMaryland, and the Officers and soldiers wounded\nin the Battle of North Point. The entertainment\nwas handsome, and creditabe to Mr. Barnum.-\nThe following toast was given on behalf Of the CON\nmittee\n\n\nThe United States of .an,erica-Mav other cour\ntries learn from them. that the easy access of tn\npeople to their rulers, is the means of confdenc\non thsone side and of right government on the othe\n\n\nAfter short time the President gave the follow\ning sentiment, which he accompanied with some II\nmarks explanatory Of the allusion -\n\n\n\"Ebony aud Iopaz-GeneraI Ross Posth\nnous coat of arms, and the republican militia ina\nwho gave it.\"\n\n\nan apprehehensve that the ausion upon whic\nthis sentiment is founded, may not be familiar\nevery of you at this table aud that it W\ntherefore need short explanation.\n\n\nII nav perhaps. not be known to vou all. tn\nfor the splendid achievements of Gen. Ross in til\ncountry, his family have been rewarded by hers\ndie addition to their coat of arms, and as it was Il\narm of republican mtlaman of Maryland, tn\nredered this service to the family. may fairly CO\nslider him as having given it. Hcraldrv is a n,\nnarchcal institution, about which know little.\nWhether this inference would pass muster with L\ngarter king at not, do moi know, but ho\nit will pass for republican depice. But the CO\nnection of this sentiment with the of Ebo\nand Topaz, is founded upon philosophical rale\nVoltaire. by which in my yoath was amused a\ninstructed. 1t is an ancient fableot the Hindu b\nMinis, and has come down, through the Arabians\nthe modern European nations and to u.s. I\nsame tale, under different Names has been told\nEnglish verse by Parnell, as we'll as in French pr\n\n\nby Voaife.\n\n\nIn the tCnln 10 which my tnnst allnlns Ehnn,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 396,
+                    "y0": 299,
+                    "x1": 992,
+                    "y1": 352
+                },
+                {
+                    "x0": 292,
+                    "y0": 490,
+                    "x1": 1118,
+                    "y1": 4653
+                }
+            ],
+            "bbox": [
+                292,
+                299,
+                1118,
+                4653
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-10-23_p2_sn83025530_00271740220_1827102301_0227.json"
+        },
+        {
+            "object_ids": [
+                10,
+                3,
+                5
+            ],
+            "headline": "DELAWARE JOURNAL.\n\nWliLt:5g.!1lsS GEgNs\nTuesday, October %, 1921.",
+            "article": "marks-'' IT Intelligence rcspectability, patriotism\nend weight Of character can effect any thing, wa\nmay regard this movement now fairly commenced\nin this great and influential commonwealth, as rauob\nwith the most auspcious results for the future ham,\n\n\npness OF our county\n\n\nAdviecs from Liberia, by late arrival from Al.\nRIGA, very cneouragingas to the continued good\nhealth and condition OF the colony.\n| 1t may not be known TO all our readers, that tho\n\n\nfour states which voted for Mr.. Crawford, by their\n\n\nRepresentatives in Congress, would have eventually\n\n\nvoted for Mr. Adams in preference to General Jacl,\n\n\nson. The evidence of this is various: but We sim.\n\n\nply give the following extracts from the numbers of\n\n\nHampden, publishing in the National lntelllgencer\n\n\nrelative to the tales ofthe Opposition worthies.\nI \" General Jackson had but seven certain States\n\n\nDid he expect Delaware, Virginia, or Georgia? He\n\n\ncould not, and will shew it. 1t is clear he did NOT\nbecause all the world knew he could not expectt\n\n\nThe opinion of the Representative of Delaware\n\n\nwas always freely expressed The sentiment Of the\nVirginia Delegation could not have been msappre\nhended The Legislature of Georgia refused to\nrecommend General Jackson, by an immense manor\n} ity. Virginia was opposed to General Jackson 50\n\n\nto leave doubt of their preference, even if the\nopen expression ofther opinions had not been known\nBesides, it was known, and now assert the fact,\ne and challenge u dendt that The leaders Of the\nfriends OF Mr. Crawford, in expectation of bis death\n\n\nor inability, six months before the election, deter.\n!, mined, in that event. to support Mr.. Adams, and\ni which was known to be in conformity with the SEN\ni tlment OF their respective States.\n\n\nIS The Representatives OF North Carolina were hos.\n= tile to General Jackson, and voted against him in\nthe House, notwithstanding he had the electoral votc\nd because that vote the result of an union be.\nl. tween the friends OF Mr. Adams and General Jack.\n4 son, by which they, together, defeated Mr. Craw-\nin ford, although he had plurality in the State The\n\n\nmembers were entirely free to vote between Mr. |\nOf Adams and General Jackson; and we hazard noll\not ing in saying they would have voted for Gen\nit Jackson\ne DO you believe that Delaware and Virginia would\n9. have voted for him ~ (Jackson)\nJ Brutus, 4 writer in the Richmond Whig makes\nac the following statement on this subject\n\n\n\" The electoral college OF DsluzYare had given two|\n- votes to Mr.. Craujord, and TO Mr.. adams butt\n:. none to Gen. Jackson. And the sole Representative\nof Delaware,) whatever may be the disposition bel\n~ ~ has subsequently eyinced towards 60 the Hero,\"\n\n\nwould at Mat hme as soon have voted for the Prince\n\n\nof darkness as for him. The same may be said Of\n\n\nall the States which had in the first instance. voted\n\n\nfor Mr.. Crawford, between whose friends and those\ns of ten. Jackson there THEN seemed to be barrier\n\" that nothing but miracle could have broken down\nIhis was not only the individual feeling OF the rep\n~ resentailves, who eynced their devotion to Mr.\nNV Crawford by giving him their first vote but was\n- the concerted determination of the whole after\nw. abandoning him. to throw their weight into the scale\nas, lsl with MIR. Adauis.''\n\n\nIII From ths Loudon County, IVA Anti jackson\ngh Resolutions, adopted at meeting on the 9th of 0c-\nwe tober tor the purpose of sending dele gates to the\nur Richmond Convention, we copy the 70 flowing:\nmd Resoived, as the opinion of this meeting, that no\nu.s. just causes OF complaint exist against the Admins.\nad- traitor OF the General government since the election\n\n\nOF the present chief magistrate, whose claims to our\n\n\nconfidence are founded upon long course Of pub.\ned TIC service his distinguished talents and faithful de-\nh Votoh 10 the public good, and whose policy Of go.\ned based upon the best precedents Of those\nlve who have gone before him.\n\n\nhesooea' that we spurn the dication of those who\n\n\nahectihg TO treat the people of Virginia as vassals\n\n\ntransferable at their pleasure, bid us to sustain in\nar io@o' the man, whom, in 1884, they openly and un\nus, equivocally denounced to u.s.\n\n\nne from the preamble to the resolutions passed at\noc- the Anti jackson meeting held at LyncEburg Va\n30 Oct. 9Th, we select the following:\n\n\nne Your committee declare that after considering the\nwhoe course OF the opposition to the present admins\n~ aon tey are convinced, that, in by far the larger\n\n\n,0uSSe' @\"u unpr'hcipied, pretending no\n\n\nfoundation bas he bafied, reiu,ed and wholly dis\nID s'Paed charge o corruption in the late electoI\nDut restng IN iact rst in hatred of the North and\nay second on personal jealousy and malice against the\nd. Secretary of State heiShened if not originating,\nIts from hunger foi afiice.\nnd Your committee declare that there are very few\nor public characters in America whom they would NOT\nerr prefer to Zen Jackson With not one earthly qua\nOF hcat'on Tor the Presidency, that is not in its es-\n20 sence merely military, through life marked I'm TO\nlate aye with almost every species Of ycious habit",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2763,
+                    "y0": 304,
+                    "x1": 3403,
+                    "y1": 361
+                },
+                {
+                    "x0": 2741,
+                    "y0": 390,
+                    "x1": 3429,
+                    "y1": 513
+                },
+                {
+                    "x0": 2694,
+                    "y0": 629,
+                    "x1": 3516,
+                    "y1": 4792
+                }
+            ],
+            "bbox": [
+                2694,
+                304,
+                3516,
+                4792
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-10-23_p2_sn83025530_00271740220_1827102301_0227.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "On retiring the President, alter few remarks,\nreturning thanks for the reception which had been\ngwen to him by his ieow-citizcns .of Baltimore\ngave\n\n\nBaltimore, the Monumental City-Nay the days\nOf her safety be as prosperous and happy. as the\ndays of her dangers have been trying and trium-\nphant.\n\n\nAccording to previous arrangement the Presi-\ndent again the evening received the visits of his\nllow-citizens, Of whom he took leave in brief\nand cordial address, praying those with whom he\nhad exchanged salutaiions TO convey them as from.\nhim to their families. But having received an intine\nton from number of his fellow citizens who had\nnot before been presented to hm, that they were\ndcsrous of exchanging salutations with him, he re-\nturned to the place appointed for the reception OF\nhis visitors, and having been greeted by all who de-\nsired TO see him, finally retired. Having afterwards\nlearnt that several of his friends had called to see\nhim after he finally retired, he expressed his regret\nthat for want of time, full opportunity was not\n\n\nafforded him to exchange salutations with every cit\nlzen who was desrouse to take him by the hand.\nThe President left Baltimore this morning at\ntended by a number OF his low-ciizens, who\ntook leave of him at short distance from the city\nFrom, The National LpeiHgencer, Oct. 19.\n| The PRESIDENT of the United States returned to\nthe Seat of Government yesterday, from his visit to\nhis native State. We are glad to learn that his\nhealth and strength have been materially improved\nby the Journey, and the relaxation it afforded ron\nthe close attention which he habIlualy gives to his\npublic duties.\n\n\n| In letter of business, from friend in Baltimore\n\n\nhe thus incidentally notices the Presidents sojourn\n\n\nin that city\n\n\n\"The President has given hims up to the Peo\n\n\npie here for these two days and no not see how\n\n\nhe could have wlthsood their earnest apphcaton tt\nhim for that purpose. He has received ana ex\nchanged salutations with thousands oi cttzans ad\n\n\nversares well as friends, and asn sau to be anil\n\n\nsay to the credit of the former thai equal respac\n\n\nfor his official character seems to be manifested b.\nJ. !, all parties",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1099,
+                    "y0": 308,
+                    "x1": 1895,
+                    "y1": 2155
+                }
+            ],
+            "bbox": [
+                1099,
+                308,
+                1895,
+                2155
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-10-23_p2_sn83025530_00271740220_1827102301_0227.json"
+        },
+        {
+            "object_ids": [
+                14
+            ],
+            "headline": "",
+            "article": "| oonfdd\n| tary o1\n| our COT\n| State u\n| Mr.. Ad\n| ors for\n\n\n| origln;|\n| village\n! !, CONT\n\n\n2ens.7|\n! sitleral|\n| the - \\\n| c,lmela|\n| TO be d\n! ware.\n\n\nBut |\nAt reseptd\n\n\n| bOurs |\n\n\nDelaw|\n| ly to tA\n| to Mr.\n\n\nbeen a |\n\n\n| ject, II\n| ciation|\ni same 4\n! and sol\n\n\nthese |\n/ unless\n\n\n/ tons.\n! Lett\n\n\nthat tl|\n\n\nwas me-\n\n\nslandir|\n\n\n! MaRag\n\n\n! Eaton\n\n\nselectd\ner, and\n|circuld\nneed d\n: men al\n:. | really\n\n\n: would\n; ; Idisintd\n\n\nof Del\nd |discov|\n\n\n! wagiin|\nIS ALLY\n\n\nhave |\n~ stancd\n. Ihave\nhe not I'd\n!\" ! They\n\n\n&c der VI\nVI Nv 40|\nE, sesSel\nPr more\nn. Cd\nas WI\n'la ia | /. CT\non II\nr.. | for 4\n/. beer\n\n\n\"' Will\n\n\nthe |\nno torll\nis. X that\non tlle|\n'ur tel'I\nID. X the|\nle- wiq\no. old\nSc eyi |\n\n\nsptI\nllo t!,t|\nlis tioI\nin / VII\nn feJ\n\n\n| fc,\n\n\nat tIl|\nne t4\ner II\n10. u",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3489,
+                    "y0": 482,
+                    "x1": 3620,
+                    "y1": 4340
+                }
+            ],
+            "bbox": [
+                3489,
+                482,
+                3620,
+                4340
+            ],
+            "full_article_id": 15,
+            "id": "15_1827-10-23_p2_sn83025530_00271740220_1827102301_0227.json"
+        },
+        {
+            "object_ids": [
+                15
+            ],
+            "headline": "",
+            "article": "Adviees from Liberia, by late arrival from Az\nRIGA, are very cneouraginsas to the continued goo.\nhealth and condition OF the colony.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2702,
+                    "y0": 925,
+                    "x1": 3455,
+                    "y1": 1060
+                }
+            ],
+            "bbox": [
+                2702,
+                925,
+                3455,
+                1060
+            ],
+            "full_article_id": 16,
+            "id": "16_1827-10-23_p2_sn83025530_00271740220_1827102301_0227.json"
+        }
+    ]
+}

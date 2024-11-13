@@ -1,0 +1,1156 @@
+{
+    "lccn": {
+        "title": "The Litchfield County post.",
+        "geonames_ids": [
+            "4837799"
+        ],
+        "dbpedia_ids": [
+            "Litchfield%2C_Connecticut"
+        ],
+        "issn": "",
+        "lccn": "sn82014309",
+        "start_year": "1826",
+        "end_year": "1829",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [
+            "sn84020071"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn82014309",
+        "edition": "ed-01",
+        "date": "1827-06-14",
+        "pages": [
+            "seq-4",
+            "seq-2",
+            "seq-1",
+            "seq-3"
+        ]
+    },
+    "page_number": "3",
+    "scan": {
+        "lccn": "sn82014309",
+        "edition": "ed-01",
+        "date": "1827-06-14",
+        "page": "3",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-06-14/ed-1/seq-3.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-06-14/ed-1/seq-3/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-06-14/ed-1/seq-3/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/ct_barnum_ver01/data/sn82014309/00414182926/1827061401/0195.jp2",
+        "height": 7233,
+        "width": 5041
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2972,
+                "y0": 3605,
+                "x1": 3855,
+                "y1": 4758
+            },
+            "class": "article",
+            "raw_text": "In this town on the 9th inst. Mir. John Orton aged 69. Printers in New-York requested to insert the above. ,v.-\n\n Also on the 9th the wife of Mir. Harmon Osborn a. ged 36.\n\n At Plattsburg, Capt. Sidney Smith of the United States Navy, aged 45.\n\n In the Mission Family at Dwight, Arkansaw Ter March 3d. Mrs. Sophrona, wife of MT. Asa Hitchcock\n\n At Wethersfeld, Capt. Humphrey Woodhouse, 56 ; Mrs. Rebeka Churchill, 79, wife of Mir. Samuel Chur- chill; Miss Sally Hale, 3l. She was the only child of her mother, who is a widow. At Lebanon, Mrs. Nancy Huntington, A, wife of MT. Eliphalet Huntington.\n\n At Colchester, on the 9th inst. Gen. David Deming.\n\n In Hartford, on the 3Oth ult. Capt. Moses Sash, a veteran soldier of the revolutionary war.\n\n In Philadelphia, Abraham Bradley, Jr Esq. aged s, eldest son of Abraham Bradley, Esq. Assistant Post Master General.)\n\n In Berlin, Mrs. Olive Wilcox, 45 wife of Col. Rich ard Wilcox.\n\n In N. Haven, on the 27th ult. Mrs. Martha Munson, wife of Doct. Elijah NJ. aged 5.\n\n In Derby on the 9th inst. of consumption, Mir. Hen \" Prndle, aged 22.\n\n In Killingwor,h, on the 30th ut Mrs. Serrane wife of Edward Wilcox, Esq. in the 53d year of her age.\n\n In Philadelphia, on Saturday, the second inst, in the 33d year of his age, Mr. Charles Bacon, native of Connecticut but for several years past, resident in that city.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3305,
+                "y0": 3548,
+                "x1": 3521,
+                "y1": 3600
+            },
+            "class": "headline",
+            "raw_text": "m E3E 7A",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2972,
+                "y0": 2729,
+                "x1": 3849,
+                "y1": 3521
+            },
+            "class": "article",
+            "raw_text": "In Portland on the 24th inst. by the Rev. Dr. Pay Ksy RaPh kandOR G of the Eliza M. Gurley of the former place.\n\n On Thursday the Eth inst, in St. Johns Church. Warehouse Point by Rev. Professor Doane, Elisha M Jencks, to Miss Carssa Holkins, daughter of Ma]. Joel Holkins all of fthat place. At Boston, Rev. George Champlin Sherard, of He bron, Conn. to Miss Sally Ian, daughter of the late Dr. Thomas Kast\n\n In Wangford, MT. George c. Hall of NKldlctovn,, to Miss Sarah F.. Hall, daughter of Luther Hall, Esq. of the former place.\n\n At Wolcottville on the 9th May last, by Rev. Mir. Stone, of Ltchfed, Mir. William E. Russel, Mer- chant, to Mss Ememe, daughter of Capt. Samuel Bradley.\n\n At New-Mi!ford, MT. Albert N. Gaylord, to Miss Julia M. Sanford.\n\n At Waterbury, by the Rev. Mir. Hart of Plymouth, Doct. Rcmus Fowler, of Washington, to Miss Mary Miller of Torrngton.a",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3221,
+                "y0": 2667,
+                "x1": 3606,
+                "y1": 2719
+            },
+            "class": "headline",
+            "raw_text": "RaaR1HE9ED D",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2966,
+                "y0": 254,
+                "x1": 3855,
+                "y1": 2639
+            },
+            "class": "article",
+            "raw_text": " the work will contain notices of their scenery and gro auctions and of the and habits of the eoriC with statements illustrating their former condition an present improvements, Nc. Ac. It will also be ac- companied by Photographic Sketches of some Oi the most interesting scenes in that group of islands. ~. !. Spec.\n\n EgpLon Mt,amy.-Two nAanuscrpts on papyrus were lately unfolded from the head and breast Ol Mummy opened at Paris. Such was their state of preservation that scientific person present, immed aIey pronounced the body have been that of Tete Muchis, the daughter of the keeper of the Temple of Isis, at Thebes.\n\n At late session of the U S Circuit Court at Rich mond Vir Chief Justice Marshall presiding John B. Amedie was tried for the crime of destroying vessel at sea, of which he was commander for the purnose of dCfrautng the underwriters. He found guilty and sentenced to be hung the 18th of th;s month.\n\n The finances of the Brazilian government were in a deplorable condition, the revenue from the customs having greatly diminished, and the bank paper (of which may be said there upwards of IS millions in circuationj having Appreciated 5 per cent since the commencement of the war. A few days before the Florida sailed, the exigencies of the trea- sury, large lot of the crown jewels offered at public sale at the bank and withdrawn mo purchasers coming forward\n\n The last benefactions of the late Mr. Philips whose death was announced in last paper topublic char ities were-to Philips Academy $15, ,000-Theolog- cal Institution $10,000-Socety for propogating the Gospel $5,0O0-Mass. Bible Society $5, ,0OO-Fo Foreign Mission Society $5,OOO-Medica Dspensary 5000 Mass Gen Hospital for the relief of sick poor of Bos ton $5,000--Am. Ed Society $5,00O-Female Asy- lum &, ,0O0-Asylum for Indigcnt Boys S2,0o0-MasS. Cong. Charitable Socciety $5,O0o-Total, $62,C00\n\n O'oination-On Wednesday the 9th inst at Christ Church in Hartford, by the Rt. Rev. Bishop Brow nell the Rev. John G. Stone ofthis town, was admit ted to the Holy Order of Priests.\n\n MT. Norman Pinney, Tutor of Mathematics in Washington College, was the same day admitted to the Holy Ordinance of Deacons. MT. Pinncy was presented by the Rev. Hector Humphreys.-Sermon by the Rev. Rodney Rossiter.\n\n Ordination-In Boston, on the 27th ult. the Rev. HERvEY HAYES received ordination as an Evangelist Introductory prayer by the Rev. B. B. Wisner mon from Isa 50: 8, 9, by the Rev. L. Beecher, D. o.; consecratng prayer by the Rev. W. Fay; charge by the Rev. w. Jenks D. D.; fellowship by the Rev. F. Beecher concluding prayer by the Rev: s. Green. MT. Hayes is appointed Chaplain of the z. &. ship Jaua, which is destined for the Mediterranean. The introduction of an evangelical minister on board of war, into congregation of five hundred souls is an event of no ordinary importance; especially we learn the Secretary of the Navy will in future require that all Chaplans in the service be regularly ordained",
+            "legibility": "Questionable",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 3871,
+                "y0": 627,
+                "x1": 4776,
+                "y1": 2719
+            },
+            "class": "article",
+            "raw_text": "HAVING good supply of Tyson Skin TEA, will\n\n sell for cash that of good quality for 62 12 cts. per ib and other qualities by the 10 ibs sim gle pound, as low for cash be bought in Hart ford: Lump SUGAR, best quality, for l6 cts per lb by the lump.\n\n TAVERN KEEPERS, and OTHERS, can be supplied with all kinds of Groceries at low prices AiSo Nut megs, Cloves, Cinnamon, and Periash Mackerel in bis. and half bs. Also, great assortment Nova Sco- tia, blue sheet, fine grit Grnd-sones, warranted CT to glaze, and of very superior quaty,wt. from 59 to 281 lbs Also, for Builders 1, 10, 12, and 20d cut Nails, made of tough iron. Best cast steel Plain Irons, hand and panne! Saws, steel Gimbeis feet Rules, iron Squares, polished steel nail Hammers, rule joint Compasses, patent butt Hinges, Screws, Brads, and door trimmings of most all kinds. Best London White Lead, Red Iead Venetian Red, Span lsh Brown, Spanish White, Crome Yellow, Prussiaa Blue, Spirits Turpentlne, Linseed and Whale Oil, and Brushes.\n\n Also, for House keepers good assortment of Loo kIng Glasses and Supporters,-English Flat-irons,- Brass ketes,-knives and Forks,-good common Spoons,-silver plated do. of both kinds, and fine assortment of Silver Tea and Table Spoons, Sugar Tongs, cream and salt spoons -these articles of s- yer plate will be kept constantly hand, and at pri eswlthout any reserve low can be bought in Hartford or NewYor, and all warranted good silver by myself and the makers, whose names are stamped upon them. A good assortment Iron Pots, dish Ket- ties, tea Kettles, new fashioned Spiders, bake Pans, Grides Skilets screw botom'd and brass CandIe- sticks, and patent Furnaces.\n\n A fine assortment New-York HATS, for old men, young men, and boys. Large BIBLES from 11s to 39s. i3 dozen Milk Fails, at $3,75 per dozen.\n\n good assortment of heavy black and blue black Bombaznes, very cheap for dresses and long shaws; Bobinet Laces, Brown Cambrcks, patent Rattans, cheap Flowers and Wrcaths bonnet and cap Ribbons, Cord, real Russia sheetng, Silk, Twist, padding, and other trimmings for Taors' use of very quality, and large supply of other Goods, much too numerous to mention in any advertisement. Soon expected, brass Andirons, Shovels and Tongs, wrought Androns, and many other articles make greater variety of good common furniture for house Keeping than has ever been tonnd in any store in the county within my knowledge.\n\n AS it is necessary for the Norfolk Farmers that there should be ore than Cheese dealer, the sub scriber will give all who may be disposed to favour him with their business, every encouragement in that line which prudent man can do.\n\n E. H. DENISON,",
+            "legibility": "Questionable",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 3904,
+                "y0": 531,
+                "x1": 4719,
+                "y1": 611
+            },
+            "class": "headline",
+            "raw_text": "E. H. DENISON,",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1147,
+                "y0": 6549,
+                "x1": 2046,
+                "y1": 6940
+            },
+            "class": "article",
+            "raw_text": "AFFAIRS OF the GREEKS.-The Morning Herald contains great variety of items from the Archipelago, together with an analysis of the contents of number of Greek papers. We had not room 10 copy many of these But their general aspect is fvourable Indeed counts from Greece are favourable The Egna Ga zee, of Feb 18th, says the Turkish garrsons of Sa\n\n Iona have abandoned that fortress, which has fallen Greece is no-v free\" Omar Pacha was routed at",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2062,
+                "y0": 6713,
+                "x1": 2956,
+                "y1": 6934
+            },
+            "class": "article",
+            "raw_text": "Stelcayt's Prirdte Journai.-Mr. John P. Haven. of N Y. has issued proposals for publishing the Private Journal ofthe Rev. c. S. Stewards voyage to the Pa cfc Ocean, and residence at the Sandwich Islands, in l822 B. 4, and 5. In addition to much religious information in reference the establishment",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3876,
+                "y0": 6566,
+                "x1": 4781,
+                "y1": 6906
+            },
+            "class": "article",
+            "raw_text": "Just Received. S;lliman's Journal of Sci ence, No. 2, fer March, April, and May, 1s27. No. 9, Vol. I. American Quarterly Reyiew.-s 03@Subscriptiops received at the Litchfeld Bookstore.\n\n Litchfeld, June IA, 1897. g",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1147,
+                "y0": 4933,
+                "x1": 2046,
+                "y1": 5227
+            },
+            "class": "article",
+            "raw_text": "The Canada, Captain Rodgers, arrived on the 4th inst from Liverpool bringing the Editors of the Com merciaL Advertiser London papers to April Both, and to the 28th, and Price Currents to May lst.\n\n The arrangements of the new Ministry pleted on the 28th of April and have been made up as follows :-",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 1249,
+                "y0": 4837,
+                "x1": 1962,
+                "y1": 4894
+            },
+            "class": "headline",
+            "raw_text": "FOREIGN INTELLIGENCE",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -2
+        },
+        {
+            "id": 33,
+            "bbox": {
+                "x0": 1271,
+                "y0": 4910,
+                "x1": 1871,
+                "y1": 4939
+            },
+            "class": "author",
+            "raw_text": "",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2972,
+                "y0": 6747,
+                "x1": 3855,
+                "y1": 6928
+            },
+            "class": "article",
+            "raw_text": "meeting of the Society will be held on Friday evening at the usual hour-As business ofimportanee will be transacted, punctual attendance Is particularly requested.\n\n Iune If.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 3051,
+                "y0": 6634,
+                "x1": 3764,
+                "y1": 6736
+            },
+            "class": "headline",
+            "raw_text": "\"Quicquid fdcies respice fnem.\" -BACKWOODSMEN-",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2062,
+                "y0": 288,
+                "x1": 2956,
+                "y1": 5674
+            },
+            "class": "article",
+            "raw_text": "\n\n The same paper of later dAie contains the follow ing paragraph :-\n\n On the 4Ih of March the Ottoman troops attacked the three towers which General Callerghi had made himself master of a few days before in the Prseus Both parties fought desperately from the morning til the evening The Turks had 700 killed and 3OG wounded The Greeks had only ten killed and % wounded. On the 2d of March a proclamation of the Government was published, announcing the blockade of the ports of TriGer and MaO as well as the whole Island of Euboea, with view to off the supplies ade was entrusted to the Helas frigate, commanded by Maulls; the Perseverance steam boat; and the lpsariot brig the Nelson, commanded by Captain Di- mltrl FaPa-Ncoil. Some troops on board were to land at Oropo, where are the magazines of Redschd Pacha The expedition was to be directed by the Bavarian Colonel Chares d d'Heideck tHeidegger).\n\n karaiskaki, after having provided for the defence of Western Greece, had marched towards Attica.\n\n Coetti, of Tallante, had cut of all communications between Redschid Pacha and Volo, where the Seras- kler has his magazines of wheat.\n\n Oh the 7th of March, the plenpotcntaries at Egina declared themselves ready begin their sessions der Notara as president.\n\n The opposition Journals lately inserted an article from the Oriental Spectator in which Austria was re- presented as opposed to the negotiations favor of the Greeks. We find the following passage in the Aus trtnn O6SerUeT, under the head of Constantinope :\n\n The new ordinances, as well as the preparations for the campaign this year against the insurgents have, for some time past excited, in high degree, the at tenton of the public, who extremely desirous to see an end put to the confusion and disorder which some years the reVOted countries wish which is shared by all the friends of human ity and is continually advocated the Porte by the Ambassadors of the European Powers whose constant efforts tend to the establishment and preservation of tranquility in Europe.''\n\n The Egyptian naval troops wear white uniform with red sashes and a red cap with anchor. All th1s seems the more singular the Turkish seamen, and especially those of the Barbary States are coth- ed m miserable rags of all colours -''\n\n The following appears in the London New Times, Of April Both.\n\n CoNsrANTINoPLE, March 27th.\n\n In the circles of European merchants at Pera, an extract circulated of the protocol of the conferences of the 4th of April signed at St. Petersburgby Counts Nesserode and Liven on the one part, and the Duke warrant the authenticity of it, send you general view of the contents. The High Contracting Powers having alleged the principles of humanity and religion, which make them desirous of seeing end put to the contest in Greece and the Archipelago, declare that they have agreed that the modification already offered by England shall rest on the following basis :\" That the Greeks shall remain dependent on the Ottoman Porte and that annual tribute, tobe paid by them, shall be definitely ixed-that, the mixture of the Turks and Greeks in these countries is attended with great nconvenences estimate shall be made Of the Turkish property in the Morea and the islands, and the value shall be paid by the Greeks to the propre- tors-that the Magistrates in Greece shall be named by the Greeks but with the cooperation of the Porte but the Greeks shall have the free exercise of their religion and of commerce, and also separate and in dependent Administration-that, if the mediation of England should already be accepted by the Porte, Russia shall at all events it's influence promote the of this intervention the time and the man. of this participation, shall, however be previously determined by Convention between England and the Porte-that ln case the mediation should be declined by the Porte, without regard the state of the other relations between his Imperial Majesty and the Turk ish Government Russia and Great Britain will always consider the abe!e points the basis of the reconc- iation, and embrace every favorable opportunity to promote them, both singy and conjontly-that an a. greement shall be made respecting the details of the determination of the boundaries of the territory the Continent and in the siandsthat the two Powers will not seek to acquire any increase of territory, eX- elusive influence, commercial advantages for their subjects which might not be obtained by every na- tionthat the two Powers desire the concurrence of the Allied Powers in the preliminary arrangement, which shall be communicated to the Cabinets of Vi- enna, Berlin and Pars with the proposal 10 guaran- tee m concert with Rnssia the final arrangement for the a of Turkey and Greece as his n Ma himself this rantee.\"-AHgeimGne ZeitWng.\n\n CoSsTANTINoPLE March 26.\n\n The anxiety excited by \"e negotiations of the Rus sian and English Mnis has risen to the highest pitch The Porte, and particu arly the Sultan, will hear either of the qualification of Greece of the intervention ef the European powers this Subject and the irritation of the Mussumans has been increa sed by the news of the advantages obtained by the Greeks so that it would be easy for the Government send fresh troops to the theatre of war, continue the contest. The Refs Efendi, who, however, jected every proposal, is accused of acting with too much lukewarmncss in not rejecting them once for all. However this may be, he has been dismissed, and the Franks say, may think himself happy have tired so honourably. His successor is considered true Mussulman.\n\n CoNsTANrINoPLE, March 25.\n\n It is said that the Servans have opposed, in arms, the introduction, by tie Pacha of Belgrade of more than 500 of the troops into the fortresses depen dent on his government Three new deputies have been chosen to go to Constantinople, attended by secretary.A\n\n The Muhurdar of Kosrew Pacha, the late High Admiral has received the two tails, as a reward for his zeal and aptness in learning the new military ex- ercise.\n\n The first regiment of new troopo, 3OOO strong be- sides l80 horsemen, has gone to join the Army in Ru- melia. It has marched to Daoud Pacha, and has been received by the Sultan. Another regiment is come from Scutari take its place in the barracksof Eski Serai; 5000 men had previously marched to La rissa; 1000 men of the 2d regiment set out on the 22d from Eski Serai, for Daoud Pacha, with twelve cannon in the same order, and with the same ceremo nies as the preceding.\n\n The Greek Patriarch has exiled the Metropotans of EpheMs, Heraclea, Demotica and Janina.\n\n Eight hundred cavalry horses have arrived from the principalites the Danube. Nearly an equal number has been sent to the Government by different Pachas.\n\n It is said that funds have been Reschid Pa cha to enlist l0,000 Albanians.\n\n Ten corvettes and two brgs are at anchor of the Sultans summer palace, and will sail with the first good wind, under the command of Natl Bey, who IS appointed Serasker of the fleet. It is thought he will go directly Syra land in that island which isthe enrepot for the commerce, and supply of the Greeks m the Archlpelago \"a",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 3871,
+                "y0": 2774,
+                "x1": 4781,
+                "y1": 3052
+            },
+            "class": "article",
+            "raw_text": "z TONS good HAY,-one span good low price y Team HORSES,-on good Lumber Wagon and Harness.\n\n Also, to contract for 1900 Casks LIME, be burnt after the middle of September. Goods will be advan- ced before hand, and some money the delivery of the Lime. k. H. DENISON.\n\n Norfolk. June 9, 1897. 4w52",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 4181,
+                "y0": 2718,
+                "x1": 4448,
+                "y1": 2769
+            },
+            "class": "headline",
+            "raw_text": "1dl1a,1tPn.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": -1
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1147,
+                "y0": 5283,
+                "x1": 2035,
+                "y1": 6522
+            },
+            "class": "article",
+            "raw_text": "PEERS. Lord Chancellor Lord Myndhurst, Lord President Earl of Narrowly, Lord Privy Seal Duke of Portland, Chancellor of the Dutchy Tord R.vlo,\n\n of Lancaster Secretary of State for For v;scour, D,dlev\n\n egn Affairs secretary oI ota'e lof 'he Viscount Goderich,\n\n CoMMoEERS. Secretary of State for the ! The Rt Hon. William Home Department Sturges Bourne, President of the Board of ! The Rt. Hon. William\n\n Trade Huskisson President of the Board of ! The Rt. Hon. Charles\n\n Control Win. Wynn, Secretary at War Viscount Palinerston, First Id. of the Treasury The Rt. Hon. George and Chan. of the Exch'r. Canning.\n\n NOT IN THE GARNET.\n\n , His Royal Highness the A0Fo fi'sh A\"'lf\" Duke of Clarence, Master General of the M.r,,,;s of A,c,s-,.,\n\n Ordnance '1 \" e' Loro NhamDelah o' '\"e Duke of Devonshire, Master of the Horse Duke of Leeds, Chief Secrecy to the Lord ! The Hon IVY .mh Lieutenant of Ireland\n\n LAW APyeiNTmEErs. Master of the Rolls Sir John Leach, Vice Chancellor Mir. Hart, Atfornev General Mir. Scarlet, Solicitor General Sir N. C. TIndali.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 1429,
+                "y0": 5232,
+                "x1": 1758,
+                "y1": 5284
+            },
+            "class": "headline",
+            "raw_text": "THE CABINET.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 214,
+                "y0": 175,
+                "x1": 1137,
+                "y1": 5504
+            },
+            "class": "article",
+            "raw_text": "measures which chey now support and approve. Can did men arc willing to look upon political alterations as they do upon moral. The man who has once done wrong, but who now, and for many years past, has walked uprightly, is not by acquainted with the failties of human nature, censured and dcondemned- He who is at all acquainted with the political history of our country, and with the various questions which have agitated and distracted national councils, be convinced that if political repentance be cessay for party, class of men, is also equal ly necessary for the otherthat if individuals of one political name are to be ccnsured for an undue regard party lines-for strenuous adhesion party prin- cples to the detriment of the country individuals of the other political not free from the same charge-they also actuated by equally strong prejudice for the name by which they called.- Although these party not entirely forgotten, discarded yet when they are applied, it is in the most unmeaning manner, and without any regard to the character which should be attached them. Men who were foremost in the democratic ranks, when measures contended for, now accused offed- eraism, while others, whose every act strongly marked with federalism, have recently been embraced democrats, and that without any other evidence political recantaon, than violent zeal for Whatever may be said against political amalgamaon, we have it in the strongest of the term. The old lines of distinction completely broken down, that appears almost impossible to know by what po- litical name a man should be called His acts will not speak for him. for support ofthe measures which in place entitle him the name of republican, draw upon him from another quarter the charge of federalism. Men are called republican tbis year, and without the shadow of change in their principles. are next year called federal and so conrariwise.- This is confirmation strong that party names known 30 years ago. have lost all their meaning; that they arc worthless appendage to the political nomencla- lure, and that they will shortly be swallowed up by the new which will be assumed by the Adams and Jackson partizans.\n\n Senator for Mdssachusetts.--We learn from the Boston papers, that the 7th inst the House ofRep- resentatives of Mass. chose by large majority, Hon. DANIEL WEBSTER, present representative in Congress from Suffolk district Senator in Congress for six years from the fourth of March last. Whole number of votes given, 323,-necessary for choice, 165-Mr. Webster had 2O2, and was declared elected. On Friday the election took place in the upper House. and the choice of the lower House was concurred in by 26 votes out of 39 Relative this election, we apply the sentiment which a certain Jackson print uScu \"hCA POIuIS Nit cicCuoH Ol M LdNeJ OI Delaware to the same important station |\" Massachu- sets has covered herself with glory\" This sentiment we most heartily reiterate, cut where it will. We are glad to the good of the republicans of Mass placing truly great men in exalted stations, and wish their principles might be more generally adopted country then might derive important advantage from the talents of her richly gifted but things too often are, of acknowledged eminence are of ten driven into the back ground, simply because they do not belong to \"my party\" did support the measures which 'I Iconsderedrepublican.\" These party shackles Massachusetts has thrown oE-but we will say just at present, for fear of rendering furious certain brother editor fifty miles off, who in all conscience will feel enough when he re- ports the \"glorious news\"\n\n Hon. Wm c. Jarvis, of Pittsfield has been elected Treasurer of the State of Mass and on not being able Co procure the requisite security of 100000, for the faithful performance of the duties of the station has bcen obliged to decline. So says one account; we can hardly credit the story, however, from the high esteem in which Mr. Jarvis has been held in Berk- shire county, where there is wealth enough surely.- But such things have been, and snotmpossble that they may occur again.\n\n MASSACHUSETTS, LEGISLATURE.\n\n The session commenced \"Wednesday, May 30. Gov. Lincoln and It. Gov. Winthrop were reelected by large majorities. Hon. John Mills is again Presi- dent of the Senate. Hon. W. c. Jarvis was again chosen Speaker of the House, and ociaed for seve- ral days, when he chosen Treasurer of the Com- monweah, the former incumbent being no longer el- igble by the constitution. E. D. Bangs re-clec- ted Secretary. The vacancies in the Senate have been filled in the Senate follows, by the houses in convention: Suffolk, T. Welsh Jr., c. Loring, F. C. Gray, N. P. Russell Bristol, L. Williams Jr. and H. Lathrop. Worcester, J. Bowman. Franklin, T. Longley-Rev. Dr. Jenks is chaplain of the Senate Rev. Geo. Ripley, chaplain of the house. Many pri- vate petitions have been presented. As the session will be short it is probable that subjects of general and public nature will be understood.\n\n Stage AccideRt.-We learn that one of the Boston and Albany stages via Greenfield and Wiiliamstown, while descending hill in Shelburne. three or four days since, by freak of the horses overset. Several members of the Ma Legislature were in the coach at the 6me, one of whom (Nr. Putnam of Ad- had his hnOIyo onl 1aGt, of",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1136,
+                "y0": 1186,
+                "x1": 2046,
+                "y1": 2391
+            },
+            "class": "article",
+            "raw_text": " l. An Act relating to the Eagle Bank. 9 An Act concerning Injunctons. 3. ,, authorizing Government to form and alter regiments. 4. ', the impounding cattle in certain\n\n  5. ,, requiring a sign post to be erected in Mans\n\n field. 6. :, annexing Mansfield to the county of Holland. 7. ., :, Columbia to do. do. 8. ,, ,, Prospect to Waingford Probate District. 9. :, ,, regulating fares at Warmers ferry. 10. :, ;, 2, Weights and Measures. II. ,, ,, prohibiting members of General Assembly\n\n from acting as Counsel in certain cases l2. :, :, relating to Conn., State Prison. 13. , ;, repeating 1lth section of an act concerning\n\n Fisheries. If. , cedng territory to United States for Light House. Is. ,, ;, prescribing number of Jurymen for each\n\n town. Is. ., :, relating to School Fund Deeds. 7. ,, ,, !, settlement of estates. I8. ., ., ., removal of Stone from common shore. 19. ., ., ., toll for one horse wagons %. ,, ;, ,, fares at Saybrook Ferry. Fl. ', ?, ,, Oaths. 9. r :, ,, Interest. Q3. ,, ;, ,, Prisoners. 24. ,, ., ,, Deputies in Holland County. 25. ., :, ', Inspection of Beef. 26. :, ,, ,, Commissioners in other States. 2. ', ', ;, Printing of Laws.",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 38,
+            "bbox": {
+                "x0": 1203,
+                "y0": 1135,
+                "x1": 1984,
+                "y1": 1187
+            },
+            "class": "headline",
+            "raw_text": "Public Acts, passed May Session, 1897.",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": -1
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 3876,
+                "y0": 5323,
+                "x1": 4781,
+                "y1": 6550
+            },
+            "class": "article",
+            "raw_text": "JOSEPH LOGGAN'S ESTATE. THE Hon. Court of Probate for the Dis IL trict of Sharon has limited and allowed six months from this date, for the creditors of the estate of\n\n JOSEPH LOGGANS, late of Sharon, in said district, deceased, to present their claims against said estate to the subscriber for settlement.\n\n By order of Court,\n\n OLIVER KELLOGG, Erecstor. Sharon, June 5, 1927. 52 MUSEUM of Foreign Literatme aud Science, for June l827 is just published. and for sale at the Litchfeld Bookstore, where the back numbers can be had.\n\n CoNTESrs.-Portrait of Dr. Helmuth.-- Kings Australia. The Par Home. Thelast days of Kant. The things that change. IA chapter on Dreams. Orator Henley. His tory of Barbadoes. Henry Cornelius Agrip- pa. Similitudes. Oxford edition of Sopho- cles. The black Watch. Buckingham's Mesopotamia. Vernal Stanzas. The twins of Lamerton. General Caulincourt. MISCELLANEOUS SELECTIONS. LIrERAur INrELLIGENcE. &e.",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 3882,
+                "y0": 4797,
+                "x1": 4781,
+                "y1": 5301
+            },
+            "class": "article",
+            "raw_text": "CALEB REYNOLDS ESTATE. The Hon. Court of Probate for the district Of Sharon hath assigned Tuesday, the 26th day of June inst. at 9 o'clock in the forenoon, at the Probate Office in Salisbury, for the settlement of the accounts of the Administra- tor upon the estate of Caleb Reyaolds, late of Sharon, in said district. deceased.\n\n By order of Court,\n\n ORRIN CLARK, Administrator. Sharon, June 5. 1827. 59",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        },
+        {
+            "id": 37,
+            "bbox": {
+                "x0": 3910,
+                "y0": 4791,
+                "x1": 4753,
+                "y1": 4849
+            },
+            "class": "headline",
+            "raw_text": "CALEB REYNOLDS ESTATE.",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": -1
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 1153,
+                "y0": 226,
+                "x1": 2052,
+                "y1": 1119
+            },
+            "class": "article",
+            "raw_text": "m Hartford, and also to some ten or fifteen members of the Legislature. If the package did not arrive in Hartford, the fault is in the Post Masters, not in The editor of the Times has the number an qUes- ton, and as it contains subjects entitled to grave and cOnsideraie attentOn,\" we may expect in due time some notice of it from the pen of Mr. Wells: in the mean time we shall content ourselves in reminding the editor that those who throw brck-bats and stOnes\" ought not to complain at having their knuckles raped occasionally. When the editor of the Times shall write something in relation to o political course which is tangible, may think it profitable to reply to him ;- when he shall of the reasons which induced him |\" to discard time pas\" we shall be pre- pared to hold controversy with him. This viliyng,\n\n low bihhgsgate slang, is entirely unworthy decent paper, and we shall not foul columns with any pication to his abuse.",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 1147,
+                "y0": 3537,
+                "x1": 1995,
+                "y1": 4815
+            },
+            "class": "article",
+            "raw_text": "After providing for all previous unsats- - fed dividends and other charges upon the Fund, there remained in the Treasury the ment me o Of 4 future dividends, the sum of $s,s54 dividends % in the u % treasury @ ist April, is5S 9,se8\n\n There remained of Interest in the Trea- - sury on that day the sum of $l2,653\n\n The amount of Principal on hand the 1st of April, 1926, in cash was $2l ,326 66\n\n Amount of Principal paid into the Trea- sury during the year onding April 1st 1927 was 30, 743 96-amounting to $52,O72\n\n Of which there has been LoaRed by the Commissioner since the 10th of June last on bonds douhly secured on Real Estate ferred red by i, the p resolve of May last s4o,7o2\n\n Amount remaining in the Treasury for applicants whose securities for loans are not perfected $l,369\n\n The sum of ten thousand dollars has been retain in the Treasury to comply with the Resolve of l. session directing the Commissioner to loan the As; any sum not exceeding that amount for the purpose meeting the current expenses increased by buildi the new State Prison. But being informed that part of the loan will be requred securities are p pairing by other applicants for loans to the amount the foregoing balance and will shortly be perfecte\n\n From the foregoing statements it will appear tl the amount of principal and interest collected in year ending lst April 1927, after deductng all exp, ses of Agencies, is $124,854 II.",
+            "legibility": "Questionable",
+            "full_article_id": 27,
+            "reading_order_id": 0
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 1153,
+                "y0": 2418,
+                "x1": 2046,
+                "y1": 2526
+            },
+            "class": "article",
+            "raw_text": "School Fand.-The present condition of this fund may be seen from the following extract from the Re-",
+            "legibility": "Legible",
+            "full_article_id": 30,
+            "reading_order_id": 0
+        },
+        {
+            "id": 32,
+            "bbox": {
+                "x0": 3882,
+                "y0": 339,
+                "x1": 4781,
+                "y1": 526
+            },
+            "class": "article",
+            "raw_text": "EO'O fer most kinds ef Country Produce, and OH e iberat Credit; and many Or- tictes as lOW for Casb, as con De bought n Hartford, or GRy other place.",
+            "legibility": "Questionable",
+            "full_article_id": 33,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 4051,
+                "y0": 265,
+                "x1": 4584,
+                "y1": 328
+            },
+            "class": "headline",
+            "raw_text": "NEW GOODS.",
+            "legibility": "Legible",
+            "full_article_id": 33,
+            "reading_order_id": -1
+        },
+        {
+            "id": 34,
+            "bbox": {
+                "x0": 1141,
+                "y0": 2446,
+                "x1": 2018,
+                "y1": 3510
+            },
+            "class": "article",
+            "raw_text": " may be seen from the following extract from the Re port of the Commissioner:\n\n OfInterest collected aud diuidea.\n\n The amouns of Interest, Rents and Bank Dividends collected within the year ending the 1st of April, 1927, is $94 no l being about $22, 900 more than has been collected in any previous year since the establishment of the School Fund The dividends made to the Schools in Oct. last on 84 876 persons enumerated in Aus gust last was $29 706 6O-that made in March last on the same enumeration $42, ,433; amounting in the year to $72,- IA 50.\n\n Grants made by the Legsla- ture last May to certain school districts which had not complied with the law in making their re- turns 2oo 6O Previous unpaid dividends and orders which had been paid du- ring the past year 39l3 S5\n\n Taxes paid on Ohio lands, Be Policies of insurance, compensa- tions to Commissioner, Treasu- Ter and Clerks and other ex- penses paid the year past, $500 \"A oA o1n o",
+            "legibility": "Legible",
+            "full_article_id": 35,
+            "reading_order_id": 0
+        },
+        {
+            "id": 36,
+            "bbox": {
+                "x0": 3871,
+                "y0": 2480,
+                "x1": 4759,
+                "y1": 2690
+            },
+            "class": "article",
+            "raw_text": "AS it is necessary for the Norfolk Farmers that there should be Eore than Cheese deaer the sub- scriber will give all who may be disposed to favour him with their business every encouragement in that line which prudent man can do.\n\n F. H. DENISON",
+            "legibility": "Legible",
+            "full_article_id": 37,
+            "reading_order_id": 0
+        },
+        {
+            "id": 40,
+            "bbox": {
+                "x0": 226,
+                "y0": 4938,
+                "x1": 1137,
+                "y1": 6940
+            },
+            "class": "article",
+            "raw_text": "Longley-Rev Dr. Jenks is chaplain of the Senate Rev. Geo. Ripley, chaplain of the house. Many pri- vate petitions have been presented. As the session will be short, is probable that subjects of general and public nature will be understood.\n\n Stage AccideRt.-We learn that one of the Boston and Albany stages, via Greenfield and Wiiliamstown, while descending hill in Shelburne, three or four days snce was by freak of the horses overset. Several members of the Mass. Legislature in the coach at the ome, one of whom (Sfr. Putnam of Ad- amS,l had his arm broken, ond left with one of his companions at public house. Two or three oth- CTS were considerably injured, but no lives lost\n\n The WiHiamstown (Mass) paper Aates that flock o wolves have recently made their appearance in the northwest part of Berkshire county and that the des sructon of sheep by these prowlng monsters hasbeen very great In the town of ofLanesborough above about three hundred sheep have been killed and in Of the neghborng places the losses to the sheep have been proportionably great. That section of country, on account of the great number of sheep owned there, must afford fine range for wolves, while its almost mpenetrabe mountain forests w SC. cure them pretty safe retreat from the 1nraged far mers. An attempt was made last week to dsodge the depredators in concerted attack from four ouar. cers by the inhabitants of four towns. By some mis- understanding the project did not succeed and anoth- similar expedition is contemplated. 1.-the sports men of that vicinity have Putnam lead them to the attack shall hear of lots of wolves ears ta- ken of in Berkshire county.\n\n The editor of the Times positively asserts in his last that he did receive paper of the l7th ultmo, and also that several others whomt senn Hart ford, did not receive it. We willing to believe the assertion inasmuch others to whom the paper was directed say did not their hands. We mail ed the papers usual directed to all our exchanges",
+            "legibility": "Legible",
+            "full_article_id": 41,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                14,
+                0
+            ],
+            "headline": "m E3E 7A",
+            "article": "In this town on the 9th inst. Mir. John Orton aged 69. Printers in New-York requested to insert the above. ,v.-\n\n Also on the 9th the wife of Mir. Harmon Osborn a. ged 36.\n\n At Plattsburg, Capt. Sidney Smith of the United States Navy, aged 45.\n\n In the Mission Family at Dwight, Arkansaw Ter March 3d. Mrs. Sophrona, wife of MT. Asa Hitchcock\n\n At Wethersfeld, Capt. Humphrey Woodhouse, 56 ; Mrs. Rebeka Churchill, 79, wife of Mir. Samuel Chur- chill; Miss Sally Hale, 3l. She was the only child of her mother, who is a widow. At Lebanon, Mrs. Nancy Huntington, A, wife of MT. Eliphalet Huntington.\n\n At Colchester, on the 9th inst. Gen. David Deming.\n\n In Hartford, on the 3Oth ult. Capt. Moses Sash, a veteran soldier of the revolutionary war.\n\n In Philadelphia, Abraham Bradley, Jr Esq. aged s, eldest son of Abraham Bradley, Esq. Assistant Post Master General.)\n\n In Berlin, Mrs. Olive Wilcox, 45 wife of Col. Rich ard Wilcox.\n\n In N. Haven, on the 27th ult. Mrs. Martha Munson, wife of Doct. Elijah NJ. aged 5.\n\n In Derby on the 9th inst. of consumption, Mir. Hen \" Prndle, aged 22.\n\n In Killingwor,h, on the 30th ut Mrs. Serrane wife of Edward Wilcox, Esq. in the 53d year of her age.\n\n In Philadelphia, on Saturday, the second inst, in the 33d year of his age, Mr. Charles Bacon, native of Connecticut but for several years past, resident in that city.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3305,
+                    "y0": 3548,
+                    "x1": 3521,
+                    "y1": 3600
+                },
+                {
+                    "x0": 2972,
+                    "y0": 3605,
+                    "x1": 3855,
+                    "y1": 4758
+                }
+            ],
+            "bbox": [
+                2972,
+                3548,
+                3855,
+                4758
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-06-14_p3_sn82014309_00414182926_1827061401_0195.json"
+        },
+        {
+            "object_ids": [
+                12,
+                1
+            ],
+            "headline": "RaaR1HE9ED D",
+            "article": "In Portland on the 24th inst. by the Rev. Dr. Pay Ksy RaPh kandOR G of the Eliza M. Gurley of the former place.\n\n On Thursday the Eth inst, in St. Johns Church. Warehouse Point by Rev. Professor Doane, Elisha M Jencks, to Miss Carssa Holkins, daughter of Ma]. Joel Holkins all of fthat place. At Boston, Rev. George Champlin Sherard, of He bron, Conn. to Miss Sally Ian, daughter of the late Dr. Thomas Kast\n\n In Wangford, MT. George c. Hall of NKldlctovn,, to Miss Sarah F.. Hall, daughter of Luther Hall, Esq. of the former place.\n\n At Wolcottville on the 9th May last, by Rev. Mir. Stone, of Ltchfed, Mir. William E. Russel, Mer- chant, to Mss Ememe, daughter of Capt. Samuel Bradley.\n\n At New-Mi!ford, MT. Albert N. Gaylord, to Miss Julia M. Sanford.\n\n At Waterbury, by the Rev. Mir. Hart of Plymouth, Doct. Rcmus Fowler, of Washington, to Miss Mary Miller of Torrngton.a",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3221,
+                    "y0": 2667,
+                    "x1": 3606,
+                    "y1": 2719
+                },
+                {
+                    "x0": 2972,
+                    "y0": 2729,
+                    "x1": 3849,
+                    "y1": 3521
+                }
+            ],
+            "bbox": [
+                2972,
+                2667,
+                3849,
+                3521
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-06-14_p3_sn82014309_00414182926_1827061401_0195.json"
+        },
+        {
+            "object_ids": [
+                2
+            ],
+            "headline": "",
+            "article": " the work will contain notices of their scenery and gro auctions and of the and habits of the eoriC with statements illustrating their former condition an present improvements, Nc. Ac. It will also be ac- companied by Photographic Sketches of some Oi the most interesting scenes in that group of islands. ~. !. Spec.\n\n EgpLon Mt,amy.-Two nAanuscrpts on papyrus were lately unfolded from the head and breast Ol Mummy opened at Paris. Such was their state of preservation that scientific person present, immed aIey pronounced the body have been that of Tete Muchis, the daughter of the keeper of the Temple of Isis, at Thebes.\n\n At late session of the U S Circuit Court at Rich mond Vir Chief Justice Marshall presiding John B. Amedie was tried for the crime of destroying vessel at sea, of which he was commander for the purnose of dCfrautng the underwriters. He found guilty and sentenced to be hung the 18th of th;s month.\n\n The finances of the Brazilian government were in a deplorable condition, the revenue from the customs having greatly diminished, and the bank paper (of which may be said there upwards of IS millions in circuationj having Appreciated 5 per cent since the commencement of the war. A few days before the Florida sailed, the exigencies of the trea- sury, large lot of the crown jewels offered at public sale at the bank and withdrawn mo purchasers coming forward\n\n The last benefactions of the late Mr. Philips whose death was announced in last paper topublic char ities were-to Philips Academy $15, ,000-Theolog- cal Institution $10,000-Socety for propogating the Gospel $5,0O0-Mass. Bible Society $5, ,0OO-Fo Foreign Mission Society $5,OOO-Medica Dspensary 5000 Mass Gen Hospital for the relief of sick poor of Bos ton $5,000--Am. Ed Society $5,00O-Female Asy- lum &, ,0O0-Asylum for Indigcnt Boys S2,0o0-MasS. Cong. Charitable Socciety $5,O0o-Total, $62,C00\n\n O'oination-On Wednesday the 9th inst at Christ Church in Hartford, by the Rt. Rev. Bishop Brow nell the Rev. John G. Stone ofthis town, was admit ted to the Holy Order of Priests.\n\n MT. Norman Pinney, Tutor of Mathematics in Washington College, was the same day admitted to the Holy Ordinance of Deacons. MT. Pinncy was presented by the Rev. Hector Humphreys.-Sermon by the Rev. Rodney Rossiter.\n\n Ordination-In Boston, on the 27th ult. the Rev. HERvEY HAYES received ordination as an Evangelist Introductory prayer by the Rev. B. B. Wisner mon from Isa 50: 8, 9, by the Rev. L. Beecher, D. o.; consecratng prayer by the Rev. W. Fay; charge by the Rev. w. Jenks D. D.; fellowship by the Rev. F. Beecher concluding prayer by the Rev: s. Green. MT. Hayes is appointed Chaplain of the z. &. ship Jaua, which is destined for the Mediterranean. The introduction of an evangelical minister on board of war, into congregation of five hundred souls is an event of no ordinary importance; especially we learn the Secretary of the Navy will in future require that all Chaplans in the service be regularly ordained",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2966,
+                    "y0": 254,
+                    "x1": 3855,
+                    "y1": 2639
+                }
+            ],
+            "bbox": [
+                2966,
+                254,
+                3855,
+                2639
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-06-14_p3_sn82014309_00414182926_1827061401_0195.json"
+        },
+        {
+            "object_ids": [
+                27,
+                3
+            ],
+            "headline": "E. H. DENISON,",
+            "article": "HAVING good supply of Tyson Skin TEA, will\n\n sell for cash that of good quality for 62 12 cts. per ib and other qualities by the 10 ibs sim gle pound, as low for cash be bought in Hart ford: Lump SUGAR, best quality, for l6 cts per lb by the lump.\n\n TAVERN KEEPERS, and OTHERS, can be supplied with all kinds of Groceries at low prices AiSo Nut megs, Cloves, Cinnamon, and Periash Mackerel in bis. and half bs. Also, great assortment Nova Sco- tia, blue sheet, fine grit Grnd-sones, warranted CT to glaze, and of very superior quaty,wt. from 59 to 281 lbs Also, for Builders 1, 10, 12, and 20d cut Nails, made of tough iron. Best cast steel Plain Irons, hand and panne! Saws, steel Gimbeis feet Rules, iron Squares, polished steel nail Hammers, rule joint Compasses, patent butt Hinges, Screws, Brads, and door trimmings of most all kinds. Best London White Lead, Red Iead Venetian Red, Span lsh Brown, Spanish White, Crome Yellow, Prussiaa Blue, Spirits Turpentlne, Linseed and Whale Oil, and Brushes.\n\n Also, for House keepers good assortment of Loo kIng Glasses and Supporters,-English Flat-irons,- Brass ketes,-knives and Forks,-good common Spoons,-silver plated do. of both kinds, and fine assortment of Silver Tea and Table Spoons, Sugar Tongs, cream and salt spoons -these articles of s- yer plate will be kept constantly hand, and at pri eswlthout any reserve low can be bought in Hartford or NewYor, and all warranted good silver by myself and the makers, whose names are stamped upon them. A good assortment Iron Pots, dish Ket- ties, tea Kettles, new fashioned Spiders, bake Pans, Grides Skilets screw botom'd and brass CandIe- sticks, and patent Furnaces.\n\n A fine assortment New-York HATS, for old men, young men, and boys. Large BIBLES from 11s to 39s. i3 dozen Milk Fails, at $3,75 per dozen.\n\n good assortment of heavy black and blue black Bombaznes, very cheap for dresses and long shaws; Bobinet Laces, Brown Cambrcks, patent Rattans, cheap Flowers and Wrcaths bonnet and cap Ribbons, Cord, real Russia sheetng, Silk, Twist, padding, and other trimmings for Taors' use of very quality, and large supply of other Goods, much too numerous to mention in any advertisement. Soon expected, brass Andirons, Shovels and Tongs, wrought Androns, and many other articles make greater variety of good common furniture for house Keeping than has ever been tonnd in any store in the county within my knowledge.\n\n AS it is necessary for the Norfolk Farmers that there should be ore than Cheese dealer, the sub scriber will give all who may be disposed to favour him with their business, every encouragement in that line which prudent man can do.\n\n E. H. DENISON,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3904,
+                    "y0": 531,
+                    "x1": 4719,
+                    "y1": 611
+                },
+                {
+                    "x0": 3871,
+                    "y0": 627,
+                    "x1": 4776,
+                    "y1": 2719
+                }
+            ],
+            "bbox": [
+                3871,
+                531,
+                4776,
+                2719
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-06-14_p3_sn82014309_00414182926_1827061401_0195.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "AFFAIRS OF the GREEKS.-The Morning Herald contains great variety of items from the Archipelago, together with an analysis of the contents of number of Greek papers. We had not room 10 copy many of these But their general aspect is fvourable Indeed counts from Greece are favourable The Egna Ga zee, of Feb 18th, says the Turkish garrsons of Sa\n\n Iona have abandoned that fortress, which has fallen Greece is no-v free\" Omar Pacha was routed at",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1147,
+                    "y0": 6549,
+                    "x1": 2046,
+                    "y1": 6940
+                }
+            ],
+            "bbox": [
+                1147,
+                6549,
+                2046,
+                6940
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-06-14_p3_sn82014309_00414182926_1827061401_0195.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "Stelcayt's Prirdte Journai.-Mr. John P. Haven. of N Y. has issued proposals for publishing the Private Journal ofthe Rev. c. S. Stewards voyage to the Pa cfc Ocean, and residence at the Sandwich Islands, in l822 B. 4, and 5. In addition to much religious information in reference the establishment",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2062,
+                    "y0": 6713,
+                    "x1": 2956,
+                    "y1": 6934
+                }
+            ],
+            "bbox": [
+                2062,
+                6713,
+                2956,
+                6934
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-06-14_p3_sn82014309_00414182926_1827061401_0195.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "Just Received. S;lliman's Journal of Sci ence, No. 2, fer March, April, and May, 1s27. No. 9, Vol. I. American Quarterly Reyiew.-s 03@Subscriptiops received at the Litchfeld Bookstore.\n\n Litchfeld, June IA, 1897. g",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3876,
+                    "y0": 6566,
+                    "x1": 4781,
+                    "y1": 6906
+                }
+            ],
+            "bbox": [
+                3876,
+                6566,
+                4781,
+                6906
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-06-14_p3_sn82014309_00414182926_1827061401_0195.json"
+        },
+        {
+            "object_ids": [
+                19,
+                33,
+                7
+            ],
+            "headline": "FOREIGN INTELLIGENCE",
+            "article": "The Canada, Captain Rodgers, arrived on the 4th inst from Liverpool bringing the Editors of the Com merciaL Advertiser London papers to April Both, and to the 28th, and Price Currents to May lst.\n\n The arrangements of the new Ministry pleted on the 28th of April and have been made up as follows :-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1249,
+                    "y0": 4837,
+                    "x1": 1962,
+                    "y1": 4894
+                },
+                {
+                    "x0": 1271,
+                    "y0": 4910,
+                    "x1": 1871,
+                    "y1": 4939
+                },
+                {
+                    "x0": 1147,
+                    "y0": 4933,
+                    "x1": 2046,
+                    "y1": 5227
+                }
+            ],
+            "bbox": [
+                1147,
+                4837,
+                2046,
+                5227
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-06-14_p3_sn82014309_00414182926_1827061401_0195.json"
+        },
+        {
+            "object_ids": [
+                10,
+                8
+            ],
+            "headline": "\"Quicquid fdcies respice fnem.\" -BACKWOODSMEN-",
+            "article": "meeting of the Society will be held on Friday evening at the usual hour-As business ofimportanee will be transacted, punctual attendance Is particularly requested.\n\n Iune If.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3051,
+                    "y0": 6634,
+                    "x1": 3764,
+                    "y1": 6736
+                },
+                {
+                    "x0": 2972,
+                    "y0": 6747,
+                    "x1": 3855,
+                    "y1": 6928
+                }
+            ],
+            "bbox": [
+                2972,
+                6634,
+                3855,
+                6928
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-06-14_p3_sn82014309_00414182926_1827061401_0195.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "\n\n The same paper of later dAie contains the follow ing paragraph :-\n\n On the 4Ih of March the Ottoman troops attacked the three towers which General Callerghi had made himself master of a few days before in the Prseus Both parties fought desperately from the morning til the evening The Turks had 700 killed and 3OG wounded The Greeks had only ten killed and % wounded. On the 2d of March a proclamation of the Government was published, announcing the blockade of the ports of TriGer and MaO as well as the whole Island of Euboea, with view to off the supplies ade was entrusted to the Helas frigate, commanded by Maulls; the Perseverance steam boat; and the lpsariot brig the Nelson, commanded by Captain Di- mltrl FaPa-Ncoil. Some troops on board were to land at Oropo, where are the magazines of Redschd Pacha The expedition was to be directed by the Bavarian Colonel Chares d d'Heideck tHeidegger).\n\n karaiskaki, after having provided for the defence of Western Greece, had marched towards Attica.\n\n Coetti, of Tallante, had cut of all communications between Redschid Pacha and Volo, where the Seras- kler has his magazines of wheat.\n\n Oh the 7th of March, the plenpotcntaries at Egina declared themselves ready begin their sessions der Notara as president.\n\n The opposition Journals lately inserted an article from the Oriental Spectator in which Austria was re- presented as opposed to the negotiations favor of the Greeks. We find the following passage in the Aus trtnn O6SerUeT, under the head of Constantinope :\n\n The new ordinances, as well as the preparations for the campaign this year against the insurgents have, for some time past excited, in high degree, the at tenton of the public, who extremely desirous to see an end put to the confusion and disorder which some years the reVOted countries wish which is shared by all the friends of human ity and is continually advocated the Porte by the Ambassadors of the European Powers whose constant efforts tend to the establishment and preservation of tranquility in Europe.''\n\n The Egyptian naval troops wear white uniform with red sashes and a red cap with anchor. All th1s seems the more singular the Turkish seamen, and especially those of the Barbary States are coth- ed m miserable rags of all colours -''\n\n The following appears in the London New Times, Of April Both.\n\n CoNsrANTINoPLE, March 27th.\n\n In the circles of European merchants at Pera, an extract circulated of the protocol of the conferences of the 4th of April signed at St. Petersburgby Counts Nesserode and Liven on the one part, and the Duke warrant the authenticity of it, send you general view of the contents. The High Contracting Powers having alleged the principles of humanity and religion, which make them desirous of seeing end put to the contest in Greece and the Archipelago, declare that they have agreed that the modification already offered by England shall rest on the following basis :\" That the Greeks shall remain dependent on the Ottoman Porte and that annual tribute, tobe paid by them, shall be definitely ixed-that, the mixture of the Turks and Greeks in these countries is attended with great nconvenences estimate shall be made Of the Turkish property in the Morea and the islands, and the value shall be paid by the Greeks to the propre- tors-that the Magistrates in Greece shall be named by the Greeks but with the cooperation of the Porte but the Greeks shall have the free exercise of their religion and of commerce, and also separate and in dependent Administration-that, if the mediation of England should already be accepted by the Porte, Russia shall at all events it's influence promote the of this intervention the time and the man. of this participation, shall, however be previously determined by Convention between England and the Porte-that ln case the mediation should be declined by the Porte, without regard the state of the other relations between his Imperial Majesty and the Turk ish Government Russia and Great Britain will always consider the abe!e points the basis of the reconc- iation, and embrace every favorable opportunity to promote them, both singy and conjontly-that an a. greement shall be made respecting the details of the determination of the boundaries of the territory the Continent and in the siandsthat the two Powers will not seek to acquire any increase of territory, eX- elusive influence, commercial advantages for their subjects which might not be obtained by every na- tionthat the two Powers desire the concurrence of the Allied Powers in the preliminary arrangement, which shall be communicated to the Cabinets of Vi- enna, Berlin and Pars with the proposal 10 guaran- tee m concert with Rnssia the final arrangement for the a of Turkey and Greece as his n Ma himself this rantee.\"-AHgeimGne ZeitWng.\n\n CoSsTANTINoPLE March 26.\n\n The anxiety excited by \"e negotiations of the Rus sian and English Mnis has risen to the highest pitch The Porte, and particu arly the Sultan, will hear either of the qualification of Greece of the intervention ef the European powers this Subject and the irritation of the Mussumans has been increa sed by the news of the advantages obtained by the Greeks so that it would be easy for the Government send fresh troops to the theatre of war, continue the contest. The Refs Efendi, who, however, jected every proposal, is accused of acting with too much lukewarmncss in not rejecting them once for all. However this may be, he has been dismissed, and the Franks say, may think himself happy have tired so honourably. His successor is considered true Mussulman.\n\n CoNsTANrINoPLE, March 25.\n\n It is said that the Servans have opposed, in arms, the introduction, by tie Pacha of Belgrade of more than 500 of the troops into the fortresses depen dent on his government Three new deputies have been chosen to go to Constantinople, attended by secretary.A\n\n The Muhurdar of Kosrew Pacha, the late High Admiral has received the two tails, as a reward for his zeal and aptness in learning the new military ex- ercise.\n\n The first regiment of new troopo, 3OOO strong be- sides l80 horsemen, has gone to join the Army in Ru- melia. It has marched to Daoud Pacha, and has been received by the Sultan. Another regiment is come from Scutari take its place in the barracksof Eski Serai; 5000 men had previously marched to La rissa; 1000 men of the 2d regiment set out on the 22d from Eski Serai, for Daoud Pacha, with twelve cannon in the same order, and with the same ceremo nies as the preceding.\n\n The Greek Patriarch has exiled the Metropotans of EpheMs, Heraclea, Demotica and Janina.\n\n Eight hundred cavalry horses have arrived from the principalites the Danube. Nearly an equal number has been sent to the Government by different Pachas.\n\n It is said that funds have been Reschid Pa cha to enlist l0,000 Albanians.\n\n Ten corvettes and two brgs are at anchor of the Sultans summer palace, and will sail with the first good wind, under the command of Natl Bey, who IS appointed Serasker of the fleet. It is thought he will go directly Syra land in that island which isthe enrepot for the commerce, and supply of the Greeks m the Archlpelago \"a",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2062,
+                    "y0": 288,
+                    "x1": 2956,
+                    "y1": 5674
+                }
+            ],
+            "bbox": [
+                2062,
+                288,
+                2956,
+                5674
+            ],
+            "full_article_id": 10,
+            "id": "10_1827-06-14_p3_sn82014309_00414182926_1827061401_0195.json"
+        },
+        {
+            "object_ids": [
+                22,
+                13
+            ],
+            "headline": "1dl1a,1tPn.",
+            "article": "z TONS good HAY,-one span good low price y Team HORSES,-on good Lumber Wagon and Harness.\n\n Also, to contract for 1900 Casks LIME, be burnt after the middle of September. Goods will be advan- ced before hand, and some money the delivery of the Lime. k. H. DENISON.\n\n Norfolk. June 9, 1897. 4w52",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 4181,
+                    "y0": 2718,
+                    "x1": 4448,
+                    "y1": 2769
+                },
+                {
+                    "x0": 3871,
+                    "y0": 2774,
+                    "x1": 4781,
+                    "y1": 3052
+                }
+            ],
+            "bbox": [
+                3871,
+                2718,
+                4781,
+                3052
+            ],
+            "full_article_id": 14,
+            "id": "14_1827-06-14_p3_sn82014309_00414182926_1827061401_0195.json"
+        },
+        {
+            "object_ids": [
+                20,
+                15
+            ],
+            "headline": "THE CABINET.",
+            "article": "PEERS. Lord Chancellor Lord Myndhurst, Lord President Earl of Narrowly, Lord Privy Seal Duke of Portland, Chancellor of the Dutchy Tord R.vlo,\n\n of Lancaster Secretary of State for For v;scour, D,dlev\n\n egn Affairs secretary oI ota'e lof 'he Viscount Goderich,\n\n CoMMoEERS. Secretary of State for the ! The Rt Hon. William Home Department Sturges Bourne, President of the Board of ! The Rt. Hon. William\n\n Trade Huskisson President of the Board of ! The Rt. Hon. Charles\n\n Control Win. Wynn, Secretary at War Viscount Palinerston, First Id. of the Treasury The Rt. Hon. George and Chan. of the Exch'r. Canning.\n\n NOT IN THE GARNET.\n\n , His Royal Highness the A0Fo fi'sh A\"'lf\" Duke of Clarence, Master General of the M.r,,,;s of A,c,s-,.,\n\n Ordnance '1 \" e' Loro NhamDelah o' '\"e Duke of Devonshire, Master of the Horse Duke of Leeds, Chief Secrecy to the Lord ! The Hon IVY .mh Lieutenant of Ireland\n\n LAW APyeiNTmEErs. Master of the Rolls Sir John Leach, Vice Chancellor Mir. Hart, Atfornev General Mir. Scarlet, Solicitor General Sir N. C. TIndali.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1429,
+                    "y0": 5232,
+                    "x1": 1758,
+                    "y1": 5284
+                },
+                {
+                    "x0": 1147,
+                    "y0": 5283,
+                    "x1": 2035,
+                    "y1": 6522
+                }
+            ],
+            "bbox": [
+                1147,
+                5232,
+                2035,
+                6522
+            ],
+            "full_article_id": 16,
+            "id": "16_1827-06-14_p3_sn82014309_00414182926_1827061401_0195.json"
+        },
+        {
+            "object_ids": [
+                16
+            ],
+            "headline": "",
+            "article": "measures which chey now support and approve. Can did men arc willing to look upon political alterations as they do upon moral. The man who has once done wrong, but who now, and for many years past, has walked uprightly, is not by acquainted with the failties of human nature, censured and dcondemned- He who is at all acquainted with the political history of our country, and with the various questions which have agitated and distracted national councils, be convinced that if political repentance be cessay for party, class of men, is also equal ly necessary for the otherthat if individuals of one political name are to be ccnsured for an undue regard party lines-for strenuous adhesion party prin- cples to the detriment of the country individuals of the other political not free from the same charge-they also actuated by equally strong prejudice for the name by which they called.- Although these party not entirely forgotten, discarded yet when they are applied, it is in the most unmeaning manner, and without any regard to the character which should be attached them. Men who were foremost in the democratic ranks, when measures contended for, now accused offed- eraism, while others, whose every act strongly marked with federalism, have recently been embraced democrats, and that without any other evidence political recantaon, than violent zeal for Whatever may be said against political amalgamaon, we have it in the strongest of the term. The old lines of distinction completely broken down, that appears almost impossible to know by what po- litical name a man should be called His acts will not speak for him. for support ofthe measures which in place entitle him the name of republican, draw upon him from another quarter the charge of federalism. Men are called republican tbis year, and without the shadow of change in their principles. are next year called federal and so conrariwise.- This is confirmation strong that party names known 30 years ago. have lost all their meaning; that they arc worthless appendage to the political nomencla- lure, and that they will shortly be swallowed up by the new which will be assumed by the Adams and Jackson partizans.\n\n Senator for Mdssachusetts.--We learn from the Boston papers, that the 7th inst the House ofRep- resentatives of Mass. chose by large majority, Hon. DANIEL WEBSTER, present representative in Congress from Suffolk district Senator in Congress for six years from the fourth of March last. Whole number of votes given, 323,-necessary for choice, 165-Mr. Webster had 2O2, and was declared elected. On Friday the election took place in the upper House. and the choice of the lower House was concurred in by 26 votes out of 39 Relative this election, we apply the sentiment which a certain Jackson print uScu \"hCA POIuIS Nit cicCuoH Ol M LdNeJ OI Delaware to the same important station |\" Massachu- sets has covered herself with glory\" This sentiment we most heartily reiterate, cut where it will. We are glad to the good of the republicans of Mass placing truly great men in exalted stations, and wish their principles might be more generally adopted country then might derive important advantage from the talents of her richly gifted but things too often are, of acknowledged eminence are of ten driven into the back ground, simply because they do not belong to \"my party\" did support the measures which 'I Iconsderedrepublican.\" These party shackles Massachusetts has thrown oE-but we will say just at present, for fear of rendering furious certain brother editor fifty miles off, who in all conscience will feel enough when he re- ports the \"glorious news\"\n\n Hon. Wm c. Jarvis, of Pittsfield has been elected Treasurer of the State of Mass and on not being able Co procure the requisite security of 100000, for the faithful performance of the duties of the station has bcen obliged to decline. So says one account; we can hardly credit the story, however, from the high esteem in which Mr. Jarvis has been held in Berk- shire county, where there is wealth enough surely.- But such things have been, and snotmpossble that they may occur again.\n\n MASSACHUSETTS, LEGISLATURE.\n\n The session commenced \"Wednesday, May 30. Gov. Lincoln and It. Gov. Winthrop were reelected by large majorities. Hon. John Mills is again Presi- dent of the Senate. Hon. W. c. Jarvis was again chosen Speaker of the House, and ociaed for seve- ral days, when he chosen Treasurer of the Com- monweah, the former incumbent being no longer el- igble by the constitution. E. D. Bangs re-clec- ted Secretary. The vacancies in the Senate have been filled in the Senate follows, by the houses in convention: Suffolk, T. Welsh Jr., c. Loring, F. C. Gray, N. P. Russell Bristol, L. Williams Jr. and H. Lathrop. Worcester, J. Bowman. Franklin, T. Longley-Rev. Dr. Jenks is chaplain of the Senate Rev. Geo. Ripley, chaplain of the house. Many pri- vate petitions have been presented. As the session will be short it is probable that subjects of general and public nature will be understood.\n\n Stage AccideRt.-We learn that one of the Boston and Albany stages via Greenfield and Wiiliamstown, while descending hill in Shelburne. three or four days since, by freak of the horses overset. Several members of the Ma Legislature were in the coach at the 6me, one of whom (Nr. Putnam of Ad- had his hnOIyo onl 1aGt, of",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 214,
+                    "y0": 175,
+                    "x1": 1137,
+                    "y1": 5504
+                }
+            ],
+            "bbox": [
+                214,
+                175,
+                1137,
+                5504
+            ],
+            "full_article_id": 17,
+            "id": "17_1827-06-14_p3_sn82014309_00414182926_1827061401_0195.json"
+        },
+        {
+            "object_ids": [
+                38,
+                17
+            ],
+            "headline": "Public Acts, passed May Session, 1897.",
+            "article": " l. An Act relating to the Eagle Bank. 9 An Act concerning Injunctons. 3. ,, authorizing Government to form and alter regiments. 4. ', the impounding cattle in certain\n\n  5. ,, requiring a sign post to be erected in Mans\n\n field. 6. :, annexing Mansfield to the county of Holland. 7. ., :, Columbia to do. do. 8. ,, ,, Prospect to Waingford Probate District. 9. :, ,, regulating fares at Warmers ferry. 10. :, ;, 2, Weights and Measures. II. ,, ,, prohibiting members of General Assembly\n\n from acting as Counsel in certain cases l2. :, :, relating to Conn., State Prison. 13. , ;, repeating 1lth section of an act concerning\n\n Fisheries. If. , cedng territory to United States for Light House. Is. ,, ;, prescribing number of Jurymen for each\n\n town. Is. ., :, relating to School Fund Deeds. 7. ,, ,, !, settlement of estates. I8. ., ., ., removal of Stone from common shore. 19. ., ., ., toll for one horse wagons %. ,, ;, ,, fares at Saybrook Ferry. Fl. ', ?, ,, Oaths. 9. r :, ,, Interest. Q3. ,, ;, ,, Prisoners. 24. ,, ., ,, Deputies in Holland County. 25. ., :, ', Inspection of Beef. 26. :, ,, ,, Commissioners in other States. 2. ', ', ;, Printing of Laws.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1203,
+                    "y0": 1135,
+                    "x1": 1984,
+                    "y1": 1187
+                },
+                {
+                    "x0": 1136,
+                    "y0": 1186,
+                    "x1": 2046,
+                    "y1": 2391
+                }
+            ],
+            "bbox": [
+                1136,
+                1135,
+                2046,
+                2391
+            ],
+            "full_article_id": 18,
+            "id": "18_1827-06-14_p3_sn82014309_00414182926_1827061401_0195.json"
+        },
+        {
+            "object_ids": [
+                21
+            ],
+            "headline": "",
+            "article": "JOSEPH LOGGAN'S ESTATE. THE Hon. Court of Probate for the Dis IL trict of Sharon has limited and allowed six months from this date, for the creditors of the estate of\n\n JOSEPH LOGGANS, late of Sharon, in said district, deceased, to present their claims against said estate to the subscriber for settlement.\n\n By order of Court,\n\n OLIVER KELLOGG, Erecstor. Sharon, June 5, 1927. 52 MUSEUM of Foreign Literatme aud Science, for June l827 is just published. and for sale at the Litchfeld Bookstore, where the back numbers can be had.\n\n CoNTESrs.-Portrait of Dr. Helmuth.-- Kings Australia. The Par Home. Thelast days of Kant. The things that change. IA chapter on Dreams. Orator Henley. His tory of Barbadoes. Henry Cornelius Agrip- pa. Similitudes. Oxford edition of Sopho- cles. The black Watch. Buckingham's Mesopotamia. Vernal Stanzas. The twins of Lamerton. General Caulincourt. MISCELLANEOUS SELECTIONS. LIrERAur INrELLIGENcE. &e.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3876,
+                    "y0": 5323,
+                    "x1": 4781,
+                    "y1": 6550
+                }
+            ],
+            "bbox": [
+                3876,
+                5323,
+                4781,
+                6550
+            ],
+            "full_article_id": 22,
+            "id": "22_1827-06-14_p3_sn82014309_00414182926_1827061401_0195.json"
+        },
+        {
+            "object_ids": [
+                37,
+                23
+            ],
+            "headline": "CALEB REYNOLDS ESTATE.",
+            "article": "CALEB REYNOLDS ESTATE. The Hon. Court of Probate for the district Of Sharon hath assigned Tuesday, the 26th day of June inst. at 9 o'clock in the forenoon, at the Probate Office in Salisbury, for the settlement of the accounts of the Administra- tor upon the estate of Caleb Reyaolds, late of Sharon, in said district. deceased.\n\n By order of Court,\n\n ORRIN CLARK, Administrator. Sharon, June 5. 1827. 59",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3910,
+                    "y0": 4791,
+                    "x1": 4753,
+                    "y1": 4849
+                },
+                {
+                    "x0": 3882,
+                    "y0": 4797,
+                    "x1": 4781,
+                    "y1": 5301
+                }
+            ],
+            "bbox": [
+                3882,
+                4791,
+                4781,
+                5301
+            ],
+            "full_article_id": 24,
+            "id": "24_1827-06-14_p3_sn82014309_00414182926_1827061401_0195.json"
+        },
+        {
+            "object_ids": [
+                25
+            ],
+            "headline": "",
+            "article": "m Hartford, and also to some ten or fifteen members of the Legislature. If the package did not arrive in Hartford, the fault is in the Post Masters, not in The editor of the Times has the number an qUes- ton, and as it contains subjects entitled to grave and cOnsideraie attentOn,\" we may expect in due time some notice of it from the pen of Mr. Wells: in the mean time we shall content ourselves in reminding the editor that those who throw brck-bats and stOnes\" ought not to complain at having their knuckles raped occasionally. When the editor of the Times shall write something in relation to o political course which is tangible, may think it profitable to reply to him ;- when he shall of the reasons which induced him |\" to discard time pas\" we shall be pre- pared to hold controversy with him. This viliyng,\n\n low bihhgsgate slang, is entirely unworthy decent paper, and we shall not foul columns with any pication to his abuse.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1153,
+                    "y0": 226,
+                    "x1": 2052,
+                    "y1": 1119
+                }
+            ],
+            "bbox": [
+                1153,
+                226,
+                2052,
+                1119
+            ],
+            "full_article_id": 26,
+            "id": "26_1827-06-14_p3_sn82014309_00414182926_1827061401_0195.json"
+        },
+        {
+            "object_ids": [
+                26
+            ],
+            "headline": "",
+            "article": "After providing for all previous unsats- - fed dividends and other charges upon the Fund, there remained in the Treasury the ment me o Of 4 future dividends, the sum of $s,s54 dividends % in the u % treasury @ ist April, is5S 9,se8\n\n There remained of Interest in the Trea- - sury on that day the sum of $l2,653\n\n The amount of Principal on hand the 1st of April, 1926, in cash was $2l ,326 66\n\n Amount of Principal paid into the Trea- sury during the year onding April 1st 1927 was 30, 743 96-amounting to $52,O72\n\n Of which there has been LoaRed by the Commissioner since the 10th of June last on bonds douhly secured on Real Estate ferred red by i, the p resolve of May last s4o,7o2\n\n Amount remaining in the Treasury for applicants whose securities for loans are not perfected $l,369\n\n The sum of ten thousand dollars has been retain in the Treasury to comply with the Resolve of l. session directing the Commissioner to loan the As; any sum not exceeding that amount for the purpose meeting the current expenses increased by buildi the new State Prison. But being informed that part of the loan will be requred securities are p pairing by other applicants for loans to the amount the foregoing balance and will shortly be perfecte\n\n From the foregoing statements it will appear tl the amount of principal and interest collected in year ending lst April 1927, after deductng all exp, ses of Agencies, is $124,854 II.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1147,
+                    "y0": 3537,
+                    "x1": 1995,
+                    "y1": 4815
+                }
+            ],
+            "bbox": [
+                1147,
+                3537,
+                1995,
+                4815
+            ],
+            "full_article_id": 27,
+            "id": "27_1827-06-14_p3_sn82014309_00414182926_1827061401_0195.json"
+        },
+        {
+            "object_ids": [
+                29
+            ],
+            "headline": "",
+            "article": "School Fand.-The present condition of this fund may be seen from the following extract from the Re-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1153,
+                    "y0": 2418,
+                    "x1": 2046,
+                    "y1": 2526
+                }
+            ],
+            "bbox": [
+                1153,
+                2418,
+                2046,
+                2526
+            ],
+            "full_article_id": 30,
+            "id": "30_1827-06-14_p3_sn82014309_00414182926_1827061401_0195.json"
+        },
+        {
+            "object_ids": [
+                28,
+                32
+            ],
+            "headline": "NEW GOODS.",
+            "article": "EO'O fer most kinds ef Country Produce, and OH e iberat Credit; and many Or- tictes as lOW for Casb, as con De bought n Hartford, or GRy other place.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 4051,
+                    "y0": 265,
+                    "x1": 4584,
+                    "y1": 328
+                },
+                {
+                    "x0": 3882,
+                    "y0": 339,
+                    "x1": 4781,
+                    "y1": 526
+                }
+            ],
+            "bbox": [
+                3882,
+                265,
+                4781,
+                526
+            ],
+            "full_article_id": 33,
+            "id": "33_1827-06-14_p3_sn82014309_00414182926_1827061401_0195.json"
+        },
+        {
+            "object_ids": [
+                34
+            ],
+            "headline": "",
+            "article": " may be seen from the following extract from the Re port of the Commissioner:\n\n OfInterest collected aud diuidea.\n\n The amouns of Interest, Rents and Bank Dividends collected within the year ending the 1st of April, 1927, is $94 no l being about $22, 900 more than has been collected in any previous year since the establishment of the School Fund The dividends made to the Schools in Oct. last on 84 876 persons enumerated in Aus gust last was $29 706 6O-that made in March last on the same enumeration $42, ,433; amounting in the year to $72,- IA 50.\n\n Grants made by the Legsla- ture last May to certain school districts which had not complied with the law in making their re- turns 2oo 6O Previous unpaid dividends and orders which had been paid du- ring the past year 39l3 S5\n\n Taxes paid on Ohio lands, Be Policies of insurance, compensa- tions to Commissioner, Treasu- Ter and Clerks and other ex- penses paid the year past, $500 \"A oA o1n o",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1141,
+                    "y0": 2446,
+                    "x1": 2018,
+                    "y1": 3510
+                }
+            ],
+            "bbox": [
+                1141,
+                2446,
+                2018,
+                3510
+            ],
+            "full_article_id": 35,
+            "id": "35_1827-06-14_p3_sn82014309_00414182926_1827061401_0195.json"
+        },
+        {
+            "object_ids": [
+                36
+            ],
+            "headline": "",
+            "article": "AS it is necessary for the Norfolk Farmers that there should be Eore than Cheese deaer the sub- scriber will give all who may be disposed to favour him with their business every encouragement in that line which prudent man can do.\n\n F. H. DENISON",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3871,
+                    "y0": 2480,
+                    "x1": 4759,
+                    "y1": 2690
+                }
+            ],
+            "bbox": [
+                3871,
+                2480,
+                4759,
+                2690
+            ],
+            "full_article_id": 37,
+            "id": "37_1827-06-14_p3_sn82014309_00414182926_1827061401_0195.json"
+        },
+        {
+            "object_ids": [
+                40
+            ],
+            "headline": "",
+            "article": "Longley-Rev Dr. Jenks is chaplain of the Senate Rev. Geo. Ripley, chaplain of the house. Many pri- vate petitions have been presented. As the session will be short, is probable that subjects of general and public nature will be understood.\n\n Stage AccideRt.-We learn that one of the Boston and Albany stages, via Greenfield and Wiiliamstown, while descending hill in Shelburne, three or four days snce was by freak of the horses overset. Several members of the Mass. Legislature in the coach at the ome, one of whom (Sfr. Putnam of Ad- amS,l had his arm broken, ond left with one of his companions at public house. Two or three oth- CTS were considerably injured, but no lives lost\n\n The WiHiamstown (Mass) paper Aates that flock o wolves have recently made their appearance in the northwest part of Berkshire county and that the des sructon of sheep by these prowlng monsters hasbeen very great In the town of ofLanesborough above about three hundred sheep have been killed and in Of the neghborng places the losses to the sheep have been proportionably great. That section of country, on account of the great number of sheep owned there, must afford fine range for wolves, while its almost mpenetrabe mountain forests w SC. cure them pretty safe retreat from the 1nraged far mers. An attempt was made last week to dsodge the depredators in concerted attack from four ouar. cers by the inhabitants of four towns. By some mis- understanding the project did not succeed and anoth- similar expedition is contemplated. 1.-the sports men of that vicinity have Putnam lead them to the attack shall hear of lots of wolves ears ta- ken of in Berkshire county.\n\n The editor of the Times positively asserts in his last that he did receive paper of the l7th ultmo, and also that several others whomt senn Hart ford, did not receive it. We willing to believe the assertion inasmuch others to whom the paper was directed say did not their hands. We mail ed the papers usual directed to all our exchanges",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 226,
+                    "y0": 4938,
+                    "x1": 1137,
+                    "y1": 6940
+                }
+            ],
+            "bbox": [
+                226,
+                4938,
+                1137,
+                6940
+            ],
+            "full_article_id": 41,
+            "id": "41_1827-06-14_p3_sn82014309_00414182926_1827061401_0195.json"
+        }
+    ]
+}

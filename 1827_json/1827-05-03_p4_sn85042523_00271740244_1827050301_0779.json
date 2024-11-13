@@ -1,0 +1,1536 @@
+{
+    "lccn": {
+        "title": "The Wilmingtonian, and Delaware advertiser.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2638-1117",
+        "lccn": "sn85042523",
+        "start_year": "1825",
+        "end_year": "1827",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [
+            "sn88053080"
+        ],
+        "successors": [
+            "sn84020426"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn85042523",
+        "edition": "ed-01",
+        "date": "1827-05-03",
+        "pages": [
+            "seq-3",
+            "seq-2",
+            "seq-1",
+            "seq-4"
+        ]
+    },
+    "page_number": "4",
+    "scan": {
+        "lccn": "sn85042523",
+        "edition": "ed-01",
+        "date": "1827-05-03",
+        "page": "4",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn85042523/1827-05-03/ed-1/seq-4.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn85042523/1827-05-03/ed-1/seq-4/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn85042523/1827-05-03/ed-1/seq-4/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn85042523/00271740244/1827050301/0779.jp2",
+        "height": 5576,
+        "width": 3640
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 1497,
+                "y0": 265,
+                "x1": 2178,
+                "y1": 2309
+            },
+            "class": "article",
+            "raw_text": "| The Subscriber respectfully informs the Pub\nhc that he has now for sale, ut reduced priees,\n| very extensive assortment Of the finest\n| FRUIT TREES,\nORNAMENTAL TREES, AND\n| SHRUBS;\n\n\nGREEN HOUSE PLANTS,\nHARDY HERBACEOUS PLANTS,\n| BULBOUS ROOTS,\n| GRAPE VINES, &c. &c.\n| Among the Fruit Trees are scvera! hundred OF\nthe finest PEAR, PLUM, and APRICOT Trees\n| imported by the subscriber last spring, direct\nfrom one of the first Nurseries of Paris. They\nare of large size, and in excellent order for\nplanting out\n\n\nAlso, fine large CHERRY and PEACH Trees.\n| 10000 fine healthy APPLE Trees.\n| 5000 GRAPE VINES, Of 100 vartics-Strong\n| healthy plants, cultivated in pots, and tit to\nplant ont with safety.\n\n\nThe GREEN HOUSE collection amounts to\nnearly 10000 plants, in pots and tubs, and m\ncludcs all the varieties of elegant Enthusiastically\ncultivated, Amongst the number are upwards\nof 400 Camclas of 2l varieties, 600 Cape Jas\nmines of several varieties, Green and Bohca Tea\nTrees, White Moss Roses, Tea Scented Roses,\n&c.\n\n\nThe GRAPE VINES arc particularly desery\ning the attention of the public as the collection\nincludes nearly all the finest Grapes of France\nand Germany, that will stand this climate, with\nnumber of fine Hungarian Grapes from Tokay,\nimported for the subscribcr and which produced,\nlast season, the most delicious fruit, they are per-\ntectly hardy, and bear well.\nCuttings of the Bland or Poval Grape Vine\nand of the fine Wine Grape, called Alexander or\nScuUYLKILL MuscADrI (also called SPaisGMILL\nCoxsrAsrIA) for sale at fifty cents per dozen,\ntwo dollars per hundred or fifteen dollars per\n1000.\n\n\nTie .7ppie Trees and Grape FINES are equal a.\nquality 10 aay importtd fran he Long Biaad Mr.\nseyiey und are sold one Mird cheaper than The pri-\nces cbmged By those Nurseries,\n\n\nCatalogues may be had at either of the follow\ning places, vz:-Ah!crman &. nartram's, No %\nsouth Second Street; Thomas Lloyd's corner OF\nMarket and Eght-streets; at the Stall, NO\n! 49, opposite Decatur street, or at stall, No D,\nNew Market, below Pine streets; at either OF\nwhich places orders may he left and all orders,\nper mail, or otherwise, will be promptly attend\ned 10, and the articles delivered i'll Philadephia,\nor shipped to order.\n\n\nStrangers visiting Philadelphia, are respect\nI fuly invited to ricw the Garden, which is sltuat-\ned on the west bank of ,he Schuylkill, halt a\nmile below Gray's Ferry, A miles from the Cen\ntire Square.\n\n\nROBERT CARR.\nMarch % 28-4t.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 40,
+            "bbox": {
+                "x0": 1554,
+                "y0": 161,
+                "x1": 2134,
+                "y1": 214
+            },
+            "class": "headline",
+            "raw_text": "Bartram's Botanic Garden,",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -2
+        },
+        {
+            "id": 50,
+            "bbox": {
+                "x0": 1684,
+                "y0": 222,
+                "x1": 2003,
+                "y1": 253
+            },
+            "class": "author",
+            "raw_text": "Near PHILADELPHIA.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2190,
+                "y0": 226,
+                "x1": 2862,
+                "y1": 1621
+            },
+            "class": "article",
+            "raw_text": "Az OINs DIA1n \" hN''\n\n\nUnder the superintendence and instruction OF\nWILLIAM SHERER, assisted by accomplished\nfemale teachers.\n\n\nThe course of instruction pursued at TINS sem\n;,,r,- comprises all the useful, and most OF the\nornamental branches of female education. The\ndaily exercises are photography, Reading, Writ\n;nr. Arithmetic, English Grammar, Rhetoric;\nGeography and History, ancient and modern,\nwith constant reference to the best maps and\ncharts: Construction of maps; use OF the Globes;\nNatural History; Natural Philosophy, including\nAstronomy and Chemistry, Elements ot Moral\nScience\n\n\nTfeekiD Egerc;Ses. --Biblical Rccitations; Evi-\ndences OF Christianity; Letter Writing, and 9TH\ner species of Composition; Recapitulatlons\n\n\nTrims .-Board and tuition, in any OF the fore.\ngoing branches, $685. per quarter; or, IT paid\nin advance, $50. Music, including the use OF\npiano, Sl2, French, by one OF the best masters,\nSc per quarter. Moderate extra charges for\nDrawing and other ornamental branches\n\n\nThe discipline of the school is mild, parental,\nand christian Particular attention is paid not\nonly to the manners of the young ladies', but to\ntheir moral and religious instruction. They are\nregularly conducted to such places OF worship\nand Sunday Schools as their parents and guar\ndians approve. Exercise and recreation, beng\nessential to the preservation OF health and OF\nmental energy, occupy the intervals of time not\ndevoted to study The institution, in all its de-\npartmcnts, is conducted in manner which it\nis hoped, will meet the entire appreciation OF its\npatrons.\n\n\nReferences - -IKlmiagion--Iev. L. W. Gil\nbert; Hon. W. Hall; Hon. Louis MIane: Phild-\nd,iphia--Rcv. Dr. Wilson, Rev. DIR Janeway\nMr.. William Janvier, Merchant, James G..\nThompson, Esq. Professor of Languages, Uni\nversity of Pennsylvania.\n\n\nMarch IS, 1927 26-3m",
+            "legibility": "Questionable",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 37,
+            "bbox": {
+                "x0": 2194,
+                "y0": 143,
+                "x1": 2853,
+                "y1": 205
+            },
+            "class": "headline",
+            "raw_text": "Young Ladies' Boarding School,",
+            "legibility": "Questionable",
+            "full_article_id": 2,
+            "reading_order_id": -2
+        },
+        {
+            "id": 58,
+            "bbox": {
+                "x0": 2207,
+                "y0": 204,
+                "x1": 2788,
+                "y1": 236
+            },
+            "class": "headline",
+            "raw_text": "A1 wu ,uNGTnN, DELAWARE.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2216,
+                "y0": 3711,
+                "x1": 2892,
+                "y1": 4392
+            },
+            "class": "article",
+            "raw_text": "S7OHN BANCROFT, having removed from\n\n\n- Brandywine Bridge, to Providence Facto-\nry, Delaware Co. Pa, takes this means to in\nform his friends and the public generally. that\nhe there continues the Carding of Wool, for all\nthose who are pleased To favor him with their\ncustom; and that he hopes by strict atte ntion and\npunctuality, to merit continuance of pub\nlie patronage lie also takes this opportunity\nto inform those to whose favor he was indebted\nfor work in this line, while at Brandywinc Bridge\nthat all wool left orhm to card, at ohm Torbert's\nStore, or at the soap Factory of Trainton & Ban\ncroft, Wilmington, or at VIM. MCauley's Store,\nBrandy zine, will he taken from thence once cv-\ncry week, and, being carded, will be punctualy\nretuned the week following; hoping, by the a\nbove arrangement, and punctually i'll the return\nand good performance of the work confded to\nhim, they may be induced to continue their IA\nYOURS.\n\n\n4lh mo. S, 1897. 29-5m.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 2294,
+                "y0": 3650,
+                "x1": 2775,
+                "y1": 3699
+            },
+            "class": "headline",
+            "raw_text": "WOOL CARDING.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2190,
+                "y0": 1746,
+                "x1": 2875,
+                "y1": 3638
+            },
+            "class": "article",
+            "raw_text": "pdtaa6lc 4Htdtctne t0r coughs, CoaSeWpttoaS anu\n\n\n.1Sthmds.\n\n\nThis Elixir is offered to the public as pos\nscssiug virtues peculiarly adapted to the present\nprevailing disorders Of the breast and lungs,\nleading to consumption. timely use OF these\ndrops may be considered certain cure in most\ncases of Common Colds, Coughs, Influenza,\nHooping Cough, Pain in the SIDE, Difficulty Of\nBreathing, Ham IF Sleep arising from debility,\nand in Smas modic isthnio, it is slngulary etfica-\ncous. particular attention to the directions\naccompanying each bottle is necessary.\n\n\nThe following certificates from respectable\ngentlemen, Physicians and Surgeons are sub join-\ned, to show that this composition is one which\nMedical men are disposed to regards as eiiicacious\nand worthy of public patronage.\n\n\nHaving eSamired the composition Of la\nMorris Go gh Drops, lmproAed, VIC have no\nhesitation. IN recommending them to the public,\nas being we'll adapted TO those cases OF disease\nfor which they are recommended.\n\n\nDoctors JOS, ,ruA> Dom, Albany Dec 4, 1894;\nJAMts P0sr, OF White Greek, Feb. 1ith 1925\n\n\nNAlsoS SUMNER, Of Cambridge, Feb. Goth,\n\n\n1925; SOLOMON DIAs, Of Jackson, January 20,\n1925.\n\n\nEriruci ofa LETTER from Rec. EJtne.ey Harris.\n\n\nam pleased @ithfis opportunity of relating\nq few facts which may serve i'll commendation OF\n| y CIR excellent Cough Drops. For ten years l\nwas aHlcteu WIN puHnoiluTy coHlPiaiilti my\ncough was severe, my appetite weak, and\nstrength falling. used many popular medl-\ncincs, but only found temporary relief, until by\ncontinued use ofyour valuable Drops, have\nbeen blessed with such perfect health as to rem.\n/ der further means unnecessary.\n\n\nEBENEzER HARRIS.\n! Salem ~ y. Jan 10, 1925\n\n\n! iLeSSrs Crosby'S.-l have for l8 years beer\ntroubled with an affection ofthe breast and lungs\nattended with severe cough, pain in the side\nand difficulty of breathing; and in the fall ofl S25\n| became SO much reduced that my life was des\npaired of; and receiving no visible benefit iron\n] my physician, was advised to make trial OF L.\nMotifs Cough Drops and after taking one bottl\nwas restored to perfect health; and is my firm\nbelief, that the use Of the above named drops\nsaved my life. THOMAS JONES.\n\n\nColumbus, ohio, JulY -, 1926.\n\n\nSold wholesale and retail BY o. & S. Crosby\nColumbus, Ohio, and agents Of their appointing\nthroughout the United States and Canada, &c.\n\n\nEach bottle contains As doses, price 81\nUJSold in Wilmington by JosEPn BRINGHuns,\nDruggist aud Chemist, 81, Market-st.\nMarch, 8-25--t6m",
+            "legibility": "Illegible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 2303,
+                "y0": 1633,
+                "x1": 2748,
+                "y1": 1734
+            },
+            "class": "headline",
+            "raw_text": "LA MOTIFS\nCOUGH DROPS.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -2
+        },
+        {
+            "id": 62,
+            "bbox": {
+                "x0": 2198,
+                "y0": 1738,
+                "x1": 2870,
+                "y1": 1800
+            },
+            "class": "author",
+            "raw_text": "VaiaaJie Medicine for Coughs, toao'.mptions and\n\n\n.1ahmas.",
+            "legibility": "Questionable",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 826,
+                "y0": 226,
+                "x1": 1494,
+                "y1": 2083
+            },
+            "class": "article",
+            "raw_text": "After the Goth May next, the Saturday Herald\nprinted at Baltimore, by Mr.. Samuel Sands, will\nchange its present form, being a folio, to quar-\nto sheet, and assume the title OF the \"North A.\nmerican, or Weekly Journal of Politics, Science\nand Literaturc\"-to be issued every Saturday, at\n81 per annum in advance. We have no doubt\nthe North American will be valuable weekly\nJournal, as the proprietor is disposed to spare\nneither pains nor expense to render 1t every way\nentitled to the patronage of liberal public\n\n\nWe will, with pleasure, receive the names OF\nany persons who may feel disposedto patrohi-e\nthe NORTH American.\n\n\nThe s'.lrieL and Ladies' Literary Gareffe, q\nscmi.monthly publication, has just issued from\nthe Philadelphia press, published for the Editor\nby Elwood Walter, No II, Market-st\n\n\nThe ARIEL is intended to be an interesting\nand agreeable companion for the Ladies, devot,\ned to Literature and the Arts; containing sy-\nnopss of all that is passing IN the poiite' INC\nfashionable, and the literary world, with sum\nmary Of news. Original Essays, choice l\"tes'\nselect pieces of Poetry, sketches OF female char\nacter, and other pleasing matter VIII occupy IT'S\npages.\n\n\nThe Editor promises that no labor or expense\nwill be spared to make it q cheap and valuable\nvister in the hands oflltcrary ladies' Measures\nhave been taken to secure the best periodicals. OF\nthe day, from which extracts, calculated to I'M\nprove the female mind, will be freely taken lie\nis determined to make it acceptable to the La\nMes. the uncommonly low price at which It IS\npublished, One Doiiar yearly, must place 1t with\nin every ones reach,\n\n\nIf sufficient patronage is extended, the Arei\nwill be issued ,ceehty, at the end ofthree months\n\n\nThe subscription is payable in advance, and\nall letters must be post paid, and addressed to\nEllwood Walter, No, q, Market-st. Philadcl-\nphis, Who is Agent for the Editor.\n\n\nAny person who viii procure six subscribers,\nand remit the money, shall receive copy gratis,\nfor one year\n\n\nG-fsubscriptions received at this Office",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 918,
+                "y0": 169,
+                "x1": 1394,
+                "y1": 214
+            },
+            "class": "headline",
+            "raw_text": "LITERARY NOTICES.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 208,
+                "y0": 4578,
+                "x1": 866,
+                "y1": 5049
+            },
+            "class": "article",
+            "raw_text": "Pumpkins, if steam boiled, are rich food\nfor swine. the seeds should be taken out. as\nthey prove injurious to these animals. They\nare valuable, as affording an early supply of\nfood for feeding horses and tattening all\nsorts of cattle in the fall and fore part OF the\nwinter, before the rutabaga crop should be\nused.\n\n\nTo save the seed pure, plant the several\nkinds at as great distance from each other\nas possible. The summer and winter squash\nes. if they flower near together, will degen-\ncrate; and the neighborhood of pumpkin\nwill deteriorate the future progeny OF both",
+            "legibility": "Questionable",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 33,
+            "bbox": {
+                "x0": 421,
+                "y0": 4517,
+                "x1": 649,
+                "y1": 4561
+            },
+            "class": "headline",
+            "raw_text": "PUMPKINS.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1519,
+                "y0": 2391,
+                "x1": 2191,
+                "y1": 4379
+            },
+            "class": "article",
+            "raw_text": "AN ORDIN ANCE for the regulation OF the own\n\n\ners, riders, and drivers of carriages, wagons,\ncarts, draws, and horses, within the Borough ot\n\n\nilmington.\n\n\nSEC l. Be IT ordainedby The BurgesseS md Be-\nrough ConcH oc he Bvough IF lpiimington,\nThat from and after the passing OF this ordinance,\nall and every the drivers or driver OF ali stages,\ncoaches, Wagons carts, drays, and other car\nriages of pleasure or bnrthen, driving and passing\nin and through the streets, lanes, or alleys OF this\nborough, shall keep on that side OF the street,\nlane or alley on his or their right hands, respect\nlively, in the passing directions and if amy driver\nof any such carriage, wagon, cart or drav, shall\ndrive the same in the middle Of the street, lane\nor alley, or on the left hand side Of the same, SO\nas to prevent or obstruct another carriage from\npassing along said street, every driver so offend\ning shall forfeit and pay for every such oitence, a\nsum not exceeding five dollars, nor less than one\ndollar, to be recovered with costs, before either\nOf the Rurgesscs, in the same manner as debts\nunder forty shllngs arc by law recoverable, one\nmoe,v whereof shall be for the use of the person\nsuing for the same, and the other moicy shall be\nfor the use of the Borough.\n\n\nSIC. ,. Ind be IL ttriier ordained, That if\nany driver of any such ca,Hiagc, or if any person\nriding upon any horse mare or gelding, shall per\nnit or suffer the beast or beasts he shall so drive\nor ride, TO go in gallop or other imnoderatc\ngait, or shall engage in running or racing III any\nmanner, with the driver or rider otany other car\nragc, horse, mare or gelding, within any of the\nI streets, lanes or alleys Of this Borough, every\nperson so offending, shall forfeit and pay for eve\nry such offence, 4 sum not exceeding Five dol\n/ lars nor less than one dollar, to be recovered\nwith costs, by any person, in the manner and fol\nthe uses herein before mentioned.\n\n\n! Src. 5. ind be ii further ordahed, That if any\nperson shall wlfully permit or suffer any horse\nmarc or gcltling TO 60 at large through any o\nthe Streets lanes or alleys oftlis borough, every\nperson so offending shall forfeit and pay for eve\nry such offence, the sum of one dollar, to be re-\ncovered with costs, by any person, in the man\nner and for the uses herein before mentioned.\n\n\nSEC. A. .and be il further ordained, That tn,\nOrdinance entitled \"An Ordinance to prcven\nthe accidents and dangers that may happen By\npeoples driving their teams out of walk taste\nthan is herein specified, and persons playing a\nlong bullets or any other game whereby there\nmay be damage sustained\" passed OH the thirty\nfirst day of August in the year of our LORD on'\nthousand seven hundred and fifty-one, be, an,\nthe same is hereby repealed, made null and void\n\n\nPassed at the Town Iall-April Z, 1927.\n\n\nJAMES BROBSON, First Burgess.\n(Atcst) J. p. FAIRLAMB,\n\n\nClerk ofHe Borough Council",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2917,
+                "y0": 4983,
+                "x1": 3589,
+                "y1": 5481
+            },
+            "class": "article",
+            "raw_text": "THE Subscriber takes this opportunity to m\nform the public, that the establishment here'o. .-\nfore conducted by fumes Ray, Esq, toSe.ns.\nwith the accounts connected with the business\nof that establishment from the first of January.\n1926. have passed into his handsi and that ne\nwill continue the business in all its branches, q\nthe Old Stand, corner of Tatnall and Queen-si,s; \";\nnear the Friend Meeting House, where he WIZ\nmanufacture and furnish at philadelphia pr'ceS,,\nMould and Dipt CANDLES, Fui'er's, leito~ ana\nBro,vn SOAP, ofthe'best quality.\n\n\nENOCH ROBERTS.\nB. The highest price given tor Ial'oS.\nButchers Fat, and Fat OF every asscfip1io't.\nWilmington, Nov. Is, 1896. b. pm'",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 36,
+            "bbox": {
+                "x0": 2926,
+                "y0": 4926,
+                "x1": 3572,
+                "y1": 4980
+            },
+            "class": "headline",
+            "raw_text": "Soap and Candle Mandatory.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2900,
+                "y0": 3214,
+                "x1": 3589,
+                "y1": 4910
+            },
+            "class": "article",
+            "raw_text": "Patent Fans and SieUes manufactured by\nEdward Brookcs x Son, Orange, between\n\n\nFront and Second streets.\nBernard NJ Guigen, bottles Porter, Ale and\nCider. at No. 81, market-st. and IS, East\n\n\nThird-st.\n\n\nPiough Making and WieelzvrightinS.-\nAbraham Alderdice, corner OF Market and\nWater-st.\n\n\nPainter, Gio=ier and Paher- HanSer..-ben-\njamn Fredd, No l42 King Street.\nIron and Coal U1erchant--Thomas Garrett,\nJr, 80, Shiply-st.\nMaster Brickiayer, and Lime Merehanf.--\nB. w. Brackin, old Lime stand, NO. l''\nwest Broad-st.\n\n\nTanner.-Benjamin Webb, Queen, between\nTatnell and Orange-sts.\nStone Cutters, Albert & James ROBINSON\nNo 1913, market st.\nLottery and Exchange OGce.-Robertson\n& Little, 28, market street.\nJames G. Allen Teacher No. los, Orangc-st,\nabove the Hay Scales.\nThomas c. Alrichs, Fancy Hardware, lin\nand Sheet Iron Manufacturer, corner OF\nmarket and second streets.\nJacob Alrichs, Machine Maker, corner OF\nshiplcy and broad streets.\nIron Foundry-Mahlon Belts, second-st\n\n\nnear the Black Horse tavern\nMorocco .Nanufactory-Robinson's & Co.\n90 market st.\nonpeyancer-Bcnjamin Ferris, at the cor\n\n\nner of West and Third streets.\n]. p. Farlamb, Notary Public, Surveyor OF\nLand, Conveyancer, Regulator OF Streets,\n| &c. No. King street.\nPatent Hay and Grain RaSeS\nJoshua Johnson < son, makers, Pike\n| Greek Mills.\n\n\nNotary Pubhc and Conpeyancfr.--lsaa\n\n\nHendrick son, corner Of French and oee\n\n\nond streets, No. as.\nLipery Stabie-Kept by Huson Swaync' !\"\n\n\nShipley st. above Queen. ~\nChina. 4 lass and QucensSodre Sfore-Da-\n\n\nvid Smyth, 68 market St.\nDruggist q ChemIst.-Joseph BrnshurS''\nI IS market st.",
+            "legibility": "Questionable",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 49,
+            "bbox": {
+                "x0": 2904,
+                "y0": 3049,
+                "x1": 3524,
+                "y1": 3146
+            },
+            "class": "headline",
+            "raw_text": "Bread and Biscuit Bakers.\nMiller Dunott, los Shipley st.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -2
+        },
+        {
+            "id": 48,
+            "bbox": {
+                "x0": 3000,
+                "y0": 3158,
+                "x1": 3498,
+                "y1": 3211
+            },
+            "class": "headline",
+            "raw_text": "MISCELLANEOUS.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 216,
+                "y0": 5140,
+                "x1": 875,
+                "y1": 5502
+            },
+            "class": "article",
+            "raw_text": "Soak seed corn in solution of glau6ers\nsalts, and it will come up three or four days\nsooner than if planted in its natural state,\nand neither worms, nor birds, nor fowls will\nmolest 1.-THE discovery was made by &C\ncident last year, by farmer in Massachu-\nsett., who supposed the salts used were nj\n,re. Not hill of two acres planted with\nseed thus prepared was touched, while at\nleast half Of the adjoining field. planted at\nhe ssma sime, WAS DESTROYED,",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 35,
+            "bbox": {
+                "x0": 404,
+                "y0": 5092,
+                "x1": 684,
+                "y1": 5132
+            },
+            "class": "headline",
+            "raw_text": "TO FARMERS.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2878,
+                "y0": 723,
+                "x1": 3550,
+                "y1": 1103
+            },
+            "class": "article",
+            "raw_text": "Joseph Mendenhall & Co. corner of King\n\n\nand Second streets.\nJoseph c. Gilpin, 46, market st.\nJames & Samuel Brown, 8 High st.\nClement & Gordon, corner of Market and\n\n\nKennel.\n\n\nPeter Horn, corner king and front sts\nJohn Rice, Brandywine, south of bridge.\nSamuel Stroud, corner of front and orange,\nGeorge Winslow, 179 market st.\nJohn Wright, corner of Front and Marke",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 41,
+            "bbox": {
+                "x0": 3039,
+                "y0": 670,
+                "x1": 3393,
+                "y1": 719
+            },
+            "class": "headline",
+            "raw_text": "Grocery Stores.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 892,
+                "y0": 5153,
+                "x1": 1550,
+                "y1": 5481
+            },
+            "class": "article",
+            "raw_text": "All persons indebted to the Estate of\nLAVENDER, deceased\nlate of Newcastle Hundred and County, De-\nlaware, are requested to make immediate\nsettlement, and those having claims against\nsaid estate, are likewise requested to present\nthem, legally attested. to\n\n\nISAAC THOMAS. Admir-.\nChristiana Bridge, April 10, 1897.\n\n\n31-6w.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 63,
+            "bbox": {
+                "x0": 1014,
+                "y0": 4669,
+                "x1": 1385,
+                "y1": 4701
+            },
+            "class": "headline",
+            "raw_text": "BOOTS & SHOES,",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -2
+        },
+        {
+            "id": 32,
+            "bbox": {
+                "x0": 1101,
+                "y0": 5092,
+                "x1": 1328,
+                "y1": 5145
+            },
+            "class": "headline",
+            "raw_text": "NOTICE.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 138,
+                "y0": 675,
+                "x1": 819,
+                "y1": 4527
+            },
+            "class": "article",
+            "raw_text": "FENCES, PASTURES, &c.\n\n\nGive vo,r fences general review, repair\nal i've, cbrs and see that all gates, bars, &c.\n80 rsrularlv shut and fastened. Cattle\nn.,ylv 1et out from the yard and stables IN\nwhich thew have been wintered, are very\nant 70 wander; and if they get habit OF\nrambIing. it is very difficult to contine them.\nSend YOUR boys with bats, malets, or other\nnroper implements, over your moving\nyrouods and pastures, to beat to pieces ana\nSnread over the surface of the soil each and\nevery lump of manure which your cattle\nhave dropped the last season.--Do NOT lc'\nyour cattle, on any account, run upon YOU\nmoving ground in the spring; for the \"'s-\nchic. they will do by poaching the erouhu,\nand biting the young grass 100 ciose' WI, va,\nhe ten fold more than the advantage they VIII\nder;vr from the feed 1t is likewise inJnm-\nm,s to pastures TO turn cattle into them too\nearly in the spring; and most hurtful 10\nthose PASTURES IN which the grass springs\nearliest, as in those which are low and moist.\nThe cattle cut up the sward with theit lee',\nso that it will produce less quantty OF\ngrass. DR.. Deane observed that the 9oth\nOF MAY is early enough to turn cattle INTO\nalmost any of our pastures. out Oh some\nshey should be kept later. The driest pas\nsures should be used first, though IN theHi\nthe grass is shortest, that the poachihS Vi\nthe ground in the wetsest may be prevent\ned\n\n\nLoudon saws \",he time of stocking pas\ntures in spring, must evidently be earlier or\nlater. according to the climate, ana N tne\nsame climate according to the season; and\nshe state of growth which it is desirable\nshat the grass should attain before being\nstocked, must, in some degree be determin-\ned by the condition ana description of the\nanimals to be employed in consuming 1t;\nwhether they are only in growing state or\napproaching to fatness; whether milch cows\nor sheen, or mixture OF animals OF diner\nent species. 1t conveys very precise idea\nrespecting these points, though the remark\nitself is Just, to say that the herhaee shouid\nnot be allowed to rise so high as to permit\nthe coarser plants to run to seed; ana that\n1t is bad management to suffer store STOCK 10\nbe turned upon full bite. The great OBJ\njects to be aimed at are, that the STOCK, Of\nwhatever animals it may consist, should be\ncarried forward faster or slower, according\nTO the purposes Of their owner; and that nc\npart Of the herbage should be allowed to run\n20 waste, or be unproftably consumed\nBut nothing but careful inspection OF the\nland and Of the stock, from time to time, Car\nenable any grazer to judge with certainty\nwhat are the best measures tor ATTAINING\nthee Notwithstanding cattle\" say'\nMarshall, (which are forward In flesh, ant\nare intended to be finished with grass, may\nrequire full bite at first turning out. bu\nCor cows, working oxen, and rearing cattle\nand lean cattle intended to be fatted on grass\na full bite at first turning out is not requisite\n\n\nWith respect to the size of enclosures\n\n\ncsl5 IN nrpfprreU\nlarge ONES for heavy stock. Besides the adj\nyantages of shelter both to the animals ant\nthe herbage, small fields enable the grazie\neither to separate his stock into small par\nGELS, by which means they feed more q\ntheir ease, or to give the best pastures I\nthat portion OF them which he wishes I\ncome earliest to market. The advantage\nof moderate sized enclosures are we'll know\nin the best grazing counties but the subdl\nvisions are in some instances much NOR\nminute than is consistent with the value c\nshe ground occupied with fences, or necessa\nnv for the improvement OF the stock. In a\ncases, says Marshall, where tatting cattle\ndairy cows make part OF the stock, an\nwhere situation, soil and water will PERM\nevery sort os grazing grounds ought IN m\nidea, to consist of three compartments. Or\nfor head stock, (as cows or fatting cattle\none for followers Gas rearing and otner lea\nstock } and the third to be shut up to frest\nen- for the leading stock.\n\n\nLarge enclosures are in general best\ndapt.d for sheep These animals are NJ\nonly impatient of heat, and liable to be muc\ninjured by fiies, in small pastures often SUI\nrounded by trees and high hedges, but the\nare naturally with the exception perhaps\n\n\nthe Leicester variety, much more restle\nand easily disturbed than the other speech\nof live stock. \"Sheep\" says Lord kaime\ns.love wider range and ought to have\nbecause they delight in short grass: gi'\nthem eighty OF ninety acres, and any fen\n\n\nwill keep them in: conhne them to fie\nof seven or eight acres, and it must be v\nry strong fence that keeps them nth\nfields so large as eighty or ninety acres\n\n\nbe advisable only in hilly districts. yet t\n\n\ngeneral rule is consistent with experien'\n\n\nwith regard to all our least domesticated y\n\n\nrieties.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 38,
+            "bbox": {
+                "x0": 247,
+                "y0": 670,
+                "x1": 718,
+                "y1": 715
+            },
+            "class": "headline",
+            "raw_text": "FENCES. PASTURES, &c.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 865,
+                "y0": 4138,
+                "x1": 1533,
+                "y1": 5071
+            },
+            "class": "article",
+            "raw_text": "VINIIE SUBSCRIBER has just received in ad-\nIl dition to his former stock, large assort-\nment of Spring Goods, among which are,\n\n\nCLOTHS and h.ERSE EYNERES,\nSilk, Toinet, Valencia and Marseilles Ncstinss,\nLeventines, Florenses, Gros de Naples, and Lus-\n\n\ntring Silks\n\n\nRavens Duck, Russia and Porter Shectings.\nIrish Linens, Sea Island and Prime N Orleans\n\n\nShirtings.\n\n\nCambria, Jaconct, Swiss and Null Muslns.\nBombazets, Bombazenes, and Norwich Grapes.\nsilk, Cotton and Wooden Hosiery.\nDrilings. Blue and Yellow Nankeens.\n! Cases Leghorn-l do. Straw Bonnets\nAlso, large assortment of\n\n\nBOOTS & SHOES,\n\n\nut the toiloping io,o prices, OiS.\n\n\n2 cases Mems fine Boots, 81 90 per pair\n| do. do Munroes, a79 do.\n\n\ndo. Ladies Valencia Shoes rs do.\n2 do. do. Morocco 62! do.\n! l do. do. Leather, do. SO do.\nJOHN PATTERSON.\n\n\nNIB j. p, has Just received an extensive\nassortment of PAPER H.aNGINGS, of tn,\nnewest patterns.\n\n\nApril, 1927. 3o-3m.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 983,
+                "y0": 4077,
+                "x1": 1411,
+                "y1": 4130
+            },
+            "class": "headline",
+            "raw_text": "SPRING GOODS.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 848,
+                "y0": 2905,
+                "x1": 1511,
+                "y1": 3830
+            },
+            "class": "article",
+            "raw_text": "ft)h II w llANllNG ONlhIN.\n\n\nThe following gentlemen will receive Sub\nscriptions, and money due for the Whining\ntonian. We would particularly request our\nfriends who find il imconvenicnt to make\npayment to us, 70 call on any of the gen.\ntlcmen whose names are below, who will\ngive receipts for the whole amount, OF part,\nof their respective bills.\n\n\nNewark, Mr.. r. Benneson.\nRed Lion, MIR. Robt Rhodes.\nSmyrna, Mr.. Jacob Pennington, r. Nj.\nDover, MIR Aug. NJ. Schee, Y. NJ.\nCamden, Mr, j. 6. Ilardcastlc.\nMilford, Mr.. jno. Wallace.\nPhiladelphia, Mr.. II J. Peppct, No 46\n\n\nChesnut-streot.\n\n\nThe Wilmingtonian is 50 per annum &c\ndistant Subscribers if paid in advance; s. So\nif paid within the year, and S3, il not paid\ntill the expiration Of the year.\n\n\nl5eNo subscribers paper will be discon-\ntinucd, unless two weeks previous notice be\ngiven and all arrears ha,d M,",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 34,
+            "bbox": {
+                "x0": 1027,
+                "y0": 2818,
+                "x1": 1337,
+                "y1": 2876
+            },
+            "class": "headline",
+            "raw_text": "AGENTS",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": -2
+        },
+        {
+            "id": 56,
+            "bbox": {
+                "x0": 892,
+                "y0": 2883,
+                "x1": 1450,
+                "y1": 2924
+            },
+            "class": "headline",
+            "raw_text": "FOR THE WILMINGTONIAN.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": -1
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 2878,
+                "y0": 296,
+                "x1": 3554,
+                "y1": 645
+            },
+            "class": "article",
+            "raw_text": "Chalkly Somers, 4s. Market-strect.\nbuzby * Bassett, 90, market st.\nJohn Patterson, 80 market Street.\nw b. Tomlnson, No. Sc, market Street\nJohn X. Brincklc, corner ofmarke ct & Oucen\n\n\nstreets.\nWilliam M'Caulley, Brandywine, north side\n\n\nof the Bridge.\nAllan Thomson, 43 market st.\nJohn w. Tatum, 80 market st.",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        },
+        {
+            "id": 54,
+            "bbox": {
+                "x0": 2917,
+                "y0": 169,
+                "x1": 3502,
+                "y1": 227
+            },
+            "class": "headline",
+            "raw_text": "GENERAL REGISTER",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": -2
+        },
+        {
+            "id": 53,
+            "bbox": {
+                "x0": 2970,
+                "y0": 243,
+                "x1": 3480,
+                "y1": 292
+            },
+            "class": "headline",
+            "raw_text": "Dry Good Merchants",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": -1
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 857,
+                "y0": 3885,
+                "x1": 1520,
+                "y1": 4043
+            },
+            "class": "article",
+            "raw_text": "In all its variety. executed at the Office of\nthe WILMINGToNIAN, No. 81, Markets.,\non moderate terms. Orders will meet with\nprompt attention.",
+            "legibility": "Legible",
+            "full_article_id": 29,
+            "reading_order_id": 0
+        },
+        {
+            "id": 43,
+            "bbox": {
+                "x0": 966,
+                "y0": 3829,
+                "x1": 1376,
+                "y1": 3878
+            },
+            "class": "headline",
+            "raw_text": "Job Printing,",
+            "legibility": "Legible",
+            "full_article_id": 29,
+            "reading_order_id": -1
+        },
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 2878,
+                "y0": 1176,
+                "x1": 3550,
+                "y1": 1381
+            },
+            "class": "article",
+            "raw_text": "John Matthews. Markets., opposite the\n\n\nMarket house, NJ Castle.\nThcophilus Jones, 81 market st.\nVal. M'Neal & son, 98 and 100 market St.\nWilliam M Neal, i7O king st.\nWilliam White, highest.",
+            "legibility": "Legible",
+            "full_article_id": 32,
+            "reading_order_id": 0
+        },
+        {
+            "id": 47,
+            "bbox": {
+                "x0": 2891,
+                "y0": 1119,
+                "x1": 3519,
+                "y1": 1172
+            },
+            "class": "headline",
+            "raw_text": "Boot and Shoe Manufacturers.",
+            "legibility": "Legible",
+            "full_article_id": 32,
+            "reading_order_id": -1
+        },
+        {
+            "id": 42,
+            "bbox": {
+                "x0": 1549,
+                "y0": 4460,
+                "x1": 2208,
+                "y1": 5019
+            },
+            "class": "article",
+            "raw_text": "THE Subscriber has, in addition to his winter\nstock, added thereto an extensive assortment of\nSpring Goods, among which are,\nCanton Grapes,\nGrape Robes,\nGrape Shawls,\nSwiss, Null, Book and Jaconet Muslins;\nCalicoes and Fashionable Gnghams,\nquarter and quarter Muslins,\nGentlemen and Ladies' Silk and Cotton Hose,\nMarseillcs Valenta and Black Silk Vestings,\nCotton and Thread,\nLaces,\nFigured and Plain Gros de Naples\nBlack Lutestrings,\n\n\ndo Leventine, with all the variety of Silks suit\nable for Ladies' dresses; with the usual assort\nment of",
+            "legibility": "Legible",
+            "full_article_id": 43,
+            "reading_order_id": 0
+        },
+        {
+            "id": 39,
+            "bbox": {
+                "x0": 1654,
+                "y0": 4399,
+                "x1": 2082,
+                "y1": 4453
+            },
+            "class": "headline",
+            "raw_text": "SPRING GOODS.",
+            "legibility": "Legible",
+            "full_article_id": 43,
+            "reading_order_id": -1
+        },
+        {
+            "id": 45,
+            "bbox": {
+                "x0": 2242,
+                "y0": 5136,
+                "x1": 2910,
+                "y1": 5481
+            },
+            "class": "article",
+            "raw_text": "THE SUI scriber tenders his services to the\ncitizens Wilmington, and county of New Castle,\nin the capacity of Surveyor Of Land, and Conyey-\nancer, and hopes from his former experience in\nChester county, and by devoting his attention to\nthat business, that he will be able to give satis-\nfiction to those who may be pleased to employ\nhim. His Office is in Queen street, nearly ops\nposite the Indian Queen tavern.\n\n\nLEA PUSEY.\nWilmington, Cd Mo 26. 1897. o4--tosm.",
+            "legibility": "Legible",
+            "full_article_id": 46,
+            "reading_order_id": 0
+        },
+        {
+            "id": 46,
+            "bbox": {
+                "x0": 2268,
+                "y0": 5027,
+                "x1": 2875,
+                "y1": 5123
+            },
+            "class": "headline",
+            "raw_text": "Surveying OF AanA, and\nCONVEYANCING.",
+            "legibility": "Legible",
+            "full_article_id": 46,
+            "reading_order_id": -1
+        },
+        {
+            "id": 55,
+            "bbox": {
+                "x0": 848,
+                "y0": 2722,
+                "x1": 1511,
+                "y1": 2797
+            },
+            "class": "article",
+            "raw_text": "Greatest deg. Greatest deg. Of\n\n\nIS Of cold, 81. heat, 70.",
+            "legibility": "Legible",
+            "full_article_id": 56,
+            "reading_order_id": 0
+        },
+        {
+            "id": 59,
+            "bbox": {
+                "x0": 1558,
+                "y0": 5053,
+                "x1": 2226,
+                "y1": 5359
+            },
+            "class": "article",
+            "raw_text": "OOII1Os5O4O &sON<O3\nsuch as plaids, Stripes, Drillings, Pittsburgh\nCords, &c.\n\n\nAlso an assortment of COMBS. Large\nTortoise shell back, neck, and side combs, with\nfull assortment of Spanish shell and common\nmock shell combs, which will be sold on the\nmost reasonable terms.\nWIN, B. TOMLINSON,\nApril 10. ST. No. sc, Market-st",
+            "legibility": "Legible",
+            "full_article_id": 60,
+            "reading_order_id": 0
+        },
+        {
+            "id": 64,
+            "bbox": {
+                "x0": 1645,
+                "y0": 5022,
+                "x1": 2147,
+                "y1": 5071
+            },
+            "class": "headline",
+            "raw_text": "Domestic Goods,",
+            "legibility": "Legible",
+            "full_article_id": 60,
+            "reading_order_id": -1
+        },
+        {
+            "id": 65,
+            "bbox": {
+                "x0": 1515,
+                "y0": 2387,
+                "x1": 2178,
+                "y1": 2518
+            },
+            "class": "article",
+            "raw_text": "AN ORDINANCE for the regulation OF the own\ners, riders, and drivers Of carriages, Wagons,\ncarts, draws, and horses, within the Borough OF\n\" Wilmington.",
+            "legibility": "Questionable",
+            "full_article_id": 66,
+            "reading_order_id": 0
+        },
+        {
+            "id": 60,
+            "bbox": {
+                "x0": 1545,
+                "y0": 2273,
+                "x1": 1685,
+                "y1": 2305
+            },
+            "class": "author",
+            "raw_text": "March %.",
+            "legibility": "Legible",
+            "full_article_id": 66,
+            "reading_order_id": -2
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 1610,
+                "y0": 2321,
+                "x1": 2060,
+                "y1": 2379
+            },
+            "class": "headline",
+            "raw_text": "CRDIN .ANCE.",
+            "legibility": "Legible",
+            "full_article_id": 66,
+            "reading_order_id": -1
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                40,
+                50,
+                0
+            ],
+            "headline": "Bartram's Botanic Garden,",
+            "article": "| The Subscriber respectfully informs the Pub\nhc that he has now for sale, ut reduced priees,\n| very extensive assortment Of the finest\n| FRUIT TREES,\nORNAMENTAL TREES, AND\n| SHRUBS;\n\n\nGREEN HOUSE PLANTS,\nHARDY HERBACEOUS PLANTS,\n| BULBOUS ROOTS,\n| GRAPE VINES, &c. &c.\n| Among the Fruit Trees are scvera! hundred OF\nthe finest PEAR, PLUM, and APRICOT Trees\n| imported by the subscriber last spring, direct\nfrom one of the first Nurseries of Paris. They\nare of large size, and in excellent order for\nplanting out\n\n\nAlso, fine large CHERRY and PEACH Trees.\n| 10000 fine healthy APPLE Trees.\n| 5000 GRAPE VINES, Of 100 vartics-Strong\n| healthy plants, cultivated in pots, and tit to\nplant ont with safety.\n\n\nThe GREEN HOUSE collection amounts to\nnearly 10000 plants, in pots and tubs, and m\ncludcs all the varieties of elegant Enthusiastically\ncultivated, Amongst the number are upwards\nof 400 Camclas of 2l varieties, 600 Cape Jas\nmines of several varieties, Green and Bohca Tea\nTrees, White Moss Roses, Tea Scented Roses,\n&c.\n\n\nThe GRAPE VINES arc particularly desery\ning the attention of the public as the collection\nincludes nearly all the finest Grapes of France\nand Germany, that will stand this climate, with\nnumber of fine Hungarian Grapes from Tokay,\nimported for the subscribcr and which produced,\nlast season, the most delicious fruit, they are per-\ntectly hardy, and bear well.\nCuttings of the Bland or Poval Grape Vine\nand of the fine Wine Grape, called Alexander or\nScuUYLKILL MuscADrI (also called SPaisGMILL\nCoxsrAsrIA) for sale at fifty cents per dozen,\ntwo dollars per hundred or fifteen dollars per\n1000.\n\n\nTie .7ppie Trees and Grape FINES are equal a.\nquality 10 aay importtd fran he Long Biaad Mr.\nseyiey und are sold one Mird cheaper than The pri-\nces cbmged By those Nurseries,\n\n\nCatalogues may be had at either of the follow\ning places, vz:-Ah!crman &. nartram's, No %\nsouth Second Street; Thomas Lloyd's corner OF\nMarket and Eght-streets; at the Stall, NO\n! 49, opposite Decatur street, or at stall, No D,\nNew Market, below Pine streets; at either OF\nwhich places orders may he left and all orders,\nper mail, or otherwise, will be promptly attend\ned 10, and the articles delivered i'll Philadephia,\nor shipped to order.\n\n\nStrangers visiting Philadelphia, are respect\nI fuly invited to ricw the Garden, which is sltuat-\ned on the west bank of ,he Schuylkill, halt a\nmile below Gray's Ferry, A miles from the Cen\ntire Square.\n\n\nROBERT CARR.\nMarch % 28-4t.",
+            "byline": "Near PHILADELPHIA.",
+            "bbox_list": [
+                {
+                    "x0": 1554,
+                    "y0": 161,
+                    "x1": 2134,
+                    "y1": 214
+                },
+                {
+                    "x0": 1684,
+                    "y0": 222,
+                    "x1": 2003,
+                    "y1": 253
+                },
+                {
+                    "x0": 1497,
+                    "y0": 265,
+                    "x1": 2178,
+                    "y1": 2309
+                }
+            ],
+            "bbox": [
+                1497,
+                161,
+                2178,
+                2309
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-05-03_p4_sn85042523_00271740244_1827050301_0779.json"
+        },
+        {
+            "object_ids": [
+                37,
+                58,
+                1
+            ],
+            "headline": "Young Ladies' Boarding School,\n\nA1 wu ,uNGTnN, DELAWARE.",
+            "article": "Az OINs DIA1n \" hN''\n\n\nUnder the superintendence and instruction OF\nWILLIAM SHERER, assisted by accomplished\nfemale teachers.\n\n\nThe course of instruction pursued at TINS sem\n;,,r,- comprises all the useful, and most OF the\nornamental branches of female education. The\ndaily exercises are photography, Reading, Writ\n;nr. Arithmetic, English Grammar, Rhetoric;\nGeography and History, ancient and modern,\nwith constant reference to the best maps and\ncharts: Construction of maps; use OF the Globes;\nNatural History; Natural Philosophy, including\nAstronomy and Chemistry, Elements ot Moral\nScience\n\n\nTfeekiD Egerc;Ses. --Biblical Rccitations; Evi-\ndences OF Christianity; Letter Writing, and 9TH\ner species of Composition; Recapitulatlons\n\n\nTrims .-Board and tuition, in any OF the fore.\ngoing branches, $685. per quarter; or, IT paid\nin advance, $50. Music, including the use OF\npiano, Sl2, French, by one OF the best masters,\nSc per quarter. Moderate extra charges for\nDrawing and other ornamental branches\n\n\nThe discipline of the school is mild, parental,\nand christian Particular attention is paid not\nonly to the manners of the young ladies', but to\ntheir moral and religious instruction. They are\nregularly conducted to such places OF worship\nand Sunday Schools as their parents and guar\ndians approve. Exercise and recreation, beng\nessential to the preservation OF health and OF\nmental energy, occupy the intervals of time not\ndevoted to study The institution, in all its de-\npartmcnts, is conducted in manner which it\nis hoped, will meet the entire appreciation OF its\npatrons.\n\n\nReferences - -IKlmiagion--Iev. L. W. Gil\nbert; Hon. W. Hall; Hon. Louis MIane: Phild-\nd,iphia--Rcv. Dr. Wilson, Rev. DIR Janeway\nMr.. William Janvier, Merchant, James G..\nThompson, Esq. Professor of Languages, Uni\nversity of Pennsylvania.\n\n\nMarch IS, 1927 26-3m",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2194,
+                    "y0": 143,
+                    "x1": 2853,
+                    "y1": 205
+                },
+                {
+                    "x0": 2207,
+                    "y0": 204,
+                    "x1": 2788,
+                    "y1": 236
+                },
+                {
+                    "x0": 2190,
+                    "y0": 226,
+                    "x1": 2862,
+                    "y1": 1621
+                }
+            ],
+            "bbox": [
+                2190,
+                143,
+                2862,
+                1621
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-05-03_p4_sn85042523_00271740244_1827050301_0779.json"
+        },
+        {
+            "object_ids": [
+                27,
+                2
+            ],
+            "headline": "WOOL CARDING.",
+            "article": "S7OHN BANCROFT, having removed from\n\n\n- Brandywine Bridge, to Providence Facto-\nry, Delaware Co. Pa, takes this means to in\nform his friends and the public generally. that\nhe there continues the Carding of Wool, for all\nthose who are pleased To favor him with their\ncustom; and that he hopes by strict atte ntion and\npunctuality, to merit continuance of pub\nlie patronage lie also takes this opportunity\nto inform those to whose favor he was indebted\nfor work in this line, while at Brandywinc Bridge\nthat all wool left orhm to card, at ohm Torbert's\nStore, or at the soap Factory of Trainton & Ban\ncroft, Wilmington, or at VIM. MCauley's Store,\nBrandy zine, will he taken from thence once cv-\ncry week, and, being carded, will be punctualy\nretuned the week following; hoping, by the a\nbove arrangement, and punctually i'll the return\nand good performance of the work confded to\nhim, they may be induced to continue their IA\nYOURS.\n\n\n4lh mo. S, 1897. 29-5m.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2294,
+                    "y0": 3650,
+                    "x1": 2775,
+                    "y1": 3699
+                },
+                {
+                    "x0": 2216,
+                    "y0": 3711,
+                    "x1": 2892,
+                    "y1": 4392
+                }
+            ],
+            "bbox": [
+                2216,
+                3650,
+                2892,
+                4392
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-05-03_p4_sn85042523_00271740244_1827050301_0779.json"
+        },
+        {
+            "object_ids": [
+                26,
+                62,
+                3
+            ],
+            "headline": "LA MOTIFS\nCOUGH DROPS.",
+            "article": "pdtaa6lc 4Htdtctne t0r coughs, CoaSeWpttoaS anu\n\n\n.1Sthmds.\n\n\nThis Elixir is offered to the public as pos\nscssiug virtues peculiarly adapted to the present\nprevailing disorders Of the breast and lungs,\nleading to consumption. timely use OF these\ndrops may be considered certain cure in most\ncases of Common Colds, Coughs, Influenza,\nHooping Cough, Pain in the SIDE, Difficulty Of\nBreathing, Ham IF Sleep arising from debility,\nand in Smas modic isthnio, it is slngulary etfica-\ncous. particular attention to the directions\naccompanying each bottle is necessary.\n\n\nThe following certificates from respectable\ngentlemen, Physicians and Surgeons are sub join-\ned, to show that this composition is one which\nMedical men are disposed to regards as eiiicacious\nand worthy of public patronage.\n\n\nHaving eSamired the composition Of la\nMorris Go gh Drops, lmproAed, VIC have no\nhesitation. IN recommending them to the public,\nas being we'll adapted TO those cases OF disease\nfor which they are recommended.\n\n\nDoctors JOS, ,ruA> Dom, Albany Dec 4, 1894;\nJAMts P0sr, OF White Greek, Feb. 1ith 1925\n\n\nNAlsoS SUMNER, Of Cambridge, Feb. Goth,\n\n\n1925; SOLOMON DIAs, Of Jackson, January 20,\n1925.\n\n\nEriruci ofa LETTER from Rec. EJtne.ey Harris.\n\n\nam pleased @ithfis opportunity of relating\nq few facts which may serve i'll commendation OF\n| y CIR excellent Cough Drops. For ten years l\nwas aHlcteu WIN puHnoiluTy coHlPiaiilti my\ncough was severe, my appetite weak, and\nstrength falling. used many popular medl-\ncincs, but only found temporary relief, until by\ncontinued use ofyour valuable Drops, have\nbeen blessed with such perfect health as to rem.\n/ der further means unnecessary.\n\n\nEBENEzER HARRIS.\n! Salem ~ y. Jan 10, 1925\n\n\n! iLeSSrs Crosby'S.-l have for l8 years beer\ntroubled with an affection ofthe breast and lungs\nattended with severe cough, pain in the side\nand difficulty of breathing; and in the fall ofl S25\n| became SO much reduced that my life was des\npaired of; and receiving no visible benefit iron\n] my physician, was advised to make trial OF L.\nMotifs Cough Drops and after taking one bottl\nwas restored to perfect health; and is my firm\nbelief, that the use Of the above named drops\nsaved my life. THOMAS JONES.\n\n\nColumbus, ohio, JulY -, 1926.\n\n\nSold wholesale and retail BY o. & S. Crosby\nColumbus, Ohio, and agents Of their appointing\nthroughout the United States and Canada, &c.\n\n\nEach bottle contains As doses, price 81\nUJSold in Wilmington by JosEPn BRINGHuns,\nDruggist aud Chemist, 81, Market-st.\nMarch, 8-25--t6m",
+            "byline": "VaiaaJie Medicine for Coughs, toao'.mptions and\n\n\n.1ahmas.",
+            "bbox_list": [
+                {
+                    "x0": 2303,
+                    "y0": 1633,
+                    "x1": 2748,
+                    "y1": 1734
+                },
+                {
+                    "x0": 2198,
+                    "y0": 1738,
+                    "x1": 2870,
+                    "y1": 1800
+                },
+                {
+                    "x0": 2190,
+                    "y0": 1746,
+                    "x1": 2875,
+                    "y1": 3638
+                }
+            ],
+            "bbox": [
+                2190,
+                1633,
+                2875,
+                3638
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-05-03_p4_sn85042523_00271740244_1827050301_0779.json"
+        },
+        {
+            "object_ids": [
+                30,
+                4
+            ],
+            "headline": "LITERARY NOTICES.",
+            "article": "After the Goth May next, the Saturday Herald\nprinted at Baltimore, by Mr.. Samuel Sands, will\nchange its present form, being a folio, to quar-\nto sheet, and assume the title OF the \"North A.\nmerican, or Weekly Journal of Politics, Science\nand Literaturc\"-to be issued every Saturday, at\n81 per annum in advance. We have no doubt\nthe North American will be valuable weekly\nJournal, as the proprietor is disposed to spare\nneither pains nor expense to render 1t every way\nentitled to the patronage of liberal public\n\n\nWe will, with pleasure, receive the names OF\nany persons who may feel disposedto patrohi-e\nthe NORTH American.\n\n\nThe s'.lrieL and Ladies' Literary Gareffe, q\nscmi.monthly publication, has just issued from\nthe Philadelphia press, published for the Editor\nby Elwood Walter, No II, Market-st\n\n\nThe ARIEL is intended to be an interesting\nand agreeable companion for the Ladies, devot,\ned to Literature and the Arts; containing sy-\nnopss of all that is passing IN the poiite' INC\nfashionable, and the literary world, with sum\nmary Of news. Original Essays, choice l\"tes'\nselect pieces of Poetry, sketches OF female char\nacter, and other pleasing matter VIII occupy IT'S\npages.\n\n\nThe Editor promises that no labor or expense\nwill be spared to make it q cheap and valuable\nvister in the hands oflltcrary ladies' Measures\nhave been taken to secure the best periodicals. OF\nthe day, from which extracts, calculated to I'M\nprove the female mind, will be freely taken lie\nis determined to make it acceptable to the La\nMes. the uncommonly low price at which It IS\npublished, One Doiiar yearly, must place 1t with\nin every ones reach,\n\n\nIf sufficient patronage is extended, the Arei\nwill be issued ,ceehty, at the end ofthree months\n\n\nThe subscription is payable in advance, and\nall letters must be post paid, and addressed to\nEllwood Walter, No, q, Market-st. Philadcl-\nphis, Who is Agent for the Editor.\n\n\nAny person who viii procure six subscribers,\nand remit the money, shall receive copy gratis,\nfor one year\n\n\nG-fsubscriptions received at this Office",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 918,
+                    "y0": 169,
+                    "x1": 1394,
+                    "y1": 214
+                },
+                {
+                    "x0": 826,
+                    "y0": 226,
+                    "x1": 1494,
+                    "y1": 2083
+                }
+            ],
+            "bbox": [
+                826,
+                169,
+                1494,
+                2083
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-05-03_p4_sn85042523_00271740244_1827050301_0779.json"
+        },
+        {
+            "object_ids": [
+                33,
+                5
+            ],
+            "headline": "PUMPKINS.",
+            "article": "Pumpkins, if steam boiled, are rich food\nfor swine. the seeds should be taken out. as\nthey prove injurious to these animals. They\nare valuable, as affording an early supply of\nfood for feeding horses and tattening all\nsorts of cattle in the fall and fore part OF the\nwinter, before the rutabaga crop should be\nused.\n\n\nTo save the seed pure, plant the several\nkinds at as great distance from each other\nas possible. The summer and winter squash\nes. if they flower near together, will degen-\ncrate; and the neighborhood of pumpkin\nwill deteriorate the future progeny OF both",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 421,
+                    "y0": 4517,
+                    "x1": 649,
+                    "y1": 4561
+                },
+                {
+                    "x0": 208,
+                    "y0": 4578,
+                    "x1": 866,
+                    "y1": 5049
+                }
+            ],
+            "bbox": [
+                208,
+                4517,
+                866,
+                5049
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-05-03_p4_sn85042523_00271740244_1827050301_0779.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "AN ORDIN ANCE for the regulation OF the own\n\n\ners, riders, and drivers of carriages, wagons,\ncarts, draws, and horses, within the Borough ot\n\n\nilmington.\n\n\nSEC l. Be IT ordainedby The BurgesseS md Be-\nrough ConcH oc he Bvough IF lpiimington,\nThat from and after the passing OF this ordinance,\nall and every the drivers or driver OF ali stages,\ncoaches, Wagons carts, drays, and other car\nriages of pleasure or bnrthen, driving and passing\nin and through the streets, lanes, or alleys OF this\nborough, shall keep on that side OF the street,\nlane or alley on his or their right hands, respect\nlively, in the passing directions and if amy driver\nof any such carriage, wagon, cart or drav, shall\ndrive the same in the middle Of the street, lane\nor alley, or on the left hand side Of the same, SO\nas to prevent or obstruct another carriage from\npassing along said street, every driver so offend\ning shall forfeit and pay for every such oitence, a\nsum not exceeding five dollars, nor less than one\ndollar, to be recovered with costs, before either\nOf the Rurgesscs, in the same manner as debts\nunder forty shllngs arc by law recoverable, one\nmoe,v whereof shall be for the use of the person\nsuing for the same, and the other moicy shall be\nfor the use of the Borough.\n\n\nSIC. ,. Ind be IL ttriier ordained, That if\nany driver of any such ca,Hiagc, or if any person\nriding upon any horse mare or gelding, shall per\nnit or suffer the beast or beasts he shall so drive\nor ride, TO go in gallop or other imnoderatc\ngait, or shall engage in running or racing III any\nmanner, with the driver or rider otany other car\nragc, horse, mare or gelding, within any of the\nI streets, lanes or alleys Of this Borough, every\nperson so offending, shall forfeit and pay for eve\nry such offence, 4 sum not exceeding Five dol\n/ lars nor less than one dollar, to be recovered\nwith costs, by any person, in the manner and fol\nthe uses herein before mentioned.\n\n\n! Src. 5. ind be ii further ordahed, That if any\nperson shall wlfully permit or suffer any horse\nmarc or gcltling TO 60 at large through any o\nthe Streets lanes or alleys oftlis borough, every\nperson so offending shall forfeit and pay for eve\nry such offence, the sum of one dollar, to be re-\ncovered with costs, by any person, in the man\nner and for the uses herein before mentioned.\n\n\nSEC. A. .and be il further ordained, That tn,\nOrdinance entitled \"An Ordinance to prcven\nthe accidents and dangers that may happen By\npeoples driving their teams out of walk taste\nthan is herein specified, and persons playing a\nlong bullets or any other game whereby there\nmay be damage sustained\" passed OH the thirty\nfirst day of August in the year of our LORD on'\nthousand seven hundred and fifty-one, be, an,\nthe same is hereby repealed, made null and void\n\n\nPassed at the Town Iall-April Z, 1927.\n\n\nJAMES BROBSON, First Burgess.\n(Atcst) J. p. FAIRLAMB,\n\n\nClerk ofHe Borough Council",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1519,
+                    "y0": 2391,
+                    "x1": 2191,
+                    "y1": 4379
+                }
+            ],
+            "bbox": [
+                1519,
+                2391,
+                2191,
+                4379
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-05-03_p4_sn85042523_00271740244_1827050301_0779.json"
+        },
+        {
+            "object_ids": [
+                36,
+                7
+            ],
+            "headline": "Soap and Candle Mandatory.",
+            "article": "THE Subscriber takes this opportunity to m\nform the public, that the establishment here'o. .-\nfore conducted by fumes Ray, Esq, toSe.ns.\nwith the accounts connected with the business\nof that establishment from the first of January.\n1926. have passed into his handsi and that ne\nwill continue the business in all its branches, q\nthe Old Stand, corner of Tatnall and Queen-si,s; \";\nnear the Friend Meeting House, where he WIZ\nmanufacture and furnish at philadelphia pr'ceS,,\nMould and Dipt CANDLES, Fui'er's, leito~ ana\nBro,vn SOAP, ofthe'best quality.\n\n\nENOCH ROBERTS.\nB. The highest price given tor Ial'oS.\nButchers Fat, and Fat OF every asscfip1io't.\nWilmington, Nov. Is, 1896. b. pm'",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2926,
+                    "y0": 4926,
+                    "x1": 3572,
+                    "y1": 4980
+                },
+                {
+                    "x0": 2917,
+                    "y0": 4983,
+                    "x1": 3589,
+                    "y1": 5481
+                }
+            ],
+            "bbox": [
+                2917,
+                4926,
+                3589,
+                5481
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-05-03_p4_sn85042523_00271740244_1827050301_0779.json"
+        },
+        {
+            "object_ids": [
+                49,
+                48,
+                8
+            ],
+            "headline": "Bread and Biscuit Bakers.\nMiller Dunott, los Shipley st.\n\nMISCELLANEOUS.",
+            "article": "Patent Fans and SieUes manufactured by\nEdward Brookcs x Son, Orange, between\n\n\nFront and Second streets.\nBernard NJ Guigen, bottles Porter, Ale and\nCider. at No. 81, market-st. and IS, East\n\n\nThird-st.\n\n\nPiough Making and WieelzvrightinS.-\nAbraham Alderdice, corner OF Market and\nWater-st.\n\n\nPainter, Gio=ier and Paher- HanSer..-ben-\njamn Fredd, No l42 King Street.\nIron and Coal U1erchant--Thomas Garrett,\nJr, 80, Shiply-st.\nMaster Brickiayer, and Lime Merehanf.--\nB. w. Brackin, old Lime stand, NO. l''\nwest Broad-st.\n\n\nTanner.-Benjamin Webb, Queen, between\nTatnell and Orange-sts.\nStone Cutters, Albert & James ROBINSON\nNo 1913, market st.\nLottery and Exchange OGce.-Robertson\n& Little, 28, market street.\nJames G. Allen Teacher No. los, Orangc-st,\nabove the Hay Scales.\nThomas c. Alrichs, Fancy Hardware, lin\nand Sheet Iron Manufacturer, corner OF\nmarket and second streets.\nJacob Alrichs, Machine Maker, corner OF\nshiplcy and broad streets.\nIron Foundry-Mahlon Belts, second-st\n\n\nnear the Black Horse tavern\nMorocco .Nanufactory-Robinson's & Co.\n90 market st.\nonpeyancer-Bcnjamin Ferris, at the cor\n\n\nner of West and Third streets.\n]. p. Farlamb, Notary Public, Surveyor OF\nLand, Conveyancer, Regulator OF Streets,\n| &c. No. King street.\nPatent Hay and Grain RaSeS\nJoshua Johnson < son, makers, Pike\n| Greek Mills.\n\n\nNotary Pubhc and Conpeyancfr.--lsaa\n\n\nHendrick son, corner Of French and oee\n\n\nond streets, No. as.\nLipery Stabie-Kept by Huson Swaync' !\"\n\n\nShipley st. above Queen. ~\nChina. 4 lass and QucensSodre Sfore-Da-\n\n\nvid Smyth, 68 market St.\nDruggist q ChemIst.-Joseph BrnshurS''\nI IS market st.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2904,
+                    "y0": 3049,
+                    "x1": 3524,
+                    "y1": 3146
+                },
+                {
+                    "x0": 3000,
+                    "y0": 3158,
+                    "x1": 3498,
+                    "y1": 3211
+                },
+                {
+                    "x0": 2900,
+                    "y0": 3214,
+                    "x1": 3589,
+                    "y1": 4910
+                }
+            ],
+            "bbox": [
+                2900,
+                3049,
+                3589,
+                4910
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-05-03_p4_sn85042523_00271740244_1827050301_0779.json"
+        },
+        {
+            "object_ids": [
+                35,
+                9
+            ],
+            "headline": "TO FARMERS.",
+            "article": "Soak seed corn in solution of glau6ers\nsalts, and it will come up three or four days\nsooner than if planted in its natural state,\nand neither worms, nor birds, nor fowls will\nmolest 1.-THE discovery was made by &C\ncident last year, by farmer in Massachu-\nsett., who supposed the salts used were nj\n,re. Not hill of two acres planted with\nseed thus prepared was touched, while at\nleast half Of the adjoining field. planted at\nhe ssma sime, WAS DESTROYED,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 404,
+                    "y0": 5092,
+                    "x1": 684,
+                    "y1": 5132
+                },
+                {
+                    "x0": 216,
+                    "y0": 5140,
+                    "x1": 875,
+                    "y1": 5502
+                }
+            ],
+            "bbox": [
+                216,
+                5092,
+                875,
+                5502
+            ],
+            "full_article_id": 10,
+            "id": "10_1827-05-03_p4_sn85042523_00271740244_1827050301_0779.json"
+        },
+        {
+            "object_ids": [
+                41,
+                10
+            ],
+            "headline": "Grocery Stores.",
+            "article": "Joseph Mendenhall & Co. corner of King\n\n\nand Second streets.\nJoseph c. Gilpin, 46, market st.\nJames & Samuel Brown, 8 High st.\nClement & Gordon, corner of Market and\n\n\nKennel.\n\n\nPeter Horn, corner king and front sts\nJohn Rice, Brandywine, south of bridge.\nSamuel Stroud, corner of front and orange,\nGeorge Winslow, 179 market st.\nJohn Wright, corner of Front and Marke",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3039,
+                    "y0": 670,
+                    "x1": 3393,
+                    "y1": 719
+                },
+                {
+                    "x0": 2878,
+                    "y0": 723,
+                    "x1": 3550,
+                    "y1": 1103
+                }
+            ],
+            "bbox": [
+                2878,
+                670,
+                3550,
+                1103
+            ],
+            "full_article_id": 11,
+            "id": "11_1827-05-03_p4_sn85042523_00271740244_1827050301_0779.json"
+        },
+        {
+            "object_ids": [
+                63,
+                32,
+                11
+            ],
+            "headline": "BOOTS & SHOES,\n\nNOTICE.",
+            "article": "All persons indebted to the Estate of\nLAVENDER, deceased\nlate of Newcastle Hundred and County, De-\nlaware, are requested to make immediate\nsettlement, and those having claims against\nsaid estate, are likewise requested to present\nthem, legally attested. to\n\n\nISAAC THOMAS. Admir-.\nChristiana Bridge, April 10, 1897.\n\n\n31-6w.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1014,
+                    "y0": 4669,
+                    "x1": 1385,
+                    "y1": 4701
+                },
+                {
+                    "x0": 1101,
+                    "y0": 5092,
+                    "x1": 1328,
+                    "y1": 5145
+                },
+                {
+                    "x0": 892,
+                    "y0": 5153,
+                    "x1": 1550,
+                    "y1": 5481
+                }
+            ],
+            "bbox": [
+                892,
+                4669,
+                1550,
+                5481
+            ],
+            "full_article_id": 12,
+            "id": "12_1827-05-03_p4_sn85042523_00271740244_1827050301_0779.json"
+        },
+        {
+            "object_ids": [
+                38,
+                12
+            ],
+            "headline": "FENCES. PASTURES, &c.",
+            "article": "FENCES, PASTURES, &c.\n\n\nGive vo,r fences general review, repair\nal i've, cbrs and see that all gates, bars, &c.\n80 rsrularlv shut and fastened. Cattle\nn.,ylv 1et out from the yard and stables IN\nwhich thew have been wintered, are very\nant 70 wander; and if they get habit OF\nrambIing. it is very difficult to contine them.\nSend YOUR boys with bats, malets, or other\nnroper implements, over your moving\nyrouods and pastures, to beat to pieces ana\nSnread over the surface of the soil each and\nevery lump of manure which your cattle\nhave dropped the last season.--Do NOT lc'\nyour cattle, on any account, run upon YOU\nmoving ground in the spring; for the \"'s-\nchic. they will do by poaching the erouhu,\nand biting the young grass 100 ciose' WI, va,\nhe ten fold more than the advantage they VIII\nder;vr from the feed 1t is likewise inJnm-\nm,s to pastures TO turn cattle into them too\nearly in the spring; and most hurtful 10\nthose PASTURES IN which the grass springs\nearliest, as in those which are low and moist.\nThe cattle cut up the sward with theit lee',\nso that it will produce less quantty OF\ngrass. DR.. Deane observed that the 9oth\nOF MAY is early enough to turn cattle INTO\nalmost any of our pastures. out Oh some\nshey should be kept later. The driest pas\nsures should be used first, though IN theHi\nthe grass is shortest, that the poachihS Vi\nthe ground in the wetsest may be prevent\ned\n\n\nLoudon saws \",he time of stocking pas\ntures in spring, must evidently be earlier or\nlater. according to the climate, ana N tne\nsame climate according to the season; and\nshe state of growth which it is desirable\nshat the grass should attain before being\nstocked, must, in some degree be determin-\ned by the condition ana description of the\nanimals to be employed in consuming 1t;\nwhether they are only in growing state or\napproaching to fatness; whether milch cows\nor sheen, or mixture OF animals OF diner\nent species. 1t conveys very precise idea\nrespecting these points, though the remark\nitself is Just, to say that the herhaee shouid\nnot be allowed to rise so high as to permit\nthe coarser plants to run to seed; ana that\n1t is bad management to suffer store STOCK 10\nbe turned upon full bite. The great OBJ\njects to be aimed at are, that the STOCK, Of\nwhatever animals it may consist, should be\ncarried forward faster or slower, according\nTO the purposes Of their owner; and that nc\npart Of the herbage should be allowed to run\n20 waste, or be unproftably consumed\nBut nothing but careful inspection OF the\nland and Of the stock, from time to time, Car\nenable any grazer to judge with certainty\nwhat are the best measures tor ATTAINING\nthee Notwithstanding cattle\" say'\nMarshall, (which are forward In flesh, ant\nare intended to be finished with grass, may\nrequire full bite at first turning out. bu\nCor cows, working oxen, and rearing cattle\nand lean cattle intended to be fatted on grass\na full bite at first turning out is not requisite\n\n\nWith respect to the size of enclosures\n\n\ncsl5 IN nrpfprreU\nlarge ONES for heavy stock. Besides the adj\nyantages of shelter both to the animals ant\nthe herbage, small fields enable the grazie\neither to separate his stock into small par\nGELS, by which means they feed more q\ntheir ease, or to give the best pastures I\nthat portion OF them which he wishes I\ncome earliest to market. The advantage\nof moderate sized enclosures are we'll know\nin the best grazing counties but the subdl\nvisions are in some instances much NOR\nminute than is consistent with the value c\nshe ground occupied with fences, or necessa\nnv for the improvement OF the stock. In a\ncases, says Marshall, where tatting cattle\ndairy cows make part OF the stock, an\nwhere situation, soil and water will PERM\nevery sort os grazing grounds ought IN m\nidea, to consist of three compartments. Or\nfor head stock, (as cows or fatting cattle\none for followers Gas rearing and otner lea\nstock } and the third to be shut up to frest\nen- for the leading stock.\n\n\nLarge enclosures are in general best\ndapt.d for sheep These animals are NJ\nonly impatient of heat, and liable to be muc\ninjured by fiies, in small pastures often SUI\nrounded by trees and high hedges, but the\nare naturally with the exception perhaps\n\n\nthe Leicester variety, much more restle\nand easily disturbed than the other speech\nof live stock. \"Sheep\" says Lord kaime\ns.love wider range and ought to have\nbecause they delight in short grass: gi'\nthem eighty OF ninety acres, and any fen\n\n\nwill keep them in: conhne them to fie\nof seven or eight acres, and it must be v\nry strong fence that keeps them nth\nfields so large as eighty or ninety acres\n\n\nbe advisable only in hilly districts. yet t\n\n\ngeneral rule is consistent with experien'\n\n\nwith regard to all our least domesticated y\n\n\nrieties.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 247,
+                    "y0": 670,
+                    "x1": 718,
+                    "y1": 715
+                },
+                {
+                    "x0": 138,
+                    "y0": 675,
+                    "x1": 819,
+                    "y1": 4527
+                }
+            ],
+            "bbox": [
+                138,
+                670,
+                819,
+                4527
+            ],
+            "full_article_id": 13,
+            "id": "13_1827-05-03_p4_sn85042523_00271740244_1827050301_0779.json"
+        },
+        {
+            "object_ids": [
+                29,
+                13
+            ],
+            "headline": "SPRING GOODS.",
+            "article": "VINIIE SUBSCRIBER has just received in ad-\nIl dition to his former stock, large assort-\nment of Spring Goods, among which are,\n\n\nCLOTHS and h.ERSE EYNERES,\nSilk, Toinet, Valencia and Marseilles Ncstinss,\nLeventines, Florenses, Gros de Naples, and Lus-\n\n\ntring Silks\n\n\nRavens Duck, Russia and Porter Shectings.\nIrish Linens, Sea Island and Prime N Orleans\n\n\nShirtings.\n\n\nCambria, Jaconct, Swiss and Null Muslns.\nBombazets, Bombazenes, and Norwich Grapes.\nsilk, Cotton and Wooden Hosiery.\nDrilings. Blue and Yellow Nankeens.\n! Cases Leghorn-l do. Straw Bonnets\nAlso, large assortment of\n\n\nBOOTS & SHOES,\n\n\nut the toiloping io,o prices, OiS.\n\n\n2 cases Mems fine Boots, 81 90 per pair\n| do. do Munroes, a79 do.\n\n\ndo. Ladies Valencia Shoes rs do.\n2 do. do. Morocco 62! do.\n! l do. do. Leather, do. SO do.\nJOHN PATTERSON.\n\n\nNIB j. p, has Just received an extensive\nassortment of PAPER H.aNGINGS, of tn,\nnewest patterns.\n\n\nApril, 1927. 3o-3m.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 983,
+                    "y0": 4077,
+                    "x1": 1411,
+                    "y1": 4130
+                },
+                {
+                    "x0": 865,
+                    "y0": 4138,
+                    "x1": 1533,
+                    "y1": 5071
+                }
+            ],
+            "bbox": [
+                865,
+                4077,
+                1533,
+                5071
+            ],
+            "full_article_id": 14,
+            "id": "14_1827-05-03_p4_sn85042523_00271740244_1827050301_0779.json"
+        },
+        {
+            "object_ids": [
+                34,
+                56,
+                19
+            ],
+            "headline": "AGENTS\n\nFOR THE WILMINGTONIAN.",
+            "article": "ft)h II w llANllNG ONlhIN.\n\n\nThe following gentlemen will receive Sub\nscriptions, and money due for the Whining\ntonian. We would particularly request our\nfriends who find il imconvenicnt to make\npayment to us, 70 call on any of the gen.\ntlcmen whose names are below, who will\ngive receipts for the whole amount, OF part,\nof their respective bills.\n\n\nNewark, Mr.. r. Benneson.\nRed Lion, MIR. Robt Rhodes.\nSmyrna, Mr.. Jacob Pennington, r. Nj.\nDover, MIR Aug. NJ. Schee, Y. NJ.\nCamden, Mr, j. 6. Ilardcastlc.\nMilford, Mr.. jno. Wallace.\nPhiladelphia, Mr.. II J. Peppct, No 46\n\n\nChesnut-streot.\n\n\nThe Wilmingtonian is 50 per annum &c\ndistant Subscribers if paid in advance; s. So\nif paid within the year, and S3, il not paid\ntill the expiration Of the year.\n\n\nl5eNo subscribers paper will be discon-\ntinucd, unless two weeks previous notice be\ngiven and all arrears ha,d M,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1027,
+                    "y0": 2818,
+                    "x1": 1337,
+                    "y1": 2876
+                },
+                {
+                    "x0": 892,
+                    "y0": 2883,
+                    "x1": 1450,
+                    "y1": 2924
+                },
+                {
+                    "x0": 848,
+                    "y0": 2905,
+                    "x1": 1511,
+                    "y1": 3830
+                }
+            ],
+            "bbox": [
+                848,
+                2818,
+                1511,
+                3830
+            ],
+            "full_article_id": 20,
+            "id": "20_1827-05-03_p4_sn85042523_00271740244_1827050301_0779.json"
+        },
+        {
+            "object_ids": [
+                54,
+                53,
+                22
+            ],
+            "headline": "GENERAL REGISTER\n\nDry Good Merchants",
+            "article": "Chalkly Somers, 4s. Market-strect.\nbuzby * Bassett, 90, market st.\nJohn Patterson, 80 market Street.\nw b. Tomlnson, No. Sc, market Street\nJohn X. Brincklc, corner ofmarke ct & Oucen\n\n\nstreets.\nWilliam M'Caulley, Brandywine, north side\n\n\nof the Bridge.\nAllan Thomson, 43 market st.\nJohn w. Tatum, 80 market st.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2917,
+                    "y0": 169,
+                    "x1": 3502,
+                    "y1": 227
+                },
+                {
+                    "x0": 2970,
+                    "y0": 243,
+                    "x1": 3480,
+                    "y1": 292
+                },
+                {
+                    "x0": 2878,
+                    "y0": 296,
+                    "x1": 3554,
+                    "y1": 645
+                }
+            ],
+            "bbox": [
+                2878,
+                169,
+                3554,
+                645
+            ],
+            "full_article_id": 23,
+            "id": "23_1827-05-03_p4_sn85042523_00271740244_1827050301_0779.json"
+        },
+        {
+            "object_ids": [
+                43,
+                28
+            ],
+            "headline": "Job Printing,",
+            "article": "In all its variety. executed at the Office of\nthe WILMINGToNIAN, No. 81, Markets.,\non moderate terms. Orders will meet with\nprompt attention.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 966,
+                    "y0": 3829,
+                    "x1": 1376,
+                    "y1": 3878
+                },
+                {
+                    "x0": 857,
+                    "y0": 3885,
+                    "x1": 1520,
+                    "y1": 4043
+                }
+            ],
+            "bbox": [
+                857,
+                3829,
+                1520,
+                4043
+            ],
+            "full_article_id": 29,
+            "id": "29_1827-05-03_p4_sn85042523_00271740244_1827050301_0779.json"
+        },
+        {
+            "object_ids": [
+                47,
+                31
+            ],
+            "headline": "Boot and Shoe Manufacturers.",
+            "article": "John Matthews. Markets., opposite the\n\n\nMarket house, NJ Castle.\nThcophilus Jones, 81 market st.\nVal. M'Neal & son, 98 and 100 market St.\nWilliam M Neal, i7O king st.\nWilliam White, highest.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2891,
+                    "y0": 1119,
+                    "x1": 3519,
+                    "y1": 1172
+                },
+                {
+                    "x0": 2878,
+                    "y0": 1176,
+                    "x1": 3550,
+                    "y1": 1381
+                }
+            ],
+            "bbox": [
+                2878,
+                1119,
+                3550,
+                1381
+            ],
+            "full_article_id": 32,
+            "id": "32_1827-05-03_p4_sn85042523_00271740244_1827050301_0779.json"
+        },
+        {
+            "object_ids": [
+                39,
+                42
+            ],
+            "headline": "SPRING GOODS.",
+            "article": "THE Subscriber has, in addition to his winter\nstock, added thereto an extensive assortment of\nSpring Goods, among which are,\nCanton Grapes,\nGrape Robes,\nGrape Shawls,\nSwiss, Null, Book and Jaconet Muslins;\nCalicoes and Fashionable Gnghams,\nquarter and quarter Muslins,\nGentlemen and Ladies' Silk and Cotton Hose,\nMarseillcs Valenta and Black Silk Vestings,\nCotton and Thread,\nLaces,\nFigured and Plain Gros de Naples\nBlack Lutestrings,\n\n\ndo Leventine, with all the variety of Silks suit\nable for Ladies' dresses; with the usual assort\nment of",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1654,
+                    "y0": 4399,
+                    "x1": 2082,
+                    "y1": 4453
+                },
+                {
+                    "x0": 1549,
+                    "y0": 4460,
+                    "x1": 2208,
+                    "y1": 5019
+                }
+            ],
+            "bbox": [
+                1549,
+                4399,
+                2208,
+                5019
+            ],
+            "full_article_id": 43,
+            "id": "43_1827-05-03_p4_sn85042523_00271740244_1827050301_0779.json"
+        },
+        {
+            "object_ids": [
+                46,
+                45
+            ],
+            "headline": "Surveying OF AanA, and\nCONVEYANCING.",
+            "article": "THE SUI scriber tenders his services to the\ncitizens Wilmington, and county of New Castle,\nin the capacity of Surveyor Of Land, and Conyey-\nancer, and hopes from his former experience in\nChester county, and by devoting his attention to\nthat business, that he will be able to give satis-\nfiction to those who may be pleased to employ\nhim. His Office is in Queen street, nearly ops\nposite the Indian Queen tavern.\n\n\nLEA PUSEY.\nWilmington, Cd Mo 26. 1897. o4--tosm.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2268,
+                    "y0": 5027,
+                    "x1": 2875,
+                    "y1": 5123
+                },
+                {
+                    "x0": 2242,
+                    "y0": 5136,
+                    "x1": 2910,
+                    "y1": 5481
+                }
+            ],
+            "bbox": [
+                2242,
+                5027,
+                2910,
+                5481
+            ],
+            "full_article_id": 46,
+            "id": "46_1827-05-03_p4_sn85042523_00271740244_1827050301_0779.json"
+        },
+        {
+            "object_ids": [
+                55
+            ],
+            "headline": "",
+            "article": "Greatest deg. Greatest deg. Of\n\n\nIS Of cold, 81. heat, 70.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 848,
+                    "y0": 2722,
+                    "x1": 1511,
+                    "y1": 2797
+                }
+            ],
+            "bbox": [
+                848,
+                2722,
+                1511,
+                2797
+            ],
+            "full_article_id": 56,
+            "id": "56_1827-05-03_p4_sn85042523_00271740244_1827050301_0779.json"
+        },
+        {
+            "object_ids": [
+                64,
+                59
+            ],
+            "headline": "Domestic Goods,",
+            "article": "OOII1Os5O4O &sON<O3\nsuch as plaids, Stripes, Drillings, Pittsburgh\nCords, &c.\n\n\nAlso an assortment of COMBS. Large\nTortoise shell back, neck, and side combs, with\nfull assortment of Spanish shell and common\nmock shell combs, which will be sold on the\nmost reasonable terms.\nWIN, B. TOMLINSON,\nApril 10. ST. No. sc, Market-st",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1645,
+                    "y0": 5022,
+                    "x1": 2147,
+                    "y1": 5071
+                },
+                {
+                    "x0": 1558,
+                    "y0": 5053,
+                    "x1": 2226,
+                    "y1": 5359
+                }
+            ],
+            "bbox": [
+                1558,
+                5022,
+                2226,
+                5359
+            ],
+            "full_article_id": 60,
+            "id": "60_1827-05-03_p4_sn85042523_00271740244_1827050301_0779.json"
+        },
+        {
+            "object_ids": [
+                60,
+                25,
+                65
+            ],
+            "headline": "CRDIN .ANCE.",
+            "article": "AN ORDINANCE for the regulation OF the own\ners, riders, and drivers Of carriages, Wagons,\ncarts, draws, and horses, within the Borough OF\n\" Wilmington.",
+            "byline": "March %.",
+            "bbox_list": [
+                {
+                    "x0": 1545,
+                    "y0": 2273,
+                    "x1": 1685,
+                    "y1": 2305
+                },
+                {
+                    "x0": 1610,
+                    "y0": 2321,
+                    "x1": 2060,
+                    "y1": 2379
+                },
+                {
+                    "x0": 1515,
+                    "y0": 2387,
+                    "x1": 2178,
+                    "y1": 2518
+                }
+            ],
+            "bbox": [
+                1515,
+                2273,
+                2178,
+                2518
+            ],
+            "full_article_id": 66,
+            "id": "66_1827-05-03_p4_sn85042523_00271740244_1827050301_0779.json"
+        }
+    ]
+}

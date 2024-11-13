@@ -1,0 +1,654 @@
+{
+    "lccn": {
+        "title": "The Litchfield County post.",
+        "geonames_ids": [
+            "4837799"
+        ],
+        "dbpedia_ids": [
+            "Litchfield%2C_Connecticut"
+        ],
+        "issn": "",
+        "lccn": "sn82014309",
+        "start_year": "1826",
+        "end_year": "1829",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [
+            "sn84020071"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn82014309",
+        "edition": "ed-01",
+        "date": "1827-08-02",
+        "pages": [
+            "seq-4",
+            "seq-1",
+            "seq-2",
+            "seq-3"
+        ]
+    },
+    "page_number": "1",
+    "scan": {
+        "lccn": "sn82014309",
+        "edition": "ed-01",
+        "date": "1827-08-02",
+        "page": "1",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-08-02/ed-1/seq-1.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-08-02/ed-1/seq-1/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-08-02/ed-1/seq-1/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/ct_barnum_ver01/data/sn82014309/00414182926/1827080201/0221.jp2",
+        "height": 7412,
+        "width": 4984
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 245,
+                "y0": 6329,
+                "x1": 1114,
+                "y1": 7175
+            },
+            "class": "article",
+            "raw_text": "From Mr. Sprague's Address before the Massachu-\n\n sets Society for snppressing Intemperance.\n\n The common calamities oflife may be en- dured.-Poverty, sickness, and even death may he met-but there is that which. while it brings all these with it, is worse than all these together. When the husband and father for gets the duties he once delighted to fulfil, and Hv slow degrees becomes the creature of in- temnerance. there enters into his house the sorrow that rends the spirit-that cannot be alleviated; that will nor be comforted.\n\n Ii is here. above all, where she. who has ventured every thing, feels that every thing is lost.s Woman, suffering woman, here bends to her direst affiictiOn. The measure Of her woe is, in truth, full, whose husband IS a drunkard. Who shall protect her when he is her insultcr. her oppressOr? What shall de-",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 337,
+                "y0": 6271,
+                "x1": 1010,
+                "y1": 6318
+            },
+            "class": "headline",
+            "raw_text": "THEINTEMPERATE HUSBAND.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 227,
+                "y0": 955,
+                "x1": 1114,
+                "y1": 2010
+            },
+            "class": "article",
+            "raw_text": "To subscribers m this UiIlGge, and subscribers Jy mail or by post carriers, TWO DOLLARS per gear, payable in Gduance. To compamies less than Ten, by mail, or tGken from the office, Vhere there is joint responsibility, or chere one indiUiduat is responsible, $1,5O per gear, in ad- Uance. To like companies of more than ten, S1, 25 per gear, i's odU0nce.-Where pGyment $ de- Layed to the end of the gear g cts. tOiH De added to eGch of the GboUe prices.\n\n No papers rOiU De discontinued until GU Gr- rearages are paid, except ct the discretion c the publisher. ,..a\n\n .... ADVERTISING.\n\n For ha!f square, three insertions, or Jess, 75 cents ;-n,ore than ha!f sqssare, and Jess than c square, e7 l2 cents ;-.tor one square, ,OO ]; --and in the same proportion for more than q square; for continuing advertisements more than tHree aceeks, 20 per cen per Oeek sOiN De charged\n\n PROBATE NOTICES.\n\n Administr0tors' and Executors $1,OO Commissioners - SIPS",
+            "legibility": "Questionable",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 291,
+                "y0": 764,
+                "x1": 1068,
+                "y1": 892
+            },
+            "class": "headline",
+            "raw_text": "BX s. S. SMITH, EDITOR AND PROPRIETOR.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -2
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 552,
+                "y0": 909,
+                "x1": 813,
+                "y1": 950
+            },
+            "class": "headline",
+            "raw_text": "TERNES.",
+            "legibility": "Illegible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2926,
+                "y0": 764,
+                "x1": 3807,
+                "y1": 3446
+            },
+            "class": "article",
+            "raw_text": "ting it into stack. and giving 1t to his post hOr- ses and stock \"I have used salt to hay in unfavOrable seasons upwards of thirty years, which hay has been regularly consumed by all my stage, post and farm horses, and lIkc- wise by my COWS, bullOcks, and sheep; and every description of stock has done well with it. generally keep about 70 horses, 12 cows. 10 or 1S bullOcks. and 100 sheep, and from the beneficial effects experienced, now do and shall continue using salt with my has, whether the season prove foul or fair. My rule is to mix about a peck to load keeping boy sprinkling, while unloading\" Mir. Wood adds, that last year he spread ten bushels Of salt per acre on some land sOwn with barley, and that the part salted was two shades lighter color than the unsated, and produced an increase of four bushels per acre: and it should be remembered, that the benefi- Cial effects from salt do not cease with the first crop\"\n\n 4 herOine-The tailor in COurtland, Alaba- ma, heinz absent, the prisoners were left in charge of young man, who, on entering one of the cells to give two conyicts their supper, was knocked down with an iron bar and left senseless. One of the convicts was about de- camping, but the wife of the jailor coming just then in the way, seized him by the coat, and held him with such strong hand as to make his escape very dubious, until he at last slipped his garment and went of. The other next made his appearance, but the Amazon grapped with him so earnestly, that it was utterly impossible for him to get clear. He dragged her as far as the street, but he could not compel her to release her grasp, and as she was now reinforced. he was remanded to his dungeon. AS he was under sentence of death, his struggle must have been powerful, and it is therefore yet more wonderful that she succeeded in retaining him.\n\n 4 large Tree.-There is now on the farm of MT. Andrew Boggs (painter,) of the city of Pittsburg, sycamore tree in which fam lily consisting of persons resided all winter, having been detained by the freezing over of the river while ascending it. In this tree they found comfortable asylum from the storms of severe winter, with room for all the me- cessary furniture and cooking utensils, having a fire in the centre, (Indian style) the smoke of which ascended through hole in the trunk occassioned by the breaking off large limb from the tree. This giant of the forest is a. bout IA miles below Pittsburg, and directly on the bapk of the Ohio river.-Atieghany DeniOcr0t.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2920,
+                "y0": 3549,
+                "x1": 3795,
+                "y1": 7135
+            },
+            "class": "article",
+            "raw_text": "After the battle of Austerlitz, the Austrian Army was virtually disbanded. The regi- meas were left without pay in consequence of the general breaking up of the Austrian f. nance; the public spirit was extingl'ished by the result of SO many unsuccessful wars Napoleon's genius seemed to have gained the final ascendency and the general feeling throughout the Continent was, that all efforts for independence were hopeless.\n\n But in the midst of this national despair, there were some gallant spirits left, as if to keep up the remembrance of the old national glory, and be ready for the time of retribu- ton. Among the disbanded troops was a regiment of sharp-shooters, chiefly raised a. mong the COrinthian Alps. They were or- dered home to their native place, and some French officers with a cOmmissary general, were sent to attend them to Laybach,and see l the measure completed. NF\n\n The country in the neighbourhood of Lay bach is remarkably hilly, and the regiment was compelled to scatter a good deal. The men fell into groupes, and as they became murmurs arose at the journey, and the insult off thus being driven home by French com- missaries. As a party were thus talking at a | IUEu MI ulOuUtdUl UUduS WuCTC tUCy U6U halted without much fear of their officers be- fore their eyes, the rear company of the reg iment, commanded by It. Stauenbach, over- took them, and the sitters down invited the others to drink. Discipline had been nearly at an end for some days before, and Stauen- bach made no objection. He had probably been meditating something of what followed, for on the glass being presented to him, he drank :\" the health of our father (the Empe- ror.) and better days to our country\" The toast was received with shouts. What was subsequently, done to rouse the sharp-shoot- CTS is not known, but it may be tolerably con- ccived from the fact, that the colonel and staff were the only part ofthe regiment that entered Laybach with the Frenchmen; what had become of Stauenbach and the officers, no one could tell. Inquiries were set on foot by the French authorities, who were then prevailing every corner of the Austrian Ter ritory butpothing could be ascertained, fur ther, than that the whole regiment had antic- | ipated Napoleon's orders, ard suddenly dis appeared.\n\n In few days, s,however,r reports were brought into Laybach of occasional fires having been seen in the mountains that edge the valley ol the Save :; and one morning the depatches | regularly forwarded tO the French cOnmis- sary in rhiefdd not arrive. This produced some disturbance in the city, and no slight a. larm among the gentlemen 1.-the French staff who immediately despatched courier tC Morasia for an additional force of French troops. The courier set out at night, to pre- vent accidents but his prevention was un lucky. for the next day he was set dowr blndfolded within short distance of Laybact with note declaring war against the French and informing the French Staff that if they chose to stay in Laybach they might, but tha not a man of them should ever return tC France. This formidable document wal signed the King of the Mountains\"\n\n This billet produced a singular excitement ] in the city. The French commandant in, stantly ordered meeting of the authorities and in this civic and military council hii Majesty of the mountains was declared pub. lie enemy ,and reward ofthe adequate mum,",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2949,
+                "y0": 3485,
+                "x1": 3755,
+                "y1": 3544
+            },
+            "class": "headline",
+            "raw_text": "sTAUENBACH, THE sHARP.sHooTER.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1136,
+                "y0": 6844,
+                "x1": 2018,
+                "y1": 7152
+            },
+            "class": "article",
+            "raw_text": "Every country has it's money diggers' who are full in belief that vast treasures lay con- ceaIed in the earth. So far from being a new project, it dates its origin with the\n\n first man who ever yielded spade. \"Tls as old as Adam. Even in these days, we find men SO much in love with the /\" root",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1258,
+                "y0": 6763,
+                "x1": 1902,
+                "y1": 6833
+            },
+            "class": "headline",
+            "raw_text": "From the Montpelier ( (Vt.J Watcfnan.\n\n MONEY nIGGERS.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 337,
+                "y0": 2148,
+                "x1": 1062,
+                "y1": 3666
+            },
+            "class": "article",
+            "raw_text": "Farewell mother !--tears are streaming, Down thy tender, pallid cheek; l, in gems and roses geaming, On eternal sunshine dreaming,\n\n Scarce this sad farewell may speak; Farewell mother now I leave thee,\n\n And thy love-nnspea akabie- One to cherish-who may grieve me; One to trust--who may deceive me;\n\n Farewell mother flare thee well! Farewell father i-thou art smiling,\n\n Yet there's sadness on thy brow Mingled joy and languor-wiling All my heart, from that beguiing\n\n Tenderness, to which go.- Farewell father .--thou didst bless me,\n\n Ere my lips thy name could tell; He may wound, who should caress me, Who should solace-may oppress me; Father! guardian flare thee well! Farewell sister i-thou art twining @ Round me, in affection deep, Gazing on my garb SO shining, Wishing \"joy''-but ne'er divining\n\n Why blessed bride should weep. Farewell sister !-have we ever\n\n Sufer'd wrath our breasts to swell Fer gave looks or acords that sever Those that should be parted never!\n\n Sister-dearest !-fare thee well! Farewell brother !-th0u art brushing\n\n Gently offthese tears of mine, And the grief that fresh was gushing, Thy most holy kiss is hushing,\n\n Can e'er meet love like thinel | Farewell brave and gentle brother,\n\n Ihos-more dear than words may tell- Love me yet-althongh another Claims Ianthe t-father! mother!-\n\n Al beloved ones~-farewell!",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 395,
+                "y0": 2044,
+                "x1": 952,
+                "y1": 2137
+            },
+            "class": "headline",
+            "raw_text": "From an English Paper.\n\n THE BRIDES FAREWELL,",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1136,
+                "y0": 839,
+                "x1": 2018,
+                "y1": 6388
+            },
+            "class": "article",
+            "raw_text": "LIS Idces anu tEcmOieS dL th6 sOuuu OA uiS voice! The hearth is indeed dark, that he has made desOlate. There, in the dull mid night hour her griefs are whispered to herself, her bruised heart bIeeds in secret.-There, while the cruel author of her distress is drown ed in distant revelry, she holds her solitary vigil, waiting, yet dreading his return, that will only wiring her by hisunkindnes, tears ev- en more scalding than those she shed over his transgression. To fling a deeper gloom a, cross the present, memory turns back. and 5rOOds upon the past. Like the reccOllection to the sun-stricken pilgrim, of the cool spring that he drank in the morning, the joys of other days come over her as if only to mock her parched and weary spirit. She recalls the ardent lover, whose graces won her from the home of her infancy--the enraptured father, who bent with such delight over his newborn children-and she asks if this can really be him; this sunken being, who has now nothing for her but the sot's disgusting brutaIity--nothing for those abashed and trembling children, but the sot's disgusting example! Can we wonder that amidst these agonizing moments, the tended cords of vio- lated affection should burst asunder that the scorned and deserted wife should confess, ''there is no killing like that which kills the heart ?'' that though it would have been hard for her to kiss for the last time the cold lips of her dead husband, and lay his body forev- CT in the dust, it is harder to behold him SO debasing life, that even his death would he greeted in mercy! Had he died in the light of his goodness, bequeathing to his family the inheritance of an untarnished name, the ex- ample of virtues that should blossom for his sons and daughters from the tomb--though she would have wept bitterly indeed, the tears ofgrief would not have been also the tears of shame. But to behold him fallen a. way from the station he once adorned, de. graded from eminence to ignominy-at home turning his dwelling to darkness, and its holy endearments to mockery--abroad,th thrust from the companionship of the worthy \"a self brand ed outlaw-this is the woe that the wife feels is more dreadful than death--that she mourns over, as worse than widowhood!\n\n THE 1NTEMPERATE FEMALE.\n\n There is yet another picture behind, from the exhibition of which would willingly be spared. have ventured to point to those who daily force themselves before the world, hut there is one whom the world does not know of--who hides herself from prying eyes even in the innermost sanctuary of the do- mestic temple. Shall dare to rend the veil that hangs between and draw her forth !-- the priestess dying amid her unhOly rites the sacrifcer and the sacrifice O, we com pass sea and land, we brave danger and death to snatch the poor victim of heather supersti-s ton from the burning pile---And it is well--- hut shall we not also save the lovely ones of our household, from immolating on this foul altar, not only the perishing body, bnt all the wOrshipped graces of her sex---the glorious attributes Ofhallowed womanhood!\n\n Imagination's glOOmiest revere never con ceiyed ofa more revolting object, than that of wife and mother, ,defling in her own person the fairest work of her God, and set ting at bought the holy engagements for which he created her. Her husband ---who shall heighten his joys, and dissirate his cares and alleviate his sorrows She who has robbed him of all joy. who is the source of his deepest care, who lives his sharpest sor- row ?---These are indeed the wife's delights but they are not his. Her children---who shall watch over their budding virtues, and pluck up the weeds ofpasslon and vice She in whose bosom every thing beautiful has withered, every thing grows rank Who shall teach them to bend their little knees in devotion, and repeat their SaviOur's prayer against \" temptation 2\" She, who is herself temptations fettered slave These are truly the mothers labOurs---but they are not hers. Connubial love and maternal tenderness bloom no longer for her. A worm has gnawed into her heart, that dies only with its prey---the worm, Lntemperance.\n\n Extract of letter from lady in Old Ply mouth, Mass. dated July. 2, to her friend in Albany. which will show the reverence in which the consecrated Rock is held.\n\n \"You doubtless recollect in the early part of the revolutionary war,before Independence was declared, in the ardour of the patriotism which predominated on that day, and when mems minds were highly excited. and deter mined to be free, the inhabitants of this place, removed the rock where our ancestors land ed, at high water mark, from its native bed, to the public square. up the hill, whereon tO plant the liberty pole, the rallyi'S point of freemCn.\n\n \"In raising it, it split in twain. which was then considered ominOus of the separation of the empire. Strangers and travellers who came here in a sort of pilgrimage. visited both parts equally. The other day, as the sun was setting, several gentlemen noticed a carriage drive up to the rock. A gentleman and lady descended and approached the rock. holding wicker basket, which they uncov cred and took from it a lovely babe, which they placed on its back on the top of the rock. The gentleman was then observed in the attitude of devotion, addressing the throne\n\n ",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3812,
+                "y0": 833,
+                "x1": 4722,
+                "y1": 6388
+            },
+            "class": "article",
+            "raw_text": "\n\n ure on the grave burghers Of Carni0le. hut they knew the activity of NapOleon's ven- 1 geance too well to talk of hesitation with the populace it was altogether different af- fair, aud their rejoicing at the defiance was 1 all but treason Ofthe cOnquerOr. The King of the nOuntains' was an effective name, e,and the habitual taste of the German for forest wonders found its supreme indulgence in in- ] venting attributes and adventures for this mys- teriOus monarch.\n\n War, and of an it's kinds insurrectiOnary war, is fitted to take hold upon the popular inauguration: Its secrecy, its sudden eAplo- | sions-its sudden extinctiOns in one quarter l to spring up like eOnAagratiOn in anOther--- even the personal intrepidity, intelligence and dexterity, required in its solitary and hazard ous enterprises, throw romantic and super stitiOus interest about it. that gives a power ful impulse to the imagination. \"King Ofthe Mountains\" had none of the established indo- fence of the throne; he seemed even to have the faculty of of heinz every where at once -The arrival of couriers soon ceased totally, or occurred by permission of his invincible majesty; and the letters were generally open and accompanied by some remarks, some times burtcsque and sarcastic, and sometimes I conveying intelligence of the most disastrous nature from France. The peasants brought provisions to the city only under the pass ports of his majesty the traders and travel f lers were compelled to advertize in the Lay bach Zeitung, before they set out, on their route. with declaration that they were not going to France; in short, his majesty's de- termination to extinguish all intercourse with the land of tyranny, was expressed in the most un6iplolnatic distinctness and absence of cere- mOny.\n\n The French authorities, however. now set themselves actively to resist the public feeling and, as the first step ordered the printer of the Zeitsng to jail, with declaration, that the first merchant or traveller suspected of compromising with \"the banditti,\" should follow the printer. This had its effect for a few days, and the advertisements were stop ped. Buta BOlognese jeweller, who had come to the fair of Idria, and after lingering impa- tientIy for some weeks in the city, was anx- ious to realize the produce on the other side of the TyrOl, had not left Laybach half a German mile when he was met by party of armed peasantry,\" who ordered him back. They took nothing from him, and when he offered them money refused it, stating that they were paid by their own \"sovereign;\" and ordered merely to prevent any mans go-\n\n ing through his territory without his passport. Some other attempts had the same result; until at length the French commandant deter mined to take the field against the unseen u- surper. He gathered about five hundred troops Ofdferent arms and called out the Burgher-guard to make up his .army.s But the citizens had long since settled their minds on the point, and they one and all, discoyer-> ed so many personal reasons for objecting to a mountain campaign, that M. le Colonel de o0fh1 sv~Ra snls- obliged to compromise the affair, and leave the whole of the gallant Burgher-guard flor the defence of the gates and the ditches. |. The colonel was a bold fellow,a vieur mous- tGche, who had served from the time of Mo- reaus march into Swabia, and was soldier all Over.-The idea that his communications should be interceptedby mountain thief,a pediar, goat hunter,\" was at once int0llera- bIe and ludricrous; and he promised the civ- il council, that before twelve hours over thev should see the \"robber\" with rope round his neck. For the purpose of more com plete surprise, the expedition was to wait tin night fall. About seven in the evening pa- trOle which had been ordered to search in the market peasants as they pass out ofthe gates flor the honest Carniolans were strongly sus- pected of carrying on the correspondence of the disafected within and without,l brought in an old seller of eggs, in whose basket they had found some gunpowder. This was of course cOntraband of war, and the peasant was brought to head quarters. A further search discovered letter to the Mountain King\" He was extremely de- crepid, and so deal, that he could scarcely be made to understand that court martial was about to be held upon him. His Carnolian jargOn was eqnally lost upon the Colonel. To shoot him, however, required some more consideration. Trial was impossible. with a man destitute of all faculty ofexphnation, or understanding; his age rendered him harm less; and cruelty might have irritated the country people (wh0 had crowded back on his seizure,) and deprive the city its provisions Finally as the best alternative, it was de- termined to make use of the old man as guide to the haunt of the insurgent chief. This, however. he positively refused to be under fifty pleas ofignOrance, feebleness and fear he was at last induced to give way,was seated on baggage mule, with bayonet at his back and was marched out with. the troops. The peasantry hung their heads. with no very measured expressions of wrath at the hoary traitor but as the French nev- CT condescended to know any language but their own, all this was lost upon them.-- Night fall-the expedition proceeded--and the old man and his ass were put in front ofthe column watched by half dozen Chas-",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 274,
+                "y0": 3752,
+                "x1": 1114,
+                "y1": 6254
+            },
+            "class": "article",
+            "raw_text": "To prayer, to prayer-for the morning breaks, And earth in her Makers smile awakes: His light is on all below and above The light of gladness and life and love. On, then, on the breath of this early air, Send upward the incense of grateful prayer. To prayer-for the glorious sun is gone, And the gathering darkness of night comes on; Like curtain from Gods kind hand 1t flows, To shade the couch where his children repose. Then kneel while the watching stars are bright, And give your last thoughts to the Guardian ol\n\n night. v To prayer-for the day that God has blest, Comes tranquiiy on with its welcome rest: 1t speaks ofcreation's early bloom 1t speaks of the Prince who burst the tomb. Then summons the spirits exalted powers, And devote to Heaven the hailow'd hours. There are smiles and tears in the mothers eyes, For her new born infant beside her lies. Oh, hour of bssl when the heart o'erfows With rapture mother only knows: Let 1t gnsh forth in words of fervent prayer Let it swell to Heaven for her precious care. There are smiles and tears in that gathering band Where the heart IS pledged with the trembling\n\n hand.\n\n What trying thoughts in her bosom swell, As the bride bids parent and home farewell! kneel down by the side of the fearful fair, And strengthen the perilous hour with prayer. Kneel down by the dying sinners side, And pray for his soul thro him who died. Large drops of anguish are thick on his brow: Oh what is earth and its pleasures now! And what shall assuage his dark despair, But the penitent cry of humble prayer? Kneel down at the couch of departing faith, And hear the last words the believer saith. He has bidden adieu to his early friends There is peace in his eye that upward bends; There is peace in his calm cOn6diBg air For his last thoughts Gods, his last words prayer The voice of prayer at the sable bier! A voice to sustain, to sooth, and to cheer. It comments the spirit to God who gave; 1t lifts the thoughts from the cold dark grave; It points to the glory where he shall reign, Who whsper'd \"thy brother shall rise again. The voice of prayer in the world of bliss! But gadder, purer, than rose from this. The ransom'd shout to their glorious King, Where no sorrow shades the soul as they sing; But sinless and joyous song they raise, And the voice of prayer is eternal praise. Awake, awake, and gird up thy strength To join that holy band at length. To him who unceasing love displays, Whom the powers of nature increasingly praise To him thy heart and thy hours be given, For life of prayer is the life of heaven.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 442,
+                "y0": 3694,
+                "x1": 923,
+                "y1": 3735
+            },
+            "class": "headline",
+            "raw_text": "SEASONS OF PRAYER.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2022,
+                "y0": 781,
+                "x1": 2909,
+                "y1": 4789
+            },
+            "class": "article",
+            "raw_text": "Of all evll,\" and so frnl ln the belief that lt may be dug wp, that they may traverse hill and dale, climb the lOftiest mountain, and C. ven work their way into the bowels of the earth in search of it. Indeed digging for mo- ney hid in the earth, is very common thing: and in this state it is even considered an hon. orable and profitable employment. We could name if we pleased at least five hundred re- spectable men, who do, in the simplicity and sicerity of their hearts, verily believed that immense treasures lay concealed upon our Green Mountains, many of whom have been industriOusly and perseyeringly engaged in digging it up. Some of them have succeed ed even beyond their expectations. One gen tleman in ParkerstOwn, on the summit of the mountain, after digging with unyielding con fidence and unahatiing diligence, for ten or twelve years, found sufficient quantity of money to build him cOmmodious house for his own convenience, and to fill it with com forts for the weary traveller. On stopping lately to refresh. we were delighted by the view of an Gnchor on the sign, emblemat- ical of his hope of success, while we left him industriously digging for more. Another gen tleman on Lake Champlain, we were credibly informed, has actually dug up the enormous sum of fifty thousand dollars :! The incred- ] ulOus and unbelieving may stare at this asser- tiOn, but it is nevertheless true and we do not hesitate to declare our belief that digging tor money is the most certain way of obtain ing it.--NIuch, however depends upon the skill , ful use of the genuine mineral rod. Don't dag too deep, is an appropriate maxim with all those who are versed in the art. Woods l. ron Plough skillfully guided, is sure to break the enchantment, and turn up the glttering dust in every furrow. Countless treasures yet remain in the earth. Speed the plough ply the hoe-'twill all come to light.\n\n P. s. The best tune for digging money, is early in the morning, while the dew is on.\n\n General Psmeroy. The following, which oc- cured at the late anniversary meeting of the ancient and honorable Artillery Company of Boston, beautifully illustrates the sober, hon. est, and solemn resolution which distinguished so many of our fathers in the days of deliver ance from the house of bondage. Mr. Everett\n\n having been called on to propose a sentiment. introduced one with the following explanation: :\" MT. Commander: On the 17th of June,\n\n l775, two floating batteries were stationed by the British in Mystic river, and frigate in the basin near Lechmere's Point, whose cross fire raked Charlestown Neck. This was one of ttC GiHtk ClICutlSIdHCCS WHICH pTcNcuIcu tue effectual lre-enforcement during the day, the American troops on Bunker Hill. Several attempts, however, were made, and with suc- cess, by individuals and parties from the head quarters at Cambridge, to support the Amer\n\n ican force engaged on the Hill. Among others ] who made this attempt was Gen. Pomeroy, of Northampton, then in his roth year, who came down to the causeway, mounted on a borrowed horse. When he reached the spot, the whizzing of balls and grape-shot was heard, the ground was torn up, and the fences in all directions were torn into splinters: Gen. P. came to halt-and as some of those around\n\n him perhaps supposed, for the purpose of turning back. He however dismounted, gave the horse in charge of stander, observing, \"it is too valuable an animal to take into such fire, besides not being his own,\" shouldered his musket, and crossed the neck on foot.\"- Mr. Everett then proposed: \"The Yankee notion of a commanding officer-Prudent and brave; who knows when to spare the caval- ry, and when to push the infantry\" Cheers Bost. paper.\n\n Aualanche.-A gentleman of Fayston, in whose veracity the most implicit reliance can be placed, has obligingly furnished us with 1 the following account of an avalanche Ofearth",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 2022,
+                "y0": 4580,
+                "x1": 2909,
+                "y1": 7146
+            },
+            "class": "article",
+            "raw_text": "Aualanche.-A gentleman of Fayston, in whose veracity the most implicit reliance can be placed. has obligingly furnished us with the following account of an avalanche Ofearth or side of the mountain, in Lincoln, Addison county, on the 27th ult. occasioned by the almost incessant rains: #\n\n 1 On the SOth of June, I went in company with 16 of my neighbours, to visit the spot so 1 singularly marked by providence. which am about to describe. found the slide to commence near the top of the mountain. be- tween two large rocks which were stripped of earth, opening passage of 4 rods wide, from ] which it proceeded sOutherly direction gradually widening for the distance of 200 rods, to the south branch of Mill Brook in FaystOn. In it's course it swept away every thing in its way overturning trees by the roots; divesting them of roots, branches and bark, often breaking them in short pieces. A number of rocks were moved to some dis tance, judged to weigh from Is to 20 tons. From where it entered Mill brook, its course was a northeriy direction 28O rOds-the nat ural course of the Brook which was small |; hut the channel cut by this freshet is now from to 10 rods wide: and on either side are large quantities of hoodwood. piled up in many places very high, and. from l5 to % rods of the lower part oft, it is blocked up a. cross the channel in every direction. Some of the trees are standing on their tops, and stripped of their bark, and branhces, and bro- ken into many pieces. The pile, in some pla- ces is ten feet high. Much of the timber is apparently buried severalfeet in the mud and sand. One large birch tree was broken of square. measuring 3 feet g inches where it was broken. One black ash was literally pounded into broom, whose brush is feet long. The whole distance of these ravages is mile and half, and the quanti.yof land metaphorsed into barren waste is 25 acres. The force of water must have been great, at which we cannot wonder when we con sider the probable depth of the water. In some places, from appearances, it must have been 30 feet high. Some of the trees on the sides of the channel were parked thirty or for ty feet high, and mud on them at that height. -[ Montpelier (Vt.) paper\n\n Miring SGlt with HGy.-An English agri- culturist gives the following interesting in- formation in answer to inquiries made of him, respecting his mixing salt with hay when get",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 2034,
+                "y0": 6954,
+                "x1": 2909,
+                "y1": 7146
+            },
+            "class": "article",
+            "raw_text": "Miring SGlt with Hdy.-An English agri- cuIturist gives the following interesting in- formation in answer to inquiries made of him, respecting his mixing salt with hay when get",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                14,
+                0
+            ],
+            "headline": "THEINTEMPERATE HUSBAND.",
+            "article": "From Mr. Sprague's Address before the Massachu-\n\n sets Society for snppressing Intemperance.\n\n The common calamities oflife may be en- dured.-Poverty, sickness, and even death may he met-but there is that which. while it brings all these with it, is worse than all these together. When the husband and father for gets the duties he once delighted to fulfil, and Hv slow degrees becomes the creature of in- temnerance. there enters into his house the sorrow that rends the spirit-that cannot be alleviated; that will nor be comforted.\n\n Ii is here. above all, where she. who has ventured every thing, feels that every thing is lost.s Woman, suffering woman, here bends to her direst affiictiOn. The measure Of her woe is, in truth, full, whose husband IS a drunkard. Who shall protect her when he is her insultcr. her oppressOr? What shall de-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 337,
+                    "y0": 6271,
+                    "x1": 1010,
+                    "y1": 6318
+                },
+                {
+                    "x0": 245,
+                    "y0": 6329,
+                    "x1": 1114,
+                    "y1": 7175
+                }
+            ],
+            "bbox": [
+                245,
+                6271,
+                1114,
+                7175
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-08-02_p1_sn82014309_00414182926_1827080201_0221.json"
+        },
+        {
+            "object_ids": [
+                9,
+                17,
+                1
+            ],
+            "headline": "BX s. S. SMITH, EDITOR AND PROPRIETOR.\n\nTERNES.",
+            "article": "To subscribers m this UiIlGge, and subscribers Jy mail or by post carriers, TWO DOLLARS per gear, payable in Gduance. To compamies less than Ten, by mail, or tGken from the office, Vhere there is joint responsibility, or chere one indiUiduat is responsible, $1,5O per gear, in ad- Uance. To like companies of more than ten, S1, 25 per gear, i's odU0nce.-Where pGyment $ de- Layed to the end of the gear g cts. tOiH De added to eGch of the GboUe prices.\n\n No papers rOiU De discontinued until GU Gr- rearages are paid, except ct the discretion c the publisher. ,..a\n\n .... ADVERTISING.\n\n For ha!f square, three insertions, or Jess, 75 cents ;-n,ore than ha!f sqssare, and Jess than c square, e7 l2 cents ;-.tor one square, ,OO ]; --and in the same proportion for more than q square; for continuing advertisements more than tHree aceeks, 20 per cen per Oeek sOiN De charged\n\n PROBATE NOTICES.\n\n Administr0tors' and Executors $1,OO Commissioners - SIPS",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 291,
+                    "y0": 764,
+                    "x1": 1068,
+                    "y1": 892
+                },
+                {
+                    "x0": 552,
+                    "y0": 909,
+                    "x1": 813,
+                    "y1": 950
+                },
+                {
+                    "x0": 227,
+                    "y0": 955,
+                    "x1": 1114,
+                    "y1": 2010
+                }
+            ],
+            "bbox": [
+                227,
+                764,
+                1114,
+                2010
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-08-02_p1_sn82014309_00414182926_1827080201_0221.json"
+        },
+        {
+            "object_ids": [
+                2
+            ],
+            "headline": "",
+            "article": "ting it into stack. and giving 1t to his post hOr- ses and stock \"I have used salt to hay in unfavOrable seasons upwards of thirty years, which hay has been regularly consumed by all my stage, post and farm horses, and lIkc- wise by my COWS, bullOcks, and sheep; and every description of stock has done well with it. generally keep about 70 horses, 12 cows. 10 or 1S bullOcks. and 100 sheep, and from the beneficial effects experienced, now do and shall continue using salt with my has, whether the season prove foul or fair. My rule is to mix about a peck to load keeping boy sprinkling, while unloading\" Mir. Wood adds, that last year he spread ten bushels Of salt per acre on some land sOwn with barley, and that the part salted was two shades lighter color than the unsated, and produced an increase of four bushels per acre: and it should be remembered, that the benefi- Cial effects from salt do not cease with the first crop\"\n\n 4 herOine-The tailor in COurtland, Alaba- ma, heinz absent, the prisoners were left in charge of young man, who, on entering one of the cells to give two conyicts their supper, was knocked down with an iron bar and left senseless. One of the convicts was about de- camping, but the wife of the jailor coming just then in the way, seized him by the coat, and held him with such strong hand as to make his escape very dubious, until he at last slipped his garment and went of. The other next made his appearance, but the Amazon grapped with him so earnestly, that it was utterly impossible for him to get clear. He dragged her as far as the street, but he could not compel her to release her grasp, and as she was now reinforced. he was remanded to his dungeon. AS he was under sentence of death, his struggle must have been powerful, and it is therefore yet more wonderful that she succeeded in retaining him.\n\n 4 large Tree.-There is now on the farm of MT. Andrew Boggs (painter,) of the city of Pittsburg, sycamore tree in which fam lily consisting of persons resided all winter, having been detained by the freezing over of the river while ascending it. In this tree they found comfortable asylum from the storms of severe winter, with room for all the me- cessary furniture and cooking utensils, having a fire in the centre, (Indian style) the smoke of which ascended through hole in the trunk occassioned by the breaking off large limb from the tree. This giant of the forest is a. bout IA miles below Pittsburg, and directly on the bapk of the Ohio river.-Atieghany DeniOcr0t.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2926,
+                    "y0": 764,
+                    "x1": 3807,
+                    "y1": 3446
+                }
+            ],
+            "bbox": [
+                2926,
+                764,
+                3807,
+                3446
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-08-02_p1_sn82014309_00414182926_1827080201_0221.json"
+        },
+        {
+            "object_ids": [
+                11,
+                3
+            ],
+            "headline": "sTAUENBACH, THE sHARP.sHooTER.",
+            "article": "After the battle of Austerlitz, the Austrian Army was virtually disbanded. The regi- meas were left without pay in consequence of the general breaking up of the Austrian f. nance; the public spirit was extingl'ished by the result of SO many unsuccessful wars Napoleon's genius seemed to have gained the final ascendency and the general feeling throughout the Continent was, that all efforts for independence were hopeless.\n\n But in the midst of this national despair, there were some gallant spirits left, as if to keep up the remembrance of the old national glory, and be ready for the time of retribu- ton. Among the disbanded troops was a regiment of sharp-shooters, chiefly raised a. mong the COrinthian Alps. They were or- dered home to their native place, and some French officers with a cOmmissary general, were sent to attend them to Laybach,and see l the measure completed. NF\n\n The country in the neighbourhood of Lay bach is remarkably hilly, and the regiment was compelled to scatter a good deal. The men fell into groupes, and as they became murmurs arose at the journey, and the insult off thus being driven home by French com- missaries. As a party were thus talking at a | IUEu MI ulOuUtdUl UUduS WuCTC tUCy U6U halted without much fear of their officers be- fore their eyes, the rear company of the reg iment, commanded by It. Stauenbach, over- took them, and the sitters down invited the others to drink. Discipline had been nearly at an end for some days before, and Stauen- bach made no objection. He had probably been meditating something of what followed, for on the glass being presented to him, he drank :\" the health of our father (the Empe- ror.) and better days to our country\" The toast was received with shouts. What was subsequently, done to rouse the sharp-shoot- CTS is not known, but it may be tolerably con- ccived from the fact, that the colonel and staff were the only part ofthe regiment that entered Laybach with the Frenchmen; what had become of Stauenbach and the officers, no one could tell. Inquiries were set on foot by the French authorities, who were then prevailing every corner of the Austrian Ter ritory butpothing could be ascertained, fur ther, than that the whole regiment had antic- | ipated Napoleon's orders, ard suddenly dis appeared.\n\n In few days, s,however,r reports were brought into Laybach of occasional fires having been seen in the mountains that edge the valley ol the Save :; and one morning the depatches | regularly forwarded tO the French cOnmis- sary in rhiefdd not arrive. This produced some disturbance in the city, and no slight a. larm among the gentlemen 1.-the French staff who immediately despatched courier tC Morasia for an additional force of French troops. The courier set out at night, to pre- vent accidents but his prevention was un lucky. for the next day he was set dowr blndfolded within short distance of Laybact with note declaring war against the French and informing the French Staff that if they chose to stay in Laybach they might, but tha not a man of them should ever return tC France. This formidable document wal signed the King of the Mountains\"\n\n This billet produced a singular excitement ] in the city. The French commandant in, stantly ordered meeting of the authorities and in this civic and military council hii Majesty of the mountains was declared pub. lie enemy ,and reward ofthe adequate mum,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2949,
+                    "y0": 3485,
+                    "x1": 3755,
+                    "y1": 3544
+                },
+                {
+                    "x0": 2920,
+                    "y0": 3549,
+                    "x1": 3795,
+                    "y1": 7135
+                }
+            ],
+            "bbox": [
+                2920,
+                3485,
+                3795,
+                7135
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-08-02_p1_sn82014309_00414182926_1827080201_0221.json"
+        },
+        {
+            "object_ids": [
+                15,
+                4
+            ],
+            "headline": "From the Montpelier ( (Vt.J Watcfnan.\n\n MONEY nIGGERS.",
+            "article": "Every country has it's money diggers' who are full in belief that vast treasures lay con- ceaIed in the earth. So far from being a new project, it dates its origin with the\n\n first man who ever yielded spade. \"Tls as old as Adam. Even in these days, we find men SO much in love with the /\" root",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1258,
+                    "y0": 6763,
+                    "x1": 1902,
+                    "y1": 6833
+                },
+                {
+                    "x0": 1136,
+                    "y0": 6844,
+                    "x1": 2018,
+                    "y1": 7152
+                }
+            ],
+            "bbox": [
+                1136,
+                6763,
+                2018,
+                7152
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-08-02_p1_sn82014309_00414182926_1827080201_0221.json"
+        },
+        {
+            "object_ids": [
+                13,
+                5
+            ],
+            "headline": "From an English Paper.\n\n THE BRIDES FAREWELL,",
+            "article": "Farewell mother !--tears are streaming, Down thy tender, pallid cheek; l, in gems and roses geaming, On eternal sunshine dreaming,\n\n Scarce this sad farewell may speak; Farewell mother now I leave thee,\n\n And thy love-nnspea akabie- One to cherish-who may grieve me; One to trust--who may deceive me;\n\n Farewell mother flare thee well! Farewell father i-thou art smiling,\n\n Yet there's sadness on thy brow Mingled joy and languor-wiling All my heart, from that beguiing\n\n Tenderness, to which go.- Farewell father .--thou didst bless me,\n\n Ere my lips thy name could tell; He may wound, who should caress me, Who should solace-may oppress me; Father! guardian flare thee well! Farewell sister i-thou art twining @ Round me, in affection deep, Gazing on my garb SO shining, Wishing \"joy''-but ne'er divining\n\n Why blessed bride should weep. Farewell sister !-have we ever\n\n Sufer'd wrath our breasts to swell Fer gave looks or acords that sever Those that should be parted never!\n\n Sister-dearest !-fare thee well! Farewell brother !-th0u art brushing\n\n Gently offthese tears of mine, And the grief that fresh was gushing, Thy most holy kiss is hushing,\n\n Can e'er meet love like thinel | Farewell brave and gentle brother,\n\n Ihos-more dear than words may tell- Love me yet-althongh another Claims Ianthe t-father! mother!-\n\n Al beloved ones~-farewell!",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 395,
+                    "y0": 2044,
+                    "x1": 952,
+                    "y1": 2137
+                },
+                {
+                    "x0": 337,
+                    "y0": 2148,
+                    "x1": 1062,
+                    "y1": 3666
+                }
+            ],
+            "bbox": [
+                337,
+                2044,
+                1062,
+                3666
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-08-02_p1_sn82014309_00414182926_1827080201_0221.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "LIS Idces anu tEcmOieS dL th6 sOuuu OA uiS voice! The hearth is indeed dark, that he has made desOlate. There, in the dull mid night hour her griefs are whispered to herself, her bruised heart bIeeds in secret.-There, while the cruel author of her distress is drown ed in distant revelry, she holds her solitary vigil, waiting, yet dreading his return, that will only wiring her by hisunkindnes, tears ev- en more scalding than those she shed over his transgression. To fling a deeper gloom a, cross the present, memory turns back. and 5rOOds upon the past. Like the reccOllection to the sun-stricken pilgrim, of the cool spring that he drank in the morning, the joys of other days come over her as if only to mock her parched and weary spirit. She recalls the ardent lover, whose graces won her from the home of her infancy--the enraptured father, who bent with such delight over his newborn children-and she asks if this can really be him; this sunken being, who has now nothing for her but the sot's disgusting brutaIity--nothing for those abashed and trembling children, but the sot's disgusting example! Can we wonder that amidst these agonizing moments, the tended cords of vio- lated affection should burst asunder that the scorned and deserted wife should confess, ''there is no killing like that which kills the heart ?'' that though it would have been hard for her to kiss for the last time the cold lips of her dead husband, and lay his body forev- CT in the dust, it is harder to behold him SO debasing life, that even his death would he greeted in mercy! Had he died in the light of his goodness, bequeathing to his family the inheritance of an untarnished name, the ex- ample of virtues that should blossom for his sons and daughters from the tomb--though she would have wept bitterly indeed, the tears ofgrief would not have been also the tears of shame. But to behold him fallen a. way from the station he once adorned, de. graded from eminence to ignominy-at home turning his dwelling to darkness, and its holy endearments to mockery--abroad,th thrust from the companionship of the worthy \"a self brand ed outlaw-this is the woe that the wife feels is more dreadful than death--that she mourns over, as worse than widowhood!\n\n THE 1NTEMPERATE FEMALE.\n\n There is yet another picture behind, from the exhibition of which would willingly be spared. have ventured to point to those who daily force themselves before the world, hut there is one whom the world does not know of--who hides herself from prying eyes even in the innermost sanctuary of the do- mestic temple. Shall dare to rend the veil that hangs between and draw her forth !-- the priestess dying amid her unhOly rites the sacrifcer and the sacrifice O, we com pass sea and land, we brave danger and death to snatch the poor victim of heather supersti-s ton from the burning pile---And it is well--- hut shall we not also save the lovely ones of our household, from immolating on this foul altar, not only the perishing body, bnt all the wOrshipped graces of her sex---the glorious attributes Ofhallowed womanhood!\n\n Imagination's glOOmiest revere never con ceiyed ofa more revolting object, than that of wife and mother, ,defling in her own person the fairest work of her God, and set ting at bought the holy engagements for which he created her. Her husband ---who shall heighten his joys, and dissirate his cares and alleviate his sorrows She who has robbed him of all joy. who is the source of his deepest care, who lives his sharpest sor- row ?---These are indeed the wife's delights but they are not his. Her children---who shall watch over their budding virtues, and pluck up the weeds ofpasslon and vice She in whose bosom every thing beautiful has withered, every thing grows rank Who shall teach them to bend their little knees in devotion, and repeat their SaviOur's prayer against \" temptation 2\" She, who is herself temptations fettered slave These are truly the mothers labOurs---but they are not hers. Connubial love and maternal tenderness bloom no longer for her. A worm has gnawed into her heart, that dies only with its prey---the worm, Lntemperance.\n\n Extract of letter from lady in Old Ply mouth, Mass. dated July. 2, to her friend in Albany. which will show the reverence in which the consecrated Rock is held.\n\n \"You doubtless recollect in the early part of the revolutionary war,before Independence was declared, in the ardour of the patriotism which predominated on that day, and when mems minds were highly excited. and deter mined to be free, the inhabitants of this place, removed the rock where our ancestors land ed, at high water mark, from its native bed, to the public square. up the hill, whereon tO plant the liberty pole, the rallyi'S point of freemCn.\n\n \"In raising it, it split in twain. which was then considered ominOus of the separation of the empire. Strangers and travellers who came here in a sort of pilgrimage. visited both parts equally. The other day, as the sun was setting, several gentlemen noticed a carriage drive up to the rock. A gentleman and lady descended and approached the rock. holding wicker basket, which they uncov cred and took from it a lovely babe, which they placed on its back on the top of the rock. The gentleman was then observed in the attitude of devotion, addressing the throne\n\n ",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1136,
+                    "y0": 839,
+                    "x1": 2018,
+                    "y1": 6388
+                }
+            ],
+            "bbox": [
+                1136,
+                839,
+                2018,
+                6388
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-08-02_p1_sn82014309_00414182926_1827080201_0221.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "\n\n ure on the grave burghers Of Carni0le. hut they knew the activity of NapOleon's ven- 1 geance too well to talk of hesitation with the populace it was altogether different af- fair, aud their rejoicing at the defiance was 1 all but treason Ofthe cOnquerOr. The King of the nOuntains' was an effective name, e,and the habitual taste of the German for forest wonders found its supreme indulgence in in- ] venting attributes and adventures for this mys- teriOus monarch.\n\n War, and of an it's kinds insurrectiOnary war, is fitted to take hold upon the popular inauguration: Its secrecy, its sudden eAplo- | sions-its sudden extinctiOns in one quarter l to spring up like eOnAagratiOn in anOther--- even the personal intrepidity, intelligence and dexterity, required in its solitary and hazard ous enterprises, throw romantic and super stitiOus interest about it. that gives a power ful impulse to the imagination. \"King Ofthe Mountains\" had none of the established indo- fence of the throne; he seemed even to have the faculty of of heinz every where at once -The arrival of couriers soon ceased totally, or occurred by permission of his invincible majesty; and the letters were generally open and accompanied by some remarks, some times burtcsque and sarcastic, and sometimes I conveying intelligence of the most disastrous nature from France. The peasants brought provisions to the city only under the pass ports of his majesty the traders and travel f lers were compelled to advertize in the Lay bach Zeitung, before they set out, on their route. with declaration that they were not going to France; in short, his majesty's de- termination to extinguish all intercourse with the land of tyranny, was expressed in the most un6iplolnatic distinctness and absence of cere- mOny.\n\n The French authorities, however. now set themselves actively to resist the public feeling and, as the first step ordered the printer of the Zeitsng to jail, with declaration, that the first merchant or traveller suspected of compromising with \"the banditti,\" should follow the printer. This had its effect for a few days, and the advertisements were stop ped. Buta BOlognese jeweller, who had come to the fair of Idria, and after lingering impa- tientIy for some weeks in the city, was anx- ious to realize the produce on the other side of the TyrOl, had not left Laybach half a German mile when he was met by party of armed peasantry,\" who ordered him back. They took nothing from him, and when he offered them money refused it, stating that they were paid by their own \"sovereign;\" and ordered merely to prevent any mans go-\n\n ing through his territory without his passport. Some other attempts had the same result; until at length the French commandant deter mined to take the field against the unseen u- surper. He gathered about five hundred troops Ofdferent arms and called out the Burgher-guard to make up his .army.s But the citizens had long since settled their minds on the point, and they one and all, discoyer-> ed so many personal reasons for objecting to a mountain campaign, that M. le Colonel de o0fh1 sv~Ra snls- obliged to compromise the affair, and leave the whole of the gallant Burgher-guard flor the defence of the gates and the ditches. |. The colonel was a bold fellow,a vieur mous- tGche, who had served from the time of Mo- reaus march into Swabia, and was soldier all Over.-The idea that his communications should be interceptedby mountain thief,a pediar, goat hunter,\" was at once int0llera- bIe and ludricrous; and he promised the civ- il council, that before twelve hours over thev should see the \"robber\" with rope round his neck. For the purpose of more com plete surprise, the expedition was to wait tin night fall. About seven in the evening pa- trOle which had been ordered to search in the market peasants as they pass out ofthe gates flor the honest Carniolans were strongly sus- pected of carrying on the correspondence of the disafected within and without,l brought in an old seller of eggs, in whose basket they had found some gunpowder. This was of course cOntraband of war, and the peasant was brought to head quarters. A further search discovered letter to the Mountain King\" He was extremely de- crepid, and so deal, that he could scarcely be made to understand that court martial was about to be held upon him. His Carnolian jargOn was eqnally lost upon the Colonel. To shoot him, however, required some more consideration. Trial was impossible. with a man destitute of all faculty ofexphnation, or understanding; his age rendered him harm less; and cruelty might have irritated the country people (wh0 had crowded back on his seizure,) and deprive the city its provisions Finally as the best alternative, it was de- termined to make use of the old man as guide to the haunt of the insurgent chief. This, however. he positively refused to be under fifty pleas ofignOrance, feebleness and fear he was at last induced to give way,was seated on baggage mule, with bayonet at his back and was marched out with. the troops. The peasantry hung their heads. with no very measured expressions of wrath at the hoary traitor but as the French nev- CT condescended to know any language but their own, all this was lost upon them.-- Night fall-the expedition proceeded--and the old man and his ass were put in front ofthe column watched by half dozen Chas-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3812,
+                    "y0": 833,
+                    "x1": 4722,
+                    "y1": 6388
+                }
+            ],
+            "bbox": [
+                3812,
+                833,
+                4722,
+                6388
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-08-02_p1_sn82014309_00414182926_1827080201_0221.json"
+        },
+        {
+            "object_ids": [
+                10,
+                8
+            ],
+            "headline": "SEASONS OF PRAYER.",
+            "article": "To prayer, to prayer-for the morning breaks, And earth in her Makers smile awakes: His light is on all below and above The light of gladness and life and love. On, then, on the breath of this early air, Send upward the incense of grateful prayer. To prayer-for the glorious sun is gone, And the gathering darkness of night comes on; Like curtain from Gods kind hand 1t flows, To shade the couch where his children repose. Then kneel while the watching stars are bright, And give your last thoughts to the Guardian ol\n\n night. v To prayer-for the day that God has blest, Comes tranquiiy on with its welcome rest: 1t speaks ofcreation's early bloom 1t speaks of the Prince who burst the tomb. Then summons the spirits exalted powers, And devote to Heaven the hailow'd hours. There are smiles and tears in the mothers eyes, For her new born infant beside her lies. Oh, hour of bssl when the heart o'erfows With rapture mother only knows: Let 1t gnsh forth in words of fervent prayer Let it swell to Heaven for her precious care. There are smiles and tears in that gathering band Where the heart IS pledged with the trembling\n\n hand.\n\n What trying thoughts in her bosom swell, As the bride bids parent and home farewell! kneel down by the side of the fearful fair, And strengthen the perilous hour with prayer. Kneel down by the dying sinners side, And pray for his soul thro him who died. Large drops of anguish are thick on his brow: Oh what is earth and its pleasures now! And what shall assuage his dark despair, But the penitent cry of humble prayer? Kneel down at the couch of departing faith, And hear the last words the believer saith. He has bidden adieu to his early friends There is peace in his eye that upward bends; There is peace in his calm cOn6diBg air For his last thoughts Gods, his last words prayer The voice of prayer at the sable bier! A voice to sustain, to sooth, and to cheer. It comments the spirit to God who gave; 1t lifts the thoughts from the cold dark grave; It points to the glory where he shall reign, Who whsper'd \"thy brother shall rise again. The voice of prayer in the world of bliss! But gadder, purer, than rose from this. The ransom'd shout to their glorious King, Where no sorrow shades the soul as they sing; But sinless and joyous song they raise, And the voice of prayer is eternal praise. Awake, awake, and gird up thy strength To join that holy band at length. To him who unceasing love displays, Whom the powers of nature increasingly praise To him thy heart and thy hours be given, For life of prayer is the life of heaven.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 442,
+                    "y0": 3694,
+                    "x1": 923,
+                    "y1": 3735
+                },
+                {
+                    "x0": 274,
+                    "y0": 3752,
+                    "x1": 1114,
+                    "y1": 6254
+                }
+            ],
+            "bbox": [
+                274,
+                3694,
+                1114,
+                6254
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-08-02_p1_sn82014309_00414182926_1827080201_0221.json"
+        },
+        {
+            "object_ids": [
+                16
+            ],
+            "headline": "",
+            "article": "Of all evll,\" and so frnl ln the belief that lt may be dug wp, that they may traverse hill and dale, climb the lOftiest mountain, and C. ven work their way into the bowels of the earth in search of it. Indeed digging for mo- ney hid in the earth, is very common thing: and in this state it is even considered an hon. orable and profitable employment. We could name if we pleased at least five hundred re- spectable men, who do, in the simplicity and sicerity of their hearts, verily believed that immense treasures lay concealed upon our Green Mountains, many of whom have been industriOusly and perseyeringly engaged in digging it up. Some of them have succeed ed even beyond their expectations. One gen tleman in ParkerstOwn, on the summit of the mountain, after digging with unyielding con fidence and unahatiing diligence, for ten or twelve years, found sufficient quantity of money to build him cOmmodious house for his own convenience, and to fill it with com forts for the weary traveller. On stopping lately to refresh. we were delighted by the view of an Gnchor on the sign, emblemat- ical of his hope of success, while we left him industriously digging for more. Another gen tleman on Lake Champlain, we were credibly informed, has actually dug up the enormous sum of fifty thousand dollars :! The incred- ] ulOus and unbelieving may stare at this asser- tiOn, but it is nevertheless true and we do not hesitate to declare our belief that digging tor money is the most certain way of obtain ing it.--NIuch, however depends upon the skill , ful use of the genuine mineral rod. Don't dag too deep, is an appropriate maxim with all those who are versed in the art. Woods l. ron Plough skillfully guided, is sure to break the enchantment, and turn up the glttering dust in every furrow. Countless treasures yet remain in the earth. Speed the plough ply the hoe-'twill all come to light.\n\n P. s. The best tune for digging money, is early in the morning, while the dew is on.\n\n General Psmeroy. The following, which oc- cured at the late anniversary meeting of the ancient and honorable Artillery Company of Boston, beautifully illustrates the sober, hon. est, and solemn resolution which distinguished so many of our fathers in the days of deliver ance from the house of bondage. Mr. Everett\n\n having been called on to propose a sentiment. introduced one with the following explanation: :\" MT. Commander: On the 17th of June,\n\n l775, two floating batteries were stationed by the British in Mystic river, and frigate in the basin near Lechmere's Point, whose cross fire raked Charlestown Neck. This was one of ttC GiHtk ClICutlSIdHCCS WHICH pTcNcuIcu tue effectual lre-enforcement during the day, the American troops on Bunker Hill. Several attempts, however, were made, and with suc- cess, by individuals and parties from the head quarters at Cambridge, to support the Amer\n\n ican force engaged on the Hill. Among others ] who made this attempt was Gen. Pomeroy, of Northampton, then in his roth year, who came down to the causeway, mounted on a borrowed horse. When he reached the spot, the whizzing of balls and grape-shot was heard, the ground was torn up, and the fences in all directions were torn into splinters: Gen. P. came to halt-and as some of those around\n\n him perhaps supposed, for the purpose of turning back. He however dismounted, gave the horse in charge of stander, observing, \"it is too valuable an animal to take into such fire, besides not being his own,\" shouldered his musket, and crossed the neck on foot.\"- Mr. Everett then proposed: \"The Yankee notion of a commanding officer-Prudent and brave; who knows when to spare the caval- ry, and when to push the infantry\" Cheers Bost. paper.\n\n Aualanche.-A gentleman of Fayston, in whose veracity the most implicit reliance can be placed, has obligingly furnished us with 1 the following account of an avalanche Ofearth",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2022,
+                    "y0": 781,
+                    "x1": 2909,
+                    "y1": 4789
+                }
+            ],
+            "bbox": [
+                2022,
+                781,
+                2909,
+                4789
+            ],
+            "full_article_id": 17,
+            "id": "17_1827-08-02_p1_sn82014309_00414182926_1827080201_0221.json"
+        },
+        {
+            "object_ids": [
+                18
+            ],
+            "headline": "",
+            "article": "Aualanche.-A gentleman of Fayston, in whose veracity the most implicit reliance can be placed. has obligingly furnished us with the following account of an avalanche Ofearth or side of the mountain, in Lincoln, Addison county, on the 27th ult. occasioned by the almost incessant rains: #\n\n 1 On the SOth of June, I went in company with 16 of my neighbours, to visit the spot so 1 singularly marked by providence. which am about to describe. found the slide to commence near the top of the mountain. be- tween two large rocks which were stripped of earth, opening passage of 4 rods wide, from ] which it proceeded sOutherly direction gradually widening for the distance of 200 rods, to the south branch of Mill Brook in FaystOn. In it's course it swept away every thing in its way overturning trees by the roots; divesting them of roots, branches and bark, often breaking them in short pieces. A number of rocks were moved to some dis tance, judged to weigh from Is to 20 tons. From where it entered Mill brook, its course was a northeriy direction 28O rOds-the nat ural course of the Brook which was small |; hut the channel cut by this freshet is now from to 10 rods wide: and on either side are large quantities of hoodwood. piled up in many places very high, and. from l5 to % rods of the lower part oft, it is blocked up a. cross the channel in every direction. Some of the trees are standing on their tops, and stripped of their bark, and branhces, and bro- ken into many pieces. The pile, in some pla- ces is ten feet high. Much of the timber is apparently buried severalfeet in the mud and sand. One large birch tree was broken of square. measuring 3 feet g inches where it was broken. One black ash was literally pounded into broom, whose brush is feet long. The whole distance of these ravages is mile and half, and the quanti.yof land metaphorsed into barren waste is 25 acres. The force of water must have been great, at which we cannot wonder when we con sider the probable depth of the water. In some places, from appearances, it must have been 30 feet high. Some of the trees on the sides of the channel were parked thirty or for ty feet high, and mud on them at that height. -[ Montpelier (Vt.) paper\n\n Miring SGlt with HGy.-An English agri- culturist gives the following interesting in- formation in answer to inquiries made of him, respecting his mixing salt with hay when get",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2022,
+                    "y0": 4580,
+                    "x1": 2909,
+                    "y1": 7146
+                }
+            ],
+            "bbox": [
+                2022,
+                4580,
+                2909,
+                7146
+            ],
+            "full_article_id": 19,
+            "id": "19_1827-08-02_p1_sn82014309_00414182926_1827080201_0221.json"
+        },
+        {
+            "object_ids": [
+                19
+            ],
+            "headline": "",
+            "article": "Miring SGlt with Hdy.-An English agri- cuIturist gives the following interesting in- formation in answer to inquiries made of him, respecting his mixing salt with hay when get",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2034,
+                    "y0": 6954,
+                    "x1": 2909,
+                    "y1": 7146
+                }
+            ],
+            "bbox": [
+                2034,
+                6954,
+                2909,
+                7146
+            ],
+            "full_article_id": 20,
+            "id": "20_1827-08-02_p1_sn82014309_00414182926_1827080201_0221.json"
+        }
+    ]
+}

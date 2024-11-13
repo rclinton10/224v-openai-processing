@@ -1,0 +1,675 @@
+{
+    "lccn": {
+        "title": "The Litchfield County post.",
+        "geonames_ids": [
+            "4837799"
+        ],
+        "dbpedia_ids": [
+            "Litchfield%2C_Connecticut"
+        ],
+        "issn": "",
+        "lccn": "sn82014309",
+        "start_year": "1826",
+        "end_year": "1829",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [
+            "sn84020071"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn82014309",
+        "edition": "ed-01",
+        "date": "1827-01-19",
+        "pages": [
+            "seq-4",
+            "seq-3",
+            "seq-1",
+            "seq-2"
+        ]
+    },
+    "page_number": "3",
+    "scan": {
+        "lccn": "sn82014309",
+        "edition": "ed-01",
+        "date": "1827-01-19",
+        "page": "3",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-01-19/ed-1/seq-3.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-01-19/ed-1/seq-3/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-01-19/ed-1/seq-3/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/ct_barnum_ver01/data/sn82014309/00414182926/1827011901/0121.jp2",
+        "height": 7322,
+        "width": 4989
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 3844,
+                "y0": 2116,
+                "x1": 4743,
+                "y1": 3049
+            },
+            "class": "article",
+            "raw_text": "TNHE Hon. Court of Probate for the Dis A 'trict of Norfolk has appointed the sub scribers Commissioners on the estates of ABRAHAM CADwELL, & SAMUEL HART, late of Winchester in said district deceased insolvent ;-We therefore give notice to all persons concerned that we shall attend to the duties of our appointment on the last Monday of January 1927, and on the first Monday of March 1927, at the Office of Wm. s. Holabird, in Winchester at o'clock PM. on each of said days, at which times and place the creditors of said estates will have an Op. portunty to present their claims to us for ad- justment and allowance.--All claims must be presented within the time aforesaid legally att tested or be barred recovery.\n\n Wm. s. HOLABIRD, ] Commis-\n\n JAMES c. CLEAVLAND, sioners.\n\n Winchester Jan. l2, 1927. 3l",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 4136,
+                "y0": 2036,
+                "x1": 4440,
+                "y1": 2094
+            },
+            "class": "headline",
+            "raw_text": "NOTICE.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3844,
+                "y0": 3151,
+                "x1": 4737,
+                "y1": 4125
+            },
+            "class": "article",
+            "raw_text": "THE subscriber has opened School for\n\n -1 the cure of fSTAMMERING or SHUT TERlNG, at Wm. Germonds, in the town of Pleasant Valley, Duchess co. N. Y. From the experience he has had in curing this af- flicting impeachment of the speech, he feels confident that he can affect cure in all such cases. AMASA HOLCOMB, Jr.\n\n This is to certify that have been afflicted with most obstinate stammering for nearly 80 years which thought could not be correc- ted, short of d miracle. After having attend ed Mir. Holcomb's Institution days, amable to speak and read with perfect facility, I would earnestly recommend any one who is afflicted in the same way, to put themselves under his care. As l am persuaded that on the part of the pupil nothing is necessary, but a strict observance of his rules to ensure a speedy recovery.\n\n OBADIAH B. BRIGGS. Clinton, (N. Y.) Jan. 13, 1927. Sl",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 4033,
+                "y0": 3071,
+                "x1": 4537,
+                "y1": 3135
+            },
+            "class": "headline",
+            "raw_text": "STAMMERING.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3855,
+                "y0": 983,
+                "x1": 4749,
+                "y1": 2020
+            },
+            "class": "article",
+            "raw_text": "THHE Hon. Court of Probate for the Dis- = trict of New Milford has limited and aI- lowed six months from the date hereof fer the Creditors to the estate of\n\n CALEB MORGAN, late of Kent in said district deceased, .repre- sented msOlvent to exhibit their claims thereto. ana has appointed Alphcus Fuller and John M' Raymond Commissioners to receive and examine said claims certified by\n\n MATTEL PERRY, Clerk. The subscribers give notice that they shall meet at the late dwelling house of the said deceased in said Kent on the first Mondays of March and July next at 10 o'clock in the fore noon on each of said days for the purpose of on the business of said appointment.\n\n ALPHEUS FULLER. Commis-\n\n JOHN M. RAYMOND, sioners. Kent, Jan. 8, 1897. Sl All persons indebted to said estate are re. quested to make immediate payment to\n\n MATTEL P. PERRY, Admin'r.-",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 3993,
+                "y0": 383,
+                "x1": 4629,
+                "y1": 447
+            },
+            "class": "headline",
+            "raw_text": "MASONIC NOTICE.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -2
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3890,
+                "y0": 920,
+                "x1": 4692,
+                "y1": 979
+            },
+            "class": "headline",
+            "raw_text": "CALEB MORGAN'S ESTATE.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 3855,
+                "y0": 4215,
+                "x1": 4749,
+                "y1": 4771
+            },
+            "class": "article",
+            "raw_text": "THE Subscribers keep constantly for sale -A at their establishment in Corn,call,\n\n WINDOW SASHES, of the common size, made of the best mate- rials, and in the most workmanlike manner. Extra sizes furnished at short notice. The above for sale on the most reasonable. terms, and on reasonable credit.\n\n JOEL BARNES,\n\n NELSON TT. LOOMTS,,\n\n EDWARD R. LOOMS. Cornwall, Jan. 1927. so",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3936,
+                "y0": 4141,
+                "x1": 4617,
+                "y1": 4199
+            },
+            "class": "headline",
+            "raw_text": "WINDOW SASHES.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2929,
+                "y0": 463,
+                "x1": 3834,
+                "y1": 5944
+            },
+            "class": "article",
+            "raw_text": "| muSh udNeheup ana Us source or emolument to its prOprictors. Most of the travellers on this road make use of it only distance of five miles, for which they are obliged to pay full fees at the toll gate. Most of them too resort to this ViI- lage on business which detains them here\n\n for considerable time thus contributing by their expenditures to the riches and { prosperity of the place. Under these cir comstanccs l%ey feel it peculiar hardship that they arc obliged for days and weeks to explore the woods, the fields, and the swampS to find a passage hither. The road from its commencement to the foot of the hill, has been totally blocked up by drifts since Saturday last, and still remains impossible. No attempt has been made to break it or clear it out except by the unwary traveller, who for want ofhelp has found himself compelled to back out and unravel the mazeS of side path, which has been struck out by some perseverine adventurer, and which after displaying to the lover ofthe picturesque all the varieties of hill and vale, rock and rail fence, zigzag and retrogade passages, finally conducts him by circuit of a mile to fair view of the east front of your venerable and ele- gant meeting house. The road is in much the>same condition for nearly two miles from town.\n\n Now, although the varieties of overtur- { ming, joting and swamping in snow drift, may all be agreeable at a proper time and season, yet they are by no means pleasant exercises for weary and frozen travellers. On the contrary their complaints are loud and frequent. They ask whether it is not as much the duty of the turnpike directors to clear and break path when the road is obstructed by snow drifts as when stopped by fallen trees it is their duty to remove them. They ask i'll vain to whom they are to look for help or redress. They are told perhaps that the directors have gene rously thrown open tl-o toll gate, and that without being compelled to pay for their own labour. This is a poor comfort indeed. A road is made for the accommodation of the public. High, I might say exor- bitant) fees are paid for that accommoda- tion~-and it is the undoubted duty of the company at all times and seasons to keep the road in good repair.\n\n But have little hopes of arousing the directors to a discharge of their duty. My object in this long communication is to ask the citizens of Litchfield Hill, whether it does not become them to wipe away the reproach by turning out and relieving the weary traveller of the necessity of such perilous adventures as now fall to his lot in approaching the seat of justice.\n\n 1he Detendent for himscD. ! On the 9th inst. came on at Canandaigua, NY. before the Court of Oyer and Terni- ner, the trial of the indictments in the case of the kidnapping of Capt. Morgan. Three in dividuals pleaded guity-a fourth was tried imprisonment in the county jail, one for two years, the others for few months. Morgan has not been heard of, and the most impene- 1 trable mystery hangs over his fate. We trust investigation will not cease until there shall be full development of the truth.\n\n { A Comet has been discovered for several evenings of last week, visible small distance l s. E. of the planet Mars. It is at present too distant to form any correct judgment of its course, but we mention the fact to draw the attention of Astronomers to it.-Nat. Int. MT. SMITH, ...\n\n When you issued your first paper you said \"that any personal pieces would not be inser- aed;\" Ifso why did you admit two pieces of (would bel poetry in your two last papers. l..\n\n Our correspondent l.\" has undertaken to quote from our first number words which we never used, and sentiments which we never intended to advance. It is impossible to pub fish paper without personalities. We how ever did say, and now repeat, that our col umns shall not be vehicle of personal slan- der and abuse; but we ''shall' always and fearlessly oppose unwarantable assumptions of power on the one hand, and unbridled li- centiousness on the other\" The first article referred to, was, on the first receipt, thrown aside as unworthy of insertion in decent pub lication; but on learning that it was intended simply to satirize disreputable and immoral conduct, we inserted it {; but are now ready to say it should not have been published. We never saw the last scurrilOus dOggcrell until we saw it in print. After having prepared mat ter for the paper, we left town for three days, and did not return until after the paper was printed. We will add that the hands in our office would not have admitted it, but as an advertisement. We can assure the friends of good reading that they shall not again he In- suited, through our columns, by such vulgar [",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 223,
+                "y0": 457,
+                "x1": 1128,
+                "y1": 5944
+            },
+            "class": "article",
+            "raw_text": "GUS canuloate, ana give the vote Ol the State to men who have moi been named in caucus. As decidedly as we are opposed to legislative should refuse to support good men simply be- cause they were thus nominated especially when ancient usage had not only warranted such a mode of making out nominations. hut when not even substitute for a legislative caucus had been loudly demanded by the peo- pie. The candidates who were designated at New-Haven last spring, should they re- ceiye the support of the freemen, cannot cer- tainly feel under any greater obligation to pur- sue the caucus system, than they would be had they been nominated by County Con- vention. Such measures, whether legislative cancusses, or county conventions, depend en- tirely upon the popular will. If the people say they will not hereafter feel hound to sup port caucus nominations, and that should their representatives so far violate their duty as to attempt to force such upon them, they shall be met at the polls by candidates nominated in a more popular way, the majority of the members of the assembly would never be will ling to attempt measure so unpopular, and so likely to bring upon themselves the indis- nation of their constituents In advocatngi the principle that, at this late hour. just upon the eve of the election, it would not be wise to attempt a new nomination, we would by moi means say, that the people, or any part off them, are under the least obligation to vote for the candidates that are soon to be brought forward, unless they have confidence in such candidates as being worthy of public favour, and as capable of honouring the stations to which they are designated. For ourselves we shall never advocate the principle of obliga- ton to support ticket which is made out by men volunteering their influence and their time in legislative caucus; and although we shall support part. and perhaps all. of the candidates thus recommended, we shall do it which grow. out of an obligation to caucus decrees. We shall do it because good men and true\" were members of the caucus, and men of the same stamp were proposed to the people by the caucus !: and because no other measures have been taken to bring forward oth crcandidates. for W whom the votes ofthe ireemen can be concentrated. Should other candidates be brought forward, with fair chance ofsuc- cess, who in our opinion are more worthy of support than those designated by the eau GUS at New Haven, we shall not be backward in advocating their claims in columns. In relation to MT. Merwin, as a candidate for member of Congress, we consider him, in the strictest sense of the word, a candidate, bro't forward in the best possible way, by the for mer vote and support of his fellow citizens. But between him and Mr. Sterling, who we believe, was as fairly nominated as any lcgis- lative caucus can do such business, we shall maintain strict neutrality, leaving it for the friends of the two gentlemen to advocate the claims of each, in our columns, if they see fit. We have stated this determination to the friends of both the candidates. and our req sons for pursuing such a course which req sons we are ready to repeat to any one who shall demand them.\n\n The following article has appeared in seve- ral of the papers of the day, and from all ac- counts there can be no doubt of its authenti- city.\n\n NEw-HAvEN, May 94, 1926. Dear Sir,\n\n MT. Bradford Winton, Deputy Sheriff in Weston, has done every thing in his power in the late political campaign, to injure the cause of Republicans and assist the Federasts- his conduct heinz such, that in our opinion it is improper he should any longer be continu- cd in office it is therefore requested. that you will fill his place with MT. Ira Baldwin, of Weston, and in so doing you will confer fa vor on the undersigned.\n\n DAVID HILL, ROBERT WILSON, STEPHEN WHEELaR, JEDEDIAH GRAVES, DAVID PLANT, WALTER BRADLEY.\n\n To FRIEND STARR, Esq. Danhury.\n\n David Hill is Senator, and David Plant is It. Coy. of the State; the other gentleman are representatives from different towns in Fairfield County. Now we have right to ask, by what authority did these honourable gentlemen interfere with the appointment of a",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1144,
+                "y0": 457,
+                "x1": 2026,
+                "y1": 5944
+            },
+            "class": "article",
+            "raw_text": "ana we believe correctly, that \" nineteen re-\n\n publican members were present\" at the time\n\n Mir. Sterling received nomination for mem-\n\n Der of Congress, by fOurteens out of the nine\n\n teen,votes. In relation to this nomination we can state, upon the best authority, that it was as fairly and as honestly given to Mir Sterling as any previous nomination of the kind ever\n\n had heen or could possibly be. That there was no bargaining, no underhand intriguing, we have every reason to believe at least if any confidence can be placed in men whom the people have been wont to trust and res pect. Now with the advocates the caucus system. this would seem to be enough to war rant the belief, that Mir. SterIing's nomination was public expression of the popular will in his favor. Without advocating or opposing the candidate thus brought forward, we shall take advantage of the facts stated in the arti- cle above alluded to, to show the glaring in- consistency OflegiSlative caucusses, when con- sidered as a criterion of public opinion and the necessity of districting and county con ventions as the only equitable mode of filling important offices in the gift of the people, This county sends thirty-eight members to the Assembly. One half only were present at the caucus, and of that half but fourteen votes were given for MT. S. Here then two thirds of the people are cut off from all parti- cipation in designating candidates for ot!ice.- Many towns in the county had no voice in the business, and from :he nature of the case it was impossible that they should have any part or lot in the matter Their representa- tives were men, either unwilling to lend their influence to the generally corrupt practice of or their political creed was ques- toned, and of course they had no influence to lend at such a meeting. Should this argu- ment he taken up,by saying that federal mem bers ought not to be taken into the account when speaking of the influence of the county in caucus, we will say that the members de- nominated federal represented towns which have hundreds, if not thousands of republican electors; and these electors were to all intents and purposes cut off from all chance of participation in .he business of the meeting. Supposing the friends ofthe 14mcmbers who voted for Mir. s. are under an obligation to support his election, can it be contended that the residue who did not, or could not, have an opportunity to vote either for or against\n\n ain, by their representatives, are under the slightest obligation to give him their votes ?- Let the lines be drawn between the friends of the fourteen members above mentioned, and the friends of the twentyfour remaining members, and there would be a powerful bal ance against B1r. Sterling, and not only a. gainst Mir. Sterling, but against every candid ate named in caucus at New Haven last spring. yes,-let the doctrine of obligation to support caucus nominations prevail,-it cannot certain ly be contendcd that it is binding upon those who neither directly or indirectly participated in the caucus rroceedings-and let only the votes which such an obligation can claim, be given to the caucus candidates, and not an in dividual of them throughout the state would secure an election. We know very well that\n\n at present the lines will no: be drawn here |; but the time will shortly come when the peo- pie will not abide by the dictation of few representatives met in concave, to designate who shall, and who shall not fill important state offices. Not only the best interest of the state, but even the best interest of the re- publican party in the state, loudly demands that different course should be pursued, not only in the choice of officers, but also in the manner of nominating candidates for the sev- eral offices in the gift of the people.\n\n Sno,c.-Thns far we have had what may justly be siilcd an \" old fashioned' winter. On Long Island the snow is said to be S2 inches deep.-in the vicinity of Albany 26 inches,- in Rutland co. Vt. 36 iIches,-in Keene, W. H. 18 inches, and in St. Lawrence co. N. Y. about 9 feet upon level. Itis computed that snow has fallen in this town sufficient to cov- CT the earth feet upon level but our eleva- ted situation gives Boreas a fair chance to block up our roads with drifts, which at the present time is done pretty effectually. In the early part of this week the stages were unable to pursue their regular northern trips; and one of the horses, on one the southern lines. was killed in attempting to get through fine drifts",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2042,
+                "y0": 6749,
+                "x1": 2918,
+                "y1": 7036
+            },
+            "class": "article",
+            "raw_text": "Mir. SMITH\n\n SlR-Permit me through your columns to express the feelings of many strangers, who during the late indictment season have been under the necessity of visiting Litch- field Hill.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 2231,
+                "y0": 6698,
+                "x1": 2724,
+                "y1": 6739
+            },
+            "class": "headline",
+            "raw_text": "FOR THE COUNTY POST.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2036,
+                "y0": 463,
+                "x1": 2924,
+                "y1": 5944
+            },
+            "class": "article",
+            "raw_text": "ncauOnS were puDnsneu, which, 1t may be I easily seen, have reference to the same sub ject (Viz.) the election of MT. Stirling to the next Congress in the place of Mir. Merwin. It was to be expected that the confederacy of lawyers who have SO long ruled this county, and whose intrigue and management have been so conspicuous in appropriating to themselves the most important offices in the gift of the people, would endeavOur to COntrivc some scheme to lay aside the present incumbent in order to make room for man who is better qualified to forward their views.-The nomi- nation and subsequent election of Mir. Merwin was great disappointment and modification to the gentleman above referred to; and ever since that event system ofmeasures has been in operation which has resulted in the nOmi- nation of MT. Sterling in the room of Mr. Merwin-This has created great surprise and regret among the great body of Republican farmers through the County, who feel proud of having so respectable man of their own profession, as MT. Merwin, to represent them in Congress. Much inquiry has been made as to the reasons which have led to the dis missal of MT. Merwin and the substitution of Mir. Sterling in his place.-The writer signs himself \"Another Farmer''-and who prob ably has the best possible opportunity of knowing MT. Sterling's qualifications, has en- deayoured to satisfy the inq,,isitiveness of the public on this subject, and among other apol- ogies for this abusive contempt of public opin- ion, has observed that |\" Mr. Sterling has long been known and esteemed as one of the most intelligent, frank aud fearless Republicans of the County.\"-In relation to the longevitp of MT. Sterling's Republicanism it may be ob- served, that it is but short time since he was known as Republican at all. Manynow on the stage and active in politics can remember when he was the same |\" frank and fearless supporter of federalism that he now is of Re publicanisn,-and as to his .frankness and fearlessness it is rot believed by those who know him but that he possesses those quail ties in greater degree than MT. Merwin.-If to be bold in the condemnation of measures which he once opposed, and in the abuse of men whom he once prolessed to admire, is frankness, Mir. Sterling is '' frank. .\"-If to suf- fer his own claims to preferment to be pres sed with unremitted assiduity, in opposition to\n\n long tried and faithful Republicans, and to the well known wishes of the Electors of the County, is tearlessness, MT. Sterling is \" fear ss.\"-But it is believed that such frankness and fearlessness as this is not such as will re- commend their possess\"r to public favour.- The people of this County are we'll satisfied with their present Representative in Congress-\n\n and the friends of MT. Sterling are sensible that it will require good deal of management to effect the change they desire.-With view to prepare the public mind for so unreasona- ble and unfair measure, as the substitution of MT. Sterling for Mir. Merwin would be, a Champion of tho confederacy, who had pro- bably been highly fiattered with hopes of pat ronage and preferment, has come forward un- der the signature of 4 Republican Elector, & has broken ground at great distance from the subject matter of dispute by giving ve- ry learned disputation on the danger of inno- cations, the disasterous consequences of dis cussions, the jo- of .jederalists at the appear ance of new nomination, &c. &c. Now all this is said with view to frighten the Repub- licans of the County into an acquiescence with the wishes of the junto.-But they have been frightened and Aattered and deceived long e. nough.-It is believed that nothing can be done which will so effectually divide the Re publican party, & destroy the Republican as- cendsncy in this County, as for the friends of MT. Sterling persist in forcing him upon the Electors as a candidate for Congress. The party is well united in the present Represen- tativa, & the friends of MT. Merwin have yet to learn that he has done any act as mem- ber of Congress, and as man. for which he has forfeited their confidence, and for which he should be laid aside.\n\n As to the danger which the writer appre- hends from the designs of the federalists, it is believed none exists. It is well known that that party has never been organised for the F. ",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2237,
+                "y0": 331,
+                "x1": 2724,
+                "y1": 378
+            },
+            "class": "headline",
+            "raw_text": "FOR THE COUNTY POST.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3838,
+                "y0": 4833,
+                "x1": 4760,
+                "y1": 6785
+            },
+            "class": "article",
+            "raw_text": "\n\n Rsmaining in the Post Office at Litch field.\n\n January 1st, 1927. Daniel Baldwin. Bctsey Loundsberry, Olive M. Bradley, John Mansfield, I.aban Beach, Abraham Morse 2 Wm. M. Burrall, Amos Moss, Eben Bassett, Coe & Munsell, John Bissell, Aaron s. Merrill, Esther Blakesley, Catharine Peters, Charles c. Buel, Eunice Peck, Augustine A. Buel, Tho's A. Payne, James Burge, Samuel B. Plumb, A. Catlin, Joseph Pruden, Levi Coe, IIiday Parmeley, Augustus Cooke, Sherman Pierpont, I.uman Curtis, Linus Parmelee, John L Church, George w. Potter, Anna Cable, Charles B. Phelps, Allen J. Cole, John PIerpont, Bissell Chubbuck, Fiber Peters, Luther Clark, John c. Riley, Harr;ett Clark, Henry s. Richssds, Ellis Catlin, Loomis Rowley, Martin Clapp, Lucy Stone, Elon Champion, Bryant Stoddard, George Cook, Amos c. Sherman, Osbon Dexter, William Scovill, William Elliot, Ansel Sterling, Frederick J. Fenn, Boyd & Thayer, Harry Fitch, Philip Tompkins, Margaret Granger, Celestla Ihomas' Oliver Goodwin, Philee Taylor, James Griswold, Benj. Vaill, John Griswold, J.C. & sWadswortia Royal R. Hinman, Denman Woodruff, Margaret Hall, Moses Wheeler. Aaron Hunter, Samuel Woodruff, \\ Ira Hart. Abiathar Wilcox. Ell;ot Hitchcock, Reuben Webster, Willis Hall, William G. Williams, Hiram ]. Hand, Nelson Wadhams.\n\n All Letters not called for in three months will be sent to the General Post Office.\n\n CHARLES SEYMOUR, P. M",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 3993,
+                "y0": 4793,
+                "x1": 4537,
+                "y1": 4846
+            },
+            "class": "headline",
+            "raw_text": "LIST OF LETTERS,",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 3850,
+                "y0": 6801,
+                "x1": 4749,
+                "y1": 7025
+            },
+            "class": "article",
+            "raw_text": "FOR SALE, 1.-TWO first rate new milch COWS four l years old with calves by their sides. 30 Enquire at this Office",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 2940,
+                "y0": 4221,
+                "x1": 3834,
+                "y1": 4497
+            },
+            "class": "article",
+            "raw_text": "Comet has been discovered for several evenings of last week. visible a small distance s. E. of the planet Mars. It is at present too distant to form any correct judgment of its course, but we mention the fact to draw the attention of Astronomers to it.-Nat. Int.",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                10,
+                0
+            ],
+            "headline": "NOTICE.",
+            "article": "TNHE Hon. Court of Probate for the Dis A 'trict of Norfolk has appointed the sub scribers Commissioners on the estates of ABRAHAM CADwELL, & SAMUEL HART, late of Winchester in said district deceased insolvent ;-We therefore give notice to all persons concerned that we shall attend to the duties of our appointment on the last Monday of January 1927, and on the first Monday of March 1927, at the Office of Wm. s. Holabird, in Winchester at o'clock PM. on each of said days, at which times and place the creditors of said estates will have an Op. portunty to present their claims to us for ad- justment and allowance.--All claims must be presented within the time aforesaid legally att tested or be barred recovery.\n\n Wm. s. HOLABIRD, ] Commis-\n\n JAMES c. CLEAVLAND, sioners.\n\n Winchester Jan. l2, 1927. 3l",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 4136,
+                    "y0": 2036,
+                    "x1": 4440,
+                    "y1": 2094
+                },
+                {
+                    "x0": 3844,
+                    "y0": 2116,
+                    "x1": 4743,
+                    "y1": 3049
+                }
+            ],
+            "bbox": [
+                3844,
+                2036,
+                4743,
+                3049
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-01-19_p3_sn82014309_00414182926_1827011901_0121.json"
+        },
+        {
+            "object_ids": [
+                9,
+                1
+            ],
+            "headline": "STAMMERING.",
+            "article": "THE subscriber has opened School for\n\n -1 the cure of fSTAMMERING or SHUT TERlNG, at Wm. Germonds, in the town of Pleasant Valley, Duchess co. N. Y. From the experience he has had in curing this af- flicting impeachment of the speech, he feels confident that he can affect cure in all such cases. AMASA HOLCOMB, Jr.\n\n This is to certify that have been afflicted with most obstinate stammering for nearly 80 years which thought could not be correc- ted, short of d miracle. After having attend ed Mir. Holcomb's Institution days, amable to speak and read with perfect facility, I would earnestly recommend any one who is afflicted in the same way, to put themselves under his care. As l am persuaded that on the part of the pupil nothing is necessary, but a strict observance of his rules to ensure a speedy recovery.\n\n OBADIAH B. BRIGGS. Clinton, (N. Y.) Jan. 13, 1927. Sl",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 4033,
+                    "y0": 3071,
+                    "x1": 4537,
+                    "y1": 3135
+                },
+                {
+                    "x0": 3844,
+                    "y0": 3151,
+                    "x1": 4737,
+                    "y1": 4125
+                }
+            ],
+            "bbox": [
+                3844,
+                3071,
+                4737,
+                4125
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-01-19_p3_sn82014309_00414182926_1827011901_0121.json"
+        },
+        {
+            "object_ids": [
+                21,
+                14,
+                2
+            ],
+            "headline": "MASONIC NOTICE.\n\nCALEB MORGAN'S ESTATE.",
+            "article": "THHE Hon. Court of Probate for the Dis- = trict of New Milford has limited and aI- lowed six months from the date hereof fer the Creditors to the estate of\n\n CALEB MORGAN, late of Kent in said district deceased, .repre- sented msOlvent to exhibit their claims thereto. ana has appointed Alphcus Fuller and John M' Raymond Commissioners to receive and examine said claims certified by\n\n MATTEL PERRY, Clerk. The subscribers give notice that they shall meet at the late dwelling house of the said deceased in said Kent on the first Mondays of March and July next at 10 o'clock in the fore noon on each of said days for the purpose of on the business of said appointment.\n\n ALPHEUS FULLER. Commis-\n\n JOHN M. RAYMOND, sioners. Kent, Jan. 8, 1897. Sl All persons indebted to said estate are re. quested to make immediate payment to\n\n MATTEL P. PERRY, Admin'r.-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3993,
+                    "y0": 383,
+                    "x1": 4629,
+                    "y1": 447
+                },
+                {
+                    "x0": 3890,
+                    "y0": 920,
+                    "x1": 4692,
+                    "y1": 979
+                },
+                {
+                    "x0": 3855,
+                    "y0": 983,
+                    "x1": 4749,
+                    "y1": 2020
+                }
+            ],
+            "bbox": [
+                3855,
+                383,
+                4749,
+                2020
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-01-19_p3_sn82014309_00414182926_1827011901_0121.json"
+        },
+        {
+            "object_ids": [
+                15,
+                3
+            ],
+            "headline": "WINDOW SASHES.",
+            "article": "THE Subscribers keep constantly for sale -A at their establishment in Corn,call,\n\n WINDOW SASHES, of the common size, made of the best mate- rials, and in the most workmanlike manner. Extra sizes furnished at short notice. The above for sale on the most reasonable. terms, and on reasonable credit.\n\n JOEL BARNES,\n\n NELSON TT. LOOMTS,,\n\n EDWARD R. LOOMS. Cornwall, Jan. 1927. so",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3936,
+                    "y0": 4141,
+                    "x1": 4617,
+                    "y1": 4199
+                },
+                {
+                    "x0": 3855,
+                    "y0": 4215,
+                    "x1": 4749,
+                    "y1": 4771
+                }
+            ],
+            "bbox": [
+                3855,
+                4141,
+                4749,
+                4771
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-01-19_p3_sn82014309_00414182926_1827011901_0121.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "| muSh udNeheup ana Us source or emolument to its prOprictors. Most of the travellers on this road make use of it only distance of five miles, for which they are obliged to pay full fees at the toll gate. Most of them too resort to this ViI- lage on business which detains them here\n\n for considerable time thus contributing by their expenditures to the riches and { prosperity of the place. Under these cir comstanccs l%ey feel it peculiar hardship that they arc obliged for days and weeks to explore the woods, the fields, and the swampS to find a passage hither. The road from its commencement to the foot of the hill, has been totally blocked up by drifts since Saturday last, and still remains impossible. No attempt has been made to break it or clear it out except by the unwary traveller, who for want ofhelp has found himself compelled to back out and unravel the mazeS of side path, which has been struck out by some perseverine adventurer, and which after displaying to the lover ofthe picturesque all the varieties of hill and vale, rock and rail fence, zigzag and retrogade passages, finally conducts him by circuit of a mile to fair view of the east front of your venerable and ele- gant meeting house. The road is in much the>same condition for nearly two miles from town.\n\n Now, although the varieties of overtur- { ming, joting and swamping in snow drift, may all be agreeable at a proper time and season, yet they are by no means pleasant exercises for weary and frozen travellers. On the contrary their complaints are loud and frequent. They ask whether it is not as much the duty of the turnpike directors to clear and break path when the road is obstructed by snow drifts as when stopped by fallen trees it is their duty to remove them. They ask i'll vain to whom they are to look for help or redress. They are told perhaps that the directors have gene rously thrown open tl-o toll gate, and that without being compelled to pay for their own labour. This is a poor comfort indeed. A road is made for the accommodation of the public. High, I might say exor- bitant) fees are paid for that accommoda- tion~-and it is the undoubted duty of the company at all times and seasons to keep the road in good repair.\n\n But have little hopes of arousing the directors to a discharge of their duty. My object in this long communication is to ask the citizens of Litchfield Hill, whether it does not become them to wipe away the reproach by turning out and relieving the weary traveller of the necessity of such perilous adventures as now fall to his lot in approaching the seat of justice.\n\n 1he Detendent for himscD. ! On the 9th inst. came on at Canandaigua, NY. before the Court of Oyer and Terni- ner, the trial of the indictments in the case of the kidnapping of Capt. Morgan. Three in dividuals pleaded guity-a fourth was tried imprisonment in the county jail, one for two years, the others for few months. Morgan has not been heard of, and the most impene- 1 trable mystery hangs over his fate. We trust investigation will not cease until there shall be full development of the truth.\n\n { A Comet has been discovered for several evenings of last week, visible small distance l s. E. of the planet Mars. It is at present too distant to form any correct judgment of its course, but we mention the fact to draw the attention of Astronomers to it.-Nat. Int. MT. SMITH, ...\n\n When you issued your first paper you said \"that any personal pieces would not be inser- aed;\" Ifso why did you admit two pieces of (would bel poetry in your two last papers. l..\n\n Our correspondent l.\" has undertaken to quote from our first number words which we never used, and sentiments which we never intended to advance. It is impossible to pub fish paper without personalities. We how ever did say, and now repeat, that our col umns shall not be vehicle of personal slan- der and abuse; but we ''shall' always and fearlessly oppose unwarantable assumptions of power on the one hand, and unbridled li- centiousness on the other\" The first article referred to, was, on the first receipt, thrown aside as unworthy of insertion in decent pub lication; but on learning that it was intended simply to satirize disreputable and immoral conduct, we inserted it {; but are now ready to say it should not have been published. We never saw the last scurrilOus dOggcrell until we saw it in print. After having prepared mat ter for the paper, we left town for three days, and did not return until after the paper was printed. We will add that the hands in our office would not have admitted it, but as an advertisement. We can assure the friends of good reading that they shall not again he In- suited, through our columns, by such vulgar [",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2929,
+                    "y0": 463,
+                    "x1": 3834,
+                    "y1": 5944
+                }
+            ],
+            "bbox": [
+                2929,
+                463,
+                3834,
+                5944
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-01-19_p3_sn82014309_00414182926_1827011901_0121.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "GUS canuloate, ana give the vote Ol the State to men who have moi been named in caucus. As decidedly as we are opposed to legislative should refuse to support good men simply be- cause they were thus nominated especially when ancient usage had not only warranted such a mode of making out nominations. hut when not even substitute for a legislative caucus had been loudly demanded by the peo- pie. The candidates who were designated at New-Haven last spring, should they re- ceiye the support of the freemen, cannot cer- tainly feel under any greater obligation to pur- sue the caucus system, than they would be had they been nominated by County Con- vention. Such measures, whether legislative cancusses, or county conventions, depend en- tirely upon the popular will. If the people say they will not hereafter feel hound to sup port caucus nominations, and that should their representatives so far violate their duty as to attempt to force such upon them, they shall be met at the polls by candidates nominated in a more popular way, the majority of the members of the assembly would never be will ling to attempt measure so unpopular, and so likely to bring upon themselves the indis- nation of their constituents In advocatngi the principle that, at this late hour. just upon the eve of the election, it would not be wise to attempt a new nomination, we would by moi means say, that the people, or any part off them, are under the least obligation to vote for the candidates that are soon to be brought forward, unless they have confidence in such candidates as being worthy of public favour, and as capable of honouring the stations to which they are designated. For ourselves we shall never advocate the principle of obliga- ton to support ticket which is made out by men volunteering their influence and their time in legislative caucus; and although we shall support part. and perhaps all. of the candidates thus recommended, we shall do it which grow. out of an obligation to caucus decrees. We shall do it because good men and true\" were members of the caucus, and men of the same stamp were proposed to the people by the caucus !: and because no other measures have been taken to bring forward oth crcandidates. for W whom the votes ofthe ireemen can be concentrated. Should other candidates be brought forward, with fair chance ofsuc- cess, who in our opinion are more worthy of support than those designated by the eau GUS at New Haven, we shall not be backward in advocating their claims in columns. In relation to MT. Merwin, as a candidate for member of Congress, we consider him, in the strictest sense of the word, a candidate, bro't forward in the best possible way, by the for mer vote and support of his fellow citizens. But between him and Mr. Sterling, who we believe, was as fairly nominated as any lcgis- lative caucus can do such business, we shall maintain strict neutrality, leaving it for the friends of the two gentlemen to advocate the claims of each, in our columns, if they see fit. We have stated this determination to the friends of both the candidates. and our req sons for pursuing such a course which req sons we are ready to repeat to any one who shall demand them.\n\n The following article has appeared in seve- ral of the papers of the day, and from all ac- counts there can be no doubt of its authenti- city.\n\n NEw-HAvEN, May 94, 1926. Dear Sir,\n\n MT. Bradford Winton, Deputy Sheriff in Weston, has done every thing in his power in the late political campaign, to injure the cause of Republicans and assist the Federasts- his conduct heinz such, that in our opinion it is improper he should any longer be continu- cd in office it is therefore requested. that you will fill his place with MT. Ira Baldwin, of Weston, and in so doing you will confer fa vor on the undersigned.\n\n DAVID HILL, ROBERT WILSON, STEPHEN WHEELaR, JEDEDIAH GRAVES, DAVID PLANT, WALTER BRADLEY.\n\n To FRIEND STARR, Esq. Danhury.\n\n David Hill is Senator, and David Plant is It. Coy. of the State; the other gentleman are representatives from different towns in Fairfield County. Now we have right to ask, by what authority did these honourable gentlemen interfere with the appointment of a",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 223,
+                    "y0": 457,
+                    "x1": 1128,
+                    "y1": 5944
+                }
+            ],
+            "bbox": [
+                223,
+                457,
+                1128,
+                5944
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-01-19_p3_sn82014309_00414182926_1827011901_0121.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "ana we believe correctly, that \" nineteen re-\n\n publican members were present\" at the time\n\n Mir. Sterling received nomination for mem-\n\n Der of Congress, by fOurteens out of the nine\n\n teen,votes. In relation to this nomination we can state, upon the best authority, that it was as fairly and as honestly given to Mir Sterling as any previous nomination of the kind ever\n\n had heen or could possibly be. That there was no bargaining, no underhand intriguing, we have every reason to believe at least if any confidence can be placed in men whom the people have been wont to trust and res pect. Now with the advocates the caucus system. this would seem to be enough to war rant the belief, that Mir. SterIing's nomination was public expression of the popular will in his favor. Without advocating or opposing the candidate thus brought forward, we shall take advantage of the facts stated in the arti- cle above alluded to, to show the glaring in- consistency OflegiSlative caucusses, when con- sidered as a criterion of public opinion and the necessity of districting and county con ventions as the only equitable mode of filling important offices in the gift of the people, This county sends thirty-eight members to the Assembly. One half only were present at the caucus, and of that half but fourteen votes were given for MT. S. Here then two thirds of the people are cut off from all parti- cipation in designating candidates for ot!ice.- Many towns in the county had no voice in the business, and from :he nature of the case it was impossible that they should have any part or lot in the matter Their representa- tives were men, either unwilling to lend their influence to the generally corrupt practice of or their political creed was ques- toned, and of course they had no influence to lend at such a meeting. Should this argu- ment he taken up,by saying that federal mem bers ought not to be taken into the account when speaking of the influence of the county in caucus, we will say that the members de- nominated federal represented towns which have hundreds, if not thousands of republican electors; and these electors were to all intents and purposes cut off from all chance of participation in .he business of the meeting. Supposing the friends ofthe 14mcmbers who voted for Mir. s. are under an obligation to support his election, can it be contended that the residue who did not, or could not, have an opportunity to vote either for or against\n\n ain, by their representatives, are under the slightest obligation to give him their votes ?- Let the lines be drawn between the friends of the fourteen members above mentioned, and the friends of the twentyfour remaining members, and there would be a powerful bal ance against B1r. Sterling, and not only a. gainst Mir. Sterling, but against every candid ate named in caucus at New Haven last spring. yes,-let the doctrine of obligation to support caucus nominations prevail,-it cannot certain ly be contendcd that it is binding upon those who neither directly or indirectly participated in the caucus rroceedings-and let only the votes which such an obligation can claim, be given to the caucus candidates, and not an in dividual of them throughout the state would secure an election. We know very well that\n\n at present the lines will no: be drawn here |; but the time will shortly come when the peo- pie will not abide by the dictation of few representatives met in concave, to designate who shall, and who shall not fill important state offices. Not only the best interest of the state, but even the best interest of the re- publican party in the state, loudly demands that different course should be pursued, not only in the choice of officers, but also in the manner of nominating candidates for the sev- eral offices in the gift of the people.\n\n Sno,c.-Thns far we have had what may justly be siilcd an \" old fashioned' winter. On Long Island the snow is said to be S2 inches deep.-in the vicinity of Albany 26 inches,- in Rutland co. Vt. 36 iIches,-in Keene, W. H. 18 inches, and in St. Lawrence co. N. Y. about 9 feet upon level. Itis computed that snow has fallen in this town sufficient to cov- CT the earth feet upon level but our eleva- ted situation gives Boreas a fair chance to block up our roads with drifts, which at the present time is done pretty effectually. In the early part of this week the stages were unable to pursue their regular northern trips; and one of the horses, on one the southern lines. was killed in attempting to get through fine drifts",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1144,
+                    "y0": 457,
+                    "x1": 2026,
+                    "y1": 5944
+                }
+            ],
+            "bbox": [
+                1144,
+                457,
+                2026,
+                5944
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-01-19_p3_sn82014309_00414182926_1827011901_0121.json"
+        },
+        {
+            "object_ids": [
+                18,
+                7
+            ],
+            "headline": "FOR THE COUNTY POST.",
+            "article": "Mir. SMITH\n\n SlR-Permit me through your columns to express the feelings of many strangers, who during the late indictment season have been under the necessity of visiting Litch- field Hill.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2231,
+                    "y0": 6698,
+                    "x1": 2724,
+                    "y1": 6739
+                },
+                {
+                    "x0": 2042,
+                    "y0": 6749,
+                    "x1": 2918,
+                    "y1": 7036
+                }
+            ],
+            "bbox": [
+                2042,
+                6698,
+                2918,
+                7036
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-01-19_p3_sn82014309_00414182926_1827011901_0121.json"
+        },
+        {
+            "object_ids": [
+                13,
+                8
+            ],
+            "headline": "FOR THE COUNTY POST.",
+            "article": "ncauOnS were puDnsneu, which, 1t may be I easily seen, have reference to the same sub ject (Viz.) the election of MT. Stirling to the next Congress in the place of Mir. Merwin. It was to be expected that the confederacy of lawyers who have SO long ruled this county, and whose intrigue and management have been so conspicuous in appropriating to themselves the most important offices in the gift of the people, would endeavOur to COntrivc some scheme to lay aside the present incumbent in order to make room for man who is better qualified to forward their views.-The nomi- nation and subsequent election of Mir. Merwin was great disappointment and modification to the gentleman above referred to; and ever since that event system ofmeasures has been in operation which has resulted in the nOmi- nation of MT. Sterling in the room of Mr. Merwin-This has created great surprise and regret among the great body of Republican farmers through the County, who feel proud of having so respectable man of their own profession, as MT. Merwin, to represent them in Congress. Much inquiry has been made as to the reasons which have led to the dis missal of MT. Merwin and the substitution of Mir. Sterling in his place.-The writer signs himself \"Another Farmer''-and who prob ably has the best possible opportunity of knowing MT. Sterling's qualifications, has en- deayoured to satisfy the inq,,isitiveness of the public on this subject, and among other apol- ogies for this abusive contempt of public opin- ion, has observed that |\" Mr. Sterling has long been known and esteemed as one of the most intelligent, frank aud fearless Republicans of the County.\"-In relation to the longevitp of MT. Sterling's Republicanism it may be ob- served, that it is but short time since he was known as Republican at all. Manynow on the stage and active in politics can remember when he was the same |\" frank and fearless supporter of federalism that he now is of Re publicanisn,-and as to his .frankness and fearlessness it is rot believed by those who know him but that he possesses those quail ties in greater degree than MT. Merwin.-If to be bold in the condemnation of measures which he once opposed, and in the abuse of men whom he once prolessed to admire, is frankness, Mir. Sterling is '' frank. .\"-If to suf- fer his own claims to preferment to be pres sed with unremitted assiduity, in opposition to\n\n long tried and faithful Republicans, and to the well known wishes of the Electors of the County, is tearlessness, MT. Sterling is \" fear ss.\"-But it is believed that such frankness and fearlessness as this is not such as will re- commend their possess\"r to public favour.- The people of this County are we'll satisfied with their present Representative in Congress-\n\n and the friends of MT. Sterling are sensible that it will require good deal of management to effect the change they desire.-With view to prepare the public mind for so unreasona- ble and unfair measure, as the substitution of MT. Sterling for Mir. Merwin would be, a Champion of tho confederacy, who had pro- bably been highly fiattered with hopes of pat ronage and preferment, has come forward un- der the signature of 4 Republican Elector, & has broken ground at great distance from the subject matter of dispute by giving ve- ry learned disputation on the danger of inno- cations, the disasterous consequences of dis cussions, the jo- of .jederalists at the appear ance of new nomination, &c. &c. Now all this is said with view to frighten the Repub- licans of the County into an acquiescence with the wishes of the junto.-But they have been frightened and Aattered and deceived long e. nough.-It is believed that nothing can be done which will so effectually divide the Re publican party, & destroy the Republican as- cendsncy in this County, as for the friends of MT. Sterling persist in forcing him upon the Electors as a candidate for Congress. The party is well united in the present Represen- tativa, & the friends of MT. Merwin have yet to learn that he has done any act as mem- ber of Congress, and as man. for which he has forfeited their confidence, and for which he should be laid aside.\n\n As to the danger which the writer appre- hends from the designs of the federalists, it is believed none exists. It is well known that that party has never been organised for the F. ",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2237,
+                    "y0": 331,
+                    "x1": 2724,
+                    "y1": 378
+                },
+                {
+                    "x0": 2036,
+                    "y0": 463,
+                    "x1": 2924,
+                    "y1": 5944
+                }
+            ],
+            "bbox": [
+                2036,
+                331,
+                2924,
+                5944
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-01-19_p3_sn82014309_00414182926_1827011901_0121.json"
+        },
+        {
+            "object_ids": [
+                17,
+                12
+            ],
+            "headline": "LIST OF LETTERS,",
+            "article": "\n\n Rsmaining in the Post Office at Litch field.\n\n January 1st, 1927. Daniel Baldwin. Bctsey Loundsberry, Olive M. Bradley, John Mansfield, I.aban Beach, Abraham Morse 2 Wm. M. Burrall, Amos Moss, Eben Bassett, Coe & Munsell, John Bissell, Aaron s. Merrill, Esther Blakesley, Catharine Peters, Charles c. Buel, Eunice Peck, Augustine A. Buel, Tho's A. Payne, James Burge, Samuel B. Plumb, A. Catlin, Joseph Pruden, Levi Coe, IIiday Parmeley, Augustus Cooke, Sherman Pierpont, I.uman Curtis, Linus Parmelee, John L Church, George w. Potter, Anna Cable, Charles B. Phelps, Allen J. Cole, John PIerpont, Bissell Chubbuck, Fiber Peters, Luther Clark, John c. Riley, Harr;ett Clark, Henry s. Richssds, Ellis Catlin, Loomis Rowley, Martin Clapp, Lucy Stone, Elon Champion, Bryant Stoddard, George Cook, Amos c. Sherman, Osbon Dexter, William Scovill, William Elliot, Ansel Sterling, Frederick J. Fenn, Boyd & Thayer, Harry Fitch, Philip Tompkins, Margaret Granger, Celestla Ihomas' Oliver Goodwin, Philee Taylor, James Griswold, Benj. Vaill, John Griswold, J.C. & sWadswortia Royal R. Hinman, Denman Woodruff, Margaret Hall, Moses Wheeler. Aaron Hunter, Samuel Woodruff, \\ Ira Hart. Abiathar Wilcox. Ell;ot Hitchcock, Reuben Webster, Willis Hall, William G. Williams, Hiram ]. Hand, Nelson Wadhams.\n\n All Letters not called for in three months will be sent to the General Post Office.\n\n CHARLES SEYMOUR, P. M",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3993,
+                    "y0": 4793,
+                    "x1": 4537,
+                    "y1": 4846
+                },
+                {
+                    "x0": 3838,
+                    "y0": 4833,
+                    "x1": 4760,
+                    "y1": 6785
+                }
+            ],
+            "bbox": [
+                3838,
+                4793,
+                4760,
+                6785
+            ],
+            "full_article_id": 13,
+            "id": "13_1827-01-19_p3_sn82014309_00414182926_1827011901_0121.json"
+        },
+        {
+            "object_ids": [
+                16
+            ],
+            "headline": "",
+            "article": "FOR SALE, 1.-TWO first rate new milch COWS four l years old with calves by their sides. 30 Enquire at this Office",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3850,
+                    "y0": 6801,
+                    "x1": 4749,
+                    "y1": 7025
+                }
+            ],
+            "bbox": [
+                3850,
+                6801,
+                4749,
+                7025
+            ],
+            "full_article_id": 17,
+            "id": "17_1827-01-19_p3_sn82014309_00414182926_1827011901_0121.json"
+        },
+        {
+            "object_ids": [
+                20
+            ],
+            "headline": "",
+            "article": "Comet has been discovered for several evenings of last week. visible a small distance s. E. of the planet Mars. It is at present too distant to form any correct judgment of its course, but we mention the fact to draw the attention of Astronomers to it.-Nat. Int.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2940,
+                    "y0": 4221,
+                    "x1": 3834,
+                    "y1": 4497
+                }
+            ],
+            "bbox": [
+                2940,
+                4221,
+                3834,
+                4497
+            ],
+            "full_article_id": 21,
+            "id": "21_1827-01-19_p3_sn82014309_00414182926_1827011901_0121.json"
+        }
+    ]
+}

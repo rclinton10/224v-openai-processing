@@ -1,0 +1,987 @@
+{
+    "lccn": {
+        "title": "The Litchfield County post.",
+        "geonames_ids": [
+            "4837799"
+        ],
+        "dbpedia_ids": [
+            "Litchfield%2C_Connecticut"
+        ],
+        "issn": "",
+        "lccn": "sn82014309",
+        "start_year": "1826",
+        "end_year": "1829",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [
+            "sn84020071"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn82014309",
+        "edition": "ed-01",
+        "date": "1827-04-05",
+        "pages": [
+            "seq-3",
+            "seq-2",
+            "seq-1",
+            "seq-4"
+        ]
+    },
+    "page_number": "3",
+    "scan": {
+        "lccn": "sn82014309",
+        "edition": "ed-01",
+        "date": "1827-04-05",
+        "page": "3",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-04-05/ed-1/seq-3.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-04-05/ed-1/seq-3/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-04-05/ed-1/seq-3/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/ct_barnum_ver01/data/sn82014309/00414182926/1827040501/0161.jp2",
+        "height": 7305,
+        "width": 5008
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2966,
+                "y0": 3686,
+                "x1": 3851,
+                "y1": 4555
+            },
+            "class": "article",
+            "raw_text": "VNHE Public are respectfully informed that -A the Summer Term of the Academy in Sharon, Conn. under the instruction of MT. R. H. Close, graduate of Yale College, will commence on the first Tuesday of May next The French Language will be taught in ad- dition to the studies usual in similar Institu- tions.-Board may be had in respectable fam flies at Sl,5O per week, including washing and room rent.-Tuition, in French, $500; Latin and Greek, $4,OO; English studies generally, S3,OOpc quarter.-Mr. Close having taught the school for the past year to the entire sat isfaction of it's patrons, the undersigned do not hesitate to recommend him as highly qual- flied Instructor.\n\n DAVID l.. PERRY\n\n AARON READ, Trustees.\n\n w. M. SMITH,\n\n Sharon, March A, 1927. 49",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 3063,
+                "y0": 3601,
+                "x1": 3771,
+                "y1": 3664
+            },
+            "class": "headline",
+            "raw_text": "ACADEMIC NOTICE.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2966,
+                "y0": 513,
+                "x1": 3846,
+                "y1": 1165
+            },
+            "class": "article",
+            "raw_text": "A COURSE of Medical Instruction will \"A be delivered at the Lecture Room, six doors west of the Court House. in west-street, the ensuing season. The introductory Lee ture will be given on Tuesday, the 10th of APrl A. D. 1897. Law as we'll as Medical Students, or other gentlemen desirOus of hearing course of Medical Instruction. are respectfully requested to attend. Dr. Abbe Will cOm\"ence his Lecture at 12 o'clock M Dr. Russell precisely at 5. Mir. Brace will begin his Course at the commencement of his next term, being the 16th day of May next.\n\n JOHN W. RUSSELL, M. D.\n\n Litchfield, April s, 1927. 42",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3177,
+                "y0": 416,
+                "x1": 3623,
+                "y1": 497
+            },
+            "class": "headline",
+            "raw_text": "NOTICE.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2058,
+                "y0": 6306,
+                "x1": 2933,
+                "y1": 7072
+            },
+            "class": "article",
+            "raw_text": "WYE the subscribers having been appoin- w ted Commissioners by the Hon. Su- perior Court holden at Middletown. in and for the County of Middlesex, on the 4th Tues day of Feb. 1897, on the estate of\n\n HORACE RANNEY,\n\n ofMiddletown, an insolvent debtor, to receive. examine and adjust the several debts due and owing by the said Horace Ranney, do here by give notice to the creditors of the said in solvent debtor that they will meet at the house of Zenas Edwards, in the Upper houses, on the first day of June, and on the'6 day of September, 1927 for the purpose aforesaid.\n\n JOSIAH SAVAGE, Commits\n\n ZENAS EDWARDS, { sioners. Middletown, March 1f, 1897. 4e",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 2332,
+                "y0": 6232,
+                "x1": 2641,
+                "y1": 6290
+            },
+            "class": "headline",
+            "raw_text": "NOTICE.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2960,
+                "y0": 5301,
+                "x1": 3851,
+                "y1": 6318
+            },
+            "class": "article",
+            "raw_text": "Superior Court, Feb. Term, 1797. TTPON the Petition of DENSEA SIM U ONS of Colebrook, in said County, praying for Divorce from her husband, JAMES SIMONS, for wilful desertion and absence from her, for more than three years, with total neglect of duty-dated the 7th of Feb. A. D. 1827-\n\n Ordered, that said petition be continued to the session of this Court to he held at Litch- field. in and for the county of Litchfeld, on the Sd Tuesday of August. A. D: ls27.---and that the publication of this order six weeks successively immediately after the rising of this Court,in the Newspaper printed in Litch- field, called the Litchfeld County Post, and in the Newspaper printed in Hartford, called the Times & Hartford Advertiser, shall be sufficient notice to the said James Simons of the pendency thereof\n\n A true copy,\n\n FREDERICK WOLCOTT, Clerk.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 3205,
+                "y0": 5244,
+                "x1": 3703,
+                "y1": 5291
+            },
+            "class": "headline",
+            "raw_text": "LITCHFIELD COUNTY,",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -2
+        },
+        {
+            "id": 32,
+            "bbox": {
+                "x0": 3126,
+                "y0": 5290,
+                "x1": 3771,
+                "y1": 5337
+            },
+            "class": "author",
+            "raw_text": "] Superior Court, Feb. Term, IT.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3867,
+                "y0": 507,
+                "x1": 4764,
+                "y1": 1490
+            },
+            "class": "article",
+            "raw_text": "\n\n TTPON the Petition of POLLY. M. O ROOT, of Canaan, tn said disstrict, showing to this Court that she is guardian of Adeline Rect, Oliver P. Root, and Sarteal Root, all of Canaan, minors that said miners are owners as tenants in common of an undi- vided share in certain piece of land with a store and barn thereon standing, situated a. bout ten rods south Of the meeting house, in Canaan aforesaid, Praying for liberty to sell the same as her petition on file dated March s7, 1927. Whereupon the Court doth adjourn the consideration of said petition until the l2th day of June 1927, at the Probate Office in Salisbury in said district, at g o'cisck in the forenoon, and doth order that said Guardian give public Notice thereof by publishing this order in Newspaper printed in Litchfield three weeks successively, at least six weeks before the said Eth day of June 1897.\n\n copy of Record,\n\n 49 Attest, SAMUEL. CHURCH, Judge.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 3993,
+                "y0": 416,
+                "x1": 4673,
+                "y1": 468
+            },
+            "class": "headline",
+            "raw_text": "COURT OF PRORATE- ss.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2966,
+                "y0": 4651,
+                "x1": 3851,
+                "y1": 5217
+            },
+            "class": "article",
+            "raw_text": "VENO be sold at Auction at the house lately A occupied by David Soper, late of Tor ringford, deceased, on Monday the 18th day of April next, at o'clock P. M. unless pre- viously disposed of, Horse, Oxen, Cows, and other Cattle, various kinds of Farming utensils, such as Cart, Ploughss Chains. Wag- gon, Harness, and the like, together with Beds and Bed-furniture, Wearing Apparel, Cider lately belonging to the said deceased, by\n\n SAMUEL WOODWARD, Erec'r.\n\n Torringford, March 96, 1927. 49",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 3223,
+                "y0": 4571,
+                "x1": 3577,
+                "y1": 4635
+            },
+            "class": "headline",
+            "raw_text": "AUCTION.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 209,
+                "y0": 2676,
+                "x1": 1123,
+                "y1": 7129
+            },
+            "class": "article",
+            "raw_text": "I6tchfeld, \"Phineas Miner, *Wm. Beebe. BarkhamsteGd, *Jesse Ives, *Amos Beecher. Beth!em, Joseph H. Be!lamy.\n\n Canaan, sym. M. Burreii, *Sam'l F Adams. Colebrook, *Lancelot Phelps, Arthur Howell. Cornyalt, John A. Sedgwick, Peter Bierce. Goshep, *Erastus Lyman, Giles Griswold. Harwinton, Phineas W.Noble, *Noah Welton. Kent, *Alpheus Fuller Neso Hartford, Geo. c. Kellogg, Absalon'\n\n Wells.\n\n NcD Miltord, Elihu Marsh 2d, *David S.\n\n Boardman.\n\n Nortalk, Amos Pettibone, \"Joseph Riggs. PlymOWth, Ransom Blakesey.\n\n Rorbury, Eli NJ. Smith.\n\n Salisbury, Newman Holly, %Robert Ball. Sharon, *Cyrus Swan, *Calvin Gay. Iorrington, Erastus Hodges, *Wm. Battell. Warren, *Dan Carter.\n\n Washington, @Constantine M'Mahon, Sam'l\n\n Leavitt, Jr.\n\n W0terto,op, *John Buckingham.\n\n Winchester, *Asahel Smith, Luman Wakefield. Noodbury, Spaniel Bacon, *Noah B. Benedict. sSouthbury, Edward Hnman\n\n E'Grmington, Timothy Pitkin, Jared Griswold. Canton, *AbieI Brown.\n\n -Hapen, Dennis Kimberly, *C.A.Ingersoll. East Hauea, Ebenezer Hemingway. Woodbridge, 3Jehiel Castle, *Charles Sperry. Orange, *Alpheus Clark.\n\n HQmden, *Jared Bassctt.\n\n M!ford, Abjah Darlington, Samuel Durand.\n\n \"Not members last gear. !SeUerai cf them haUe formerly been members, and hare also filled s1ore importaat stations.\n\n In Barkhamstead and Colebrook, we un- derstand the Caucus Ticket had small ma iority.-In Cornwall about % majority for the District Ticket.-In Canton about , ma jorty for Districting, and also in Kent and Warren, the majority was large for District ing. AS far as we can learn, the District Tick ct in this county has an overwhelming ma iority also in New-Haven and Hartford counties, the majorties were large in favour of Gov. Wolcott and the District Ticket.--- The returns of votes and the choice of Rep resentatives, evince that the freemen were in real earnest in putting down caucus dictation. lSCorrespondents are respectfully reques ted to forward us correct returns of votes from such towns in the county as are not men, lion in our list above published.\n\n The election is over. The result as far as we have been able to learn, has been such as we anticipated it has been complete tri- umph of republican principles over caucus a. ristocrasy. We can now safely answer for Litchfield county, that those republican prin- ciples which ought ever to be dear to the hearts of freemen-a free election, and sup port of the best men for office-has obtained and will hereafter maintain, an ascendancy in the county. In this town there was no noise, no contention, obsolete political distinctions were almost universally forgotten, and calm iy and deliberately the freemen went to the polls, and the result is shown in the returns of the votes. We most heartily congratulate our republican friends in this triumphant expres- sion of the popular will in favor of correct prin- ciples. In virtuous community it is only ne- cessary for the people to be awake to their rights in order to defend and maintain them : it is only necessary for them faithfully and honestly to attend to their elective duties, to secure the services of the best men for the va rious offices in the gift of the state. The vote given in this town for Gov. Wolcott is a very Aattering expression of the high regard which is felt towards him by his fellow townsmen. We do not venture to predict that he will be elected: but in case he loses his eleCtion, the",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 403,
+                "y0": 2619,
+                "x1": 975,
+                "y1": 2671
+            },
+            "class": "headline",
+            "raw_text": "REPRESENTATIVES,.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1145,
+                "y0": 2619,
+                "x1": 2042,
+                "y1": 7134
+            },
+            "class": "article",
+            "raw_text": "state will loose nothing in the executive de-\n\n partment. MT. Tomlinson is very justly held in high estimation by all classes of people throughout the state; and is man on whom the great body of the people will hereafter bestow their suffrages. The feeling so strong\n\n ly manifested in this town in relation to the votes for Governor, were mostly excited on account of the corrupt course pursued by the caucus last spring; and not from any person.\n\n al objection to Mir. Tomlinson. All classes\n\n would have been gratiied in supporting him\n\n for Congress, where his talents shone conspi- cuously, and where his worth was universally acknowledged. But it did not please the \"pohtical dictators\" to continue him in that station; David Plant, as reward for his un- governable zeal, must fill that station; and to bring this about, Gov. Wolcott must be uncer- cmoniousiy put aside, Mir. Tomlinson, who was too much beloved by the people to be sacrificed, must be put in his stead, and then the course was clear for the It. Governor. If the people throughout the state have not sanctioned this change, Mr. Plant must blame his own head for having devised so unpopu- lar a measure and if Mfr. Tomlinson, with out his consent or knowledge, has been cast out of office through the interference of a knot of medling politicians, he will have the consciousness of knowing that his fellow citizens hold his character and services in just estimation, and will hereafter so manifest it by bestowng upon him the highest office in the gift of the people. The representatives chosen for this town, are men whom all can did persons approve. But three candidates were brought forward, and the contention re- lative to their support arose more from local, than from political, prejudicess The result of the election, and careful observation, support us In this assertion. We did not hear of any organized measures to secure, or defeat, the election of any candidate there was no cau cussing, no intriguing, but good feeling and moderation appeared to pervade the great majority of the electors. This single fact proves that caucusses & cabals are unnecessary in concentrating tue votes of intelligent cleo tors upon honest and capable men. We hope to be able in our next paper to give such view of the votes throughout the state as will show whether the people were as much awake to their duty in other counties as they appear to have been in this, and whether from this election we may date new era in the triumph and preponderance of republican principles.\n\n NOTICE.-The inhabitants of this village and of the town generally, are invited to meet at the West School House, on Thursday eve ming, the 18th inst. to devise means for the enlargement of the building now occupied by the Female Academy, or for erecting a new house. The importance of this measure is universally acknowledged. The Female\n\n School is a source of wealth to the town, as we'll as an honor to its literary character; but at present there is no lecture room connected with the establishment. This evil should be remedied by an addition to the present buil- ding, or the erection of new house. Efforts have been made to procure MT Brace, the principal of this school, as a professor in\n\n very respectable college; and those talents for featuring, with which he is richly gifted, ought not, and we trust will not, be lost upon our community, for the want suitable room. We are persuaded that this sentiment is gen. eral in this village, and that it is only necessa-",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 3862,
+                "y0": 2357,
+                "x1": 4770,
+                "y1": 6723
+            },
+            "class": "article",
+            "raw_text": "ClF1C-FOr the cure of Colds, Coughs\n\n Consumptons, Splitting of Blood, Asthmas,\n\n and all disorders of the Breast and Lungs.\n\n There IS perhaps no medical observation better established none more generally con- hrmed by the experience of the best physi- clans of all ages and countries, and none of more importance to the human family, than the fact that many of the most difficult and lncurable consumptions originate in neglected colds. In climate so variable as ours, where the changes of the weather are frequently sudden and unexpected, it requires more care and attention to guard against this dangerous enemy of life, than most people imagine, or are able and willing to bestow. The bills of mortality exhibit the melancholy fact that the proportion of deaths by this disease may be C, nsidered as about five to one Inasmuch then as this fatal disease bids defiance to the skill of the most learned physicians, it is a grat'Ecation to the proprietor that he is ena- bIed to offer to those afflicted with it a good ly prospect of relief in that highly valuable remedy the Vegetable Indian Specifc.-The Indians are happy in their knowledge of med ical plants; governed wholly by eA; erience, they are certain as to their effect, and it is said by an author of great character, that true conusmption is disease never known among them.\n\n For the information of those afflicted with complaints of the breast and lungs the pro- prietor inserts (from among the numerous tes- timonials in his possession) the following cer- tifcate:\n\n Baltimore, 7th Dec. 1924.\n\n I, w. PRICE, of the city of Baltimore, do hereby certify and declare, that l was for long time afflicted with severe cold, accom- panied with an almost incessant cough, and pain in my breast and lungs; also splitting cf blood and purulent matter from the lungs, with night sweats and levers, and was much emaciated by the loss of appetite, rest, &c. 1 applied to several eminent physicians and passed through a course of medicine, but could obtain no relief and found myself fast vergng on to conf ned consumption. Hav- ing at length heard of the many astonishing cures affected by the Vegetable indian Specif- ic, was induced to make trial of it, and found almost immediate relief, and my rest restored. l continued it's use, improving fast, my appe- tite better, and all the symptoms of the di- sease daily diminishing, and in a few weeks | was completely cured, and have remained so for several months, and am now in better health and flesh than have been for many years. l therefore with confidence recom- mend the use of the Tegetable Indian SpeciE- iC to all who suffer under similar complaint, and as safe, pleasant and effectual remedy for consumptions, and all diseases of the breast and lungs. w. PRICE.\n\n The celebrated Dr. Cullen has taught us that -four first attention should be employed in watching the approach of the disease and preventing its proceeding to an incurable state '; and in persons of cOnsumptive habit, especially those born of consumptive parents. the slightest symptoms of approaching con sumption at the consumptive period of life ought carefully to be attended to-\"\n\n The Specific is obtained by extraction from herbs, roots, flowers, plants &c when in per- lection. In consequence of happy Oombi- nation of the most valuable herbs, &c. it be- comes balsam of superior value. 1t heals the injured parts, opens the pores and com poses the disturbed nerves, after the manner of an annodyne; consequently the obstruc- ton of the chest and the lungs which consti- tute the disease, particularly need its use. It promotes expectoratiOn, which is constantly called for; and whilst it cleanses and heals it also gives strength to the tender lungs. In this manner it removes the hectic fever, improves digestion. gives strength to the nerves, repairs the appetite and improves the spirits. This specific may always be given in safety-itis mild, pleasant to the taste, and IS found par ticularly useful in hypochOndrical nervous E. hystelical diseases. Each bill of directions contains detailed account of this disease in all it's different stages, and will be accOmpani- ed with the signature of the proprietor in red ink. It is offered for sale by\n\n HENRY PHELPS.\n\n Litchfeld. April 8, 1897. 4s",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3873,
+                "y0": 1683,
+                "x1": 4759,
+                "y1": 2072
+            },
+            "class": "article",
+            "raw_text": "TWILL commence her Summer Term on\n\n w Tuesday, the Sth of May, for the in struction of little Misses in the various branch. es of education. adapted to their years. Her number is limited to twenty five, and by un- remtted attention to her scholars, she hopes to merit share of the public patronage. 4 few more scholars can be accommodated.\n\n Litchheld, April S. 1897. 42",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 3902,
+                "y0": 1512,
+                "x1": 4707,
+                "y1": 1673
+            },
+            "class": "headline",
+            "raw_text": "A SCHOOL FOR LITTLE MISSES.\n\n MISS BENNETT",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 3873,
+                "y0": 6745,
+                "x1": 4770,
+                "y1": 7054
+            },
+            "class": "article",
+            "raw_text": "CheGP Instruction. Albany Lancaster School, which Is in fourishing condition, has on it's list 9s9 pupils; the whole expense of whose instr uction, including teachers sala- ries, rents, and contingencies, is hut SI.7OO per annum-lcss than ss a year for each scholar,",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2954,
+                "y0": 6351,
+                "x1": 3851,
+                "y1": 7060
+            },
+            "class": "article",
+            "raw_text": "OLIVE BEEBE, LITcHFIELD COUNTY,\n\n US Superior Court, February ARIJAu BEEBE. Term, 1927.\n\n WHEREAS said OLIVE brought her w Petition to this Court. praying for a Bill of Divorce against the said ABIJAH for his wilful Assertion, and total neglect of his duty which Petition is continued to the next Term of the Superior Court, tO be holden at Litchfeld.in and for the County of Litchfeld, on the Sd Tuesday of August next. when and where the said Abijah is notified to appear and show reasons if any he have, why the prayer of said Petition should not be granted.\n\n By order of Court,\n\n S7sw FREDERICK WOI.COTT, Clerk.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 34,
+            "bbox": {
+                "x0": 2994,
+                "y0": 6260,
+                "x1": 3817,
+                "y1": 6318
+            },
+            "class": "headline",
+            "raw_text": "FREDERIcK woLCoTT, Clerk.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3051,
+                "y0": 1335,
+                "x1": 3840,
+                "y1": 3585
+            },
+            "class": "article",
+            "raw_text": " garet Ants, Philo Moss, 3 Fl F. & Leonard Asa Morris, Jr. dams, Levi MoultrOp, nan Avery, 8 Ebcnczer Miller, her BisseIl, Truman Marsh, rev Buel, Heman Osburn, haniel Bissell, Asahel Peck, 0line c. Brown, James Palmer, man Barnes, Miranda Palmer. i'd Booth, Lewis Perkins, nan Bisseil, Fanny J. Peck, 'ey C. Blake. Phebe Plant, a Baldwin, El.ca Perkins, rge Bidweli, John Pierpont, 2 es Birge, Joseph l. Pruden, 2 $ Buel, Heber Peters, fly Buel, Lydia Phillips, our M. Buell., Andrew Phelps, ny Blynn, 2 Samuel Plumb, lua Clapp. Augustus Pease, mpson Cooke, John c. Riley, liam Clark, Charles Randall, tin Clapp, Miron Stone, D Campbell, Edmund Sullivan, liam Elliott, James H. Smith, lh Freeman, Mrs. Simpson, cy Foot, Thomas Stevens, nd H. Frisbc, Susan Stoddard or an Fish, Patty German, Os GrinneIl, Alanson Swan, ,miah Guild, Ira Smith, nah Grant, Beach G. Spencer, ira Goodwin, Garwood Sanford, ajah Hoyt, Abijah Stevens, Ina Horton, John R. Shute, i Hinman, Benjamin Stackhouse auel Hawley, William Futile, ]. H. Harrison, Anna Wetmore, liam Holmes, Jason Whiting, y Hatch, Eli Wilmot, C. Judson, Christopher Wheeler, iel Keeler, John Wetmore, abeth Lownsbury, Isaac Wheeler, han Lundan, Peleg Wheeler, Jr. hel Morse, Nelson Wadhams. man McNiel, Il Letters not called for in three months be sent the General Post -Office-Per- } calling for these Letters, will please say dvertised.\"\n\n CHARLES SEYMOUR, P. M.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2058,
+                "y0": 462,
+                "x1": 2950,
+                "y1": 5924
+            },
+            "class": "article",
+            "raw_text": "Nc HedSuTeg tO cuSuIS SuCCcss tO Cne present undertaking. The responsibility and best in- terests of the village demand that something should be done tO secure, and render perma- nent the services Ofthe principal of our valua- ble female school.\n\n Member of Congrcss.-Henry w. Dwight Esq. has been reelected from Berkshire District, Mass. by large majority.\n\n One hundred and thirty steamboats, accOr- ding to our latest accounts, are now traversing the western waters-Of which IS are upwards Of4OO tons each; 24 rising of 200 tons each and 51 are ranging between 100 and 200 tons each.\n\n The Salem Gazette says, \"We observe by the Town Treasurer's Annual Report, that the celebration of the Fourth of July last year, and the Funeral Solemnities of Ex- Presidents Adams and Jefferson, together, cost the town $2,1l1 19.\"-It is obvious to in- quire what benefit accrued, in return for the expense.\n\n Fire ot NortoIk.-A great and very des- tructive cOnAagration occurred at Norfolk on the morning of Friday the 9th inst. About 60 buildings destroyed, including Christ Church, and the new Lancastrian School House. The loss is estimated from S6O, ,OOO to $SO, ,OO0-of which above $S2, 900 was in sured in Richmond-S15 5 900 was insured on the Church.\n\n A stable in New-Y ork, near the Washington Parade, occupied by MT. c. s. Warner, was destroyed on Thursday morning. Seven horses were burnt, and one of the Broadway coaches. There was no insurance, and Mr. Warner has lost his all. It was supposed to have been the work of an incendiary, as a former attempt to fire it had proved unsuc- cessful.\n\n A very severe thunder storm occurred at Charleston on Sunday night the 29th ult. from 12 to 1 o'clock. So heavy was the thunder that every house in the city shook as if agitated by an earthquake. The rain fell in torrents. The day previous had been as warm as midsummer.\n\n The Steamboat MDonough arrived on Fri day from New-York, with her flag at half mast, bearing the corpse of Miss Lucy Ann Phelps, young lady who, but few days be- fore, had been making preparations to come with the family to which she belonged, to see her friends, and spend the spring and summer in Hartford. \"Are we not here aotc !--- and are we not gone in a mon,ent!\"'\n\n Conn. Mirror.\n\n schoolmaster of Harvard has been tried for expelling lad from his school, who refu- sed to attend prayers while in the room. The Court held that the master exercised right full authority, and the jury acquitted him with out leaving their seats.\n\n Boston Municipal Court-Morch term.- John R. Cabner, marine, for stealing a silver watch from Hammond Chenery, on the 9th ofFebruary, was sentenced to two days soli- tary confinement, and six months imprison- nent in the House of Correction. His plea in defence was, that he had got into bad com pany, and almost frozen in the \"horrOrs of hquor.\" when he had his own money stolen from him, and the watch put into his hands by a lewd female.\n\n Ezra P. Merritt, larceny, under the infu- ence cf liquor. ten days solitary confinement, and one year imprisonment in the House of Correction.\n\n A lad about IS years of age, was tried for stealing watch, and acquitted. In the course of the trial, it appeared that the prosecutor sold to the lad. under the name of \" Tom and Jerry\"a composition of saIeratus, eggs, sugar, nutmeg, ginger, allspice, and rum. A female witness testified that the boy, at the time he was charged with having committed the theft dpp(dlCu lO Uc prIlCCtiy OcTduScuS UOUdOly in consequence of the :\" hell broth\" that he had been drinking.-Boston Cour.\n\n The amount of appropriations made by Congress at the last session was $l1, 1915, 1889. Of this amount, S2,917,S6 were for the mil itary service of the current year; $3,l85,74s, for the support of the Navy; $5OO,OoO for the gradual improvement of the Navy; $1,- 73,s4O for pensions $1.718,857 for the ex- penses of Congress, of the executive depart ment, the judiciary, diplomatic intercourse. Sc.; $5O5,OoO for fortihcation; S174,O47 for the Indian Department; and Sl86,8s8 for carrying into effect the Indian treaties.\n\n Troubles in Canada \"A Buffilo paper of the 18th inst. says:-\n\n \"For several days past, there hava been alarming reports in circulation, ofcOmmotions in our neighbouring province of Upper Cana da. A vast number of the inhabitants of the province will come within the operation ofthe alien law. It would appear that they are re- solved not to submit to it; and it is reported that liberty poles, on which were displayed the American flag, have been raised in sever al places. In York, liberty pole was raised, and the American flag waved on it within a few rods of the Capital It was promptly put down by the Government party. A large force was then collected from the neighbour ing country. and the pole and flag were again raised. These may be exaggerated reports",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 221,
+                "y0": 2351,
+                "x1": 2054,
+                "y1": 2591
+            },
+            "class": "article",
+            "raw_text": "i  Wolcon.\n\n We Senatorial ticket rsofC Congre",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2064,
+                "y0": 382,
+                "x1": 2938,
+                "y1": 765
+            },
+            "class": "article",
+            "raw_text": "ry for our wealthy citizens to consult upon the measure, to ensure success to the present undertaking. The responsibility and best in terests of the village demand that something should be done 60 secure, and render perma- nent the services ofthe principal of our valua- ble female school.",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 2960,
+                "y0": 1249,
+                "x1": 3840,
+                "y1": 1342
+            },
+            "class": "article",
+            "raw_text": "Remaining us the Post Office at LitchfeId\n\n April 1St, 1927.",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 3160,
+                "y0": 1187,
+                "x1": 3686,
+                "y1": 1245
+            },
+            "class": "headline",
+            "raw_text": "LIST OF LETTERS,",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": -1
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 2064,
+                "y0": 6100,
+                "x1": 2938,
+                "y1": 6198
+            },
+            "class": "article",
+            "raw_text": "At Kent MT. Nelson Ebenezer s. Shelton to Miss Urana Crossrnan.",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 2338,
+                "y0": 6032,
+                "x1": 2636,
+                "y1": 6090
+            },
+            "class": "headline",
+            "raw_text": "MARRIED",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": -1
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                17,
+                0
+            ],
+            "headline": "ACADEMIC NOTICE.",
+            "article": "VNHE Public are respectfully informed that -A the Summer Term of the Academy in Sharon, Conn. under the instruction of MT. R. H. Close, graduate of Yale College, will commence on the first Tuesday of May next The French Language will be taught in ad- dition to the studies usual in similar Institu- tions.-Board may be had in respectable fam flies at Sl,5O per week, including washing and room rent.-Tuition, in French, $500; Latin and Greek, $4,OO; English studies generally, S3,OOpc quarter.-Mr. Close having taught the school for the past year to the entire sat isfaction of it's patrons, the undersigned do not hesitate to recommend him as highly qual- flied Instructor.\n\n DAVID l.. PERRY\n\n AARON READ, Trustees.\n\n w. M. SMITH,\n\n Sharon, March A, 1927. 49",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3063,
+                    "y0": 3601,
+                    "x1": 3771,
+                    "y1": 3664
+                },
+                {
+                    "x0": 2966,
+                    "y0": 3686,
+                    "x1": 3851,
+                    "y1": 4555
+                }
+            ],
+            "bbox": [
+                2966,
+                3601,
+                3851,
+                4555
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-04-05_p3_sn82014309_00414182926_1827040501_0161.json"
+        },
+        {
+            "object_ids": [
+                15,
+                1
+            ],
+            "headline": "NOTICE.",
+            "article": "A COURSE of Medical Instruction will \"A be delivered at the Lecture Room, six doors west of the Court House. in west-street, the ensuing season. The introductory Lee ture will be given on Tuesday, the 10th of APrl A. D. 1897. Law as we'll as Medical Students, or other gentlemen desirOus of hearing course of Medical Instruction. are respectfully requested to attend. Dr. Abbe Will cOm\"ence his Lecture at 12 o'clock M Dr. Russell precisely at 5. Mir. Brace will begin his Course at the commencement of his next term, being the 16th day of May next.\n\n JOHN W. RUSSELL, M. D.\n\n Litchfield, April s, 1927. 42",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3177,
+                    "y0": 416,
+                    "x1": 3623,
+                    "y1": 497
+                },
+                {
+                    "x0": 2966,
+                    "y0": 513,
+                    "x1": 3846,
+                    "y1": 1165
+                }
+            ],
+            "bbox": [
+                2966,
+                416,
+                3846,
+                1165
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-04-05_p3_sn82014309_00414182926_1827040501_0161.json"
+        },
+        {
+            "object_ids": [
+                21,
+                2
+            ],
+            "headline": "NOTICE.",
+            "article": "WYE the subscribers having been appoin- w ted Commissioners by the Hon. Su- perior Court holden at Middletown. in and for the County of Middlesex, on the 4th Tues day of Feb. 1897, on the estate of\n\n HORACE RANNEY,\n\n ofMiddletown, an insolvent debtor, to receive. examine and adjust the several debts due and owing by the said Horace Ranney, do here by give notice to the creditors of the said in solvent debtor that they will meet at the house of Zenas Edwards, in the Upper houses, on the first day of June, and on the'6 day of September, 1927 for the purpose aforesaid.\n\n JOSIAH SAVAGE, Commits\n\n ZENAS EDWARDS, { sioners. Middletown, March 1f, 1897. 4e",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2332,
+                    "y0": 6232,
+                    "x1": 2641,
+                    "y1": 6290
+                },
+                {
+                    "x0": 2058,
+                    "y0": 6306,
+                    "x1": 2933,
+                    "y1": 7072
+                }
+            ],
+            "bbox": [
+                2058,
+                6232,
+                2933,
+                7072
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-04-05_p3_sn82014309_00414182926_1827040501_0161.json"
+        },
+        {
+            "object_ids": [
+                29,
+                32,
+                3
+            ],
+            "headline": "LITCHFIELD COUNTY,",
+            "article": "Superior Court, Feb. Term, 1797. TTPON the Petition of DENSEA SIM U ONS of Colebrook, in said County, praying for Divorce from her husband, JAMES SIMONS, for wilful desertion and absence from her, for more than three years, with total neglect of duty-dated the 7th of Feb. A. D. 1827-\n\n Ordered, that said petition be continued to the session of this Court to he held at Litch- field. in and for the county of Litchfeld, on the Sd Tuesday of August. A. D: ls27.---and that the publication of this order six weeks successively immediately after the rising of this Court,in the Newspaper printed in Litch- field, called the Litchfeld County Post, and in the Newspaper printed in Hartford, called the Times & Hartford Advertiser, shall be sufficient notice to the said James Simons of the pendency thereof\n\n A true copy,\n\n FREDERICK WOLCOTT, Clerk.",
+            "byline": "] Superior Court, Feb. Term, IT.",
+            "bbox_list": [
+                {
+                    "x0": 3205,
+                    "y0": 5244,
+                    "x1": 3703,
+                    "y1": 5291
+                },
+                {
+                    "x0": 3126,
+                    "y0": 5290,
+                    "x1": 3771,
+                    "y1": 5337
+                },
+                {
+                    "x0": 2960,
+                    "y0": 5301,
+                    "x1": 3851,
+                    "y1": 6318
+                }
+            ],
+            "bbox": [
+                2960,
+                5244,
+                3851,
+                6318
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-04-05_p3_sn82014309_00414182926_1827040501_0161.json"
+        },
+        {
+            "object_ids": [
+                28,
+                4
+            ],
+            "headline": "COURT OF PRORATE- ss.",
+            "article": "\n\n TTPON the Petition of POLLY. M. O ROOT, of Canaan, tn said disstrict, showing to this Court that she is guardian of Adeline Rect, Oliver P. Root, and Sarteal Root, all of Canaan, minors that said miners are owners as tenants in common of an undi- vided share in certain piece of land with a store and barn thereon standing, situated a. bout ten rods south Of the meeting house, in Canaan aforesaid, Praying for liberty to sell the same as her petition on file dated March s7, 1927. Whereupon the Court doth adjourn the consideration of said petition until the l2th day of June 1927, at the Probate Office in Salisbury in said district, at g o'cisck in the forenoon, and doth order that said Guardian give public Notice thereof by publishing this order in Newspaper printed in Litchfield three weeks successively, at least six weeks before the said Eth day of June 1897.\n\n copy of Record,\n\n 49 Attest, SAMUEL. CHURCH, Judge.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3993,
+                    "y0": 416,
+                    "x1": 4673,
+                    "y1": 468
+                },
+                {
+                    "x0": 3867,
+                    "y0": 507,
+                    "x1": 4764,
+                    "y1": 1490
+                }
+            ],
+            "bbox": [
+                3867,
+                416,
+                4764,
+                1490
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-04-05_p3_sn82014309_00414182926_1827040501_0161.json"
+        },
+        {
+            "object_ids": [
+                19,
+                5
+            ],
+            "headline": "AUCTION.",
+            "article": "VENO be sold at Auction at the house lately A occupied by David Soper, late of Tor ringford, deceased, on Monday the 18th day of April next, at o'clock P. M. unless pre- viously disposed of, Horse, Oxen, Cows, and other Cattle, various kinds of Farming utensils, such as Cart, Ploughss Chains. Wag- gon, Harness, and the like, together with Beds and Bed-furniture, Wearing Apparel, Cider lately belonging to the said deceased, by\n\n SAMUEL WOODWARD, Erec'r.\n\n Torringford, March 96, 1927. 49",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3223,
+                    "y0": 4571,
+                    "x1": 3577,
+                    "y1": 4635
+                },
+                {
+                    "x0": 2966,
+                    "y0": 4651,
+                    "x1": 3851,
+                    "y1": 5217
+                }
+            ],
+            "bbox": [
+                2966,
+                4571,
+                3851,
+                5217
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-04-05_p3_sn82014309_00414182926_1827040501_0161.json"
+        },
+        {
+            "object_ids": [
+                27,
+                6
+            ],
+            "headline": "REPRESENTATIVES,.",
+            "article": "I6tchfeld, \"Phineas Miner, *Wm. Beebe. BarkhamsteGd, *Jesse Ives, *Amos Beecher. Beth!em, Joseph H. Be!lamy.\n\n Canaan, sym. M. Burreii, *Sam'l F Adams. Colebrook, *Lancelot Phelps, Arthur Howell. Cornyalt, John A. Sedgwick, Peter Bierce. Goshep, *Erastus Lyman, Giles Griswold. Harwinton, Phineas W.Noble, *Noah Welton. Kent, *Alpheus Fuller Neso Hartford, Geo. c. Kellogg, Absalon'\n\n Wells.\n\n NcD Miltord, Elihu Marsh 2d, *David S.\n\n Boardman.\n\n Nortalk, Amos Pettibone, \"Joseph Riggs. PlymOWth, Ransom Blakesey.\n\n Rorbury, Eli NJ. Smith.\n\n Salisbury, Newman Holly, %Robert Ball. Sharon, *Cyrus Swan, *Calvin Gay. Iorrington, Erastus Hodges, *Wm. Battell. Warren, *Dan Carter.\n\n Washington, @Constantine M'Mahon, Sam'l\n\n Leavitt, Jr.\n\n W0terto,op, *John Buckingham.\n\n Winchester, *Asahel Smith, Luman Wakefield. Noodbury, Spaniel Bacon, *Noah B. Benedict. sSouthbury, Edward Hnman\n\n E'Grmington, Timothy Pitkin, Jared Griswold. Canton, *AbieI Brown.\n\n -Hapen, Dennis Kimberly, *C.A.Ingersoll. East Hauea, Ebenezer Hemingway. Woodbridge, 3Jehiel Castle, *Charles Sperry. Orange, *Alpheus Clark.\n\n HQmden, *Jared Bassctt.\n\n M!ford, Abjah Darlington, Samuel Durand.\n\n \"Not members last gear. !SeUerai cf them haUe formerly been members, and hare also filled s1ore importaat stations.\n\n In Barkhamstead and Colebrook, we un- derstand the Caucus Ticket had small ma iority.-In Cornwall about % majority for the District Ticket.-In Canton about , ma jorty for Districting, and also in Kent and Warren, the majority was large for District ing. AS far as we can learn, the District Tick ct in this county has an overwhelming ma iority also in New-Haven and Hartford counties, the majorties were large in favour of Gov. Wolcott and the District Ticket.--- The returns of votes and the choice of Rep resentatives, evince that the freemen were in real earnest in putting down caucus dictation. lSCorrespondents are respectfully reques ted to forward us correct returns of votes from such towns in the county as are not men, lion in our list above published.\n\n The election is over. The result as far as we have been able to learn, has been such as we anticipated it has been complete tri- umph of republican principles over caucus a. ristocrasy. We can now safely answer for Litchfield county, that those republican prin- ciples which ought ever to be dear to the hearts of freemen-a free election, and sup port of the best men for office-has obtained and will hereafter maintain, an ascendancy in the county. In this town there was no noise, no contention, obsolete political distinctions were almost universally forgotten, and calm iy and deliberately the freemen went to the polls, and the result is shown in the returns of the votes. We most heartily congratulate our republican friends in this triumphant expres- sion of the popular will in favor of correct prin- ciples. In virtuous community it is only ne- cessary for the people to be awake to their rights in order to defend and maintain them : it is only necessary for them faithfully and honestly to attend to their elective duties, to secure the services of the best men for the va rious offices in the gift of the state. The vote given in this town for Gov. Wolcott is a very Aattering expression of the high regard which is felt towards him by his fellow townsmen. We do not venture to predict that he will be elected: but in case he loses his eleCtion, the",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 403,
+                    "y0": 2619,
+                    "x1": 975,
+                    "y1": 2671
+                },
+                {
+                    "x0": 209,
+                    "y0": 2676,
+                    "x1": 1123,
+                    "y1": 7129
+                }
+            ],
+            "bbox": [
+                209,
+                2619,
+                1123,
+                7129
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-04-05_p3_sn82014309_00414182926_1827040501_0161.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "state will loose nothing in the executive de-\n\n partment. MT. Tomlinson is very justly held in high estimation by all classes of people throughout the state; and is man on whom the great body of the people will hereafter bestow their suffrages. The feeling so strong\n\n ly manifested in this town in relation to the votes for Governor, were mostly excited on account of the corrupt course pursued by the caucus last spring; and not from any person.\n\n al objection to Mir. Tomlinson. All classes\n\n would have been gratiied in supporting him\n\n for Congress, where his talents shone conspi- cuously, and where his worth was universally acknowledged. But it did not please the \"pohtical dictators\" to continue him in that station; David Plant, as reward for his un- governable zeal, must fill that station; and to bring this about, Gov. Wolcott must be uncer- cmoniousiy put aside, Mir. Tomlinson, who was too much beloved by the people to be sacrificed, must be put in his stead, and then the course was clear for the It. Governor. If the people throughout the state have not sanctioned this change, Mr. Plant must blame his own head for having devised so unpopu- lar a measure and if Mfr. Tomlinson, with out his consent or knowledge, has been cast out of office through the interference of a knot of medling politicians, he will have the consciousness of knowing that his fellow citizens hold his character and services in just estimation, and will hereafter so manifest it by bestowng upon him the highest office in the gift of the people. The representatives chosen for this town, are men whom all can did persons approve. But three candidates were brought forward, and the contention re- lative to their support arose more from local, than from political, prejudicess The result of the election, and careful observation, support us In this assertion. We did not hear of any organized measures to secure, or defeat, the election of any candidate there was no cau cussing, no intriguing, but good feeling and moderation appeared to pervade the great majority of the electors. This single fact proves that caucusses & cabals are unnecessary in concentrating tue votes of intelligent cleo tors upon honest and capable men. We hope to be able in our next paper to give such view of the votes throughout the state as will show whether the people were as much awake to their duty in other counties as they appear to have been in this, and whether from this election we may date new era in the triumph and preponderance of republican principles.\n\n NOTICE.-The inhabitants of this village and of the town generally, are invited to meet at the West School House, on Thursday eve ming, the 18th inst. to devise means for the enlargement of the building now occupied by the Female Academy, or for erecting a new house. The importance of this measure is universally acknowledged. The Female\n\n School is a source of wealth to the town, as we'll as an honor to its literary character; but at present there is no lecture room connected with the establishment. This evil should be remedied by an addition to the present buil- ding, or the erection of new house. Efforts have been made to procure MT Brace, the principal of this school, as a professor in\n\n very respectable college; and those talents for featuring, with which he is richly gifted, ought not, and we trust will not, be lost upon our community, for the want suitable room. We are persuaded that this sentiment is gen. eral in this village, and that it is only necessa-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1145,
+                    "y0": 2619,
+                    "x1": 2042,
+                    "y1": 7134
+                }
+            ],
+            "bbox": [
+                1145,
+                2619,
+                2042,
+                7134
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-04-05_p3_sn82014309_00414182926_1827040501_0161.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "ClF1C-FOr the cure of Colds, Coughs\n\n Consumptons, Splitting of Blood, Asthmas,\n\n and all disorders of the Breast and Lungs.\n\n There IS perhaps no medical observation better established none more generally con- hrmed by the experience of the best physi- clans of all ages and countries, and none of more importance to the human family, than the fact that many of the most difficult and lncurable consumptions originate in neglected colds. In climate so variable as ours, where the changes of the weather are frequently sudden and unexpected, it requires more care and attention to guard against this dangerous enemy of life, than most people imagine, or are able and willing to bestow. The bills of mortality exhibit the melancholy fact that the proportion of deaths by this disease may be C, nsidered as about five to one Inasmuch then as this fatal disease bids defiance to the skill of the most learned physicians, it is a grat'Ecation to the proprietor that he is ena- bIed to offer to those afflicted with it a good ly prospect of relief in that highly valuable remedy the Vegetable Indian Specifc.-The Indians are happy in their knowledge of med ical plants; governed wholly by eA; erience, they are certain as to their effect, and it is said by an author of great character, that true conusmption is disease never known among them.\n\n For the information of those afflicted with complaints of the breast and lungs the pro- prietor inserts (from among the numerous tes- timonials in his possession) the following cer- tifcate:\n\n Baltimore, 7th Dec. 1924.\n\n I, w. PRICE, of the city of Baltimore, do hereby certify and declare, that l was for long time afflicted with severe cold, accom- panied with an almost incessant cough, and pain in my breast and lungs; also splitting cf blood and purulent matter from the lungs, with night sweats and levers, and was much emaciated by the loss of appetite, rest, &c. 1 applied to several eminent physicians and passed through a course of medicine, but could obtain no relief and found myself fast vergng on to conf ned consumption. Hav- ing at length heard of the many astonishing cures affected by the Vegetable indian Specif- ic, was induced to make trial of it, and found almost immediate relief, and my rest restored. l continued it's use, improving fast, my appe- tite better, and all the symptoms of the di- sease daily diminishing, and in a few weeks | was completely cured, and have remained so for several months, and am now in better health and flesh than have been for many years. l therefore with confidence recom- mend the use of the Tegetable Indian SpeciE- iC to all who suffer under similar complaint, and as safe, pleasant and effectual remedy for consumptions, and all diseases of the breast and lungs. w. PRICE.\n\n The celebrated Dr. Cullen has taught us that -four first attention should be employed in watching the approach of the disease and preventing its proceeding to an incurable state '; and in persons of cOnsumptive habit, especially those born of consumptive parents. the slightest symptoms of approaching con sumption at the consumptive period of life ought carefully to be attended to-\"\n\n The Specific is obtained by extraction from herbs, roots, flowers, plants &c when in per- lection. In consequence of happy Oombi- nation of the most valuable herbs, &c. it be- comes balsam of superior value. 1t heals the injured parts, opens the pores and com poses the disturbed nerves, after the manner of an annodyne; consequently the obstruc- ton of the chest and the lungs which consti- tute the disease, particularly need its use. It promotes expectoratiOn, which is constantly called for; and whilst it cleanses and heals it also gives strength to the tender lungs. In this manner it removes the hectic fever, improves digestion. gives strength to the nerves, repairs the appetite and improves the spirits. This specific may always be given in safety-itis mild, pleasant to the taste, and IS found par ticularly useful in hypochOndrical nervous E. hystelical diseases. Each bill of directions contains detailed account of this disease in all it's different stages, and will be accOmpani- ed with the signature of the proprietor in red ink. It is offered for sale by\n\n HENRY PHELPS.\n\n Litchfeld. April 8, 1897. 4s",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3862,
+                    "y0": 2357,
+                    "x1": 4770,
+                    "y1": 6723
+                }
+            ],
+            "bbox": [
+                3862,
+                2357,
+                4770,
+                6723
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-04-05_p3_sn82014309_00414182926_1827040501_0161.json"
+        },
+        {
+            "object_ids": [
+                18,
+                9
+            ],
+            "headline": "A SCHOOL FOR LITTLE MISSES.\n\n MISS BENNETT",
+            "article": "TWILL commence her Summer Term on\n\n w Tuesday, the Sth of May, for the in struction of little Misses in the various branch. es of education. adapted to their years. Her number is limited to twenty five, and by un- remtted attention to her scholars, she hopes to merit share of the public patronage. 4 few more scholars can be accommodated.\n\n Litchheld, April S. 1897. 42",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3902,
+                    "y0": 1512,
+                    "x1": 4707,
+                    "y1": 1673
+                },
+                {
+                    "x0": 3873,
+                    "y0": 1683,
+                    "x1": 4759,
+                    "y1": 2072
+                }
+            ],
+            "bbox": [
+                3873,
+                1512,
+                4759,
+                2072
+            ],
+            "full_article_id": 10,
+            "id": "10_1827-04-05_p3_sn82014309_00414182926_1827040501_0161.json"
+        },
+        {
+            "object_ids": [
+                10
+            ],
+            "headline": "",
+            "article": "CheGP Instruction. Albany Lancaster School, which Is in fourishing condition, has on it's list 9s9 pupils; the whole expense of whose instr uction, including teachers sala- ries, rents, and contingencies, is hut SI.7OO per annum-lcss than ss a year for each scholar,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3873,
+                    "y0": 6745,
+                    "x1": 4770,
+                    "y1": 7054
+                }
+            ],
+            "bbox": [
+                3873,
+                6745,
+                4770,
+                7054
+            ],
+            "full_article_id": 11,
+            "id": "11_1827-04-05_p3_sn82014309_00414182926_1827040501_0161.json"
+        },
+        {
+            "object_ids": [
+                34,
+                11
+            ],
+            "headline": "FREDERIcK woLCoTT, Clerk.",
+            "article": "OLIVE BEEBE, LITcHFIELD COUNTY,\n\n US Superior Court, February ARIJAu BEEBE. Term, 1927.\n\n WHEREAS said OLIVE brought her w Petition to this Court. praying for a Bill of Divorce against the said ABIJAH for his wilful Assertion, and total neglect of his duty which Petition is continued to the next Term of the Superior Court, tO be holden at Litchfeld.in and for the County of Litchfeld, on the Sd Tuesday of August next. when and where the said Abijah is notified to appear and show reasons if any he have, why the prayer of said Petition should not be granted.\n\n By order of Court,\n\n S7sw FREDERICK WOI.COTT, Clerk.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2994,
+                    "y0": 6260,
+                    "x1": 3817,
+                    "y1": 6318
+                },
+                {
+                    "x0": 2954,
+                    "y0": 6351,
+                    "x1": 3851,
+                    "y1": 7060
+                }
+            ],
+            "bbox": [
+                2954,
+                6260,
+                3851,
+                7060
+            ],
+            "full_article_id": 12,
+            "id": "12_1827-04-05_p3_sn82014309_00414182926_1827040501_0161.json"
+        },
+        {
+            "object_ids": [
+                12
+            ],
+            "headline": "",
+            "article": " garet Ants, Philo Moss, 3 Fl F. & Leonard Asa Morris, Jr. dams, Levi MoultrOp, nan Avery, 8 Ebcnczer Miller, her BisseIl, Truman Marsh, rev Buel, Heman Osburn, haniel Bissell, Asahel Peck, 0line c. Brown, James Palmer, man Barnes, Miranda Palmer. i'd Booth, Lewis Perkins, nan Bisseil, Fanny J. Peck, 'ey C. Blake. Phebe Plant, a Baldwin, El.ca Perkins, rge Bidweli, John Pierpont, 2 es Birge, Joseph l. Pruden, 2 $ Buel, Heber Peters, fly Buel, Lydia Phillips, our M. Buell., Andrew Phelps, ny Blynn, 2 Samuel Plumb, lua Clapp. Augustus Pease, mpson Cooke, John c. Riley, liam Clark, Charles Randall, tin Clapp, Miron Stone, D Campbell, Edmund Sullivan, liam Elliott, James H. Smith, lh Freeman, Mrs. Simpson, cy Foot, Thomas Stevens, nd H. Frisbc, Susan Stoddard or an Fish, Patty German, Os GrinneIl, Alanson Swan, ,miah Guild, Ira Smith, nah Grant, Beach G. Spencer, ira Goodwin, Garwood Sanford, ajah Hoyt, Abijah Stevens, Ina Horton, John R. Shute, i Hinman, Benjamin Stackhouse auel Hawley, William Futile, ]. H. Harrison, Anna Wetmore, liam Holmes, Jason Whiting, y Hatch, Eli Wilmot, C. Judson, Christopher Wheeler, iel Keeler, John Wetmore, abeth Lownsbury, Isaac Wheeler, han Lundan, Peleg Wheeler, Jr. hel Morse, Nelson Wadhams. man McNiel, Il Letters not called for in three months be sent the General Post -Office-Per- } calling for these Letters, will please say dvertised.\"\n\n CHARLES SEYMOUR, P. M.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3051,
+                    "y0": 1335,
+                    "x1": 3840,
+                    "y1": 3585
+                }
+            ],
+            "bbox": [
+                3051,
+                1335,
+                3840,
+                3585
+            ],
+            "full_article_id": 13,
+            "id": "13_1827-04-05_p3_sn82014309_00414182926_1827040501_0161.json"
+        },
+        {
+            "object_ids": [
+                13
+            ],
+            "headline": "",
+            "article": "Nc HedSuTeg tO cuSuIS SuCCcss tO Cne present undertaking. The responsibility and best in- terests of the village demand that something should be done tO secure, and render perma- nent the services Ofthe principal of our valua- ble female school.\n\n Member of Congrcss.-Henry w. Dwight Esq. has been reelected from Berkshire District, Mass. by large majority.\n\n One hundred and thirty steamboats, accOr- ding to our latest accounts, are now traversing the western waters-Of which IS are upwards Of4OO tons each; 24 rising of 200 tons each and 51 are ranging between 100 and 200 tons each.\n\n The Salem Gazette says, \"We observe by the Town Treasurer's Annual Report, that the celebration of the Fourth of July last year, and the Funeral Solemnities of Ex- Presidents Adams and Jefferson, together, cost the town $2,1l1 19.\"-It is obvious to in- quire what benefit accrued, in return for the expense.\n\n Fire ot NortoIk.-A great and very des- tructive cOnAagration occurred at Norfolk on the morning of Friday the 9th inst. About 60 buildings destroyed, including Christ Church, and the new Lancastrian School House. The loss is estimated from S6O, ,OOO to $SO, ,OO0-of which above $S2, 900 was in sured in Richmond-S15 5 900 was insured on the Church.\n\n A stable in New-Y ork, near the Washington Parade, occupied by MT. c. s. Warner, was destroyed on Thursday morning. Seven horses were burnt, and one of the Broadway coaches. There was no insurance, and Mr. Warner has lost his all. It was supposed to have been the work of an incendiary, as a former attempt to fire it had proved unsuc- cessful.\n\n A very severe thunder storm occurred at Charleston on Sunday night the 29th ult. from 12 to 1 o'clock. So heavy was the thunder that every house in the city shook as if agitated by an earthquake. The rain fell in torrents. The day previous had been as warm as midsummer.\n\n The Steamboat MDonough arrived on Fri day from New-York, with her flag at half mast, bearing the corpse of Miss Lucy Ann Phelps, young lady who, but few days be- fore, had been making preparations to come with the family to which she belonged, to see her friends, and spend the spring and summer in Hartford. \"Are we not here aotc !--- and are we not gone in a mon,ent!\"'\n\n Conn. Mirror.\n\n schoolmaster of Harvard has been tried for expelling lad from his school, who refu- sed to attend prayers while in the room. The Court held that the master exercised right full authority, and the jury acquitted him with out leaving their seats.\n\n Boston Municipal Court-Morch term.- John R. Cabner, marine, for stealing a silver watch from Hammond Chenery, on the 9th ofFebruary, was sentenced to two days soli- tary confinement, and six months imprison- nent in the House of Correction. His plea in defence was, that he had got into bad com pany, and almost frozen in the \"horrOrs of hquor.\" when he had his own money stolen from him, and the watch put into his hands by a lewd female.\n\n Ezra P. Merritt, larceny, under the infu- ence cf liquor. ten days solitary confinement, and one year imprisonment in the House of Correction.\n\n A lad about IS years of age, was tried for stealing watch, and acquitted. In the course of the trial, it appeared that the prosecutor sold to the lad. under the name of \" Tom and Jerry\"a composition of saIeratus, eggs, sugar, nutmeg, ginger, allspice, and rum. A female witness testified that the boy, at the time he was charged with having committed the theft dpp(dlCu lO Uc prIlCCtiy OcTduScuS UOUdOly in consequence of the :\" hell broth\" that he had been drinking.-Boston Cour.\n\n The amount of appropriations made by Congress at the last session was $l1, 1915, 1889. Of this amount, S2,917,S6 were for the mil itary service of the current year; $3,l85,74s, for the support of the Navy; $5OO,OoO for the gradual improvement of the Navy; $1,- 73,s4O for pensions $1.718,857 for the ex- penses of Congress, of the executive depart ment, the judiciary, diplomatic intercourse. Sc.; $5O5,OoO for fortihcation; S174,O47 for the Indian Department; and Sl86,8s8 for carrying into effect the Indian treaties.\n\n Troubles in Canada \"A Buffilo paper of the 18th inst. says:-\n\n \"For several days past, there hava been alarming reports in circulation, ofcOmmotions in our neighbouring province of Upper Cana da. A vast number of the inhabitants of the province will come within the operation ofthe alien law. It would appear that they are re- solved not to submit to it; and it is reported that liberty poles, on which were displayed the American flag, have been raised in sever al places. In York, liberty pole was raised, and the American flag waved on it within a few rods of the Capital It was promptly put down by the Government party. A large force was then collected from the neighbour ing country. and the pole and flag were again raised. These may be exaggerated reports",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2058,
+                    "y0": 462,
+                    "x1": 2950,
+                    "y1": 5924
+                }
+            ],
+            "bbox": [
+                2058,
+                462,
+                2950,
+                5924
+            ],
+            "full_article_id": 14,
+            "id": "14_1827-04-05_p3_sn82014309_00414182926_1827040501_0161.json"
+        },
+        {
+            "object_ids": [
+                14
+            ],
+            "headline": "",
+            "article": "i  Wolcon.\n\n We Senatorial ticket rsofC Congre",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 221,
+                    "y0": 2351,
+                    "x1": 2054,
+                    "y1": 2591
+                }
+            ],
+            "bbox": [
+                221,
+                2351,
+                2054,
+                2591
+            ],
+            "full_article_id": 15,
+            "id": "15_1827-04-05_p3_sn82014309_00414182926_1827040501_0161.json"
+        },
+        {
+            "object_ids": [
+                16
+            ],
+            "headline": "",
+            "article": "ry for our wealthy citizens to consult upon the measure, to ensure success to the present undertaking. The responsibility and best in terests of the village demand that something should be done 60 secure, and render perma- nent the services ofthe principal of our valua- ble female school.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2064,
+                    "y0": 382,
+                    "x1": 2938,
+                    "y1": 765
+                }
+            ],
+            "bbox": [
+                2064,
+                382,
+                2938,
+                765
+            ],
+            "full_article_id": 17,
+            "id": "17_1827-04-05_p3_sn82014309_00414182926_1827040501_0161.json"
+        },
+        {
+            "object_ids": [
+                24,
+                22
+            ],
+            "headline": "LIST OF LETTERS,",
+            "article": "Remaining us the Post Office at LitchfeId\n\n April 1St, 1927.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3160,
+                    "y0": 1187,
+                    "x1": 3686,
+                    "y1": 1245
+                },
+                {
+                    "x0": 2960,
+                    "y0": 1249,
+                    "x1": 3840,
+                    "y1": 1342
+                }
+            ],
+            "bbox": [
+                2960,
+                1187,
+                3840,
+                1342
+            ],
+            "full_article_id": 23,
+            "id": "23_1827-04-05_p3_sn82014309_00414182926_1827040501_0161.json"
+        },
+        {
+            "object_ids": [
+                23,
+                25
+            ],
+            "headline": "MARRIED",
+            "article": "At Kent MT. Nelson Ebenezer s. Shelton to Miss Urana Crossrnan.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2338,
+                    "y0": 6032,
+                    "x1": 2636,
+                    "y1": 6090
+                },
+                {
+                    "x0": 2064,
+                    "y0": 6100,
+                    "x1": 2938,
+                    "y1": 6198
+                }
+            ],
+            "bbox": [
+                2064,
+                6032,
+                2938,
+                6198
+            ],
+            "full_article_id": 26,
+            "id": "26_1827-04-05_p3_sn82014309_00414182926_1827040501_0161.json"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "lccn": {
+        "title": "The Wilmington mercury.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2639-6262",
+        "lccn": "sn88053099",
+        "start_year": "1798",
+        "end_year": "1798",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn88053099",
+        "edition": "ed-01",
+        "date": "1798-10-05",
+        "pages": [
+            "seq-1"
+        ]
+    },
+    "page_number": "1",
+    "scan": {
+        "lccn": "sn88053099",
+        "edition": "ed-01",
+        "date": "1798-10-05",
+        "page": "1",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn88053099/1798-10-05/ed-1/seq-1.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn88053099/1798-10-05/ed-1/seq-1/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn88053099/1798-10-05/ed-1/seq-1/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn88053099/00271740232/1798100501/0029.jp2",
+        "height": 2936,
+        "width": 2368
+    },
+    "bboxes": [
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1927,
+                "y0": 1006,
+                "x1": 2251,
+                "y1": 2356
+            },
+            "class": "article",
+            "raw_text": "\n\n\n\n\n\n\n\n\n",
+            "legibility": "Illegible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 266,
+                "y0": 623,
+                "x1": 2166,
+                "y1": 822
+            },
+            "class": "headline",
+            "raw_text": "SIXTH DAY (FR1D) EVENING, TENTH MO.\n\n\n(OC73 s, 1898.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        }
+    ],
+    "full articles": []
+}

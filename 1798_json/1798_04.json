@@ -1,0 +1,164 @@
+{
+    "lccn": {
+        "title": "The Wilmington mercury.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2639-6262",
+        "lccn": "sn88053099",
+        "start_year": "1798",
+        "end_year": "1798",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn88053099",
+        "edition": "ed-01",
+        "date": "1798-10-08",
+        "pages": [
+            "seq-1"
+        ]
+    },
+    "page_number": "1",
+    "scan": {
+        "lccn": "sn88053099",
+        "edition": "ed-01",
+        "date": "1798-10-08",
+        "page": "1",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn88053099/1798-10-08/ed-1/seq-1.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn88053099/1798-10-08/ed-1/seq-1/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn88053099/1798-10-08/ed-1/seq-1/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn88053099/00271740232/1798100801/0033.jp2",
+        "height": 2928,
+        "width": 2408
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 1325,
+                "y0": 793,
+                "x1": 2053,
+                "y1": 2874
+            },
+            "class": "article",
+            "raw_text": "ttbf'fSl l0ft A'Aef 81 y\n\n\ne. Notwith fan ling the fa-\nvorahle Afpett Of the prevailing\ndifeafe being nearly exterminated\n---yetit bchoves thofe inhabitants\nwho may have re moved, and\nwhole dwellings remain ihut,\nto caufe them not only to be ef-\nfectually funlgated, but white\nwalhed and aired, previous to\ntheir return.-[t is uncertain to\ndecide what effect the prelent\nchangeab!e weather may pro luce\nHopes are entertained Of aeon\ntinuance of the temperate, for a\nfew weeks; in which cafe, no\nhazard can refult, by return Of\nour friends & nelghbours.-This\nwould indeed be plealing, and\nis devoutly wilhed--But-\nwhilif in the fervor of our hopes.\nwe contemplate a return OF our\nformer blei1ings, let not the opu-\nlent-the benevolent forget the\nnumerous families who are de-\nprived Of their hcads-the many\norphans who are totally depend\nant on their charity--and who,\nwere it not for the unremittlng\nattentions Of the Board of Health,\nwould have languiihed and died\nin want 1.-THE approach Of\nan inclement ieafon, will meet\nmany poor families unprepared !\nbut the fame benevolence that\nupheld the ifranger, and provid-\ned for the orphan, will furely\nextend its influence to the tup-\nport of the unfortunate.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 931,
+                "y0": 750,
+                "x1": 1772,
+                "y1": 822
+            },
+            "class": "headline",
+            "raw_text": "[ CoAef7ea for kbe W1AmMgtoa Meycuy.l",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 517,
+                "y0": 734,
+                "x1": 1278,
+                "y1": 2128
+            },
+            "class": "article",
+            "raw_text": "[C0Aeaed for hbe\nHEALTH-OFFICE.\nWzm4gtoa, Iotb Mo. (oa.) 5.\n\n\nd E A I H S,\nFor The MR T7geufy- -Four Hours,\nending s o'Cl0rk iris EpeaiAg:\nJohn Brown--H tbe HlpiiI.\nBorough Hgp1fal Report.\nFrom 7 10 Stb Of Iotb Mo. (Oa.)\nAdmitted, Q\nDied, I\nDifchargcd, cured, Q\nRemaining in Hofpital, 4\nTOTAL DEATHS,\nFrom 8tb Mo. { (AAg.) 7. 10 Iofb\nMo. (OH.) 8-MrlAfve.\nAdults, 1872\n\n\nChildren, 13\n\n\nTot. Io5",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 305,
+                "y0": 480,
+                "x1": 2335,
+                "y1": 726
+            },
+            "class": "headline",
+            "raw_text": "SECOND DAY (a1on) EVENING, TENTH MO.\n\n\n(OC70 8, 17o8",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                2,
+                0
+            ],
+            "headline": "[ CoAef7ea for kbe W1AmMgtoa Meycuy.l",
+            "article": "ttbf'fSl l0ft A'Aef 81 y\n\n\ne. Notwith fan ling the fa-\nvorahle Afpett Of the prevailing\ndifeafe being nearly exterminated\n---yetit bchoves thofe inhabitants\nwho may have re moved, and\nwhole dwellings remain ihut,\nto caufe them not only to be ef-\nfectually funlgated, but white\nwalhed and aired, previous to\ntheir return.-[t is uncertain to\ndecide what effect the prelent\nchangeab!e weather may pro luce\nHopes are entertained Of aeon\ntinuance of the temperate, for a\nfew weeks; in which cafe, no\nhazard can refult, by return Of\nour friends & nelghbours.-This\nwould indeed be plealing, and\nis devoutly wilhed--But-\nwhilif in the fervor of our hopes.\nwe contemplate a return OF our\nformer blei1ings, let not the opu-\nlent-the benevolent forget the\nnumerous families who are de-\nprived Of their hcads-the many\norphans who are totally depend\nant on their charity--and who,\nwere it not for the unremittlng\nattentions Of the Board of Health,\nwould have languiihed and died\nin want 1.-THE approach Of\nan inclement ieafon, will meet\nmany poor families unprepared !\nbut the fame benevolence that\nupheld the ifranger, and provid-\ned for the orphan, will furely\nextend its influence to the tup-\nport of the unfortunate.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 931,
+                    "y0": 750,
+                    "x1": 1772,
+                    "y1": 822
+                },
+                {
+                    "x0": 1325,
+                    "y0": 793,
+                    "x1": 2053,
+                    "y1": 2874
+                }
+            ],
+            "bbox": [
+                931,
+                750,
+                2053,
+                2874
+            ],
+            "full_article_id": 1,
+            "id": "1_1798-10-08_p1_sn88053099_00271740232_1798100801_0033.json"
+        },
+        {
+            "object_ids": [
+                3,
+                5
+            ],
+            "headline": "SECOND DAY (a1on) EVENING, TENTH MO.\n\n\n(OC70 8, 17o8",
+            "article": "[C0Aeaed for hbe\nHEALTH-OFFICE.\nWzm4gtoa, Iotb Mo. (oa.) 5.\n\n\nd E A I H S,\nFor The MR T7geufy- -Four Hours,\nending s o'Cl0rk iris EpeaiAg:\nJohn Brown--H tbe HlpiiI.\nBorough Hgp1fal Report.\nFrom 7 10 Stb Of Iotb Mo. (Oa.)\nAdmitted, Q\nDied, I\nDifchargcd, cured, Q\nRemaining in Hofpital, 4\nTOTAL DEATHS,\nFrom 8tb Mo. { (AAg.) 7. 10 Iofb\nMo. (OH.) 8-MrlAfve.\nAdults, 1872\n\n\nChildren, 13\n\n\nTot. Io5",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 305,
+                    "y0": 480,
+                    "x1": 2335,
+                    "y1": 726
+                },
+                {
+                    "x0": 517,
+                    "y0": 734,
+                    "x1": 1278,
+                    "y1": 2128
+                }
+            ],
+            "bbox": [
+                305,
+                480,
+                2335,
+                2128
+            ],
+            "full_article_id": 6,
+            "id": "6_1798-10-08_p1_sn88053099_00271740232_1798100801_0033.json"
+        }
+    ]
+}

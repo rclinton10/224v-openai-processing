@@ -1,0 +1,1088 @@
+{
+    "lccn": {
+        "title": "Delaware journal.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2638-6917",
+        "lccn": "sn83025530",
+        "start_year": "1827",
+        "end_year": "1832",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [
+            "sn85042477"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn83025530",
+        "edition": "ed-01",
+        "date": "1827-11-06",
+        "pages": [
+            "seq-1",
+            "seq-4",
+            "seq-2",
+            "seq-3"
+        ]
+    },
+    "page_number": "3",
+    "scan": {
+        "lccn": "sn83025530",
+        "edition": "ed-01",
+        "date": "1827-11-06",
+        "page": "3",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-11-06/ed-1/seq-3.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-11-06/ed-1/seq-3/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-11-06/ed-1/seq-3/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn83025530/00271740220/1827110601/0248.jp2",
+        "height": 5536,
+        "width": 3576
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 53,
+                "y0": 3524,
+                "x1": 854,
+                "y1": 5052
+            },
+            "class": "article",
+            "raw_text": "We have often tried to present to readers the most\nvaluable Opposition tales fast they published\naccompanied by the refutaons which followed but we\nhaye really found it utterly Impossible to keep up with\nthem without devsting much larger space them than\nseemed proper. We would suggest that the Opposition\nshould make arrangement to publish monthly, certain\nspecified number Of stories and to allow specified\ntime for their reuaon before they gave any more to the\npublic In that case publishers of weekly and semweek-\npapers woudlave chance Of being so far be-\nhind in giving account of them And it is further sug-\ngested merely for the benefit Of the country papers, that\nthe Opposition should agree to their charges and\nvary them oftener than the wind changes day speak\n\n\ning of three members Of Congress- another OF two,\n\n\ner Of responsible name,\" and anothe this story\nsnot true, other one, very much like it, most\ntinly is\"\n\n\nWe aware that many fthe Opposition fully seh-\nsbe Of the unness of General jackson for the presden-\nCyl and that they have hopes of seeing him elected\non of his merits There can, therefore, be\nno reasonable objection to the proposed arrangement\nless the gentlemen should be fearful, by dmnution of\nof not being able to make the public entertain\nawose opinion of the Administration than Of the General\n\n\nbut experience viii teach them, they might learn the\nsad effects to their cause produced by those which they\nhave already promulgated and therefore to dmn\nish them if they felt not disposed accommodate\nthe country newspapers.\n\n\nTHANKseIvINe.-This annual festival, is to behol\naen Oh the same day. in New Hampshire, Massa\nchusetts, Maine and Connecticut. The spectacle\nVI several millions of FREEMEN, enjoying the high\nest degree OF civil and religious liberty, uniting\nappropriate. so pleasing duty, is at once inter\nestng aud sublime.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 304,
+                "y0": 3485,
+                "x1": 582,
+                "y1": 3517
+            },
+            "class": "headline",
+            "raw_text": "A PROPOSITION.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2484,
+                "y0": 4190,
+                "x1": 3285,
+                "y1": 5242
+            },
+            "class": "article",
+            "raw_text": "Containing in addition to the usual Astronomical\nCalculations, Tables, sc. the Courts of the United\nStates, and of Delaware and Maryland; great va\nriety of profitable and pleasing miscellaneous mat\nter, among which is\n\n\nSailors humorous ride in mlk-cart,\n\n\nYankey resolution in saving the mail,--\nIngenious defence of thief\n\n\nDreams and signs interpreted,\n\n\nMethod of un-narryng the unhappy,\n\n\nDifinition ofa Drunkard,\nlittle world,\n\n\nOld maids, their uncomfortable troubles,\nAccount of novel courtship,\n\n\nAnecdote of Paddy and his game cock,\n\n\nThe Irishman and his pig, &c. &c. &c.\n\n\nWonderful discoveries ofthe Microscope,\nHumorous account of Penn'a. Battalion Day,\nWashington's army saved by Quaker lady.\nOde to the gout,\n\n\nRECEIPTS for curing the Gravel, curing Wens.\nmaking candles, removing grease spots from clothes,\nmaking vinegar, preserving pickles, preserving\nmeats, &c. &c. &c.\n\n\nThe above Almanac, with an extensive assortment\nof others, German and English for sale by the Gross\nor Dozen, at ile most reduced prices.\n\n\nNo,. r. PORTER g. SON.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2475,
+                "y0": 3974,
+                "x1": 3268,
+                "y1": 4174
+            },
+            "class": "headline",
+            "raw_text": "JUST PUBLISHED,\nAnd for sale at No 97 JMarket-Street Wilmington,\nThe Columbian almanac,\n\n\nFor 1S2S.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2467,
+                "y0": 3576,
+                "x1": 3268,
+                "y1": 3949
+            },
+            "class": "article",
+            "raw_text": "Just received and for sale here The atlantic Sou\nvenir. a beautiful Christmas and New-Year Pre-\nsent, handsomely boarded with gilt leaves, and en-\nclosed in An elegant ornamented case. This is be-\n\n\neved to be one of the mos: splendid little works of\ntaste ever published in this country it contains IS\nelegant engravings, descriptive Of Cats Kill falls. II\nconderoga, Delaware Water Gap, Bournouese War\nrlor, Moonlight, BE-. &C. &c.\n\n\nNov. 6, X. PORTER u SON.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 2549,
+                "y0": 3468,
+                "x1": 3164,
+                "y1": 3569
+            },
+            "class": "headline",
+            "raw_text": "ATLANTIC SOUVENIR\nFOR 1923,",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2454,
+                "y0": 588,
+                "x1": 3263,
+                "y1": 1631
+            },
+            "class": "article",
+            "raw_text": "BALTIMORE Nov. g.\nFLOUR AND MEAL\n\n\nSales Of Howard street and City Mills -four at\nour quotations-business, however, is dull and IF\nlimited extent. The inspections Of the past week\ncomprise 1881 barrels and 455 half barrels wheat\n-four, and 46 casks corn meal\n\n\nSuperfne Howard street, from stores,\n\n\nper Dbl. IS O6a5 12a\n\n\ns'City Mills. standard quality, 4 5Oa4 IS\n\n\nI\" Susquehanna,\n\n\nCorn Meal, kiln dried, per Dbl. 275\nGRAIN\n\n\nWheat has improved in prices since our last--the\nsupply during the week has been small. Sales Of\nwhite have ranged from 95al 10 cents per bushe, ac\ncording to quality. Sales Of best red. from 90a93.\nThe supply Of corn is also small-yellow is in\ngood demand, and sales have been made at HAAS\ncents. Rye continues scarce and is much wanted\nsales at 5Oa SO cents.\n\n\nWheat, best white, 95ai10 Peas 40a5O\nbest red, 90a93 Glover Seed so as\nord'y to good 70 a IS Timothy do 900\nCorn white 44a45 Barley, So 90\nq\" yellow a. 45 Flaxseed, rough 6Oa7S\nRye, 50a So Chop'd Rye, lU0lbs. oOall2l-2\nOats, 20 25 Ship Stuff, bus is ala\nWhite Beans, 80 a 100 Shorts, do IA 10",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 2890,
+                "y0": 575,
+                "x1": 3220,
+                "y1": 628
+            },
+            "class": "headline",
+            "raw_text": "BALTIMORE Nov. 2.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1675,
+                "y0": 4904,
+                "x1": 2472,
+                "y1": 5247
+            },
+            "class": "article",
+            "raw_text": "HAY- THE fourth annual Meeting of the 6 W.\n\n\nngton Union Colonization Society, will be held IN\nthe Second Presbyterian Church, on Thursday\nevening next, at halfpa six o'cock,-when an ad-\ndress will be delivered. Persons opposed to, as\nwei, \"a those who favor the views of the Society\ninvited as opportunity will be afforded to discuss\nThe merits Of the undertaking. S.\nNov, 5th, 1927 R. A. HENDERSON, sec'y.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2458,
+                "y0": 2629,
+                "x1": 3263,
+                "y1": 2920
+            },
+            "class": "article",
+            "raw_text": "ciety of Dela,care'' will take place at CANrwELL's\nBRIDGE, on Tuesday 18th Of November next, at\n10 O'Clock, A. M. punctual and early attendance\nof the members from each County is particularly re-\nquested, as business of general interest will come be-\nfore them. CUTHBERT s. GREEN, Sec'y.\n\n\nEIddleko,ou Oct 31st, 1897.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2544,
+                "y0": 2547,
+                "x1": 3147,
+                "y1": 2613
+            },
+            "class": "headline",
+            "raw_text": "Medical Society.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1645,
+                "y0": 324,
+                "x1": 2442,
+                "y1": 3348
+            },
+            "class": "article",
+            "raw_text": "\n\n\nReturn Of Captain. Parry.-On Wednesday\nmorning Captain Parry, and his surgeon, DIR. Bev-\nery, arrived at the Caladonian Hotel here, after\nanother arduous but unsuccessful attempt to accom-\npsh the Polar voyage. Captain Parry came to In\nverness by the Chichester Revenue Cutter, comman-\nded by Capt John Stewart. having fortunately fall\nlen in with Capt s. in the Orknes, on being driven\nin there the 22d ult. The history of the present\nenterprise is brief; and while we have to commune\ncate the agreeable of the safe return of Capt\nParry to his country and friends, able, at the\nsame time to vouch for the accuracy of the follow\nling particulars. Capt. Parry, on leaving the Dis\ncovery Ship at the appointed place. off the Spitz-\nbergen coast betook himself to the sledge boats pre-\npared for his conveyance over the ice in pursuance\nIof his original Intentions and Instructions and was\nout for the space Of sxtyone days. of the boats\nbeing underhis charge, and the other under that\nof Lieut.. Ross. These two boats were hauled over\nthe ice by the crew of the ship, twelve men to each;\nand after undergoing incredible fatigue, they felt\nthat for great part Of the time, they float\ning icebergs which carried them southwark, while\nthey were stretching every nerve to proceed north\nward; and thus, of necessity, they were compelled\nportant fact in the clearest point of view, we have\nto mention that during the last three days ofthe exp\ndtion, and on taking his observations by the chron-\nometer, Capt Parry found that his boats had gained\ntwo miles only. The expedition arrived at latitude\n82 45 and had il proceeded but fifteen miles fur\nther. Capt. Parry and his men would have obtained\nthe pecuniary remuneration to which they enti-\ntitled reaching 49,; but even this short distance\nwas found unattainable by any physical effort Near\nly in the same line we proceeded, to the Hecla. I'm\nmediately on reaching the ship the expedition then\nproceeded homeward. We are happy to add, that\nCapt. Parry his officers and men, are in good health.\n\n\n\nThere is now in Paris female named Elizabeth\nThomas Cordieux, native of Savoy, who was born\non the 9th December, 17l4 !; and who is, in all pro-\nliability, the French say, the Doyenne (the senior)\nuf the human race. Her face is not more wripkled\nthan that Of female half her age, her sight is good,\nher appetite excellent and she can walk ten miles\nday without exhaustion she does not make use Of\nstick to support herself and it really true that she\nhas trudged all the way, on foot, from her native\nmountains to the metropolis of France. She pas\nsed through Lyons and Dion, where she attended\nher liberal compensation for the benefit they obtain\ned from her presence, people coming from all parts\nto behold the senior Of the hannan race. The aged\ndame has been already presented to the Dauphin,\nDauphiness, and the young Duke Bordeaux. She\nis to go the round of the theatres for her benefit\nand that Of the managers, who expect to reap great\nprofit from exhibiting her to the public.\n\n\nCoNsTANTINorLE. Aug. 81.\nFrom to 1900 men, infantry and artillery, left\nthis capital, last week, for the Dardanees, where\ngreat preparations for defence are making Per-\nfeet tranquility, however, prevails here and we'll in\n\n\nformed persons are generally Of opinion there will\nbe no rupture.\n\n\nANooNA, Sept. IL.\nA Greek schooner which had several times touch\ned at our port, and had always been received with\n\n\nthe greatest hospitality, has seized, near Ithaca,\npontifcal trabocolo commanded by John Samson,\nwhom it robbed of 400 crowns and his rigging 1t\n\n\nis thus it has returned the hospitality it received in\nthe states Of the pope.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 1762,
+                "y0": 298,
+                "x1": 2303,
+                "y1": 342
+            },
+            "class": "headline",
+            "raw_text": "(Fom the huerness Cour;er.) }",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2449,
+                "y0": 1764,
+                "x1": 3272,
+                "y1": 2531
+            },
+            "class": "article",
+            "raw_text": "THE Justices of the Peace n the several counties\nOf thisState hereby requested to make their re-\nturns ofthe fines, imposed by them, also the names\nof the Constables, who had the collection Of sald\nfines\n\n\nThose Justices Of the Peace, who have neglected\nto make their returns for several years past,\nquested to make return OF all the fines imposed by\nthem since their last return\n\n\nAttention to this notice is requested, as a report\nwill be made to the Legislature of all those who neg\nlect to make their report according to Law.\n\n\nAlso the Road Commissioners of the County of\nNew Castle who have not made their returns of the\nexpenditures on Roads and Bridges, in their respec\ntive hundred for the year of 1896, are requested to\nforward them as soon convenient\nS. WILLIAMS,\n\n\n.auaitor Of .accouats STATE Of Delaucdre.\nOct 31st, 1927. 57--4t",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 2717,
+                "y0": 1652,
+                "x1": 2995,
+                "y1": 1718
+            },
+            "class": "headline",
+            "raw_text": "Notice",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -2
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 2454,
+                "y0": 1730,
+                "x1": 3237,
+                "y1": 1782
+            },
+            "class": "headline",
+            "raw_text": "TO JUSTICES OF THE PEACE.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2458,
+                "y0": 3049,
+                "x1": 3268,
+                "y1": 3283
+            },
+            "class": "article",
+            "raw_text": "THE Directors ofthe Bapk of Smyrna, have this\nday declared dividend for the last six months, at\nthe rate of six per cent year the same will be\npaid on OF after the 9th Inst. By Order,\n\n\nS. H. HODSON, Cashier.\n\n\n57--4t",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 2553,
+                "y0": 2941,
+                "x1": 3233,
+                "y1": 3041
+            },
+            "class": "headline",
+            "raw_text": "wAEE or Sl,1y&5N A,\n\n\nNO3,- l. 1907.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2454,
+                "y0": 354,
+                "x1": 3263,
+                "y1": 545
+            },
+            "class": "article",
+            "raw_text": "Gen. Jackson is now in his 68th or 69th year--and\nOf course, if he succeeds will be about TO- when he\ntakes the chair. How wonderful that nobody has\never before found out his fitness for the Presden-\ncy!",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 2644,
+                "y0": 307,
+                "x1": 3064,
+                "y1": 346
+            },
+            "class": "headline",
+            "raw_text": "From the ~. Fl. Journal.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 53,
+                "y0": 3299,
+                "x1": 841,
+                "y1": 3465
+            },
+            "class": "article",
+            "raw_text": "Nappears from the Alexandria Gazette Of yesterday tha,\nthere are the Senate of Ohio, \"a friends of the Admins.\ntrato out Of 56 members and in the House OF Repre-.\nsentatives our strength still greater while in Congress\nwe have eleven three i'll the House, and both Senators,",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 386,
+                "y0": 3265,
+                "x1": 500,
+                "y1": 3296
+            },
+            "class": "headline",
+            "raw_text": "OHIO.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1658,
+                "y0": 3771,
+                "x1": 2459,
+                "y1": 4879
+            },
+            "class": "article",
+            "raw_text": "The Lynchburg Virginia, Of the 25th ultimo.\nlsays, 4\" We have received second communication\nfrom Mr.. Madison. from which we learn that, in\ndisappearing of the proceedings of the General As.\nsembiy of the State, which would limit the power\nof Congress- over trade, regulations having revenue\nalone for their obect,' he designed to give it as his\n|opinion that Congress has Alright to impose tariff\nof duties having for its objects protection and en-\ncoa4, ageme,,t of domestic manufacturers\" This was\nthe doctrine Of MIR. Madison and ninetenths OF the\nCongress, in 1889, and nobody could doubt that it\nwas his doctrine still. But, after the argument\nagainst it, inferred from the opinions of MIR. M. on\nother topics, it is well that he has suffered his\nopinion upon it to be given to the world in explicit\nterms.\n\n\nMr.. Madson's Letter has spread dismay in the\nOpposition ranks. The great lever. the uncon-\nstitutionaity of the Tariff, that theme of so much\ndefamation, and of so much legislative hoeu'\npocus. has broken in their hands. Mr.. Madison\nthinks that the power to protect Manufactures II\nnot only constitutional, but was primary conside\nration in adopting the Constitution The wire draw\ners and hair spltters, what has become OF their in\ntangible theories and learned deductions9 their con\nstructiun construed, constitu tions vndcated, ant\ncontemporaneous expostions Swept away by the\nfirst touch Of the BROOM k'chmona Vig.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2467,
+                "y0": 3369,
+                "x1": 3268,
+                "y1": 3452
+            },
+            "class": "article",
+            "raw_text": "NINE Shares of Kennel Turnpike Stock. In\nqnire at the Office of the Journal. 57--4t",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 2696,
+                "y0": 3304,
+                "x1": 3038,
+                "y1": 3361
+            },
+            "class": "headline",
+            "raw_text": "FOR SALE,",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": -1
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 1658,
+                "y0": 3373,
+                "x1": 2446,
+                "y1": 3750
+            },
+            "class": "article",
+            "raw_text": "Gath October, 1897.\nA board for the examination of Mdshipmen,\nwhose warrants bear date prior to the 1st January,\n1919, has been ordered to assemble at the Navy,\nYard, Brooklyn, N. Y. on Wednesday the 7th No\nvember next Commodore CHAuNcEy will be pre-\nsdent.\n\n\nAfter that examination is closed, another will be\nordered for certain Midshipmen whose dates o.\nWarrant are subsequent to ist january, 1919.",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 2008,
+                "y0": 3325,
+                "x1": 2342,
+                "y1": 3361
+            },
+            "class": "headline",
+            "raw_text": "Navy DEPARTMENT,",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": -1
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 832,
+                "y0": 354,
+                "x1": 1637,
+                "y1": 4490
+            },
+            "class": "article",
+            "raw_text": "Iuisu puuC sthiluinS h1OU u tO Oc FHe we call up\non Mr.. Tazewel to satisfy the people Of the truth\nOF a statement, which even at this late day, has\nmade the blood Of the public run cold. Did not\nGen. Jackson 20 to the Senate chamber to chastise\nJohn w. Eppes, for animadverting his public con-\nduct? Was he not restrained alone, by the remon-\nstrances, and declaration of the Godlike Decatur,\nthat he should pass over his dead body, to the per-\npetration Of his intended outrage? Has not Mr.\n\n\nTazewell heard Decatur recount the circumstances,\nand has he not himself often recounted them, with\nthe language and feelings which daring an outrage\nought to inspire?\n\n\n! The statements made by ..NEsroR\" in the Demo-\ncratic Press, and repubished in this Gazette last\nweek. relative to scene between Decatur and Jack\nson. before the door of the Senate Chamber, are\npronounced BY writer in the Richmond Wing to\n| be s.true beyond doubt\" The writer seems a.\nware, however, that unless NEsroR's account be\nproved by evidence which cannot be disputed, ma\nny will effect to disbeieve it,; he therefore cal Is up\non LrrrLEroN WALLER TAzwELL and JOHN TYLER,\nthe present Virginia Senator's for their evidence in\nthe case These gentlemen were intimate with\nCommodore Decatur, have heard him relate the cir\ncumsances, and have it fully in their power TO dsa\nbuse the reputation of General Jackson, it, in any\nEssential particular injustice has been done to it.\nShould these distinguished men remain silent in\nmatter SO imperiously demanding their interference\nwill at least be as good evidence against the Hero\nlas any that he has yet produced in support of his\ncharges against Mr.. Clay .4ler. Gazette.\n\n\nFrom the Richmond Whig.\n\n\nO>.4nother Refutation on!-What charge made\nBY the partizans Of Gen. Jackson that has not been\nrefuted What evidence relied on by them to estab-\nlish charge. but has turned out against them What\nstatement affirmed by them, but has proved upon\ninvestigation, absolutely unfounded, or grossly exag\ngerated Another instance Of this reckless menda\ncity has Just been made public Lying, is reduced\nby the Jackson operatives, to perfect system. No\nsooner is one told and exposed in quarter of the\nUnion, than it is succeeded by another in some other\nquarter. Their circulation since March, 1925, has\nbeen rapid, unintermtted and tremendous.\n\n\nAnother SANDER is nailed to the counter. Ano-\nther witness cited to prove the bargain, gives ev-\ndence of its falsehood, and would call the blush to\nthe cheek of those who had asserted it, had they not\npassed the point of blushing. The :. Western Til\nler,\" an Ohio paper, stated that Col. Bourne, Re-\ncever of the Land Office at Chcothe, declared he\nhad received letter from Member Of Congress,\nshortly before the election, which contained the\n'bargain'' in so many words; ma mely: Mr..\nAdams has agreed, if placed IN The Presidency by\nNh. C9ay's friends, to make him (Mr. c. Secretary\nOf State\" To make the statement more impress\nsive, it was announced that Col. Bourne son-n-\nlaw of General Macarthur, warm friend Of Mr..\nClay, and who as Representative Of Ohio, voted\nfor Mr.. Adams. The Inference left for the public\nto draw, that General Macarthur had written the\nletter, and that coming from quarter so high and\nconfidential, as to Mr.. Clay, it must be entitled to\nimplicit confidence. The following from Colonel\n\n\nBourne to the Editor Of the Scioto Gazette, puts\ndown the whole story. Thus has another attempt\nat proving the 6 bargain'' failed\n\n\n/ \"When have occasionally engaged in political\ndiscussions the conversation has generally turned\n\n\non the principles and practice Of governments. ra-\n\n\nther than party politics As I have never been a\n\n\nparty man, in the strict sense of the word. and be-\ning under particular obligations to any party,\n. have sometimes freely expressed my opinion o\n\n\nwhat believe to be the errors of all parties and\n\n\nthis one of the topics of the conversation which\ngave rise to the present controversy\n\n\nAs to the last Presidential election, never did be\n\n\nlieve, and never said that believed, that there was\nlany bargain, purchase, sale or corrupt intrigue be\n. tween the friends of Mr.. Clay and the friends 0\nMr.. Adams, and never did, in my own mind, at\n\n\nach the least degree Of crimnality to their conduc\nin that election. This was distinctly stated in tn\nn aforementioned conversation.\n\n\nn If have ever said, that received, by lette\nd from member Of Congress, direct proof OF an un\ne derstanding, or agreement between the friends Q\nMr. Clay and the friends Of Mr.. Adams, respectin\n: the Presidential election, then have nadvertent\nstated that which is not true for have never re\nat ceived any such proof\" A BOURNE\n1t October 13, 1927.\n\n\no-l From the United States Gazette.\n\" We learn that the police of the city, has recent\nr. ferreted out large number of persons connecte\n\n\nwith counterfeting establishment, on very, e,\n/. tensive scale. The names of several individual\nlhave been mentioned to us which, however, it ma\ny not be the best for the present to publish.\n\n\n~ ~ 1t is mentioned to us, that of the members\nthe counterfeiting society had passed fifty dolIf\nas note upon shopkeeper \"a femae) in Second stree\ny who the next day, exhibiting it to a gentleman",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 19,
+                "y0": 289,
+                "x1": 828,
+                "y1": 3249
+            },
+            "class": "article",
+            "raw_text": "tually deliver, and may be given to the world BY 4\nReporter\n\n\nThought it might not be advisable to adhere to this\nrule of reporting only the substance speeches, the\nnext day after they delivered, in all cases still\nwe should suppose that the effect would be salutary\nin exhibiting many members according as they ought\nTO be estimated, and not by the number ofwords which\nthey could string together in their closets and have\ninserted in public print actually delivered\nin Congress.\n\n\nThe proceedings of the Senate will be reported\n\n\nin the Journal more fully than they have been here\nloiore, in that paper.\n\n\nOne of the most violent declaimers against the\nwoollens bill, in South Carolina, is represented as\nbuying bale of Domestic Woollens, taking coun-\nGil of his purse instead Of his preudices, and finding\nit advisable, in the present case, not to agree with\nthose of his countrymen who 'propose never to\nbuy any articles from the manufacturing states.'\nAs the story now goes. the body that was suppos-\ned to be Morgans proves to be that Of a man from\nCanada, and Mr.. Ellting who had been almost Nor\nganzed turns out to be an impostor.\nThe committees from Hartford and Cecil Coun-\nties appointed to select and recommend a suita-\nbic person to be supported as an Elector Of Pres-\ndent and Vice President, met at Port Deposit, Oct.\n97 agreeabiy to public notice; and COL JAMES\nSEWALL, of Cecil County, was unanimously re-\ncommended to the support of the citizens Of those\ncounties. Gen. Thomas NJ. Forman has also been\nnominated in the same Electoral District. Col.\nSewall is friendly to the Administration, and Gen.\nForman to Gen. Jackson.\n\n\nThe people of this country have been compliment\ned on their character, conduct, and intelligence :\nbut many of the statements IN the Opposition prints,\nif they are published to be believed, seem to imply\nthat the people are ignorant; wanting usual discern\nment easily led astray by any tale told by inte-\nrested persons; mt knowing the difference between\nthe interests Of aspiring politicians and those of the\nnation afflicted with the most hurtful prejudices /;\nmore influenced by their passions than by fact, ar\ngument, and probability and if not destitute of\ncommon sense, having just brains enough to be i'm\nposed upon by the numerous fabrcations Of the OPP\nposition.\n\n\nWe have received \"the proceedings of the General\nConvention. at Harrisburg. OF the Agriculturaists and\nand others friendly to the encouragement\nand support ofthe Domestic ndusy of the United States\naccompanied wtha Memorial to Congress- and Address\nto the public and Appendix to this address containing\n\n\nvast and useful body Of information subject not\ngenerally fully understood but which claims the atten\n\n\nton and the real interest of the great the\npeople of this country.\n\n\nTo those who want information, simply on this subject\nIS well as to those who Interested Agriculture Com\nmerce, Manufactures, we recommend not only perusa\nbut releae, study of the contents of this important pam\nphet 1t can be had for re, and ought be general,\ncirculated, aud carefully and deliberately examined ant\nconsidered",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 83,
+                "y0": 5112,
+                "x1": 863,
+                "y1": 5277
+            },
+            "class": "article",
+            "raw_text": "Decatur f. Jackson. n.--The account recently re.\npublished in this paper Of the extraordinary scene\nbetween Decatur and Jackson, in the lobby of the\nUnited States Senate, was no, exaggerated. Mr..",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 243,
+                "y0": 5073,
+                "x1": 699,
+                "y1": 5113
+            },
+            "class": "headline",
+            "raw_text": "From the Richmond Whig.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": -1
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 862,
+                "y0": 4113,
+                "x1": 1654,
+                "y1": 5268
+            },
+            "class": "article",
+            "raw_text": "\n\n\nWe learn that the police of the city, has recently\nferreted out large number of persons connected\nwith counterfeiting establishment, on very ex-\n|tensive SCALE The names of several individuals\nIhave been mentioned to us which, however. it may\nnot be the best for the present to publish.\n1t is mentioned to us, that one Of the members OF\nthe counterfeing society had passed fifty dollar\nnote upon shopkeeper. IA femae) in Second street\nwho the next day, exhibiting it to gentleman\nLearned that it was counterfet-while they were\nexamining the note, the person who had passed il\nwas in the street, the gentleman lett the shop\nand followed him up the street. as far as Green stree\nnear to which he turned, and was about to enter\nhouse, when the person in pursuit beckoned to him\nhe stopped and enquired his business with aim. -\nunderstand\" said the gentleman ''that you have\nsome counterfeit money to sel-.'a 'ttle,\" repl,ef\nthe person--and what do you ask 9-Twenty-fv'\ncents on the dollar - and can you let me have\n$1,000 at that rate :. The bargain for smal\namount was made, and the time and place for tn\nlconsumnation agreed on.\n\n\nThe gentleman then directed his course to tn\nMayor's Office warrant was issued, and when tn\nnote merchant wa. looking for his customer tn\nthigh constable hoped in and closed his accounts\ni The detected man turned states evidence, and cr\nminated, as we have before stated, large number\nIbis confederates,",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": 0
+        },
+        {
+            "id": 32,
+            "bbox": {
+                "x0": 1005,
+                "y0": 4087,
+                "x1": 1525,
+                "y1": 4127
+            },
+            "class": "headline",
+            "raw_text": "From, the United States Gazette.",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": -1
+        },
+        {
+            "id": 34,
+            "bbox": {
+                "x0": 1645,
+                "y0": 2742,
+                "x1": 2446,
+                "y1": 2963
+            },
+            "class": "article",
+            "raw_text": "CoNsrANrINorLE. Aug 81.\n\n\nFrom to 1000 men, infantry and artillery, left\n\n\nthis capital, last week, for the Dardanelles, where\ngreat preparations for defence are making. Per-\n\n\nfeet tranquility, however, prevails here and we'll in\nformed persons are generally Of opinion there will",
+            "legibility": "Legible",
+            "full_article_id": 35,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                23,
+                0
+            ],
+            "headline": "A PROPOSITION.",
+            "article": "We have often tried to present to readers the most\nvaluable Opposition tales fast they published\naccompanied by the refutaons which followed but we\nhaye really found it utterly Impossible to keep up with\nthem without devsting much larger space them than\nseemed proper. We would suggest that the Opposition\nshould make arrangement to publish monthly, certain\nspecified number Of stories and to allow specified\ntime for their reuaon before they gave any more to the\npublic In that case publishers of weekly and semweek-\npapers woudlave chance Of being so far be-\nhind in giving account of them And it is further sug-\ngested merely for the benefit Of the country papers, that\nthe Opposition should agree to their charges and\nvary them oftener than the wind changes day speak\n\n\ning of three members Of Congress- another OF two,\n\n\ner Of responsible name,\" and anothe this story\nsnot true, other one, very much like it, most\ntinly is\"\n\n\nWe aware that many fthe Opposition fully seh-\nsbe Of the unness of General jackson for the presden-\nCyl and that they have hopes of seeing him elected\non of his merits There can, therefore, be\nno reasonable objection to the proposed arrangement\nless the gentlemen should be fearful, by dmnution of\nof not being able to make the public entertain\nawose opinion of the Administration than Of the General\n\n\nbut experience viii teach them, they might learn the\nsad effects to their cause produced by those which they\nhave already promulgated and therefore to dmn\nish them if they felt not disposed accommodate\nthe country newspapers.\n\n\nTHANKseIvINe.-This annual festival, is to behol\naen Oh the same day. in New Hampshire, Massa\nchusetts, Maine and Connecticut. The spectacle\nVI several millions of FREEMEN, enjoying the high\nest degree OF civil and religious liberty, uniting\nappropriate. so pleasing duty, is at once inter\nestng aud sublime.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 304,
+                    "y0": 3485,
+                    "x1": 582,
+                    "y1": 3517
+                },
+                {
+                    "x0": 53,
+                    "y0": 3524,
+                    "x1": 854,
+                    "y1": 5052
+                }
+            ],
+            "bbox": [
+                53,
+                3485,
+                854,
+                5052
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-11-06_p3_sn83025530_00271740220_1827110601_0248.json"
+        },
+        {
+            "object_ids": [
+                9,
+                1
+            ],
+            "headline": "JUST PUBLISHED,\nAnd for sale at No 97 JMarket-Street Wilmington,\nThe Columbian almanac,\n\n\nFor 1S2S.",
+            "article": "Containing in addition to the usual Astronomical\nCalculations, Tables, sc. the Courts of the United\nStates, and of Delaware and Maryland; great va\nriety of profitable and pleasing miscellaneous mat\nter, among which is\n\n\nSailors humorous ride in mlk-cart,\n\n\nYankey resolution in saving the mail,--\nIngenious defence of thief\n\n\nDreams and signs interpreted,\n\n\nMethod of un-narryng the unhappy,\n\n\nDifinition ofa Drunkard,\nlittle world,\n\n\nOld maids, their uncomfortable troubles,\nAccount of novel courtship,\n\n\nAnecdote of Paddy and his game cock,\n\n\nThe Irishman and his pig, &c. &c. &c.\n\n\nWonderful discoveries ofthe Microscope,\nHumorous account of Penn'a. Battalion Day,\nWashington's army saved by Quaker lady.\nOde to the gout,\n\n\nRECEIPTS for curing the Gravel, curing Wens.\nmaking candles, removing grease spots from clothes,\nmaking vinegar, preserving pickles, preserving\nmeats, &c. &c. &c.\n\n\nThe above Almanac, with an extensive assortment\nof others, German and English for sale by the Gross\nor Dozen, at ile most reduced prices.\n\n\nNo,. r. PORTER g. SON.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2475,
+                    "y0": 3974,
+                    "x1": 3268,
+                    "y1": 4174
+                },
+                {
+                    "x0": 2484,
+                    "y0": 4190,
+                    "x1": 3285,
+                    "y1": 5242
+                }
+            ],
+            "bbox": [
+                2475,
+                3974,
+                3285,
+                5242
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-11-06_p3_sn83025530_00271740220_1827110601_0248.json"
+        },
+        {
+            "object_ids": [
+                17,
+                2
+            ],
+            "headline": "ATLANTIC SOUVENIR\nFOR 1923,",
+            "article": "Just received and for sale here The atlantic Sou\nvenir. a beautiful Christmas and New-Year Pre-\nsent, handsomely boarded with gilt leaves, and en-\nclosed in An elegant ornamented case. This is be-\n\n\neved to be one of the mos: splendid little works of\ntaste ever published in this country it contains IS\nelegant engravings, descriptive Of Cats Kill falls. II\nconderoga, Delaware Water Gap, Bournouese War\nrlor, Moonlight, BE-. &C. &c.\n\n\nNov. 6, X. PORTER u SON.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2549,
+                    "y0": 3468,
+                    "x1": 3164,
+                    "y1": 3569
+                },
+                {
+                    "x0": 2467,
+                    "y0": 3576,
+                    "x1": 3268,
+                    "y1": 3949
+                }
+            ],
+            "bbox": [
+                2467,
+                3468,
+                3268,
+                3949
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-11-06_p3_sn83025530_00271740220_1827110601_0248.json"
+        },
+        {
+            "object_ids": [
+                26,
+                3
+            ],
+            "headline": "BALTIMORE Nov. 2.",
+            "article": "BALTIMORE Nov. g.\nFLOUR AND MEAL\n\n\nSales Of Howard street and City Mills -four at\nour quotations-business, however, is dull and IF\nlimited extent. The inspections Of the past week\ncomprise 1881 barrels and 455 half barrels wheat\n-four, and 46 casks corn meal\n\n\nSuperfne Howard street, from stores,\n\n\nper Dbl. IS O6a5 12a\n\n\ns'City Mills. standard quality, 4 5Oa4 IS\n\n\nI\" Susquehanna,\n\n\nCorn Meal, kiln dried, per Dbl. 275\nGRAIN\n\n\nWheat has improved in prices since our last--the\nsupply during the week has been small. Sales Of\nwhite have ranged from 95al 10 cents per bushe, ac\ncording to quality. Sales Of best red. from 90a93.\nThe supply Of corn is also small-yellow is in\ngood demand, and sales have been made at HAAS\ncents. Rye continues scarce and is much wanted\nsales at 5Oa SO cents.\n\n\nWheat, best white, 95ai10 Peas 40a5O\nbest red, 90a93 Glover Seed so as\nord'y to good 70 a IS Timothy do 900\nCorn white 44a45 Barley, So 90\nq\" yellow a. 45 Flaxseed, rough 6Oa7S\nRye, 50a So Chop'd Rye, lU0lbs. oOall2l-2\nOats, 20 25 Ship Stuff, bus is ala\nWhite Beans, 80 a 100 Shorts, do IA 10",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2890,
+                    "y0": 575,
+                    "x1": 3220,
+                    "y1": 628
+                },
+                {
+                    "x0": 2454,
+                    "y0": 588,
+                    "x1": 3263,
+                    "y1": 1631
+                }
+            ],
+            "bbox": [
+                2454,
+                575,
+                3263,
+                1631
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-11-06_p3_sn83025530_00271740220_1827110601_0248.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "HAY- THE fourth annual Meeting of the 6 W.\n\n\nngton Union Colonization Society, will be held IN\nthe Second Presbyterian Church, on Thursday\nevening next, at halfpa six o'cock,-when an ad-\ndress will be delivered. Persons opposed to, as\nwei, \"a those who favor the views of the Society\ninvited as opportunity will be afforded to discuss\nThe merits Of the undertaking. S.\nNov, 5th, 1927 R. A. HENDERSON, sec'y.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1675,
+                    "y0": 4904,
+                    "x1": 2472,
+                    "y1": 5247
+                }
+            ],
+            "bbox": [
+                1675,
+                4904,
+                2472,
+                5247
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-11-06_p3_sn83025530_00271740220_1827110601_0248.json"
+        },
+        {
+            "object_ids": [
+                16,
+                5
+            ],
+            "headline": "Medical Society.",
+            "article": "ciety of Dela,care'' will take place at CANrwELL's\nBRIDGE, on Tuesday 18th Of November next, at\n10 O'Clock, A. M. punctual and early attendance\nof the members from each County is particularly re-\nquested, as business of general interest will come be-\nfore them. CUTHBERT s. GREEN, Sec'y.\n\n\nEIddleko,ou Oct 31st, 1897.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2544,
+                    "y0": 2547,
+                    "x1": 3147,
+                    "y1": 2613
+                },
+                {
+                    "x0": 2458,
+                    "y0": 2629,
+                    "x1": 3263,
+                    "y1": 2920
+                }
+            ],
+            "bbox": [
+                2458,
+                2547,
+                3263,
+                2920
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-11-06_p3_sn83025530_00271740220_1827110601_0248.json"
+        },
+        {
+            "object_ids": [
+                27,
+                6
+            ],
+            "headline": "(Fom the huerness Cour;er.) }",
+            "article": "\n\n\nReturn Of Captain. Parry.-On Wednesday\nmorning Captain Parry, and his surgeon, DIR. Bev-\nery, arrived at the Caladonian Hotel here, after\nanother arduous but unsuccessful attempt to accom-\npsh the Polar voyage. Captain Parry came to In\nverness by the Chichester Revenue Cutter, comman-\nded by Capt John Stewart. having fortunately fall\nlen in with Capt s. in the Orknes, on being driven\nin there the 22d ult. The history of the present\nenterprise is brief; and while we have to commune\ncate the agreeable of the safe return of Capt\nParry to his country and friends, able, at the\nsame time to vouch for the accuracy of the follow\nling particulars. Capt. Parry, on leaving the Dis\ncovery Ship at the appointed place. off the Spitz-\nbergen coast betook himself to the sledge boats pre-\npared for his conveyance over the ice in pursuance\nIof his original Intentions and Instructions and was\nout for the space Of sxtyone days. of the boats\nbeing underhis charge, and the other under that\nof Lieut.. Ross. These two boats were hauled over\nthe ice by the crew of the ship, twelve men to each;\nand after undergoing incredible fatigue, they felt\nthat for great part Of the time, they float\ning icebergs which carried them southwark, while\nthey were stretching every nerve to proceed north\nward; and thus, of necessity, they were compelled\nportant fact in the clearest point of view, we have\nto mention that during the last three days ofthe exp\ndtion, and on taking his observations by the chron-\nometer, Capt Parry found that his boats had gained\ntwo miles only. The expedition arrived at latitude\n82 45 and had il proceeded but fifteen miles fur\nther. Capt. Parry and his men would have obtained\nthe pecuniary remuneration to which they enti-\ntitled reaching 49,; but even this short distance\nwas found unattainable by any physical effort Near\nly in the same line we proceeded, to the Hecla. I'm\nmediately on reaching the ship the expedition then\nproceeded homeward. We are happy to add, that\nCapt. Parry his officers and men, are in good health.\n\n\n\nThere is now in Paris female named Elizabeth\nThomas Cordieux, native of Savoy, who was born\non the 9th December, 17l4 !; and who is, in all pro-\nliability, the French say, the Doyenne (the senior)\nuf the human race. Her face is not more wripkled\nthan that Of female half her age, her sight is good,\nher appetite excellent and she can walk ten miles\nday without exhaustion she does not make use Of\nstick to support herself and it really true that she\nhas trudged all the way, on foot, from her native\nmountains to the metropolis of France. She pas\nsed through Lyons and Dion, where she attended\nher liberal compensation for the benefit they obtain\ned from her presence, people coming from all parts\nto behold the senior Of the hannan race. The aged\ndame has been already presented to the Dauphin,\nDauphiness, and the young Duke Bordeaux. She\nis to go the round of the theatres for her benefit\nand that Of the managers, who expect to reap great\nprofit from exhibiting her to the public.\n\n\nCoNsTANTINorLE. Aug. 81.\nFrom to 1900 men, infantry and artillery, left\nthis capital, last week, for the Dardanees, where\ngreat preparations for defence are making Per-\nfeet tranquility, however, prevails here and we'll in\n\n\nformed persons are generally Of opinion there will\nbe no rupture.\n\n\nANooNA, Sept. IL.\nA Greek schooner which had several times touch\ned at our port, and had always been received with\n\n\nthe greatest hospitality, has seized, near Ithaca,\npontifcal trabocolo commanded by John Samson,\nwhom it robbed of 400 crowns and his rigging 1t\n\n\nis thus it has returned the hospitality it received in\nthe states Of the pope.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1762,
+                    "y0": 298,
+                    "x1": 2303,
+                    "y1": 342
+                },
+                {
+                    "x0": 1645,
+                    "y0": 324,
+                    "x1": 2442,
+                    "y1": 3348
+                }
+            ],
+            "bbox": [
+                1645,
+                298,
+                2442,
+                3348
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-11-06_p3_sn83025530_00271740220_1827110601_0248.json"
+        },
+        {
+            "object_ids": [
+                24,
+                30,
+                7
+            ],
+            "headline": "Notice\n\nTO JUSTICES OF THE PEACE.",
+            "article": "THE Justices of the Peace n the several counties\nOf thisState hereby requested to make their re-\nturns ofthe fines, imposed by them, also the names\nof the Constables, who had the collection Of sald\nfines\n\n\nThose Justices Of the Peace, who have neglected\nto make their returns for several years past,\nquested to make return OF all the fines imposed by\nthem since their last return\n\n\nAttention to this notice is requested, as a report\nwill be made to the Legislature of all those who neg\nlect to make their report according to Law.\n\n\nAlso the Road Commissioners of the County of\nNew Castle who have not made their returns of the\nexpenditures on Roads and Bridges, in their respec\ntive hundred for the year of 1896, are requested to\nforward them as soon convenient\nS. WILLIAMS,\n\n\n.auaitor Of .accouats STATE Of Delaucdre.\nOct 31st, 1927. 57--4t",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2717,
+                    "y0": 1652,
+                    "x1": 2995,
+                    "y1": 1718
+                },
+                {
+                    "x0": 2454,
+                    "y0": 1730,
+                    "x1": 3237,
+                    "y1": 1782
+                },
+                {
+                    "x0": 2449,
+                    "y0": 1764,
+                    "x1": 3272,
+                    "y1": 2531
+                }
+            ],
+            "bbox": [
+                2449,
+                1652,
+                3272,
+                2531
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-11-06_p3_sn83025530_00271740220_1827110601_0248.json"
+        },
+        {
+            "object_ids": [
+                29,
+                8
+            ],
+            "headline": "wAEE or Sl,1y&5N A,\n\n\nNO3,- l. 1907.",
+            "article": "THE Directors ofthe Bapk of Smyrna, have this\nday declared dividend for the last six months, at\nthe rate of six per cent year the same will be\npaid on OF after the 9th Inst. By Order,\n\n\nS. H. HODSON, Cashier.\n\n\n57--4t",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2553,
+                    "y0": 2941,
+                    "x1": 3233,
+                    "y1": 3041
+                },
+                {
+                    "x0": 2458,
+                    "y0": 3049,
+                    "x1": 3268,
+                    "y1": 3283
+                }
+            ],
+            "bbox": [
+                2458,
+                2941,
+                3268,
+                3283
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-11-06_p3_sn83025530_00271740220_1827110601_0248.json"
+        },
+        {
+            "object_ids": [
+                20,
+                10
+            ],
+            "headline": "From the ~. Fl. Journal.",
+            "article": "Gen. Jackson is now in his 68th or 69th year--and\nOf course, if he succeeds will be about TO- when he\ntakes the chair. How wonderful that nobody has\never before found out his fitness for the Presden-\ncy!",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2644,
+                    "y0": 307,
+                    "x1": 3064,
+                    "y1": 346
+                },
+                {
+                    "x0": 2454,
+                    "y0": 354,
+                    "x1": 3263,
+                    "y1": 545
+                }
+            ],
+            "bbox": [
+                2454,
+                307,
+                3263,
+                545
+            ],
+            "full_article_id": 11,
+            "id": "11_1827-11-06_p3_sn83025530_00271740220_1827110601_0248.json"
+        },
+        {
+            "object_ids": [
+                28,
+                11
+            ],
+            "headline": "OHIO.",
+            "article": "Nappears from the Alexandria Gazette Of yesterday tha,\nthere are the Senate of Ohio, \"a friends of the Admins.\ntrato out Of 56 members and in the House OF Repre-.\nsentatives our strength still greater while in Congress\nwe have eleven three i'll the House, and both Senators,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 386,
+                    "y0": 3265,
+                    "x1": 500,
+                    "y1": 3296
+                },
+                {
+                    "x0": 53,
+                    "y0": 3299,
+                    "x1": 841,
+                    "y1": 3465
+                }
+            ],
+            "bbox": [
+                53,
+                3265,
+                841,
+                3465
+            ],
+            "full_article_id": 12,
+            "id": "12_1827-11-06_p3_sn83025530_00271740220_1827110601_0248.json"
+        },
+        {
+            "object_ids": [
+                12
+            ],
+            "headline": "",
+            "article": "The Lynchburg Virginia, Of the 25th ultimo.\nlsays, 4\" We have received second communication\nfrom Mr.. Madison. from which we learn that, in\ndisappearing of the proceedings of the General As.\nsembiy of the State, which would limit the power\nof Congress- over trade, regulations having revenue\nalone for their obect,' he designed to give it as his\n|opinion that Congress has Alright to impose tariff\nof duties having for its objects protection and en-\ncoa4, ageme,,t of domestic manufacturers\" This was\nthe doctrine Of MIR. Madison and ninetenths OF the\nCongress, in 1889, and nobody could doubt that it\nwas his doctrine still. But, after the argument\nagainst it, inferred from the opinions of MIR. M. on\nother topics, it is well that he has suffered his\nopinion upon it to be given to the world in explicit\nterms.\n\n\nMr.. Madson's Letter has spread dismay in the\nOpposition ranks. The great lever. the uncon-\nstitutionaity of the Tariff, that theme of so much\ndefamation, and of so much legislative hoeu'\npocus. has broken in their hands. Mr.. Madison\nthinks that the power to protect Manufactures II\nnot only constitutional, but was primary conside\nration in adopting the Constitution The wire draw\ners and hair spltters, what has become OF their in\ntangible theories and learned deductions9 their con\nstructiun construed, constitu tions vndcated, ant\ncontemporaneous expostions Swept away by the\nfirst touch Of the BROOM k'chmona Vig.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1658,
+                    "y0": 3771,
+                    "x1": 2459,
+                    "y1": 4879
+                }
+            ],
+            "bbox": [
+                1658,
+                3771,
+                2459,
+                4879
+            ],
+            "full_article_id": 13,
+            "id": "13_1827-11-06_p3_sn83025530_00271740220_1827110601_0248.json"
+        },
+        {
+            "object_ids": [
+                22,
+                13
+            ],
+            "headline": "FOR SALE,",
+            "article": "NINE Shares of Kennel Turnpike Stock. In\nqnire at the Office of the Journal. 57--4t",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2696,
+                    "y0": 3304,
+                    "x1": 3038,
+                    "y1": 3361
+                },
+                {
+                    "x0": 2467,
+                    "y0": 3369,
+                    "x1": 3268,
+                    "y1": 3452
+                }
+            ],
+            "bbox": [
+                2467,
+                3304,
+                3268,
+                3452
+            ],
+            "full_article_id": 14,
+            "id": "14_1827-11-06_p3_sn83025530_00271740220_1827110601_0248.json"
+        },
+        {
+            "object_ids": [
+                21,
+                14
+            ],
+            "headline": "Navy DEPARTMENT,",
+            "article": "Gath October, 1897.\nA board for the examination of Mdshipmen,\nwhose warrants bear date prior to the 1st January,\n1919, has been ordered to assemble at the Navy,\nYard, Brooklyn, N. Y. on Wednesday the 7th No\nvember next Commodore CHAuNcEy will be pre-\nsdent.\n\n\nAfter that examination is closed, another will be\nordered for certain Midshipmen whose dates o.\nWarrant are subsequent to ist january, 1919.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2008,
+                    "y0": 3325,
+                    "x1": 2342,
+                    "y1": 3361
+                },
+                {
+                    "x0": 1658,
+                    "y0": 3373,
+                    "x1": 2446,
+                    "y1": 3750
+                }
+            ],
+            "bbox": [
+                1658,
+                3325,
+                2446,
+                3750
+            ],
+            "full_article_id": 15,
+            "id": "15_1827-11-06_p3_sn83025530_00271740220_1827110601_0248.json"
+        },
+        {
+            "object_ids": [
+                15
+            ],
+            "headline": "",
+            "article": "Iuisu puuC sthiluinS h1OU u tO Oc FHe we call up\non Mr.. Tazewel to satisfy the people Of the truth\nOF a statement, which even at this late day, has\nmade the blood Of the public run cold. Did not\nGen. Jackson 20 to the Senate chamber to chastise\nJohn w. Eppes, for animadverting his public con-\nduct? Was he not restrained alone, by the remon-\nstrances, and declaration of the Godlike Decatur,\nthat he should pass over his dead body, to the per-\npetration Of his intended outrage? Has not Mr.\n\n\nTazewell heard Decatur recount the circumstances,\nand has he not himself often recounted them, with\nthe language and feelings which daring an outrage\nought to inspire?\n\n\n! The statements made by ..NEsroR\" in the Demo-\ncratic Press, and repubished in this Gazette last\nweek. relative to scene between Decatur and Jack\nson. before the door of the Senate Chamber, are\npronounced BY writer in the Richmond Wing to\n| be s.true beyond doubt\" The writer seems a.\nware, however, that unless NEsroR's account be\nproved by evidence which cannot be disputed, ma\nny will effect to disbeieve it,; he therefore cal Is up\non LrrrLEroN WALLER TAzwELL and JOHN TYLER,\nthe present Virginia Senator's for their evidence in\nthe case These gentlemen were intimate with\nCommodore Decatur, have heard him relate the cir\ncumsances, and have it fully in their power TO dsa\nbuse the reputation of General Jackson, it, in any\nEssential particular injustice has been done to it.\nShould these distinguished men remain silent in\nmatter SO imperiously demanding their interference\nwill at least be as good evidence against the Hero\nlas any that he has yet produced in support of his\ncharges against Mr.. Clay .4ler. Gazette.\n\n\nFrom the Richmond Whig.\n\n\nO>.4nother Refutation on!-What charge made\nBY the partizans Of Gen. Jackson that has not been\nrefuted What evidence relied on by them to estab-\nlish charge. but has turned out against them What\nstatement affirmed by them, but has proved upon\ninvestigation, absolutely unfounded, or grossly exag\ngerated Another instance Of this reckless menda\ncity has Just been made public Lying, is reduced\nby the Jackson operatives, to perfect system. No\nsooner is one told and exposed in quarter of the\nUnion, than it is succeeded by another in some other\nquarter. Their circulation since March, 1925, has\nbeen rapid, unintermtted and tremendous.\n\n\nAnother SANDER is nailed to the counter. Ano-\nther witness cited to prove the bargain, gives ev-\ndence of its falsehood, and would call the blush to\nthe cheek of those who had asserted it, had they not\npassed the point of blushing. The :. Western Til\nler,\" an Ohio paper, stated that Col. Bourne, Re-\ncever of the Land Office at Chcothe, declared he\nhad received letter from Member Of Congress,\nshortly before the election, which contained the\n'bargain'' in so many words; ma mely: Mr..\nAdams has agreed, if placed IN The Presidency by\nNh. C9ay's friends, to make him (Mr. c. Secretary\nOf State\" To make the statement more impress\nsive, it was announced that Col. Bourne son-n-\nlaw of General Macarthur, warm friend Of Mr..\nClay, and who as Representative Of Ohio, voted\nfor Mr.. Adams. The Inference left for the public\nto draw, that General Macarthur had written the\nletter, and that coming from quarter so high and\nconfidential, as to Mr.. Clay, it must be entitled to\nimplicit confidence. The following from Colonel\n\n\nBourne to the Editor Of the Scioto Gazette, puts\ndown the whole story. Thus has another attempt\nat proving the 6 bargain'' failed\n\n\n/ \"When have occasionally engaged in political\ndiscussions the conversation has generally turned\n\n\non the principles and practice Of governments. ra-\n\n\nther than party politics As I have never been a\n\n\nparty man, in the strict sense of the word. and be-\ning under particular obligations to any party,\n. have sometimes freely expressed my opinion o\n\n\nwhat believe to be the errors of all parties and\n\n\nthis one of the topics of the conversation which\ngave rise to the present controversy\n\n\nAs to the last Presidential election, never did be\n\n\nlieve, and never said that believed, that there was\nlany bargain, purchase, sale or corrupt intrigue be\n. tween the friends of Mr.. Clay and the friends 0\nMr.. Adams, and never did, in my own mind, at\n\n\nach the least degree Of crimnality to their conduc\nin that election. This was distinctly stated in tn\nn aforementioned conversation.\n\n\nn If have ever said, that received, by lette\nd from member Of Congress, direct proof OF an un\ne derstanding, or agreement between the friends Q\nMr. Clay and the friends Of Mr.. Adams, respectin\n: the Presidential election, then have nadvertent\nstated that which is not true for have never re\nat ceived any such proof\" A BOURNE\n1t October 13, 1927.\n\n\no-l From the United States Gazette.\n\" We learn that the police of the city, has recent\nr. ferreted out large number of persons connecte\n\n\nwith counterfeting establishment, on very, e,\n/. tensive scale. The names of several individual\nlhave been mentioned to us which, however, it ma\ny not be the best for the present to publish.\n\n\n~ ~ 1t is mentioned to us, that of the members\nthe counterfeiting society had passed fifty dolIf\nas note upon shopkeeper \"a femae) in Second stree\ny who the next day, exhibiting it to a gentleman",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 832,
+                    "y0": 354,
+                    "x1": 1637,
+                    "y1": 4490
+                }
+            ],
+            "bbox": [
+                832,
+                354,
+                1637,
+                4490
+            ],
+            "full_article_id": 16,
+            "id": "16_1827-11-06_p3_sn83025530_00271740220_1827110601_0248.json"
+        },
+        {
+            "object_ids": [
+                18
+            ],
+            "headline": "",
+            "article": "tually deliver, and may be given to the world BY 4\nReporter\n\n\nThought it might not be advisable to adhere to this\nrule of reporting only the substance speeches, the\nnext day after they delivered, in all cases still\nwe should suppose that the effect would be salutary\nin exhibiting many members according as they ought\nTO be estimated, and not by the number ofwords which\nthey could string together in their closets and have\ninserted in public print actually delivered\nin Congress.\n\n\nThe proceedings of the Senate will be reported\n\n\nin the Journal more fully than they have been here\nloiore, in that paper.\n\n\nOne of the most violent declaimers against the\nwoollens bill, in South Carolina, is represented as\nbuying bale of Domestic Woollens, taking coun-\nGil of his purse instead Of his preudices, and finding\nit advisable, in the present case, not to agree with\nthose of his countrymen who 'propose never to\nbuy any articles from the manufacturing states.'\nAs the story now goes. the body that was suppos-\ned to be Morgans proves to be that Of a man from\nCanada, and Mr.. Ellting who had been almost Nor\nganzed turns out to be an impostor.\nThe committees from Hartford and Cecil Coun-\nties appointed to select and recommend a suita-\nbic person to be supported as an Elector Of Pres-\ndent and Vice President, met at Port Deposit, Oct.\n97 agreeabiy to public notice; and COL JAMES\nSEWALL, of Cecil County, was unanimously re-\ncommended to the support of the citizens Of those\ncounties. Gen. Thomas NJ. Forman has also been\nnominated in the same Electoral District. Col.\nSewall is friendly to the Administration, and Gen.\nForman to Gen. Jackson.\n\n\nThe people of this country have been compliment\ned on their character, conduct, and intelligence :\nbut many of the statements IN the Opposition prints,\nif they are published to be believed, seem to imply\nthat the people are ignorant; wanting usual discern\nment easily led astray by any tale told by inte-\nrested persons; mt knowing the difference between\nthe interests Of aspiring politicians and those of the\nnation afflicted with the most hurtful prejudices /;\nmore influenced by their passions than by fact, ar\ngument, and probability and if not destitute of\ncommon sense, having just brains enough to be i'm\nposed upon by the numerous fabrcations Of the OPP\nposition.\n\n\nWe have received \"the proceedings of the General\nConvention. at Harrisburg. OF the Agriculturaists and\nand others friendly to the encouragement\nand support ofthe Domestic ndusy of the United States\naccompanied wtha Memorial to Congress- and Address\nto the public and Appendix to this address containing\n\n\nvast and useful body Of information subject not\ngenerally fully understood but which claims the atten\n\n\nton and the real interest of the great the\npeople of this country.\n\n\nTo those who want information, simply on this subject\nIS well as to those who Interested Agriculture Com\nmerce, Manufactures, we recommend not only perusa\nbut releae, study of the contents of this important pam\nphet 1t can be had for re, and ought be general,\ncirculated, aud carefully and deliberately examined ant\nconsidered",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 19,
+                    "y0": 289,
+                    "x1": 828,
+                    "y1": 3249
+                }
+            ],
+            "bbox": [
+                19,
+                289,
+                828,
+                3249
+            ],
+            "full_article_id": 19,
+            "id": "19_1827-11-06_p3_sn83025530_00271740220_1827110601_0248.json"
+        },
+        {
+            "object_ids": [
+                31,
+                19
+            ],
+            "headline": "From the Richmond Whig.",
+            "article": "Decatur f. Jackson. n.--The account recently re.\npublished in this paper Of the extraordinary scene\nbetween Decatur and Jackson, in the lobby of the\nUnited States Senate, was no, exaggerated. Mr..",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 243,
+                    "y0": 5073,
+                    "x1": 699,
+                    "y1": 5113
+                },
+                {
+                    "x0": 83,
+                    "y0": 5112,
+                    "x1": 863,
+                    "y1": 5277
+                }
+            ],
+            "bbox": [
+                83,
+                5073,
+                863,
+                5277
+            ],
+            "full_article_id": 20,
+            "id": "20_1827-11-06_p3_sn83025530_00271740220_1827110601_0248.json"
+        },
+        {
+            "object_ids": [
+                32,
+                25
+            ],
+            "headline": "From, the United States Gazette.",
+            "article": "\n\n\nWe learn that the police of the city, has recently\nferreted out large number of persons connected\nwith counterfeiting establishment, on very ex-\n|tensive SCALE The names of several individuals\nIhave been mentioned to us which, however. it may\nnot be the best for the present to publish.\n1t is mentioned to us, that one Of the members OF\nthe counterfeing society had passed fifty dollar\nnote upon shopkeeper. IA femae) in Second street\nwho the next day, exhibiting it to gentleman\nLearned that it was counterfet-while they were\nexamining the note, the person who had passed il\nwas in the street, the gentleman lett the shop\nand followed him up the street. as far as Green stree\nnear to which he turned, and was about to enter\nhouse, when the person in pursuit beckoned to him\nhe stopped and enquired his business with aim. -\nunderstand\" said the gentleman ''that you have\nsome counterfeit money to sel-.'a 'ttle,\" repl,ef\nthe person--and what do you ask 9-Twenty-fv'\ncents on the dollar - and can you let me have\n$1,000 at that rate :. The bargain for smal\namount was made, and the time and place for tn\nlconsumnation agreed on.\n\n\nThe gentleman then directed his course to tn\nMayor's Office warrant was issued, and when tn\nnote merchant wa. looking for his customer tn\nthigh constable hoped in and closed his accounts\ni The detected man turned states evidence, and cr\nminated, as we have before stated, large number\nIbis confederates,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1005,
+                    "y0": 4087,
+                    "x1": 1525,
+                    "y1": 4127
+                },
+                {
+                    "x0": 862,
+                    "y0": 4113,
+                    "x1": 1654,
+                    "y1": 5268
+                }
+            ],
+            "bbox": [
+                862,
+                4087,
+                1654,
+                5268
+            ],
+            "full_article_id": 26,
+            "id": "26_1827-11-06_p3_sn83025530_00271740220_1827110601_0248.json"
+        },
+        {
+            "object_ids": [
+                34
+            ],
+            "headline": "",
+            "article": "CoNsrANrINorLE. Aug 81.\n\n\nFrom to 1000 men, infantry and artillery, left\n\n\nthis capital, last week, for the Dardanelles, where\ngreat preparations for defence are making. Per-\n\n\nfeet tranquility, however, prevails here and we'll in\nformed persons are generally Of opinion there will",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1645,
+                    "y0": 2742,
+                    "x1": 2446,
+                    "y1": 2963
+                }
+            ],
+            "bbox": [
+                1645,
+                2742,
+                2446,
+                2963
+            ],
+            "full_article_id": 35,
+            "id": "35_1827-11-06_p3_sn83025530_00271740220_1827110601_0248.json"
+        }
+    ]
+}

@@ -1,0 +1,928 @@
+{
+    "lccn": {
+        "title": "The Litchfield County post.",
+        "geonames_ids": [
+            "4837799"
+        ],
+        "dbpedia_ids": [
+            "Litchfield%2C_Connecticut"
+        ],
+        "issn": "",
+        "lccn": "sn82014309",
+        "start_year": "1826",
+        "end_year": "1829",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [
+            "sn84020071"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn82014309",
+        "edition": "ed-01",
+        "date": "1827-04-12",
+        "pages": [
+            "seq-4",
+            "seq-2",
+            "seq-1",
+            "seq-3"
+        ]
+    },
+    "page_number": "3",
+    "scan": {
+        "lccn": "sn82014309",
+        "edition": "ed-01",
+        "date": "1827-04-12",
+        "page": "3",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-04-12/ed-1/seq-3.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-04-12/ed-1/seq-3/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-04-12/ed-1/seq-3/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/ct_barnum_ver01/data/sn82014309/00414182926/1827041201/0165.jp2",
+        "height": 7260,
+        "width": 5003
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2909,
+                "y0": 822,
+                "x1": 3790,
+                "y1": 2541
+            },
+            "class": "article",
+            "raw_text": "comprising Uery select assortment, tclsich he\n\n offers at Wholesale and Retail, ct the very\n\n iouceSt prices.\n\n TNABLE and Desert Knives and Forks. Il Carvers and Steels; bread, butchers, shoe, and cooks Knives; \" Rogers\" fine Pen knives; \"John Barber's' superior Razors, DOT table Razors in cases; Scissors, Shears; ''Pa- tent' Sheep Shears, Sickles; Philadelphia Mill Saws, Circular S4 cut, hand, back and other Saws; Locks, Latches, Butts, Bolts, Screws, patent Window Blind Fastenings, Cut Tacks and Brads; Brass Andirons, .Sho- vel and TOngs; elegant japan'd Tea Trays, Wine Walters, Fruit and Snuffer Trays, pol ished Steel Shutters, Plated Castors, Plated and Brass Candlesticks, brass and japand Lamps, copper Tea-kettles, sauce Pans, cof- fee Mills, sad and tailor's Irons, \"Italian\" ruffle Irons, plated and Brittania Spoons, ele- gant glass and brass cOmmode Knobs. com mode Rings, curtain Pins, brass Nails, brass and metal Cocks, plated and iapan'd Saddle ry, Spurs, Stirrups. flames Files and Rasps, complete assortment; \"Hemmings\" and other Needles, of the best quality suspending Lamps, clout Nails, coffin Letters and Fig ures, shoe Bills hair cloth Seating, all widths; trace Chains, halter and wire Chains, Frying Pans, Mussey's patent\" Franklin Gridirons, Trowels, Chisels and Gouges, English Show els and Spades, \"Warner's\" Hammers, Oil and Water Stones, Rat and Mouse Traps, Waffle Irons, Braces and Bitts, curry Combs, Rowling Guns, Pistols, Flints, Phosphorus Lights, Pocket Books, Wallets and Purses, Cast Iron Hollow Ware.\n\n Store Corner South of the State House,\n\n Hartford, Con. April 9. 43",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 2921,
+                "y0": 340,
+                "x1": 3778,
+                "y1": 800
+            },
+            "class": "headline",
+            "raw_text": "NeaC HdrdaCGre Goods. OGDEN KILBOURN, Has just receired and Is nO,0 opening ne,O sup ply\n\n Cutlery S' HardaO0re\n\n GOODS,",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3811,
+                "y0": 425,
+                "x1": 4708,
+                "y1": 1362
+            },
+            "class": "article",
+            "raw_text": "TOsOn Meeting, legally sCarned, and holden iu\n\n Warren October 23d, 1926.\n\n Voted, That all Horned Cattle, (except two from family,l and all Horses, Asses, Mules, and Sheep, shall he restrained from going at large on the Common or Highway, in said town of Warren the year ensuing. And if any Horses, Mules and Sheep shall be found running at large, on the Common or High way m said town the ensuing year, or more Horned Cattle than two from d family, and they with the mark of tEfe owner on the ear, any person shall have ri ght to impound them in the same manner as is provided by law for the impoundng of Horses, Cattle, Mules and Sheep, breaking into enclosures. 4S\n\n Attest GEORGE STARR, ToUn Clerk.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 4106,
+                "y0": 340,
+                "x1": 4413,
+                "y1": 403
+            },
+            "class": "headline",
+            "raw_text": "NOTICE.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2013,
+                "y0": 4616,
+                "x1": 2905,
+                "y1": 6098
+            },
+            "class": "article",
+            "raw_text": " In Bethlem, MT Edward Goodwin, editor of the Hartford CouYant, to Miss Susan Leav- it of the former place. DIED, In Woodbridge on the gath ut. MT. PhilO Dibble, aged 35.\n\n In Hartford, few days since, at the advan- Nced age of 80 years, Col. Hezekiah Wyllys. This gentleman was the last of the family of the venerable George Wylys. who, for more than sixty successive years, was elected by the freemen of the state at large, Secretary ofthe State, and who died at the age of 86. Three of his sons have died within few years, all 80 years and upwards. The first person of the name of Wylys was one of the earliest settlers of the colony. It is not known that there is more than one remaining descendant of this race who bears the family name, and he is without a-family; of course in few years it will be extinct.\n\n In St. Augustine, (Florida) on the 3dinst. Mir. Asahel F. Belts, late of Wilton, Conn. In Philadelphia, on the 18th inst. Col. Gideon Fairman, an eminent engravcr, aged 51.\n\n In Hartford, Mrs. Kilborn, aged 76, for merly of Sterling, Mass. and relict of Mr.J Jes- SC Kilborn of Litchfeld\n\n In Pennington, Chauncey Deming, Esq aged 70.\n\n In Oxford, Mrs Nabby Smith, aged 34,wife of MT. Ira K. Smith, ,and daughter of the Rev. Chauncey Prindle.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 2308,
+                "y0": 4571,
+                "x1": 2604,
+                "y1": 4623
+            },
+            "class": "headline",
+            "raw_text": "MARRIED",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2030,
+                "y0": 6261,
+                "x1": 2910,
+                "y1": 6943
+            },
+            "class": "article",
+            "raw_text": "HAS just returned from New-York with HI very general assortment of MlLLi- NERY & FANCY GOODS; among which are Black and Yellow Leghorns of the finest quality; Ribbons and Trimmings ofthe latest fashion all kinds of Flowers. from l2 l2 cts to S1 ,5O; Fancy, Silk, and Willow Hats :- Cans of all kinds ;-Thread and Bonnet La ces ;-H'dkfs. ;--Belt Ribbons ;--Sashes, wrought colours ;-Gloves \"a few peices of elegant Silk for Dresses ;--also Barrage and Battiste Dresses large and small Combs = CurIs, &c. Sc, all of which will be offered as cheap as can be obtained elsewhere\n\n NFDressps GU. and made on short Notice",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2036,
+                "y0": 6136,
+                "x1": 2899,
+                "y1": 6251
+            },
+            "class": "headline",
+            "raw_text": "NdTILTNHRX C FANCY GOODS\n\n Miss A. P. CABLE",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2008,
+                "y0": 311,
+                "x1": 2899,
+                "y1": 4623
+            },
+            "class": "article",
+            "raw_text": "one thousand dollars fIr the discovery of Morgan, if alive, and if murdered, two thou sand dollars for the discovery of the offender or offenders, and free pardon to any accom- plice or co-Operator, who shall make full discovery of the offender or offenders. The proclamation is dated 18th of March.\n\n Floating Island.-The last number of SiI- Iiman's Journal, contains an account of a floating island, containing nearly half an acre of land. in pond or small lake, in New burypOrt, Mass. It is. covered with the shrub called dOgwOOd, none of which grows on the shores of the lake. There are trees three feet in circumference on the island.\n\n Fertility of FIorida.-A traveller returned from Florida, says it is the most fertile coun- try he ever found; the land producing forty CushelS of frogs to the acre, and alligators e. nough to fence them!\n\n Legislative Grant to tue Greeks.-The bill which had passed the Senate of N. Y to grant 1000 barrels of flour for the relief of the Greeks, after debate of four hours in the House of Assembly, was lost by vote of 42 to48.\n\n new daily paper is announced in N. York, ! to be called the New-York Journal of Com merce. It is intended to exclude advertise ments relative to the Ihentre and Lotteries ;- and to be issued on Monday mornings, with out violation ofthe Sabbath by setting types. The plan has our, warmest wishes for its sue 1 cess. We can see no valid reason, why a commercial paper should favor immortality and vice by any direct influence.\n\n Come gentle Spring! etherial MiIdness! come; And from the bosom ofyon dropping cloud, While music wakes around, veipd in shower Of fshadowing roses, on our plains descend. l THOMPSON. The Spring has opened upon us with all its loveliness at least fortnight earlier than usu- al. The fields are already covered with green, and all nature, animate and inanimate, seems to rejoice in the transition from deso- late winter to mild spring. The air is filled with the sweet melody of the birds, and all hearts-but such as are cruel enough to induce their pOssessOrs to level a fowling- piece against these happy aerial songsters-appear to rejoice in the benefcence of Providence in providing this cheering solace for the droop- ing spirits of man. While partaking of this rich profusion of blessings, we envy not the feelings of the individual who can wantonly destroy the innocent birds that sport upon our trees i've marvel at the coldness of fthat heart which can exult at the fatality of shot aimed at these beautiful harbingers of return ing spring. Does such spirit dwell in any individual who professes to be governed by the feelings and passions of man! It does {; | and many of the feathered tribe tarried but short time with us, rejoicing in the departure 1 of winter, before they were cruelty shot down simply in sport. In Massachusetts the strong arm of the law is raised against such wanton cruelty; here we have no civil law against it; but let public opinion speak, as it should speak upon the subject, and young men, professing to be gentlemen, will not be found engaged in such disgraceful conduct Let our ladies of taste and feeling frown upon the individual who IS willing to sport with the limbs and lives of the feathered tribe, and birds will rest secure and safe amidst the shades of our vil- lage.\n\n l A bridge near WallingfOrd, while the mail stage from Hartford was passing on the 1st fhst.gave way, ,and fell entirely into the stream. Fortunately, the horses had passed the bridge and the stage, in falling, lodged against tree, which preserved the lives of the passengers, who all remained unhurt.\n\n l The election in Massachusetts was held on the 2d inst. Gov. Lincoln is reelected by a large majority. Ne,O Religious Pdper.-The ''Episcopal Watchman,\" paper under the direction and patronage ofthe Protestant Episcopal Church has just commenced at Hartford. It is a handsome paper, and recommends itself to the liberal patronage of the christian commu- nity.\n\n MARRIED",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2932,
+                "y0": 6573,
+                "x1": 3812,
+                "y1": 6932
+            },
+            "class": "article",
+            "raw_text": "WHEREAS my wife Mary Ann has left w my bed and board without any just provication This is to forbid all persons har- boring or trusting her on my account, as shall pay no debts of her contracting after this date. =\n\n DAVID ROGERS, Jr.\n\n Washington, April g, 1897. 4S",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 3216,
+                "y0": 6494,
+                "x1": 3517,
+                "y1": 6557
+            },
+            "class": "headline",
+            "raw_text": "NOTICE.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2926,
+                "y0": 6159,
+                "x1": 3807,
+                "y1": 6472
+            },
+            "class": "article",
+            "raw_text": "TN the road leading to BradIey's-VilIe, a l POCKET-BOOK, containing small sum of money, and some papers of value to the owner, who may have the same by pro- wing property, and paying charges. Enquire at this office. .\n\n Litchfie!d, April g, 1927. 46",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3182,
+                "y0": 6063,
+                "x1": 3591,
+                "y1": 6143
+            },
+            "class": "headline",
+            "raw_text": "FOUND",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1100,
+                "y0": 283,
+                "x1": 2003,
+                "y1": 5712
+            },
+            "class": "article",
+            "raw_text": "those from the United States, were, two from Mexico; one, M. Larizbel, from Qua tamala Dr. Gual, from Colombia. One of the Mexican deputies however, M. Mi 1 chelena, was about to resign. As soon as the Peruvian deputies arrived, the Con- gress would probably convene. Our cor respondent describes Tacubaya as de- lightfully situated, near the base of one of the prophyritic mountains which sur round the circular valley of Mexico, and distant about miles from the capital. \". Y. Amer.\n\n Dr.. Holly.-A Lexington paper says, Dr. Holly retired from the presidency of the Pennsylvania University on March 12th. He expects to set out for Europe, in the course of week or two by way of New Orleans. A meeting of the Trus- tees, we are informed, will be held, and ono of the professors provisionally appointed President.\n\n Fate Of Worgam-The grand jury of Monroe county have spent great portion of five days, in the investigation of the Nor gan affair. They examined the commit tee, which had been appointed by the citi- zenS of Lewistown to make enquiries in Canada, whose statements as to his being murdered have been so confidently pub -lished. But they found no sufficient evil dence to justify them in finding bills of in dictment against any individual.\n\n The Grand Jury of Middlesex county, New-Jersey, have presented as griev- ance the incorporate use of spurious li- quors. All the cases of breach of the peace within their notice having been owing to this vice.\n\n Bolivar has resigned his office as presi- dent of the republic of Colombia. In his letter of resignation he says, |\" for fourteen years I have fulfilled the office of supreme head and president of the republic dan- gers forced this duty upon me, which no longer existing, leaves me at liberty to re- tire to the enjoyment of private life.\"\n\n Touching Appeaz.-The following is an extract of letter from young Greek, student in Amherst college Massachusetts\n\n Here permit me to assure you, that ev- cry Greek will ever feel grateful to the in- dividual, who endeavours to procure the necessaries of life for starving and naked Greece. For six years she has been the scene of slaughter and devastation. She has seen her cities burnt, the sacredness of her temples violated, the highest dignities of her church murdered, aud her fertile plains, vineyards, and olive groves devas- tated. She has seen her infrm and aged consumed by the flames her noblest sons fall ill her cause; her daughters dragged into cruel bondage; and her infants torn from their mothers breasts, dashed against the wall, or left to perish in uncultivated districts. All this she has repeatedly witt messed. Now she beholds her children na- ked and .famishing and with suppliant look, with outstretched arms, she turns to 1 this abode of freedom and virtue, and begs for the necessaries of life. She points you ] 10 her homeless thousands, her widows and orphans; she shows you her famishing warriors and enslaved virgins, and asks for asistance.-Will it be refused Is there a christian, is there an American, who can listen with indifference to her supplica- tions p\n\n The Rev. Samuel Spring was installed minister over the North Congregational Church in Hartford, on Wednesday the Fist inst. The introductory prayer was offered by the Rev. J. H. Fairchild of E. Hartford. The sermon, from James i. xviii. was delivered by the Rev. Dr. Spring, of New-York, Installation prayer by the Rev. Dr. Perkins of West Hartford, Charge by the Rev. MT. Penney of Wethersfeld. The Rev. Joel Hawes gave the right hand of fellowship. The concluding prayer was from the Rev. MT. Lindsley. It would be but tame expression to say that the per- formances were highly interesting. The solemn and earnest attention with which the eloquent sermon of Dr. Spring was lis- tened to, showed the intelligence of the au- dience, and by such an audience, the other exercises must have been deeply felt.\n\n Freshet.-On Thursday and Friday last, the water rose over the banks of the Connecticut river, higher than it has risen since 1907. The rise above the ordinary low water mark is more than twenty feet and notwithstanding the great surface of flats and meadows it must cover, it rose in Hartford at the rate of an inch an hour.- The great freshet of 1901, by which all subsequent ones have been guaged, was marked at twenty-six feet. The rule of l. ..La 4l.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 181,
+                "y0": 459,
+                "x1": 1095,
+                "y1": 5894
+            },
+            "class": "article",
+            "raw_text": "\n\n on the Caspian Sea. This treaty was made at GoOlstan in Karabaugh, and hopes were held out, that upon an appeal to the Emperor, apart Ofthe provinces would be restored and to effect this object England promised her good offices. But when the Persian embassy appeared at St. Petersburgh, although backed by the strenuous eXertions of Lord Cathcart then Ambassador to Russia, Alexander was found inexorable, and peremptorily refused to give back single inch of Persian soil. It was at length, however, agreed, that Gen. Yerma- IOf, who was then appointed Ambassador to Persia and Governor of Georgia, might dis cuss the matter when he arrived at the Per sian court. It is not, however, to be suppo- sed that the minister would yield what it was evident his sovereign had determined to keep. Nothing of course was done to appease the mortified Persians, and Gen. YermalofF re- turned to his government in Georgia, leaving Charge des Affairs. who was directed by the Shah to station himself at the Court of Abbas Mirza, the Prince Royal, whose claims to the throne Russia had engaged to support against all competitors whatever. Commis- sloncrs were then appointed to ascertain and define the boundary between the two nations according to the treaty of ofGoolistan.\n\n It may now be worth while to digress a lit- tie, in order to show what part was taken by Bonaparte during these transactions, who, it may easily be imagined, was not an inactive spectator, when war, conquests and kingdoms were concerned.\n\n There was no precise and defined connection between England and Persia until the mission of Sir John Malcolm to Tehran, in 1900, when political and commercial treaties were concluded, by which the Persians agreed to attack the Afghans, who then threatened the British possessions in India, and to exclude the French from the Gulf of Persia. But in 1905. Persia being hard pushed by Russia, and the Shah dazzled by the military renown ofBonoparte, applied to him for assistance.- M. Jaubert was immediately sent to Tehran to ascertain the state of things; he returned m l8O6, accompanied by MIrza Reza, on a special embassy. Mirza Reza saw Napoleon at Tilsit, and there concluded with him trea fy,whlch was formerly ratified at Finkenstein. m May, 1907. About the same time Persia sent mission to the British Government in India, to ask assistance, but the application was unsuccessful, and Persia then threw her. self into the arms of France.\n\n Bonaparte was as desrOus as Russia to sc- cure footing in Asia, having the additional stimulus ofthereby being enabled to menace the British possessions in the East. General Gardanne was charged with mission, and great number of presents, to the Shah, which, together with the failure of the application to the English, secured Gardanne splendid re- ceptlon at Tehran. and established for a time the supremacy of the Bonapartean power- England, at length, saw the error, which the combined effects of the death of Mir. Pitt the short, desuItory, and unsatisfactory reign ofMr. Fox and the Whig ministry-and sub sequentay, the uncertain state of the British relations with Russia, and the unwngness to do any thing that might turn the waverng policy of the latter towards France-had indu- ced her to commit. Sir Hartford Jones was accordingly sent to Persia in 1908, for the purpose Ofrestoring the old relations, and then began the competition between England and France for ascendancy in the councils of Per sia. From that moment may be dated the connexion of Persia with Europe, which has continued ever since, is still augmenting, and recent events clothe 1t with an aspect of ten fold importance.\n\n Nothing could equal the anxiety now felt, both in England and India for the result of this diplomatic contest. Europe lay pros trate at the feet of the usurper-the insurrec- tion in Spain was of doubtful character, and uncertain in its probable result-the spirit of South American Independence was only in it's bud-the United States were hostile, and Britain now saw her implacable enemy flush ed with victory and revelling in power, paving the way for wrestling from her, her empire in the East. It was trying moment-the dar- kest perhaps in heT history-but her good genius prevailed. A government of laws and religion, and nation of benefactors to the human race, were not destined by the Su- preme Dsposer of events, to crush beneath an unbridied desPot, whose power, notwith- standing his prodigious talents, sprung from infdelity and the guillotine.\n\n To assist Sir Hartford Jones, a mission of the greatest splcndor was despatched from India, accompanied by presents of the most costly description, and furnished with exten- sive powers. The result was most triumph ant for the British interests. The French in- fuence was completely supplanted, and that of the British re-established in its stead. A Persian Ambassador speedily arrived in Eng land, accompanied, we believe, by Sir George Ousely, with preliminary treaty, which be- ing duly ratified, defnitive treaty was af- rewards made and concluded, and immense presents again lavished on the Shah and his courtiers, to keep alive the friendly feelings thus happily created.\n\n Itwas under this treaty that England first paid Persia subsidy. 100000 tomans was the sum fixed upon for this purpose, and was to be paid during the continuance of the",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 3817,
+                "y0": 1491,
+                "x1": 4697,
+                "y1": 1657
+            },
+            "class": "article",
+            "raw_text": "OF THE LAST YEARS GROWTH, From the Garden of Leman Stone, of Derby, For Sale 6y GOODWIN & GALPIN.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3851,
+                "y0": 1395,
+                "x1": 4646,
+                "y1": 1475
+            },
+            "class": "headline",
+            "raw_text": "GARDEN SEEDS.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2921,
+                "y0": 3074,
+                "x1": 3795,
+                "y1": 3392
+            },
+            "class": "article",
+            "raw_text": "W7ILL receive weekly from the Kiln, w fresh Lime of the first quality. and at a very low price. Not more than the gate fee will be added to the Canaan and Sheffield wholesale price.\n\n Norfolk, April. 1927. tf4S",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 2994,
+                "y0": 2904,
+                "x1": 3733,
+                "y1": 3063
+            },
+            "class": "headline",
+            "raw_text": "LIME! LIME! E. H. DENISON",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 2921,
+                "y0": 3510,
+                "x1": 3801,
+                "y1": 4895
+            },
+            "class": "article",
+            "raw_text": "\"HEREAS, LAVINA WOODRUFF w of Litchfeld, in said County, has brought her petition to this Court against her husband Salmon Woodruff, now residing in parts to her unknown, therein stating, among other things, that the said Salmon, at said Ltchfield, on or about the first day of July 1928, wilfulIy deserted her, and ever since has continued, and still continues, his desertion, residing out of this state, in the total neglect of all the duties of the marriage covenant, on his part, to be pes formed, and praying for bill of divorce from the said Salmon, as her petition on file, dated the 5th day of Februa- ry 1897.\n\n Ordered by this Court that said petition be continued to the next Term of this Court, to he holden at Ltchfeld, within and for said County, on the third Tuesday of August next and that the pendency of said petition, and copy of this order, be published six weeks successively, according to the statute in such case provided, in paper printed in Litchfield, called the Li,cl.feld County Post, and in a pa per printed in NewHaven. called the Colum- bian Register, which shall be sufficient notice to the said Salmon to appear and defend in said petition.\n\n By the Court,\n\n F. WOLCOTT, Clerk.\n\n A true Copy, 6w43\n\n EREnERJCE wOT,C0Tvr CZprL",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 3057,
+                "y0": 3408,
+                "x1": 3767,
+                "y1": 3506
+            },
+            "class": "headline",
+            "raw_text": "{ LITCHFIELD COUNTY, ss.\n\n ] Superior Court, Feb. Term 1927.",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": -1
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 2921,
+                "y0": 5036,
+                "x1": 3801,
+                "y1": 6041
+            },
+            "class": "article",
+            "raw_text": "nNE of the best Farms in the\n\n O County of Litchfeld, contai- 9sAlR ming about two hundred and fifty acres, lying near the South Meeting House in Cornwall, with a large Dwelling House, three Barns, Wood-house and Dairy house, together with an excellent Saw-MiIl standing on the same.-Said Farm is beautifully situ- ated in Cornwall valley, and is calculated to be sold in one body, or is easily divided into several small farms. There is also a consid- erable quantity of Pine timber on said Farm. A further description is unnecessary as no one would purchase without first viewing the premises. An indisputable title will be given and possession as soon as required. Any person wishing to purchase will call on Col. Benjamin Gold living on the premises, or on either of the subscribers, assignees of said Gold.\n\n D. B. BRlNSMADE, A.s;un...\n\n SAML HOPKINS, } A'''' ''\n\n Cornwall, 9th April. 1927. 43",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 3074,
+                "y0": 4928,
+                "x1": 3659,
+                "y1": 5014
+            },
+            "class": "headline",
+            "raw_text": "FOR SALE,",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": -1
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 3817,
+                "y0": 3448,
+                "x1": 4708,
+                "y1": 3755
+            },
+            "class": "article",
+            "raw_text": "The following is list of the banks, the bills of which are receivable at the PHOENIX BANK in this town. We have omitted the names of those banks whose bills are not ta- ken here. Thls list will be corrected as oc- cos;oy, ~oo ~no,,;ra",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 3879,
+                "y0": 3374,
+                "x1": 4623,
+                "y1": 3432
+            },
+            "class": "headline",
+            "raw_text": "BANK NOTE TABLE.",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": -1
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 3811,
+                "y0": 1673,
+                "x1": 4249,
+                "y1": 2507
+            },
+            "class": "article",
+            "raw_text": "Curled Parsley, Pine Apple Melon. Long yale cantelope d. Asparagus.\n\n Blood Beet. Turnip Beet. Orange Carrot. Long green cucumber. Early table do. Early cluster do. Sage.\n\n Red Onion. White Onion. Yellow Onion. Pepper Grass. Green Dwarf Imperia. Early Washington Pc Squash Pepper.\n\n Litchfield, March 2'",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 4254,
+                "y0": 1684,
+                "x1": 4708,
+                "y1": 2519
+            },
+            "class": "article",
+            "raw_text": "Parsnip.\n\n Imperial Lettuce }. Grand admiral do. Early Dutch Turnip.\n\n Scarlot Radish.\n\n White Turnjp do. Green Savoy cabbage Crook Neck Squash. Bush Squash.\n\n Celery.\n\n Summer, Savory. Lima Bean.\n\n Rob Roy Bean.\n\n Cranbury Bean.\n\n White Case Knife do. Pea. Matchless Pea. a. Sugar Pea. ', 1927. tf41",
+            "legibility": "Legible",
+            "full_article_id": 29,
+            "reading_order_id": 0
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 3817,
+                "y0": 3698,
+                "x1": 4340,
+                "y1": 6937
+            },
+            "class": "article",
+            "raw_text": "htIl t1cICs HID lSb SEIlA casion may require.\n\n United States Blk. and bra\n\n NETWORK. Pho Bank of N. York R. l Bank of America R. l U. $. Branch blk R. \\ Franklin blk Smi Tradesmans blk Do. Merchants bk Do. Chemical blk Scit North River bk Uni City blk Wa Phoenix blk Wa' Manhattan blk Wal Mechanics blk Hor Union blk Vill' Long Island blk Cur Delaware & Hud. blk\n\n State Blk. Albany Aug Bank of Albany Ban Merch. & Far. do Bat Newburgh Por Colum. Hudson Cur Middle District Gar Duchess co. bk Ker Orange co. Lin Catskill Wa Troy NE Farmers, Troy Ch' Mohawk Cor Utica Exc Utica Branch Ne, Geneva Uni Ontario Sta Central Por Rochester, Roc Lansingburgh Gra Canandaigua\n\n CONNECTICUT. Bos Hartford Agr Phoenix Bev Middletown Bed Bridgeport Belt New-Haven Cor Do. Mechanics Dec New.London Ess Union GlO Stonington Hal Norwich Lyl Thames Me' Windham co. Fra Fairfield co. Mel\n\n RHODE-ISLAND. Ma Eagle Me Bristol Ne Commercial Ply Freeman's Pa Agri'l & Manufac. Bal Rhode-Island Sal CranstOn Sp' Exchange Ia, Franklin On' i Kent wa Landholders' Fai\n\n Manufacturers Me\n\n Merchants Wa Newport\n\n N. F. Com. Bun Narraganset Mo N. Kingston Wi Mount Hope Bra Pawtucket Ru\n\n Providence Bal",
+            "legibility": "Legible",
+            "full_article_id": 31,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                18,
+                0
+            ],
+            "headline": "NeaC HdrdaCGre Goods. OGDEN KILBOURN, Has just receired and Is nO,0 opening ne,O sup ply\n\n Cutlery S' HardaO0re\n\n GOODS,",
+            "article": "comprising Uery select assortment, tclsich he\n\n offers at Wholesale and Retail, ct the very\n\n iouceSt prices.\n\n TNABLE and Desert Knives and Forks. Il Carvers and Steels; bread, butchers, shoe, and cooks Knives; \" Rogers\" fine Pen knives; \"John Barber's' superior Razors, DOT table Razors in cases; Scissors, Shears; ''Pa- tent' Sheep Shears, Sickles; Philadelphia Mill Saws, Circular S4 cut, hand, back and other Saws; Locks, Latches, Butts, Bolts, Screws, patent Window Blind Fastenings, Cut Tacks and Brads; Brass Andirons, .Sho- vel and TOngs; elegant japan'd Tea Trays, Wine Walters, Fruit and Snuffer Trays, pol ished Steel Shutters, Plated Castors, Plated and Brass Candlesticks, brass and japand Lamps, copper Tea-kettles, sauce Pans, cof- fee Mills, sad and tailor's Irons, \"Italian\" ruffle Irons, plated and Brittania Spoons, ele- gant glass and brass cOmmode Knobs. com mode Rings, curtain Pins, brass Nails, brass and metal Cocks, plated and iapan'd Saddle ry, Spurs, Stirrups. flames Files and Rasps, complete assortment; \"Hemmings\" and other Needles, of the best quality suspending Lamps, clout Nails, coffin Letters and Fig ures, shoe Bills hair cloth Seating, all widths; trace Chains, halter and wire Chains, Frying Pans, Mussey's patent\" Franklin Gridirons, Trowels, Chisels and Gouges, English Show els and Spades, \"Warner's\" Hammers, Oil and Water Stones, Rat and Mouse Traps, Waffle Irons, Braces and Bitts, curry Combs, Rowling Guns, Pistols, Flints, Phosphorus Lights, Pocket Books, Wallets and Purses, Cast Iron Hollow Ware.\n\n Store Corner South of the State House,\n\n Hartford, Con. April 9. 43",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2921,
+                    "y0": 340,
+                    "x1": 3778,
+                    "y1": 800
+                },
+                {
+                    "x0": 2909,
+                    "y0": 822,
+                    "x1": 3790,
+                    "y1": 2541
+                }
+            ],
+            "bbox": [
+                2909,
+                340,
+                3790,
+                2541
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-04-12_p3_sn82014309_00414182926_1827041201_0165.json"
+        },
+        {
+            "object_ids": [
+                13,
+                1
+            ],
+            "headline": "NOTICE.",
+            "article": "TOsOn Meeting, legally sCarned, and holden iu\n\n Warren October 23d, 1926.\n\n Voted, That all Horned Cattle, (except two from family,l and all Horses, Asses, Mules, and Sheep, shall he restrained from going at large on the Common or Highway, in said town of Warren the year ensuing. And if any Horses, Mules and Sheep shall be found running at large, on the Common or High way m said town the ensuing year, or more Horned Cattle than two from d family, and they with the mark of tEfe owner on the ear, any person shall have ri ght to impound them in the same manner as is provided by law for the impoundng of Horses, Cattle, Mules and Sheep, breaking into enclosures. 4S\n\n Attest GEORGE STARR, ToUn Clerk.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 4106,
+                    "y0": 340,
+                    "x1": 4413,
+                    "y1": 403
+                },
+                {
+                    "x0": 3811,
+                    "y0": 425,
+                    "x1": 4708,
+                    "y1": 1362
+                }
+            ],
+            "bbox": [
+                3811,
+                340,
+                4708,
+                1362
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-04-12_p3_sn82014309_00414182926_1827041201_0165.json"
+        },
+        {
+            "object_ids": [
+                26,
+                2
+            ],
+            "headline": "MARRIED",
+            "article": " In Bethlem, MT Edward Goodwin, editor of the Hartford CouYant, to Miss Susan Leav- it of the former place. DIED, In Woodbridge on the gath ut. MT. PhilO Dibble, aged 35.\n\n In Hartford, few days since, at the advan- Nced age of 80 years, Col. Hezekiah Wyllys. This gentleman was the last of the family of the venerable George Wylys. who, for more than sixty successive years, was elected by the freemen of the state at large, Secretary ofthe State, and who died at the age of 86. Three of his sons have died within few years, all 80 years and upwards. The first person of the name of Wylys was one of the earliest settlers of the colony. It is not known that there is more than one remaining descendant of this race who bears the family name, and he is without a-family; of course in few years it will be extinct.\n\n In St. Augustine, (Florida) on the 3dinst. Mir. Asahel F. Belts, late of Wilton, Conn. In Philadelphia, on the 18th inst. Col. Gideon Fairman, an eminent engravcr, aged 51.\n\n In Hartford, Mrs. Kilborn, aged 76, for merly of Sterling, Mass. and relict of Mr.J Jes- SC Kilborn of Litchfeld\n\n In Pennington, Chauncey Deming, Esq aged 70.\n\n In Oxford, Mrs Nabby Smith, aged 34,wife of MT. Ira K. Smith, ,and daughter of the Rev. Chauncey Prindle.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2308,
+                    "y0": 4571,
+                    "x1": 2604,
+                    "y1": 4623
+                },
+                {
+                    "x0": 2013,
+                    "y0": 4616,
+                    "x1": 2905,
+                    "y1": 6098
+                }
+            ],
+            "bbox": [
+                2013,
+                4571,
+                2905,
+                6098
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-04-12_p3_sn82014309_00414182926_1827041201_0165.json"
+        },
+        {
+            "object_ids": [
+                12,
+                4
+            ],
+            "headline": "NdTILTNHRX C FANCY GOODS\n\n Miss A. P. CABLE",
+            "article": "HAS just returned from New-York with HI very general assortment of MlLLi- NERY & FANCY GOODS; among which are Black and Yellow Leghorns of the finest quality; Ribbons and Trimmings ofthe latest fashion all kinds of Flowers. from l2 l2 cts to S1 ,5O; Fancy, Silk, and Willow Hats :- Cans of all kinds ;-Thread and Bonnet La ces ;-H'dkfs. ;--Belt Ribbons ;--Sashes, wrought colours ;-Gloves \"a few peices of elegant Silk for Dresses ;--also Barrage and Battiste Dresses large and small Combs = CurIs, &c. Sc, all of which will be offered as cheap as can be obtained elsewhere\n\n NFDressps GU. and made on short Notice",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2036,
+                    "y0": 6136,
+                    "x1": 2899,
+                    "y1": 6251
+                },
+                {
+                    "x0": 2030,
+                    "y0": 6261,
+                    "x1": 2910,
+                    "y1": 6943
+                }
+            ],
+            "bbox": [
+                2030,
+                6136,
+                2910,
+                6943
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-04-12_p3_sn82014309_00414182926_1827041201_0165.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "one thousand dollars fIr the discovery of Morgan, if alive, and if murdered, two thou sand dollars for the discovery of the offender or offenders, and free pardon to any accom- plice or co-Operator, who shall make full discovery of the offender or offenders. The proclamation is dated 18th of March.\n\n Floating Island.-The last number of SiI- Iiman's Journal, contains an account of a floating island, containing nearly half an acre of land. in pond or small lake, in New burypOrt, Mass. It is. covered with the shrub called dOgwOOd, none of which grows on the shores of the lake. There are trees three feet in circumference on the island.\n\n Fertility of FIorida.-A traveller returned from Florida, says it is the most fertile coun- try he ever found; the land producing forty CushelS of frogs to the acre, and alligators e. nough to fence them!\n\n Legislative Grant to tue Greeks.-The bill which had passed the Senate of N. Y to grant 1000 barrels of flour for the relief of the Greeks, after debate of four hours in the House of Assembly, was lost by vote of 42 to48.\n\n new daily paper is announced in N. York, ! to be called the New-York Journal of Com merce. It is intended to exclude advertise ments relative to the Ihentre and Lotteries ;- and to be issued on Monday mornings, with out violation ofthe Sabbath by setting types. The plan has our, warmest wishes for its sue 1 cess. We can see no valid reason, why a commercial paper should favor immortality and vice by any direct influence.\n\n Come gentle Spring! etherial MiIdness! come; And from the bosom ofyon dropping cloud, While music wakes around, veipd in shower Of fshadowing roses, on our plains descend. l THOMPSON. The Spring has opened upon us with all its loveliness at least fortnight earlier than usu- al. The fields are already covered with green, and all nature, animate and inanimate, seems to rejoice in the transition from deso- late winter to mild spring. The air is filled with the sweet melody of the birds, and all hearts-but such as are cruel enough to induce their pOssessOrs to level a fowling- piece against these happy aerial songsters-appear to rejoice in the benefcence of Providence in providing this cheering solace for the droop- ing spirits of man. While partaking of this rich profusion of blessings, we envy not the feelings of the individual who can wantonly destroy the innocent birds that sport upon our trees i've marvel at the coldness of fthat heart which can exult at the fatality of shot aimed at these beautiful harbingers of return ing spring. Does such spirit dwell in any individual who professes to be governed by the feelings and passions of man! It does {; | and many of the feathered tribe tarried but short time with us, rejoicing in the departure 1 of winter, before they were cruelty shot down simply in sport. In Massachusetts the strong arm of the law is raised against such wanton cruelty; here we have no civil law against it; but let public opinion speak, as it should speak upon the subject, and young men, professing to be gentlemen, will not be found engaged in such disgraceful conduct Let our ladies of taste and feeling frown upon the individual who IS willing to sport with the limbs and lives of the feathered tribe, and birds will rest secure and safe amidst the shades of our vil- lage.\n\n l A bridge near WallingfOrd, while the mail stage from Hartford was passing on the 1st fhst.gave way, ,and fell entirely into the stream. Fortunately, the horses had passed the bridge and the stage, in falling, lodged against tree, which preserved the lives of the passengers, who all remained unhurt.\n\n l The election in Massachusetts was held on the 2d inst. Gov. Lincoln is reelected by a large majority. Ne,O Religious Pdper.-The ''Episcopal Watchman,\" paper under the direction and patronage ofthe Protestant Episcopal Church has just commenced at Hartford. It is a handsome paper, and recommends itself to the liberal patronage of the christian commu- nity.\n\n MARRIED",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2008,
+                    "y0": 311,
+                    "x1": 2899,
+                    "y1": 4623
+                }
+            ],
+            "bbox": [
+                2008,
+                311,
+                2899,
+                4623
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-04-12_p3_sn82014309_00414182926_1827041201_0165.json"
+        },
+        {
+            "object_ids": [
+                19,
+                6
+            ],
+            "headline": "NOTICE.",
+            "article": "WHEREAS my wife Mary Ann has left w my bed and board without any just provication This is to forbid all persons har- boring or trusting her on my account, as shall pay no debts of her contracting after this date. =\n\n DAVID ROGERS, Jr.\n\n Washington, April g, 1897. 4S",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3216,
+                    "y0": 6494,
+                    "x1": 3517,
+                    "y1": 6557
+                },
+                {
+                    "x0": 2932,
+                    "y0": 6573,
+                    "x1": 3812,
+                    "y1": 6932
+                }
+            ],
+            "bbox": [
+                2932,
+                6494,
+                3812,
+                6932
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-04-12_p3_sn82014309_00414182926_1827041201_0165.json"
+        },
+        {
+            "object_ids": [
+                15,
+                7
+            ],
+            "headline": "FOUND",
+            "article": "TN the road leading to BradIey's-VilIe, a l POCKET-BOOK, containing small sum of money, and some papers of value to the owner, who may have the same by pro- wing property, and paying charges. Enquire at this office. .\n\n Litchfie!d, April g, 1927. 46",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3182,
+                    "y0": 6063,
+                    "x1": 3591,
+                    "y1": 6143
+                },
+                {
+                    "x0": 2926,
+                    "y0": 6159,
+                    "x1": 3807,
+                    "y1": 6472
+                }
+            ],
+            "bbox": [
+                2926,
+                6063,
+                3807,
+                6472
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-04-12_p3_sn82014309_00414182926_1827041201_0165.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "those from the United States, were, two from Mexico; one, M. Larizbel, from Qua tamala Dr. Gual, from Colombia. One of the Mexican deputies however, M. Mi 1 chelena, was about to resign. As soon as the Peruvian deputies arrived, the Con- gress would probably convene. Our cor respondent describes Tacubaya as de- lightfully situated, near the base of one of the prophyritic mountains which sur round the circular valley of Mexico, and distant about miles from the capital. \". Y. Amer.\n\n Dr.. Holly.-A Lexington paper says, Dr. Holly retired from the presidency of the Pennsylvania University on March 12th. He expects to set out for Europe, in the course of week or two by way of New Orleans. A meeting of the Trus- tees, we are informed, will be held, and ono of the professors provisionally appointed President.\n\n Fate Of Worgam-The grand jury of Monroe county have spent great portion of five days, in the investigation of the Nor gan affair. They examined the commit tee, which had been appointed by the citi- zenS of Lewistown to make enquiries in Canada, whose statements as to his being murdered have been so confidently pub -lished. But they found no sufficient evil dence to justify them in finding bills of in dictment against any individual.\n\n The Grand Jury of Middlesex county, New-Jersey, have presented as griev- ance the incorporate use of spurious li- quors. All the cases of breach of the peace within their notice having been owing to this vice.\n\n Bolivar has resigned his office as presi- dent of the republic of Colombia. In his letter of resignation he says, |\" for fourteen years I have fulfilled the office of supreme head and president of the republic dan- gers forced this duty upon me, which no longer existing, leaves me at liberty to re- tire to the enjoyment of private life.\"\n\n Touching Appeaz.-The following is an extract of letter from young Greek, student in Amherst college Massachusetts\n\n Here permit me to assure you, that ev- cry Greek will ever feel grateful to the in- dividual, who endeavours to procure the necessaries of life for starving and naked Greece. For six years she has been the scene of slaughter and devastation. She has seen her cities burnt, the sacredness of her temples violated, the highest dignities of her church murdered, aud her fertile plains, vineyards, and olive groves devas- tated. She has seen her infrm and aged consumed by the flames her noblest sons fall ill her cause; her daughters dragged into cruel bondage; and her infants torn from their mothers breasts, dashed against the wall, or left to perish in uncultivated districts. All this she has repeatedly witt messed. Now she beholds her children na- ked and .famishing and with suppliant look, with outstretched arms, she turns to 1 this abode of freedom and virtue, and begs for the necessaries of life. She points you ] 10 her homeless thousands, her widows and orphans; she shows you her famishing warriors and enslaved virgins, and asks for asistance.-Will it be refused Is there a christian, is there an American, who can listen with indifference to her supplica- tions p\n\n The Rev. Samuel Spring was installed minister over the North Congregational Church in Hartford, on Wednesday the Fist inst. The introductory prayer was offered by the Rev. J. H. Fairchild of E. Hartford. The sermon, from James i. xviii. was delivered by the Rev. Dr. Spring, of New-York, Installation prayer by the Rev. Dr. Perkins of West Hartford, Charge by the Rev. MT. Penney of Wethersfeld. The Rev. Joel Hawes gave the right hand of fellowship. The concluding prayer was from the Rev. MT. Lindsley. It would be but tame expression to say that the per- formances were highly interesting. The solemn and earnest attention with which the eloquent sermon of Dr. Spring was lis- tened to, showed the intelligence of the au- dience, and by such an audience, the other exercises must have been deeply felt.\n\n Freshet.-On Thursday and Friday last, the water rose over the banks of the Connecticut river, higher than it has risen since 1907. The rise above the ordinary low water mark is more than twenty feet and notwithstanding the great surface of flats and meadows it must cover, it rose in Hartford at the rate of an inch an hour.- The great freshet of 1901, by which all subsequent ones have been guaged, was marked at twenty-six feet. The rule of l. ..La 4l.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1100,
+                    "y0": 283,
+                    "x1": 2003,
+                    "y1": 5712
+                }
+            ],
+            "bbox": [
+                1100,
+                283,
+                2003,
+                5712
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-04-12_p3_sn82014309_00414182926_1827041201_0165.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "\n\n on the Caspian Sea. This treaty was made at GoOlstan in Karabaugh, and hopes were held out, that upon an appeal to the Emperor, apart Ofthe provinces would be restored and to effect this object England promised her good offices. But when the Persian embassy appeared at St. Petersburgh, although backed by the strenuous eXertions of Lord Cathcart then Ambassador to Russia, Alexander was found inexorable, and peremptorily refused to give back single inch of Persian soil. It was at length, however, agreed, that Gen. Yerma- IOf, who was then appointed Ambassador to Persia and Governor of Georgia, might dis cuss the matter when he arrived at the Per sian court. It is not, however, to be suppo- sed that the minister would yield what it was evident his sovereign had determined to keep. Nothing of course was done to appease the mortified Persians, and Gen. YermalofF re- turned to his government in Georgia, leaving Charge des Affairs. who was directed by the Shah to station himself at the Court of Abbas Mirza, the Prince Royal, whose claims to the throne Russia had engaged to support against all competitors whatever. Commis- sloncrs were then appointed to ascertain and define the boundary between the two nations according to the treaty of ofGoolistan.\n\n It may now be worth while to digress a lit- tie, in order to show what part was taken by Bonaparte during these transactions, who, it may easily be imagined, was not an inactive spectator, when war, conquests and kingdoms were concerned.\n\n There was no precise and defined connection between England and Persia until the mission of Sir John Malcolm to Tehran, in 1900, when political and commercial treaties were concluded, by which the Persians agreed to attack the Afghans, who then threatened the British possessions in India, and to exclude the French from the Gulf of Persia. But in 1905. Persia being hard pushed by Russia, and the Shah dazzled by the military renown ofBonoparte, applied to him for assistance.- M. Jaubert was immediately sent to Tehran to ascertain the state of things; he returned m l8O6, accompanied by MIrza Reza, on a special embassy. Mirza Reza saw Napoleon at Tilsit, and there concluded with him trea fy,whlch was formerly ratified at Finkenstein. m May, 1907. About the same time Persia sent mission to the British Government in India, to ask assistance, but the application was unsuccessful, and Persia then threw her. self into the arms of France.\n\n Bonaparte was as desrOus as Russia to sc- cure footing in Asia, having the additional stimulus ofthereby being enabled to menace the British possessions in the East. General Gardanne was charged with mission, and great number of presents, to the Shah, which, together with the failure of the application to the English, secured Gardanne splendid re- ceptlon at Tehran. and established for a time the supremacy of the Bonapartean power- England, at length, saw the error, which the combined effects of the death of Mir. Pitt the short, desuItory, and unsatisfactory reign ofMr. Fox and the Whig ministry-and sub sequentay, the uncertain state of the British relations with Russia, and the unwngness to do any thing that might turn the waverng policy of the latter towards France-had indu- ced her to commit. Sir Hartford Jones was accordingly sent to Persia in 1908, for the purpose Ofrestoring the old relations, and then began the competition between England and France for ascendancy in the councils of Per sia. From that moment may be dated the connexion of Persia with Europe, which has continued ever since, is still augmenting, and recent events clothe 1t with an aspect of ten fold importance.\n\n Nothing could equal the anxiety now felt, both in England and India for the result of this diplomatic contest. Europe lay pros trate at the feet of the usurper-the insurrec- tion in Spain was of doubtful character, and uncertain in its probable result-the spirit of South American Independence was only in it's bud-the United States were hostile, and Britain now saw her implacable enemy flush ed with victory and revelling in power, paving the way for wrestling from her, her empire in the East. It was trying moment-the dar- kest perhaps in heT history-but her good genius prevailed. A government of laws and religion, and nation of benefactors to the human race, were not destined by the Su- preme Dsposer of events, to crush beneath an unbridied desPot, whose power, notwith- standing his prodigious talents, sprung from infdelity and the guillotine.\n\n To assist Sir Hartford Jones, a mission of the greatest splcndor was despatched from India, accompanied by presents of the most costly description, and furnished with exten- sive powers. The result was most triumph ant for the British interests. The French in- fuence was completely supplanted, and that of the British re-established in its stead. A Persian Ambassador speedily arrived in Eng land, accompanied, we believe, by Sir George Ousely, with preliminary treaty, which be- ing duly ratified, defnitive treaty was af- rewards made and concluded, and immense presents again lavished on the Shah and his courtiers, to keep alive the friendly feelings thus happily created.\n\n Itwas under this treaty that England first paid Persia subsidy. 100000 tomans was the sum fixed upon for this purpose, and was to be paid during the continuance of the",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 181,
+                    "y0": 459,
+                    "x1": 1095,
+                    "y1": 5894
+                }
+            ],
+            "bbox": [
+                181,
+                459,
+                1095,
+                5894
+            ],
+            "full_article_id": 10,
+            "id": "10_1827-04-12_p3_sn82014309_00414182926_1827041201_0165.json"
+        },
+        {
+            "object_ids": [
+                14,
+                10
+            ],
+            "headline": "GARDEN SEEDS.",
+            "article": "OF THE LAST YEARS GROWTH, From the Garden of Leman Stone, of Derby, For Sale 6y GOODWIN & GALPIN.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3851,
+                    "y0": 1395,
+                    "x1": 4646,
+                    "y1": 1475
+                },
+                {
+                    "x0": 3817,
+                    "y0": 1491,
+                    "x1": 4697,
+                    "y1": 1657
+                }
+            ],
+            "bbox": [
+                3817,
+                1395,
+                4697,
+                1657
+            ],
+            "full_article_id": 11,
+            "id": "11_1827-04-12_p3_sn82014309_00414182926_1827041201_0165.json"
+        },
+        {
+            "object_ids": [
+                21,
+                11
+            ],
+            "headline": "LIME! LIME! E. H. DENISON",
+            "article": "W7ILL receive weekly from the Kiln, w fresh Lime of the first quality. and at a very low price. Not more than the gate fee will be added to the Canaan and Sheffield wholesale price.\n\n Norfolk, April. 1927. tf4S",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2994,
+                    "y0": 2904,
+                    "x1": 3733,
+                    "y1": 3063
+                },
+                {
+                    "x0": 2921,
+                    "y0": 3074,
+                    "x1": 3795,
+                    "y1": 3392
+                }
+            ],
+            "bbox": [
+                2921,
+                2904,
+                3795,
+                3392
+            ],
+            "full_article_id": 12,
+            "id": "12_1827-04-12_p3_sn82014309_00414182926_1827041201_0165.json"
+        },
+        {
+            "object_ids": [
+                25,
+                17
+            ],
+            "headline": "{ LITCHFIELD COUNTY, ss.\n\n ] Superior Court, Feb. Term 1927.",
+            "article": "\"HEREAS, LAVINA WOODRUFF w of Litchfeld, in said County, has brought her petition to this Court against her husband Salmon Woodruff, now residing in parts to her unknown, therein stating, among other things, that the said Salmon, at said Ltchfield, on or about the first day of July 1928, wilfulIy deserted her, and ever since has continued, and still continues, his desertion, residing out of this state, in the total neglect of all the duties of the marriage covenant, on his part, to be pes formed, and praying for bill of divorce from the said Salmon, as her petition on file, dated the 5th day of Februa- ry 1897.\n\n Ordered by this Court that said petition be continued to the next Term of this Court, to he holden at Ltchfeld, within and for said County, on the third Tuesday of August next and that the pendency of said petition, and copy of this order, be published six weeks successively, according to the statute in such case provided, in paper printed in Litchfield, called the Li,cl.feld County Post, and in a pa per printed in NewHaven. called the Colum- bian Register, which shall be sufficient notice to the said Salmon to appear and defend in said petition.\n\n By the Court,\n\n F. WOLCOTT, Clerk.\n\n A true Copy, 6w43\n\n EREnERJCE wOT,C0Tvr CZprL",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3057,
+                    "y0": 3408,
+                    "x1": 3767,
+                    "y1": 3506
+                },
+                {
+                    "x0": 2921,
+                    "y0": 3510,
+                    "x1": 3801,
+                    "y1": 4895
+                }
+            ],
+            "bbox": [
+                2921,
+                3408,
+                3801,
+                4895
+            ],
+            "full_article_id": 18,
+            "id": "18_1827-04-12_p3_sn82014309_00414182926_1827041201_0165.json"
+        },
+        {
+            "object_ids": [
+                29,
+                20
+            ],
+            "headline": "FOR SALE,",
+            "article": "nNE of the best Farms in the\n\n O County of Litchfeld, contai- 9sAlR ming about two hundred and fifty acres, lying near the South Meeting House in Cornwall, with a large Dwelling House, three Barns, Wood-house and Dairy house, together with an excellent Saw-MiIl standing on the same.-Said Farm is beautifully situ- ated in Cornwall valley, and is calculated to be sold in one body, or is easily divided into several small farms. There is also a consid- erable quantity of Pine timber on said Farm. A further description is unnecessary as no one would purchase without first viewing the premises. An indisputable title will be given and possession as soon as required. Any person wishing to purchase will call on Col. Benjamin Gold living on the premises, or on either of the subscribers, assignees of said Gold.\n\n D. B. BRlNSMADE, A.s;un...\n\n SAML HOPKINS, } A'''' ''\n\n Cornwall, 9th April. 1927. 43",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3074,
+                    "y0": 4928,
+                    "x1": 3659,
+                    "y1": 5014
+                },
+                {
+                    "x0": 2921,
+                    "y0": 5036,
+                    "x1": 3801,
+                    "y1": 6041
+                }
+            ],
+            "bbox": [
+                2921,
+                4928,
+                3801,
+                6041
+            ],
+            "full_article_id": 21,
+            "id": "21_1827-04-12_p3_sn82014309_00414182926_1827041201_0165.json"
+        },
+        {
+            "object_ids": [
+                23,
+                22
+            ],
+            "headline": "BANK NOTE TABLE.",
+            "article": "The following is list of the banks, the bills of which are receivable at the PHOENIX BANK in this town. We have omitted the names of those banks whose bills are not ta- ken here. Thls list will be corrected as oc- cos;oy, ~oo ~no,,;ra",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3879,
+                    "y0": 3374,
+                    "x1": 4623,
+                    "y1": 3432
+                },
+                {
+                    "x0": 3817,
+                    "y0": 3448,
+                    "x1": 4708,
+                    "y1": 3755
+                }
+            ],
+            "bbox": [
+                3817,
+                3374,
+                4708,
+                3755
+            ],
+            "full_article_id": 23,
+            "id": "23_1827-04-12_p3_sn82014309_00414182926_1827041201_0165.json"
+        },
+        {
+            "object_ids": [
+                24
+            ],
+            "headline": "",
+            "article": "Curled Parsley, Pine Apple Melon. Long yale cantelope d. Asparagus.\n\n Blood Beet. Turnip Beet. Orange Carrot. Long green cucumber. Early table do. Early cluster do. Sage.\n\n Red Onion. White Onion. Yellow Onion. Pepper Grass. Green Dwarf Imperia. Early Washington Pc Squash Pepper.\n\n Litchfield, March 2'",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3811,
+                    "y0": 1673,
+                    "x1": 4249,
+                    "y1": 2507
+                }
+            ],
+            "bbox": [
+                3811,
+                1673,
+                4249,
+                2507
+            ],
+            "full_article_id": 25,
+            "id": "25_1827-04-12_p3_sn82014309_00414182926_1827041201_0165.json"
+        },
+        {
+            "object_ids": [
+                28
+            ],
+            "headline": "",
+            "article": "Parsnip.\n\n Imperial Lettuce }. Grand admiral do. Early Dutch Turnip.\n\n Scarlot Radish.\n\n White Turnjp do. Green Savoy cabbage Crook Neck Squash. Bush Squash.\n\n Celery.\n\n Summer, Savory. Lima Bean.\n\n Rob Roy Bean.\n\n Cranbury Bean.\n\n White Case Knife do. Pea. Matchless Pea. a. Sugar Pea. ', 1927. tf41",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 4254,
+                    "y0": 1684,
+                    "x1": 4708,
+                    "y1": 2519
+                }
+            ],
+            "bbox": [
+                4254,
+                1684,
+                4708,
+                2519
+            ],
+            "full_article_id": 29,
+            "id": "29_1827-04-12_p3_sn82014309_00414182926_1827041201_0165.json"
+        },
+        {
+            "object_ids": [
+                30
+            ],
+            "headline": "",
+            "article": "htIl t1cICs HID lSb SEIlA casion may require.\n\n United States Blk. and bra\n\n NETWORK. Pho Bank of N. York R. l Bank of America R. l U. $. Branch blk R. \\ Franklin blk Smi Tradesmans blk Do. Merchants bk Do. Chemical blk Scit North River bk Uni City blk Wa Phoenix blk Wa' Manhattan blk Wal Mechanics blk Hor Union blk Vill' Long Island blk Cur Delaware & Hud. blk\n\n State Blk. Albany Aug Bank of Albany Ban Merch. & Far. do Bat Newburgh Por Colum. Hudson Cur Middle District Gar Duchess co. bk Ker Orange co. Lin Catskill Wa Troy NE Farmers, Troy Ch' Mohawk Cor Utica Exc Utica Branch Ne, Geneva Uni Ontario Sta Central Por Rochester, Roc Lansingburgh Gra Canandaigua\n\n CONNECTICUT. Bos Hartford Agr Phoenix Bev Middletown Bed Bridgeport Belt New-Haven Cor Do. Mechanics Dec New.London Ess Union GlO Stonington Hal Norwich Lyl Thames Me' Windham co. Fra Fairfield co. Mel\n\n RHODE-ISLAND. Ma Eagle Me Bristol Ne Commercial Ply Freeman's Pa Agri'l & Manufac. Bal Rhode-Island Sal CranstOn Sp' Exchange Ia, Franklin On' i Kent wa Landholders' Fai\n\n Manufacturers Me\n\n Merchants Wa Newport\n\n N. F. Com. Bun Narraganset Mo N. Kingston Wi Mount Hope Bra Pawtucket Ru\n\n Providence Bal",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3817,
+                    "y0": 3698,
+                    "x1": 4340,
+                    "y1": 6937
+                }
+            ],
+            "bbox": [
+                3817,
+                3698,
+                4340,
+                6937
+            ],
+            "full_article_id": 31,
+            "id": "31_1827-04-12_p3_sn82014309_00414182926_1827041201_0165.json"
+        }
+    ]
+}

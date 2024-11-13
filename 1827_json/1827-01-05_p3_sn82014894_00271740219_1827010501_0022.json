@@ -1,0 +1,961 @@
+{
+    "lccn": {
+        "title": "American watchman and Delaware advertiser.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2576-7445",
+        "lccn": "sn82014894",
+        "start_year": "1822",
+        "end_year": "1828",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [
+            "sn82014895"
+        ],
+        "successors": [
+            "sn82014393"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn82014894",
+        "edition": "ed-01",
+        "date": "1827-01-05",
+        "pages": [
+            "seq-1",
+            "seq-2",
+            "seq-4",
+            "seq-3"
+        ]
+    },
+    "page_number": "3",
+    "scan": {
+        "lccn": "sn82014894",
+        "edition": "ed-01",
+        "date": "1827-01-05",
+        "page": "3",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn82014894/1827-01-05/ed-1/seq-3.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn82014894/1827-01-05/ed-1/seq-3/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn82014894/1827-01-05/ed-1/seq-3/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn82014894/00271740219/1827010501/0022.jp2",
+        "height": 5632,
+        "width": 3528
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 1658,
+                "y0": 1306,
+                "x1": 2455,
+                "y1": 1703
+            },
+            "class": "article",
+            "raw_text": "The Legislature Of this State assembled at Dover,\non Tuesday and elected archibald Hamilton, Esq.\nSpeaker Samuel NJ. Harrington, Esq CIerk-and\nVincsnt Vandeuer Sergeant at.Arms. The Senate\ndid not organize until Wednesday afternoon. when\nCol. Henry Whiteley was chosen Speaker-Henry\nStout, Esq. Clerk-and John Cats Sergeant. at.\nArms The Governors Message was to be deliv\ncred yesterday.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1759,
+                "y0": 1258,
+                "x1": 2350,
+                "y1": 1303
+            },
+            "class": "headline",
+            "raw_text": "DELAWARE LEGISLATURE.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2476,
+                "y0": 224,
+                "x1": 3296,
+                "y1": 2632
+            },
+            "class": "article",
+            "raw_text": "ICEBERGS.-Tte ship Frederick Augustus.\nEarle which arrived II Newport( r. /. )psssed off\nCape Horn. October, lOh, forty one large Islands\nof Ice, several Of them supposed be eight nine\nmiles in lengih and very high--,he atmosphere was\nexceedingly cold in the vicinity Of the Ice and the\nSpray froze Immediately on The sails and rigging\n\n\nPHILADELPHIA. Dec. 29th.-A graveyard short\ndistance OF the Permanen Bfidge, was violated\nabou. two weeks ago. Three or four graves we're\nopened and the bodies taken lherefrom. A\nshocking spectacle was presented the following\nmorning. The graves were no, filled; the coffins\nremained above ground, and the shrouds were srewn\nabout. They remained in this condition several\ndays, as the person who has the care Of The yard\nwbs absent.\n\n\nOne Of the pilots on Wednesday morning picked\nup man, il yawl, in the neghbourhood OF the\nPoint House. F,om the joint effects OF cold ard in\noxication, he was speechless; but by proper aten-\nlion far restored 10 his senses to be able to\nstate that he belonged 10 the brig James Lawrence,\nwhich is now lying in ,he neiehbourhood Of Reedy\nIsland land tina, he had been drifting about in the\nriver for the preceding thirty six hours. His hands\nand fee, were severely frost bitten. He has been\nsen, to the Hospital.\n\n\n.Ne,o York, Dec. 27.\n\n\nrHENxwMAYoR WIN. Psulding Esq. was yes.\nterday elected mayor Of this city fer the year ensu-\ning. This gentleman was the predecessor, as he is\nto be the SUCCESSOR of Mr. Hone.\n\n\nRochester, \". Tork. Dec. 13.-The doubts and\nuncertainty which still mystify the Batavia affair,\ngive Increased interest and add fresh zeal 10 the\ngeneral inquiry Of \" Where is Morgan 2\" The\nquestion is in the mouth Of the whole community.\n1t is The all absorbing topic Of conversation and the\ninquiry, like the school-boy's snow ball, acquires\nstrength and magnitude, the farther it is pursued.\nAs yet, nothing is known beyond the fact that Nor\ngan is gone-but where, whether he be alsr or\ndead We are unable TO say. Telegraph.\n\n\nPhiladelphia. Dec 23.-The question Of the au-\nthorship Of the Wavery novels, was considered as\nsettled by the exposition Of affairs, consequent upon\nthe failure o Constable x Co. the publishers. Still,\nhowever. there some no scepiical, notwith-\nstanding the life of Napoleon, avcwediy written By\nSir Walter Scott, is announced in the London pa\npers, as f om the pen of the author of Wavely On\nWednesday we saw letter unquestionsbly authen-\n,icated IS coming from Sir Walter Scott and signed\n\" TIE .duthor Of Warerly.\" The writer, had at\nfirst designed subscribing il with his proper name !;\nWaHer was written, aud erased with stroke OF the\npen, but still eeible The letter is on the subject\nOf the Lite OF Napoleon. Franklin Gazette.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 870,
+                "y0": 4730,
+                "x1": 1668,
+                "y1": 5311
+            },
+            "class": "article",
+            "raw_text": "BOSTON, DEC. ZJ\nOn Saturday last, Judge Story pronounced sen\ntrnce of death upon Charles MarchAnt and Win\nSLOW Curtis, convicted Of the murder Of Captain Ed\nward Se.frdee. of the schooner Fairy, and Thomas\nr. Jeokns his mate\n\n\nWhen the Judge had concluded, Marchant a\nbused The Judge, Jury and District Attorney in the\nmost impious and insulting language. Cults,\nthough not SO violent also evnced The depravity OF\nhis heart by his observations and we believe no\nCourt OF Justice in this country ever before witness\nI'd such an exhibition Of hardened impenitence as\nthese miscrrants pI Iesented.\n\n\nThe sentence is to be executed on Thursday, the\nGrs day Of February. Pat.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 1350,
+                "y0": 4716,
+                "x1": 1632,
+                "y1": 4748
+            },
+            "class": "headline",
+            "raw_text": "BOSTON, DEC. 25.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2494,
+                "y0": 3388,
+                "x1": 3304,
+                "y1": 3635
+            },
+            "class": "article",
+            "raw_text": "4 IL persons having claims the Borough Council Of\nIN the Borough of Wilmington, will please present their\naccounts on or before the first Wednesday each month,\neither of the undersigned JOSEPH GRUBB,\n\n\nDAVID BUSH,\n\n\nJAMES GARDNER,\n\n\nCommittee Of Accounts.\nJanuary s. lBo7 17-.4t",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2758,
+                "y0": 3330,
+                "x1": 3010,
+                "y1": 3375
+            },
+            "class": "headline",
+            "raw_text": "NOTICE..",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1667,
+                "y0": 1980,
+                "x1": 2468,
+                "y1": 2478
+            },
+            "class": "article",
+            "raw_text": "have observed in several newspapea notice of an in\nienton in way suppress ubvate the unpleasant\nsound arising from The discharge Of Steam from the boilers\nOf Steam Boats. This has brought to my recollection what\n\n\nhave often thought Of in my various passages in the DIFF\nerent boAs that have been in-and mention it for\nthe consideration Of persons owning such boats have\n\n\nften thought that if had the liberty Of using the power\nso elected from the boilers, and desirous Of giving\nThe bel) would afx trumpet to the top of the\nppc capable Of being turned round every sideand\nwhich am persuaded would give off sound that would\nbe heard much greater distance than the bell com\nmonty made of-cspecal if the trumpet was Of brass\nand of large size. MENTOR",
+            "legibility": "Questionable",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 1891,
+                "y0": 1936,
+                "x1": 2257,
+                "y1": 1972
+            },
+            "class": "headline",
+            "raw_text": "FOR THE WhTcHMAN.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2481,
+                "y0": 3097,
+                "x1": 3300,
+                "y1": 3318
+            },
+            "class": "article",
+            "raw_text": "il the State of Delaware have this day declared dvi\nded the rate of Five per per anum for the last\nhayear the Capital Stock of the institution payable\n\n\nthe Stockholders their legal representatives, any lime\nafter the 9th inst. C. +. COMEGYS, Cash'r\n\n\nDover Jan. 2, 1897 17-3t",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2732,
+                "y0": 3044,
+                "x1": 3049,
+                "y1": 3094
+            },
+            "class": "headline",
+            "raw_text": "DIVIDEND.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2485,
+                "y0": 2811,
+                "x1": 3296,
+                "y1": 3032
+            },
+            "class": "article",
+            "raw_text": "yUSIAT valuable and highly mpr we'd FARM formerly\nIl belonging to THoMAs Liza, adjoining the village OF\nBrandywne and also FARM containing 500 acres ct\nland the Buck Tavern, encader Hundred. Posses\nbe given the 25th Of March next. Apply to\n\n\nEDWARD TATNALL.\nJan. Cd, 1927. 17-tf JAMES PRICE.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 2723,
+                "y0": 2754,
+                "x1": 3045,
+                "y1": 2803
+            },
+            "class": "headline",
+            "raw_text": "For RENT.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1658,
+                "y0": 1729,
+                "x1": 2460,
+                "y1": 1888
+            },
+            "class": "article",
+            "raw_text": "Delauuare Hoes.-Mr. CoRsgLrUs CouLTlR, Merchant,\nOf Milton, Dell killed few days ago, two hogs raised by\nhimself which less than two years old Of which\nweighed 635 lbs.-the other 580-lnaking total Of 1915\nlbs.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 8,
+                "y0": 356,
+                "x1": 832,
+                "y1": 4572
+            },
+            "class": "article",
+            "raw_text": "The the most huIlDc iHINuiai. ~ \"c\n\n\ndesired was that should be done IN way not 10 interfere\n@ The rights Of some States under the plea Of protecting\nthe rights of other States. -, ),\n\n\n&c Ana he instructed to report to this House an abstract\n\n\nal in force in the District of Columbia IN aywise\naffecting the liberty Of the pers.n a.a @'e.her g. any; ~\nhv The legislatures Of the States OF Maylai or virginia.\n\n\nwhich motion he accompanied with . lew remarks OF\nexplanation a., H. ur yo,r.u uho\n\n\nhght i ,mposed an necessary labor the Committee\nOf the District Of Columbia and the question beng taken,\nit negatived ~, .;;., ,,;\nOf Mr.. Tard, and carried by large majority.\n\n\nTuesday, JANuARY2.\n\n\nIN SENATE.\n\n\nA, half past twelve o'clock the Vice President\n,a, annearing to take the Chair OF the Senate,\n\n\nMr. Holmes rose, and, addressing the Secretary,\nmoved that the Senate proceed TO the election OF\nPresident pro 'empoe.\n\n\nThe question being put to the Senate by the Sec\n\n\nreary, the motion wa agreed to, mem. con- and,\n\n\nan counting the ballots, it appeared that the whole\nnumber given in was forty six necessary to choice\ntventy.four. The following was the state Of the\n\n\nyote for Mr.. Macon. 24-For MIR. Smith Of Ma\n\n\nryland l3-Scauering, 9.\nMIR. Macon having received majority OF the\n\n\nwhole number OF woes given, was detlared duly\n\n\nelected President Of the Senate pro iempore, and\n\n\nbeing conducted to the Chair, made his acknowledg-\n\n\nments TO The Senate for the honor conferred on him.\n\n\nand took his scat.\n\n\nOn motion Of Mr. Wuodbury il was ordered that\nthe Secretary inform the Pre- sd.nt oI the Unltsd\n\n\nStates and the House oil Representatives OF the elec\nlion Of Mr. Macon as President OF the Senate pro\ntempore.\n\n\nMr. Harrison, from the Committee on Military\nAffairs reported the bill to prevent desertons from\nThe Army, and or other purposes, without amend\nment.\n\n\nNj. Tan Buren, from the Committee the Ju-\ndietary reported the biIl to provide for reports OF\nthe decisions OF the Supreme Court OF the United\nStates without amendment.\nThe order OF the day was called and the bill TO\nestablish unifo'm m system OF Bankruptcy through\nou the United States was taken up to which eat\nnumber OF verbal amendments we're oferedhy Mr.\nH1qle and Mr.. Bprrien. from the Committee, and\nwere agreed to. Several other amendments were\nmade on the motions OF Messrs Hdyhe and Deffa\nen-\n\n\nMr. Holmes said hat he would propose section\n10 Be added a, the end pf he bill, whenever it should\nbe closed 1t was. \"And be i, fut,her enacted ha'\nthis ac shall be, ard continue in force, tor the term\n\n\nOF five years. from thence 70 the rnd Of the next\nsession of Congress, and no longer\nMr. Holmps, said that hi, reason ior offering this\nsection was that the bill now under consideration\nwa. merely an experment; he called il so, because\n,\nHouse OF r. presenta'ives ny the as ing vote OF the\nSpeaker 1t was m ed as he proposed to limit this\nThe bill had not been in optt alton su about three\nwears when it repealed by an overwhelming\nmajority. That experiment feed; aud should this\nsucceed no better, lie wished that The peiod o u.\nexistence might be pointed out II u should sue\n\n\nceed, il would DC easy to perpetaae u by .utue leg\nslation.\n\n\nThe amendment Of Mr. Hqimes ag,eed to\nMr. HaYne moved lha, the bill, vi b ihc amend\n\n\nments, be prin'ed; uh,,n was agreed 10\nHOUSE OF REPRESENTATIVES,.\nAmong The petitions which were very numerous\npresented this ,lay there were the following;\nBy Mr. II ebsier, OF Merchants OF Boston ant\nmanufactu' ers of rotdagt. irom Russia hemp fo\nthe allowance OF drawback on the exportaton o\ncordagc so made.\n\n\nBY Mr.. ,Hcieau. Of Ohio, petition signed BY\nmany hundreGs Of citz-hs OF the States OF Pennsyl\nvania, Delaware, MARYLAND. Virginia, and Ohio\npraying the aid Of Congress towards a scientihc ex\npedilion to the Northern or Southern Pole\nThe petition referred to the Commitee OF\nNaval Affairs\n\n\nMr. WeIster, from the Committee on the Judi\nclary, reported bill 10 establish uniform System\nOf Bankruptcy throughout the United States; whlcl\nwas twice read and committed to Committee G\nthe whole House.\n\n\nMr.. Webster said that he should move the con\n,idel alton Of this bill on \"Wednesday the 18th in\n\n\nslant.\n\n\nMr.. Buckner, from the Committee on Privst\nLand Claims, made an unfsvnrable report on III\npetition Of Agnes alacke, of London (Eng whic\nreport was laid on the table.\nMr. Livingston moved the following resolution\nResolved, That the Committee Of Ways an\nMeans be instructed to prepare and bring IN b'\nmaking appropriation Of $50 600, to be expcnde\n\n\nunder the direction Of the President in the purchas\nH. AAr rtp\ninhabitants of Greece.\n\n\nAn eloquent debate on this resolrton took place.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 822,
+                "y0": 224,
+                "x1": 1632,
+                "y1": 4427
+            },
+            "class": "article",
+            "raw_text": "| Ways and Means be directed 10 report bill to\nthis House, which shall make ample provision for\nreiundng with lawful interest, to all persons who\nNAV have suffered in pccnnisry penalties under the\nsaid Law, Of July IA, 1898, commonly called the\nSedtlon Law, but entitled \" An act in addition to\nan act for the punishment Of certain crimes against\nthe United Sa,es\" the amounts which they may\nhave paid to the respective Marshals of the Dis\nlrct Courts empowered TO levy and receive the said\nfines; and in case Of The DEATH or absence from\nthe United States, oi any Of the said parties, then\nTO their legal representatives. to such person OF\npersons may be duly authorized to receive the\nsame.\n\n\nMIR. II. then gave notice that he would call up\nthe consideration OF this resolution on the Sd Mon\nday OF the present month.\n\n\nMr.. Nc Lane, Chai man Of the Committee oil\nWays and Means, hoped that the gentleman would\nSO modify his resolution give it different di\nrec,'on. lie thought tha, the inquiry il presented\nwas not appropriate to the Committee OF Ways and\nMeans The subject turned entirely ON point o\nlegal Interpretation; on the question, whether\ncertain law was or was not Constitutional? Thi.\ncertainly was question for the consideration of tn,\nCommittee the Judiciary. and not the Commit\ntee OF Ways and Means. Not every subject which\neventually involved appropriation Of money\ncame properly before the Committee of Ways ans\nMeans, but was to be referred according to ths\n\n\n\n\n\n70 erect forthca,ion a, designated point. This\nto be sure, would eventually call for an sppropria\niion Of money; but the question whether it wa\nproper to erect the fnrtiGc aion TO be deci\nded by the Committee Military Affairs. TIL,\npresent re oution proposed question the refund\ning Of money eceived into the Treasury in 4 manne\nsaid be unconstitutional The first question to b\nsettled was the unconsli,u'ionaty Of the law refer\nred to- and This the COMMITTEE Of Ways and Mean\nha.~ a., hnl ss.h h.f.v\ne; emhatrass or 10 impede the inquiry. but mere\nly desired it should be referred to the appropriat\ncom mtee.\n\n\nMr. HdmiH0n said, that, when the resolutio\nshould be called up, il. in the progress o the dis\ncusson, the House should be OF opinion that it ougt\nto 20 to the Committee OH the Judiciary, he shoul\ncertainly not object 10 the reference. The hon\nable gentleman from Delaware was, however ,unde\nmisapp, ehension to the tenor and effect of th\nre solution. 1t did not refer the question of const\ntuionaliiy 10 The Committee of Ways and Near\nbut the appropriation merely. The other questo\nmust be decided by the solemn finding Of III\n\n\nHouse. He renewed his motion to lay il on Ii\n\n\ntable; which was agreed to.\n\n\nFrom The Nat. Mtellig,ncer, December 90.\naccident prevented the full report Of Mr.. M\nD!De's Remarks, on Wednesday upon Mr.. Uard\nResolution, which follows, from being introduce\n\n\nIN The Dens.e, in its proper order:\n\n\nMr.. .NcDafe said he sorry the gentlems\n, from N. York had accepted the modification II\nthought the resolution as it now stood decided\nc moe exceptonabe than i could be regarded as\nwas originally presented. He was perfectly wilin\n\n\nfor his own part, extend to the citizens OF all\n\n\nStates whatever mi. ht be their color, any and evel\n, privilege to hioh such citizens entitled. Whct\nS er any particular description OF persons are \" cit\n5 zens OF the Tnitsd States\" might be question\n\n\nbut when the Representative OF State alleges,\n\n\nThis floor, that the liberty Of citizen Of that Sta\n\n\nhas been violated by the laws OF a District ov\n\n\nwhich Congress holds exclusive jurisdiction, it\n\n\nthe undouoled and sacred RIGHT Of the person\n\n\nella ming to be citizen, to be heard through h\n\n\nRepresentative. The proposed inquiry ought, ther\n\n\nfore. 70 be instituted upon principles of the mo\n= obvious Justice lot he wished it to be distinctly VI\n\n\neler.tocd, that while he should vindicatc with nrn\nness all the rights which he represented whenev\ny or however they might be sssaed, he was for a\ny codn every other member, in Its fullest cxter\n\n\nthe same constitutional privilege. For his own pal\n= he viewed this as question not at all calculated\n! excite the stnsbility OF the Representatives tro\n, the slave holding States. They certainly do u\nclaim by any special preroga,ive to be the advocat\n\n\nOf slavery wherever it may exist. On the contrar\ny II il shall appear that the laws OF the District\n\n\nColumbia have been made the instrument oil o\n! preston, committed on a person claiming 20 be\nn citizen Of New York-and he was free to decla\ny his in,pre ssion that each State had right to dete\n! nine Tor itself who should enjoy that privilege.\n\n\nhen has an outrage been committed. which q\nRepresentatives from the South and the North a\n! qually bound to discountenance and it we wou\n\n\navoid he imputation Of giving our sanction to q\ne obnoxious proceeding. the law by which it was a\n&c ,horized, should be promptly repealed Who\nN anticipating any ultimate questions TO which the i\n\n\nqury might lead, he would conclude with the r\n) MAJ k, that, if any privilege OF = citizen OF M\nI'd York has been violated through The laws or tribune\nIII Of this District, this body is bound, by every pr\nID clple Of policy, justice. end humanity, TO afford",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1680,
+                "y0": 5161,
+                "x1": 2486,
+                "y1": 5302
+            },
+            "class": "article",
+            "raw_text": "The Baltimore Gazette of Friday last states that large\nnumber of highly respectable free coored people pre-\npairing embark in the brig Doris ~hch is = sail from\nthat port in few days, for Liberia",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2494,
+                "y0": 3709,
+                "x1": 3313,
+                "y1": 5197
+            },
+            "class": "article",
+            "raw_text": "OF THE\n\n\nDelamare State Lottery Fifth Class.\nFor the benefit Of Newark College, Mddleown Academy\n\n\nand Emmanuel Church.\n\n\nThe Subscribers having been requested 10 superintend\nthe Drawing Of the Delaware STATE Lottery Fifth Cass, do\nthis day drawn from the sixty numbers placed in the Wheel\nviz.\n\n\n6o-3o-51-3s-3 -3+-3e-55-1s\nAnd that the said numbers drawn in the order in\nwhich they stand above that is to say, No. 60, was the\nFirst-No. 80, was the Second,-Nc ST. was the Third\nNo. So, was the Fourth,-No. 3d. was the Fhh,-No-\nSO, was the Sixth,-No. SIS, the Serenth-and No.\nIs, the Eighth and last.\n\n\nWitness our hands, Newcastle this Sd day of January\n1897.\n\n\nTHO: w. RoGERS, JAMES BOOTH, Jr.\n\n\nC. ID. BLANEY.\n\n\nFrom the preceding certificate il will be seon what NUM-\nbers were drawn from the Wheel for determining the pr\nthe Delaware State Lottery 5th Glass; with the order\nwhich they drawn and the Managers announce to\nthe Public the following result\n\n\nThe Tickets which drew the lS highest Prizes. are\nthose having them for combination Numbers. - 81 60\n33 \"a 80, 1000; Is SO IS, l,5l. 33 \"a 55 Is\n50 34 SO SO 55 18 55 SO; 18 55 SIS; each 1000 1S 35\n81 81 80 5l \"a 81 IS; is \"a 81; 80 81 S. Is 81 81\nl8 81 IS: \"a SO 55; IL \"a 39 IL \"a IS each S40O.\nAll Others with three Of the drawn numbers them.\nbeing SO, are each entitled TO aprize Of 800\nThe 50 tickets having on them the Combination num-\nbe,s 33 and 81 being the 4h and 5h drawn numbers are\neach Untitled to oV\nThe lo4 tickets saving on them the Combination num-\nbcrs \"a and 49, l8 and 5j being the 9Th and 9Th, a\nthe 7th and S,,,, drawn, are each entitled to ~\nAll others tbeng l3oo having on them any two OF the\ndrawn Numbers, csch entitledlo\nAud the dollar prizes All such tickets as nave Oh\nThem any one of the drawn numbers. being l0,6oS\n\n\nj. B. Yates, \\. Mlntyre\nNewcastle, January s. 1897 M.nsgerss",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 2520,
+                "y0": 3599,
+                "x1": 2746,
+                "y1": 3635
+            },
+            "class": "headline",
+            "raw_text": "January S. 1897",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -3
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2740,
+                "y0": 3647,
+                "x1": 3040,
+                "y1": 3696
+            },
+            "class": "headline",
+            "raw_text": "DRAWING",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -2
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 2828,
+                "y0": 3704,
+                "x1": 2966,
+                "y1": 3732
+            },
+            "class": "author",
+            "raw_text": "OF TIE",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2490,
+                "y0": 2653,
+                "x1": 3291,
+                "y1": 2724
+            },
+            "class": "article",
+            "raw_text": "DED--O Wednesday evening last, MIR. JOSEPH Ro-\nRINSON. Merchant, Of this Borough.",
+            "legibility": "Questionable",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 1671,
+                "y0": 2516,
+                "x1": 2468,
+                "y1": 3714
+            },
+            "class": "article",
+            "raw_text": "In our last paper we gave the letter OF The Vice\nPresident TO the Speaker o the House Of Represent\ns,ives. We this day publish the names Of the Com\nmttee appointed investigate the subject to which\nthe letter refers The charge Of participation IN\nthe Mix contract, by Major Vandevenier, is MI\nnew neither 10 il now ior the first time that an allie\nCATION hos appeared in the papers, thst Mr.. Calhoun\nwas acquainted with tina, circumstance. The fact\nOF participation is admitted letter of Major Vsn-\ndevep,er, published in the Washington Gazette the\npredecessor of the Telegraph, on the 22d OF April\n1925 and the fact that his participation was with the\nknowledge Of Mr.. Calhoun. and that the contract\nwith Mix wa. entered into without the usual notice\nbeing given by public advertisements. was stated IN\nthe report Of the committee of the II OF Reps. upon\nthat subject, made at the close OF the session. and\npublished about that time. We shall take occasion\nto republish the letter and report, with some OBJ\nservatons on the subject, in our next. We cannot\nhowever, refrain from The expression OF our regret\nthat the subject should have been presented to Con\ngress at time when so much and such important\nbusiness is about to come before that body.\n\n\nFor the present, We will only observe that we\nthink there is something in Mr.. Calhoun's commu\nnicaton to the House OF Representatives very oblec\nlionable .. it is capable ofbeng SO construed how\never intended, as to assign cause and origin ,e\nthis occurrence which entirely different from IT.\ntrue cause and origin. \". Journal, Jan. l.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 1922,
+                "y0": 2486,
+                "x1": 2169,
+                "y1": 2508
+            },
+            "class": "headline",
+            "raw_text": "-----s<s 95JJd30 shs--",
+            "legibility": "Questionable",
+            "full_article_id": 20,
+            "reading_order_id": -1
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 1653,
+                "y0": 831,
+                "x1": 2460,
+                "y1": 1215
+            },
+            "class": "article",
+            "raw_text": "The Philadelphia Greek Committee, at meeting on\nthe 1s inst passed the following Resolution\n\n\nResofped unanimously, That the thanks Of this Commit\ntee be presented Mr. WILLIAM POOLE Of Brandywine,\nfor his generous offers TO aid in the collection Of provs\nfor the distressed Greeks that he be requested to\ncontinue his benevolent efforts ;-and that he be- and he\nhereby s appointed Agent for thus purpose, for his neigh\nborllood.\" Signed by order\n\n\nMATHEW CAREY, Chairman.",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 1680,
+                "y0": 4246,
+                "x1": 2482,
+                "y1": 5140
+            },
+            "class": "article",
+            "raw_text": "Washington, January sd.-On Monday last, ac-\ncordips to established usage on New Year day. the\nPresidents house was open ior the reception OF Wis\ntiers, when, Notwithstanding the day was extremely\ncold the President received the congratulations OF\nlarger number than it is believed ever assembled\non any similar or other occasion, in the Executive\nmansion: all the rooms, including the great eastern\nroom, as we'll as the large Hall were crowded to\nexcess, for several hours although there was con.\nsant change Of the company, occasioned by the re\n\n\ntirng Of some and the entrance OF others. The\nforeign ministers generally were present with the\nmembers Of their respective legations; all the Heads\nof Departments, the members Of both Houses OF\nCongress- the principal and other officers OF the Gov\n\n\ncrnment, civil, military, and naval. besides an i'm\n\n\nmense number of strangers, amounting to several\nthousands. The annualfnerchange OF sauta.ons\nbetween the President, OF the United States and the\ncitizens, on the commencement oil The year, gives to\nthe day the peculiar character of Republican tes-\nval the observance Of which, trust, will never be\ndiscontinued. journal.",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 1675,
+                "y0": 3753,
+                "x1": 2477,
+                "y1": 4216
+            },
+            "class": "article",
+            "raw_text": "Washington, December 29.-The recent Conven-\n,ion between tha United States and Great Britain.\nputting an end TO the Commission under the Treaty\nOf Ghent for adudcating compensation to the losers\nof property carried away from the United States after\nthe close OF the late war, has been confirmed by the\nSenate Of the United States, and, having been sub.\nnitted to that body by the Presidents will doubtless be\nratified by him. BY ths, Convention SPECIFIC sum\n/. awarded Tor she satisfaction Of all the claims which\ni, to be distributed amongst them by the authority\nOf the Government of the United Ststes-Intel.",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 1653,
+                "y0": 748,
+                "x1": 2424,
+                "y1": 801
+            },
+            "class": "article",
+            "raw_text": "ndgnantlyupon dawning attempt to alien\none portion of the Union anoher.h WASHINGTON",
+            "legibility": "Questionable",
+            "full_article_id": 27,
+            "reading_order_id": 0
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 3576,
+                "y0": 303,
+                "x1": 4572,
+                "y1": 4233
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 30,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                17,
+                0
+            ],
+            "headline": "DELAWARE LEGISLATURE.",
+            "article": "The Legislature Of this State assembled at Dover,\non Tuesday and elected archibald Hamilton, Esq.\nSpeaker Samuel NJ. Harrington, Esq CIerk-and\nVincsnt Vandeuer Sergeant at.Arms. The Senate\ndid not organize until Wednesday afternoon. when\nCol. Henry Whiteley was chosen Speaker-Henry\nStout, Esq. Clerk-and John Cats Sergeant. at.\nArms The Governors Message was to be deliv\ncred yesterday.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1759,
+                    "y0": 1258,
+                    "x1": 2350,
+                    "y1": 1303
+                },
+                {
+                    "x0": 1658,
+                    "y0": 1306,
+                    "x1": 2455,
+                    "y1": 1703
+                }
+            ],
+            "bbox": [
+                1658,
+                1258,
+                2455,
+                1703
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-01-05_p3_sn82014894_00271740219_1827010501_0022.json"
+        },
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "ICEBERGS.-Tte ship Frederick Augustus.\nEarle which arrived II Newport( r. /. )psssed off\nCape Horn. October, lOh, forty one large Islands\nof Ice, several Of them supposed be eight nine\nmiles in lengih and very high--,he atmosphere was\nexceedingly cold in the vicinity Of the Ice and the\nSpray froze Immediately on The sails and rigging\n\n\nPHILADELPHIA. Dec. 29th.-A graveyard short\ndistance OF the Permanen Bfidge, was violated\nabou. two weeks ago. Three or four graves we're\nopened and the bodies taken lherefrom. A\nshocking spectacle was presented the following\nmorning. The graves were no, filled; the coffins\nremained above ground, and the shrouds were srewn\nabout. They remained in this condition several\ndays, as the person who has the care Of The yard\nwbs absent.\n\n\nOne Of the pilots on Wednesday morning picked\nup man, il yawl, in the neghbourhood OF the\nPoint House. F,om the joint effects OF cold ard in\noxication, he was speechless; but by proper aten-\nlion far restored 10 his senses to be able to\nstate that he belonged 10 the brig James Lawrence,\nwhich is now lying in ,he neiehbourhood Of Reedy\nIsland land tina, he had been drifting about in the\nriver for the preceding thirty six hours. His hands\nand fee, were severely frost bitten. He has been\nsen, to the Hospital.\n\n\n.Ne,o York, Dec. 27.\n\n\nrHENxwMAYoR WIN. Psulding Esq. was yes.\nterday elected mayor Of this city fer the year ensu-\ning. This gentleman was the predecessor, as he is\nto be the SUCCESSOR of Mr. Hone.\n\n\nRochester, \". Tork. Dec. 13.-The doubts and\nuncertainty which still mystify the Batavia affair,\ngive Increased interest and add fresh zeal 10 the\ngeneral inquiry Of \" Where is Morgan 2\" The\nquestion is in the mouth Of the whole community.\n1t is The all absorbing topic Of conversation and the\ninquiry, like the school-boy's snow ball, acquires\nstrength and magnitude, the farther it is pursued.\nAs yet, nothing is known beyond the fact that Nor\ngan is gone-but where, whether he be alsr or\ndead We are unable TO say. Telegraph.\n\n\nPhiladelphia. Dec 23.-The question Of the au-\nthorship Of the Wavery novels, was considered as\nsettled by the exposition Of affairs, consequent upon\nthe failure o Constable x Co. the publishers. Still,\nhowever. there some no scepiical, notwith-\nstanding the life of Napoleon, avcwediy written By\nSir Walter Scott, is announced in the London pa\npers, as f om the pen of the author of Wavely On\nWednesday we saw letter unquestionsbly authen-\n,icated IS coming from Sir Walter Scott and signed\n\" TIE .duthor Of Warerly.\" The writer, had at\nfirst designed subscribing il with his proper name !;\nWaHer was written, aud erased with stroke OF the\npen, but still eeible The letter is on the subject\nOf the Lite OF Napoleon. Franklin Gazette.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2476,
+                    "y0": 224,
+                    "x1": 3296,
+                    "y1": 2632
+                }
+            ],
+            "bbox": [
+                2476,
+                224,
+                3296,
+                2632
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-01-05_p3_sn82014894_00271740219_1827010501_0022.json"
+        },
+        {
+            "object_ids": [
+                30,
+                2
+            ],
+            "headline": "BOSTON, DEC. 25.",
+            "article": "BOSTON, DEC. ZJ\nOn Saturday last, Judge Story pronounced sen\ntrnce of death upon Charles MarchAnt and Win\nSLOW Curtis, convicted Of the murder Of Captain Ed\nward Se.frdee. of the schooner Fairy, and Thomas\nr. Jeokns his mate\n\n\nWhen the Judge had concluded, Marchant a\nbused The Judge, Jury and District Attorney in the\nmost impious and insulting language. Cults,\nthough not SO violent also evnced The depravity OF\nhis heart by his observations and we believe no\nCourt OF Justice in this country ever before witness\nI'd such an exhibition Of hardened impenitence as\nthese miscrrants pI Iesented.\n\n\nThe sentence is to be executed on Thursday, the\nGrs day Of February. Pat.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1350,
+                    "y0": 4716,
+                    "x1": 1632,
+                    "y1": 4748
+                },
+                {
+                    "x0": 870,
+                    "y0": 4730,
+                    "x1": 1668,
+                    "y1": 5311
+                }
+            ],
+            "bbox": [
+                870,
+                4716,
+                1668,
+                5311
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-01-05_p3_sn82014894_00271740219_1827010501_0022.json"
+        },
+        {
+            "object_ids": [
+                16,
+                3
+            ],
+            "headline": "NOTICE..",
+            "article": "4 IL persons having claims the Borough Council Of\nIN the Borough of Wilmington, will please present their\naccounts on or before the first Wednesday each month,\neither of the undersigned JOSEPH GRUBB,\n\n\nDAVID BUSH,\n\n\nJAMES GARDNER,\n\n\nCommittee Of Accounts.\nJanuary s. lBo7 17-.4t",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2758,
+                    "y0": 3330,
+                    "x1": 3010,
+                    "y1": 3375
+                },
+                {
+                    "x0": 2494,
+                    "y0": 3388,
+                    "x1": 3304,
+                    "y1": 3635
+                }
+            ],
+            "bbox": [
+                2494,
+                3330,
+                3304,
+                3635
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-01-05_p3_sn82014894_00271740219_1827010501_0022.json"
+        },
+        {
+            "object_ids": [
+                18,
+                4
+            ],
+            "headline": "FOR THE WhTcHMAN.",
+            "article": "have observed in several newspapea notice of an in\nienton in way suppress ubvate the unpleasant\nsound arising from The discharge Of Steam from the boilers\nOf Steam Boats. This has brought to my recollection what\n\n\nhave often thought Of in my various passages in the DIFF\nerent boAs that have been in-and mention it for\nthe consideration Of persons owning such boats have\n\n\nften thought that if had the liberty Of using the power\nso elected from the boilers, and desirous Of giving\nThe bel) would afx trumpet to the top of the\nppc capable Of being turned round every sideand\nwhich am persuaded would give off sound that would\nbe heard much greater distance than the bell com\nmonty made of-cspecal if the trumpet was Of brass\nand of large size. MENTOR",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1891,
+                    "y0": 1936,
+                    "x1": 2257,
+                    "y1": 1972
+                },
+                {
+                    "x0": 1667,
+                    "y0": 1980,
+                    "x1": 2468,
+                    "y1": 2478
+                }
+            ],
+            "bbox": [
+                1667,
+                1936,
+                2468,
+                2478
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-01-05_p3_sn82014894_00271740219_1827010501_0022.json"
+        },
+        {
+            "object_ids": [
+                13,
+                5
+            ],
+            "headline": "DIVIDEND.",
+            "article": "il the State of Delaware have this day declared dvi\nded the rate of Five per per anum for the last\nhayear the Capital Stock of the institution payable\n\n\nthe Stockholders their legal representatives, any lime\nafter the 9th inst. C. +. COMEGYS, Cash'r\n\n\nDover Jan. 2, 1897 17-3t",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2732,
+                    "y0": 3044,
+                    "x1": 3049,
+                    "y1": 3094
+                },
+                {
+                    "x0": 2481,
+                    "y0": 3097,
+                    "x1": 3300,
+                    "y1": 3318
+                }
+            ],
+            "bbox": [
+                2481,
+                3044,
+                3300,
+                3318
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-01-05_p3_sn82014894_00271740219_1827010501_0022.json"
+        },
+        {
+            "object_ids": [
+                15,
+                6
+            ],
+            "headline": "For RENT.",
+            "article": "yUSIAT valuable and highly mpr we'd FARM formerly\nIl belonging to THoMAs Liza, adjoining the village OF\nBrandywne and also FARM containing 500 acres ct\nland the Buck Tavern, encader Hundred. Posses\nbe given the 25th Of March next. Apply to\n\n\nEDWARD TATNALL.\nJan. Cd, 1927. 17-tf JAMES PRICE.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2723,
+                    "y0": 2754,
+                    "x1": 3045,
+                    "y1": 2803
+                },
+                {
+                    "x0": 2485,
+                    "y0": 2811,
+                    "x1": 3296,
+                    "y1": 3032
+                }
+            ],
+            "bbox": [
+                2485,
+                2754,
+                3296,
+                3032
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-01-05_p3_sn82014894_00271740219_1827010501_0022.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "Delauuare Hoes.-Mr. CoRsgLrUs CouLTlR, Merchant,\nOf Milton, Dell killed few days ago, two hogs raised by\nhimself which less than two years old Of which\nweighed 635 lbs.-the other 580-lnaking total Of 1915\nlbs.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1658,
+                    "y0": 1729,
+                    "x1": 2460,
+                    "y1": 1888
+                }
+            ],
+            "bbox": [
+                1658,
+                1729,
+                2460,
+                1888
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-01-05_p3_sn82014894_00271740219_1827010501_0022.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "The the most huIlDc iHINuiai. ~ \"c\n\n\ndesired was that should be done IN way not 10 interfere\n@ The rights Of some States under the plea Of protecting\nthe rights of other States. -, ),\n\n\n&c Ana he instructed to report to this House an abstract\n\n\nal in force in the District of Columbia IN aywise\naffecting the liberty Of the pers.n a.a @'e.her g. any; ~\nhv The legislatures Of the States OF Maylai or virginia.\n\n\nwhich motion he accompanied with . lew remarks OF\nexplanation a., H. ur yo,r.u uho\n\n\nhght i ,mposed an necessary labor the Committee\nOf the District Of Columbia and the question beng taken,\nit negatived ~, .;;., ,,;\nOf Mr.. Tard, and carried by large majority.\n\n\nTuesday, JANuARY2.\n\n\nIN SENATE.\n\n\nA, half past twelve o'clock the Vice President\n,a, annearing to take the Chair OF the Senate,\n\n\nMr. Holmes rose, and, addressing the Secretary,\nmoved that the Senate proceed TO the election OF\nPresident pro 'empoe.\n\n\nThe question being put to the Senate by the Sec\n\n\nreary, the motion wa agreed to, mem. con- and,\n\n\nan counting the ballots, it appeared that the whole\nnumber given in was forty six necessary to choice\ntventy.four. The following was the state Of the\n\n\nyote for Mr.. Macon. 24-For MIR. Smith Of Ma\n\n\nryland l3-Scauering, 9.\nMIR. Macon having received majority OF the\n\n\nwhole number OF woes given, was detlared duly\n\n\nelected President Of the Senate pro iempore, and\n\n\nbeing conducted to the Chair, made his acknowledg-\n\n\nments TO The Senate for the honor conferred on him.\n\n\nand took his scat.\n\n\nOn motion Of Mr. Wuodbury il was ordered that\nthe Secretary inform the Pre- sd.nt oI the Unltsd\n\n\nStates and the House oil Representatives OF the elec\nlion Of Mr. Macon as President OF the Senate pro\ntempore.\n\n\nMr. Harrison, from the Committee on Military\nAffairs reported the bill to prevent desertons from\nThe Army, and or other purposes, without amend\nment.\n\n\nNj. Tan Buren, from the Committee the Ju-\ndietary reported the biIl to provide for reports OF\nthe decisions OF the Supreme Court OF the United\nStates without amendment.\nThe order OF the day was called and the bill TO\nestablish unifo'm m system OF Bankruptcy through\nou the United States was taken up to which eat\nnumber OF verbal amendments we're oferedhy Mr.\nH1qle and Mr.. Bprrien. from the Committee, and\nwere agreed to. Several other amendments were\nmade on the motions OF Messrs Hdyhe and Deffa\nen-\n\n\nMr. Holmes said hat he would propose section\n10 Be added a, the end pf he bill, whenever it should\nbe closed 1t was. \"And be i, fut,her enacted ha'\nthis ac shall be, ard continue in force, tor the term\n\n\nOF five years. from thence 70 the rnd Of the next\nsession of Congress, and no longer\nMr. Holmps, said that hi, reason ior offering this\nsection was that the bill now under consideration\nwa. merely an experment; he called il so, because\n,\nHouse OF r. presenta'ives ny the as ing vote OF the\nSpeaker 1t was m ed as he proposed to limit this\nThe bill had not been in optt alton su about three\nwears when it repealed by an overwhelming\nmajority. That experiment feed; aud should this\nsucceed no better, lie wished that The peiod o u.\nexistence might be pointed out II u should sue\n\n\nceed, il would DC easy to perpetaae u by .utue leg\nslation.\n\n\nThe amendment Of Mr. Hqimes ag,eed to\nMr. HaYne moved lha, the bill, vi b ihc amend\n\n\nments, be prin'ed; uh,,n was agreed 10\nHOUSE OF REPRESENTATIVES,.\nAmong The petitions which were very numerous\npresented this ,lay there were the following;\nBy Mr. II ebsier, OF Merchants OF Boston ant\nmanufactu' ers of rotdagt. irom Russia hemp fo\nthe allowance OF drawback on the exportaton o\ncordagc so made.\n\n\nBY Mr.. ,Hcieau. Of Ohio, petition signed BY\nmany hundreGs Of citz-hs OF the States OF Pennsyl\nvania, Delaware, MARYLAND. Virginia, and Ohio\npraying the aid Of Congress towards a scientihc ex\npedilion to the Northern or Southern Pole\nThe petition referred to the Commitee OF\nNaval Affairs\n\n\nMr. WeIster, from the Committee on the Judi\nclary, reported bill 10 establish uniform System\nOf Bankruptcy throughout the United States; whlcl\nwas twice read and committed to Committee G\nthe whole House.\n\n\nMr.. Webster said that he should move the con\n,idel alton Of this bill on \"Wednesday the 18th in\n\n\nslant.\n\n\nMr.. Buckner, from the Committee on Privst\nLand Claims, made an unfsvnrable report on III\npetition Of Agnes alacke, of London (Eng whic\nreport was laid on the table.\nMr. Livingston moved the following resolution\nResolved, That the Committee Of Ways an\nMeans be instructed to prepare and bring IN b'\nmaking appropriation Of $50 600, to be expcnde\n\n\nunder the direction Of the President in the purchas\nH. AAr rtp\ninhabitants of Greece.\n\n\nAn eloquent debate on this resolrton took place.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 8,
+                    "y0": 356,
+                    "x1": 832,
+                    "y1": 4572
+                }
+            ],
+            "bbox": [
+                8,
+                356,
+                832,
+                4572
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-01-05_p3_sn82014894_00271740219_1827010501_0022.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "| Ways and Means be directed 10 report bill to\nthis House, which shall make ample provision for\nreiundng with lawful interest, to all persons who\nNAV have suffered in pccnnisry penalties under the\nsaid Law, Of July IA, 1898, commonly called the\nSedtlon Law, but entitled \" An act in addition to\nan act for the punishment Of certain crimes against\nthe United Sa,es\" the amounts which they may\nhave paid to the respective Marshals of the Dis\nlrct Courts empowered TO levy and receive the said\nfines; and in case Of The DEATH or absence from\nthe United States, oi any Of the said parties, then\nTO their legal representatives. to such person OF\npersons may be duly authorized to receive the\nsame.\n\n\nMIR. II. then gave notice that he would call up\nthe consideration OF this resolution on the Sd Mon\nday OF the present month.\n\n\nMr.. Nc Lane, Chai man Of the Committee oil\nWays and Means, hoped that the gentleman would\nSO modify his resolution give it different di\nrec,'on. lie thought tha, the inquiry il presented\nwas not appropriate to the Committee OF Ways and\nMeans The subject turned entirely ON point o\nlegal Interpretation; on the question, whether\ncertain law was or was not Constitutional? Thi.\ncertainly was question for the consideration of tn,\nCommittee the Judiciary. and not the Commit\ntee OF Ways and Means. Not every subject which\neventually involved appropriation Of money\ncame properly before the Committee of Ways ans\nMeans, but was to be referred according to ths\n\n\n\n\n\n70 erect forthca,ion a, designated point. This\nto be sure, would eventually call for an sppropria\niion Of money; but the question whether it wa\nproper to erect the fnrtiGc aion TO be deci\nded by the Committee Military Affairs. TIL,\npresent re oution proposed question the refund\ning Of money eceived into the Treasury in 4 manne\nsaid be unconstitutional The first question to b\nsettled was the unconsli,u'ionaty Of the law refer\nred to- and This the COMMITTEE Of Ways and Mean\nha.~ a., hnl ss.h h.f.v\ne; emhatrass or 10 impede the inquiry. but mere\nly desired it should be referred to the appropriat\ncom mtee.\n\n\nMr. HdmiH0n said, that, when the resolutio\nshould be called up, il. in the progress o the dis\ncusson, the House should be OF opinion that it ougt\nto 20 to the Committee OH the Judiciary, he shoul\ncertainly not object 10 the reference. The hon\nable gentleman from Delaware was, however ,unde\nmisapp, ehension to the tenor and effect of th\nre solution. 1t did not refer the question of const\ntuionaliiy 10 The Committee of Ways and Near\nbut the appropriation merely. The other questo\nmust be decided by the solemn finding Of III\n\n\nHouse. He renewed his motion to lay il on Ii\n\n\ntable; which was agreed to.\n\n\nFrom The Nat. Mtellig,ncer, December 90.\naccident prevented the full report Of Mr.. M\nD!De's Remarks, on Wednesday upon Mr.. Uard\nResolution, which follows, from being introduce\n\n\nIN The Dens.e, in its proper order:\n\n\nMr.. .NcDafe said he sorry the gentlems\n, from N. York had accepted the modification II\nthought the resolution as it now stood decided\nc moe exceptonabe than i could be regarded as\nwas originally presented. He was perfectly wilin\n\n\nfor his own part, extend to the citizens OF all\n\n\nStates whatever mi. ht be their color, any and evel\n, privilege to hioh such citizens entitled. Whct\nS er any particular description OF persons are \" cit\n5 zens OF the Tnitsd States\" might be question\n\n\nbut when the Representative OF State alleges,\n\n\nThis floor, that the liberty Of citizen Of that Sta\n\n\nhas been violated by the laws OF a District ov\n\n\nwhich Congress holds exclusive jurisdiction, it\n\n\nthe undouoled and sacred RIGHT Of the person\n\n\nella ming to be citizen, to be heard through h\n\n\nRepresentative. The proposed inquiry ought, ther\n\n\nfore. 70 be instituted upon principles of the mo\n= obvious Justice lot he wished it to be distinctly VI\n\n\neler.tocd, that while he should vindicatc with nrn\nness all the rights which he represented whenev\ny or however they might be sssaed, he was for a\ny codn every other member, in Its fullest cxter\n\n\nthe same constitutional privilege. For his own pal\n= he viewed this as question not at all calculated\n! excite the stnsbility OF the Representatives tro\n, the slave holding States. They certainly do u\nclaim by any special preroga,ive to be the advocat\n\n\nOf slavery wherever it may exist. On the contrar\ny II il shall appear that the laws OF the District\n\n\nColumbia have been made the instrument oil o\n! preston, committed on a person claiming 20 be\nn citizen Of New York-and he was free to decla\ny his in,pre ssion that each State had right to dete\n! nine Tor itself who should enjoy that privilege.\n\n\nhen has an outrage been committed. which q\nRepresentatives from the South and the North a\n! qually bound to discountenance and it we wou\n\n\navoid he imputation Of giving our sanction to q\ne obnoxious proceeding. the law by which it was a\n&c ,horized, should be promptly repealed Who\nN anticipating any ultimate questions TO which the i\n\n\nqury might lead, he would conclude with the r\n) MAJ k, that, if any privilege OF = citizen OF M\nI'd York has been violated through The laws or tribune\nIII Of this District, this body is bound, by every pr\nID clple Of policy, justice. end humanity, TO afford",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 822,
+                    "y0": 224,
+                    "x1": 1632,
+                    "y1": 4427
+                }
+            ],
+            "bbox": [
+                822,
+                224,
+                1632,
+                4427
+            ],
+            "full_article_id": 10,
+            "id": "10_1827-01-05_p3_sn82014894_00271740219_1827010501_0022.json"
+        },
+        {
+            "object_ids": [
+                10
+            ],
+            "headline": "",
+            "article": "The Baltimore Gazette of Friday last states that large\nnumber of highly respectable free coored people pre-\npairing embark in the brig Doris ~hch is = sail from\nthat port in few days, for Liberia",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1680,
+                    "y0": 5161,
+                    "x1": 2486,
+                    "y1": 5302
+                }
+            ],
+            "bbox": [
+                1680,
+                5161,
+                2486,
+                5302
+            ],
+            "full_article_id": 11,
+            "id": "11_1827-01-05_p3_sn82014894_00271740219_1827010501_0022.json"
+        },
+        {
+            "object_ids": [
+                28,
+                14,
+                27,
+                11
+            ],
+            "headline": "January S. 1897\n\nDRAWING",
+            "article": "OF THE\n\n\nDelamare State Lottery Fifth Class.\nFor the benefit Of Newark College, Mddleown Academy\n\n\nand Emmanuel Church.\n\n\nThe Subscribers having been requested 10 superintend\nthe Drawing Of the Delaware STATE Lottery Fifth Cass, do\nthis day drawn from the sixty numbers placed in the Wheel\nviz.\n\n\n6o-3o-51-3s-3 -3+-3e-55-1s\nAnd that the said numbers drawn in the order in\nwhich they stand above that is to say, No. 60, was the\nFirst-No. 80, was the Second,-Nc ST. was the Third\nNo. So, was the Fourth,-No. 3d. was the Fhh,-No-\nSO, was the Sixth,-No. SIS, the Serenth-and No.\nIs, the Eighth and last.\n\n\nWitness our hands, Newcastle this Sd day of January\n1897.\n\n\nTHO: w. RoGERS, JAMES BOOTH, Jr.\n\n\nC. ID. BLANEY.\n\n\nFrom the preceding certificate il will be seon what NUM-\nbers were drawn from the Wheel for determining the pr\nthe Delaware State Lottery 5th Glass; with the order\nwhich they drawn and the Managers announce to\nthe Public the following result\n\n\nThe Tickets which drew the lS highest Prizes. are\nthose having them for combination Numbers. - 81 60\n33 \"a 80, 1000; Is SO IS, l,5l. 33 \"a 55 Is\n50 34 SO SO 55 18 55 SO; 18 55 SIS; each 1000 1S 35\n81 81 80 5l \"a 81 IS; is \"a 81; 80 81 S. Is 81 81\nl8 81 IS: \"a SO 55; IL \"a 39 IL \"a IS each S40O.\nAll Others with three Of the drawn numbers them.\nbeing SO, are each entitled TO aprize Of 800\nThe 50 tickets having on them the Combination num-\nbe,s 33 and 81 being the 4h and 5h drawn numbers are\neach Untitled to oV\nThe lo4 tickets saving on them the Combination num-\nbcrs \"a and 49, l8 and 5j being the 9Th and 9Th, a\nthe 7th and S,,,, drawn, are each entitled to ~\nAll others tbeng l3oo having on them any two OF the\ndrawn Numbers, csch entitledlo\nAud the dollar prizes All such tickets as nave Oh\nThem any one of the drawn numbers. being l0,6oS\n\n\nj. B. Yates, \\. Mlntyre\nNewcastle, January s. 1897 M.nsgerss",
+            "byline": "OF TIE",
+            "bbox_list": [
+                {
+                    "x0": 2520,
+                    "y0": 3599,
+                    "x1": 2746,
+                    "y1": 3635
+                },
+                {
+                    "x0": 2740,
+                    "y0": 3647,
+                    "x1": 3040,
+                    "y1": 3696
+                },
+                {
+                    "x0": 2828,
+                    "y0": 3704,
+                    "x1": 2966,
+                    "y1": 3732
+                },
+                {
+                    "x0": 2494,
+                    "y0": 3709,
+                    "x1": 3313,
+                    "y1": 5197
+                }
+            ],
+            "bbox": [
+                2494,
+                3599,
+                3313,
+                5197
+            ],
+            "full_article_id": 12,
+            "id": "12_1827-01-05_p3_sn82014894_00271740219_1827010501_0022.json"
+        },
+        {
+            "object_ids": [
+                12
+            ],
+            "headline": "",
+            "article": "DED--O Wednesday evening last, MIR. JOSEPH Ro-\nRINSON. Merchant, Of this Borough.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2490,
+                    "y0": 2653,
+                    "x1": 3291,
+                    "y1": 2724
+                }
+            ],
+            "bbox": [
+                2490,
+                2653,
+                3291,
+                2724
+            ],
+            "full_article_id": 13,
+            "id": "13_1827-01-05_p3_sn82014894_00271740219_1827010501_0022.json"
+        },
+        {
+            "object_ids": [
+                31,
+                19
+            ],
+            "headline": "-----s<s 95JJd30 shs--",
+            "article": "In our last paper we gave the letter OF The Vice\nPresident TO the Speaker o the House Of Represent\ns,ives. We this day publish the names Of the Com\nmttee appointed investigate the subject to which\nthe letter refers The charge Of participation IN\nthe Mix contract, by Major Vandevenier, is MI\nnew neither 10 il now ior the first time that an allie\nCATION hos appeared in the papers, thst Mr.. Calhoun\nwas acquainted with tina, circumstance. The fact\nOF participation is admitted letter of Major Vsn-\ndevep,er, published in the Washington Gazette the\npredecessor of the Telegraph, on the 22d OF April\n1925 and the fact that his participation was with the\nknowledge Of Mr.. Calhoun. and that the contract\nwith Mix wa. entered into without the usual notice\nbeing given by public advertisements. was stated IN\nthe report Of the committee of the II OF Reps. upon\nthat subject, made at the close OF the session. and\npublished about that time. We shall take occasion\nto republish the letter and report, with some OBJ\nservatons on the subject, in our next. We cannot\nhowever, refrain from The expression OF our regret\nthat the subject should have been presented to Con\ngress at time when so much and such important\nbusiness is about to come before that body.\n\n\nFor the present, We will only observe that we\nthink there is something in Mr.. Calhoun's commu\nnicaton to the House OF Representatives very oblec\nlionable .. it is capable ofbeng SO construed how\never intended, as to assign cause and origin ,e\nthis occurrence which entirely different from IT.\ntrue cause and origin. \". Journal, Jan. l.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1922,
+                    "y0": 2486,
+                    "x1": 2169,
+                    "y1": 2508
+                },
+                {
+                    "x0": 1671,
+                    "y0": 2516,
+                    "x1": 2468,
+                    "y1": 3714
+                }
+            ],
+            "bbox": [
+                1671,
+                2486,
+                2468,
+                3714
+            ],
+            "full_article_id": 20,
+            "id": "20_1827-01-05_p3_sn82014894_00271740219_1827010501_0022.json"
+        },
+        {
+            "object_ids": [
+                20
+            ],
+            "headline": "",
+            "article": "The Philadelphia Greek Committee, at meeting on\nthe 1s inst passed the following Resolution\n\n\nResofped unanimously, That the thanks Of this Commit\ntee be presented Mr. WILLIAM POOLE Of Brandywine,\nfor his generous offers TO aid in the collection Of provs\nfor the distressed Greeks that he be requested to\ncontinue his benevolent efforts ;-and that he be- and he\nhereby s appointed Agent for thus purpose, for his neigh\nborllood.\" Signed by order\n\n\nMATHEW CAREY, Chairman.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1653,
+                    "y0": 831,
+                    "x1": 2460,
+                    "y1": 1215
+                }
+            ],
+            "bbox": [
+                1653,
+                831,
+                2460,
+                1215
+            ],
+            "full_article_id": 21,
+            "id": "21_1827-01-05_p3_sn82014894_00271740219_1827010501_0022.json"
+        },
+        {
+            "object_ids": [
+                21
+            ],
+            "headline": "",
+            "article": "Washington, January sd.-On Monday last, ac-\ncordips to established usage on New Year day. the\nPresidents house was open ior the reception OF Wis\ntiers, when, Notwithstanding the day was extremely\ncold the President received the congratulations OF\nlarger number than it is believed ever assembled\non any similar or other occasion, in the Executive\nmansion: all the rooms, including the great eastern\nroom, as we'll as the large Hall were crowded to\nexcess, for several hours although there was con.\nsant change Of the company, occasioned by the re\n\n\ntirng Of some and the entrance OF others. The\nforeign ministers generally were present with the\nmembers Of their respective legations; all the Heads\nof Departments, the members Of both Houses OF\nCongress- the principal and other officers OF the Gov\n\n\ncrnment, civil, military, and naval. besides an i'm\n\n\nmense number of strangers, amounting to several\nthousands. The annualfnerchange OF sauta.ons\nbetween the President, OF the United States and the\ncitizens, on the commencement oil The year, gives to\nthe day the peculiar character of Republican tes-\nval the observance Of which, trust, will never be\ndiscontinued. journal.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1680,
+                    "y0": 4246,
+                    "x1": 2482,
+                    "y1": 5140
+                }
+            ],
+            "bbox": [
+                1680,
+                4246,
+                2482,
+                5140
+            ],
+            "full_article_id": 22,
+            "id": "22_1827-01-05_p3_sn82014894_00271740219_1827010501_0022.json"
+        },
+        {
+            "object_ids": [
+                22
+            ],
+            "headline": "",
+            "article": "Washington, December 29.-The recent Conven-\n,ion between tha United States and Great Britain.\nputting an end TO the Commission under the Treaty\nOf Ghent for adudcating compensation to the losers\nof property carried away from the United States after\nthe close OF the late war, has been confirmed by the\nSenate Of the United States, and, having been sub.\nnitted to that body by the Presidents will doubtless be\nratified by him. BY ths, Convention SPECIFIC sum\n/. awarded Tor she satisfaction Of all the claims which\ni, to be distributed amongst them by the authority\nOf the Government of the United Ststes-Intel.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1675,
+                    "y0": 3753,
+                    "x1": 2477,
+                    "y1": 4216
+                }
+            ],
+            "bbox": [
+                1675,
+                3753,
+                2477,
+                4216
+            ],
+            "full_article_id": 23,
+            "id": "23_1827-01-05_p3_sn82014894_00271740219_1827010501_0022.json"
+        },
+        {
+            "object_ids": [
+                26
+            ],
+            "headline": "",
+            "article": "ndgnantlyupon dawning attempt to alien\none portion of the Union anoher.h WASHINGTON",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1653,
+                    "y0": 748,
+                    "x1": 2424,
+                    "y1": 801
+                }
+            ],
+            "bbox": [
+                1653,
+                748,
+                2424,
+                801
+            ],
+            "full_article_id": 27,
+            "id": "27_1827-01-05_p3_sn82014894_00271740219_1827010501_0022.json"
+        }
+    ]
+}

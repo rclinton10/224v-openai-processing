@@ -1,0 +1,654 @@
+{
+    "lccn": {
+        "title": "The Litchfield County post.",
+        "geonames_ids": [
+            "4837799"
+        ],
+        "dbpedia_ids": [
+            "Litchfield%2C_Connecticut"
+        ],
+        "issn": "",
+        "lccn": "sn82014309",
+        "start_year": "1826",
+        "end_year": "1829",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [
+            "sn84020071"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn82014309",
+        "edition": "ed-01",
+        "date": "1827-05-24",
+        "pages": [
+            "seq-3",
+            "seq-2",
+            "seq-4",
+            "seq-1"
+        ]
+    },
+    "page_number": "1",
+    "scan": {
+        "lccn": "sn82014309",
+        "edition": "ed-01",
+        "date": "1827-05-24",
+        "page": "1",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-05-24/ed-1/seq-1.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-05-24/ed-1/seq-1/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-05-24/ed-1/seq-1/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/ct_barnum_ver01/data/sn82014309/00414182926/1827052401/0185.jp2",
+        "height": 7262,
+        "width": 4995
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 199,
+                "y0": 5894,
+                "x1": 1108,
+                "y1": 6996
+            },
+            "class": "article",
+            "raw_text": "The following are Dr. Franklin's humorous remarks, as contained in one of his letters, concerning the bird which was chosen for the\n\n Others object to the Bald Eagle, Says he, 4 as looking too much like Dindon or Fur key. For my own part, wish the Eagle had not been chosen the representative of our country; he is bird ofa bad moral character :: he does not get his living honestly; you may have seen him perched on some dead tree :: where. too lazy to fish for himself, he watches the labor Of the Fishing Hawk; and when that dlligent bird has at length taken fish, and is bearing it to his nest for the support of his mate and young ones, the Bald Eagle pur- sues and takes it from. With all this injustice he is never in good case; but like those among men who live by sharping and robbing, he is generally poor, and often very lousy. Be- sides, he is a rank coward; the little King olrd: not bigger than sparrow, attacks him boldly, and drives him out of the district. He is' therefore, by no means proper emblem for the brave and honest Cincinnati of Amer",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1130,
+                "y0": 5769,
+                "x1": 2016,
+                "y1": 7002
+            },
+            "class": "article",
+            "raw_text": "From Liverpool paper cf March, 3,\n\n On Monday week, James Clegg, was fined in the mitigated penalty of 1Ok. be- fore James Lees, Esq. of Clarks6eld, for being out with dog and gun, Oith an in- tent 10 kiH game.\n\n Last Friday morning, as young man, was passing, with cartloadNo of goods through wood, in the neighborhood of Brierley, the horse set his foot on the wire of spring gun, which had been laid across the road it went of, and the contents were lodged in the shoulder of this valua- ble animal fortunately the man was on the contrary side, and thus escaped. We would indulge the hope that the day is not far distant, when the legislature of our country shall effectually put stop to this barbarous custom.\n\n On Friday night as the game keeper of Thomas Leigh, Esq. M. P. was on the look out, he observed some men poaching; when they saw him they endeavored to make theirsescape, but the keeper pursued one of them, called out to him to stop.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1130,
+                "y0": 5667,
+                "x1": 1999,
+                "y1": 5765
+            },
+            "class": "headline",
+            "raw_text": "ENGLISH LIBERTY. EXHIBITED IN\n\n THE GAME LAWS!",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -2
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 1215,
+                "y0": 5775,
+                "x1": 1942,
+                "y1": 5821
+            },
+            "class": "author",
+            "raw_text": "From e Liuerpool r,aper Of March, 3,",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 216,
+                "y0": 907,
+                "x1": 1125,
+                "y1": 1952
+            },
+            "class": "article",
+            "raw_text": "To subscribers in this village, aud subscribers 6y mat or by post carriers, TWO DOLLARS per gear, payable im Gdvance. To companies Jess aba\" Ten, by mail. or token from the cdicc aUcre there is joint responsibility, or Chere one idtUid~al is responsible, S1 ,5O per gear, in ad- Uance. To tike companies of more ttan ten. S1,- s5 per year, ia udv0nce.-Where paynent is de- tGyed to the cad c the gear 95 cts. ,CiH be added to e0ch cf the GboUc prices.\n\n No papers sCiN De discontinued until oN or- reorages are poid, except at the discresiom ofthe publisher.\n\n ADVERTISING.\n\n For half q square, three insertions, or less, 75 cents ;-ore than hal ia square, and less than sq\"are, e7 1-g ccnts ;-:tor one sguare, S1, ,OO ]; -7\"d in the same proportion for more than square; for confirming advertisements more than three weeks, 20 per cent per sOeek 0iu be charged.\n\n PROBATE NOTICES. Administrators' aud Executors S1,oO C0n'n'sSSloners $1,25",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 284,
+                "y0": 692,
+                "x1": 1080,
+                "y1": 823
+            },
+            "class": "headline",
+            "raw_text": "BY s. S. SMITH. EDITOR AND PROPRIETOR.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -2
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 545,
+                "y0": 856,
+                "x1": 802,
+                "y1": 897
+            },
+            "class": "headline",
+            "raw_text": "TIER \"9,",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2043,
+                "y0": 816,
+                "x1": 2929,
+                "y1": 6258
+            },
+            "class": "article",
+            "raw_text": "said sol went of, and wounded the poor\n\n wretch most dreadfulIy in the back and pos\n\n teriorS.\n\n The Duke of Buckingham and his\n\n friends closed the shooting season at Aving- ton with unparalleled success. On the\n\n last day were bagged, in one coppice alone, $50 pheasants, 109 hares, and 116 rabbits;\n\n which with thirteen previous days sport,\n\n made grand total of 1000 head !-475\n\n head in one copse !! This is the kind of\n\n butchery which makes 1t necessary to SUD-\n\n port the game laws. The system destroys\n\n the true character of sporting, as well as\n\n the character of the peasantry.\n\n Last summer Mary Marshall, young\n\n woman of good character, was wedding in\n\n field, along with some other women,\n\n when they found nest containing some\n\n eggs. As they did not suppose that there\n\n was any crime in taking the eggs of wild\n\n bird, they agreed to divide them, and as\n\n she happened to have basket with her,\n\n they were put into it, and carried home\n\n when their labour was over. The cir\n\n cumstances coming to the knowledge of the game-keeper, he laid an information against her, and the poor girl finding she had committed an offence against the game laws, and fearful of the consequences, left her home, and went to Noting ham, where she was taken into the service of Mr. Swanwick, of the Kings Head Tavern. Here her conduct was quite in accordance with her previous good character, and in this situation she might have remained, with credit to herself, and to the entire satisfaction of her employer. But justice, it seems, was not satisfied; no expiation had been made for the horrible crime of taking two or three eggs found in the field; and the place C. her retreat being discov- cred, she was dragged from her comforta- ble situation, and being taken before the Rev. MT. Lowe, of Birmingham, and the Rev. Mir. Beaumont, of East Bridgeford, this respectable young woman was by them committed for three months to the South we'll House of Correction.\n\n Siege of Missolonghi.-A history of the siege of Missolonghi has been publish ed at Paris by M. Auguste Fabre. It contains number of most interesting de- tails with respect to that memorable event. The bravery and self-devotion of the unfortunate Greeks are painted with mas terly pencil. It is we'll known, that after having been disappointed in all hopes of aid, feeling the ramparts crumbling under their feet, seeing their fathers, their wives and their children, perishing by famine, the garrison sent communication to the only corps which was able to give them any succor, that of karaiskaki, requesting it to attack the rear ofthe enemy on csr- tain day, and to annouce it's arrival by a general discharge of musketry, at which moment the garrison would make a sortie, and endeavor to cut their way through the besieging army. On the appointed day the population of Missolonghi was assem- bled. There remained three thousand soldiers, (including those, who, although sick or wounded, were capable of march ing with the assistance of their comrades) a thousand arifcers or other men unused to fighting, and above five thousand wo- men and children. The Grecian women who fancied themselves strong enough to brave the danger and fatigue of the sortie, dressed themselves in mems clothes, in or der that ifthey were unable to escape the enemy, they might be mIstahe, for soldiers aud put to death instantly. Many ofthem hung round their necks and round the necks of their children, as protecting ta- lisman, the revered relics of their ances- tors, and wore concealed daggers, with which either to strike the enemy, or to se- cure their not being taken alive. Those whose weakness forbade them to follow the troops, joined the desperately wounded, the sick, the aged, and the infants, and re- solved to bury themselves in the ruins of the town. It was terrible moment. AL most all the families of Missolonghi were divided into two parts those who remain ed in expectation of death, and those who were on the point of rushing forth to ven- geance and to new dangers. The hardest warriors were subdued to tears and the bravest hearts quailed at the approaching separation. All these preparations were, however, rendered abortive by the infa- nous treachery ofa Bulgarian soldier, who had deserted to Ibrahim, and disclosed the whole plan. The Turks suddenly attack ed the town and bathed themselves in Christian blood.\n\n The scene that followed was hideous \"But one voice was heard among tt1e- des- vonoep g aavs M Eahro. To the",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1130,
+                "y0": 2621,
+                "x1": 2021,
+                "y1": 5657
+            },
+            "class": "article",
+            "raw_text": "It IS we'll known that the PaCha of E. gypt has obtained the aid of several French officers to discipline his troops and to ex-\n\n tend his power. It is as well known, that the French, like ourselves, ,have their Greek\n\n Committees, who detest the Pacha, and\n\n raise subscriptions to drive his forces from\n\n Europe. Among the former is General\n\n Count Livron, who enjoys the confidence\n\n of the Egyptian Chief; and among the\n\n latter is M.de Trone,a a respectable mem-\n\n Der of the Paris bar-an ardent lover of\n\n freedom and Greece. Count Livron, a\n\n few months ago, arrived at Marseilles to\n\n recruit for the Pacha, when M. de Trone,\n\n hearing of his arrival and the object of his\n\n visit, sent him message to the following\n\n purport: that he (de Trone) was anxious to do something for the freedom of Greece that his delicate health and domestic av- ocations would not permit him to 90 and fight its enemies on the Greek soil-and that he was therefore obliged to select one ot them nearer home, who disgraced the name of Frenchman, by joining it with that of a renegade. M. de Trone conclu- ded by asking the Count to tell him when 1t would be convenient for him that he should come to Marseilles to meet him. Livron answered that M. de Trone need not give himself the trouble of travelling to Marseilles, as he (Liyron) was about to set out for Paris, where he would let him hear from him immediately OH his arrival. The Count did indeed soon arrive, and mentioned the extraordinary challenge to some of his friends, who wishing to play upon his feelings or to try his firmness, represented de Trone as formidable an- tagonist, who had already in duels sealed the fate of several of his adversaries. Li- vron, as being the challenged party ,had the choice of weapons, and wishing to place himself on something like an equality with so noted parsonage, proposed that they should fight with swords on horse- back.\n\n De Trone, though he had never fought in his lifetime with any kind of weapons ,on horseback or on foot, was obliged to ac- cept of this tournament with cavalry off, cer. They accordingly went .out to St. Ouens, village in the neighborhood of Paris, with their respective seconds. We shall not stop to describe how these cham pions of the Greeks and Egyptians were accoutred-how they prepared for the combat,and what hopes and fears animated the bosom of each. Suffice it to say that the righteous cause prevailed-that the cavalry officer was unhorsed by the lawyer ---and that the count arma togG was ex- empli6ed in favor of Greece.\n\n ",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1300,
+                "y0": 2547,
+                "x1": 1840,
+                "y1": 2599
+            },
+            "class": "headline",
+            "raw_text": "MODERN CHIVALRY.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2945,
+                "y0": 686,
+                "x1": 3837,
+                "y1": 6060
+            },
+            "class": "article",
+            "raw_text": "\n\n enemy. The attention of the conqnerors 1 was soon drawn to the powder magazine.\n\n ne slze and the solidity of the building 1 induced them to believe that the wealth of the inhabitants had been there deposited. IL contained, however, only women and childten, and CapsaIis (one of the primates ot the town, who, having obstinately refus- ed to accompany the garrison in their pro- jected sortie, conducted to the powder magazine crowd of women and children. saying\" Come and be still will myself set fire to it.'' They wept not they had no parting to apprehend the grave was about to unite them for ever. The moth CTS tranquilly pressed their infants to their breasts, relying on Capsalis. In the mean while, the enemy crowded round their asy- lum some attempted to break open the doors; some to enter by the windows :: some climbed to the roofs and endeavour- ed to demolished it! At length, Capsalis perceiving that vast number had assem- bled, uttered brief prayer, familiar to the Greek\" Lord, remember mo !'' and ap- piled the match. The explosion was so violent, that the neighbouring houses were thrown down; large chasms were produced in the earth-and the sea moved from its bed, and inundated one part of the town.- Two thousand barbarians were blown up with Capsals.\" Such was the catastrophe of this terrible drama\n\n PATRICK MULLoY-The most remark able person ever confined in the Jail at Concord, Ms. is one Panick Mulloy, an lrishman. He has been confined in close jail more than t,Oenty four years! He was arrested in Charlestown for murder, com mitted to Cambridge jail, brought here for trial, and on trial was ordered, by the Su- preme Judicial Court, to be remanded a. gam to prison on the plea of insanity. Since his confinement here he has been ao'ltulty dumb for three years Fomteem d0ys he abstained from all nouriShment, and being visited on the 14th day of his fasting, he was found so weak and emacia- ted as to be unable to raise himself in bed, and on being asked if he would take some food, he replied, \"brmg me pint of rum /\" On this day, however, he took nourishment and soon regained his former strength. Whether he was sick during that time is unknown, as he made no com plaint to that effect, but he undoubtedly intended to terminate his existence by starvation, being under the influence of his most malignant temper. Since that time he frequently abstaihed from food during three, four and five days at a time Tobacco is almost his only solace, and when he cannot obtain this, he substitutes for it straw taken from his bed. He never willingly changes or slaves himself, conse- quently the jail-keeper, semi-annuaIly, strips, washes and slaves him by force, and places on him clean clothing. During this operation, last year, he made an attempt to assass;nate the jail-keep- CT, with chisel which he had concealed in his bed. Fortunately his deadly aimed blow was in part warded off; the chisel, however, entered his ear and nearly stun ned him, but his assistants being near, they rescued him and restored order. The age of Mulloy is unknown even to himself. He is supposed to be about scventy.- Yeo- man's G01ette.\n\n Billiard T'able.-The bubble has burst, and the country is not to be saddled with the repairs of an old billiard table, which descended from Mir. Monroe to Mr.. Ad- ans as one of the heir-looms of the pal ace- The Hon. James Clark, member of Congress, in reply to a letter from a friend wishing information upon this momentu- ous affair, refers the writer to the reply of. Gen. Van Rensellaer in letter of the 7th. which he had addressed to him, as chair man of the committee of the public build ings,in which the General says, that \"Soon after the report and inventory had been printed, and some days before the discus ion arose in the House on the report, I| learned from the President, that the inven- tory, so far as it related to the billiard ta- ble, &c. was entirely erronious and that mO part of the public appropriation had been, or soould De, applied to any such pur- pose. - Times.\n\n Bunker HiH mOnument.-The intended Corner Stone-containing the approprja- ted medals and inscriptions, deposited by General La Fayettc, on the 27th June, 1S25-has been removed--to be replaced in it's proper situation, as soon as tho work shall have been sufficiently advanced. Tne",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3847,
+                "y0": 652,
+                "x1": 4767,
+                "y1": 6071
+            },
+            "class": "article",
+            "raw_text": "bed. some liquor was left in bottIe---in\n\n the morning it was empty. 1t is suppo- sed she got up and drank what remained.\n\n sat on chair by the fire, and fell into i,.\n\n Last winter, two paupers belonging to the l same place, were found frozen to death,\n\n having been the evening before very much ! intoxicated. Such examples of the effect\n\n of intemperanco we rejoice do not often become our duty to record.-JamGic0 (L. H.) Farmer.\n\n Statistics.--A patriotic friend called upon us yesterday in a state of no little a.\n\n larm at adiscovery of cclibacy which he\n\n fears augurs sadly for the safety of the . country, and accounts for the IOgocrGtic course of last Congress. The House of\n\n Reresentatives, 1t seems, consisted of 216 members, has eighty-scUen bachelors and t'oenty.tou' widewers, making majority of the whole. In the Senate the majority IS more fearful, no less than two-thirds of the forty-eieht being widowers or bache- lors. In the House of Representatives there are are 167 lawyer, 29 physicians, cleFgymen, 28 farmers, and but mer- chants.-N. Y. Times.\n\n Mechanical Ingenuity.--A distinguished mechanic of this place has made very el- egant and curious door-lock. <. It hasstwo bolts and two keys, which, to common observer, exactly resemble; each other. One of the keys commands but one bolt the other commands both /; to the bolt cnT pJ cd hx, tho :. ed an alarm bell, which makes very loud sound whenever the bolt is thrown back. There is but one key-hole to the lock; and the owner might safely give the lock, which cost several months labour, to a stranger, who could lock and unlock both\n\n bolts i'll ten hours time by the aid of both Keys. 1t is at thessame time very simple, and person may. in few minutes be in- structed in tho entire command over it. The inventor dedicated this piece of splendid mechanism to HENRY CLAY, the distin- guishcd friend and promoter of home in- dustry. The lock can be seen at the shop of MT. Simon Hickey, of this town.. Ken tmcky Reporter.\n\n FROM THE BosroN DAILY ADVERTISER. Letter from Dr. Howe to a gentleman in\n\n this vicinity, 25 days later than that\n\n which was published on Tuesday.\n\n Steam Ship Kalerio, Swo, Dec. IS, 1926.\n\n Sir-My last was from Samos, dated Nov 22, about some days, after performing this, without falling in with any enemy, returned here, on the 9th, and I am now able to inform you of many things, of which was then ignorant, or which have occurred since. Athens holds out and will hold out !; the rainy season has com menced, and must every day make the situation of the enemy worse. The gar- rison well supplied with all necessaries, and we are under no apprehension for the place. Culuckis Pasllaw met with sev- were loss, the other day, in an affair with karraskikas. This commander, as I in- formed you, had changed his plan to that of openly attacking the enemy upon the plain of Athens, to that of cutting off his supplies from distancc--He had taken a post for this purpose, when body of 1900 Turks, sent out by Cutuckis. had advanced almost to Salona. He fol- lowed them up, attacked them in defile, killed 800, and forced the remainder to shut themselves up in Venetian chateau, almost without provisions sand he now holds them in blockade.\n\n Tbrahim Pasha remains, with his rem nant of an army, at Trippolizza, entirely inactive and probably very weak though learn with sorrow, that 20 transport ves- sels, laden with provisions and supplies, have arrived safely at Navarin. No troops however, have been brought him, and this confirms, what has been for a long time suspected, that the Pasha of Egypt is hardly in state to support the troops he now has in the Morea, much less to send fresh ones.\n\n The expedition of Colletti to. Euboea has failed: hoping to find the Turks off their guard, he landed and attacked them. But it appears he was perfectly prepared for and expected;-they fought, the Turks beat them back and drove them on board their ships. Thus ends the expedition of Colletti-from which had hoped son,e- thing, for he is decidedly man of talent, and his plan was good one; but it was miserably supplied with funds, and too cripple in means, to enable a general to eXcCute a deSiun with secrecv and das-",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1141,
+                "y0": 709,
+                "x1": 2033,
+                "y1": 2520
+            },
+            "class": "article",
+            "raw_text": "ica, who have driven all the King6irds from our country though exactly fit for that order of Knights which the French call CheUalier dInduStrie. I am on this account not dis pleased that the figure is not known as Bald Eagle, but looks more like Fur key.\n\n For in truth the Turkey is, in comparison. a much more respectable bird, and withaI a true original native of America. Eagles have been found in all countries, but the Fur pkey was peculiar to ours. He is besides, (tho' a little vain and silly 'tis true, but not the worse emblem for that, a bird of courage, ,and would not hesitate to attack grenadier of the British Guards, who should presume to invade his farm yard with red coat on.\"\n\n The following curious circumstance may amuse, and its authenticity may be re- lied upon A Bank of England note, val- ue 20l. the property of the captain of a South Wales trading vessel, now lying in the London Docks, was lost, and the capt. (Mr. Camplin,) took great pains to have it advertised before he sailed on his voy- age, but without success the vessel arri,, we'd at the place of destination, and the cargo was discharged, when To at the bottom of the vessel, under all the cargo, was found, in about 20 bits, the identical bank note, forming, together with num- Der of other small pieces ofpaper, a mouse's nest The tatters were carefully collected together, and fixed on piece of paper with gum water, and last Thursday the Capt. returned from his voyage, and has since presented the note to the Bank, and received sovereigns for it.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 211,
+                "y0": 2087,
+                "x1": 1119,
+                "y1": 3518
+            },
+            "class": "article",
+            "raw_text": "A\n\n A ANDERSON'S COUGH DROPS& PECTORAL POWDERS have from an extensive use for 8 years past. proved them selves to be one of the most valuable rem edies ever yet discovered for the cure of Coughs, Colds and other affections of the breast and lungs leading to Consumptions. Thousands have.experienced the happy eff fects of this Healing Balsons, and many of the highest responsibility have voluntarily given certificates, some of which will accompany each bottle, that will satisfy every uupreiudi- eed mind that the most extraordinary and un- expected cures have been performed by the use of this medicine in cases of long standing, an which other medicine, had produced no favourable effects, and where the most skill ful Physicians had given them up as hopeless. 1t is not pretended that they are an infallibIe cure in all cases, but of such as are incurable, ahere are but few but what will be greatly re- Iieved by the use of them. Scarcely case ofColds, Coughs, Pain in the side, difficulty of breathing, want of sleep arising from de- bility. or even seated consumptions, but may he relieved by timely use of this Healing Balsam. Each Dollar Bottle of this med;- cine contains about 70 doses, which proves them to be cheap medicine considering their virtues.\n\n For the further satisfaction of the public, the following Certificates are offered for peru",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 239,
+                "y0": 1963,
+                "x1": 1085,
+                "y1": 2049
+            },
+            "class": "headline",
+            "raw_text": "HIGHLY INTERESTING TO THE\n\n AFFLFCTED",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 194,
+                "y0": 3585,
+                "x1": 1108,
+                "y1": 5861
+            },
+            "class": "article",
+            "raw_text": "Dr. MELLEN, Sir-the cause of humanity demands of me to give the following state ment: My wife had for six years been in decline and pronounced by her Physicians to he in a consumptive state. and was attended by a severe pain in her side, with Cough & difficulty of breathing. She was reduced SO low as to be unable to get from her bed to the fire without aid. All hopes of her recovery had long been given up. In this situation, was prevailed upon, as a last possible resort, yet without any hopes of success, to make use of\" Anderson's Cough Drops\" She com inenced the use of them in February last and after using two bottles, to the astonishment of all, in the month of May following the health of my wife was entirely restored, and since which. her health and strength were perhaps never better. Feeling deep interest that the public in general may resort 10 the same remedy, when their friends and relatives are apparently. or evidently on the brink of the grave, to rescue them from from the same. You are at liberty to publish the above.\n\n am respectfully, Sc.\n\n JAMES H. STYLES. Rhine5eck, Duchess co. (N. Y.J Nor. 8. 1926. This is to certify that the subscriber was brought very low by spitting blood, attended with cough and cafarrh. and that nothing afforded me real relief untii commenced ta- k!ng Andersons Cough Drops, the use ot which were the means in the hand of God of restoring me again to a comfortable state of health.\n\n And do further certify that the wife of MT. Nathan Huntington, living in the same place was afflicted with very bad cough for num- her of years, and that in 1928 she was redu- ced so low that it was thought she must soon be in her grave, as she was scarcely able to walk from her bed to the fire, when she com ,nenced taking Andersen's Cough Drops, the use of which, in short time so far restored her, that she was soon able 10 do good days work. l can cheerfuy recommend this med seine to the public.\n\n PHILO HUDSON, Pastor\n\n of the Church in Ashford, (Conn.) Ashford, Sept. 25, 1894.\n\n 0F For sale by \". & s. BUEL.\n\n Litchfeid, Dec. 4. 1926. 25eow6m",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 318,
+                "y0": 3534,
+                "x1": 1017,
+                "y1": 3586
+            },
+            "class": "headline",
+            "raw_text": "NEW cIRmr1CATEg.",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": -1
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 3864,
+                "y0": 731,
+                "x1": 4750,
+                "y1": 1271
+            },
+            "class": "article",
+            "raw_text": "bed. some liquor was left in bottIe---in the morning it was empty. It is suppo- sed she got up and drank what remained, i, sat on chair by the fire, and fell into i,. Last winter, two paupers belonging to the same place, were found frozen to death, having been the evening before very much intoxicated. Such examples of the effect of Intemperancc we rejoice do not often. become our duty to record.-Jam0ic0 (L. H.) Farmer.",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 2934,
+                "y0": 6337,
+                "x1": 3826,
+                "y1": 7019
+            },
+            "class": "article",
+            "raw_text": "Fatal Effects of Iatemperonee.--On Tuesday night of last week, man by the name of Burr, with his wife and son, for merly living in this place, but for the last year or two living at Hempstead, went to bed in state of inebri,y. Some time in the night, sense of snffocation aroused the father, who perceived something on fire he arose, and procured some water, extinguished the fire, and returned again to bed. In the morning, when he awoke, he found his wife lying in the fire place, burned to de0th !-her head, one arm, one leg, were burnt of When they retired to",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                0
+            ],
+            "headline": "",
+            "article": "The following are Dr. Franklin's humorous remarks, as contained in one of his letters, concerning the bird which was chosen for the\n\n Others object to the Bald Eagle, Says he, 4 as looking too much like Dindon or Fur key. For my own part, wish the Eagle had not been chosen the representative of our country; he is bird ofa bad moral character :: he does not get his living honestly; you may have seen him perched on some dead tree :: where. too lazy to fish for himself, he watches the labor Of the Fishing Hawk; and when that dlligent bird has at length taken fish, and is bearing it to his nest for the support of his mate and young ones, the Bald Eagle pur- sues and takes it from. With all this injustice he is never in good case; but like those among men who live by sharping and robbing, he is generally poor, and often very lousy. Be- sides, he is a rank coward; the little King olrd: not bigger than sparrow, attacks him boldly, and drives him out of the district. He is' therefore, by no means proper emblem for the brave and honest Cincinnati of Amer",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 199,
+                    "y0": 5894,
+                    "x1": 1108,
+                    "y1": 6996
+                }
+            ],
+            "bbox": [
+                199,
+                5894,
+                1108,
+                6996
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-05-24_p1_sn82014309_00414182926_1827052401_0185.json"
+        },
+        {
+            "object_ids": [
+                9,
+                19,
+                1
+            ],
+            "headline": "ENGLISH LIBERTY. EXHIBITED IN\n\n THE GAME LAWS!",
+            "article": "From Liverpool paper cf March, 3,\n\n On Monday week, James Clegg, was fined in the mitigated penalty of 1Ok. be- fore James Lees, Esq. of Clarks6eld, for being out with dog and gun, Oith an in- tent 10 kiH game.\n\n Last Friday morning, as young man, was passing, with cartloadNo of goods through wood, in the neighborhood of Brierley, the horse set his foot on the wire of spring gun, which had been laid across the road it went of, and the contents were lodged in the shoulder of this valua- ble animal fortunately the man was on the contrary side, and thus escaped. We would indulge the hope that the day is not far distant, when the legislature of our country shall effectually put stop to this barbarous custom.\n\n On Friday night as the game keeper of Thomas Leigh, Esq. M. P. was on the look out, he observed some men poaching; when they saw him they endeavored to make theirsescape, but the keeper pursued one of them, called out to him to stop.",
+            "byline": "From e Liuerpool r,aper Of March, 3,",
+            "bbox_list": [
+                {
+                    "x0": 1130,
+                    "y0": 5667,
+                    "x1": 1999,
+                    "y1": 5765
+                },
+                {
+                    "x0": 1215,
+                    "y0": 5775,
+                    "x1": 1942,
+                    "y1": 5821
+                },
+                {
+                    "x0": 1130,
+                    "y0": 5769,
+                    "x1": 2016,
+                    "y1": 7002
+                }
+            ],
+            "bbox": [
+                1130,
+                5667,
+                2016,
+                7002
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-05-24_p1_sn82014309_00414182926_1827052401_0185.json"
+        },
+        {
+            "object_ids": [
+                6,
+                13,
+                2
+            ],
+            "headline": "BY s. S. SMITH. EDITOR AND PROPRIETOR.\n\nTIER \"9,",
+            "article": "To subscribers in this village, aud subscribers 6y mat or by post carriers, TWO DOLLARS per gear, payable im Gdvance. To companies Jess aba\" Ten, by mail. or token from the cdicc aUcre there is joint responsibility, or Chere one idtUid~al is responsible, S1 ,5O per gear, in ad- Uance. To tike companies of more ttan ten. S1,- s5 per year, ia udv0nce.-Where paynent is de- tGyed to the cad c the gear 95 cts. ,CiH be added to e0ch cf the GboUc prices.\n\n No papers sCiN De discontinued until oN or- reorages are poid, except at the discresiom ofthe publisher.\n\n ADVERTISING.\n\n For half q square, three insertions, or less, 75 cents ;-ore than hal ia square, and less than sq\"are, e7 1-g ccnts ;-:tor one sguare, S1, ,OO ]; -7\"d in the same proportion for more than square; for confirming advertisements more than three weeks, 20 per cent per sOeek 0iu be charged.\n\n PROBATE NOTICES. Administrators' aud Executors S1,oO C0n'n'sSSloners $1,25",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 284,
+                    "y0": 692,
+                    "x1": 1080,
+                    "y1": 823
+                },
+                {
+                    "x0": 545,
+                    "y0": 856,
+                    "x1": 802,
+                    "y1": 897
+                },
+                {
+                    "x0": 216,
+                    "y0": 907,
+                    "x1": 1125,
+                    "y1": 1952
+                }
+            ],
+            "bbox": [
+                216,
+                692,
+                1125,
+                1952
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-05-24_p1_sn82014309_00414182926_1827052401_0185.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "said sol went of, and wounded the poor\n\n wretch most dreadfulIy in the back and pos\n\n teriorS.\n\n The Duke of Buckingham and his\n\n friends closed the shooting season at Aving- ton with unparalleled success. On the\n\n last day were bagged, in one coppice alone, $50 pheasants, 109 hares, and 116 rabbits;\n\n which with thirteen previous days sport,\n\n made grand total of 1000 head !-475\n\n head in one copse !! This is the kind of\n\n butchery which makes 1t necessary to SUD-\n\n port the game laws. The system destroys\n\n the true character of sporting, as well as\n\n the character of the peasantry.\n\n Last summer Mary Marshall, young\n\n woman of good character, was wedding in\n\n field, along with some other women,\n\n when they found nest containing some\n\n eggs. As they did not suppose that there\n\n was any crime in taking the eggs of wild\n\n bird, they agreed to divide them, and as\n\n she happened to have basket with her,\n\n they were put into it, and carried home\n\n when their labour was over. The cir\n\n cumstances coming to the knowledge of the game-keeper, he laid an information against her, and the poor girl finding she had committed an offence against the game laws, and fearful of the consequences, left her home, and went to Noting ham, where she was taken into the service of Mr. Swanwick, of the Kings Head Tavern. Here her conduct was quite in accordance with her previous good character, and in this situation she might have remained, with credit to herself, and to the entire satisfaction of her employer. But justice, it seems, was not satisfied; no expiation had been made for the horrible crime of taking two or three eggs found in the field; and the place C. her retreat being discov- cred, she was dragged from her comforta- ble situation, and being taken before the Rev. MT. Lowe, of Birmingham, and the Rev. Mir. Beaumont, of East Bridgeford, this respectable young woman was by them committed for three months to the South we'll House of Correction.\n\n Siege of Missolonghi.-A history of the siege of Missolonghi has been publish ed at Paris by M. Auguste Fabre. It contains number of most interesting de- tails with respect to that memorable event. The bravery and self-devotion of the unfortunate Greeks are painted with mas terly pencil. It is we'll known, that after having been disappointed in all hopes of aid, feeling the ramparts crumbling under their feet, seeing their fathers, their wives and their children, perishing by famine, the garrison sent communication to the only corps which was able to give them any succor, that of karaiskaki, requesting it to attack the rear ofthe enemy on csr- tain day, and to annouce it's arrival by a general discharge of musketry, at which moment the garrison would make a sortie, and endeavor to cut their way through the besieging army. On the appointed day the population of Missolonghi was assem- bled. There remained three thousand soldiers, (including those, who, although sick or wounded, were capable of march ing with the assistance of their comrades) a thousand arifcers or other men unused to fighting, and above five thousand wo- men and children. The Grecian women who fancied themselves strong enough to brave the danger and fatigue of the sortie, dressed themselves in mems clothes, in or der that ifthey were unable to escape the enemy, they might be mIstahe, for soldiers aud put to death instantly. Many ofthem hung round their necks and round the necks of their children, as protecting ta- lisman, the revered relics of their ances- tors, and wore concealed daggers, with which either to strike the enemy, or to se- cure their not being taken alive. Those whose weakness forbade them to follow the troops, joined the desperately wounded, the sick, the aged, and the infants, and re- solved to bury themselves in the ruins of the town. It was terrible moment. AL most all the families of Missolonghi were divided into two parts those who remain ed in expectation of death, and those who were on the point of rushing forth to ven- geance and to new dangers. The hardest warriors were subdued to tears and the bravest hearts quailed at the approaching separation. All these preparations were, however, rendered abortive by the infa- nous treachery ofa Bulgarian soldier, who had deserted to Ibrahim, and disclosed the whole plan. The Turks suddenly attack ed the town and bathed themselves in Christian blood.\n\n The scene that followed was hideous \"But one voice was heard among tt1e- des- vonoep g aavs M Eahro. To the",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2043,
+                    "y0": 816,
+                    "x1": 2929,
+                    "y1": 6258
+                }
+            ],
+            "bbox": [
+                2043,
+                816,
+                2929,
+                6258
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-05-24_p1_sn82014309_00414182926_1827052401_0185.json"
+        },
+        {
+            "object_ids": [
+                12,
+                4
+            ],
+            "headline": "MODERN CHIVALRY.",
+            "article": "It IS we'll known that the PaCha of E. gypt has obtained the aid of several French officers to discipline his troops and to ex-\n\n tend his power. It is as well known, that the French, like ourselves, ,have their Greek\n\n Committees, who detest the Pacha, and\n\n raise subscriptions to drive his forces from\n\n Europe. Among the former is General\n\n Count Livron, who enjoys the confidence\n\n of the Egyptian Chief; and among the\n\n latter is M.de Trone,a a respectable mem-\n\n Der of the Paris bar-an ardent lover of\n\n freedom and Greece. Count Livron, a\n\n few months ago, arrived at Marseilles to\n\n recruit for the Pacha, when M. de Trone,\n\n hearing of his arrival and the object of his\n\n visit, sent him message to the following\n\n purport: that he (de Trone) was anxious to do something for the freedom of Greece that his delicate health and domestic av- ocations would not permit him to 90 and fight its enemies on the Greek soil-and that he was therefore obliged to select one ot them nearer home, who disgraced the name of Frenchman, by joining it with that of a renegade. M. de Trone conclu- ded by asking the Count to tell him when 1t would be convenient for him that he should come to Marseilles to meet him. Livron answered that M. de Trone need not give himself the trouble of travelling to Marseilles, as he (Liyron) was about to set out for Paris, where he would let him hear from him immediately OH his arrival. The Count did indeed soon arrive, and mentioned the extraordinary challenge to some of his friends, who wishing to play upon his feelings or to try his firmness, represented de Trone as formidable an- tagonist, who had already in duels sealed the fate of several of his adversaries. Li- vron, as being the challenged party ,had the choice of weapons, and wishing to place himself on something like an equality with so noted parsonage, proposed that they should fight with swords on horse- back.\n\n De Trone, though he had never fought in his lifetime with any kind of weapons ,on horseback or on foot, was obliged to ac- cept of this tournament with cavalry off, cer. They accordingly went .out to St. Ouens, village in the neighborhood of Paris, with their respective seconds. We shall not stop to describe how these cham pions of the Greeks and Egyptians were accoutred-how they prepared for the combat,and what hopes and fears animated the bosom of each. Suffice it to say that the righteous cause prevailed-that the cavalry officer was unhorsed by the lawyer ---and that the count arma togG was ex- empli6ed in favor of Greece.\n\n ",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1300,
+                    "y0": 2547,
+                    "x1": 1840,
+                    "y1": 2599
+                },
+                {
+                    "x0": 1130,
+                    "y0": 2621,
+                    "x1": 2021,
+                    "y1": 5657
+                }
+            ],
+            "bbox": [
+                1130,
+                2547,
+                2021,
+                5657
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-05-24_p1_sn82014309_00414182926_1827052401_0185.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "\n\n enemy. The attention of the conqnerors 1 was soon drawn to the powder magazine.\n\n ne slze and the solidity of the building 1 induced them to believe that the wealth of the inhabitants had been there deposited. IL contained, however, only women and childten, and CapsaIis (one of the primates ot the town, who, having obstinately refus- ed to accompany the garrison in their pro- jected sortie, conducted to the powder magazine crowd of women and children. saying\" Come and be still will myself set fire to it.'' They wept not they had no parting to apprehend the grave was about to unite them for ever. The moth CTS tranquilly pressed their infants to their breasts, relying on Capsalis. In the mean while, the enemy crowded round their asy- lum some attempted to break open the doors; some to enter by the windows :: some climbed to the roofs and endeavour- ed to demolished it! At length, Capsalis perceiving that vast number had assem- bled, uttered brief prayer, familiar to the Greek\" Lord, remember mo !'' and ap- piled the match. The explosion was so violent, that the neighbouring houses were thrown down; large chasms were produced in the earth-and the sea moved from its bed, and inundated one part of the town.- Two thousand barbarians were blown up with Capsals.\" Such was the catastrophe of this terrible drama\n\n PATRICK MULLoY-The most remark able person ever confined in the Jail at Concord, Ms. is one Panick Mulloy, an lrishman. He has been confined in close jail more than t,Oenty four years! He was arrested in Charlestown for murder, com mitted to Cambridge jail, brought here for trial, and on trial was ordered, by the Su- preme Judicial Court, to be remanded a. gam to prison on the plea of insanity. Since his confinement here he has been ao'ltulty dumb for three years Fomteem d0ys he abstained from all nouriShment, and being visited on the 14th day of his fasting, he was found so weak and emacia- ted as to be unable to raise himself in bed, and on being asked if he would take some food, he replied, \"brmg me pint of rum /\" On this day, however, he took nourishment and soon regained his former strength. Whether he was sick during that time is unknown, as he made no com plaint to that effect, but he undoubtedly intended to terminate his existence by starvation, being under the influence of his most malignant temper. Since that time he frequently abstaihed from food during three, four and five days at a time Tobacco is almost his only solace, and when he cannot obtain this, he substitutes for it straw taken from his bed. He never willingly changes or slaves himself, conse- quently the jail-keeper, semi-annuaIly, strips, washes and slaves him by force, and places on him clean clothing. During this operation, last year, he made an attempt to assass;nate the jail-keep- CT, with chisel which he had concealed in his bed. Fortunately his deadly aimed blow was in part warded off; the chisel, however, entered his ear and nearly stun ned him, but his assistants being near, they rescued him and restored order. The age of Mulloy is unknown even to himself. He is supposed to be about scventy.- Yeo- man's G01ette.\n\n Billiard T'able.-The bubble has burst, and the country is not to be saddled with the repairs of an old billiard table, which descended from Mir. Monroe to Mr.. Ad- ans as one of the heir-looms of the pal ace- The Hon. James Clark, member of Congress, in reply to a letter from a friend wishing information upon this momentu- ous affair, refers the writer to the reply of. Gen. Van Rensellaer in letter of the 7th. which he had addressed to him, as chair man of the committee of the public build ings,in which the General says, that \"Soon after the report and inventory had been printed, and some days before the discus ion arose in the House on the report, I| learned from the President, that the inven- tory, so far as it related to the billiard ta- ble, &c. was entirely erronious and that mO part of the public appropriation had been, or soould De, applied to any such pur- pose. - Times.\n\n Bunker HiH mOnument.-The intended Corner Stone-containing the approprja- ted medals and inscriptions, deposited by General La Fayettc, on the 27th June, 1S25-has been removed--to be replaced in it's proper situation, as soon as tho work shall have been sufficiently advanced. Tne",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2945,
+                    "y0": 686,
+                    "x1": 3837,
+                    "y1": 6060
+                }
+            ],
+            "bbox": [
+                2945,
+                686,
+                3837,
+                6060
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-05-24_p1_sn82014309_00414182926_1827052401_0185.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "bed. some liquor was left in bottIe---in\n\n the morning it was empty. 1t is suppo- sed she got up and drank what remained.\n\n sat on chair by the fire, and fell into i,.\n\n Last winter, two paupers belonging to the l same place, were found frozen to death,\n\n having been the evening before very much ! intoxicated. Such examples of the effect\n\n of intemperanco we rejoice do not often become our duty to record.-JamGic0 (L. H.) Farmer.\n\n Statistics.--A patriotic friend called upon us yesterday in a state of no little a.\n\n larm at adiscovery of cclibacy which he\n\n fears augurs sadly for the safety of the . country, and accounts for the IOgocrGtic course of last Congress. The House of\n\n Reresentatives, 1t seems, consisted of 216 members, has eighty-scUen bachelors and t'oenty.tou' widewers, making majority of the whole. In the Senate the majority IS more fearful, no less than two-thirds of the forty-eieht being widowers or bache- lors. In the House of Representatives there are are 167 lawyer, 29 physicians, cleFgymen, 28 farmers, and but mer- chants.-N. Y. Times.\n\n Mechanical Ingenuity.--A distinguished mechanic of this place has made very el- egant and curious door-lock. <. It hasstwo bolts and two keys, which, to common observer, exactly resemble; each other. One of the keys commands but one bolt the other commands both /; to the bolt cnT pJ cd hx, tho :. ed an alarm bell, which makes very loud sound whenever the bolt is thrown back. There is but one key-hole to the lock; and the owner might safely give the lock, which cost several months labour, to a stranger, who could lock and unlock both\n\n bolts i'll ten hours time by the aid of both Keys. 1t is at thessame time very simple, and person may. in few minutes be in- structed in tho entire command over it. The inventor dedicated this piece of splendid mechanism to HENRY CLAY, the distin- guishcd friend and promoter of home in- dustry. The lock can be seen at the shop of MT. Simon Hickey, of this town.. Ken tmcky Reporter.\n\n FROM THE BosroN DAILY ADVERTISER. Letter from Dr. Howe to a gentleman in\n\n this vicinity, 25 days later than that\n\n which was published on Tuesday.\n\n Steam Ship Kalerio, Swo, Dec. IS, 1926.\n\n Sir-My last was from Samos, dated Nov 22, about some days, after performing this, without falling in with any enemy, returned here, on the 9th, and I am now able to inform you of many things, of which was then ignorant, or which have occurred since. Athens holds out and will hold out !; the rainy season has com menced, and must every day make the situation of the enemy worse. The gar- rison well supplied with all necessaries, and we are under no apprehension for the place. Culuckis Pasllaw met with sev- were loss, the other day, in an affair with karraskikas. This commander, as I in- formed you, had changed his plan to that of openly attacking the enemy upon the plain of Athens, to that of cutting off his supplies from distancc--He had taken a post for this purpose, when body of 1900 Turks, sent out by Cutuckis. had advanced almost to Salona. He fol- lowed them up, attacked them in defile, killed 800, and forced the remainder to shut themselves up in Venetian chateau, almost without provisions sand he now holds them in blockade.\n\n Tbrahim Pasha remains, with his rem nant of an army, at Trippolizza, entirely inactive and probably very weak though learn with sorrow, that 20 transport ves- sels, laden with provisions and supplies, have arrived safely at Navarin. No troops however, have been brought him, and this confirms, what has been for a long time suspected, that the Pasha of Egypt is hardly in state to support the troops he now has in the Morea, much less to send fresh ones.\n\n The expedition of Colletti to. Euboea has failed: hoping to find the Turks off their guard, he landed and attacked them. But it appears he was perfectly prepared for and expected;-they fought, the Turks beat them back and drove them on board their ships. Thus ends the expedition of Colletti-from which had hoped son,e- thing, for he is decidedly man of talent, and his plan was good one; but it was miserably supplied with funds, and too cripple in means, to enable a general to eXcCute a deSiun with secrecv and das-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3847,
+                    "y0": 652,
+                    "x1": 4767,
+                    "y1": 6071
+                }
+            ],
+            "bbox": [
+                3847,
+                652,
+                4767,
+                6071
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-05-24_p1_sn82014309_00414182926_1827052401_0185.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "ica, who have driven all the King6irds from our country though exactly fit for that order of Knights which the French call CheUalier dInduStrie. I am on this account not dis pleased that the figure is not known as Bald Eagle, but looks more like Fur key.\n\n For in truth the Turkey is, in comparison. a much more respectable bird, and withaI a true original native of America. Eagles have been found in all countries, but the Fur pkey was peculiar to ours. He is besides, (tho' a little vain and silly 'tis true, but not the worse emblem for that, a bird of courage, ,and would not hesitate to attack grenadier of the British Guards, who should presume to invade his farm yard with red coat on.\"\n\n The following curious circumstance may amuse, and its authenticity may be re- lied upon A Bank of England note, val- ue 20l. the property of the captain of a South Wales trading vessel, now lying in the London Docks, was lost, and the capt. (Mr. Camplin,) took great pains to have it advertised before he sailed on his voy- age, but without success the vessel arri,, we'd at the place of destination, and the cargo was discharged, when To at the bottom of the vessel, under all the cargo, was found, in about 20 bits, the identical bank note, forming, together with num- Der of other small pieces ofpaper, a mouse's nest The tatters were carefully collected together, and fixed on piece of paper with gum water, and last Thursday the Capt. returned from his voyage, and has since presented the note to the Bank, and received sovereigns for it.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1141,
+                    "y0": 709,
+                    "x1": 2033,
+                    "y1": 2520
+                }
+            ],
+            "bbox": [
+                1141,
+                709,
+                2033,
+                2520
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-05-24_p1_sn82014309_00414182926_1827052401_0185.json"
+        },
+        {
+            "object_ids": [
+                14,
+                11
+            ],
+            "headline": "HIGHLY INTERESTING TO THE\n\n AFFLFCTED",
+            "article": "A\n\n A ANDERSON'S COUGH DROPS& PECTORAL POWDERS have from an extensive use for 8 years past. proved them selves to be one of the most valuable rem edies ever yet discovered for the cure of Coughs, Colds and other affections of the breast and lungs leading to Consumptions. Thousands have.experienced the happy eff fects of this Healing Balsons, and many of the highest responsibility have voluntarily given certificates, some of which will accompany each bottle, that will satisfy every uupreiudi- eed mind that the most extraordinary and un- expected cures have been performed by the use of this medicine in cases of long standing, an which other medicine, had produced no favourable effects, and where the most skill ful Physicians had given them up as hopeless. 1t is not pretended that they are an infallibIe cure in all cases, but of such as are incurable, ahere are but few but what will be greatly re- Iieved by the use of them. Scarcely case ofColds, Coughs, Pain in the side, difficulty of breathing, want of sleep arising from de- bility. or even seated consumptions, but may he relieved by timely use of this Healing Balsam. Each Dollar Bottle of this med;- cine contains about 70 doses, which proves them to be cheap medicine considering their virtues.\n\n For the further satisfaction of the public, the following Certificates are offered for peru",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 239,
+                    "y0": 1963,
+                    "x1": 1085,
+                    "y1": 2049
+                },
+                {
+                    "x0": 211,
+                    "y0": 2087,
+                    "x1": 1119,
+                    "y1": 3518
+                }
+            ],
+            "bbox": [
+                211,
+                1963,
+                1119,
+                3518
+            ],
+            "full_article_id": 12,
+            "id": "12_1827-05-24_p1_sn82014309_00414182926_1827052401_0185.json"
+        },
+        {
+            "object_ids": [
+                15,
+                16
+            ],
+            "headline": "NEW cIRmr1CATEg.",
+            "article": "Dr. MELLEN, Sir-the cause of humanity demands of me to give the following state ment: My wife had for six years been in decline and pronounced by her Physicians to he in a consumptive state. and was attended by a severe pain in her side, with Cough & difficulty of breathing. She was reduced SO low as to be unable to get from her bed to the fire without aid. All hopes of her recovery had long been given up. In this situation, was prevailed upon, as a last possible resort, yet without any hopes of success, to make use of\" Anderson's Cough Drops\" She com inenced the use of them in February last and after using two bottles, to the astonishment of all, in the month of May following the health of my wife was entirely restored, and since which. her health and strength were perhaps never better. Feeling deep interest that the public in general may resort 10 the same remedy, when their friends and relatives are apparently. or evidently on the brink of the grave, to rescue them from from the same. You are at liberty to publish the above.\n\n am respectfully, Sc.\n\n JAMES H. STYLES. Rhine5eck, Duchess co. (N. Y.J Nor. 8. 1926. This is to certify that the subscriber was brought very low by spitting blood, attended with cough and cafarrh. and that nothing afforded me real relief untii commenced ta- k!ng Andersons Cough Drops, the use ot which were the means in the hand of God of restoring me again to a comfortable state of health.\n\n And do further certify that the wife of MT. Nathan Huntington, living in the same place was afflicted with very bad cough for num- her of years, and that in 1928 she was redu- ced so low that it was thought she must soon be in her grave, as she was scarcely able to walk from her bed to the fire, when she com ,nenced taking Andersen's Cough Drops, the use of which, in short time so far restored her, that she was soon able 10 do good days work. l can cheerfuy recommend this med seine to the public.\n\n PHILO HUDSON, Pastor\n\n of the Church in Ashford, (Conn.) Ashford, Sept. 25, 1894.\n\n 0F For sale by \". & s. BUEL.\n\n Litchfeid, Dec. 4. 1926. 25eow6m",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 318,
+                    "y0": 3534,
+                    "x1": 1017,
+                    "y1": 3586
+                },
+                {
+                    "x0": 194,
+                    "y0": 3585,
+                    "x1": 1108,
+                    "y1": 5861
+                }
+            ],
+            "bbox": [
+                194,
+                3534,
+                1108,
+                5861
+            ],
+            "full_article_id": 17,
+            "id": "17_1827-05-24_p1_sn82014309_00414182926_1827052401_0185.json"
+        },
+        {
+            "object_ids": [
+                17
+            ],
+            "headline": "",
+            "article": "bed. some liquor was left in bottIe---in the morning it was empty. It is suppo- sed she got up and drank what remained, i, sat on chair by the fire, and fell into i,. Last winter, two paupers belonging to the same place, were found frozen to death, having been the evening before very much intoxicated. Such examples of the effect of Intemperancc we rejoice do not often. become our duty to record.-Jam0ic0 (L. H.) Farmer.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3864,
+                    "y0": 731,
+                    "x1": 4750,
+                    "y1": 1271
+                }
+            ],
+            "bbox": [
+                3864,
+                731,
+                4750,
+                1271
+            ],
+            "full_article_id": 18,
+            "id": "18_1827-05-24_p1_sn82014309_00414182926_1827052401_0185.json"
+        },
+        {
+            "object_ids": [
+                18
+            ],
+            "headline": "",
+            "article": "Fatal Effects of Iatemperonee.--On Tuesday night of last week, man by the name of Burr, with his wife and son, for merly living in this place, but for the last year or two living at Hempstead, went to bed in state of inebri,y. Some time in the night, sense of snffocation aroused the father, who perceived something on fire he arose, and procured some water, extinguished the fire, and returned again to bed. In the morning, when he awoke, he found his wife lying in the fire place, burned to de0th !-her head, one arm, one leg, were burnt of When they retired to",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2934,
+                    "y0": 6337,
+                    "x1": 3826,
+                    "y1": 7019
+                }
+            ],
+            "bbox": [
+                2934,
+                6337,
+                3826,
+                7019
+            ],
+            "full_article_id": 19,
+            "id": "19_1827-05-24_p1_sn82014309_00414182926_1827052401_0185.json"
+        }
+    ]
+}

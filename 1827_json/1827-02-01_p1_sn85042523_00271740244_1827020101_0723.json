@@ -1,0 +1,580 @@
+{
+    "lccn": {
+        "title": "The Wilmingtonian, and Delaware advertiser.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2638-1117",
+        "lccn": "sn85042523",
+        "start_year": "1825",
+        "end_year": "1827",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [
+            "sn88053080"
+        ],
+        "successors": [
+            "sn84020426"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn85042523",
+        "edition": "ed-01",
+        "date": "1827-02-01",
+        "pages": [
+            "seq-3",
+            "seq-1",
+            "seq-2",
+            "seq-4"
+        ]
+    },
+    "page_number": "1",
+    "scan": {
+        "lccn": "sn85042523",
+        "edition": "ed-01",
+        "date": "1827-02-01",
+        "page": "1",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn85042523/1827-02-01/ed-1/seq-1.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn85042523/1827-02-01/ed-1/seq-1/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn85042523/1827-02-01/ed-1/seq-1/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn85042523/00271740244/1827020101/0723.jp2",
+        "height": 5536,
+        "width": 3584
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2112,
+                "y0": 4796,
+                "x1": 2774,
+                "y1": 5450
+            },
+            "class": "article",
+            "raw_text": "We have taken some pains to collect the\nfollowing biographical notices of Col. Trum-\nbull, auther of those paintings, subjects from\nthe History of the Revolution, which are\nnow placed in the great hall of the capitol\nat Washington: works which we saw with\ngreat pleasure when they were executing IN\nthis city some years ago-whch. since they\nhave been removed to the seat OF govern\nment, have been bitterly criticized, IN con-\nsequence of their being placed in very unta-\nvourable situations, and bad light, but\nwhich, now that they are seen in the places\nfor which they were intended. begin to re-\nceive the reward of very general commen-\ndaton.\n\n\n1t will be seen from the following notices\nof the motive with which this work was be-\ngun, the manner in which it was conducted\nand the jealous perseverance, with which Il",
+            "legibility": "Questionable",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 2228,
+                "y0": 4701,
+                "x1": 2649,
+                "y1": 4780
+            },
+            "class": "headline",
+            "raw_text": "From the N. York Times.\nCOZ. TEJMBULL.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1411,
+                "y0": 774,
+                "x1": 2074,
+                "y1": 2466
+            },
+            "class": "article",
+            "raw_text": "Last comes the lean and sippered pan\ntaloon.\" The marks of decline and deere\npitude become more prcceptible. The\nteeth are gone-the jaws approach each\nother--the face is sunk; the eye quenched in\nrheumatic voice feeble, unequal and whist\nling-the muscles wasted-the gait totter-\ning-thc sight and hearing rapidly fail-and\nthe other senses are almost obliterated.-\nThe mind lives NOT in the present-the\nmemory acts not upon things of to-day. The\ngreen hills, the joyous gambols, the pure\nfriendships of childhood, all thrill through the\nheart. The ancient man sits in the midst\nof generation thrice removed from his own:\nhe appears insensible to those around him\nhe is deaf and participates not in their joys\nhe beholds their sorrows with cold unteel-\n\n\ning eve. But, WHY does he, at times convul-\nsively grasp his staf-anc why does an un-\nneeded tear occasionally trickle down his\nfurrowed cheek9 He is looking back be\nyond the existence of the present generation\nperhaps the image of her who has slept in\ndust for half century--she in whom his\nyouthful heart was \"garnered up, appears\nbefore his memory as once she bloomed:-\nperchance the mother who watched or slept\nDER his cradle, and enhanced the joyousness\nof his early life, is breathing in his ear--or\nthe bosom friend and companion ofhis youth\nfull wanderings, smiles upon him, with the\ntruth and ardour he has so long been stran-\nger to. Where are hey2--Another people\nhas grown to maturity since their graves\nwere sodded Their memory has pcrished\nexcept in the aged man, WHOSE long dried\nfountains of sensibity gush forth afrcsh as\nsuch recollections rise in his mind.\n\n\n1.-The approach of death from slow-com-\ning decline and intirmity of nature, is mark\ned by the eventual oblitcration Of all the fac,\nnlties Of mind and body. The breathing be\ncomes slower, and slower; the heart inter\nmts its pulsatons; the blood lolters along\nthe veins; the extremities grow cold and the\nfeeble flame of life lessons until it ceases tt\nbe preceptihle, except at the centre, where\nit family elimmers for time, and then il\ngently extnguished without sigh or groan\nwithout trace of emotion or of pain\"",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 1510,
+                "y0": 670,
+                "x1": 2035,
+                "y1": 731
+            },
+            "class": "headline",
+            "raw_text": "FEBRUARY 1, 1927",
+            "legibility": "Questionable",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 79,
+                "y0": 3961,
+                "x1": 742,
+                "y1": 5476
+            },
+            "class": "article",
+            "raw_text": "We have seen the interesting Lecture de-\nlvered by DIR. Goldman, Professor of Anato-\nmy and Physiology in the Rutgers Medical\nCollege. 1t is characterized by good deal\nOF ability, guided by refined taste, and does\nhonor to the author, both as writer and a\ngentleman zealously attached to his prctes-\nSION The lecture opens with beautiful\nand ingenious view and comparison OF the\ndifferent stages of human life, from the era\ndie to the grave, considered principally in\nrelation to their physiological character.\n\n\nMAN, who eventually becomes Lord of\nCreation by his superiority of intellectual\nendowment, enters upon the field OF future\ngreatness the most feeble and helpless of liv-\ning beings.-He is too delicate to sustain\nthe changes of the air he is to breatbe:-his\nhands, those admirable instruments, are\nuseless and unmanageable. The capacious\nmead, the future throne OF intellect, is too\nheavy to be supported by his own strength;\nana MS expressive eyes are incapable OF be-\ning advantageously directed towards any\nOBJECT. Without the loving and unwearied\nassidulty of his tender mother, death would\nspeedily silence his feeble walings; for the\nmower OF the fields, which blooms but fol-\nAz nour, and then withers away, is not more\nuencate nor susceptible of destruction, thar\n- Nhe LIE OF the human infant. But, clasped\nW maternal arms to that fountain of susie\naahse, which may so justly be termed sa\nsrea' from its constituting the first and mos\ns ssnuearing link in parental and social feeling\nis i\"an drinks in llie and warmth; his eyes soor\n;ust sIn 10 distinguish objects, his strength i.\ntn,.e:ased, his senses begin to demand his at\nwh;I, shh;;loh, and that education commences\nmoua malea IS to fit him for assuming his rank a\n\n\nnk .sEl rational and intelligent beings.\n\n\na,sr. \"ess successive changes very gradual,\ns,s;... lie requires parental attention ant\nIN ih.ahce n. long after he has ceased to nestle\naa se ss,o bosom Of his mother, At,this periot\n\n\n3afis are all susceptiAse and vigorous",
+            "legibility": "Questionable",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 92,
+                "y0": 3914,
+                "x1": 720,
+                "y1": 3958
+            },
+            "class": "headline",
+            "raw_text": "MAN FROM THE CRADLE TO THE GRAVE",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 53,
+                "y0": 791,
+                "x1": 720,
+                "y1": 1346
+            },
+            "class": "article",
+            "raw_text": "TER HS.--Apv ERTIsEMESrs not exceeding\n90 sonare will be inserted four times for one\n1o,lar' and % cents for each subsequent inser-\n.;on If continued for three months, 80 50--for\n=, months, \"a so; or for one years..\n- subscribers are entitled TO the privilege OF\nhaving their names, place ofresidence, and occu-\npatton, inserted in the Reg'sier, Gratis.\nJEnlLS or SUBSCRiPIION.-To those\nwhoreceivc this paperby mail, t,co dofiars' and\n.hose who not, tico doilurs anatcenty.fre cents\nvear. ~ tpvAScE: Ifnot paid III advance, 50 So\nviii be charged; and if not paid before the eXpi-\nration Of the year, So.\n\n\n1rNosubscrption will be observation-disclosures\n,wo week notice is given and all arrearagesare\nnad",
+            "legibility": "Questionable",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 62,
+                "y0": 2452,
+                "x1": 729,
+                "y1": 3884
+            },
+            "class": "article",
+            "raw_text": "The following lines commenced the annu-\nal new years ode OF the Canandaigua Re-\npositorv tor The year 1926. The author we\nunderstand, died few weeks after the date\nOf the address.\n\n\nHeard YOU that knell' 1t was the knell of\n\n\nTime.\n\n\nAndi is Time dead' thought Time never died.\nknew him old, tis true, and full of years,\nAnd bald exceptin front;-but he was strong\nAs Hercules:-I saw him grasp the oak,\nII fcl--the tower, it crumbled;-and the stone,\nThe sculptur'd monument, that mark'd the grave\nof fallen greatness, ceas'd its pompous strain,\nAs time came by. Yes, Time was very strong,\nAnd lad thought, too stong for Death TO CRAP\n\n\npie.\n\n\nBut remember now his step was light,\nAnd though he moy'd at rapid rate, or trod\nOn adamant, his tread was never heard,\nAnd there was something ghostly in the thought,\nThat in the silence of the midnight hour,\nWhen all was hush'd as death, and not a sound\ncrept DER my chambers still, or awoke\nThe echo slilmbering therein such an hour\nlie trod my chamber and heard him not\nAnd have held my breath and listened close\nTo catch one football as he glided by;\nBut not slumberng sound awoke, or sgh'd,\nAnd the thought struck me then, that one whose\n\n\nstep\n\n\nWas so much like spirits tread, whose acts\nWere all so noiscless like the world unseen,\nWould soon be fit for other worlds than this\nFit for high converse with immortal minds,\nUnfetter'd by the flesh, ,-unchain'd to earth.\n\n\nTimes movements oh how fleet! and yet\n\n\nhow still!\n\n\nStill as the morning sunbeam, as it kiss'd\nThe blushing flower, but shook not cen thu\n\n\ntears\n\n\nOf Night, the lingering dew-dropa, from it\n\n\nleaves,\n\n\nNor woke the wild-bee slumbering in its folds.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 62,
+                "y0": 1496,
+                "x1": 720,
+                "y1": 2401
+            },
+            "class": "article",
+            "raw_text": "Meek dwellers mid yon terrorstricken cliffs!\nWi,t srows so pure, and nccnse-breathng lips,\nWhence are ye'--Did some white wing'd mes\n\n\nseuscr\nOn Nercv's mission trust your timid germ\n10 the cold cradle ofeternal SHOWS\norbrcathing on the callous icces.\nIid them with tear-drops nurse yer\n\n\nTree nor shrub\nDare that drear atmosphere, no polar pine\nUprears veteran front--yet there ye stand,\nLeaning your checks against the thick ribb'd ice,\nAnd looking up with brilliant eyes to Him\nwho bids sou bloom unblanch'd amid the waste\nOF desoution. Man, who painting tolls\nOer slippery sleeps, or trembling treads the\n\n\nverge\n\n\nOf yawnng gulphs, o'er which the headlong\n\n\nplunge\nIs to Eternity, looks shuddering up,\nAnd marks We in your placid loveliness\nFearless, yet frail, and claspng his chill hands\nBlesses your pencil beauty Mid the Pomp\nof mountain SUBMITS rushing on the sky\nAnd claining the rapt soul in breathless awe,\nHe bows 10 bind you dropping to his breast,\nInhales your spirit from the frost wing'd gale,\nAnd frecr dreams of Heaven.",
+            "legibility": "Questionable",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 213,
+                "y0": 1362,
+                "x1": 560,
+                "y1": 1419
+            },
+            "class": "headline",
+            "raw_text": "sPD-EzrlASYe .",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -2
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 183,
+                "y0": 1444,
+                "x1": 594,
+                "y1": 1484
+            },
+            "class": "headline",
+            "raw_text": "THE ALPINE FLOWERS.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1420,
+                "y0": 2629,
+                "x1": 2095,
+                "y1": 5472
+            },
+            "class": "article",
+            "raw_text": "Hollow its stem from branch to root,\n\n\nAnd all its shrivelled arms were bare\"\n\n\ntwas piercing night in mid winter, and\nalong the rounded hills towards the Clifton\nmeadows, the moonlight sparkled on the\nbright and thickly crusted SHOWS with pecu\n\n\nliar splendour. Far off, the faint but per-\npetual roar of the icy river was heard, and\nthe dark forests beyond it were dimly seen\n\n\nin the distance, like a heavy cloud in the\nwestern horizon. The Intermediate coun-\ntry presented only few solitary trees, and,\nsave that here and there rugged group OF\noyergrown shrubbery were seen above the\nsnow, one wide and Vast uncultivated waste\nappeared. 1t was night in which the fam\ncy of an honest German could not fail to con-\njure up thousand phantoms his shrieking\nghosts cried from the crevices of every sap\nless tree; his witches role on the pale moon\nbeams, in the distant and scarcely pCrcept-\nible mist that spread a thin veil over the\nbeautiful stars; and wandering spirits of de-\nparted friends peeped, like premature res\nurrectionists from behind every thicket.\n\n\n| The hour of eleven had drawn nigh, and\nthe watchful family that inhabited the crazy\nCABIN OH the borders of this barren country,\nhad extinguished their blazing pine lights,\nburied up their fires and sprinkled over the\n| SlHOhlnS dSueo tiC SpOUHiul vi oailt VIC hia\ngic virtues of which dispersed the ghostly\ntrain, and ensured them peaceful rest\nwhen two travellers passed along the brok-\nen- road that leads from the village towards\nthe ford above the falls One bore the APP\npearance of an old man, inirm with age; his\nbroad-brimmed hat hid his face but, some\nthin gray locks waved around his shoulders.\nand he leaned forward on his jaded horse\nlike one suffering with fatigue or decrepi-\ntude; behind him was the appendage of a\n\n\nstranger, large black portnanteau, which\nswelled with the treasure it contained. The\n\n\nother was an athletic young man, whom the\ngood people distinguished to be hardy\nwoodman, who sometimes acted as guide to\ntravellers, and sometimes. for he had some\nscience. run out patented lands, and was,\n\n\nwithall, better acquainted with the country\nthan any man in it. He led the old mans\nhorse sometimes and sometimes ran before\nto break the road.\n\n\nThe cottagers thought they discovered\ntraits of mystery in this: and as every thing\nthat partook of mystery BODIED mischief ac-\ncording to their conceptions, they followed\nthe midnight travellers across the barrens\n\n\nwith their eyes, until they disappeared and\nthen lay several anxious hours dreaming of\n\n\nmurder. and robbery. and blood. More\n\n\nthan once they thought they heard the pier\n\n\nclng cry.of despair, mingled with the roar OF\nthe waterfall; and more than once discover\n\n\ned symptoms in the dusky room that spoke\n! of death without.\n\n\nBut the woodman was in the village by\nsunrise; he reported he had put the stranger\n\n\nsafely across the ford, and left him to pur-\ni sue his journey. Suspicion was hushed for\nmoment, for the character of the young\n\n\n-,,n ,y,e oood the traveller was known tC\n\n\nhave possessed money, but he had been call\ned down the river on business of such ur-\ngent Importance, that it was necessary for\nhim to reach the lower ford that night, and\nhe had, with difficulty prevailed on Hurlbu'\nf to accompany him to the western road. Who\n, the stranger was, none knew, and thus tai\nall was fair. But he never reached the ford\n, and no trace was heard of him that night\nSuspicion was once more awakened, ant\n+ HurIbut maintained, when questioned OF\nthe subject, guarded and scornful silence\nThe tortunetellers were consulted, and they\nmathematical tho woodman. Signs wer'",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1558,
+                "y0": 2499,
+                "x1": 1948,
+                "y1": 2544
+            },
+            "class": "headline",
+            "raw_text": "THE BLASTED TREE.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -2
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1476,
+                "y0": 2551,
+                "x1": 2048,
+                "y1": 2669
+            },
+            "class": "author",
+            "raw_text": "81 mark'd the broad and blasted oak,\n\n\nScorch'd BY the lightning's lvid glare;\nHollow its stem from branch to root,\n\n\nIll ;,, amy, az ara In -",
+            "legibility": "Questionable",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2077,
+                "y0": 782,
+                "x1": 2757,
+                "y1": 4702
+            },
+            "class": "article",
+            "raw_text": "! attended to with all the formality of judicial\ninquiry, and even these condemned the un-\nfortunate young man.\n\n\nWhen spring came, it was discovered\nthat large oak tree, celebrated for its age\nand majesty did not put forth leaf 1t\ngrew near byeroad which led to the river\nbelow the fall; aad as no other cause could\n\n\nbe assigned for its 5lighted appearance it\n\n\nwas attributed to one which now met the\n\n\npopular suspicion among the Germans\n\n\nThey called it the blasted tree, and located\nthe place where the Strangers blood was\n\n\nshed beneath its branches. Wthered by\n\n\nthe hot breath of murder, they declared it\n\n\nshould bloom again, whenever the murder\n\n\ner should be brought to justice, and his blood\n\n\nsprinkled on its dry roots.\n\n\nFive years passed away, and old Impress\nions and vague suspicious grew stronger as\n\n\nyears departed Hurl6ut was now surround\n\n\ned by young and dependent family, but su\n\n\nperstition had fixed an indelible mark on his\n\n\ncharacter, and he was followed by the eye\n\n\nof jealousy, which watched his actions, his\n\n\ncountenance, and his words, while it shnp-\n\n\nned his association. The man became rest\n\n\nless and unhappy; he felt sensibly the\n\n\nweight of sulied reputation, and though\n\n\nhe had disregarded it for many years, he be-\n\n\ngan to sink under its influence into morose-\n\n\nness and disquetude.\n\n\nAbout this time some huntsmen, in the\n\n\npursuit of game which had sheltered in the\nblasted tree, cut it down, and, 10! from the\n\n\nold trunk fell the withered bones of a human\nbeing; they were examined by an anatomist,\n\n\nand declared to be perfect parts OF the skel-\n\n\neton of man, whom they judged might\n\n\nhave been deposited there four or five years\n\n\nbefore. An opening in the trunk, some dis\n\n\ntance from the ground, confirmed the prob\n\n\nability of the story. The Germans and their\n\n\nnelghbors caught it up eagerly, and the tate\n\n\nof the unfortunate woodinan seemed liked.\n\n\nHe fed the storm he saw gathering but in a\nmonth ireturned and surrendered himself\n\n\nup for trial.\nThe excitement of the popnlace ran high,\n\n\nand as the day fixed for trial drew near, the\n\n\nhopes Of his acquittal vanished. The mass\n\n\nof the people were shure of his guilt, and\n\n\nthey collected the evidence against him, with\n\n\nan activity and zeal which savoured rather\n\n\nof the spirit of bitter persecution, than of a\n\n\nlove of Justice. leave the reader to ina\n\n\nCINE for himself the feelings of a tender wife\n\n\nand six destitute little children, as they\n| looked forward through the gathering cloud\n, to the day that was to fix his destiny, while\n. hasten to the crowded court room, and\n\n\nthe solemn arrangement OF the husband ano\n: father for the crime of murder.\n\n\nThe prisoner stood pale and detected, but\n, silent and resigned. at the bar, and answered\n: with a calm and steady voice. Mot Guilty,\nto the charge. He was asked if he ha(\n, counsel he answered in the negative, and re\nf ousted that assistance might be assigned\n= him. The Judge cast his eye around th\n3 court, as if careessly in search of some one\non whom to lay what, as his manner seemed\nto Indicate, he thought a hopeless task\n9 when an old gentleman. whose presence a\n: mid the throng had not been noticed, ros\n: and introduced himself as Mir. -, an emf\n: nent lawyer of the city. The court bowe'\ne respectfully, and a look of astonishment wa\n: visible in every face when he asked tn\n: privilege of acting as the defendants cour\n\n\nsci.\n\n\n1t was granted however, unhesitatingly\ny and he resumed his seat. When the wit\n;, nesses had been heard on the side of tn\n5, prosecution. he rose and addressed the cour\ne He recollected the prisoner, he remember\n! ed that on the night on which the evidenc\nv went to fix the murder, he had einploye\n!: the prisoner in the capacity OF guide, an\n: was conducted by him over the ford; tina\nIS he missed his way and did not reach tn\ny lower ford to which he had intended to sc\nis but travelled by another direction to tn\ne city. In regard to the bones so mysterious\n$. ly found, he had two evidences to prove, h\ne said that the very physician, who pronounc\nj. ed them human, and of five years decay\na and who was bitter enemy of the defend\nh ant, had placed them there himself: tina\ne they had for many years before decked I'll\ne corner of his study The first was boy\ny who assisted in placing them there, and tn\no second was the aperture in the trunk OF tn\nc tree itself, which, at the entrance, was no\n$. more than FIVE inches in diameter, and there\nv fore utterly incapable of admittng.a huma\ns body. He sat down with acclamatlons OF as\ne tonshment; the proof went OH; the defend\n\n\nant was acquitted without an argument, AM\nd the revengeful physicipn just escaped iron\nq the village time enough to save his neck.\n: This is the story of the blasted tree. !\nd has moral How dangerous is superst\nIS ton how carefully should circumstanta\nd evidence be examined, and how cautious\n,f weighed how false and deceptive the idea\n,e that what is generally believed is intallibl\n= the right",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2756,
+                "y0": 769,
+                "x1": 3449,
+                "y1": 4901
+            },
+            "class": "article",
+            "raw_text": "has been pursued to this result, that this\n\n\nwas not one of those catchPenny projects BY\n\n\nwhich ignorant and plausible men some\ntimes impose upon public crcdulity, as GER\ntain critics have heretofore affected to re-\ngard it, but laudable devotion of private\ntalent to most honorable and useful public\npurpose.\n\n\nJohn Trumbull was born at Lebanon, in\nConnecticut, on the 9Th June, 1855; his fath-\ner was governor of that state during the\n\n\nwhole OF the revolution: his mother was fifth\nin direct descent from the venerable John\nRobinson, who, during the reign of James\nthe 1st, emigrated from England to Holland\nat the head ofthose purtans, who afterwards,\nin 1920, passed oyer to plymouth, and are\nnow revered as the pilgrim fathers of New\nEngland.\n\n\n| His early education was carefully conduct\ned, and he graduated at Harvard College in\n1873, at the age of IL.\n| In April, 1775, he entered the military\nservice as adJutant of the FIRST Connecticut\nregiment.\n\n\nIn August, of the same year, he was ap-\npointed one of the aids-de-camp of General\nWashington.\n\n\nIn June, 1776, when Gen. Gates was\ntransferred from the office OF adjutant sen-\neral to the command of the Northern DEF\npartment, he was advanced to the very\nimportant situation of that of adjutant gem\neral of that department with the rank of COL\nonel.\n\n\nIn February, 1777, point of honour,\nrespecting the date of his commission, in\n\n\ndnced him to resign: and he quilted the\n\n\nmilitary life before he had completed his 81\nyear.\n\n\ni Ambitious Of fame, and mortified by the\nIimpossblity of connecting his name with the\ngreat events of the revolution in military\n\n\ncharacter, he resolved to cultivate his natu-\n\n\nraj taste for painting, and thus devote HIM\n\n\nself to the commemoration of those scenes\n\n\nin which he could no longer be an actor\n\n\nSoon feeling the disadvantages under which\nthe study of the fine arts must be pursued\n\n\nin this country, in which there was at that\n\n\ntime no living artist to give instruction, nor\n\n\nany models for imitation, he went to France\n\n\nin June, 1880, and thence soon found his way\n: with letter from DR.. Eranklin) to Mr..\n\n\nWest in London; by him he was received\n\n\nwith great kindness, and instructed for\nshort time with parental care. But this\n\n\ncourse was soon interrupted: the news OF\nthe death of Major Andre was received in\n\n\nLondon in November of this year, and the\n| young artist, who was known to have held\n| the same rank in the American army that\n\n\nAndre did in the British, was arrested on\nthe charge of high treason, committed to\n/ prison, and remained in close confinement\n, during months. Happily for him the tide\n! of war changed, and instead of being brought\nto trial, he was liberated in 1881, and return\ned to America.\n\n\ne Not deferred by this hazardous adventure,\n!, he, at the close of the contest, resumed his\n! favorite project, returned to London in jan\n!, uary, 1884; was again received with cordial\n: kindness by Mr.. West, and under his instruc-\ne ton resumed and pursued his studies with\n: unremitted assiduity.\na In 1886 he produced his two first paintings\nS Of American history-the death of General\ne Warren at Bunker's Hill, and the death Of\nj. Gen. Montgomery at Quebec. These pic\n\n\nlures were seen and admired in France\n:, Germany, and Prussia as we'll as in Eng\n! land, and afforded evidence of a rapidity OF\ne improvement unequalled by any other ex-\nt. ample Ito our knowledge) in the history OF\n: the arts. From these pictures copper plates\ne were engraved by eminent artists under his\nd direction and at his expense.\nd Having by these compositions proved him.\nit self to be equal to his meditated task, Col.\ne Trumbull proceeded to mature his plan of a\n}, series of pictures intended to commemorate\ne the principal events, civil and military, of\nj the American revolution, in which it was\nC his object to preserve portraits OF the most\n! distinguished men, and accurate details of\n:, the arms, dresses, costume, and manners OF\n: the times.\n\n\nt In forming this outline of his project, and\ne in the selection of his subjects, he was ia\n;, voured with the advice and assistance OF\ne those venerable patriots who have SO lately\ne gone to their reward, John Adams, then min\nIt lister of the u. States in London, and Ihos;\n!. Jefferson, who held the same situation in\nn Paris.\n\n\nJ. The subjects selected we're\n: 1. The death of Gen. Warren at Bunker's\nd Hill, June IL, 1774\nn 2. The death of Gen. Montgomery at\n\n\nQuebec. Dec. 80, 1775.\nt 5. The Declaration of independence\ni Philadelphia. July 4. 1875.\ni 4. The capture of the Hessians at irentohs\n' Dec. IS, 1875.\n\n\ni, S. The death of Gen. Mercer, at Prince\nY ton, Jan. 2, 1777.\n\n\n6. The surrender of Burgoyne at Saratoga,\n\n\nOct. s, 1777.\n\n\nz. The treaty with France, Paris, 1873.\n\n\ng. The battle of Eutaw Springs, 5. Carolina.\n\n\n1880.\n\n\ne 9. The surrender of Yorktown, Virginia\n= 1881.\n\n\nn 10. The treaty of peace, Paris, 1888.\n\n\nE,o ol &c NJ Voply Nov",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 728,
+                "y0": 908,
+                "x1": 1412,
+                "y1": 5048
+            },
+            "class": "article",
+            "raw_text": "|\nthe season when the mind requires the most\nulicious direction, in order tn It things may\nbe learned by their right names, and IN the\nright places: it is the period when the dawn\ning intellect demands the most scrupulous su\nperintendence, that the earliest indications OF\npeculiar bias may be detected, and encour-\naged or repressed, as circumstances may re-\nouire. 1t is the time, of all others when the\nmost sacred regard to truth So luld be OBJ\nserved by those who have intercourse with\nyouth-truth, not only in relation to great\nthings, or as opposed to direct falsebood. but\nthat truth which states no improbabilities,\nno fic,ions, no mysteries-in short, the truth\nOf correct example, in action. word and look.\n\n\n\"The condition of childhood or adolescence\nis the spring tide Of our existence. All SEN\nsations are new, all scenes are inviting, ev-\ncry object is a source of gratihcatlon TO Gu\nriositv. The number and rapidity OF our\nsensations keep up continual succession OF\nimages in the mind; and one SO Immediately\nlisplaces the other, that whether palhiui\n| or plcasurable, they soon disappear; the\nhours feet away with winged swlttness, not\ncounted though deeply felt--net individually\nproductive of remarkable consequences, out\nfer ever after treasured in the memory, aS\nthe times Of peculiar happiness; as the days\nlong gone by--as the golden age OF lie, for\never fed.\n\n\nmro this period SUCCEEDS that Of beginning\nmaturity, when the body acquires its tull\ngrowth. and the slender and awkward boy\nimperceptiblv changes to the vigorous and\ngraceful man. His piping and TRIBE voice,\npassing through various irregularities, as\nsumes that sonorous strength of intonatlon\nso we'll beftting his condition. The cavi\nties of his skull, previously unmarked by\nexternal prominences, now expand. Ills\nbrow becomes elevated: his eyes more deep\"\nly seated in their sockets; his cheeks are\n| broader and higher, and the passions and\nworkings OF the mind become imprinted up\n| on his countenance. The rosy, unmeaning\nand frolic expressions of his visage are gone;\nhis air is thoughtful and serious. Those\nwho are familiar with him as child, expe-\nrience an awkward restraint in addressing\nI him; his parents are conscious OF his change\nwithout being able to define 1t. HIS very\nmother, who nursed and cherished him thro'\nall his intantile troubles, learns to listen to\nhim with respect, and look upon hln with\nreverence. Henceforth he assumes his sta\ntion as member of the great human family,\nresponsible for his actions solely to his coun-\ntry and his Gode\n\n\n1.-THE approach of his sister to the same\n\n\n\n\n\nchanges in external appearance, not so\nstriking for their magnitude, as from their\npeculiar character. The whole expression\nis wonderfully altered; d;-there is singular\naddition of loveliness to features which may\nhave previously been considered uninterest-\ning and even repusive. The step, the voice\nand gestures all declare, that \"Nature's last,\nbest work.\" has assumed all her charms,\nand is no longer to be approached, except\n\n\nwith that homage which her loveliness and\n\n\ninnocence never fail to inspire, especially\nwhen their natural power is augmented, by\nthat cultivation of mind which imparts Wig\n\n\nour to intelligence, and ten fold attractions\n\n\nto beauty.\n\n\nawe next consider our race in their ma\n\n\nturity, or summer. The faculties of the\n\n\nmind are advancing to their perfect state;\n\n\njudgment or the power of deducing conclu-\nsion and principles from observation, pre-\n\n\ndominates over the memory, and the mind is\ncapable of most intense application to any\n\n\npursuit This is the season for exertion\nthe time for providing future subsistence\n\n\nfor attending to the education OF our of\n\n\nspring; as we'll as for fixing our own habits\n\n\nof thinking and acting. 1t is the season fol\n\n\ncomforting benefits on our fellow creature:\nbv the employment Of our leisure, and win\n\n\n\n\n\n: more effectual discharge ofthe debts we owe\nj to society At this period the body, which\ni has ceased to grow in height, acquires &\nS greater degree of fbreadth and fulness. The\na soft and delicate texture of the solids give\nplace to greater rigidity of fibre and tht\ni strength of the limbs is in full vigour. Thi\nperiod endures for variable lapse of time\nmodified by temperance, exercise, climate\nn and occupation.\n\n\nNext, autumn comes, the season of the\nIf \"sere and yellow leaf\" The supleness ant\ni nobility of the limbs diminish; the senses are\ne less acute, and the impressions of externa\n: objects are less remarked. The fbres o\nn the body grow more rigid; the emotions o\nS the mind are more calm and uniform;- thu\ne eye loses its lustrous keenness OF expression\n$ the skin hangs loosely; the teeth generally\no begin to fail. if they have not previously\n!; and the digestion proportionally declines\n: The mind no longer roams abroad with 1T\ny original excursivencss, though it is still ca\nd pable of intense and advantageous applica\nd ton to particular studies. The powers o\ne imagination is in great degree lost Sa'\nn experience has robbed external objects o\ne their illusiveness; the thoughts come home\nn it is the age of reflection The flight o\nd time is also marked by the change OF TIL\n= firm tone of manhood for an occasional jar\nl. ring and dissonant note, and the head Ell",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                15,
+                0
+            ],
+            "headline": "From the N. York Times.\nCOZ. TEJMBULL.",
+            "article": "We have taken some pains to collect the\nfollowing biographical notices of Col. Trum-\nbull, auther of those paintings, subjects from\nthe History of the Revolution, which are\nnow placed in the great hall of the capitol\nat Washington: works which we saw with\ngreat pleasure when they were executing IN\nthis city some years ago-whch. since they\nhave been removed to the seat OF govern\nment, have been bitterly criticized, IN con-\nsequence of their being placed in very unta-\nvourable situations, and bad light, but\nwhich, now that they are seen in the places\nfor which they were intended. begin to re-\nceive the reward of very general commen-\ndaton.\n\n\n1t will be seen from the following notices\nof the motive with which this work was be-\ngun, the manner in which it was conducted\nand the jealous perseverance, with which Il",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2228,
+                    "y0": 4701,
+                    "x1": 2649,
+                    "y1": 4780
+                },
+                {
+                    "x0": 2112,
+                    "y0": 4796,
+                    "x1": 2774,
+                    "y1": 5450
+                }
+            ],
+            "bbox": [
+                2112,
+                4701,
+                2774,
+                5450
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-02-01_p1_sn85042523_00271740244_1827020101_0723.json"
+        },
+        {
+            "object_ids": [
+                16,
+                1
+            ],
+            "headline": "FEBRUARY 1, 1927",
+            "article": "Last comes the lean and sippered pan\ntaloon.\" The marks of decline and deere\npitude become more prcceptible. The\nteeth are gone-the jaws approach each\nother--the face is sunk; the eye quenched in\nrheumatic voice feeble, unequal and whist\nling-the muscles wasted-the gait totter-\ning-thc sight and hearing rapidly fail-and\nthe other senses are almost obliterated.-\nThe mind lives NOT in the present-the\nmemory acts not upon things of to-day. The\ngreen hills, the joyous gambols, the pure\nfriendships of childhood, all thrill through the\nheart. The ancient man sits in the midst\nof generation thrice removed from his own:\nhe appears insensible to those around him\nhe is deaf and participates not in their joys\nhe beholds their sorrows with cold unteel-\n\n\ning eve. But, WHY does he, at times convul-\nsively grasp his staf-anc why does an un-\nneeded tear occasionally trickle down his\nfurrowed cheek9 He is looking back be\nyond the existence of the present generation\nperhaps the image of her who has slept in\ndust for half century--she in whom his\nyouthful heart was \"garnered up, appears\nbefore his memory as once she bloomed:-\nperchance the mother who watched or slept\nDER his cradle, and enhanced the joyousness\nof his early life, is breathing in his ear--or\nthe bosom friend and companion ofhis youth\nfull wanderings, smiles upon him, with the\ntruth and ardour he has so long been stran-\nger to. Where are hey2--Another people\nhas grown to maturity since their graves\nwere sodded Their memory has pcrished\nexcept in the aged man, WHOSE long dried\nfountains of sensibity gush forth afrcsh as\nsuch recollections rise in his mind.\n\n\n1.-The approach of death from slow-com-\ning decline and intirmity of nature, is mark\ned by the eventual oblitcration Of all the fac,\nnlties Of mind and body. The breathing be\ncomes slower, and slower; the heart inter\nmts its pulsatons; the blood lolters along\nthe veins; the extremities grow cold and the\nfeeble flame of life lessons until it ceases tt\nbe preceptihle, except at the centre, where\nit family elimmers for time, and then il\ngently extnguished without sigh or groan\nwithout trace of emotion or of pain\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1510,
+                    "y0": 670,
+                    "x1": 2035,
+                    "y1": 731
+                },
+                {
+                    "x0": 1411,
+                    "y0": 774,
+                    "x1": 2074,
+                    "y1": 2466
+                }
+            ],
+            "bbox": [
+                1411,
+                670,
+                2074,
+                2466
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-02-01_p1_sn85042523_00271740244_1827020101_0723.json"
+        },
+        {
+            "object_ids": [
+                12,
+                2
+            ],
+            "headline": "MAN FROM THE CRADLE TO THE GRAVE",
+            "article": "We have seen the interesting Lecture de-\nlvered by DIR. Goldman, Professor of Anato-\nmy and Physiology in the Rutgers Medical\nCollege. 1t is characterized by good deal\nOF ability, guided by refined taste, and does\nhonor to the author, both as writer and a\ngentleman zealously attached to his prctes-\nSION The lecture opens with beautiful\nand ingenious view and comparison OF the\ndifferent stages of human life, from the era\ndie to the grave, considered principally in\nrelation to their physiological character.\n\n\nMAN, who eventually becomes Lord of\nCreation by his superiority of intellectual\nendowment, enters upon the field OF future\ngreatness the most feeble and helpless of liv-\ning beings.-He is too delicate to sustain\nthe changes of the air he is to breatbe:-his\nhands, those admirable instruments, are\nuseless and unmanageable. The capacious\nmead, the future throne OF intellect, is too\nheavy to be supported by his own strength;\nana MS expressive eyes are incapable OF be-\ning advantageously directed towards any\nOBJECT. Without the loving and unwearied\nassidulty of his tender mother, death would\nspeedily silence his feeble walings; for the\nmower OF the fields, which blooms but fol-\nAz nour, and then withers away, is not more\nuencate nor susceptible of destruction, thar\n- Nhe LIE OF the human infant. But, clasped\nW maternal arms to that fountain of susie\naahse, which may so justly be termed sa\nsrea' from its constituting the first and mos\ns ssnuearing link in parental and social feeling\nis i\"an drinks in llie and warmth; his eyes soor\n;ust sIn 10 distinguish objects, his strength i.\ntn,.e:ased, his senses begin to demand his at\nwh;I, shh;;loh, and that education commences\nmoua malea IS to fit him for assuming his rank a\n\n\nnk .sEl rational and intelligent beings.\n\n\na,sr. \"ess successive changes very gradual,\ns,s;... lie requires parental attention ant\nIN ih.ahce n. long after he has ceased to nestle\naa se ss,o bosom Of his mother, At,this periot\n\n\n3afis are all susceptiAse and vigorous",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 92,
+                    "y0": 3914,
+                    "x1": 720,
+                    "y1": 3958
+                },
+                {
+                    "x0": 79,
+                    "y0": 3961,
+                    "x1": 742,
+                    "y1": 5476
+                }
+            ],
+            "bbox": [
+                79,
+                3914,
+                742,
+                5476
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-02-01_p1_sn85042523_00271740244_1827020101_0723.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "TER HS.--Apv ERTIsEMESrs not exceeding\n90 sonare will be inserted four times for one\n1o,lar' and % cents for each subsequent inser-\n.;on If continued for three months, 80 50--for\n=, months, \"a so; or for one years..\n- subscribers are entitled TO the privilege OF\nhaving their names, place ofresidence, and occu-\npatton, inserted in the Reg'sier, Gratis.\nJEnlLS or SUBSCRiPIION.-To those\nwhoreceivc this paperby mail, t,co dofiars' and\n.hose who not, tico doilurs anatcenty.fre cents\nvear. ~ tpvAScE: Ifnot paid III advance, 50 So\nviii be charged; and if not paid before the eXpi-\nration Of the year, So.\n\n\n1rNosubscrption will be observation-disclosures\n,wo week notice is given and all arrearagesare\nnad",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 53,
+                    "y0": 791,
+                    "x1": 720,
+                    "y1": 1346
+                }
+            ],
+            "bbox": [
+                53,
+                791,
+                720,
+                1346
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-02-01_p1_sn85042523_00271740244_1827020101_0723.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "The following lines commenced the annu-\nal new years ode OF the Canandaigua Re-\npositorv tor The year 1926. The author we\nunderstand, died few weeks after the date\nOf the address.\n\n\nHeard YOU that knell' 1t was the knell of\n\n\nTime.\n\n\nAndi is Time dead' thought Time never died.\nknew him old, tis true, and full of years,\nAnd bald exceptin front;-but he was strong\nAs Hercules:-I saw him grasp the oak,\nII fcl--the tower, it crumbled;-and the stone,\nThe sculptur'd monument, that mark'd the grave\nof fallen greatness, ceas'd its pompous strain,\nAs time came by. Yes, Time was very strong,\nAnd lad thought, too stong for Death TO CRAP\n\n\npie.\n\n\nBut remember now his step was light,\nAnd though he moy'd at rapid rate, or trod\nOn adamant, his tread was never heard,\nAnd there was something ghostly in the thought,\nThat in the silence of the midnight hour,\nWhen all was hush'd as death, and not a sound\ncrept DER my chambers still, or awoke\nThe echo slilmbering therein such an hour\nlie trod my chamber and heard him not\nAnd have held my breath and listened close\nTo catch one football as he glided by;\nBut not slumberng sound awoke, or sgh'd,\nAnd the thought struck me then, that one whose\n\n\nstep\n\n\nWas so much like spirits tread, whose acts\nWere all so noiscless like the world unseen,\nWould soon be fit for other worlds than this\nFit for high converse with immortal minds,\nUnfetter'd by the flesh, ,-unchain'd to earth.\n\n\nTimes movements oh how fleet! and yet\n\n\nhow still!\n\n\nStill as the morning sunbeam, as it kiss'd\nThe blushing flower, but shook not cen thu\n\n\ntears\n\n\nOf Night, the lingering dew-dropa, from it\n\n\nleaves,\n\n\nNor woke the wild-bee slumbering in its folds.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 62,
+                    "y0": 2452,
+                    "x1": 729,
+                    "y1": 3884
+                }
+            ],
+            "bbox": [
+                62,
+                2452,
+                729,
+                3884
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-02-01_p1_sn85042523_00271740244_1827020101_0723.json"
+        },
+        {
+            "object_ids": [
+                10,
+                13,
+                5
+            ],
+            "headline": "sPD-EzrlASYe .\n\nTHE ALPINE FLOWERS.",
+            "article": "Meek dwellers mid yon terrorstricken cliffs!\nWi,t srows so pure, and nccnse-breathng lips,\nWhence are ye'--Did some white wing'd mes\n\n\nseuscr\nOn Nercv's mission trust your timid germ\n10 the cold cradle ofeternal SHOWS\norbrcathing on the callous icces.\nIid them with tear-drops nurse yer\n\n\nTree nor shrub\nDare that drear atmosphere, no polar pine\nUprears veteran front--yet there ye stand,\nLeaning your checks against the thick ribb'd ice,\nAnd looking up with brilliant eyes to Him\nwho bids sou bloom unblanch'd amid the waste\nOF desoution. Man, who painting tolls\nOer slippery sleeps, or trembling treads the\n\n\nverge\n\n\nOf yawnng gulphs, o'er which the headlong\n\n\nplunge\nIs to Eternity, looks shuddering up,\nAnd marks We in your placid loveliness\nFearless, yet frail, and claspng his chill hands\nBlesses your pencil beauty Mid the Pomp\nof mountain SUBMITS rushing on the sky\nAnd claining the rapt soul in breathless awe,\nHe bows 10 bind you dropping to his breast,\nInhales your spirit from the frost wing'd gale,\nAnd frecr dreams of Heaven.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 213,
+                    "y0": 1362,
+                    "x1": 560,
+                    "y1": 1419
+                },
+                {
+                    "x0": 183,
+                    "y0": 1444,
+                    "x1": 594,
+                    "y1": 1484
+                },
+                {
+                    "x0": 62,
+                    "y0": 1496,
+                    "x1": 720,
+                    "y1": 2401
+                }
+            ],
+            "bbox": [
+                62,
+                1362,
+                720,
+                2401
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-02-01_p1_sn85042523_00271740244_1827020101_0723.json"
+        },
+        {
+            "object_ids": [
+                11,
+                17,
+                6
+            ],
+            "headline": "THE BLASTED TREE.",
+            "article": "Hollow its stem from branch to root,\n\n\nAnd all its shrivelled arms were bare\"\n\n\ntwas piercing night in mid winter, and\nalong the rounded hills towards the Clifton\nmeadows, the moonlight sparkled on the\nbright and thickly crusted SHOWS with pecu\n\n\nliar splendour. Far off, the faint but per-\npetual roar of the icy river was heard, and\nthe dark forests beyond it were dimly seen\n\n\nin the distance, like a heavy cloud in the\nwestern horizon. The Intermediate coun-\ntry presented only few solitary trees, and,\nsave that here and there rugged group OF\noyergrown shrubbery were seen above the\nsnow, one wide and Vast uncultivated waste\nappeared. 1t was night in which the fam\ncy of an honest German could not fail to con-\njure up thousand phantoms his shrieking\nghosts cried from the crevices of every sap\nless tree; his witches role on the pale moon\nbeams, in the distant and scarcely pCrcept-\nible mist that spread a thin veil over the\nbeautiful stars; and wandering spirits of de-\nparted friends peeped, like premature res\nurrectionists from behind every thicket.\n\n\n| The hour of eleven had drawn nigh, and\nthe watchful family that inhabited the crazy\nCABIN OH the borders of this barren country,\nhad extinguished their blazing pine lights,\nburied up their fires and sprinkled over the\n| SlHOhlnS dSueo tiC SpOUHiul vi oailt VIC hia\ngic virtues of which dispersed the ghostly\ntrain, and ensured them peaceful rest\nwhen two travellers passed along the brok-\nen- road that leads from the village towards\nthe ford above the falls One bore the APP\npearance of an old man, inirm with age; his\nbroad-brimmed hat hid his face but, some\nthin gray locks waved around his shoulders.\nand he leaned forward on his jaded horse\nlike one suffering with fatigue or decrepi-\ntude; behind him was the appendage of a\n\n\nstranger, large black portnanteau, which\nswelled with the treasure it contained. The\n\n\nother was an athletic young man, whom the\ngood people distinguished to be hardy\nwoodman, who sometimes acted as guide to\ntravellers, and sometimes. for he had some\nscience. run out patented lands, and was,\n\n\nwithall, better acquainted with the country\nthan any man in it. He led the old mans\nhorse sometimes and sometimes ran before\nto break the road.\n\n\nThe cottagers thought they discovered\ntraits of mystery in this: and as every thing\nthat partook of mystery BODIED mischief ac-\ncording to their conceptions, they followed\nthe midnight travellers across the barrens\n\n\nwith their eyes, until they disappeared and\nthen lay several anxious hours dreaming of\n\n\nmurder. and robbery. and blood. More\n\n\nthan once they thought they heard the pier\n\n\nclng cry.of despair, mingled with the roar OF\nthe waterfall; and more than once discover\n\n\ned symptoms in the dusky room that spoke\n! of death without.\n\n\nBut the woodman was in the village by\nsunrise; he reported he had put the stranger\n\n\nsafely across the ford, and left him to pur-\ni sue his journey. Suspicion was hushed for\nmoment, for the character of the young\n\n\n-,,n ,y,e oood the traveller was known tC\n\n\nhave possessed money, but he had been call\ned down the river on business of such ur-\ngent Importance, that it was necessary for\nhim to reach the lower ford that night, and\nhe had, with difficulty prevailed on Hurlbu'\nf to accompany him to the western road. Who\n, the stranger was, none knew, and thus tai\nall was fair. But he never reached the ford\n, and no trace was heard of him that night\nSuspicion was once more awakened, ant\n+ HurIbut maintained, when questioned OF\nthe subject, guarded and scornful silence\nThe tortunetellers were consulted, and they\nmathematical tho woodman. Signs wer'",
+            "byline": "81 mark'd the broad and blasted oak,\n\n\nScorch'd BY the lightning's lvid glare;\nHollow its stem from branch to root,\n\n\nIll ;,, amy, az ara In -",
+            "bbox_list": [
+                {
+                    "x0": 1558,
+                    "y0": 2499,
+                    "x1": 1948,
+                    "y1": 2544
+                },
+                {
+                    "x0": 1476,
+                    "y0": 2551,
+                    "x1": 2048,
+                    "y1": 2669
+                },
+                {
+                    "x0": 1420,
+                    "y0": 2629,
+                    "x1": 2095,
+                    "y1": 5472
+                }
+            ],
+            "bbox": [
+                1420,
+                2499,
+                2095,
+                5472
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-02-01_p1_sn85042523_00271740244_1827020101_0723.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "! attended to with all the formality of judicial\ninquiry, and even these condemned the un-\nfortunate young man.\n\n\nWhen spring came, it was discovered\nthat large oak tree, celebrated for its age\nand majesty did not put forth leaf 1t\ngrew near byeroad which led to the river\nbelow the fall; aad as no other cause could\n\n\nbe assigned for its 5lighted appearance it\n\n\nwas attributed to one which now met the\n\n\npopular suspicion among the Germans\n\n\nThey called it the blasted tree, and located\nthe place where the Strangers blood was\n\n\nshed beneath its branches. Wthered by\n\n\nthe hot breath of murder, they declared it\n\n\nshould bloom again, whenever the murder\n\n\ner should be brought to justice, and his blood\n\n\nsprinkled on its dry roots.\n\n\nFive years passed away, and old Impress\nions and vague suspicious grew stronger as\n\n\nyears departed Hurl6ut was now surround\n\n\ned by young and dependent family, but su\n\n\nperstition had fixed an indelible mark on his\n\n\ncharacter, and he was followed by the eye\n\n\nof jealousy, which watched his actions, his\n\n\ncountenance, and his words, while it shnp-\n\n\nned his association. The man became rest\n\n\nless and unhappy; he felt sensibly the\n\n\nweight of sulied reputation, and though\n\n\nhe had disregarded it for many years, he be-\n\n\ngan to sink under its influence into morose-\n\n\nness and disquetude.\n\n\nAbout this time some huntsmen, in the\n\n\npursuit of game which had sheltered in the\nblasted tree, cut it down, and, 10! from the\n\n\nold trunk fell the withered bones of a human\nbeing; they were examined by an anatomist,\n\n\nand declared to be perfect parts OF the skel-\n\n\neton of man, whom they judged might\n\n\nhave been deposited there four or five years\n\n\nbefore. An opening in the trunk, some dis\n\n\ntance from the ground, confirmed the prob\n\n\nability of the story. The Germans and their\n\n\nnelghbors caught it up eagerly, and the tate\n\n\nof the unfortunate woodinan seemed liked.\n\n\nHe fed the storm he saw gathering but in a\nmonth ireturned and surrendered himself\n\n\nup for trial.\nThe excitement of the popnlace ran high,\n\n\nand as the day fixed for trial drew near, the\n\n\nhopes Of his acquittal vanished. The mass\n\n\nof the people were shure of his guilt, and\n\n\nthey collected the evidence against him, with\n\n\nan activity and zeal which savoured rather\n\n\nof the spirit of bitter persecution, than of a\n\n\nlove of Justice. leave the reader to ina\n\n\nCINE for himself the feelings of a tender wife\n\n\nand six destitute little children, as they\n| looked forward through the gathering cloud\n, to the day that was to fix his destiny, while\n. hasten to the crowded court room, and\n\n\nthe solemn arrangement OF the husband ano\n: father for the crime of murder.\n\n\nThe prisoner stood pale and detected, but\n, silent and resigned. at the bar, and answered\n: with a calm and steady voice. Mot Guilty,\nto the charge. He was asked if he ha(\n, counsel he answered in the negative, and re\nf ousted that assistance might be assigned\n= him. The Judge cast his eye around th\n3 court, as if careessly in search of some one\non whom to lay what, as his manner seemed\nto Indicate, he thought a hopeless task\n9 when an old gentleman. whose presence a\n: mid the throng had not been noticed, ros\n: and introduced himself as Mir. -, an emf\n: nent lawyer of the city. The court bowe'\ne respectfully, and a look of astonishment wa\n: visible in every face when he asked tn\n: privilege of acting as the defendants cour\n\n\nsci.\n\n\n1t was granted however, unhesitatingly\ny and he resumed his seat. When the wit\n;, nesses had been heard on the side of tn\n5, prosecution. he rose and addressed the cour\ne He recollected the prisoner, he remember\n! ed that on the night on which the evidenc\nv went to fix the murder, he had einploye\n!: the prisoner in the capacity OF guide, an\n: was conducted by him over the ford; tina\nIS he missed his way and did not reach tn\ny lower ford to which he had intended to sc\nis but travelled by another direction to tn\ne city. In regard to the bones so mysterious\n$. ly found, he had two evidences to prove, h\ne said that the very physician, who pronounc\nj. ed them human, and of five years decay\na and who was bitter enemy of the defend\nh ant, had placed them there himself: tina\ne they had for many years before decked I'll\ne corner of his study The first was boy\ny who assisted in placing them there, and tn\no second was the aperture in the trunk OF tn\nc tree itself, which, at the entrance, was no\n$. more than FIVE inches in diameter, and there\nv fore utterly incapable of admittng.a huma\ns body. He sat down with acclamatlons OF as\ne tonshment; the proof went OH; the defend\n\n\nant was acquitted without an argument, AM\nd the revengeful physicipn just escaped iron\nq the village time enough to save his neck.\n: This is the story of the blasted tree. !\nd has moral How dangerous is superst\nIS ton how carefully should circumstanta\nd evidence be examined, and how cautious\n,f weighed how false and deceptive the idea\n,e that what is generally believed is intallibl\n= the right",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2077,
+                    "y0": 782,
+                    "x1": 2757,
+                    "y1": 4702
+                }
+            ],
+            "bbox": [
+                2077,
+                782,
+                2757,
+                4702
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-02-01_p1_sn85042523_00271740244_1827020101_0723.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "has been pursued to this result, that this\n\n\nwas not one of those catchPenny projects BY\n\n\nwhich ignorant and plausible men some\ntimes impose upon public crcdulity, as GER\ntain critics have heretofore affected to re-\ngard it, but laudable devotion of private\ntalent to most honorable and useful public\npurpose.\n\n\nJohn Trumbull was born at Lebanon, in\nConnecticut, on the 9Th June, 1855; his fath-\ner was governor of that state during the\n\n\nwhole OF the revolution: his mother was fifth\nin direct descent from the venerable John\nRobinson, who, during the reign of James\nthe 1st, emigrated from England to Holland\nat the head ofthose purtans, who afterwards,\nin 1920, passed oyer to plymouth, and are\nnow revered as the pilgrim fathers of New\nEngland.\n\n\n| His early education was carefully conduct\ned, and he graduated at Harvard College in\n1873, at the age of IL.\n| In April, 1775, he entered the military\nservice as adJutant of the FIRST Connecticut\nregiment.\n\n\nIn August, of the same year, he was ap-\npointed one of the aids-de-camp of General\nWashington.\n\n\nIn June, 1776, when Gen. Gates was\ntransferred from the office OF adjutant sen-\neral to the command of the Northern DEF\npartment, he was advanced to the very\nimportant situation of that of adjutant gem\neral of that department with the rank of COL\nonel.\n\n\nIn February, 1777, point of honour,\nrespecting the date of his commission, in\n\n\ndnced him to resign: and he quilted the\n\n\nmilitary life before he had completed his 81\nyear.\n\n\ni Ambitious Of fame, and mortified by the\nIimpossblity of connecting his name with the\ngreat events of the revolution in military\n\n\ncharacter, he resolved to cultivate his natu-\n\n\nraj taste for painting, and thus devote HIM\n\n\nself to the commemoration of those scenes\n\n\nin which he could no longer be an actor\n\n\nSoon feeling the disadvantages under which\nthe study of the fine arts must be pursued\n\n\nin this country, in which there was at that\n\n\ntime no living artist to give instruction, nor\n\n\nany models for imitation, he went to France\n\n\nin June, 1880, and thence soon found his way\n: with letter from DR.. Eranklin) to Mr..\n\n\nWest in London; by him he was received\n\n\nwith great kindness, and instructed for\nshort time with parental care. But this\n\n\ncourse was soon interrupted: the news OF\nthe death of Major Andre was received in\n\n\nLondon in November of this year, and the\n| young artist, who was known to have held\n| the same rank in the American army that\n\n\nAndre did in the British, was arrested on\nthe charge of high treason, committed to\n/ prison, and remained in close confinement\n, during months. Happily for him the tide\n! of war changed, and instead of being brought\nto trial, he was liberated in 1881, and return\ned to America.\n\n\ne Not deferred by this hazardous adventure,\n!, he, at the close of the contest, resumed his\n! favorite project, returned to London in jan\n!, uary, 1884; was again received with cordial\n: kindness by Mr.. West, and under his instruc-\ne ton resumed and pursued his studies with\n: unremitted assiduity.\na In 1886 he produced his two first paintings\nS Of American history-the death of General\ne Warren at Bunker's Hill, and the death Of\nj. Gen. Montgomery at Quebec. These pic\n\n\nlures were seen and admired in France\n:, Germany, and Prussia as we'll as in Eng\n! land, and afforded evidence of a rapidity OF\ne improvement unequalled by any other ex-\nt. ample Ito our knowledge) in the history OF\n: the arts. From these pictures copper plates\ne were engraved by eminent artists under his\nd direction and at his expense.\nd Having by these compositions proved him.\nit self to be equal to his meditated task, Col.\ne Trumbull proceeded to mature his plan of a\n}, series of pictures intended to commemorate\ne the principal events, civil and military, of\nj the American revolution, in which it was\nC his object to preserve portraits OF the most\n! distinguished men, and accurate details of\n:, the arms, dresses, costume, and manners OF\n: the times.\n\n\nt In forming this outline of his project, and\ne in the selection of his subjects, he was ia\n;, voured with the advice and assistance OF\ne those venerable patriots who have SO lately\ne gone to their reward, John Adams, then min\nIt lister of the u. States in London, and Ihos;\n!. Jefferson, who held the same situation in\nn Paris.\n\n\nJ. The subjects selected we're\n: 1. The death of Gen. Warren at Bunker's\nd Hill, June IL, 1774\nn 2. The death of Gen. Montgomery at\n\n\nQuebec. Dec. 80, 1775.\nt 5. The Declaration of independence\ni Philadelphia. July 4. 1875.\ni 4. The capture of the Hessians at irentohs\n' Dec. IS, 1875.\n\n\ni, S. The death of Gen. Mercer, at Prince\nY ton, Jan. 2, 1777.\n\n\n6. The surrender of Burgoyne at Saratoga,\n\n\nOct. s, 1777.\n\n\nz. The treaty with France, Paris, 1873.\n\n\ng. The battle of Eutaw Springs, 5. Carolina.\n\n\n1880.\n\n\ne 9. The surrender of Yorktown, Virginia\n= 1881.\n\n\nn 10. The treaty of peace, Paris, 1888.\n\n\nE,o ol &c NJ Voply Nov",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2756,
+                    "y0": 769,
+                    "x1": 3449,
+                    "y1": 4901
+                }
+            ],
+            "bbox": [
+                2756,
+                769,
+                3449,
+                4901
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-02-01_p1_sn85042523_00271740244_1827020101_0723.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "|\nthe season when the mind requires the most\nulicious direction, in order tn It things may\nbe learned by their right names, and IN the\nright places: it is the period when the dawn\ning intellect demands the most scrupulous su\nperintendence, that the earliest indications OF\npeculiar bias may be detected, and encour-\naged or repressed, as circumstances may re-\nouire. 1t is the time, of all others when the\nmost sacred regard to truth So luld be OBJ\nserved by those who have intercourse with\nyouth-truth, not only in relation to great\nthings, or as opposed to direct falsebood. but\nthat truth which states no improbabilities,\nno fic,ions, no mysteries-in short, the truth\nOf correct example, in action. word and look.\n\n\n\"The condition of childhood or adolescence\nis the spring tide Of our existence. All SEN\nsations are new, all scenes are inviting, ev-\ncry object is a source of gratihcatlon TO Gu\nriositv. The number and rapidity OF our\nsensations keep up continual succession OF\nimages in the mind; and one SO Immediately\nlisplaces the other, that whether palhiui\n| or plcasurable, they soon disappear; the\nhours feet away with winged swlttness, not\ncounted though deeply felt--net individually\nproductive of remarkable consequences, out\nfer ever after treasured in the memory, aS\nthe times Of peculiar happiness; as the days\nlong gone by--as the golden age OF lie, for\never fed.\n\n\nmro this period SUCCEEDS that Of beginning\nmaturity, when the body acquires its tull\ngrowth. and the slender and awkward boy\nimperceptiblv changes to the vigorous and\ngraceful man. His piping and TRIBE voice,\npassing through various irregularities, as\nsumes that sonorous strength of intonatlon\nso we'll beftting his condition. The cavi\nties of his skull, previously unmarked by\nexternal prominences, now expand. Ills\nbrow becomes elevated: his eyes more deep\"\nly seated in their sockets; his cheeks are\n| broader and higher, and the passions and\nworkings OF the mind become imprinted up\n| on his countenance. The rosy, unmeaning\nand frolic expressions of his visage are gone;\nhis air is thoughtful and serious. Those\nwho are familiar with him as child, expe-\nrience an awkward restraint in addressing\nI him; his parents are conscious OF his change\nwithout being able to define 1t. HIS very\nmother, who nursed and cherished him thro'\nall his intantile troubles, learns to listen to\nhim with respect, and look upon hln with\nreverence. Henceforth he assumes his sta\ntion as member of the great human family,\nresponsible for his actions solely to his coun-\ntry and his Gode\n\n\n1.-THE approach of his sister to the same\n\n\n\n\n\nchanges in external appearance, not so\nstriking for their magnitude, as from their\npeculiar character. The whole expression\nis wonderfully altered; d;-there is singular\naddition of loveliness to features which may\nhave previously been considered uninterest-\ning and even repusive. The step, the voice\nand gestures all declare, that \"Nature's last,\nbest work.\" has assumed all her charms,\nand is no longer to be approached, except\n\n\nwith that homage which her loveliness and\n\n\ninnocence never fail to inspire, especially\nwhen their natural power is augmented, by\nthat cultivation of mind which imparts Wig\n\n\nour to intelligence, and ten fold attractions\n\n\nto beauty.\n\n\nawe next consider our race in their ma\n\n\nturity, or summer. The faculties of the\n\n\nmind are advancing to their perfect state;\n\n\njudgment or the power of deducing conclu-\nsion and principles from observation, pre-\n\n\ndominates over the memory, and the mind is\ncapable of most intense application to any\n\n\npursuit This is the season for exertion\nthe time for providing future subsistence\n\n\nfor attending to the education OF our of\n\n\nspring; as we'll as for fixing our own habits\n\n\nof thinking and acting. 1t is the season fol\n\n\ncomforting benefits on our fellow creature:\nbv the employment Of our leisure, and win\n\n\n\n\n\n: more effectual discharge ofthe debts we owe\nj to society At this period the body, which\ni has ceased to grow in height, acquires &\nS greater degree of fbreadth and fulness. The\na soft and delicate texture of the solids give\nplace to greater rigidity of fibre and tht\ni strength of the limbs is in full vigour. Thi\nperiod endures for variable lapse of time\nmodified by temperance, exercise, climate\nn and occupation.\n\n\nNext, autumn comes, the season of the\nIf \"sere and yellow leaf\" The supleness ant\ni nobility of the limbs diminish; the senses are\ne less acute, and the impressions of externa\n: objects are less remarked. The fbres o\nn the body grow more rigid; the emotions o\nS the mind are more calm and uniform;- thu\ne eye loses its lustrous keenness OF expression\n$ the skin hangs loosely; the teeth generally\no begin to fail. if they have not previously\n!; and the digestion proportionally declines\n: The mind no longer roams abroad with 1T\ny original excursivencss, though it is still ca\nd pable of intense and advantageous applica\nd ton to particular studies. The powers o\ne imagination is in great degree lost Sa'\nn experience has robbed external objects o\ne their illusiveness; the thoughts come home\nn it is the age of reflection The flight o\nd time is also marked by the change OF TIL\n= firm tone of manhood for an occasional jar\nl. ring and dissonant note, and the head Ell",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 728,
+                    "y0": 908,
+                    "x1": 1412,
+                    "y1": 5048
+                }
+            ],
+            "bbox": [
+                728,
+                908,
+                1412,
+                5048
+            ],
+            "full_article_id": 10,
+            "id": "10_1827-02-01_p1_sn85042523_00271740244_1827020101_0723.json"
+        }
+    ]
+}

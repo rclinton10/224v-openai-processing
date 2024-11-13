@@ -1,0 +1,971 @@
+{
+    "lccn": {
+        "title": "Delaware journal.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2638-6917",
+        "lccn": "sn83025530",
+        "start_year": "1827",
+        "end_year": "1832",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [
+            "sn85042477"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn83025530",
+        "edition": "ed-01",
+        "date": "1827-09-28",
+        "pages": [
+            "seq-4",
+            "seq-2",
+            "seq-1",
+            "seq-3"
+        ]
+    },
+    "page_number": "1",
+    "scan": {
+        "lccn": "sn83025530",
+        "edition": "ed-01",
+        "date": "1827-09-28",
+        "page": "1",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-09-28/ed-1/seq-1.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-09-28/ed-1/seq-1/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-09-28/ed-1/seq-1/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn83025530/00271740220/1827092801/0195.jp2",
+        "height": 5552,
+        "width": 3592
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 1605,
+                "y0": 850,
+                "x1": 2412,
+                "y1": 2685
+            },
+            "class": "article",
+            "raw_text": "Spear. John Colesberry, George Winsiow, joshua\nHarlan, Wesly Baly, David kirkpatrick, John lay\nlor, Joseph Norman, Hance Naff, w Fl. Naf, Il.\nII. Naf, Samuel Ford Elisha Huxley, James Z.\nAllen, John Hindman, John Starr, Jacob Starr, w.\nHallowe, Edward Kennard, Renjamn Thomas,\nRobert Ritchie, Hamilton Walker Owen New ade, /\nCharles T. Stockly, DR.. Thomas Brnckle, John d.\nBrinckle, Jesse Belts, Isaac Bonsall Henry Alrchs,\nMahlon Belts, w. Megear, Robert Scott, Miller\n| Dunot, John Adams, Robert Keddy, VIM. Marshall,\nStephen Boldly, Ezra Hopes. Andrew Alston,\n| James NJ Roche Thomas Garrett, Joseph Hartley\nJames Brown, Wm Woodcock Marcus 2. Capeile,\n| w. G. Dorsey, DR.. j. Thomas, Thomas Moore,\nThomas M'Korkle, VIM. Wilson, Frederick Leon\nard, Vincent Robinson, John Stapler, 4. Mcdowell,\n| S. Gaford, Hugh McDevitt, Samuel Robinson, All\nbert Robinson, Peter HUMPHREYS, James Webb,\nJohn Pierson, Joseph Person. Wilson Plerson, Hen.\n! ry Wits, Jacob Pierson, Jacob Harman Carney\nClark, Charles Bush, Abraham Richie, James\nSmith, Erby Pierce, George Witsil, David Harbin,\nson, Henry Hayes, John Solomon, James Lane,\nJames Watson, James Logan, Andrew Thomson\nAllan Mills, William Sherer, John Coleman, Will\nliam Robinson, David Register, Jesse Rogers, Ben\nljamin Chandler james Silly, Samuel Rudolph,\nBenjamin Fredd, John Craig, Samuel Griscom, Will\nliam Bane, Thomas Mahaffey, John Gasklll,\nJohn Derckson, Jacob Higgins, John Hemphill,\nGeorge Young James Bringhurst, VIM. Countlss,\nBenjamin Ford, Dell Nobtt, Archibald Robert\nson, William Clarke, Uriah Ponsett, Thomas Gro\nzier, Eli Crozier, Joshua H. Irons, Robert Shipley\nThomas shipley, Henry Gibbons, Isaac shallcross\nThomas G. Alrichs, John Scott, Simon Robinson\nThomas kellam, Samuel Richardson, Daniel Dmgee\nGeorge Jones, Joseph Patton.\n\n\nResolved, That the Committee OF Vigilance NEE\nat this place on Monday evening next at O'Clock\n\n\nthe evening previous to the eection), to make sue\npreparatory arrangements as they may think ne\ncessary--\n\n\nResolved, That the proceedings of this meetin\nbe signed by the chairman and secretary, and pub\nlished in the American Watchrnan, Delaware Jour\nnal, and the Delaware Weekly Advertiser.\n\n\nROBERT PORTER, Chairman.\n\n\nJOHN t. GILpIN, Sec'y.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 915,
+                "y0": 654,
+                "x1": 2217,
+                "y1": 751
+            },
+            "class": "headline",
+            "raw_text": "FRIDAY, September 2S, 1927.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 850,
+                "y0": 3287,
+                "x1": 1640,
+                "y1": 5236
+            },
+            "class": "article",
+            "raw_text": "At meeting of the friends of the Adminlstra-\nton, held at the house of Joshua Hutton, on Mon\ndav the oath inst. Robert Porter was appointed\nChairman and John L. Gilpin Secretary. on mo-\nton it was -,\n\n\nRESOLVED, unanimously. that this meeting cordial\nly approve the nomination OF h. JOHNS, Jh as\ncandidate for Congress- made at Dover, on iaes-\nday the 18th inst. as well as the County tioke'\nagreed upon at Clark's Corner on the 18th inst.\nand that we will use all fair and honorable means to\ninsure the success of said ticket at the ensuing\nelection.\n\n\nResolued, That we approve the nomination at\nNew Castle. Of James Mccullough, (FarIner) to\nsunply the place of James Booth. resigned, as a\ncandidate for the legislature Of this state.\n\n\nResolyed, That the following persons be appoint\ned committee Of vigilance. and be requested 10 use\nall diligence, to induce persons III favor oi ''e au-\nmnistration, to attend at the polls.\n\n\nJames A. Sparks, Jesse Menden,all, w. A. Men\ndenhaIl. B. w. Bracken Robert Pierson, Samuel\nMsClary, Charles Reynolds, George Reynolds, John\nNJ. Smith, W. Gray, John McClear, Enoch Rob\nerts Samuel S. Grubb, Edward Grubb, William\nWarner. John Warner, r.. Porter, P. B. Porter, DR..\nJohn johnson, James Wilson, Albert Wilson, Henry\nWilson, James P. Merrihew, Stephen Merr,hew'\nJoshua Hutton, ohm Ferris, ,Jr. James Plumy James\nJohnson, Peter Gaskl, Samuel Woliaston, Wash\nington Rice, w. 7. Brobson, John Wales, Nathaniel\nBeckley, oamnei payers, -. ~ '''n'', ~,\n\n\nRichards, Samel Buzby, William Bassett, Zba Fer\nris. Stephen Bonsall, Edward r. Baily, John iiaga\nny, Jos. Hagany, B. Ferris, James sorden' Edward\nInskip. Samuel Stroud Jr Joshua Stroud, John\nRumord. Lewis Rumford, james Candy, John Sci\nlars. Joseph Bay, Jonathan Byrnes, Jonathan\nRvrnes Jr. Caleb Starr, Edward Worrell, Jonathan\nPiierson, Geo. Simmons, Joshua Simmons Huston\nSwayne, james Murdoch, Samuel .. eoole, VIM. >\nPoole, John H. Price, Edmund Candy, Dr.. William\nBaker, Daniel Simmons. John White. Nicholas Il\nWhite, W. White, Benjamin Webb, DR.. G. Jaques\nCharles Denny, Jared Chestnut, W. g, Jones' PhillI\nJones, Joseph C. Gilpiu, Vincent Gpn, John r\nGilpin, Richard Gilpin, Edward W. Gilpln, William\nGilpin, Josiah II. Gilpin, John tlirons IT. =. b\nVaughan Joseph Patton James h'Ge pan,o Ra s%y,n M\nRice, William Kennard, Joseph Pogue, I. War\nrington, r. Warrington, Jr. Joseph Carpenter, Isaac",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 932,
+                "y0": 3231,
+                "x1": 1528,
+                "y1": 3280
+            },
+            "class": "headline",
+            "raw_text": "MEETING IN WILiHINGION.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2411,
+                "y0": 824,
+                "x1": 3211,
+                "y1": 1527
+            },
+            "class": "article",
+            "raw_text": "Askew, Charles Braden. Jacob Welden, James\nTodd, Robert Forwood, WIN. X. Forwnod John\nBarnes, John Hallman, Charles Forwood Nathaniel,\nSquibb, John Zebley, William Rorell, Thomas\nBeeson, Jr. Zackariah Rorel, Jr. and Joshua Dol\nton.\n\n\nResolved, That the following persons be Conn\nmittee to give information that meeting OF the\nfriends Of the Administration will be held at al-\nbreath's Inn blue BalD Brandywine Hundred on\nWednesday the s6th inst at 8 O'clock to. 10 'fansacs\nbusiness preparatory to the general election. :,\n\n\nViz Robert Galbreath, Cunning Bedford, VIM.\nHouisun and Thomas Carr,\nResotued, That the proceedings Of this meeting be\npublished in the newspapers in Whining on fasoul'\nable to the present Administration.\nTHOMAS Rob- ,SON, Chairman.\n\n\nAttest VIM. McCAuLLEY, Secy",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 32,
+            "bbox": {
+                "x0": 2858,
+                "y0": 650,
+                "x1": 3180,
+                "y1": 738
+            },
+            "class": "headline",
+            "raw_text": "NO. AG.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2429,
+                "y0": 1613,
+                "x1": 3224,
+                "y1": 2252
+            },
+            "class": "article",
+            "raw_text": "AT meeting Of the citizens OF St. Georges Hundred\nheld Mlddetown agreeaby to pubic notice, friendly 10\nthe Administration of the General Government Doctor ).\nd. WAIT called the Chair, and John Eddowes, apa\npointed Secretary. cc\n\n\nResolved That the Chairman appoint committee OF hve\nto nominate committee Of vigilance.\n\n\njohn Janver, ir William Kennedy, John Burnhalfh\nJoshua iayton Esq and Thomas, s. Merritt were appoints\ned accordingly. ..,\nmen, viz. ,,,,.\n\n\nLpnntee of Vgilance james James, James M'Crachen,\njohn femp.en.an, James Burnhan Andrew Bldale John\nL. Llyto James Clayton James l. Burd, Isaac Clements\nJames Mansfield, Wm. Streets. Benz .min Nlerrts, Jnhn\nEdowe Thomas Harvey, Andrew Joseph Cleas\nvel Sims Carpenter, Dleh, lr A. K, Penston samuel\nHiggins, Jacob Vandegr jr. John Royt Jr Dahei Cors\nbit, William Polk, John NJ. Woods, William ballard ano\nJohn Ginn.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 2437,
+                "y0": 1539,
+                "x1": 3189,
+                "y1": 1601
+            },
+            "class": "headline",
+            "raw_text": "ADMINISTRATIONS MEETING.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 30,
+                "y0": 1309,
+                "x1": 803,
+                "y1": 2056
+            },
+            "class": "article",
+            "raw_text": "CoNcoRD.-Dr. Thomas Adams, p M.\nBRlDGEvILLE.-Henry Cannon, 7. M.\nMLToN.--Mr. Arthur Milby.\n\n\nFRANKFoRD.--Mr Isaiah Long.\nDAGsnoRouGu.--Dr. Edward Dingle.\nGEORGE TowN.--Mr. Joshua S. Layton.\nLEwEs--H. F. Rodney, P. M.\n\n\nMILroRD.--Mr. Joseph G. Oliver.\nFREDERIcA.-J. Emerson, P. M.\nCAMDEN.-Th Thomas Wainwright, P. M.\nDoyER.-John Robertson, Esq.\nSMyRNA-Samuel II. Hodson. Esq.\nCANrwELLs BRrDcE.-Manlove Hayes, M.\nThomas Harry, ?. M.\nSUMMIT BRIDGE.-John Clement, P. M.\nWARWICK, Md.--John Moreton, z. M.\nSubscribers living in the vicinity of the residence\n,f these Agents, may pay their subscription mon ey\n% them, they being authorized to receive it, and to\ngive receipts",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 273,
+                "y0": 1257,
+                "x1": 530,
+                "y1": 1306
+            },
+            "class": "headline",
+            "raw_text": "AGENTS.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1644,
+                "y0": 2767,
+                "x1": 2434,
+                "y1": 3961
+            },
+            "class": "article",
+            "raw_text": "At large and respectable meeting OF the friends\nof the present Administration of the General Gov\nernment held at Blackbird, on Thursday goth OF\nSeptember, Major WILLIAM ROTHWELL was\ncalled TO the char, and BENJAMIN CAULk ap-\npointed Secretary.\n\n\nThe proceedings Of the meeting at Clark's corner\nbeing read, the following resolutions were unanl-\nmousy adopted.\n\n\nResolved That in the opinion ofths meeting, the\nAdministration of the General Government is per-\nfecty clear of all the charges of bargain and corrup-\ntion which the leaders of the Opposition have en-.\ndeavored to fix upon it.\n\n\nResolved, that we highly approve OF the nonlna-\ntion made by the Conferees at Dover, and that we\nwill use all honorable mems to insure the election OF\nKENsEy JOHNS, JR. Esq. the Congressional Candi-\ndate nominated\n\n\nResolved, that we approve OF the proceedings CT\nthe meeting at Clars corner, and that we Will give\nour firm and undivided support to the county ticket\nthere formed.\n\n\nResolved, that committee OF vigilance be ap-\npointed by the chairman and they are requested to\nTO use all honorable means best calculated TO support\nthe present Administration.\n\n\nResolved. that the proceedings of this meeting be\npublished in the papers in this county friendly to\nth, present Administration of theGeneral Govern\nment. -\n\n\nw. RoTHwELL, Chairman.\nBsNJ.m1N CAuIE. SeC'y.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 1765,
+                "y0": 2706,
+                "x1": 2321,
+                "y1": 2755
+            },
+            "class": "headline",
+            "raw_text": "APPOQUINIMiNK HUNDRED.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1657,
+                "y0": 4042,
+                "x1": 2443,
+                "y1": 5205
+            },
+            "class": "article",
+            "raw_text": "At meeting of the friends OF the Administration\nin Brandywne Hundred, at the Blue Ball lnn. on\nSaturday, the 22nd September, 1927, pursuant to\nthe public notice, COLONEL THOMAS KOBlNSs'N\nwas called to the chair, and William M1Cauiey aP-\npointed secretary. when the following resolutions\nwere unanimously adopted: :\n\n\nResolued, That we approve OF the nomination OF\nKENSEY JOHNS, Jatnr. Esq. for Representative\nto Congress That we will render him our united\nand cordial support and that we recommend nm TO\nthe friends of order and good government as cltl-\nzen worthy of their support and confidence. =,\n\n\nResolued, That we approve OF the County nichet\nformed by the Administration meeting lat Clark $\nCorner) and that we will all fair and honorable\nmeans to promote its success.\n\n\nResolved, That the following persons be COM\nmittee of vigilance to watch over the interests OF\nthe constitution and the people for this Hundred\nto wit Colonel Thomas Robinson, William Long,\nJohn b. Bains, Cunning Bedford, William houson'\nThomas Can, Samuel Gaibreath, William McCaui-\nlev, Charles Dupont, John Bird, John Forwood'\nJOS. I. Price, John Harris, Jos. W. Day. Caieo\nPerkins, William Lea, Harry Williamson, 90\nscph Perkins, Joseph HILBERT, Jesse Kendall An\ndrew Fountaine, William w. Young, Joseph :, ;.\nDixon, Joseph Carver, Joseph Carr, VIM. HemPn'l'\nJr. Holbert Weldin. Curtis Mousley, Irving smith,\nEmpson Bird, VIM. Murphy, VIM. Bird, Georse\nCartme, l.. sacrieste, Amer Chandler' farKer",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 33,
+            "bbox": {
+                "x0": 1687,
+                "y0": 3925,
+                "x1": 2183,
+                "y1": 3974
+            },
+            "class": "headline",
+            "raw_text": "BENJAMIN CAuLg, Sec'y.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -2
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 1900,
+                "y0": 3994,
+                "x1": 2204,
+                "y1": 4034
+            },
+            "class": "headline",
+            "raw_text": "BRANDY WINE.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 26,
+                "y0": 2134,
+                "x1": 812,
+                "y1": 2538
+            },
+            "class": "article",
+            "raw_text": "Persons wishing amy sort ofPRIsrING done, with\nneatnass, accuracy, and dispatch ADVERTISEMENTS\ninserted, or SuGscmpTIoNs paid where there are\nno Agents appointed in their neighbourhood to re-\nccive them, will please apply, rdlrect to X. Porter\nanl son, No. 81 Market Street, Wilmington\n\n\nAll communications, not of the above character,\no be ldr ,ssed to NJ Bradford, Editor Of the Della\nware Journal, Wilmington.\n\n\nThis arrangement is made for the more regular\nand prompt execution of business",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 282,
+                "y0": 2082,
+                "x1": 530,
+                "y1": 2130
+            },
+            "class": "headline",
+            "raw_text": "NOTICE.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 61,
+                "y0": 3882,
+                "x1": 847,
+                "y1": 4325
+            },
+            "class": "article",
+            "raw_text": "CONTENTS Biographical sketch of Mr.. Clay.\nSpcech ON Manufactures---Line of the Perdido--\nBank kcharter-Augmentation ofthe military force\nIncrease Of the Navy--New Army--EmanclPation\nOf South America--lnterna ovement--semn-\no, Mission to South Anlerica-The Tariff\nSpanish treaty--Greels revouton--Amercan IN\ndastry--Colonlz alton of the negroes--Bank qnes-\ntion--Allress TO Copsttuents--Speech at Lewis\nburch; with spotrat in front-price 81 25.--Ihe\nabove work to be had Of the publishers OF this pa\nrer, at their Book Store, No. 81, Market-otreet'",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 78,
+                "y0": 3790,
+                "x1": 816,
+                "y1": 3870
+            },
+            "class": "headline",
+            "raw_text": "Clay's Speeches, &c.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 74,
+                "y0": 4654,
+                "x1": 855,
+                "y1": 5245
+            },
+            "class": "article",
+            "raw_text": "Pirate Mich'gan.--Wc have conversed WIN\npassenyeroa board OF the steam boat IRON Albany\nyesterday, who left Niagara Falls on last oa.uruay\nevening. He stated that the \"conaemneu sessa,\ngot loose from her moorings little after the appoint\ned time, andwas proceeding iavourably until within\nabout mile Of the edge Of the fall, when she struck\nagainst rock with great violence, and carried away\nboth of her masts After this she tossed and rolled\nabout violently in the rapids Zone of the larger AMI\nmails. the buffalo made complete and safe es-\ncape rom her, and was finally prccp;ated over the\ngreat fall at the Horseshoe. The sight IS stated TO\nhave been very interesting one, and was viewed\nny an immense number OF spectators.\n\n\nCom. ,qdv.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 486,
+                "y0": 4602,
+                "x1": 816,
+                "y1": 4642
+            },
+            "class": "headline",
+            "raw_text": "New Y oRK, Sept. l3.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 17,
+                "y0": 910,
+                "x1": 795,
+                "y1": 1228
+            },
+            "class": "article",
+            "raw_text": "THE DELaW.aRE JOUR.N:qL is pub\nhshed on Tuesdays and Fridays, ut four dollars\nper anuun; tao dollars every sic months IN ad-\npance.\n\n\nadvertisements inserted on the usual terms\nViz: One dollar for four insertions Of siateen\nlines. and 50 int proportion for every number Of\nadditional Hnes and insertions.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 217,
+                "y0": 828,
+                "x1": 599,
+                "y1": 885
+            },
+            "class": "headline",
+            "raw_text": "CONDITIONS.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 880,
+                "y0": 867,
+                "x1": 1580,
+                "y1": 3202
+            },
+            "class": "article",
+            "raw_text": "\nlie death of John Webb, David Morrow, John Harris\nnry Lewis, David Hunt, and Edward Lindsey; 81,\nli'iamen who were condemned to die, the sentenc,\nproved by Major Gen. JACKSON, and by his order thu\nloe six shot,\no did you hear that pIantve cry,\nBorne on the southern breezep\nSaw you John Harris, earnest pray\nFor mercy, on his knees\nLow to tli e earth he bent, and prayd\nFor pardon from his chief;\nBut to his earnest prayer for life\njackson alas was deaf.\ng. s'Spare me'-he said\" meant no wrong\nMy heart was always true\n\" First for my Country's cause it beat,\n\"And next, great Chief, for you.\n\"We thought our time of service out\n\"-Thought it our right to go:\n\"We meant to violate no law;\n\"Nor w,sl,'d to shun the foe.\nsour officers declared that we\n+\" Had but three months to stay;\n/\" We Sc we'd those three months faithfully,\n\"UP to the latest day.\n'.No one suspects intended wrong;\n\" The Judgment only erred;\nSIN such u case, o noble Chief,\n\"Let mercy's voice be heard.\naAt home an aged mother waits\n\"To clasp her only son;\nga wife, and nine small children\n\"Ths arm depend upon.\n\"Cut me not off from those dear ties.\n''Nor send me to my doom,\n0 'tls dreadful thing to die,\n\n\nSand moulder in the tomb!\n\"Sure mercy is a noble gem\n\n\n\"On every Chieftans brow;\n\"More sparkling than dadem:\n90! exercise il now\"\ntwas all in vain, John Harris prayr,\n'Tis past the SOUPS belief!\nHard as the flint was Jackson's heart:\nlie would not grant relief.\nHe nrder'd Harris out to die,\n\n\nAnd five poor fellows more\nYoung gallant men in prime of life\n10 welter in their gore!\nMethnks hear the muff1ed drum,\nAnd see the column move;\n--Lo here they come How sad their looks\nFarewell to life and love!\nSee six black coffins rang'd along,\n\n\nSix graves before them made;\nWebb, Lindsey. Harriss, Lewis, Hunt,\nAnd Morrow kneeled and prayed.\nThey kneepd and pray'd, and thought of LOVE,\nAnd ali its dear delights.\nThe deadly tubes are levelled now\n\n\nThe scene my soul affrignts\nSure lie will spare Sure Jackson yet\n\n\nWill all reprievc but one\no harl those shrieks that cry of death\nTh, dreadful deed is done\nAll six militia men were shot;\n\n\nAND o it seems to me;\nA dreadful deei--a bloody act\n\n\nOf needless craety",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 984,
+                "y0": 828,
+                "x1": 1415,
+                "y1": 877
+            },
+            "class": "headline",
+            "raw_text": "MOURNFUL TRAGEDY.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 30,
+                "y0": 2645,
+                "x1": 821,
+                "y1": 2985
+            },
+            "class": "article",
+            "raw_text": "THE Subscriber has lately received a general\nassortment of Fall Goods, such as Cloths, Cassi-\nmeres Flannells Blankets, Sattinetts, Worsted, &C.\nwhich he will sell at reduced prices.\n\n\nAny quantity of wool and feathers will be taken\nln and Goods gwen in exchange at fair market\nnrico at his Store. No. 1O1, Market-Sreet.\n\n\nJOSEPH POGUE.\nWiimngton. 1897. 4o-4",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 182,
+                "y0": 2563,
+                "x1": 638,
+                "y1": 2633
+            },
+            "class": "headline",
+            "raw_text": "FaIl Goods.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2442,
+                "y0": 2324,
+                "x1": 3245,
+                "y1": 5240
+            },
+            "class": "article",
+            "raw_text": "Alta meeting of the Friends Of the Administration\nof the General Government in New Castle Huns\ndred, convened at the Green Tree Inn, on Monday\nSept. \"a, A. ID. 1927. On action JOHN MOoDfs\nEst1. was called to the chair and EUan a. 1honiass\nappointed Secretary\n\n\nThe object Of the meeting having been stated py\nthe Chairman, it was action\n\n\nIesoiped, That Committee Of five persons be\nappointed by the Chairman 10 retire ana report tU\nth,s meeting, the name of suitable person to supe\nply the vacancy in the County ticket nceasioned\nby james Booth, jr. Esq having declined. lhe\ncommittee. viz Evan Thomas, CUrheus u. Biahets\nRobert Rhodes, Thomas Stockton, and Ihonas\nSpeakman, having retired, returned and Y foteo\nto the meeting the name OF James M'CMfoUg@s\nFarmer. Whereupon it Was on motion una,lIihyus.\nly Resolved. that tine vacancy in the County lNkete\nbe filed with the name OF James Di'Cuitough Far\nmer, and he is hereby recommended to the h.n.\njealous. and undivided support %! the Friends OF\nthe Administration Of the General Government in\nNew Castle County at the ensuing General Eleca\nton. .\nlie following persons were appointed a Commits\ntee of Vigilance ior New Castle Hundred, who Will\nuse all fair and honorable means to promote the\nsuccess of the Administration Ticket at the ensuing\nElection, viz. Peter s. Airichs, Joseph Halntons\nThomas Speakman, William Booth, Thomas arks\nGiles Lamson, John MsCrune, Jr. Abraham Evsss\nWilliam M'Crone, George M'Crone, John Platts\nMajor Peter Jaquett, Thomas Booth, John Aliens\nJoseph Spencer, Andrew Barnaby. Robert Rhodes\nAbraham G. Short, Eli Foster Joseph Lintle, Cle'\nment Layton, BirdseIl Fowler, Washington Es\nMoore. Gesrge Reynolds, James Wilson, William\nSilyers. esq., Abel Sevl, Hugh Gemnill, Williams\nq. Caulk. Thomas Jaquett, Daniel Read James\nRezae, Charles IL. Van Dyke, Cornelius ID Blaneys\nesq. William B. Janvier, William Il. Magens, Joltt\nWiley, esq. Joseph Sawyer, VIM. Guthrie, samuel\nNJ Couper, John Moody, esq. Lewis Curlett. so@\n! II\nTurner. -,\nResolyed, That the proceedings Of this meeting,\nbe published in the papers of this state friendly to\nthe Administration of the General Governments\n'''N = JOHN MOODY, Chairman.\n| Attest, EVAN H. THoMAs, Sec'y.\n\n\n.ooDo;oa.-A\n\n\n,4,pfid CALAMITY. u.-Three mef, father and two\nsons, named Saul. were killed On the 9TH instant,\nnear Columbus. in Ohio, in attempting to descend\ninto we'll, filled with fire damp. The particulars\nas they have been reIatet, to us. were as folowsi\nThey had been engaged in digging the well, anu\nhad decended twenty feet II was o5served' the\nnight before, that, on coming out. the workifiert\nappeared unusually pale On returning to the sVuik\nYesterday morning, brother lnaw of the young\nSauls, first attempted to descend, but experienced\nso much distress before he reached the buttor1 that\n1 he requested to BIZ drawn up. One OF tile yadng\nmen then got into the bucket, and was let down\nabout half when he fell to the bottom Of the syell\n\n\nHis brother Immediately attempted to descend to\nhis relief, but likewise fell belore reaching the bots\ntorn. The father then, contrary to the reifohz\ntrance of those about him, insisted On being ct\ndown he had descended about half way, when ne\ncalled out to be drawn up again. butt before ne feaehS\ned the top, he also pitched out and fell dead upon\nhis dead sons Means were Immediately taKeii to\nrecover the dead bodies and attempts were made 10\nresus scitate them, but vitality was wholly extinct.\n\n\nIWest Statesman,",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 2576,
+                "y0": 2277,
+                "x1": 3085,
+                "y1": 2321
+            },
+            "class": "headline",
+            "raw_text": "NEW CASTLE HUNDRED.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": -1
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 74,
+                "y0": 4489,
+                "x1": 855,
+                "y1": 4572
+            },
+            "class": "article",
+            "raw_text": "PRtNr1NG OF ALL KINDS DONE WITH NEATNEss\nAND pEsPATcH, AT THE OFFICE OF THE JOURNAL",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 69,
+                "y0": 4337,
+                "x1": 847,
+                "y1": 4464
+            },
+            "class": "headline",
+            "raw_text": "Scots s Infantry Drill.\nTIE Publishers haze Just receiped tfesh sspp'g'",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": -1
+        },
+        {
+            "id": 34,
+            "bbox": {
+                "x0": 3609,
+                "y0": 303,
+                "x1": 4577,
+                "y1": 4347
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 35,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                30,
+                0
+            ],
+            "headline": "FRIDAY, September 2S, 1927.",
+            "article": "Spear. John Colesberry, George Winsiow, joshua\nHarlan, Wesly Baly, David kirkpatrick, John lay\nlor, Joseph Norman, Hance Naff, w Fl. Naf, Il.\nII. Naf, Samuel Ford Elisha Huxley, James Z.\nAllen, John Hindman, John Starr, Jacob Starr, w.\nHallowe, Edward Kennard, Renjamn Thomas,\nRobert Ritchie, Hamilton Walker Owen New ade, /\nCharles T. Stockly, DR.. Thomas Brnckle, John d.\nBrinckle, Jesse Belts, Isaac Bonsall Henry Alrchs,\nMahlon Belts, w. Megear, Robert Scott, Miller\n| Dunot, John Adams, Robert Keddy, VIM. Marshall,\nStephen Boldly, Ezra Hopes. Andrew Alston,\n| James NJ Roche Thomas Garrett, Joseph Hartley\nJames Brown, Wm Woodcock Marcus 2. Capeile,\n| w. G. Dorsey, DR.. j. Thomas, Thomas Moore,\nThomas M'Korkle, VIM. Wilson, Frederick Leon\nard, Vincent Robinson, John Stapler, 4. Mcdowell,\n| S. Gaford, Hugh McDevitt, Samuel Robinson, All\nbert Robinson, Peter HUMPHREYS, James Webb,\nJohn Pierson, Joseph Person. Wilson Plerson, Hen.\n! ry Wits, Jacob Pierson, Jacob Harman Carney\nClark, Charles Bush, Abraham Richie, James\nSmith, Erby Pierce, George Witsil, David Harbin,\nson, Henry Hayes, John Solomon, James Lane,\nJames Watson, James Logan, Andrew Thomson\nAllan Mills, William Sherer, John Coleman, Will\nliam Robinson, David Register, Jesse Rogers, Ben\nljamin Chandler james Silly, Samuel Rudolph,\nBenjamin Fredd, John Craig, Samuel Griscom, Will\nliam Bane, Thomas Mahaffey, John Gasklll,\nJohn Derckson, Jacob Higgins, John Hemphill,\nGeorge Young James Bringhurst, VIM. Countlss,\nBenjamin Ford, Dell Nobtt, Archibald Robert\nson, William Clarke, Uriah Ponsett, Thomas Gro\nzier, Eli Crozier, Joshua H. Irons, Robert Shipley\nThomas shipley, Henry Gibbons, Isaac shallcross\nThomas G. Alrichs, John Scott, Simon Robinson\nThomas kellam, Samuel Richardson, Daniel Dmgee\nGeorge Jones, Joseph Patton.\n\n\nResolved, That the Committee OF Vigilance NEE\nat this place on Monday evening next at O'Clock\n\n\nthe evening previous to the eection), to make sue\npreparatory arrangements as they may think ne\ncessary--\n\n\nResolved, That the proceedings of this meetin\nbe signed by the chairman and secretary, and pub\nlished in the American Watchrnan, Delaware Jour\nnal, and the Delaware Weekly Advertiser.\n\n\nROBERT PORTER, Chairman.\n\n\nJOHN t. GILpIN, Sec'y.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 915,
+                    "y0": 654,
+                    "x1": 2217,
+                    "y1": 751
+                },
+                {
+                    "x0": 1605,
+                    "y0": 850,
+                    "x1": 2412,
+                    "y1": 2685
+                }
+            ],
+            "bbox": [
+                915,
+                654,
+                2412,
+                2685
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-09-28_p1_sn83025530_00271740220_1827092801_0195.json"
+        },
+        {
+            "object_ids": [
+                17,
+                1
+            ],
+            "headline": "MEETING IN WILiHINGION.",
+            "article": "At meeting of the friends of the Adminlstra-\nton, held at the house of Joshua Hutton, on Mon\ndav the oath inst. Robert Porter was appointed\nChairman and John L. Gilpin Secretary. on mo-\nton it was -,\n\n\nRESOLVED, unanimously. that this meeting cordial\nly approve the nomination OF h. JOHNS, Jh as\ncandidate for Congress- made at Dover, on iaes-\nday the 18th inst. as well as the County tioke'\nagreed upon at Clark's Corner on the 18th inst.\nand that we will use all fair and honorable means to\ninsure the success of said ticket at the ensuing\nelection.\n\n\nResolued, That we approve the nomination at\nNew Castle. Of James Mccullough, (FarIner) to\nsunply the place of James Booth. resigned, as a\ncandidate for the legislature Of this state.\n\n\nResolyed, That the following persons be appoint\ned committee Of vigilance. and be requested 10 use\nall diligence, to induce persons III favor oi ''e au-\nmnistration, to attend at the polls.\n\n\nJames A. Sparks, Jesse Menden,all, w. A. Men\ndenhaIl. B. w. Bracken Robert Pierson, Samuel\nMsClary, Charles Reynolds, George Reynolds, John\nNJ. Smith, W. Gray, John McClear, Enoch Rob\nerts Samuel S. Grubb, Edward Grubb, William\nWarner. John Warner, r.. Porter, P. B. Porter, DR..\nJohn johnson, James Wilson, Albert Wilson, Henry\nWilson, James P. Merrihew, Stephen Merr,hew'\nJoshua Hutton, ohm Ferris, ,Jr. James Plumy James\nJohnson, Peter Gaskl, Samuel Woliaston, Wash\nington Rice, w. 7. Brobson, John Wales, Nathaniel\nBeckley, oamnei payers, -. ~ '''n'', ~,\n\n\nRichards, Samel Buzby, William Bassett, Zba Fer\nris. Stephen Bonsall, Edward r. Baily, John iiaga\nny, Jos. Hagany, B. Ferris, James sorden' Edward\nInskip. Samuel Stroud Jr Joshua Stroud, John\nRumord. Lewis Rumford, james Candy, John Sci\nlars. Joseph Bay, Jonathan Byrnes, Jonathan\nRvrnes Jr. Caleb Starr, Edward Worrell, Jonathan\nPiierson, Geo. Simmons, Joshua Simmons Huston\nSwayne, james Murdoch, Samuel .. eoole, VIM. >\nPoole, John H. Price, Edmund Candy, Dr.. William\nBaker, Daniel Simmons. John White. Nicholas Il\nWhite, W. White, Benjamin Webb, DR.. G. Jaques\nCharles Denny, Jared Chestnut, W. g, Jones' PhillI\nJones, Joseph C. Gilpiu, Vincent Gpn, John r\nGilpin, Richard Gilpin, Edward W. Gilpln, William\nGilpin, Josiah II. Gilpin, John tlirons IT. =. b\nVaughan Joseph Patton James h'Ge pan,o Ra s%y,n M\nRice, William Kennard, Joseph Pogue, I. War\nrington, r. Warrington, Jr. Joseph Carpenter, Isaac",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 932,
+                    "y0": 3231,
+                    "x1": 1528,
+                    "y1": 3280
+                },
+                {
+                    "x0": 850,
+                    "y0": 3287,
+                    "x1": 1640,
+                    "y1": 5236
+                }
+            ],
+            "bbox": [
+                850,
+                3231,
+                1640,
+                5236
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-09-28_p1_sn83025530_00271740220_1827092801_0195.json"
+        },
+        {
+            "object_ids": [
+                32,
+                2
+            ],
+            "headline": "NO. AG.",
+            "article": "Askew, Charles Braden. Jacob Welden, James\nTodd, Robert Forwood, WIN. X. Forwnod John\nBarnes, John Hallman, Charles Forwood Nathaniel,\nSquibb, John Zebley, William Rorell, Thomas\nBeeson, Jr. Zackariah Rorel, Jr. and Joshua Dol\nton.\n\n\nResolved, That the following persons be Conn\nmittee to give information that meeting OF the\nfriends Of the Administration will be held at al-\nbreath's Inn blue BalD Brandywine Hundred on\nWednesday the s6th inst at 8 O'clock to. 10 'fansacs\nbusiness preparatory to the general election. :,\n\n\nViz Robert Galbreath, Cunning Bedford, VIM.\nHouisun and Thomas Carr,\nResotued, That the proceedings Of this meeting be\npublished in the newspapers in Whining on fasoul'\nable to the present Administration.\nTHOMAS Rob- ,SON, Chairman.\n\n\nAttest VIM. McCAuLLEY, Secy",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2858,
+                    "y0": 650,
+                    "x1": 3180,
+                    "y1": 738
+                },
+                {
+                    "x0": 2411,
+                    "y0": 824,
+                    "x1": 3211,
+                    "y1": 1527
+                }
+            ],
+            "bbox": [
+                2411,
+                650,
+                3211,
+                1527
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-09-28_p1_sn83025530_00271740220_1827092801_0195.json"
+        },
+        {
+            "object_ids": [
+                18,
+                3
+            ],
+            "headline": "ADMINISTRATIONS MEETING.",
+            "article": "AT meeting Of the citizens OF St. Georges Hundred\nheld Mlddetown agreeaby to pubic notice, friendly 10\nthe Administration of the General Government Doctor ).\nd. WAIT called the Chair, and John Eddowes, apa\npointed Secretary. cc\n\n\nResolved That the Chairman appoint committee OF hve\nto nominate committee Of vigilance.\n\n\njohn Janver, ir William Kennedy, John Burnhalfh\nJoshua iayton Esq and Thomas, s. Merritt were appoints\ned accordingly. ..,\nmen, viz. ,,,,.\n\n\nLpnntee of Vgilance james James, James M'Crachen,\njohn femp.en.an, James Burnhan Andrew Bldale John\nL. Llyto James Clayton James l. Burd, Isaac Clements\nJames Mansfield, Wm. Streets. Benz .min Nlerrts, Jnhn\nEdowe Thomas Harvey, Andrew Joseph Cleas\nvel Sims Carpenter, Dleh, lr A. K, Penston samuel\nHiggins, Jacob Vandegr jr. John Royt Jr Dahei Cors\nbit, William Polk, John NJ. Woods, William ballard ano\nJohn Ginn.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2437,
+                    "y0": 1539,
+                    "x1": 3189,
+                    "y1": 1601
+                },
+                {
+                    "x0": 2429,
+                    "y0": 1613,
+                    "x1": 3224,
+                    "y1": 2252
+                }
+            ],
+            "bbox": [
+                2429,
+                1539,
+                3224,
+                2252
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-09-28_p1_sn83025530_00271740220_1827092801_0195.json"
+        },
+        {
+            "object_ids": [
+                23,
+                4
+            ],
+            "headline": "AGENTS.",
+            "article": "CoNcoRD.-Dr. Thomas Adams, p M.\nBRlDGEvILLE.-Henry Cannon, 7. M.\nMLToN.--Mr. Arthur Milby.\n\n\nFRANKFoRD.--Mr Isaiah Long.\nDAGsnoRouGu.--Dr. Edward Dingle.\nGEORGE TowN.--Mr. Joshua S. Layton.\nLEwEs--H. F. Rodney, P. M.\n\n\nMILroRD.--Mr. Joseph G. Oliver.\nFREDERIcA.-J. Emerson, P. M.\nCAMDEN.-Th Thomas Wainwright, P. M.\nDoyER.-John Robertson, Esq.\nSMyRNA-Samuel II. Hodson. Esq.\nCANrwELLs BRrDcE.-Manlove Hayes, M.\nThomas Harry, ?. M.\nSUMMIT BRIDGE.-John Clement, P. M.\nWARWICK, Md.--John Moreton, z. M.\nSubscribers living in the vicinity of the residence\n,f these Agents, may pay their subscription mon ey\n% them, they being authorized to receive it, and to\ngive receipts",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 273,
+                    "y0": 1257,
+                    "x1": 530,
+                    "y1": 1306
+                },
+                {
+                    "x0": 30,
+                    "y0": 1309,
+                    "x1": 803,
+                    "y1": 2056
+                }
+            ],
+            "bbox": [
+                30,
+                1257,
+                803,
+                2056
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-09-28_p1_sn83025530_00271740220_1827092801_0195.json"
+        },
+        {
+            "object_ids": [
+                20,
+                5
+            ],
+            "headline": "APPOQUINIMiNK HUNDRED.",
+            "article": "At large and respectable meeting OF the friends\nof the present Administration of the General Gov\nernment held at Blackbird, on Thursday goth OF\nSeptember, Major WILLIAM ROTHWELL was\ncalled TO the char, and BENJAMIN CAULk ap-\npointed Secretary.\n\n\nThe proceedings Of the meeting at Clark's corner\nbeing read, the following resolutions were unanl-\nmousy adopted.\n\n\nResolved That in the opinion ofths meeting, the\nAdministration of the General Government is per-\nfecty clear of all the charges of bargain and corrup-\ntion which the leaders of the Opposition have en-.\ndeavored to fix upon it.\n\n\nResolved, that we highly approve OF the nonlna-\ntion made by the Conferees at Dover, and that we\nwill use all honorable mems to insure the election OF\nKENsEy JOHNS, JR. Esq. the Congressional Candi-\ndate nominated\n\n\nResolved, that we approve OF the proceedings CT\nthe meeting at Clars corner, and that we Will give\nour firm and undivided support to the county ticket\nthere formed.\n\n\nResolved, that committee OF vigilance be ap-\npointed by the chairman and they are requested to\nTO use all honorable means best calculated TO support\nthe present Administration.\n\n\nResolved. that the proceedings of this meeting be\npublished in the papers in this county friendly to\nth, present Administration of theGeneral Govern\nment. -\n\n\nw. RoTHwELL, Chairman.\nBsNJ.m1N CAuIE. SeC'y.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1765,
+                    "y0": 2706,
+                    "x1": 2321,
+                    "y1": 2755
+                },
+                {
+                    "x0": 1644,
+                    "y0": 2767,
+                    "x1": 2434,
+                    "y1": 3961
+                }
+            ],
+            "bbox": [
+                1644,
+                2706,
+                2434,
+                3961
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-09-28_p1_sn83025530_00271740220_1827092801_0195.json"
+        },
+        {
+            "object_ids": [
+                33,
+                26,
+                6
+            ],
+            "headline": "BENJAMIN CAuLg, Sec'y.\n\nBRANDY WINE.",
+            "article": "At meeting of the friends OF the Administration\nin Brandywne Hundred, at the Blue Ball lnn. on\nSaturday, the 22nd September, 1927, pursuant to\nthe public notice, COLONEL THOMAS KOBlNSs'N\nwas called to the chair, and William M1Cauiey aP-\npointed secretary. when the following resolutions\nwere unanimously adopted: :\n\n\nResolued, That we approve OF the nomination OF\nKENSEY JOHNS, Jatnr. Esq. for Representative\nto Congress That we will render him our united\nand cordial support and that we recommend nm TO\nthe friends of order and good government as cltl-\nzen worthy of their support and confidence. =,\n\n\nResolued, That we approve OF the County nichet\nformed by the Administration meeting lat Clark $\nCorner) and that we will all fair and honorable\nmeans to promote its success.\n\n\nResolved, That the following persons be COM\nmittee of vigilance to watch over the interests OF\nthe constitution and the people for this Hundred\nto wit Colonel Thomas Robinson, William Long,\nJohn b. Bains, Cunning Bedford, William houson'\nThomas Can, Samuel Gaibreath, William McCaui-\nlev, Charles Dupont, John Bird, John Forwood'\nJOS. I. Price, John Harris, Jos. W. Day. Caieo\nPerkins, William Lea, Harry Williamson, 90\nscph Perkins, Joseph HILBERT, Jesse Kendall An\ndrew Fountaine, William w. Young, Joseph :, ;.\nDixon, Joseph Carver, Joseph Carr, VIM. HemPn'l'\nJr. Holbert Weldin. Curtis Mousley, Irving smith,\nEmpson Bird, VIM. Murphy, VIM. Bird, Georse\nCartme, l.. sacrieste, Amer Chandler' farKer",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1687,
+                    "y0": 3925,
+                    "x1": 2183,
+                    "y1": 3974
+                },
+                {
+                    "x0": 1900,
+                    "y0": 3994,
+                    "x1": 2204,
+                    "y1": 4034
+                },
+                {
+                    "x0": 1657,
+                    "y0": 4042,
+                    "x1": 2443,
+                    "y1": 5205
+                }
+            ],
+            "bbox": [
+                1657,
+                3925,
+                2443,
+                5205
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-09-28_p1_sn83025530_00271740220_1827092801_0195.json"
+        },
+        {
+            "object_ids": [
+                22,
+                7
+            ],
+            "headline": "NOTICE.",
+            "article": "Persons wishing amy sort ofPRIsrING done, with\nneatnass, accuracy, and dispatch ADVERTISEMENTS\ninserted, or SuGscmpTIoNs paid where there are\nno Agents appointed in their neighbourhood to re-\nccive them, will please apply, rdlrect to X. Porter\nanl son, No. 81 Market Street, Wilmington\n\n\nAll communications, not of the above character,\no be ldr ,ssed to NJ Bradford, Editor Of the Della\nware Journal, Wilmington.\n\n\nThis arrangement is made for the more regular\nand prompt execution of business",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 282,
+                    "y0": 2082,
+                    "x1": 530,
+                    "y1": 2130
+                },
+                {
+                    "x0": 26,
+                    "y0": 2134,
+                    "x1": 812,
+                    "y1": 2538
+                }
+            ],
+            "bbox": [
+                26,
+                2082,
+                812,
+                2538
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-09-28_p1_sn83025530_00271740220_1827092801_0195.json"
+        },
+        {
+            "object_ids": [
+                16,
+                8
+            ],
+            "headline": "Clay's Speeches, &c.",
+            "article": "CONTENTS Biographical sketch of Mr.. Clay.\nSpcech ON Manufactures---Line of the Perdido--\nBank kcharter-Augmentation ofthe military force\nIncrease Of the Navy--New Army--EmanclPation\nOf South America--lnterna ovement--semn-\no, Mission to South Anlerica-The Tariff\nSpanish treaty--Greels revouton--Amercan IN\ndastry--Colonlz alton of the negroes--Bank qnes-\ntion--Allress TO Copsttuents--Speech at Lewis\nburch; with spotrat in front-price 81 25.--Ihe\nabove work to be had Of the publishers OF this pa\nrer, at their Book Store, No. 81, Market-otreet'",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 78,
+                    "y0": 3790,
+                    "x1": 816,
+                    "y1": 3870
+                },
+                {
+                    "x0": 61,
+                    "y0": 3882,
+                    "x1": 847,
+                    "y1": 4325
+                }
+            ],
+            "bbox": [
+                61,
+                3790,
+                847,
+                4325
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-09-28_p1_sn83025530_00271740220_1827092801_0195.json"
+        },
+        {
+            "object_ids": [
+                28,
+                9
+            ],
+            "headline": "New Y oRK, Sept. l3.",
+            "article": "Pirate Mich'gan.--Wc have conversed WIN\npassenyeroa board OF the steam boat IRON Albany\nyesterday, who left Niagara Falls on last oa.uruay\nevening. He stated that the \"conaemneu sessa,\ngot loose from her moorings little after the appoint\ned time, andwas proceeding iavourably until within\nabout mile Of the edge Of the fall, when she struck\nagainst rock with great violence, and carried away\nboth of her masts After this she tossed and rolled\nabout violently in the rapids Zone of the larger AMI\nmails. the buffalo made complete and safe es-\ncape rom her, and was finally prccp;ated over the\ngreat fall at the Horseshoe. The sight IS stated TO\nhave been very interesting one, and was viewed\nny an immense number OF spectators.\n\n\nCom. ,qdv.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 486,
+                    "y0": 4602,
+                    "x1": 816,
+                    "y1": 4642
+                },
+                {
+                    "x0": 74,
+                    "y0": 4654,
+                    "x1": 855,
+                    "y1": 5245
+                }
+            ],
+            "bbox": [
+                74,
+                4602,
+                855,
+                5245
+            ],
+            "full_article_id": 10,
+            "id": "10_1827-09-28_p1_sn83025530_00271740220_1827092801_0195.json"
+        },
+        {
+            "object_ids": [
+                21,
+                10
+            ],
+            "headline": "CONDITIONS.",
+            "article": "THE DELaW.aRE JOUR.N:qL is pub\nhshed on Tuesdays and Fridays, ut four dollars\nper anuun; tao dollars every sic months IN ad-\npance.\n\n\nadvertisements inserted on the usual terms\nViz: One dollar for four insertions Of siateen\nlines. and 50 int proportion for every number Of\nadditional Hnes and insertions.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 217,
+                    "y0": 828,
+                    "x1": 599,
+                    "y1": 885
+                },
+                {
+                    "x0": 17,
+                    "y0": 910,
+                    "x1": 795,
+                    "y1": 1228
+                }
+            ],
+            "bbox": [
+                17,
+                828,
+                795,
+                1228
+            ],
+            "full_article_id": 11,
+            "id": "11_1827-09-28_p1_sn83025530_00271740220_1827092801_0195.json"
+        },
+        {
+            "object_ids": [
+                25,
+                11
+            ],
+            "headline": "MOURNFUL TRAGEDY.",
+            "article": "\nlie death of John Webb, David Morrow, John Harris\nnry Lewis, David Hunt, and Edward Lindsey; 81,\nli'iamen who were condemned to die, the sentenc,\nproved by Major Gen. JACKSON, and by his order thu\nloe six shot,\no did you hear that pIantve cry,\nBorne on the southern breezep\nSaw you John Harris, earnest pray\nFor mercy, on his knees\nLow to tli e earth he bent, and prayd\nFor pardon from his chief;\nBut to his earnest prayer for life\njackson alas was deaf.\ng. s'Spare me'-he said\" meant no wrong\nMy heart was always true\n\" First for my Country's cause it beat,\n\"And next, great Chief, for you.\n\"We thought our time of service out\n\"-Thought it our right to go:\n\"We meant to violate no law;\n\"Nor w,sl,'d to shun the foe.\nsour officers declared that we\n+\" Had but three months to stay;\n/\" We Sc we'd those three months faithfully,\n\"UP to the latest day.\n'.No one suspects intended wrong;\n\" The Judgment only erred;\nSIN such u case, o noble Chief,\n\"Let mercy's voice be heard.\naAt home an aged mother waits\n\"To clasp her only son;\nga wife, and nine small children\n\"Ths arm depend upon.\n\"Cut me not off from those dear ties.\n''Nor send me to my doom,\n0 'tls dreadful thing to die,\n\n\nSand moulder in the tomb!\n\"Sure mercy is a noble gem\n\n\n\"On every Chieftans brow;\n\"More sparkling than dadem:\n90! exercise il now\"\ntwas all in vain, John Harris prayr,\n'Tis past the SOUPS belief!\nHard as the flint was Jackson's heart:\nlie would not grant relief.\nHe nrder'd Harris out to die,\n\n\nAnd five poor fellows more\nYoung gallant men in prime of life\n10 welter in their gore!\nMethnks hear the muff1ed drum,\nAnd see the column move;\n--Lo here they come How sad their looks\nFarewell to life and love!\nSee six black coffins rang'd along,\n\n\nSix graves before them made;\nWebb, Lindsey. Harriss, Lewis, Hunt,\nAnd Morrow kneeled and prayed.\nThey kneepd and pray'd, and thought of LOVE,\nAnd ali its dear delights.\nThe deadly tubes are levelled now\n\n\nThe scene my soul affrignts\nSure lie will spare Sure Jackson yet\n\n\nWill all reprievc but one\no harl those shrieks that cry of death\nTh, dreadful deed is done\nAll six militia men were shot;\n\n\nAND o it seems to me;\nA dreadful deei--a bloody act\n\n\nOf needless craety",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 984,
+                    "y0": 828,
+                    "x1": 1415,
+                    "y1": 877
+                },
+                {
+                    "x0": 880,
+                    "y0": 867,
+                    "x1": 1580,
+                    "y1": 3202
+                }
+            ],
+            "bbox": [
+                880,
+                828,
+                1580,
+                3202
+            ],
+            "full_article_id": 12,
+            "id": "12_1827-09-28_p1_sn83025530_00271740220_1827092801_0195.json"
+        },
+        {
+            "object_ids": [
+                19,
+                12
+            ],
+            "headline": "FaIl Goods.",
+            "article": "THE Subscriber has lately received a general\nassortment of Fall Goods, such as Cloths, Cassi-\nmeres Flannells Blankets, Sattinetts, Worsted, &C.\nwhich he will sell at reduced prices.\n\n\nAny quantity of wool and feathers will be taken\nln and Goods gwen in exchange at fair market\nnrico at his Store. No. 1O1, Market-Sreet.\n\n\nJOSEPH POGUE.\nWiimngton. 1897. 4o-4",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 182,
+                    "y0": 2563,
+                    "x1": 638,
+                    "y1": 2633
+                },
+                {
+                    "x0": 30,
+                    "y0": 2645,
+                    "x1": 821,
+                    "y1": 2985
+                }
+            ],
+            "bbox": [
+                30,
+                2563,
+                821,
+                2985
+            ],
+            "full_article_id": 13,
+            "id": "13_1827-09-28_p1_sn83025530_00271740220_1827092801_0195.json"
+        },
+        {
+            "object_ids": [
+                24,
+                13
+            ],
+            "headline": "NEW CASTLE HUNDRED.",
+            "article": "Alta meeting of the Friends Of the Administration\nof the General Government in New Castle Huns\ndred, convened at the Green Tree Inn, on Monday\nSept. \"a, A. ID. 1927. On action JOHN MOoDfs\nEst1. was called to the chair and EUan a. 1honiass\nappointed Secretary\n\n\nThe object Of the meeting having been stated py\nthe Chairman, it was action\n\n\nIesoiped, That Committee Of five persons be\nappointed by the Chairman 10 retire ana report tU\nth,s meeting, the name of suitable person to supe\nply the vacancy in the County ticket nceasioned\nby james Booth, jr. Esq having declined. lhe\ncommittee. viz Evan Thomas, CUrheus u. Biahets\nRobert Rhodes, Thomas Stockton, and Ihonas\nSpeakman, having retired, returned and Y foteo\nto the meeting the name OF James M'CMfoUg@s\nFarmer. Whereupon it Was on motion una,lIihyus.\nly Resolved. that tine vacancy in the County lNkete\nbe filed with the name OF James Di'Cuitough Far\nmer, and he is hereby recommended to the h.n.\njealous. and undivided support %! the Friends OF\nthe Administration Of the General Government in\nNew Castle County at the ensuing General Eleca\nton. .\nlie following persons were appointed a Commits\ntee of Vigilance ior New Castle Hundred, who Will\nuse all fair and honorable means to promote the\nsuccess of the Administration Ticket at the ensuing\nElection, viz. Peter s. Airichs, Joseph Halntons\nThomas Speakman, William Booth, Thomas arks\nGiles Lamson, John MsCrune, Jr. Abraham Evsss\nWilliam M'Crone, George M'Crone, John Platts\nMajor Peter Jaquett, Thomas Booth, John Aliens\nJoseph Spencer, Andrew Barnaby. Robert Rhodes\nAbraham G. Short, Eli Foster Joseph Lintle, Cle'\nment Layton, BirdseIl Fowler, Washington Es\nMoore. Gesrge Reynolds, James Wilson, William\nSilyers. esq., Abel Sevl, Hugh Gemnill, Williams\nq. Caulk. Thomas Jaquett, Daniel Read James\nRezae, Charles IL. Van Dyke, Cornelius ID Blaneys\nesq. William B. Janvier, William Il. Magens, Joltt\nWiley, esq. Joseph Sawyer, VIM. Guthrie, samuel\nNJ Couper, John Moody, esq. Lewis Curlett. so@\n! II\nTurner. -,\nResolyed, That the proceedings Of this meeting,\nbe published in the papers of this state friendly to\nthe Administration of the General Governments\n'''N = JOHN MOODY, Chairman.\n| Attest, EVAN H. THoMAs, Sec'y.\n\n\n.ooDo;oa.-A\n\n\n,4,pfid CALAMITY. u.-Three mef, father and two\nsons, named Saul. were killed On the 9TH instant,\nnear Columbus. in Ohio, in attempting to descend\ninto we'll, filled with fire damp. The particulars\nas they have been reIatet, to us. were as folowsi\nThey had been engaged in digging the well, anu\nhad decended twenty feet II was o5served' the\nnight before, that, on coming out. the workifiert\nappeared unusually pale On returning to the sVuik\nYesterday morning, brother lnaw of the young\nSauls, first attempted to descend, but experienced\nso much distress before he reached the buttor1 that\n1 he requested to BIZ drawn up. One OF tile yadng\nmen then got into the bucket, and was let down\nabout half when he fell to the bottom Of the syell\n\n\nHis brother Immediately attempted to descend to\nhis relief, but likewise fell belore reaching the bots\ntorn. The father then, contrary to the reifohz\ntrance of those about him, insisted On being ct\ndown he had descended about half way, when ne\ncalled out to be drawn up again. butt before ne feaehS\ned the top, he also pitched out and fell dead upon\nhis dead sons Means were Immediately taKeii to\nrecover the dead bodies and attempts were made 10\nresus scitate them, but vitality was wholly extinct.\n\n\nIWest Statesman,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2576,
+                    "y0": 2277,
+                    "x1": 3085,
+                    "y1": 2321
+                },
+                {
+                    "x0": 2442,
+                    "y0": 2324,
+                    "x1": 3245,
+                    "y1": 5240
+                }
+            ],
+            "bbox": [
+                2442,
+                2277,
+                3245,
+                5240
+            ],
+            "full_article_id": 14,
+            "id": "14_1827-09-28_p1_sn83025530_00271740220_1827092801_0195.json"
+        },
+        {
+            "object_ids": [
+                27,
+                15
+            ],
+            "headline": "Scots s Infantry Drill.\nTIE Publishers haze Just receiped tfesh sspp'g'",
+            "article": "PRtNr1NG OF ALL KINDS DONE WITH NEATNEss\nAND pEsPATcH, AT THE OFFICE OF THE JOURNAL",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 69,
+                    "y0": 4337,
+                    "x1": 847,
+                    "y1": 4464
+                },
+                {
+                    "x0": 74,
+                    "y0": 4489,
+                    "x1": 855,
+                    "y1": 4572
+                }
+            ],
+            "bbox": [
+                69,
+                4337,
+                855,
+                4572
+            ],
+            "full_article_id": 16,
+            "id": "16_1827-09-28_p1_sn83025530_00271740220_1827092801_0195.json"
+        }
+    ]
+}

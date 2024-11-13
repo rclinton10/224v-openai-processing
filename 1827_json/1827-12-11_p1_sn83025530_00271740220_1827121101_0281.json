@@ -1,0 +1,832 @@
+{
+    "lccn": {
+        "title": "Delaware journal.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2638-6917",
+        "lccn": "sn83025530",
+        "start_year": "1827",
+        "end_year": "1832",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [
+            "sn85042477"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn83025530",
+        "edition": "ed-01",
+        "date": "1827-12-11",
+        "pages": [
+            "seq-3",
+            "seq-4",
+            "seq-1",
+            "seq-2"
+        ]
+    },
+    "page_number": "1",
+    "scan": {
+        "lccn": "sn83025530",
+        "edition": "ed-01",
+        "date": "1827-12-11",
+        "page": "1",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-12-11/ed-1/seq-1.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-12-11/ed-1/seq-1/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-12-11/ed-1/seq-1/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn83025530/00271740220/1827121101/0281.jp2",
+        "height": 5576,
+        "width": 3608
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 65,
+                "y0": 1794,
+                "x1": 850,
+                "y1": 2549
+            },
+            "class": "article",
+            "raw_text": "CoNcoRp.-Dr Thomas Adams, Z. M.\nBRrpeEvlLLE.-HenryC Cannon, 7. M.\nMuroN.-Mr Arthur Milby.\n\n\nFRANKroRp.--Mr Isaiah Long.\n\n\nDAGsBoRouan.--Dr. Edward Dinge.\nGEORGE TowN.--Mr. Joshua 5. Layton.\nLEwEs--H F. Rodney, +. NJ.\n\n\nMuFoap.-Mr. Joseph G. Oliver.\nFRspERlcA.-J Emerson, 2. M.\nC,MpES.-Thomas Wainwright, ?. M.\nDovER.-John Robertson, Esq.\n\n\nSmyRNA-Samuel II. Hodson, Esq.\nC.NrwsLLs Observation-Disclosures Hayes, I M.\nM,ppLErowN.- Thomas Harry, T. M.\nSUMMIT BnIDGE.--John Clement, I. NJ.\n\n\nWARWICK, Md.-John Moreton, (. M.\nSubscribers living in the vicinity OF the residence\nOf these Agents, may pay their subscription money\nto them, they being authorized to receive H. aho 10\ngive receipts.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 314,
+                "y0": 1746,
+                "x1": 572,
+                "y1": 1791
+            },
+            "class": "headline",
+            "raw_text": "AGENTS.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1695,
+                "y0": 2753,
+                "x1": 2497,
+                "y1": 4309
+            },
+            "class": "article",
+            "raw_text": "The Presidents Message, SO promptly issued D.\nyou, is most masterly document. 1t breathes ths\nfeeling of heart tenderly sensible TO the bouneous\ngifts of Providence, and indicates a mind vigllan\nand discerningi in the guardianship and management\nof the affairs of the Nation. Its style is smooth, CO.\npious and perspicuous and its language '' express\nslve, energetic and refined\" 1t has disappointed\nnone but the calumnous misguided Editors and lea\nders ufthe Opposition These, Mr.. Adams has COM\npleteIy dlscomfted, nasmuch as he has entirely re-\nTrained from touching any topic which the contend\ning parties are discussing. The writer's of the OPP\nposition were couched like erocious tigers in their\nlairs, \" nursing their wrath\" ready at the stated\nmoment to attack without justice or reason, their\ndevoted victim. But Mr. Adams has left them no\nchance, and has entirely asted their sanguine pre-\ndictions g that his message would he fine elec-\ntioneerng Message )\" and in consonance with his\nunwavering conduct in such matters he has used no\nargument or art, to foresta public opinion a des-\nideratum wished for, and affected by the Combna-\ntion There are no false accusations, as in Bcver-\nley's letter, no anuendoes Gen. Jacksons, and\nno hes as in the East Room story but all IS dis\npassionate and candid review ofnatonaf concerns, III\nwhich every patriotic citizen must feel an interest\nand satisfaction. Mr. Adams, like true Republi-\ncan will follow the dictates of the people, in his tu\n\n\nture as he has in his former course: and pledges\nhinselfto their interests and wishes in the following\nexplicit words \" amidst the multiplicity OF topics\n/ of great national concernment which may recon-\n\n\nmend themselves to the calm and patriotic de-\n\n\nlberatons of the Legislature, it may suffice to say\n\n\nthat in those and all other measures which may re-\n\n\nceive their sanction my hearty cooperation Will DC\ngiven, conformably to the duties enjoned upon me\n\n\nand under the sense of all the obligations prescribed\nby the Constitution Who could ask more",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 1851,
+                "y0": 2635,
+                "x1": 2314,
+                "y1": 2684
+            },
+            "class": "headline",
+            "raw_text": "COmMU UWICATYONS.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -2
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 1878,
+                "y0": 2709,
+                "x1": 2301,
+                "y1": 2749
+            },
+            "class": "headline",
+            "raw_text": "For the Delaacare Journal.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 65,
+                "y0": 2652,
+                "x1": 868,
+                "y1": 3481
+            },
+            "class": "article",
+            "raw_text": "And possession to be given on the goth March next\n- The Mansion, Farm, and former residence\ns!a.a- of the late Cesar a. Rodney Esq. now &C.\ncuple1 oy NJ. Bradford, Esq. nearly adjoining the\nline of the Borough of Wilmington, (Del,) contain\ning about twenty five of fine arabic Land sur\nrounded with hedge and post and rall fence' IN gooa\narJor On the nremises are choice selection of\nfruit Trees with pleasant Gardens.\n\n\nThe improvements consist of large and com\nPortable two stored stone dwelling Honse, kitchens,\n&C.: two storied brick house, formerly occupied\nas an office and recently dwelling, stone barn\nand stables, sc.\n\n\nThe situation of this estate is desirable one,\nbeing high, healthy, and commanding deightlul\nview of the River Delaware, and surrounding coun-\nThomas yWDo1Yeu, or Thomas Harrington, Will\nmipgton. or the subscriber at Philadelphia\n\n\n''''9s' S. H. RODNEY.\n\n\nNov 80. o4-u",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 279,
+                "y0": 2570,
+                "x1": 654,
+                "y1": 2640
+            },
+            "class": "headline",
+            "raw_text": "XvO Re2et,",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1660,
+                "y0": 845,
+                "x1": 2467,
+                "y1": 2623
+            },
+            "class": "article",
+            "raw_text": "OF twenty years Of triumph becausehis gov\nernment was so modelled that with hi'n every\nthing must be swept away, and that a reaction\nproporoned to the violence Of the action must burst\nforth at once both within and without. The mania\nof conquest had reversed the state of things in Eu\nrope; we, the eldest born of liberty and lndepen-\ndence, sping our blood in the service OF roy\nal passions against the cause of natons and out:ag\ned nations we're turning round upon US, more terri\nBILE from being armed with the principles which we\nhad forsaken.\n\n\ncat times, this immense mass Of passion which\nhe was accumulating against him, this multitud\nOf avenglng arms ready to be raised, filled his an\nbilious spirit with involuntary apprehensIons. Look\ning around him, he was alarmed to find himself sol\ntary, and conceived the idea of Strengthening h\npower by moderating it.-Then it was that n\nthought OF creating hereditary peerage and re-\nconstructing his monarchy on more secure found'\ntions. But Napoleon without illusion to tn\nbottom of things. The nation, wholly and cor\ntinually occupied in prosecuting the designs OF n\nChief had previously not had time to form any plan\nfor ITSELF The day on which it should have ceas\ned to be stunned by the din Of arms, it would have\ncalled itself to account for its servile obedience l.\nis BETTER thought he, for absolute prince to fight\nforeign armies than to have struggles against the Ell\n\n\nergy of the citizens. Despotlsm had been organic\n\n\ned for making war war was continued to uphol\n\n\ndespotism. The die was cast ; France must eithe\n\n\nconquer Europe, or Europe subdue France,\ns Napoleon fell he fell, because, with the mel\n\n\nof the nineteenth century, he attempted the wori\n\n\nOF an Attila and Genghis Khan because he gay\n\n\nthe rens to an imagination directly contrary to tn\n\n\nspirit of his age, with which, nevertheless, his reas\n\n\non was perfectly acquainted because be would no\n\n\npause on the day when he felt conscious OF his ina\nbility to succeed. Nature has fixed boundary\n\n\nbeyond which extravagant enterprises cannot be cal\n\n\nri 10 a EmnecO\nreached in Spain, and he overleaped il in Russia\nHad he then escaped destruction, his nieAlble pre-\nsumption would have caused him TO find elsewher\n, Babylon and Moscow",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 87,
+                "y0": 3615,
+                "x1": 890,
+                "y1": 4666
+            },
+            "class": "article",
+            "raw_text": "Containing in addition to the usual Astronomical\nCalculations Tables, &c. the Courts OF the United\nStates, and of Delaware and Maryland great va\nrety of profitable and pleasing miscellaneous mat\nter among which is\n\n\nA Sailors humorous ride in milk-cart,\nYankey resolution in saving the mail,\nIngenious defence of thief,\n\n\nDreams and signs interpreted,\n\n\nMethod Of un-marrying the unhappy,\n\n\nDefinition ofa Drunkard,\n\n\nA little world,\n\n\nOld maids, their unmentionable troubles,\n\n\nAccount of novel courtship,\n\n\nAnecdote of Paddy and his game cock,\n\n\nThe Irishman and his pig, sc. &c. &c.\n\n\nWonderful discoveries ofthe Microscope,\n. Humorous account of Penn'a Battalion Day,\nWashington's army saved by Quaker lady,\nOde to the gout,\nRECEIPTS for curing the Gravel, curing Wens,\nmaking Candles removing grease spots from clothes\nmaking vinegar, preserving pickles, preserving\nmeats, &C. &C. &c.\n\n\nThe above Almanac, with an extensive assortment\nOf others, German and English for sale by the Gross\nor Dozen, at the most reduced prices.\n\n\nNov. r. PORTER & SON.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 113,
+                "y0": 3441,
+                "x1": 267,
+                "y1": 3485
+            },
+            "class": "headline",
+            "raw_text": "Nov. 80.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -2
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 139,
+                "y0": 3498,
+                "x1": 816,
+                "y1": 3599
+            },
+            "class": "headline",
+            "raw_text": "7Yhe Columbian Almanac,\n\n\nEOv AS2S.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1708,
+                "y0": 4395,
+                "x1": 2506,
+                "y1": 5293
+            },
+            "class": "article",
+            "raw_text": "Solomon Greenty.-At the last Court ofOyer and\nTerminer, for Kent County, this man was indicted\nconvicted and sentenced to Death for burning the\nJail of that county. The day before that assigned\nfor his execution, the Governor pardoned him, upon\nThe condition of has Leaving the state We don't up\nhold this part Of the case, and much wish it had been\nomitted and hope it may not be drawn INTO Prece-\ndent. For very obvious reasons snch cohn'lon IS\nnot allowable. 1t is deeply to be regretted that any\nalloy was permitted to be mixed with measure\nwhich has done so much honor to our GOVERNOR\nWe have none of those mawkish feelings, which\ncannot bear, upon any occasion, the lnillcton OF\ncapital punishment: nor are we disposed to lind\nfault with the apprehension that many, entertain,\nthat the pardonins power may be too freely exer-\ncised\n\n\nWithin very few years back this county had\nwas not very remote from those of the State House\nand other public buildings, which were in lmnedi-\nate connection with the body of the town. little\nbefore one o'clock, on Sunday mornings the citizens",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 1882,
+                "y0": 4351,
+                "x1": 2332,
+                "y1": 4392
+            },
+            "class": "headline",
+            "raw_text": "For the Delaware Journal.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 845,
+                "y0": 840,
+                "x1": 1639,
+                "y1": 1290
+            },
+            "class": "article",
+            "raw_text": "RECEIPT FOR couRTsHIP.\nTwo or three dears and two or three sweets;\nTwo or three balls and two or three treats\nTwo or three serenades given as lure,\nTwo or three oaths how much they endure\nTwo or three messengers sent in one day,\nTwo or three times led out to play,\nTwo Or three soft speeches made by the way;\nTwo or three tickets for two or three times,\nTwo or three love letters writ all in rhymes\nTwo or three months keeping strict to these rules\nCan never fail making couple Of fools.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 880,
+                "y0": 666,
+                "x1": 2214,
+                "y1": 758
+            },
+            "class": "headline",
+            "raw_text": "TUESDAY, December Ill, 1927.",
+            "legibility": "Illegible",
+            "full_article_id": 7,
+            "reading_order_id": -2
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 1024,
+                "y0": 836,
+                "x1": 1460,
+                "y1": 872
+            },
+            "class": "headline",
+            "raw_text": "A RECEIPT FOR couRTsHIP.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 39,
+                "y0": 1319,
+                "x1": 842,
+                "y1": 1734
+            },
+            "class": "article",
+            "raw_text": "Persons wishing any sort of PRINTING done' with\nreatness, accuracy, and dispatch ADVERTISEMENTS\nInserted, or SuBscR1prIoNs paid where there are\nno Agents appointed in their neighbourhood 70 re-\nceiye them, will please apply or direct TO H. rofter\n.nd Son. No. 81. Market Street, Wilmington.\nAl communications, not of the above character,\n~ he addressed to M Bradford Editor of the Della\nware Journal, Wilmington.\n\n\nThis arrangement is made for the more regular\nand prompt execution Of business.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 309,
+                "y0": 1267,
+                "x1": 563,
+                "y1": 1312
+            },
+            "class": "headline",
+            "raw_text": "NOTICE..",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 39,
+                "y0": 888,
+                "x1": 829,
+                "y1": 1251
+            },
+            "class": "article",
+            "raw_text": "TIE DEL.aVARE JOURNAL is pub\nlished on Tuesdays aud Fridays, ut four doltars\ngsr annun,; tzco dollars every sac months m a.\nvance. No paper to be discontinued, untas ar\nrsarages are paid.\nadvertisements inserted on the 1ts1at terms\nYis. One dollar for four insertions Of s.atee',\nli,,es and so II, proportion for every number q\nadditionaL lines and insertions.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 44,
+                "y0": 683,
+                "x1": 289,
+                "y1": 767
+            },
+            "class": "headline",
+            "raw_text": "Vol. 4.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -2
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 244,
+                "y0": 832,
+                "x1": 641,
+                "y1": 880
+            },
+            "class": "headline",
+            "raw_text": "CONDITIONS.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 96,
+                "y0": 4783,
+                "x1": 890,
+                "y1": 5119
+            },
+            "class": "article",
+            "raw_text": "sTRAYED OR STOLEN, on the night of the\ne2d November last, from the stable of the subscri-\nber, DApPLE GREY MARE, supposed TO be\nfabout ten years oldhas black spot on the left side\nOF her neck. The above reward will be paid to any\nperson who will deliver said Mare to the subscriber,\nat Summit Bridge.\n\n\nJOSEPH CARR.\nDec. 6. 1897. 4tp",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 135,
+                "y0": 4696,
+                "x1": 864,
+                "y1": 4771
+            },
+            "class": "headline",
+            "raw_text": "10 Dollars Rcaunrd.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2483,
+                "y0": 910,
+                "x1": 3320,
+                "y1": 5084
+            },
+            "class": "article",
+            "raw_text": "\n\n\nmd there, summoned the inhabitants to the specta\nlie. Here was no laundering OF engines as in our\n,ities--no bustng of fremen-for there were no\nengines. no fremen, no ladders, no buckets and no\nwater The flames, as they burst from the roof, or\npoured out from the iron grated windows, and curl\ned and fingered about the walls, making the whole\nfabrick one bright mass of fire, rendered egible\nevery expression in the countenances OF the SUR\nrounding crowd of men, women and children-some\nwith and some almost without clothes. 1t was not\npryate property that was making the brilliant bon\nfire. Each would sustain loss, but the cummuni-\n\n\ny Of suffering, and the exemption from an over\n,.helming individual infction, was rather matter\n# delight than Of terror and regret. Not breath\nOf wind was stirring, except what gently inclined\nthe volume of flame, in the only direction, in which\nit would endanger no other public, or private pro-\n\n\nery If from accident the fire arose, every one thank\nI'd Providence, that the sacred sanctuaries OF do\nnestle peace and happiness were likely to remain\nanscathed. If the work OF an incendlary-of some\nnapess tenant Of the house of woe, trusting his libe\n\n\nalton, less to the consciousness of his own inno-\naence than to the terrible agency he had invoked,\n\n\nhere was voice in the gentle wind that blew, that\n\n\nallied in behalf of the culprit, for something like\n\n\nforgiveness, and almost for emotion ut gratitude\n1t was the morning of the Sabbath. That passed,\n,he sterner duties Of the following day commenced.\nJudges attorney general. grand and petty Jurymen,\nall arrived from various parts OF the state and coun-\n~ were seen surrounding the smoking ruins. These\nare hard times, and the people who had been So re-\nGently called upon for the funds expended, in the\nerection Of this building, were now again to be tax\nI'd for its reconstruction Is wonderful that there\nbecame Immediately associated, in almost every\n\n\nmind with the rksome and unpleasant undertaking,\nanother and cheaper public work OF eYpia0n and\n\n\natonement Amidst such feelings, what spirit\n\n\nwhat talents, short of superhuman, could have walk\n\n\nI'd with and protected innocence herself, through\n\n\nthe ordeal that followed The humanity OF the\n\n\ncourt assigned distant day, for carrying into execu-\n\n\nton, the dreadful sentence of the law. This short\ninterval of life soon passed, and apparently\n\n\npassed with nothing of reentance in thepublic mind.\n\n\nTie voice of the multitude seemed still. most nexo\n\n\nrably to call for the execution of this unhappy man.\n\n\nThe governor was supposed to taulter. and some\n\n\nblood thirsty spirits-nO, not some, only One--a\nlaw drunken beggar, who would himself have dis\n\n\nsraced the gibbet, threatened TO erect galows IN\n\n\nfront of the State House, and to burn the governor\n\n\nhimself in eiigy. On what seemed to general e1\n\n\npectation the last day but one OF the poor Wretchs\n\n\nlife he in whose hands, on these occasions the law\n\n\nhas placed the issues of life aud death, arrived at the\n\n\nseat of governe Mt. Never the exercise, not OF\n\n\nhumanity, nor of clemency, but OF stern duty, more\nsolemnIy called for TO have left this case where\nthe court and the Jury had left ito have permit\n\n\nted the law to have taken its course was, to all ap-\nT pearance, to have gone on smoothly and safelys\n, with the current of public opinion. On the other\nhand to lenghen out the days of this man, was to\n: resolve to stem a most furious torrent--to draw\ndown upon himself the execrations of men blinded\n0 and nfuriated. Overlooking. nobly overlooking all\n\n\nbearing of these matters upon himself, our Governor,\n: with virtuous independence that did nm immortal\n: honor determined to do what he believed ntrlnsl-\nd cally right He stood firm and unmoved, amid the\nangry coverings, which seemed gathering for his de-\nstruction; did his duty earessiy Of all consequences\nIt and as il Providence intended to reward his honor\ni and Independence, it became, almost Immediately\nafterwards KNOWN that strong and virtuous reac-\nton had even then, taken place IN the public mind.\ng There had been, from the first small stili voice\nIS raised against the execution OF this man-but was\n\n\nno more than the coong of the dove to the roaring OF\nthe ocean, 1t was not the voice of friend or relative\nfnr nor friend nor relative had he Better days had\n= nassed over his head--but they were with many\ne !. winters snow\" 1t was from beyond the limits\nof our own county, that the voice OF reason began\nd first to make itself heard. In the Borough OF IL\n\n\nminpton whose citizens no less distinguished\n\n\nfor their enlightened good sense, than their we'll re-\n\n\nguIated humanity, meeting was called, and a me-\n\n\nmortal in favor of pardoning Greeny, was signed by\nn considerable number of the most respectable peo-\nnile of the place. In the cities Of Philadelphia and\nq New York, where our public journals had carried,\nd amid the news of the day, the intelligence OF our\nn disaster and of the doom passed upon the cuiprlt\n), from behind the counters OF their merchants-from\n\n\nthe work benches of their mechanics, the citizens\n= and traders of our county, had to endure homes\ni which sent them home with juster views and more\n. uenernus feelings. s.Whatn' said they to peo\nEne.\" build your gaos, in spirit of mean parslmo-\n: nv, with temptations to your prisoners to break\nh them, and then hang the poor wretches who have\nIl fallen into the snares you have yourselves set TOR\n4 them Try them, too, amid the hot embers OF the\n\n\nruins. and hang them before the smoke has done rise\n. ing to Heaven, in Judgment against you !! what\n\n\ndo YOU compare. in turpitude and deep crlmnallty,\n\n\nthe effort Of u wretch, to release himself from i'm",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 100,
+                "y0": 5144,
+                "x1": 894,
+                "y1": 5302
+            },
+            "class": "article",
+            "raw_text": "!, 1.-THE pamphlet respecting the kremer affair, and\nhe s history of Gen. Jackson's accusations against\nMr Clay, &c. &c just received and for sale by the\nPublishers, No. 81, Market-Street.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 858,
+                "y0": 1197,
+                "x1": 1665,
+                "y1": 5333
+            },
+            "class": "article",
+            "raw_text": "Two three months keeping strict to these rules,\nCan never fail making couple Of fools.\n\n\nBONAPARTE.\nThe annexed sketch of the warrior talents of Ma\npoleon, and Of the causes Of his downfall, is from\nGen. Foy's history of the Peninsula war.\n\n\nsWth his passions and in spite of his errors, Ma\npoleon is, taking him all in all, the greatest warrior\nof modern times. He carried into battle stoical\ncourage, profoundly calculated tenacity, mind\nfertile in sudden inspirations which by unhoped for\nresources Disconnected the plans of the enemy. Let\nus beware Of atributing long series of success to\nthe organic power of the which he set in mo-\nton. The most experienced eye could scarcely dis\ncover in them any thing but elements OF disorder.\n\n\nStill less let it be said that he was successful\ncaptain because he was mighty monarch. or all\nhis campaigns the most memorable are, the cam\npagn of the Adige, where the general of yesterday,\ncommanding an army by no means numerous. and\nat first badly appointed. placed himself at once\nabove Turenne and on level with Frederick ;-and\nthe campaign in France in l8 a. when, reduced to\nhandful of harrassed troops, he combatted force\nof ten times their number. The last flashes Of the\nimperial lightning still dazzed the eyes OF our enc\nmics and it was fine sight to see the bounds of\nthe old lion. tracked, hunted down, beset, present\ning lively picture of the days of his youth. when\nhis powers developed themselves in the fields oi\ncarnage.\n\n\n| \"Napoleon possessed. in an eminent degree\nthe faculties requisite for the profession of arms\ntemperate and robust. watching and sleeping at\npleasure, appearing unawares where he was least\nexpected he did not disregard details to which i'm\nportant results are sometimes attached. The hand\nwhich had Just traced rules for the government ol\nmany millions Of men would frequently rectify an\nincorrect statement of the situation of regiment,\nor write down whence two hundred conscripts were\nto be obtained, and ON what magazine their shoes\nwere to be taken A patient and easy interlocutor\nhe was home questOner, and he could listen j;\nrare talent in the grandees of the earth. he car\nried with him into battle a cool and impassab\ncourage never was mind deeply medtative\nmore fertile in rapid and sudden illuminatons.-\nOn becoming Emperor he ceased not to be the sol\ndier. If his activity decreased with the progress\nage, that was owing to the decrease OF his physlca\npowers.\n\n\n.'In games of mingled calculation and hazard\nthe greater the advantages which man seeks t\nobtain, the greater risks he must rum 1t is precise\nly this that renders the deceitful science OF con\nquerors SO calamitous to nations. Napoleon, thoug\nnaturally adventurous, was not deficient in cons\n\n\ntencvor method and he wasted neither his soldier\nnor his treasures where the authority OF his nam\n: sufficed. What he could obtain by negotiations\nby artifce, he required not by force of arms. III\n\n\nsword, although drawn from the scabbard, was nj\nal stained with blood, unless it was impossible to\nd tain the end in view by manguvre. Always rel\ny dy to fight. he chose habtuay the occasion and II\n4 ground Out Of fifty battles which he fought,he WI\n: the assailant in at least forty\n\n\n\"Other generals have equalled him in the art\n\n\ndisposng troops on the ground. Some have GIVE\n\n\nbattle as well as he did ; we could mention sever\n\n\nwho have recevedit better but IN the manner\n\n\ndirecting an offensive campaign he has surpass'\nall.\n\n\n\"The wars in Spain and Russia. prove nothl\n\n\nin disparagement Of his genius. 1t is not by q\n\n\nrules of Montecuculi and Turenne, manGuyrlns\n\n\nthe Renchen, that we ought to Judge OF such ente\n\n\nprises. The first warred to secure such or SUI\n\n\nwinter-quarters the other to subdue the world\n\n\nfrequently beloved him not merely to gain battl\n\n\nbut to gain ii in such manner as to astound Euro\n\n\nand to produce gigantic results. His political vie'\n\n\nwere necessarily interfering with the strategic gel\n~ us and to appreciate him properly we must n\n- conne ourselves within the limits of the art OF wa\nny This art is not composed exclusively OF technlc\ndetails it has also its philosophy. To find in I'll\nmt elevated region rival to Napoleon, must go bal\nss to the times when the feudal institutions had n\n\n\nyet broken the unity Of the ancient nations. III\n\n\nfounders of religions alone have exercised ov\ntheir disciples an authority comparable with tn\n\n\nwhich made him the absolute master of his arm\n\n\nThis moral power became fatal to him, because\nhe strove to avail himself of it even against the asce\nRI dency of material force. and because it led him\nbe despise positive rules, the long violation Of whie\nde will not remain unpunished.\n\n\nnv \"When pride was hurryng Napoleon towards b\nr., fall, he happened to say: France has more need\n\n\nme than l have of France He spoke the trut\n\n\nBut why had he become necessarily Because\n\n\nhad committed the destiny Of the French to Il\n- chances of an interminable war; because, in spin\nI'D of the resources oits genius, rendered ds\nst ly more hazardous by his stalking the whole OF II\nhe force and by the bodne of his movements, risk\n\n\nin every campaign in every battle, the frui",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 3620,
+                "y0": 583,
+                "x1": 4597,
+                "y1": 4644
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 29,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                18,
+                0
+            ],
+            "headline": "AGENTS.",
+            "article": "CoNcoRp.-Dr Thomas Adams, Z. M.\nBRrpeEvlLLE.-HenryC Cannon, 7. M.\nMuroN.-Mr Arthur Milby.\n\n\nFRANKroRp.--Mr Isaiah Long.\n\n\nDAGsBoRouan.--Dr. Edward Dinge.\nGEORGE TowN.--Mr. Joshua 5. Layton.\nLEwEs--H F. Rodney, +. NJ.\n\n\nMuFoap.-Mr. Joseph G. Oliver.\nFRspERlcA.-J Emerson, 2. M.\nC,MpES.-Thomas Wainwright, ?. M.\nDovER.-John Robertson, Esq.\n\n\nSmyRNA-Samuel II. Hodson, Esq.\nC.NrwsLLs Observation-Disclosures Hayes, I M.\nM,ppLErowN.- Thomas Harry, T. M.\nSUMMIT BnIDGE.--John Clement, I. NJ.\n\n\nWARWICK, Md.-John Moreton, (. M.\nSubscribers living in the vicinity OF the residence\nOf these Agents, may pay their subscription money\nto them, they being authorized to receive H. aho 10\ngive receipts.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 314,
+                    "y0": 1746,
+                    "x1": 572,
+                    "y1": 1791
+                },
+                {
+                    "x0": 65,
+                    "y0": 1794,
+                    "x1": 850,
+                    "y1": 2549
+                }
+            ],
+            "bbox": [
+                65,
+                1746,
+                850,
+                2549
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-12-11_p1_sn83025530_00271740220_1827121101_0281.json"
+        },
+        {
+            "object_ids": [
+                16,
+                19,
+                1
+            ],
+            "headline": "COmMU UWICATYONS.\n\nFor the Delaacare Journal.",
+            "article": "The Presidents Message, SO promptly issued D.\nyou, is most masterly document. 1t breathes ths\nfeeling of heart tenderly sensible TO the bouneous\ngifts of Providence, and indicates a mind vigllan\nand discerningi in the guardianship and management\nof the affairs of the Nation. Its style is smooth, CO.\npious and perspicuous and its language '' express\nslve, energetic and refined\" 1t has disappointed\nnone but the calumnous misguided Editors and lea\nders ufthe Opposition These, Mr.. Adams has COM\npleteIy dlscomfted, nasmuch as he has entirely re-\nTrained from touching any topic which the contend\ning parties are discussing. The writer's of the OPP\nposition were couched like erocious tigers in their\nlairs, \" nursing their wrath\" ready at the stated\nmoment to attack without justice or reason, their\ndevoted victim. But Mr. Adams has left them no\nchance, and has entirely asted their sanguine pre-\ndictions g that his message would he fine elec-\ntioneerng Message )\" and in consonance with his\nunwavering conduct in such matters he has used no\nargument or art, to foresta public opinion a des-\nideratum wished for, and affected by the Combna-\ntion There are no false accusations, as in Bcver-\nley's letter, no anuendoes Gen. Jacksons, and\nno hes as in the East Room story but all IS dis\npassionate and candid review ofnatonaf concerns, III\nwhich every patriotic citizen must feel an interest\nand satisfaction. Mr. Adams, like true Republi-\ncan will follow the dictates of the people, in his tu\n\n\nture as he has in his former course: and pledges\nhinselfto their interests and wishes in the following\nexplicit words \" amidst the multiplicity OF topics\n/ of great national concernment which may recon-\n\n\nmend themselves to the calm and patriotic de-\n\n\nlberatons of the Legislature, it may suffice to say\n\n\nthat in those and all other measures which may re-\n\n\nceive their sanction my hearty cooperation Will DC\ngiven, conformably to the duties enjoned upon me\n\n\nand under the sense of all the obligations prescribed\nby the Constitution Who could ask more",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1851,
+                    "y0": 2635,
+                    "x1": 2314,
+                    "y1": 2684
+                },
+                {
+                    "x0": 1878,
+                    "y0": 2709,
+                    "x1": 2301,
+                    "y1": 2749
+                },
+                {
+                    "x0": 1695,
+                    "y0": 2753,
+                    "x1": 2497,
+                    "y1": 4309
+                }
+            ],
+            "bbox": [
+                1695,
+                2635,
+                2497,
+                4309
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-12-11_p1_sn83025530_00271740220_1827121101_0281.json"
+        },
+        {
+            "object_ids": [
+                15,
+                2
+            ],
+            "headline": "XvO Re2et,",
+            "article": "And possession to be given on the goth March next\n- The Mansion, Farm, and former residence\ns!a.a- of the late Cesar a. Rodney Esq. now &C.\ncuple1 oy NJ. Bradford, Esq. nearly adjoining the\nline of the Borough of Wilmington, (Del,) contain\ning about twenty five of fine arabic Land sur\nrounded with hedge and post and rall fence' IN gooa\narJor On the nremises are choice selection of\nfruit Trees with pleasant Gardens.\n\n\nThe improvements consist of large and com\nPortable two stored stone dwelling Honse, kitchens,\n&C.: two storied brick house, formerly occupied\nas an office and recently dwelling, stone barn\nand stables, sc.\n\n\nThe situation of this estate is desirable one,\nbeing high, healthy, and commanding deightlul\nview of the River Delaware, and surrounding coun-\nThomas yWDo1Yeu, or Thomas Harrington, Will\nmipgton. or the subscriber at Philadelphia\n\n\n''''9s' S. H. RODNEY.\n\n\nNov 80. o4-u",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 279,
+                    "y0": 2570,
+                    "x1": 654,
+                    "y1": 2640
+                },
+                {
+                    "x0": 65,
+                    "y0": 2652,
+                    "x1": 868,
+                    "y1": 3481
+                }
+            ],
+            "bbox": [
+                65,
+                2570,
+                868,
+                3481
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-12-11_p1_sn83025530_00271740220_1827121101_0281.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "OF twenty years Of triumph becausehis gov\nernment was so modelled that with hi'n every\nthing must be swept away, and that a reaction\nproporoned to the violence Of the action must burst\nforth at once both within and without. The mania\nof conquest had reversed the state of things in Eu\nrope; we, the eldest born of liberty and lndepen-\ndence, sping our blood in the service OF roy\nal passions against the cause of natons and out:ag\ned nations we're turning round upon US, more terri\nBILE from being armed with the principles which we\nhad forsaken.\n\n\ncat times, this immense mass Of passion which\nhe was accumulating against him, this multitud\nOf avenglng arms ready to be raised, filled his an\nbilious spirit with involuntary apprehensIons. Look\ning around him, he was alarmed to find himself sol\ntary, and conceived the idea of Strengthening h\npower by moderating it.-Then it was that n\nthought OF creating hereditary peerage and re-\nconstructing his monarchy on more secure found'\ntions. But Napoleon without illusion to tn\nbottom of things. The nation, wholly and cor\ntinually occupied in prosecuting the designs OF n\nChief had previously not had time to form any plan\nfor ITSELF The day on which it should have ceas\ned to be stunned by the din Of arms, it would have\ncalled itself to account for its servile obedience l.\nis BETTER thought he, for absolute prince to fight\nforeign armies than to have struggles against the Ell\n\n\nergy of the citizens. Despotlsm had been organic\n\n\ned for making war war was continued to uphol\n\n\ndespotism. The die was cast ; France must eithe\n\n\nconquer Europe, or Europe subdue France,\ns Napoleon fell he fell, because, with the mel\n\n\nof the nineteenth century, he attempted the wori\n\n\nOF an Attila and Genghis Khan because he gay\n\n\nthe rens to an imagination directly contrary to tn\n\n\nspirit of his age, with which, nevertheless, his reas\n\n\non was perfectly acquainted because be would no\n\n\npause on the day when he felt conscious OF his ina\nbility to succeed. Nature has fixed boundary\n\n\nbeyond which extravagant enterprises cannot be cal\n\n\nri 10 a EmnecO\nreached in Spain, and he overleaped il in Russia\nHad he then escaped destruction, his nieAlble pre-\nsumption would have caused him TO find elsewher\n, Babylon and Moscow",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1660,
+                    "y0": 845,
+                    "x1": 2467,
+                    "y1": 2623
+                }
+            ],
+            "bbox": [
+                1660,
+                845,
+                2467,
+                2623
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-12-11_p1_sn83025530_00271740220_1827121101_0281.json"
+        },
+        {
+            "object_ids": [
+                25,
+                13,
+                4
+            ],
+            "headline": "Nov. 80.\n\n7Yhe Columbian Almanac,\n\n\nEOv AS2S.",
+            "article": "Containing in addition to the usual Astronomical\nCalculations Tables, &c. the Courts OF the United\nStates, and of Delaware and Maryland great va\nrety of profitable and pleasing miscellaneous mat\nter among which is\n\n\nA Sailors humorous ride in milk-cart,\nYankey resolution in saving the mail,\nIngenious defence of thief,\n\n\nDreams and signs interpreted,\n\n\nMethod Of un-marrying the unhappy,\n\n\nDefinition ofa Drunkard,\n\n\nA little world,\n\n\nOld maids, their unmentionable troubles,\n\n\nAccount of novel courtship,\n\n\nAnecdote of Paddy and his game cock,\n\n\nThe Irishman and his pig, sc. &c. &c.\n\n\nWonderful discoveries ofthe Microscope,\n. Humorous account of Penn'a Battalion Day,\nWashington's army saved by Quaker lady,\nOde to the gout,\nRECEIPTS for curing the Gravel, curing Wens,\nmaking Candles removing grease spots from clothes\nmaking vinegar, preserving pickles, preserving\nmeats, &C. &C. &c.\n\n\nThe above Almanac, with an extensive assortment\nOf others, German and English for sale by the Gross\nor Dozen, at the most reduced prices.\n\n\nNov. r. PORTER & SON.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 113,
+                    "y0": 3441,
+                    "x1": 267,
+                    "y1": 3485
+                },
+                {
+                    "x0": 139,
+                    "y0": 3498,
+                    "x1": 816,
+                    "y1": 3599
+                },
+                {
+                    "x0": 87,
+                    "y0": 3615,
+                    "x1": 890,
+                    "y1": 4666
+                }
+            ],
+            "bbox": [
+                87,
+                3441,
+                890,
+                4666
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-12-11_p1_sn83025530_00271740220_1827121101_0281.json"
+        },
+        {
+            "object_ids": [
+                22,
+                5
+            ],
+            "headline": "For the Delaware Journal.",
+            "article": "Solomon Greenty.-At the last Court ofOyer and\nTerminer, for Kent County, this man was indicted\nconvicted and sentenced to Death for burning the\nJail of that county. The day before that assigned\nfor his execution, the Governor pardoned him, upon\nThe condition of has Leaving the state We don't up\nhold this part Of the case, and much wish it had been\nomitted and hope it may not be drawn INTO Prece-\ndent. For very obvious reasons snch cohn'lon IS\nnot allowable. 1t is deeply to be regretted that any\nalloy was permitted to be mixed with measure\nwhich has done so much honor to our GOVERNOR\nWe have none of those mawkish feelings, which\ncannot bear, upon any occasion, the lnillcton OF\ncapital punishment: nor are we disposed to lind\nfault with the apprehension that many, entertain,\nthat the pardonins power may be too freely exer-\ncised\n\n\nWithin very few years back this county had\nwas not very remote from those of the State House\nand other public buildings, which were in lmnedi-\nate connection with the body of the town. little\nbefore one o'clock, on Sunday mornings the citizens",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1882,
+                    "y0": 4351,
+                    "x1": 2332,
+                    "y1": 4392
+                },
+                {
+                    "x0": 1708,
+                    "y0": 4395,
+                    "x1": 2506,
+                    "y1": 5293
+                }
+            ],
+            "bbox": [
+                1708,
+                4351,
+                2506,
+                5293
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-12-11_p1_sn83025530_00271740220_1827121101_0281.json"
+        },
+        {
+            "object_ids": [
+                23,
+                26,
+                6
+            ],
+            "headline": "TUESDAY, December Ill, 1927.\n\nA RECEIPT FOR couRTsHIP.",
+            "article": "RECEIPT FOR couRTsHIP.\nTwo or three dears and two or three sweets;\nTwo or three balls and two or three treats\nTwo or three serenades given as lure,\nTwo or three oaths how much they endure\nTwo or three messengers sent in one day,\nTwo or three times led out to play,\nTwo Or three soft speeches made by the way;\nTwo or three tickets for two or three times,\nTwo or three love letters writ all in rhymes\nTwo or three months keeping strict to these rules\nCan never fail making couple Of fools.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 880,
+                    "y0": 666,
+                    "x1": 2214,
+                    "y1": 758
+                },
+                {
+                    "x0": 1024,
+                    "y0": 836,
+                    "x1": 1460,
+                    "y1": 872
+                },
+                {
+                    "x0": 845,
+                    "y0": 840,
+                    "x1": 1639,
+                    "y1": 1290
+                }
+            ],
+            "bbox": [
+                845,
+                666,
+                2214,
+                1290
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-12-11_p1_sn83025530_00271740220_1827121101_0281.json"
+        },
+        {
+            "object_ids": [
+                17,
+                7
+            ],
+            "headline": "NOTICE..",
+            "article": "Persons wishing any sort of PRINTING done' with\nreatness, accuracy, and dispatch ADVERTISEMENTS\nInserted, or SuBscR1prIoNs paid where there are\nno Agents appointed in their neighbourhood 70 re-\nceiye them, will please apply or direct TO H. rofter\n.nd Son. No. 81. Market Street, Wilmington.\nAl communications, not of the above character,\n~ he addressed to M Bradford Editor of the Della\nware Journal, Wilmington.\n\n\nThis arrangement is made for the more regular\nand prompt execution Of business.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 309,
+                    "y0": 1267,
+                    "x1": 563,
+                    "y1": 1312
+                },
+                {
+                    "x0": 39,
+                    "y0": 1319,
+                    "x1": 842,
+                    "y1": 1734
+                }
+            ],
+            "bbox": [
+                39,
+                1267,
+                842,
+                1734
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-12-11_p1_sn83025530_00271740220_1827121101_0281.json"
+        },
+        {
+            "object_ids": [
+                27,
+                20,
+                8
+            ],
+            "headline": "Vol. 4.\n\nCONDITIONS.",
+            "article": "TIE DEL.aVARE JOURNAL is pub\nlished on Tuesdays aud Fridays, ut four doltars\ngsr annun,; tzco dollars every sac months m a.\nvance. No paper to be discontinued, untas ar\nrsarages are paid.\nadvertisements inserted on the 1ts1at terms\nYis. One dollar for four insertions Of s.atee',\nli,,es and so II, proportion for every number q\nadditionaL lines and insertions.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 44,
+                    "y0": 683,
+                    "x1": 289,
+                    "y1": 767
+                },
+                {
+                    "x0": 244,
+                    "y0": 832,
+                    "x1": 641,
+                    "y1": 880
+                },
+                {
+                    "x0": 39,
+                    "y0": 888,
+                    "x1": 829,
+                    "y1": 1251
+                }
+            ],
+            "bbox": [
+                39,
+                683,
+                829,
+                1251
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-12-11_p1_sn83025530_00271740220_1827121101_0281.json"
+        },
+        {
+            "object_ids": [
+                14,
+                9
+            ],
+            "headline": "10 Dollars Rcaunrd.",
+            "article": "sTRAYED OR STOLEN, on the night of the\ne2d November last, from the stable of the subscri-\nber, DApPLE GREY MARE, supposed TO be\nfabout ten years oldhas black spot on the left side\nOF her neck. The above reward will be paid to any\nperson who will deliver said Mare to the subscriber,\nat Summit Bridge.\n\n\nJOSEPH CARR.\nDec. 6. 1897. 4tp",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 135,
+                    "y0": 4696,
+                    "x1": 864,
+                    "y1": 4771
+                },
+                {
+                    "x0": 96,
+                    "y0": 4783,
+                    "x1": 890,
+                    "y1": 5119
+                }
+            ],
+            "bbox": [
+                96,
+                4696,
+                890,
+                5119
+            ],
+            "full_article_id": 10,
+            "id": "10_1827-12-11_p1_sn83025530_00271740220_1827121101_0281.json"
+        },
+        {
+            "object_ids": [
+                10
+            ],
+            "headline": "",
+            "article": "\n\n\nmd there, summoned the inhabitants to the specta\nlie. Here was no laundering OF engines as in our\n,ities--no bustng of fremen-for there were no\nengines. no fremen, no ladders, no buckets and no\nwater The flames, as they burst from the roof, or\npoured out from the iron grated windows, and curl\ned and fingered about the walls, making the whole\nfabrick one bright mass of fire, rendered egible\nevery expression in the countenances OF the SUR\nrounding crowd of men, women and children-some\nwith and some almost without clothes. 1t was not\npryate property that was making the brilliant bon\nfire. Each would sustain loss, but the cummuni-\n\n\ny Of suffering, and the exemption from an over\n,.helming individual infction, was rather matter\n# delight than Of terror and regret. Not breath\nOf wind was stirring, except what gently inclined\nthe volume of flame, in the only direction, in which\nit would endanger no other public, or private pro-\n\n\nery If from accident the fire arose, every one thank\nI'd Providence, that the sacred sanctuaries OF do\nnestle peace and happiness were likely to remain\nanscathed. If the work OF an incendlary-of some\nnapess tenant Of the house of woe, trusting his libe\n\n\nalton, less to the consciousness of his own inno-\naence than to the terrible agency he had invoked,\n\n\nhere was voice in the gentle wind that blew, that\n\n\nallied in behalf of the culprit, for something like\n\n\nforgiveness, and almost for emotion ut gratitude\n1t was the morning of the Sabbath. That passed,\n,he sterner duties Of the following day commenced.\nJudges attorney general. grand and petty Jurymen,\nall arrived from various parts OF the state and coun-\n~ were seen surrounding the smoking ruins. These\nare hard times, and the people who had been So re-\nGently called upon for the funds expended, in the\nerection Of this building, were now again to be tax\nI'd for its reconstruction Is wonderful that there\nbecame Immediately associated, in almost every\n\n\nmind with the rksome and unpleasant undertaking,\nanother and cheaper public work OF eYpia0n and\n\n\natonement Amidst such feelings, what spirit\n\n\nwhat talents, short of superhuman, could have walk\n\n\nI'd with and protected innocence herself, through\n\n\nthe ordeal that followed The humanity OF the\n\n\ncourt assigned distant day, for carrying into execu-\n\n\nton, the dreadful sentence of the law. This short\ninterval of life soon passed, and apparently\n\n\npassed with nothing of reentance in thepublic mind.\n\n\nTie voice of the multitude seemed still. most nexo\n\n\nrably to call for the execution of this unhappy man.\n\n\nThe governor was supposed to taulter. and some\n\n\nblood thirsty spirits-nO, not some, only One--a\nlaw drunken beggar, who would himself have dis\n\n\nsraced the gibbet, threatened TO erect galows IN\n\n\nfront of the State House, and to burn the governor\n\n\nhimself in eiigy. On what seemed to general e1\n\n\npectation the last day but one OF the poor Wretchs\n\n\nlife he in whose hands, on these occasions the law\n\n\nhas placed the issues of life aud death, arrived at the\n\n\nseat of governe Mt. Never the exercise, not OF\n\n\nhumanity, nor of clemency, but OF stern duty, more\nsolemnIy called for TO have left this case where\nthe court and the Jury had left ito have permit\n\n\nted the law to have taken its course was, to all ap-\nT pearance, to have gone on smoothly and safelys\n, with the current of public opinion. On the other\nhand to lenghen out the days of this man, was to\n: resolve to stem a most furious torrent--to draw\ndown upon himself the execrations of men blinded\n0 and nfuriated. Overlooking. nobly overlooking all\n\n\nbearing of these matters upon himself, our Governor,\n: with virtuous independence that did nm immortal\n: honor determined to do what he believed ntrlnsl-\nd cally right He stood firm and unmoved, amid the\nangry coverings, which seemed gathering for his de-\nstruction; did his duty earessiy Of all consequences\nIt and as il Providence intended to reward his honor\ni and Independence, it became, almost Immediately\nafterwards KNOWN that strong and virtuous reac-\nton had even then, taken place IN the public mind.\ng There had been, from the first small stili voice\nIS raised against the execution OF this man-but was\n\n\nno more than the coong of the dove to the roaring OF\nthe ocean, 1t was not the voice of friend or relative\nfnr nor friend nor relative had he Better days had\n= nassed over his head--but they were with many\ne !. winters snow\" 1t was from beyond the limits\nof our own county, that the voice OF reason began\nd first to make itself heard. In the Borough OF IL\n\n\nminpton whose citizens no less distinguished\n\n\nfor their enlightened good sense, than their we'll re-\n\n\nguIated humanity, meeting was called, and a me-\n\n\nmortal in favor of pardoning Greeny, was signed by\nn considerable number of the most respectable peo-\nnile of the place. In the cities Of Philadelphia and\nq New York, where our public journals had carried,\nd amid the news of the day, the intelligence OF our\nn disaster and of the doom passed upon the cuiprlt\n), from behind the counters OF their merchants-from\n\n\nthe work benches of their mechanics, the citizens\n= and traders of our county, had to endure homes\ni which sent them home with juster views and more\n. uenernus feelings. s.Whatn' said they to peo\nEne.\" build your gaos, in spirit of mean parslmo-\n: nv, with temptations to your prisoners to break\nh them, and then hang the poor wretches who have\nIl fallen into the snares you have yourselves set TOR\n4 them Try them, too, amid the hot embers OF the\n\n\nruins. and hang them before the smoke has done rise\n. ing to Heaven, in Judgment against you !! what\n\n\ndo YOU compare. in turpitude and deep crlmnallty,\n\n\nthe effort Of u wretch, to release himself from i'm",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2483,
+                    "y0": 910,
+                    "x1": 3320,
+                    "y1": 5084
+                }
+            ],
+            "bbox": [
+                2483,
+                910,
+                3320,
+                5084
+            ],
+            "full_article_id": 11,
+            "id": "11_1827-12-11_p1_sn83025530_00271740220_1827121101_0281.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "!, 1.-THE pamphlet respecting the kremer affair, and\nhe s history of Gen. Jackson's accusations against\nMr Clay, &c. &c just received and for sale by the\nPublishers, No. 81, Market-Street.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 100,
+                    "y0": 5144,
+                    "x1": 894,
+                    "y1": 5302
+                }
+            ],
+            "bbox": [
+                100,
+                5144,
+                894,
+                5302
+            ],
+            "full_article_id": 12,
+            "id": "12_1827-12-11_p1_sn83025530_00271740220_1827121101_0281.json"
+        },
+        {
+            "object_ids": [
+                12
+            ],
+            "headline": "",
+            "article": "Two three months keeping strict to these rules,\nCan never fail making couple Of fools.\n\n\nBONAPARTE.\nThe annexed sketch of the warrior talents of Ma\npoleon, and Of the causes Of his downfall, is from\nGen. Foy's history of the Peninsula war.\n\n\nsWth his passions and in spite of his errors, Ma\npoleon is, taking him all in all, the greatest warrior\nof modern times. He carried into battle stoical\ncourage, profoundly calculated tenacity, mind\nfertile in sudden inspirations which by unhoped for\nresources Disconnected the plans of the enemy. Let\nus beware Of atributing long series of success to\nthe organic power of the which he set in mo-\nton. The most experienced eye could scarcely dis\ncover in them any thing but elements OF disorder.\n\n\nStill less let it be said that he was successful\ncaptain because he was mighty monarch. or all\nhis campaigns the most memorable are, the cam\npagn of the Adige, where the general of yesterday,\ncommanding an army by no means numerous. and\nat first badly appointed. placed himself at once\nabove Turenne and on level with Frederick ;-and\nthe campaign in France in l8 a. when, reduced to\nhandful of harrassed troops, he combatted force\nof ten times their number. The last flashes Of the\nimperial lightning still dazzed the eyes OF our enc\nmics and it was fine sight to see the bounds of\nthe old lion. tracked, hunted down, beset, present\ning lively picture of the days of his youth. when\nhis powers developed themselves in the fields oi\ncarnage.\n\n\n| \"Napoleon possessed. in an eminent degree\nthe faculties requisite for the profession of arms\ntemperate and robust. watching and sleeping at\npleasure, appearing unawares where he was least\nexpected he did not disregard details to which i'm\nportant results are sometimes attached. The hand\nwhich had Just traced rules for the government ol\nmany millions Of men would frequently rectify an\nincorrect statement of the situation of regiment,\nor write down whence two hundred conscripts were\nto be obtained, and ON what magazine their shoes\nwere to be taken A patient and easy interlocutor\nhe was home questOner, and he could listen j;\nrare talent in the grandees of the earth. he car\nried with him into battle a cool and impassab\ncourage never was mind deeply medtative\nmore fertile in rapid and sudden illuminatons.-\nOn becoming Emperor he ceased not to be the sol\ndier. If his activity decreased with the progress\nage, that was owing to the decrease OF his physlca\npowers.\n\n\n.'In games of mingled calculation and hazard\nthe greater the advantages which man seeks t\nobtain, the greater risks he must rum 1t is precise\nly this that renders the deceitful science OF con\nquerors SO calamitous to nations. Napoleon, thoug\nnaturally adventurous, was not deficient in cons\n\n\ntencvor method and he wasted neither his soldier\nnor his treasures where the authority OF his nam\n: sufficed. What he could obtain by negotiations\nby artifce, he required not by force of arms. III\n\n\nsword, although drawn from the scabbard, was nj\nal stained with blood, unless it was impossible to\nd tain the end in view by manguvre. Always rel\ny dy to fight. he chose habtuay the occasion and II\n4 ground Out Of fifty battles which he fought,he WI\n: the assailant in at least forty\n\n\n\"Other generals have equalled him in the art\n\n\ndisposng troops on the ground. Some have GIVE\n\n\nbattle as well as he did ; we could mention sever\n\n\nwho have recevedit better but IN the manner\n\n\ndirecting an offensive campaign he has surpass'\nall.\n\n\n\"The wars in Spain and Russia. prove nothl\n\n\nin disparagement Of his genius. 1t is not by q\n\n\nrules of Montecuculi and Turenne, manGuyrlns\n\n\nthe Renchen, that we ought to Judge OF such ente\n\n\nprises. The first warred to secure such or SUI\n\n\nwinter-quarters the other to subdue the world\n\n\nfrequently beloved him not merely to gain battl\n\n\nbut to gain ii in such manner as to astound Euro\n\n\nand to produce gigantic results. His political vie'\n\n\nwere necessarily interfering with the strategic gel\n~ us and to appreciate him properly we must n\n- conne ourselves within the limits of the art OF wa\nny This art is not composed exclusively OF technlc\ndetails it has also its philosophy. To find in I'll\nmt elevated region rival to Napoleon, must go bal\nss to the times when the feudal institutions had n\n\n\nyet broken the unity Of the ancient nations. III\n\n\nfounders of religions alone have exercised ov\ntheir disciples an authority comparable with tn\n\n\nwhich made him the absolute master of his arm\n\n\nThis moral power became fatal to him, because\nhe strove to avail himself of it even against the asce\nRI dency of material force. and because it led him\nbe despise positive rules, the long violation Of whie\nde will not remain unpunished.\n\n\nnv \"When pride was hurryng Napoleon towards b\nr., fall, he happened to say: France has more need\n\n\nme than l have of France He spoke the trut\n\n\nBut why had he become necessarily Because\n\n\nhad committed the destiny Of the French to Il\n- chances of an interminable war; because, in spin\nI'D of the resources oits genius, rendered ds\nst ly more hazardous by his stalking the whole OF II\nhe force and by the bodne of his movements, risk\n\n\nin every campaign in every battle, the frui",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 858,
+                    "y0": 1197,
+                    "x1": 1665,
+                    "y1": 5333
+                }
+            ],
+            "bbox": [
+                858,
+                1197,
+                1665,
+                5333
+            ],
+            "full_article_id": 13,
+            "id": "13_1827-12-11_p1_sn83025530_00271740220_1827121101_0281.json"
+        }
+    ]
+}

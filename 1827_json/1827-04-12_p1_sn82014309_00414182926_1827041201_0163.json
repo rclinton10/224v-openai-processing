@@ -1,0 +1,481 @@
+{
+    "lccn": {
+        "title": "The Litchfield County post.",
+        "geonames_ids": [
+            "4837799"
+        ],
+        "dbpedia_ids": [
+            "Litchfield%2C_Connecticut"
+        ],
+        "issn": "",
+        "lccn": "sn82014309",
+        "start_year": "1826",
+        "end_year": "1829",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [
+            "sn84020071"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn82014309",
+        "edition": "ed-01",
+        "date": "1827-04-12",
+        "pages": [
+            "seq-4",
+            "seq-2",
+            "seq-1",
+            "seq-3"
+        ]
+    },
+    "page_number": "1",
+    "scan": {
+        "lccn": "sn82014309",
+        "edition": "ed-01",
+        "date": "1827-04-12",
+        "page": "1",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-04-12/ed-1/seq-1.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-04-12/ed-1/seq-1/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-04-12/ed-1/seq-1/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/ct_barnum_ver01/data/sn82014309/00414182926/1827041201/0163.jp2",
+        "height": 7276,
+        "width": 5034
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2062,
+                "y0": 5047,
+                "x1": 2950,
+                "y1": 6964
+            },
+            "class": "article",
+            "raw_text": "The weather during the whole of the spring and summer preceding the visitation, had been unusually close and sultry. Foul and offensive exhalations had proceeded, in a remarkable degree. from all pools, and fens, and marshes, in the neigh borhood of the city. The bed of the ArnO, though afterwards replenished by sudden and heavy rains, had at one period sunk lower than the oldest citizen ever remembered to have seen it. Insects, moreover, in all fields and gardens, had appeared in numbers quite unprecedented; so as even, in many places, combined with the effect oft the drought, to destroy vegetation. And-a circumstance which still more attracted nOtice-the rats, both in the houses of Florence, and in the farms in the neighbouring villages, multiplied with such rapidity, and to such an excess, that, all temporal remedies being found una valing, it was thought necessary to have re- course to the aid of the Church, and formally to ercou1nt,L,licdte them. The success Of this extraordinary measure, or how far it operated at all, does not appear; hut the fact of its be-\n\n ing applied, is distinctly stated in all the chron icles of the time. Notice was formally read, in open church, against the rats; that, unless they withdrew from all houses, wheat stacks, barns or granaries. in Florence and the vicin ,ty. within four days from the date of those presents, process of \" deprivation\" would be issued against them. And curious feature in the superstition ot the times, vas, that the officer of the spiritual court, appointed to maintain the interests of all \"non-appearinG defendants\" interfered for tue ratS, and actu- ally obtained leave to \" enlarge the rule\" for their departure from four days to six on the ground that the cats of the city, knowing oi the order, would be upon the watch to inter- .cept them.\n\n During a considerable time, however from whatever cause the distemper in Florence",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2124,
+                "y0": 4934,
+                "x1": 2893,
+                "y1": 5037
+            },
+            "class": "headline",
+            "raw_text": "THE PLAGUE AT FLORENCE. By the late Charles Ed,DardS, Esq.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 226,
+                "y0": 4848,
+                "x1": 1131,
+                "y1": 6970
+            },
+            "class": "article",
+            "raw_text": "THE NOTORIOUS \"JOE BETTYS.\"\n\n On the celebration of the birth day of Washington, as noticed in our last, after the regular toasts were drunk, number of pat riotic volunteers were given; among oth- CTS, the names of Paulding, Williams and Van Vert, the captors of Andre, were men, toned in grateful remembrance-upon this an old revolutionary solder proposed as a sentiment\n\n The memory of Fulmer, Cory and Per- kins-who, by most gallant attempt, a. chieved at the peril of their lives, the cap- ture of that daring traitor ana spy, Joseph Bettys.\n\n The venerable Col. Ball, President of the Day, then rose and begged leave to mention few facts in relation to Bettys, and his capture, and as nearly as we can recollect, the substance was as follows: \"During the war of the revolution, was an officer in the New-York forces, commanded by Col. Wynkoop. Being ac- quainted with Bettys, who was citizen of Ballston, and knowing him to be bold, ath- letic and intelligent, in an uncommon de- gree, l was desirous of obtaining his servi- ces for my country, and succeeded in en- listing him with the command of sergeant; :; he was afterwards reduced to the ranks on account of some insolence to an officer. who he said abused him without a cause. Know ing his irritable and determined spirit. and unwilling to loose him, procured him a sergeancy in the fleet commanded by Gen. Arnold (afterwards the traitor) on Lake Champlain in '76. Bettys was in that des- perate fight which took place in the latter part of that campaign. between the Brit ish and American fleets on that lake, and being skilful seanen, was of signal ser vice during the battle. He fought until every commissioned officer on board his vessel was killed ar wounded and then as-",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 351,
+                "y0": 4780,
+                "x1": 1000,
+                "y1": 4827
+            },
+            "class": "headline",
+            "raw_text": "From the Rallston Spa Gazette.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 226,
+                "y0": 2000,
+                "x1": 1085,
+                "y1": 4753
+            },
+            "class": "article",
+            "raw_text": "THE SPIRIT OF DESOLATION. There is dark appalling gloom That hangs OCT life's declining. When hope is trembling OCT the tomb, Where not flower is twining; And mid that gloom spirit regns In cheerless devastation,\n\n And chants her wild bewiIdered strains--- The Spirit of DesoIation. She looks upon the smile of bliss, And turns that smile to sadness She looks on friendships rapturous kiss, And mingles it with madness; And in the heart where love has flown And hope and consolation, She breathes her low despairing moan The Spirit of Desolation. And where pale sickness sheds her blight, With tlreless rage consuming, The form that late was fair and bright In beauty's glory blooming; She loves to stand around and lend Some thought of aggravation, And bid some pang the lone heart rend,- The Spirit of Dissolution. She's seen amid the battles roar On sable pinions flying, And sheds her glance of horror OCT The fallen and the dying. When through the city rings the cry Of midnight conAagration, She hovers in the lurid sky, The Spirit of Desolation. She rides upon the winters storm In all its wild commotion, And oft her lone and spectral form Sweeps OCT the waves of ocean; And oft on Norway's icy shore, In stern exasperation, She plunges mid the Maelstrom's roar, The Spirit of Desolation. She kindles the volcano's flame, And while its path pursuing, She writes her own terrific name In characters of ruin. Amidst the earthquakes direful crash , She claims her habitation; Or hurries down the cataract's clash, The Spirit of Desolation. Wide OCT the Arabs plains of death She sweeps the sandy pillow, Or sheds the Smoon's poisonous breath Around his midnight pillow; She raises Greenland's hills ofsnow, And from their elevation Browns on the icy fields below, The Spirit of Desolation.-",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 493,
+                "y0": 1494,
+                "x1": 892,
+                "y1": 1541
+            },
+            "class": "headline",
+            "raw_text": "ADVERTISING,",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -2
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 277,
+                "y0": 1989,
+                "x1": 1074,
+                "y1": 2047
+            },
+            "class": "headline",
+            "raw_text": "THE SPIRIT OF DESIGNATION.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 237,
+                "y0": 932,
+                "x1": 1136,
+                "y1": 1967
+            },
+            "class": "article",
+            "raw_text": "To subscribers in this vilL1ge, aud subscribers by neaiI or by post carriers, TWO DOLLARS per gear, pGyab1e im advnnce. To compomies less tha\" Ten, by msaiI, or taAem from the o6ice, aohere there is joint responsibility, or ,otere one 0adividuaIis is responsible, S1 ,5O per gear, n od- 0once. To Like con.ponies of more than ten. S1,- e5 per gear, in aduance.-Where payment is de- Layed to He eend of the gear s5 cts. tCiU be added to each of the 0boOe prices.\n\n No papers aOiH De discontinued until oU ar- Teardges are paia, except at the discretion oftbe publisher.\n\n ADVERTISING.\n\n For Aa!f e square, three insertions, or Jess, 75 cents ;-n,ore than ho! square, and Jess than squdre, e7 1-2 cents ;-.for one square, $1, ,OO !; and m the sanse proportiom for more than e square; for continuing advertisements more than three weeks, 20 per cent per 'Oeek sOU De charged.\n\n PROBATE NOTICES. Administrators and Executors S1,OO Commissioners Sl,25 ",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 288,
+                "y0": 704,
+                "x1": 1079,
+                "y1": 853
+            },
+            "class": "headline",
+            "raw_text": "BY $. $. SMITH, EDITOR AND PROPRIETOR.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -2
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 561,
+                "y0": 881,
+                "x1": 824,
+                "y1": 927
+            },
+            "class": "headline",
+            "raw_text": "TER. MS.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1147,
+                "y0": 829,
+                "x1": 2051,
+                "y1": 6270
+            },
+            "class": "article",
+            "raw_text": "Waterbury, who was second Tn command under Arnold, perceiving the vessel was likely to sink, was obliged to order Bettys | and the remnant of the crew on board his own vessel, and having noticed his extra ordinary bravery and conduct, he stationed him on the quarter deck by his side, and gave orders through him, until the vessel becoming altogether crippled-the crew mostly killed-Gen. Waterbury wounded, and only two officers left, the colours were struck to the enemy. Gen. Waterbury afterwards told my father that he never saw man behave with such deliberate des- peration, as did Bettys; and that the shrewdneSs of his management, showed his conduct was not inferior to his courage.\n\n After this action, Bettys went to Cana da-turned traitor to his country-received an ensign's commission in the British army became a spy, and proved himself most dangerous and subtle enemy. He was at length arrested-tried, and condemned to be hung at West Point. But the entrea- ties of his aged Parents, and the solicita- ton of influential whigs, induced Gen. Washington to pardon him on promise of amendment. But it was in vain. The gen. eresity of the act only added rancour to his hatred, and the whigs of this section of the country, especially of Ballston, had deep occasion to remember the traitor, and re- gret the unfortunate lenity they had caused to be shown him. He recruited soldiers for the king in the very heart of the coun- try; he captured and carried off the most jealous and efficient whigs, and subjected them to the greatest suffering; and those against whom he bore particular malice lost their dwellings by fire, and their lives by murder-and all this, whilst the British commanders kept him in employ as a most faithful and successful messenger, and cun- ming and intelligent spy. No fatigue wea- ried his resolution-no distance was an ob- stacle to his purpose, and no danger appal- led his courage. No one felt secure- sometimes in the darkness of the night he came by stealth upon us, and sometimes e. ven in the middle of the day he was prow- ling about, as if unconscious of any danger. He boldly proclaimed himself desperate; that he carried his life in his hand, and was as careless of it as he should be of that of others, should they undertake to catch him that his liberty was guarded by his life, and whoever should undertake to deprive him of it must expect to mingle their blood with his. And it was we'll understood that what Bettys said, Bettys meant-and as well ascertained that when he came among us to perpetrate his mischiefs, that he gen. orally brought with him band of refugees, to assist him in the accomplishment of his purposes.\n\n Still there were many who were resolv- ed on his apprehension, be the danger what it might, and many intellectual attempts were made for that purpose, but he alluded all their vigilance until sometime in the winter of '81, 'S2-when suspicious stran- ger was observed in the neighborhood, on snow shoes, and well armed. Cory and Perkins, on information from Fulmer, im- mediately armed themselves, together with Fulmer, and proceeded in pursuit-they traced him by circuitous track to the house of a tory-they consulted a moment, and then by sudden effort, bursting open the door, rushed in upon him, and seized him before he had an opportunity of efec- ting any resistance. He was at his meal, with his pistols lying on the table, and his rife resting on his arm-he made an att tempt to discharge the latter, but not hav- ing taken the precaution to undo the deer skin cover that was over the lock, did not succeed-he was then pinioned so firmly, that to resist was useless-and to escape impossible. And the notorious Betys, cheated of all his threats and foiled in his most particular resolution, was obliged to yield himself tame and quiet prisoner to the enterprise and daring of Fulmer, Cory, and Perkins.\n\n He asked leave to smoke, which being granted, he took out his tobacco, and with it something else which when unobserved, as he hoped, he threw into the fire. But Cory saw it and immediately snatched it out with handful of coals. It was a small lcaden box, about the eighth of an inch in thickness, and contained paper in cypher, which they could not read, but was after wards discovered to be a despatch to the British commander at New York. And also an order of E3O sterling on the Mayor of N. York, should the despatch be safely delivered. Bettysbegged leave to burn it, but was refused-he offered them hund red guineas, if he might be allowed to do it but they refused. He then said |\" l am dead man ]\" but continued to intercede u,;,h +bano to alIov him fo eScane Ha",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2966,
+                "y0": 824,
+                "x1": 3859,
+                "y1": 6270
+            },
+            "class": "article",
+            "raw_text": "maintain, that it was not the plague\" The increasing deaths which occurred in the mean CT ana closer quarters of the city, were de- clared toproceed from the I1yphus Carcerasn, or putrid jail fever. Cleanliness was recom- mended, and cheap antiseptic process about all houses, and charitable distribution of wine and food by the richer citizens among the needy. Separation of the infected peo- pie, from the sound, by removing them to distant hospitals, was, in few instances, ac- complished by force; and those who contra dlcted the official statement, or expressed their own alarm too obtrusively, were thrown into prison, here and there, as public agita- tors. But the truth, even by these expedients, was not long capable of being concealed.- Some ofthe offenders, who were sent to iail for clamorlng about the plague, died of it in con- hnenlent, without awaiting for the formalty oFa trial. The physicians, who had attended the sick in the city, began themselves to be attacked with illness; and hurried through their visits at the fever hospitals, in spite of their published certificates that nothing seri- ous was the matter. At length, Brother Gas paro Marcelli, a Monk of the Dominican Convent of Santa Croce, who had been slight ly indisposed on the night of the Feast of St. Michael, was found dead on his bed the next morning, and with appearances which admit ted of no equiyocation' The alarm quickly ran through the monastery the prior and several monks were seized with sickness The deceased had been one of the most pop uar confessors in Florence and three of his penitents who had never dreamed that fever might enter palaces, were dead-amost be- tween the next sunrise and sunset, in different directions of the city. Upon which, personal apprehensions among the higher class super oF >1Eo those who had most actively chastised the terrors of other persons, could now make no secret of their own. The rich began openly to provide for their safety: The seditious, always active in moments of danger, thun- dered against the government for its decep- ton. The executive power gave up it's doubts whether real or pretended: and it was open Iy confessed that THE PLAGUE WAS IN FLOR ENcE.\n\n The panic which spread through the city on this admission, became, as might have been expected, an evil scarcely second to the original calamity. Almost all parties had been vehement in desiring to have the deca- ration. It could do nothing but mischief to any. When it came, by a strange seeming anomaly in the ordering of mems minds, num- bers began directly to question or discredit it. While among the lower classes, (who had been the most anxious to get it,) doubt or be- lief made little difference, for few had any power to act upon it at all.\n\n Day and night, as soon as the proclamation came out, the streets and squares of Florence were filled-the gates of all the palaces sur rounded-with carriages and wagons, load ing up household furniture, pictures; and trea- sure, and carrying it away into the country. Long trains of mules and horses, and compa- nipS oven Of npraOns nn foof eaon poO wing, first at night, to avoid too open pubIici- ty, but very soon in broad day, without dis guise,. out of all the gates of the city. But still, these fugitives were chiefly from among the landed propriet0rs, and the small capital ists who had ready money at command; and the bulk of the population yet had ties, which, in spite of danger, confined them to the place. For the merchant was bankrupt if he gave up his trade. And the farmer paused where he had to leave ungathered crops behind him. The physician staid, for he hoped in some an tidote; and, if he could live, the sickness was his harvest. The monks staid most because their convent was their only home; some staid because they thought its privacy would shut out danger. Public officers staid to save the posts they had; or in the hope that their resolution would be the means of promoting them to better. The vast tribe that lived on- \" Oy tHeir ually laDOr. Hau no cnOlce Oul to stay; for to want the days mea. was to starve, and they had no way of gaining it but by staying where they were, and going on to ex- ercise their calling. So that, upon the whole as soon as it became lawful to declare the ex- tent of the mischief, vast hordes became very unwilling to confess it; and it was the pro- gress of death itself, in the end rather than the assertions, numerous as they were, occa- stoned by the fear of it, which brought the greai crowd of the city of Florence, first to little, and then to nothing.\n\n For the evil in the future is no evil, and this it is that laughs theorists and legislators to scorn the reckoning which shall come here after ever is forgotten, against but little measure of advantage offered in the present. The vengeance of Heaven, is it sure ? we trust that it is far off. The axe, and tke gib- bit \"Chance'' may save us from them ;- and, though that deliverance hangs on the one ace cast with two dies, every sinner believes that 1t will be his own The thief plans rob- bery-executes telescopes with the booty and the chance\" that has saved him, brings an hundred to the gallows! The projectOr trades against probability-wins in the teeth of principle--l,is very blindness-which could not see the risk-passes for sagacity, and crowds are beggared who follow his exam ole This \"chance\" it is-this \"hope''- which makes fools-and fools are villains-of\n\n Al.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3869,
+                "y0": 824,
+                "x1": 4780,
+                "y1": 6270
+            },
+            "class": "article",
+            "raw_text": "ditiOn. And the worst of all is-that, as hu- man nature is constituted, for nothing of all this is there any remedy!\n\n And \"HOpe\" worked strange wonders in the earlier stages of the plague, especially a- mong those who had all to gain and little to lose; sort of persons whose fearlessness, and spirit of reliance, since the world began, has always been proverbial.s There is point to which you civilise mankind but beyond when education cannot go. You seem to tame the wolf, while he sees you hold the whip over him; but-blood will have it's way -he flies at your throat at last, if you give him an opportunity. Mans instinct makes him war on man. The miller, when his gram aries are full, laughs loud, and when he laughs -he buys Iordship-out of the ruined har- vest. When agues thrive, do not sextOn's delve merry? Does not the surgeon fatten on the mseries, the headsman on the vices. of mankind In no general blessing vet did all men ever find contentment; in no c0m- mon atilictiOn have there not always been some who saw good; Battles and blood make soldiers generals. Revolts and revolu- tions peasants princes. Out of broken win- dows, as the adage tells us, do there not arise rich glaziers And he who scarts a for tune, may find one even in the PLAGUE.\n\n And according ly, among the curious results\n\n \n\n its strength in Florence, was the extra Quan- tity ofactual rejoicing,as well as of mourning the great increase of hiIarity in the midst of tears; and the decided immediate gain to in dividuals; which arose out of the thianing in the numbers of the community. Husbands. many, wept for the death of their wives :- wives, often, for the death of their husbands: both, constantly, for the death of their chl- dren; for these were, generally, losses, at least n some sort, of present sources of hap plness: disturbances of long habits and exist ing arrangements and no benefit (to balance) accrulng to the survivor But sons did not always mourn for their fathers-nephews for their uncles--younger brothers, destined to exertlon and poverty, for their elders, who had shut them out from title and estate; those who were the best disposed to do all this, of ten could net do it: their wants in spite of themselves, were relieved, and their desire of pleasure admsnistered to--they thought that they grleved for the fate of the dead-per- haps they did grieVe, but, before the bell had ceased tolsing, they would not have him live again. For even the comparatively poor who died, had something to leave behind them, which was object to those as poor, or poorer. than themselves. Very soon the constant occurrence of such falls of fortune, began to make men expect, and look for them. They could not help recollecting the fact that there was one particular life stood between them and happiness. The possibility of change would just present itsetf--the wish, perhaps not yet. And, among the aboring classes too, the diminished number of hands at work in every calling, soon gave the rernainderaaligh rates of wages, which they spent in idleness and excess. The mere passage of wealth into fresh hands, always unthrifty, created an im- rnense demand, out of the very general mour- ming and distress, for articles of cost and lux. ury. All who had been rich, had not drank choice wines. or maintained brilliant equip pages. All who rose from poverty did sO--- often to the most prodigal dissipation oftheir means--oh the instant. Until even the very same calamity which in few months, made the city an absolute desert, in it's outset actu- ally gave new and increased impulse to its pleasurable, and to it's commercial move ments\n\n In the mean time, however, the shroud maker applied his needle almost as rapidly as the maker of new robes and, as the fury of the pestilence increased ,all this ollity which at first, had some show of the mirth of madness about it, ran on till, like the merriment pro- duced by wine in company, by degrees, it broke into blOodshed and misrule. In the beginning ofthe scourge, the succession to an estate or title, had not carried with it--as of 1 course--a notice that the inheritor was only tenant for an hour. But when the deaths had risen to more than hundred a-day in the city; and, when the man who became the heir to an estate in one twenty -four hours, left it to somebody else---or perhaps left it without claimant-in the next, this general state of insecurity, added to the extraordina- ry description of hands into which property passed, seemed first to repeal all unity and principle; and soon led to the widest and most unheard of outrages.\n\n The successor to splendid mansiOn-the fifth or sixth remove, perhaps, within month\n\n seized possession--it might be with title but certainly without waiting for the forms of law to ratify it.\n\n Great quantities of personal property, of houses and moveabes especially, were some times left in few hours, without any certain claimants at all; and ru6.n and outcasts- the police of the city being virtually almost extinct-fought and scrambled for the right of rifing such possessions in open day.-An- tonIo MalesPini, the servant of goldsmith who had fled the city and died under the walls of Pisa, produced a will alledged to have been left by his master. bequeath- ing to him the whole of his etfects.-On the very next day, ths title passing un- disputed. there were twenty claimants for",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2056,
+                "y0": 858,
+                "x1": 2955,
+                "y1": 4929
+            },
+            "class": "article",
+            "raw_text": "\n\n mer, was without danger-of the latter at more important, but perhaps not more dangerous man than Bettys.-Both tempt ed their captors with all seducing gold, and both failed. And venerating, as I do, the noble achievement of Paulding, Will ams, and Van Vert, and believing, as do, that their deeds, form proud commenta- ry on the honest strength of the American character, I cannot withhold my approba- sion of the sentiment expressed, as to the conduct of Fulmer, Cory and Perkins-& l second it with all my heart. The toast was then drank amidst thunders of applause, and the day was passed without accident, in the enjoyment of high and patriotic fec ling. ,~\n\n | Believing statement of the names of l those inhabitants of Ballston, who were cap- tured during the war, by Joe Bettys, who also had an associate with him in crime, by the name of Walter Myers, would be ac- ceptable to our readers, we have procured the following Information from one of our aged inhabitants.\n\n In May 1781, Bettys, who it will be seen in the above statement was great despe- rado, came into Ballston, and carried off among many others, the following persons, Samuel Nash, Joseph Chard, Uri Tracy, Ephraim Tracy, and Samuel Patchen, the latter was carried off to Canada. Those taken by Myers, were Epenetus White, two men named Bontas, brothers, and John Fulmer-all these were taken and carried off to Canada-suAered the greatest priva- tions, and barely escaped with their lives.\n\n In addition to the above, we are inform ed that Bettys did not con6ne himself to this section of country alone fer plunder, but that he made an attempt to take the brave Gen. Schuyler, who was in the house of the patroon (Gen. s. Van Rensselaer) of Albany. He was however foiled in this att tempt, and rescued by a man by the name of Ward, who for this heroic deed, was presented with farm by Gen. Schuyler. Mir. Ward, we understand, is now enjoying the fruits of his bravery, bestowed by his generous donor. MT. w. is respected inhabitant, and lives in the town of Sarato- ga, in this county.\n\n From the Petersburg Virginia h,teNigencer.\n\n The following details are almost too SlIoChiuS loI DcllGl Uut we l0eI du ODllSd- tion to publish them, as they are derived from an authentic source:\n\n HOrrid Murder !--One of the most shocking acts of murder which stains the ! catalogue of crime ip this section of the country, was committed by his negroes on the person of MT. John Hamlin of Lunen- burg Co. Va. on Friday night the 9th inst. It appears that the murder of MT. H. had been in contemplation for more than twelve months. Availing themselves of the ab- sence of the overseer, the negroes carried into effect their horrid desgn-Grst by cho- king him to death, and then in brush fire, prepared for burning tobacco plant patch es, they consumed his body; and to avoid detection, literally pulveriscd his bones, strewed them in the field, aud turned them in with the plough. MT. Hamlin was an enterprising and intelligenrfarmer, whose death will be much regretted by that class of the community particularly, and by so- ciety generally. Seventeen of the negroes, charged with that offence have been com- mitted to the jail of that county to await their trial before special Court to be inn pannclled on Monday the 19th inst.\n\n Lunenburg, March 15.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                7,
+                0
+            ],
+            "headline": "THE PLAGUE AT FLORENCE. By the late Charles Ed,DardS, Esq.",
+            "article": "The weather during the whole of the spring and summer preceding the visitation, had been unusually close and sultry. Foul and offensive exhalations had proceeded, in a remarkable degree. from all pools, and fens, and marshes, in the neigh borhood of the city. The bed of the ArnO, though afterwards replenished by sudden and heavy rains, had at one period sunk lower than the oldest citizen ever remembered to have seen it. Insects, moreover, in all fields and gardens, had appeared in numbers quite unprecedented; so as even, in many places, combined with the effect oft the drought, to destroy vegetation. And-a circumstance which still more attracted nOtice-the rats, both in the houses of Florence, and in the farms in the neighbouring villages, multiplied with such rapidity, and to such an excess, that, all temporal remedies being found una valing, it was thought necessary to have re- course to the aid of the Church, and formally to ercou1nt,L,licdte them. The success Of this extraordinary measure, or how far it operated at all, does not appear; hut the fact of its be-\n\n ing applied, is distinctly stated in all the chron icles of the time. Notice was formally read, in open church, against the rats; that, unless they withdrew from all houses, wheat stacks, barns or granaries. in Florence and the vicin ,ty. within four days from the date of those presents, process of \" deprivation\" would be issued against them. And curious feature in the superstition ot the times, vas, that the officer of the spiritual court, appointed to maintain the interests of all \"non-appearinG defendants\" interfered for tue ratS, and actu- ally obtained leave to \" enlarge the rule\" for their departure from four days to six on the ground that the cats of the city, knowing oi the order, would be upon the watch to inter- .cept them.\n\n During a considerable time, however from whatever cause the distemper in Florence",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2124,
+                    "y0": 4934,
+                    "x1": 2893,
+                    "y1": 5037
+                },
+                {
+                    "x0": 2062,
+                    "y0": 5047,
+                    "x1": 2950,
+                    "y1": 6964
+                }
+            ],
+            "bbox": [
+                2062,
+                4934,
+                2950,
+                6964
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-04-12_p1_sn82014309_00414182926_1827041201_0163.json"
+        },
+        {
+            "object_ids": [
+                12,
+                1
+            ],
+            "headline": "From the Rallston Spa Gazette.",
+            "article": "THE NOTORIOUS \"JOE BETTYS.\"\n\n On the celebration of the birth day of Washington, as noticed in our last, after the regular toasts were drunk, number of pat riotic volunteers were given; among oth- CTS, the names of Paulding, Williams and Van Vert, the captors of Andre, were men, toned in grateful remembrance-upon this an old revolutionary solder proposed as a sentiment\n\n The memory of Fulmer, Cory and Per- kins-who, by most gallant attempt, a. chieved at the peril of their lives, the cap- ture of that daring traitor ana spy, Joseph Bettys.\n\n The venerable Col. Ball, President of the Day, then rose and begged leave to mention few facts in relation to Bettys, and his capture, and as nearly as we can recollect, the substance was as follows: \"During the war of the revolution, was an officer in the New-York forces, commanded by Col. Wynkoop. Being ac- quainted with Bettys, who was citizen of Ballston, and knowing him to be bold, ath- letic and intelligent, in an uncommon de- gree, l was desirous of obtaining his servi- ces for my country, and succeeded in en- listing him with the command of sergeant; :; he was afterwards reduced to the ranks on account of some insolence to an officer. who he said abused him without a cause. Know ing his irritable and determined spirit. and unwilling to loose him, procured him a sergeancy in the fleet commanded by Gen. Arnold (afterwards the traitor) on Lake Champlain in '76. Bettys was in that des- perate fight which took place in the latter part of that campaign. between the Brit ish and American fleets on that lake, and being skilful seanen, was of signal ser vice during the battle. He fought until every commissioned officer on board his vessel was killed ar wounded and then as-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 351,
+                    "y0": 4780,
+                    "x1": 1000,
+                    "y1": 4827
+                },
+                {
+                    "x0": 226,
+                    "y0": 4848,
+                    "x1": 1131,
+                    "y1": 6970
+                }
+            ],
+            "bbox": [
+                226,
+                4780,
+                1131,
+                6970
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-04-12_p1_sn82014309_00414182926_1827041201_0163.json"
+        },
+        {
+            "object_ids": [
+                14,
+                13,
+                2
+            ],
+            "headline": "ADVERTISING,\n\nTHE SPIRIT OF DESIGNATION.",
+            "article": "THE SPIRIT OF DESOLATION. There is dark appalling gloom That hangs OCT life's declining. When hope is trembling OCT the tomb, Where not flower is twining; And mid that gloom spirit regns In cheerless devastation,\n\n And chants her wild bewiIdered strains--- The Spirit of DesoIation. She looks upon the smile of bliss, And turns that smile to sadness She looks on friendships rapturous kiss, And mingles it with madness; And in the heart where love has flown And hope and consolation, She breathes her low despairing moan The Spirit of Desolation. And where pale sickness sheds her blight, With tlreless rage consuming, The form that late was fair and bright In beauty's glory blooming; She loves to stand around and lend Some thought of aggravation, And bid some pang the lone heart rend,- The Spirit of Dissolution. She's seen amid the battles roar On sable pinions flying, And sheds her glance of horror OCT The fallen and the dying. When through the city rings the cry Of midnight conAagration, She hovers in the lurid sky, The Spirit of Desolation. She rides upon the winters storm In all its wild commotion, And oft her lone and spectral form Sweeps OCT the waves of ocean; And oft on Norway's icy shore, In stern exasperation, She plunges mid the Maelstrom's roar, The Spirit of Desolation. She kindles the volcano's flame, And while its path pursuing, She writes her own terrific name In characters of ruin. Amidst the earthquakes direful crash , She claims her habitation; Or hurries down the cataract's clash, The Spirit of Desolation. Wide OCT the Arabs plains of death She sweeps the sandy pillow, Or sheds the Smoon's poisonous breath Around his midnight pillow; She raises Greenland's hills ofsnow, And from their elevation Browns on the icy fields below, The Spirit of Desolation.-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 493,
+                    "y0": 1494,
+                    "x1": 892,
+                    "y1": 1541
+                },
+                {
+                    "x0": 277,
+                    "y0": 1989,
+                    "x1": 1074,
+                    "y1": 2047
+                },
+                {
+                    "x0": 226,
+                    "y0": 2000,
+                    "x1": 1085,
+                    "y1": 4753
+                }
+            ],
+            "bbox": [
+                226,
+                1494,
+                1085,
+                4753
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-04-12_p1_sn82014309_00414182926_1827041201_0163.json"
+        },
+        {
+            "object_ids": [
+                8,
+                11,
+                3
+            ],
+            "headline": "BY $. $. SMITH, EDITOR AND PROPRIETOR.\n\nTER. MS.",
+            "article": "To subscribers in this vilL1ge, aud subscribers by neaiI or by post carriers, TWO DOLLARS per gear, pGyab1e im advnnce. To compomies less tha\" Ten, by msaiI, or taAem from the o6ice, aohere there is joint responsibility, or ,otere one 0adividuaIis is responsible, S1 ,5O per gear, n od- 0once. To Like con.ponies of more than ten. S1,- e5 per gear, in aduance.-Where payment is de- Layed to He eend of the gear s5 cts. tCiU be added to each of the 0boOe prices.\n\n No papers aOiH De discontinued until oU ar- Teardges are paia, except at the discretion oftbe publisher.\n\n ADVERTISING.\n\n For Aa!f e square, three insertions, or Jess, 75 cents ;-n,ore than ho! square, and Jess than squdre, e7 1-2 cents ;-.for one square, $1, ,OO !; and m the sanse proportiom for more than e square; for continuing advertisements more than three weeks, 20 per cent per 'Oeek sOU De charged.\n\n PROBATE NOTICES. Administrators and Executors S1,OO Commissioners Sl,25 ",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 288,
+                    "y0": 704,
+                    "x1": 1079,
+                    "y1": 853
+                },
+                {
+                    "x0": 561,
+                    "y0": 881,
+                    "x1": 824,
+                    "y1": 927
+                },
+                {
+                    "x0": 237,
+                    "y0": 932,
+                    "x1": 1136,
+                    "y1": 1967
+                }
+            ],
+            "bbox": [
+                237,
+                704,
+                1136,
+                1967
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-04-12_p1_sn82014309_00414182926_1827041201_0163.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "Waterbury, who was second Tn command under Arnold, perceiving the vessel was likely to sink, was obliged to order Bettys | and the remnant of the crew on board his own vessel, and having noticed his extra ordinary bravery and conduct, he stationed him on the quarter deck by his side, and gave orders through him, until the vessel becoming altogether crippled-the crew mostly killed-Gen. Waterbury wounded, and only two officers left, the colours were struck to the enemy. Gen. Waterbury afterwards told my father that he never saw man behave with such deliberate des- peration, as did Bettys; and that the shrewdneSs of his management, showed his conduct was not inferior to his courage.\n\n After this action, Bettys went to Cana da-turned traitor to his country-received an ensign's commission in the British army became a spy, and proved himself most dangerous and subtle enemy. He was at length arrested-tried, and condemned to be hung at West Point. But the entrea- ties of his aged Parents, and the solicita- ton of influential whigs, induced Gen. Washington to pardon him on promise of amendment. But it was in vain. The gen. eresity of the act only added rancour to his hatred, and the whigs of this section of the country, especially of Ballston, had deep occasion to remember the traitor, and re- gret the unfortunate lenity they had caused to be shown him. He recruited soldiers for the king in the very heart of the coun- try; he captured and carried off the most jealous and efficient whigs, and subjected them to the greatest suffering; and those against whom he bore particular malice lost their dwellings by fire, and their lives by murder-and all this, whilst the British commanders kept him in employ as a most faithful and successful messenger, and cun- ming and intelligent spy. No fatigue wea- ried his resolution-no distance was an ob- stacle to his purpose, and no danger appal- led his courage. No one felt secure- sometimes in the darkness of the night he came by stealth upon us, and sometimes e. ven in the middle of the day he was prow- ling about, as if unconscious of any danger. He boldly proclaimed himself desperate; that he carried his life in his hand, and was as careless of it as he should be of that of others, should they undertake to catch him that his liberty was guarded by his life, and whoever should undertake to deprive him of it must expect to mingle their blood with his. And it was we'll understood that what Bettys said, Bettys meant-and as well ascertained that when he came among us to perpetrate his mischiefs, that he gen. orally brought with him band of refugees, to assist him in the accomplishment of his purposes.\n\n Still there were many who were resolv- ed on his apprehension, be the danger what it might, and many intellectual attempts were made for that purpose, but he alluded all their vigilance until sometime in the winter of '81, 'S2-when suspicious stran- ger was observed in the neighborhood, on snow shoes, and well armed. Cory and Perkins, on information from Fulmer, im- mediately armed themselves, together with Fulmer, and proceeded in pursuit-they traced him by circuitous track to the house of a tory-they consulted a moment, and then by sudden effort, bursting open the door, rushed in upon him, and seized him before he had an opportunity of efec- ting any resistance. He was at his meal, with his pistols lying on the table, and his rife resting on his arm-he made an att tempt to discharge the latter, but not hav- ing taken the precaution to undo the deer skin cover that was over the lock, did not succeed-he was then pinioned so firmly, that to resist was useless-and to escape impossible. And the notorious Betys, cheated of all his threats and foiled in his most particular resolution, was obliged to yield himself tame and quiet prisoner to the enterprise and daring of Fulmer, Cory, and Perkins.\n\n He asked leave to smoke, which being granted, he took out his tobacco, and with it something else which when unobserved, as he hoped, he threw into the fire. But Cory saw it and immediately snatched it out with handful of coals. It was a small lcaden box, about the eighth of an inch in thickness, and contained paper in cypher, which they could not read, but was after wards discovered to be a despatch to the British commander at New York. And also an order of E3O sterling on the Mayor of N. York, should the despatch be safely delivered. Bettysbegged leave to burn it, but was refused-he offered them hund red guineas, if he might be allowed to do it but they refused. He then said |\" l am dead man ]\" but continued to intercede u,;,h +bano to alIov him fo eScane Ha",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1147,
+                    "y0": 829,
+                    "x1": 2051,
+                    "y1": 6270
+                }
+            ],
+            "bbox": [
+                1147,
+                829,
+                2051,
+                6270
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-04-12_p1_sn82014309_00414182926_1827041201_0163.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "maintain, that it was not the plague\" The increasing deaths which occurred in the mean CT ana closer quarters of the city, were de- clared toproceed from the I1yphus Carcerasn, or putrid jail fever. Cleanliness was recom- mended, and cheap antiseptic process about all houses, and charitable distribution of wine and food by the richer citizens among the needy. Separation of the infected peo- pie, from the sound, by removing them to distant hospitals, was, in few instances, ac- complished by force; and those who contra dlcted the official statement, or expressed their own alarm too obtrusively, were thrown into prison, here and there, as public agita- tors. But the truth, even by these expedients, was not long capable of being concealed.- Some ofthe offenders, who were sent to iail for clamorlng about the plague, died of it in con- hnenlent, without awaiting for the formalty oFa trial. The physicians, who had attended the sick in the city, began themselves to be attacked with illness; and hurried through their visits at the fever hospitals, in spite of their published certificates that nothing seri- ous was the matter. At length, Brother Gas paro Marcelli, a Monk of the Dominican Convent of Santa Croce, who had been slight ly indisposed on the night of the Feast of St. Michael, was found dead on his bed the next morning, and with appearances which admit ted of no equiyocation' The alarm quickly ran through the monastery the prior and several monks were seized with sickness The deceased had been one of the most pop uar confessors in Florence and three of his penitents who had never dreamed that fever might enter palaces, were dead-amost be- tween the next sunrise and sunset, in different directions of the city. Upon which, personal apprehensions among the higher class super oF >1Eo those who had most actively chastised the terrors of other persons, could now make no secret of their own. The rich began openly to provide for their safety: The seditious, always active in moments of danger, thun- dered against the government for its decep- ton. The executive power gave up it's doubts whether real or pretended: and it was open Iy confessed that THE PLAGUE WAS IN FLOR ENcE.\n\n The panic which spread through the city on this admission, became, as might have been expected, an evil scarcely second to the original calamity. Almost all parties had been vehement in desiring to have the deca- ration. It could do nothing but mischief to any. When it came, by a strange seeming anomaly in the ordering of mems minds, num- bers began directly to question or discredit it. While among the lower classes, (who had been the most anxious to get it,) doubt or be- lief made little difference, for few had any power to act upon it at all.\n\n Day and night, as soon as the proclamation came out, the streets and squares of Florence were filled-the gates of all the palaces sur rounded-with carriages and wagons, load ing up household furniture, pictures; and trea- sure, and carrying it away into the country. Long trains of mules and horses, and compa- nipS oven Of npraOns nn foof eaon poO wing, first at night, to avoid too open pubIici- ty, but very soon in broad day, without dis guise,. out of all the gates of the city. But still, these fugitives were chiefly from among the landed propriet0rs, and the small capital ists who had ready money at command; and the bulk of the population yet had ties, which, in spite of danger, confined them to the place. For the merchant was bankrupt if he gave up his trade. And the farmer paused where he had to leave ungathered crops behind him. The physician staid, for he hoped in some an tidote; and, if he could live, the sickness was his harvest. The monks staid most because their convent was their only home; some staid because they thought its privacy would shut out danger. Public officers staid to save the posts they had; or in the hope that their resolution would be the means of promoting them to better. The vast tribe that lived on- \" Oy tHeir ually laDOr. Hau no cnOlce Oul to stay; for to want the days mea. was to starve, and they had no way of gaining it but by staying where they were, and going on to ex- ercise their calling. So that, upon the whole as soon as it became lawful to declare the ex- tent of the mischief, vast hordes became very unwilling to confess it; and it was the pro- gress of death itself, in the end rather than the assertions, numerous as they were, occa- stoned by the fear of it, which brought the greai crowd of the city of Florence, first to little, and then to nothing.\n\n For the evil in the future is no evil, and this it is that laughs theorists and legislators to scorn the reckoning which shall come here after ever is forgotten, against but little measure of advantage offered in the present. The vengeance of Heaven, is it sure ? we trust that it is far off. The axe, and tke gib- bit \"Chance'' may save us from them ;- and, though that deliverance hangs on the one ace cast with two dies, every sinner believes that 1t will be his own The thief plans rob- bery-executes telescopes with the booty and the chance\" that has saved him, brings an hundred to the gallows! The projectOr trades against probability-wins in the teeth of principle--l,is very blindness-which could not see the risk-passes for sagacity, and crowds are beggared who follow his exam ole This \"chance\" it is-this \"hope''- which makes fools-and fools are villains-of\n\n Al.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2966,
+                    "y0": 824,
+                    "x1": 3859,
+                    "y1": 6270
+                }
+            ],
+            "bbox": [
+                2966,
+                824,
+                3859,
+                6270
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-04-12_p1_sn82014309_00414182926_1827041201_0163.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "ditiOn. And the worst of all is-that, as hu- man nature is constituted, for nothing of all this is there any remedy!\n\n And \"HOpe\" worked strange wonders in the earlier stages of the plague, especially a- mong those who had all to gain and little to lose; sort of persons whose fearlessness, and spirit of reliance, since the world began, has always been proverbial.s There is point to which you civilise mankind but beyond when education cannot go. You seem to tame the wolf, while he sees you hold the whip over him; but-blood will have it's way -he flies at your throat at last, if you give him an opportunity. Mans instinct makes him war on man. The miller, when his gram aries are full, laughs loud, and when he laughs -he buys Iordship-out of the ruined har- vest. When agues thrive, do not sextOn's delve merry? Does not the surgeon fatten on the mseries, the headsman on the vices. of mankind In no general blessing vet did all men ever find contentment; in no c0m- mon atilictiOn have there not always been some who saw good; Battles and blood make soldiers generals. Revolts and revolu- tions peasants princes. Out of broken win- dows, as the adage tells us, do there not arise rich glaziers And he who scarts a for tune, may find one even in the PLAGUE.\n\n And according ly, among the curious results\n\n \n\n its strength in Florence, was the extra Quan- tity ofactual rejoicing,as well as of mourning the great increase of hiIarity in the midst of tears; and the decided immediate gain to in dividuals; which arose out of the thianing in the numbers of the community. Husbands. many, wept for the death of their wives :- wives, often, for the death of their husbands: both, constantly, for the death of their chl- dren; for these were, generally, losses, at least n some sort, of present sources of hap plness: disturbances of long habits and exist ing arrangements and no benefit (to balance) accrulng to the survivor But sons did not always mourn for their fathers-nephews for their uncles--younger brothers, destined to exertlon and poverty, for their elders, who had shut them out from title and estate; those who were the best disposed to do all this, of ten could net do it: their wants in spite of themselves, were relieved, and their desire of pleasure admsnistered to--they thought that they grleved for the fate of the dead-per- haps they did grieVe, but, before the bell had ceased tolsing, they would not have him live again. For even the comparatively poor who died, had something to leave behind them, which was object to those as poor, or poorer. than themselves. Very soon the constant occurrence of such falls of fortune, began to make men expect, and look for them. They could not help recollecting the fact that there was one particular life stood between them and happiness. The possibility of change would just present itsetf--the wish, perhaps not yet. And, among the aboring classes too, the diminished number of hands at work in every calling, soon gave the rernainderaaligh rates of wages, which they spent in idleness and excess. The mere passage of wealth into fresh hands, always unthrifty, created an im- rnense demand, out of the very general mour- ming and distress, for articles of cost and lux. ury. All who had been rich, had not drank choice wines. or maintained brilliant equip pages. All who rose from poverty did sO--- often to the most prodigal dissipation oftheir means--oh the instant. Until even the very same calamity which in few months, made the city an absolute desert, in it's outset actu- ally gave new and increased impulse to its pleasurable, and to it's commercial move ments\n\n In the mean time, however, the shroud maker applied his needle almost as rapidly as the maker of new robes and, as the fury of the pestilence increased ,all this ollity which at first, had some show of the mirth of madness about it, ran on till, like the merriment pro- duced by wine in company, by degrees, it broke into blOodshed and misrule. In the beginning ofthe scourge, the succession to an estate or title, had not carried with it--as of 1 course--a notice that the inheritor was only tenant for an hour. But when the deaths had risen to more than hundred a-day in the city; and, when the man who became the heir to an estate in one twenty -four hours, left it to somebody else---or perhaps left it without claimant-in the next, this general state of insecurity, added to the extraordina- ry description of hands into which property passed, seemed first to repeal all unity and principle; and soon led to the widest and most unheard of outrages.\n\n The successor to splendid mansiOn-the fifth or sixth remove, perhaps, within month\n\n seized possession--it might be with title but certainly without waiting for the forms of law to ratify it.\n\n Great quantities of personal property, of houses and moveabes especially, were some times left in few hours, without any certain claimants at all; and ru6.n and outcasts- the police of the city being virtually almost extinct-fought and scrambled for the right of rifing such possessions in open day.-An- tonIo MalesPini, the servant of goldsmith who had fled the city and died under the walls of Pisa, produced a will alledged to have been left by his master. bequeath- ing to him the whole of his etfects.-On the very next day, ths title passing un- disputed. there were twenty claimants for",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3869,
+                    "y0": 824,
+                    "x1": 4780,
+                    "y1": 6270
+                }
+            ],
+            "bbox": [
+                3869,
+                824,
+                4780,
+                6270
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-04-12_p1_sn82014309_00414182926_1827041201_0163.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "\n\n mer, was without danger-of the latter at more important, but perhaps not more dangerous man than Bettys.-Both tempt ed their captors with all seducing gold, and both failed. And venerating, as I do, the noble achievement of Paulding, Will ams, and Van Vert, and believing, as do, that their deeds, form proud commenta- ry on the honest strength of the American character, I cannot withhold my approba- sion of the sentiment expressed, as to the conduct of Fulmer, Cory and Perkins-& l second it with all my heart. The toast was then drank amidst thunders of applause, and the day was passed without accident, in the enjoyment of high and patriotic fec ling. ,~\n\n | Believing statement of the names of l those inhabitants of Ballston, who were cap- tured during the war, by Joe Bettys, who also had an associate with him in crime, by the name of Walter Myers, would be ac- ceptable to our readers, we have procured the following Information from one of our aged inhabitants.\n\n In May 1781, Bettys, who it will be seen in the above statement was great despe- rado, came into Ballston, and carried off among many others, the following persons, Samuel Nash, Joseph Chard, Uri Tracy, Ephraim Tracy, and Samuel Patchen, the latter was carried off to Canada. Those taken by Myers, were Epenetus White, two men named Bontas, brothers, and John Fulmer-all these were taken and carried off to Canada-suAered the greatest priva- tions, and barely escaped with their lives.\n\n In addition to the above, we are inform ed that Bettys did not con6ne himself to this section of country alone fer plunder, but that he made an attempt to take the brave Gen. Schuyler, who was in the house of the patroon (Gen. s. Van Rensselaer) of Albany. He was however foiled in this att tempt, and rescued by a man by the name of Ward, who for this heroic deed, was presented with farm by Gen. Schuyler. Mir. Ward, we understand, is now enjoying the fruits of his bravery, bestowed by his generous donor. MT. w. is respected inhabitant, and lives in the town of Sarato- ga, in this county.\n\n From the Petersburg Virginia h,teNigencer.\n\n The following details are almost too SlIoChiuS loI DcllGl Uut we l0eI du ODllSd- tion to publish them, as they are derived from an authentic source:\n\n HOrrid Murder !--One of the most shocking acts of murder which stains the ! catalogue of crime ip this section of the country, was committed by his negroes on the person of MT. John Hamlin of Lunen- burg Co. Va. on Friday night the 9th inst. It appears that the murder of MT. H. had been in contemplation for more than twelve months. Availing themselves of the ab- sence of the overseer, the negroes carried into effect their horrid desgn-Grst by cho- king him to death, and then in brush fire, prepared for burning tobacco plant patch es, they consumed his body; and to avoid detection, literally pulveriscd his bones, strewed them in the field, aud turned them in with the plough. MT. Hamlin was an enterprising and intelligenrfarmer, whose death will be much regretted by that class of the community particularly, and by so- ciety generally. Seventeen of the negroes, charged with that offence have been com- mitted to the jail of that county to await their trial before special Court to be inn pannclled on Monday the 19th inst.\n\n Lunenburg, March 15.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2056,
+                    "y0": 858,
+                    "x1": 2955,
+                    "y1": 4929
+                }
+            ],
+            "bbox": [
+                2056,
+                858,
+                2955,
+                4929
+            ],
+            "full_article_id": 10,
+            "id": "10_1827-04-12_p1_sn82014309_00414182926_1827041201_0163.json"
+        }
+    ]
+}

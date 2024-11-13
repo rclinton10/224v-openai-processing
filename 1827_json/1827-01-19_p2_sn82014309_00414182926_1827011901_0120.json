@@ -1,0 +1,519 @@
+{
+    "lccn": {
+        "title": "The Litchfield County post.",
+        "geonames_ids": [
+            "4837799"
+        ],
+        "dbpedia_ids": [
+            "Litchfield%2C_Connecticut"
+        ],
+        "issn": "",
+        "lccn": "sn82014309",
+        "start_year": "1826",
+        "end_year": "1829",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [
+            "sn84020071"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn82014309",
+        "edition": "ed-01",
+        "date": "1827-01-19",
+        "pages": [
+            "seq-4",
+            "seq-3",
+            "seq-1",
+            "seq-2"
+        ]
+    },
+    "page_number": "2",
+    "scan": {
+        "lccn": "sn82014309",
+        "edition": "ed-01",
+        "date": "1827-01-19",
+        "page": "2",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-01-19/ed-1/seq-2.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-01-19/ed-1/seq-2/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-01-19/ed-1/seq-2/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/ct_barnum_ver01/data/sn82014309/00414182926/1827011901/0120.jp2",
+        "height": 7318,
+        "width": 5040
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2068,
+                "y0": 303,
+                "x1": 2961,
+                "y1": 2933
+            },
+            "class": "article",
+            "raw_text": "America in Congress assembled, Thai, from and after the Sd day of March, 1888 and after the fifth census shall have been taken, the appointment of the Representative shall be in the ratio of one Representative to every sixty thousand persons in each State, computing according to the rules prescribed by the Constitution of the Uni- ted States\"\n\n MT. Little accompanied this report with few verbal explanations, stating that the committee proposed to establish the ratio of representation at one member to 1000 inhabitants. This rate it was believed by the committee, would continue in the House about the present number of mem bers, which number it was not wished to increase. These remarks, however, were intended chiefly to draw the attention of the House to the subject general ly-every gentleman would of course, be able to make the calculation for himself.\n\n The bill was twice read, and madethe order of the day for tomorrow.\n\n Friday, Jan. 5.\n\n The House was again engaged on the bill to provide for the surviving officers of the army of the revolution, which was act- ed on in Committee of the Whole. The amendatory bill, reported by Mir. Burges, and moved by him as an amendment was re- jected; and the old bill, which embraces both officers and soldiers, passed through the committee, and was reported to the House with blanks filled. The amend ment as now proposed covers every branch of the army. It in the first place provi- des for the distribution of$8OO,OOO among the oficers,an then gives $2OO,OOO to the widows of the deceased officers. To the officers and soldiers who are not provided for by this provision, it appropriates 1,20- O,OOO: and to the widows of those who are deceased of this last class, it gives SS- OO,OOO. It embraces all classes, as we'll as those who served from 1782 to the end ofthe war. It ought, therefore, to satisfy all. The Journal of Saturday says-this he fate ofthe bill will probably be decided, IS there appears to be a very proper dispo- aition on the part of the House not to waste sine in the discussion of a bill on which eve- ry member must have made up his mind long since.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1153,
+                "y0": 4459,
+                "x1": 2040,
+                "y1": 7056
+            },
+            "class": "article",
+            "raw_text": "Thursday January 4.\n\n MT. Holmes, from the committee on Fi- nance, reported bill to repeal the duty on salt; which was read.\n\n Mir. Rowan of Ky. gave notice of his intention to introduce bill to restrict the powers of the Supreme Court of the Uni- ted States in certain cases. A bill to au- thorize the sale of salt springs and the land adjacent thereto, in the state of Missouri, was ordered to third reading. A relief of Ebenezer Oliver and others directors of an association called ''the New England Mississippi Land Company\" was consid- cred. MT. Robbins spoke briefly in favor of the bill, and Mir. Kane at some length against it. The bill was laid on the table. and made the order of the day for Mon- day next.\n\n A Friday, Jan. 5.\n\n MT. Sanford presented the petition of John Daly; stating that at the time of the late invasion of Canada by she United States, he was British subject residing there, and possessed of considerable real and personal estate, consisting chiefly of a number ofdwelling houses and Merchan- disc in the village of Newark; that he de- voted his propety as we'll as his personal influence to promote the success ofthat en- terprize that when the troops left Fort George they burnt Newark, whereby he lost his personal property that the British authorities afterwards confiscated all his real estate; and that in consequence of said losses he is now reduced to penury and want and praying relief; referred to the Com mittee on Claims.\n\n Mir. Rowan, of Kentucky, introduced a bill to limit and restrain the jurisdiction of the United States Courts, in certain cases. The Bill for diminishing the duty on inn ported Salt was read second time and postponed to Monday. MT. Reed submit- ted a resolution proposing an inquiry into the expediency of increasing the salary of the Postmaster General.\n\n HOUSE OF REPRESENTATIVES. Thursday, Jan. 4. Mir. Little, from the Committee ap- pointed on the subject, reported the fol- lowing bill:\n\n \"Be tt enacted by the Senate and House of Representatives. of the United States Of",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1165,
+                "y0": 4322,
+                "x1": 2040,
+                "y1": 4448
+            },
+            "class": "headline",
+            "raw_text": "18th CONGRESS-. s.......2d SESSION.\n\n SENATE.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -2
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1576,
+                "y0": 4453,
+                "x1": 1869,
+                "y1": 4488
+            },
+            "class": "author",
+            "raw_text": "THursd1u .In,,,",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 238,
+                "y0": 5179,
+                "x1": 1143,
+                "y1": 7056
+            },
+            "class": "article",
+            "raw_text": "MT. Eynard's correspondent at Corfu writes, Nov. Sd, that the money and pro- visions he had sent out had safely arrived. A part of the money has been applied to ransom 200 Greek slaves. They will fur nish the Greek means of subsistence for two months. If the government succeed in placing Romelia on respectable foot ing, Albania will be safe, and the affairs of the Morea will be easily arranged. Ibra- him's troops suffer severely from want of provisions.\n\n The London times of Nov. ssh. says on the authority of letter from Paris, that despatches were sent, the Tuesday previ- 6bs, to MT. Stratford Canning, giving in- tclligence that England, Russia, France. Austria and Prussia, had determined to close the war in Greece; and that if ne- cessary, their ships in the Archipelago would prevent any debarkation of men or provisions in the Morea, either from the Turks or Egyptians. A Paris paper says such rumors have been circulated for some days.\n\n Despatches received in London from the Persian Government, of September 19th, request the mediation of Egland with Russia. The Persians say that they were driven to the invasion, by the re- peated aggressions of the Russians; and that at the above date they had suffered no reverses.\n\n PORTUGAL.-The government of Spain is said to have at length yielded to the representation of England, and deter mined to disavow the conduct of the Cap tains Eguya and Longa, who have hereto fore favored deserters from Portugal. The",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 347,
+                "y0": 5031,
+                "x1": 1040,
+                "y1": 5157
+            },
+            "class": "headline",
+            "raw_text": "FOREIGN INTELLIGENCE. LATEST FROM EUROPE.\n\n ED E E CE",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1159,
+                "y0": 360,
+                "x1": 2057,
+                "y1": 4283
+            },
+            "class": "article",
+            "raw_text": "A few refugees. 4 division which entered from Spain on the 7th of Nov. although at first said to have been large, is stated by Bordeaux paper to have been only 1900 strong. 6OO0 muSkets have been sent, It is reported, from Oviedo and Santona tc the frontier. 2OO0 muSkets have certain ly been sent from Vittoria by Gen Longa. Silveira had made another attempt to en- ter Portugal, after an interview with Lon- ga, (who is Captain General of old Cas- tile,) the Governors of Salamanca and Zamora, and with the Bishop of the lat ter place.\n\n A letter from Madrid, dated Nov. 26th, says tl,at a column of the refugees were beaten back from the frontiers, and anoth- CT of 500 men stopped by Spanish rogi- ment on their way.\n\n The council of ministers at Madrid have lately decreed that the arms brought over by Portuguese refugees, shall be restored to the Regents commissaries that meas ureS be taken to prevent them from inva- ding their country that the Marquis of Chaves and Viscount Canellas shall imme- diately leave Spain: that the Portuguese\n\n \n\n troops; and that refugee soldiers and sub officers shall be cantoned in tho interior in small bodies.\n\n Ieese arc regarded as in degree ru- mors but as Paris paper of Dec. 9th remarks, from all it may be concluded, ,that Spain and England, as well as France, ,are disposed to make almost any sacrifice to prevent an open rupture. The following is a passage quoted from the London Times of Dec. 2d.\n\n Since yesterday we have received news of great importance from Lisbon. The rebels against the Portuguese constitution have entered their country with arms in their hands, by the province of Tras-os- montes.''\n\n The Cortes at Lisbon were occupied with unimportant business. Gen. Beres- ford was occupied in organizing the Portu- guese army.\n\n A report prevailed in England, that when the news was received by tele- graph in Paris, orders were given for the recal of the French ambassador at Ma drid. s..-\n\n It appears that the treaty between Eng land and Portugal was brought up to view in the House of Commons on the 3Oth of Nov. MT. Huskinson said that it was sub ject to change at fixed period, in case ei- ther of the parties desired it, and that this period had arrived, and that Portugal had expressed a wish that some parts of it should be altered by negotiation yet that until they were agreed upon the trea- ty would continue in force, and the British Ministry were not in favor of any change in the duties on wine.\n\n On the 3Oth Nov. on the presentation of several petitions against the Corn Laws, in the House of Lords, Lord Liverpool said that the government had decided on the measures they intended to propose to parliament, but the moment had not yet arrived for undertaking immediately discussion of such importance and they could not hope to finish it before Christ mas, after which he should take the first opportunity to explain the views of minis ters, although the measure would, in all probability, be first submitted to the other chamber.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2062,
+                "y0": 3207,
+                "x1": 2955,
+                "y1": 7067
+            },
+            "class": "article",
+            "raw_text": "A late arrival at New York brings the inn portant intelligence that Portugal, having been invaded by Spain, had called upon the Brit lsh government for that assistance which trea- ties of alliance had engaged on the part of Eng land. Our limits will not admit the mass of intelligence found in the New fork papers. We have given his Majesty's message upon the subject, and as much as possible of the speech of Mir. Secretary Canning. Different constructions are put upon this intelligence. Some have supposed that this step will lead to universal war in Europe; others quote Mir. Canning's rsmarks, as implying all that will be affected by this commencement of hos tilities, '' that this is war-not against Spain, but in defence of POrtugal,-not of aggression, but of repressi\"n.\"-Ifthis ground is adhered to,-which is not generally the case when nations commence deadly strife,-there can be no ground for alarms as regards the peace of the civilized world. But should new cau- ses of disaffection grow out this beginning of strife-should new reasons be adduced for con- tinuing war already began,-then there is reason to anticipate that not only the peace of Europe, but even of this country is at stake.- The Spanish island of Cuba would be prize invaluable to England; and the only possible prize which can compensate the British gov ernment for the expense of war with Spain; but our government will never admit that important post to fall into the possession of England, to be held by her upon the tenure of her other w. I. possessions, without enter ing protest of force and arms. This is the universal opinion throughout the country, and it is an opinion which will warrant our gov ernment to act decisively upon the subiect.- The London papers, however, ofdiffercnt pol itics, all seem to agree in the opinion that the war will be of short duration, and that no con- quests will grow out oft. It is difficult to say which party appears most in favor of the war, the ministerial, or the opposition; but one sen- timent prevails in England, and that is senti- ment of appreciation of the Course pursued by the ministers.\n\n House of Lords, Dec. II.\n\n Message from His Majesty.-Earl Bathurst informed the House that he had to deliver Message from his Majesty. ...\n\n The Message having been handed to the Lord Chancellor, the Noble and learned Lord read as follows\n\n GEORGER.\n\n His Majesty acquaints the House of Lords, that his Majesty has received an earnest ap- plication from the Princess Regent of Portu- gal, claiming, in virtue of the ancient obliga- tlons of alliance and amity subsisting between his Majesty and the Crown of Portugal, his Majesty's aid against an hostile aggression from Spain.\n\n His Majesty has exerted himself for some tune past, in conjunction with his Majesty's ally, the King of France. to prevent such an aggression; and repeated assurances have been given by the Court of Madrid, of the de- termination of his Catholic Majesty neither to commit, nor to allow to be committed, from ms Catholic Majesty's territory, any aggres- sion against Portugal:\n\n But his Majesty has learnt with deep con",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2131,
+                "y0": 2961,
+                "x1": 2892,
+                "y1": 3042
+            },
+            "class": "headline",
+            "raw_text": "COUNTY POSE,",
+            "legibility": "Illegible",
+            "full_article_id": 5,
+            "reading_order_id": -3
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2108,
+                "y0": 3058,
+                "x1": 2909,
+                "y1": 3116
+            },
+            "class": "headline",
+            "raw_text": "LITCHFIELD, JANUARY 1e. 1927.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -2
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2274,
+                "y0": 3150,
+                "x1": 2738,
+                "y1": 3202
+            },
+            "class": "headline",
+            "raw_text": "WAR IN EUROPE.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 244,
+                "y0": 262,
+                "x1": 1148,
+                "y1": 5072
+            },
+            "class": "article",
+            "raw_text": "every circle of this glorious realm, there was erected a point. round which the fires of heav- en played, till the whole region was light and electricity.\n\n The deficiency Ofthe higher species ofpub lie talent in despotisms may he solved on the same principle. DcspOtIsm is jealou' of all separate legislature. 1t breaks up all the lit lie local communities, and concentrates pow CT and fame round the single point of the court. It has one minister, with his few sub Ordinates. All pubic distinction IS m\"nopO- lized by this i.,,iro\" circle; and the whole remaining ability of the nation shrinks from the hopelessness of competition for public honors When has Austria, or Spain, or France, Or Prussia had more than one states man of emineace at d time The whole pub lie ability outside has perished away inlinac- lion. The finest policy of a state, anxious to raise its people to the highst rank of knowl- edge, spirit, and general capacity, would be to establish as many local images of its general government as possible. The Provincial Par haments of France alone kept the provinces from utter mental stagnation. There may be matters ofNmOre pressing interest, which com pei even the most generous governments to\n\n \n\n Scottish and Irish unions may have been com pulsory on England. Yet who but must la ment the necessity of the sacrifice that knows the value ot rallying point for the listless a. bility of all the remoter parts of great king dom, the importance of planting the seed of manly emulation in even the darker and more unfertile corners of land. the pa,- mount du- ty of keeping alive the sacred fire of patriotic zeal, of manly intelligence, of enlightened and generous ambition in every bosom of the cin- pire\n\n We now turn to the Greek war. Greece is country of mountains. The plains are few, and chiefly on the frontier. A mighty parallel of mountains closes it on the north running from sea to sea. From this ridge shoots off to the south, penetrating the entire of Greece down to the Mediterranean, where it ends in the Tanarian promontory, dividing in its way the Eastern from Western Hell las, and filling the region on both sides with perpetual branches of hills. Four rivers rise from the chain of Pindus, that great central elevation from which the southern ridge is projeted-the Aracthus, flowing south west, into the gulf of Arta--the Achelaus, flowing south among the mountains, and entering the sea near the memorable site of Missolonghi- the Peneus, tor Salympria,) flowing east\n\n \n\n to the Archipelago through the defles of Tempe-and the Aous, (Viosa) flowing north east to Tepeleni, and entering the Adri- atic very near the site of the ancient Appel lonia.\n\n The divisions adopted by the late and pres ent governments are important for understan ding the narrative of the war. The Turks governed by four chief Paschas. The pa shalik of Tripolizza included the Morea. The pashalk of Negropont included that island (Eubea) with Bpotia and the eastern district of Phocis. The pashiIik of Salonica included the southern portion of Macedonia. The pa shilik of Joannina included Epirus, Thessaly, and portion of Livadia. Athens, Livadia, and Larissa, had each it's own separate gover- nor. s...\n\n The first impulse of the Greek war origina- ted Tn the French Revolution. That great explosion, which for its time kept mankind in terror, was perhaps designed to be mighty agent of good as well as of evil; it has al- ready broken off the New World from Spain and may be at this hour renovating the ex- haulsted soil of the Old. During the Revolu- tion, commerce had unexpectedly fallen into the hands of the Greek islanders, and with it comparative opulence. The general excite ment of the European mind had reached c. ven to the vassals of the Turk, and spirit of education and improvement had combined with a sense of their wrongs, and hope of their ultimate liberation among the fortunate consequences of time of change. Greece had also assumed sudden interest with the great belligerents French agents had been despatched through the country. Russian agents had been sent to cOunteract them.- Greek students. traders, and military men, had occasionally returned, animated by the know ledge, the wealth, or the distinctions of Flu rope. The great Turkish ship still floated heavily upon the waters, without anchor or sail, but the clouds were gathering, and the storm was to come.\n\n FORET(rN TNIVET TTCENTE",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3874,
+                "y0": 5397,
+                "x1": 4779,
+                "y1": 7096
+            },
+            "class": "article",
+            "raw_text": "Relative to the merits, or demerits. of the\n\n bill for Districting the State for the choice of\n\n Members to Congress, and State Senators,\n\n which was rejected by the Assembly last\n\n Spring, we are incompetent to speak. Indeed\n\n we know not what those particular features of the bill were which rendered it obnoxious to the dominant party. We are however thor oughly convinced that the great majority of the people of the State will expect their ren- resentatives next spring to district the State, and thus allow the freemen not only the right of voting for State officers, but also of dcsig- hating to whom State offices shall be given. We Go not speak at random when we say that such measure is loudly called for: h. deed we cannot point to the man who profess sedly opposes the measure. We have frequent iy conversed with leading republicans of this county upon the subject, and every one with whom we have thus conversed has expressed warm attachment to the districting system. We mention these facts to show that the re- publicans of Litchield County are not profes. sedly opposed to measures which are so warm. ly advocated in neighboring counties and that bill for this purpose will not be opposed oy the representatives from this county, un- less indeed they are willing to triae with tba we'll known wishes of their constituents. We",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2977,
+                "y0": 285,
+                "x1": 3875,
+                "y1": 5752
+            },
+            "class": "article",
+            "raw_text": "cern, that. notwithstanding these assurances, hostile inrOads into the territory of Portugal have been concerted in Spain, and have been executed under the eyes of Spanish auihori- ties, by Portuguese regiments, which had de- serted into Spain, and which the Spanish gov ernment had repeatedly, and sOlemnly cnga- ged to disarm and dlsperse.\n\n His Majesty leaves no effort unexhausted to awaken the Spanish Government to the dangerous consequences of this apparent con- niVancc.\n\n His Majesty makes this communication to the House of Lords with the full and entire confidence that the House of Lords will af- ford to his Majesty their cordial concurrence and support in maintaining the faith of trea ties, and in securing against foreign hostility the safety and independence of the kingdCan of Portuga gal-the oldest ally of Great Britain.\n\n \"G. R.\"'\n\n HIS MAJEsTY's MESSAGE.\n\n Mir. Secretary Canning-.Sir,I II rise to move the order of the day for taking into considera ton the Kings most gracious Message to his faithful Commons\n\n After the order of the day had been read, MT. Canning rose and spoke to the following effect :-\n\n Sir, in proposing, as shall presently have occasion so to do to the House of Commons, to acknowledge his Majesty's most gracious message, on the subjec of the relations sub sisting between Great Britain and Portugal, and the present condition of the latter state; and, in calling on this House to reply to that communication, in terms which will be, in fact, an echo to the sentiments contained in the royal message, and equally in accordance with the anticipations of his majesty's gov ern,nent-in doing this, sir, I cannot but feel that, however confident may be in the jus tice of the cause, and clear as to, the policy which it becomes us, in accordance with the recommendations contained in his ma esty's message to adopt; yet Sir, am free to ad init, it well becomcsa British minister, in rec ommendiug British House of Commons tO take any step calculated to bring upon their country the hazards of war, to make use of the language of regret and sorrow that such necessity should exist. (Hear.) Sir, as sure the House that there is not, within it's walls, at this moment, anS set of men more fully convinced than are his Majesty's minis ters--or any individual more completely con- vinced than is he who now has the honor to address it-ofthe great and vital importance of maintaining, undisturbed, the peace and tranquility of this country. Loud cheering. J This, admit. Indeed, 80 strongly am inn pressed with the truth ofths fact, and that for reasons which shall take the liberty before sit down to adduce to the House, that ani perfectly ready to declare, no question, nvoi ving doubtful success or construction--no consideration of merely present advantaSe- and, Sir, will go farther, and add. no antici- patton of remote and contingent d;Gcuty- could arise, which l should not thousand times rather completely pass over, or, at the utmost, adjourn, than concur in measure, calling on the Government of this country to involve itself in the consequences of war; But sir, there are cases which render the a. doption of such a course not merely hOnOura- ble and beneficial, but also necessary and in evitable, (hear,) and l am equally certain the presents such a case ; and fee that what has been acted on in the best times of our history what has been promulgated by our best statesmen-and what has always received the support and concurrence of successive Eng fish Parliaments, is an adherence to national faith, and respect for the national honor.- (Cheers.) These are the two questions which cannot be compromised under any circum- stances whatsOever--the cause of nation al faith and the cause of national honor.- (Hear.)\n\n After much other discussion Mir. Canning made rejoinder, and aIuding particularly to the charge that England ought in previous years to have prevented France from marching her armies into Spainhe thus spoke:-\n\n One of the modes of redress was, by direct attack upon France. by war upon the soil of Spain. The other was to make the possession of that country harmless in rival hands-to make it worse than harm less, to make it injurious to the possessor. The latter mode have adopted. Doyou think, that for the disparagemcnt of Eng land, we have not been compensated? Do you think, that for the blockade of Cadiz, England has not been fully compensa ed ? I looked Sir, at Spain by another name than Spain. looked upon that Power as Spain and the Indies. I looked at the Indies, and there I have called anew world into existence, and thus redressed the balance of power. Cloud and contin- ued cheering.) Iredeemed the movement of France, while left her own act upon her, unmitigated and unredressed, so that l believe that she would be thankful to have relief from the responsibility of her assu- med undertaking and to get rid of bur- den which has become too bitter to be l hOrne without cOmnlaint",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 3886,
+                "y0": 291,
+                "x1": 4802,
+                "y1": 5746
+            },
+            "class": "article",
+            "raw_text": "England will he disgraceJ, and then war will come, and come, too, in the train Of degradation. If we wait until Spain have courage to ripen her secret machinatiOns into open hostility, we shall have war-we shall have the war of the pacifcators, and who can thensSay when that war will end. (The Right. Hon. Gent. sat down amid loud cheers.\n\n The motion for the address was then u- unanimously agreed to.\n\n London, Dec. 12, 1926.\n\n The utmost activity prevails in every department of Government connected with the immediate authorization of troops for Portugal. This morning the following,,no- tice was posted at Lloyd's':-\n\n NAvY-OFF1cE, Dec. l2.\n\n The principal Of1icersand Commission CTS of his MajeSty's Navy do hereby give notice, that they will immediately receive tenders, at this office, of ships, for the con- veyance of troops from Deptford and Portsmouth, to Lisbon, where they arc to be discharged, to be hired ut the rate of\n\n -per ton, for the voyage, or at---- per ton per calender month for three months certain\"\n\n (Signed) CT. HARDING\"\n\n The amount of force which will he dcs- patched in the first instance, and upon the emergency of the occasion, is 5000. Of the troops composing this force there are 10 be four squadrons of cavalry, which in- dlcates that it is not contemplated lha. their services will confined to garrison duty only. The following are tie names of the regiments, !their prescribed movements, and the Officers. who will have the chief command.\n\n The 1st Battalion of the Grenadier Regiment of Guards will embark to-mor- row, at Deptford.\n\n The 2d Battalion of the Sd Regiment of Guards will march tomorrow, for Ports mouth ,Ffor embarkation.\n\n The 63d Regiment ofInfantry marched, this morning, from Windsor, for embarka- tion at Portsmouth.\n\n The. 4th Regiment of Foot, now at Portsmouth, is ordered to prepare for im- mediate embarkation at that port.\n\n The 1st Battalion of the Goth Rife Corps, now at Plymouth, is ordered to prepare for immediate embarkation at that Port.\n\n Two Squadrons of the 18th Lancers, and two Squadrons of the 10th lussars, are ordered to hold themselves in readiness for immediate authorization.\n\n There are two Regiments to embark forthwith from Cork for Lisbon. These heglments arc to be selected by Sir George Murray.\n\n The whole will be under the Command of Sir W. Clinton. The Guards will be commanded by Sir Henry Bouvcrie and Sir Thomas Arbuthnot. Major General Blakeney will also have command.\n\n Sir Brook We're will be the Quarter Mas ter-General.\n\n The Aju'ent- General will be appointed Dy Sr George Murry,in Ireland.\n\n Two Regiment, we understand, will d. so be detached from Gibraltar.\n\n From tie London Courier Of Dec 14.\n\n Both Houses of Parliament adjourned. last night, to the 6th of Fcbruary. Mir, Secretary Peel moved the adjournment. consequence we regret to say, of the indis position of Mir. Canning, caused by the great exertions of the Right Honorable Secretary, on the proceeding evening. IL was statod,by Mir. Peel that the profession al persons who attended Mir. Canning. were ot opinion, that, in the present state of health, every unnecessary effort or excite- ment should be avoided but, added the Right Hon. Gentleman, ''his Right Hon. Friend, anxious to state to the House the grounds upon which his Majesty Govern- ment had felt it their duty 70 adopt the line of policy respecting Portugal, of which the House had been already informed for got, for the moment, his indisposition and the consequence was, that his Right Hon. Friend could not with safety attend in his placethat evening\"\" There will be but one feeling throughout the country upon this circumstance; a feeling of unaffected re- gret that the discharge of great public du- ty should have been attended with such consequence.\n\n Relative to the merits, or demerits, of the bill for Districting the State for the choice of Members to Congress, and State Senators, which was rejected by the Assembly last Spring, we are incompetent to speak. Indeed we know not what those particular features of",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                0
+            ],
+            "headline": "",
+            "article": "America in Congress assembled, Thai, from and after the Sd day of March, 1888 and after the fifth census shall have been taken, the appointment of the Representative shall be in the ratio of one Representative to every sixty thousand persons in each State, computing according to the rules prescribed by the Constitution of the Uni- ted States\"\n\n MT. Little accompanied this report with few verbal explanations, stating that the committee proposed to establish the ratio of representation at one member to 1000 inhabitants. This rate it was believed by the committee, would continue in the House about the present number of mem bers, which number it was not wished to increase. These remarks, however, were intended chiefly to draw the attention of the House to the subject general ly-every gentleman would of course, be able to make the calculation for himself.\n\n The bill was twice read, and madethe order of the day for tomorrow.\n\n Friday, Jan. 5.\n\n The House was again engaged on the bill to provide for the surviving officers of the army of the revolution, which was act- ed on in Committee of the Whole. The amendatory bill, reported by Mir. Burges, and moved by him as an amendment was re- jected; and the old bill, which embraces both officers and soldiers, passed through the committee, and was reported to the House with blanks filled. The amend ment as now proposed covers every branch of the army. It in the first place provi- des for the distribution of$8OO,OOO among the oficers,an then gives $2OO,OOO to the widows of the deceased officers. To the officers and soldiers who are not provided for by this provision, it appropriates 1,20- O,OOO: and to the widows of those who are deceased of this last class, it gives SS- OO,OOO. It embraces all classes, as we'll as those who served from 1782 to the end ofthe war. It ought, therefore, to satisfy all. The Journal of Saturday says-this he fate ofthe bill will probably be decided, IS there appears to be a very proper dispo- aition on the part of the House not to waste sine in the discussion of a bill on which eve- ry member must have made up his mind long since.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2068,
+                    "y0": 303,
+                    "x1": 2961,
+                    "y1": 2933
+                }
+            ],
+            "bbox": [
+                2068,
+                303,
+                2961,
+                2933
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-01-19_p2_sn82014309_00414182926_1827011901_0120.json"
+        },
+        {
+            "object_ids": [
+                11,
+                15,
+                1
+            ],
+            "headline": "18th CONGRESS-. s.......2d SESSION.\n\n SENATE.",
+            "article": "Thursday January 4.\n\n MT. Holmes, from the committee on Fi- nance, reported bill to repeal the duty on salt; which was read.\n\n Mir. Rowan of Ky. gave notice of his intention to introduce bill to restrict the powers of the Supreme Court of the Uni- ted States in certain cases. A bill to au- thorize the sale of salt springs and the land adjacent thereto, in the state of Missouri, was ordered to third reading. A relief of Ebenezer Oliver and others directors of an association called ''the New England Mississippi Land Company\" was consid- cred. MT. Robbins spoke briefly in favor of the bill, and Mir. Kane at some length against it. The bill was laid on the table. and made the order of the day for Mon- day next.\n\n A Friday, Jan. 5.\n\n MT. Sanford presented the petition of John Daly; stating that at the time of the late invasion of Canada by she United States, he was British subject residing there, and possessed of considerable real and personal estate, consisting chiefly of a number ofdwelling houses and Merchan- disc in the village of Newark; that he de- voted his propety as we'll as his personal influence to promote the success ofthat en- terprize that when the troops left Fort George they burnt Newark, whereby he lost his personal property that the British authorities afterwards confiscated all his real estate; and that in consequence of said losses he is now reduced to penury and want and praying relief; referred to the Com mittee on Claims.\n\n Mir. Rowan, of Kentucky, introduced a bill to limit and restrain the jurisdiction of the United States Courts, in certain cases. The Bill for diminishing the duty on inn ported Salt was read second time and postponed to Monday. MT. Reed submit- ted a resolution proposing an inquiry into the expediency of increasing the salary of the Postmaster General.\n\n HOUSE OF REPRESENTATIVES. Thursday, Jan. 4. Mir. Little, from the Committee ap- pointed on the subject, reported the fol- lowing bill:\n\n \"Be tt enacted by the Senate and House of Representatives. of the United States Of",
+            "byline": "THursd1u .In,,,",
+            "bbox_list": [
+                {
+                    "x0": 1165,
+                    "y0": 4322,
+                    "x1": 2040,
+                    "y1": 4448
+                },
+                {
+                    "x0": 1576,
+                    "y0": 4453,
+                    "x1": 1869,
+                    "y1": 4488
+                },
+                {
+                    "x0": 1153,
+                    "y0": 4459,
+                    "x1": 2040,
+                    "y1": 7056
+                }
+            ],
+            "bbox": [
+                1153,
+                4322,
+                2040,
+                7056
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-01-19_p2_sn82014309_00414182926_1827011901_0120.json"
+        },
+        {
+            "object_ids": [
+                9,
+                2
+            ],
+            "headline": "FOREIGN INTELLIGENCE. LATEST FROM EUROPE.\n\n ED E E CE",
+            "article": "MT. Eynard's correspondent at Corfu writes, Nov. Sd, that the money and pro- visions he had sent out had safely arrived. A part of the money has been applied to ransom 200 Greek slaves. They will fur nish the Greek means of subsistence for two months. If the government succeed in placing Romelia on respectable foot ing, Albania will be safe, and the affairs of the Morea will be easily arranged. Ibra- him's troops suffer severely from want of provisions.\n\n The London times of Nov. ssh. says on the authority of letter from Paris, that despatches were sent, the Tuesday previ- 6bs, to MT. Stratford Canning, giving in- tclligence that England, Russia, France. Austria and Prussia, had determined to close the war in Greece; and that if ne- cessary, their ships in the Archipelago would prevent any debarkation of men or provisions in the Morea, either from the Turks or Egyptians. A Paris paper says such rumors have been circulated for some days.\n\n Despatches received in London from the Persian Government, of September 19th, request the mediation of Egland with Russia. The Persians say that they were driven to the invasion, by the re- peated aggressions of the Russians; and that at the above date they had suffered no reverses.\n\n PORTUGAL.-The government of Spain is said to have at length yielded to the representation of England, and deter mined to disavow the conduct of the Cap tains Eguya and Longa, who have hereto fore favored deserters from Portugal. The",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 347,
+                    "y0": 5031,
+                    "x1": 1040,
+                    "y1": 5157
+                },
+                {
+                    "x0": 238,
+                    "y0": 5179,
+                    "x1": 1143,
+                    "y1": 7056
+                }
+            ],
+            "bbox": [
+                238,
+                5031,
+                1143,
+                7056
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-01-19_p2_sn82014309_00414182926_1827011901_0120.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "A few refugees. 4 division which entered from Spain on the 7th of Nov. although at first said to have been large, is stated by Bordeaux paper to have been only 1900 strong. 6OO0 muSkets have been sent, It is reported, from Oviedo and Santona tc the frontier. 2OO0 muSkets have certain ly been sent from Vittoria by Gen Longa. Silveira had made another attempt to en- ter Portugal, after an interview with Lon- ga, (who is Captain General of old Cas- tile,) the Governors of Salamanca and Zamora, and with the Bishop of the lat ter place.\n\n A letter from Madrid, dated Nov. 26th, says tl,at a column of the refugees were beaten back from the frontiers, and anoth- CT of 500 men stopped by Spanish rogi- ment on their way.\n\n The council of ministers at Madrid have lately decreed that the arms brought over by Portuguese refugees, shall be restored to the Regents commissaries that meas ureS be taken to prevent them from inva- ding their country that the Marquis of Chaves and Viscount Canellas shall imme- diately leave Spain: that the Portuguese\n\n \n\n troops; and that refugee soldiers and sub officers shall be cantoned in tho interior in small bodies.\n\n Ieese arc regarded as in degree ru- mors but as Paris paper of Dec. 9th remarks, from all it may be concluded, ,that Spain and England, as well as France, ,are disposed to make almost any sacrifice to prevent an open rupture. The following is a passage quoted from the London Times of Dec. 2d.\n\n Since yesterday we have received news of great importance from Lisbon. The rebels against the Portuguese constitution have entered their country with arms in their hands, by the province of Tras-os- montes.''\n\n The Cortes at Lisbon were occupied with unimportant business. Gen. Beres- ford was occupied in organizing the Portu- guese army.\n\n A report prevailed in England, that when the news was received by tele- graph in Paris, orders were given for the recal of the French ambassador at Ma drid. s..-\n\n It appears that the treaty between Eng land and Portugal was brought up to view in the House of Commons on the 3Oth of Nov. MT. Huskinson said that it was sub ject to change at fixed period, in case ei- ther of the parties desired it, and that this period had arrived, and that Portugal had expressed a wish that some parts of it should be altered by negotiation yet that until they were agreed upon the trea- ty would continue in force, and the British Ministry were not in favor of any change in the duties on wine.\n\n On the 3Oth Nov. on the presentation of several petitions against the Corn Laws, in the House of Lords, Lord Liverpool said that the government had decided on the measures they intended to propose to parliament, but the moment had not yet arrived for undertaking immediately discussion of such importance and they could not hope to finish it before Christ mas, after which he should take the first opportunity to explain the views of minis ters, although the measure would, in all probability, be first submitted to the other chamber.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1159,
+                    "y0": 360,
+                    "x1": 2057,
+                    "y1": 4283
+                }
+            ],
+            "bbox": [
+                1159,
+                360,
+                2057,
+                4283
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-01-19_p2_sn82014309_00414182926_1827011901_0120.json"
+        },
+        {
+            "object_ids": [
+                10,
+                12,
+                14,
+                4
+            ],
+            "headline": "COUNTY POSE,\n\nLITCHFIELD, JANUARY 1e. 1927.\n\nWAR IN EUROPE.",
+            "article": "A late arrival at New York brings the inn portant intelligence that Portugal, having been invaded by Spain, had called upon the Brit lsh government for that assistance which trea- ties of alliance had engaged on the part of Eng land. Our limits will not admit the mass of intelligence found in the New fork papers. We have given his Majesty's message upon the subject, and as much as possible of the speech of Mir. Secretary Canning. Different constructions are put upon this intelligence. Some have supposed that this step will lead to universal war in Europe; others quote Mir. Canning's rsmarks, as implying all that will be affected by this commencement of hos tilities, '' that this is war-not against Spain, but in defence of POrtugal,-not of aggression, but of repressi\"n.\"-Ifthis ground is adhered to,-which is not generally the case when nations commence deadly strife,-there can be no ground for alarms as regards the peace of the civilized world. But should new cau- ses of disaffection grow out this beginning of strife-should new reasons be adduced for con- tinuing war already began,-then there is reason to anticipate that not only the peace of Europe, but even of this country is at stake.- The Spanish island of Cuba would be prize invaluable to England; and the only possible prize which can compensate the British gov ernment for the expense of war with Spain; but our government will never admit that important post to fall into the possession of England, to be held by her upon the tenure of her other w. I. possessions, without enter ing protest of force and arms. This is the universal opinion throughout the country, and it is an opinion which will warrant our gov ernment to act decisively upon the subiect.- The London papers, however, ofdiffercnt pol itics, all seem to agree in the opinion that the war will be of short duration, and that no con- quests will grow out oft. It is difficult to say which party appears most in favor of the war, the ministerial, or the opposition; but one sen- timent prevails in England, and that is senti- ment of appreciation of the Course pursued by the ministers.\n\n House of Lords, Dec. II.\n\n Message from His Majesty.-Earl Bathurst informed the House that he had to deliver Message from his Majesty. ...\n\n The Message having been handed to the Lord Chancellor, the Noble and learned Lord read as follows\n\n GEORGER.\n\n His Majesty acquaints the House of Lords, that his Majesty has received an earnest ap- plication from the Princess Regent of Portu- gal, claiming, in virtue of the ancient obliga- tlons of alliance and amity subsisting between his Majesty and the Crown of Portugal, his Majesty's aid against an hostile aggression from Spain.\n\n His Majesty has exerted himself for some tune past, in conjunction with his Majesty's ally, the King of France. to prevent such an aggression; and repeated assurances have been given by the Court of Madrid, of the de- termination of his Catholic Majesty neither to commit, nor to allow to be committed, from ms Catholic Majesty's territory, any aggres- sion against Portugal:\n\n But his Majesty has learnt with deep con",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2131,
+                    "y0": 2961,
+                    "x1": 2892,
+                    "y1": 3042
+                },
+                {
+                    "x0": 2108,
+                    "y0": 3058,
+                    "x1": 2909,
+                    "y1": 3116
+                },
+                {
+                    "x0": 2274,
+                    "y0": 3150,
+                    "x1": 2738,
+                    "y1": 3202
+                },
+                {
+                    "x0": 2062,
+                    "y0": 3207,
+                    "x1": 2955,
+                    "y1": 7067
+                }
+            ],
+            "bbox": [
+                2062,
+                2961,
+                2955,
+                7067
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-01-19_p2_sn82014309_00414182926_1827011901_0120.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "every circle of this glorious realm, there was erected a point. round which the fires of heav- en played, till the whole region was light and electricity.\n\n The deficiency Ofthe higher species ofpub lie talent in despotisms may he solved on the same principle. DcspOtIsm is jealou' of all separate legislature. 1t breaks up all the lit lie local communities, and concentrates pow CT and fame round the single point of the court. It has one minister, with his few sub Ordinates. All pubic distinction IS m\"nopO- lized by this i.,,iro\" circle; and the whole remaining ability of the nation shrinks from the hopelessness of competition for public honors When has Austria, or Spain, or France, Or Prussia had more than one states man of emineace at d time The whole pub lie ability outside has perished away inlinac- lion. The finest policy of a state, anxious to raise its people to the highst rank of knowl- edge, spirit, and general capacity, would be to establish as many local images of its general government as possible. The Provincial Par haments of France alone kept the provinces from utter mental stagnation. There may be matters ofNmOre pressing interest, which com pei even the most generous governments to\n\n \n\n Scottish and Irish unions may have been com pulsory on England. Yet who but must la ment the necessity of the sacrifice that knows the value ot rallying point for the listless a. bility of all the remoter parts of great king dom, the importance of planting the seed of manly emulation in even the darker and more unfertile corners of land. the pa,- mount du- ty of keeping alive the sacred fire of patriotic zeal, of manly intelligence, of enlightened and generous ambition in every bosom of the cin- pire\n\n We now turn to the Greek war. Greece is country of mountains. The plains are few, and chiefly on the frontier. A mighty parallel of mountains closes it on the north running from sea to sea. From this ridge shoots off to the south, penetrating the entire of Greece down to the Mediterranean, where it ends in the Tanarian promontory, dividing in its way the Eastern from Western Hell las, and filling the region on both sides with perpetual branches of hills. Four rivers rise from the chain of Pindus, that great central elevation from which the southern ridge is projeted-the Aracthus, flowing south west, into the gulf of Arta--the Achelaus, flowing south among the mountains, and entering the sea near the memorable site of Missolonghi- the Peneus, tor Salympria,) flowing east\n\n \n\n to the Archipelago through the defles of Tempe-and the Aous, (Viosa) flowing north east to Tepeleni, and entering the Adri- atic very near the site of the ancient Appel lonia.\n\n The divisions adopted by the late and pres ent governments are important for understan ding the narrative of the war. The Turks governed by four chief Paschas. The pa shalik of Tripolizza included the Morea. The pashalk of Negropont included that island (Eubea) with Bpotia and the eastern district of Phocis. The pashiIik of Salonica included the southern portion of Macedonia. The pa shilik of Joannina included Epirus, Thessaly, and portion of Livadia. Athens, Livadia, and Larissa, had each it's own separate gover- nor. s...\n\n The first impulse of the Greek war origina- ted Tn the French Revolution. That great explosion, which for its time kept mankind in terror, was perhaps designed to be mighty agent of good as well as of evil; it has al- ready broken off the New World from Spain and may be at this hour renovating the ex- haulsted soil of the Old. During the Revolu- tion, commerce had unexpectedly fallen into the hands of the Greek islanders, and with it comparative opulence. The general excite ment of the European mind had reached c. ven to the vassals of the Turk, and spirit of education and improvement had combined with a sense of their wrongs, and hope of their ultimate liberation among the fortunate consequences of time of change. Greece had also assumed sudden interest with the great belligerents French agents had been despatched through the country. Russian agents had been sent to cOunteract them.- Greek students. traders, and military men, had occasionally returned, animated by the know ledge, the wealth, or the distinctions of Flu rope. The great Turkish ship still floated heavily upon the waters, without anchor or sail, but the clouds were gathering, and the storm was to come.\n\n FORET(rN TNIVET TTCENTE",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 244,
+                    "y0": 262,
+                    "x1": 1148,
+                    "y1": 5072
+                }
+            ],
+            "bbox": [
+                244,
+                262,
+                1148,
+                5072
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-01-19_p2_sn82014309_00414182926_1827011901_0120.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "Relative to the merits, or demerits. of the\n\n bill for Districting the State for the choice of\n\n Members to Congress, and State Senators,\n\n which was rejected by the Assembly last\n\n Spring, we are incompetent to speak. Indeed\n\n we know not what those particular features of the bill were which rendered it obnoxious to the dominant party. We are however thor oughly convinced that the great majority of the people of the State will expect their ren- resentatives next spring to district the State, and thus allow the freemen not only the right of voting for State officers, but also of dcsig- hating to whom State offices shall be given. We Go not speak at random when we say that such measure is loudly called for: h. deed we cannot point to the man who profess sedly opposes the measure. We have frequent iy conversed with leading republicans of this county upon the subject, and every one with whom we have thus conversed has expressed warm attachment to the districting system. We mention these facts to show that the re- publicans of Litchield County are not profes. sedly opposed to measures which are so warm. ly advocated in neighboring counties and that bill for this purpose will not be opposed oy the representatives from this county, un- less indeed they are willing to triae with tba we'll known wishes of their constituents. We",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3874,
+                    "y0": 5397,
+                    "x1": 4779,
+                    "y1": 7096
+                }
+            ],
+            "bbox": [
+                3874,
+                5397,
+                4779,
+                7096
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-01-19_p2_sn82014309_00414182926_1827011901_0120.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "cern, that. notwithstanding these assurances, hostile inrOads into the territory of Portugal have been concerted in Spain, and have been executed under the eyes of Spanish auihori- ties, by Portuguese regiments, which had de- serted into Spain, and which the Spanish gov ernment had repeatedly, and sOlemnly cnga- ged to disarm and dlsperse.\n\n His Majesty leaves no effort unexhausted to awaken the Spanish Government to the dangerous consequences of this apparent con- niVancc.\n\n His Majesty makes this communication to the House of Lords with the full and entire confidence that the House of Lords will af- ford to his Majesty their cordial concurrence and support in maintaining the faith of trea ties, and in securing against foreign hostility the safety and independence of the kingdCan of Portuga gal-the oldest ally of Great Britain.\n\n \"G. R.\"'\n\n HIS MAJEsTY's MESSAGE.\n\n Mir. Secretary Canning-.Sir,I II rise to move the order of the day for taking into considera ton the Kings most gracious Message to his faithful Commons\n\n After the order of the day had been read, MT. Canning rose and spoke to the following effect :-\n\n Sir, in proposing, as shall presently have occasion so to do to the House of Commons, to acknowledge his Majesty's most gracious message, on the subjec of the relations sub sisting between Great Britain and Portugal, and the present condition of the latter state; and, in calling on this House to reply to that communication, in terms which will be, in fact, an echo to the sentiments contained in the royal message, and equally in accordance with the anticipations of his majesty's gov ern,nent-in doing this, sir, I cannot but feel that, however confident may be in the jus tice of the cause, and clear as to, the policy which it becomes us, in accordance with the recommendations contained in his ma esty's message to adopt; yet Sir, am free to ad init, it well becomcsa British minister, in rec ommendiug British House of Commons tO take any step calculated to bring upon their country the hazards of war, to make use of the language of regret and sorrow that such necessity should exist. (Hear.) Sir, as sure the House that there is not, within it's walls, at this moment, anS set of men more fully convinced than are his Majesty's minis ters--or any individual more completely con- vinced than is he who now has the honor to address it-ofthe great and vital importance of maintaining, undisturbed, the peace and tranquility of this country. Loud cheering. J This, admit. Indeed, 80 strongly am inn pressed with the truth ofths fact, and that for reasons which shall take the liberty before sit down to adduce to the House, that ani perfectly ready to declare, no question, nvoi ving doubtful success or construction--no consideration of merely present advantaSe- and, Sir, will go farther, and add. no antici- patton of remote and contingent d;Gcuty- could arise, which l should not thousand times rather completely pass over, or, at the utmost, adjourn, than concur in measure, calling on the Government of this country to involve itself in the consequences of war; But sir, there are cases which render the a. doption of such a course not merely hOnOura- ble and beneficial, but also necessary and in evitable, (hear,) and l am equally certain the presents such a case ; and fee that what has been acted on in the best times of our history what has been promulgated by our best statesmen-and what has always received the support and concurrence of successive Eng fish Parliaments, is an adherence to national faith, and respect for the national honor.- (Cheers.) These are the two questions which cannot be compromised under any circum- stances whatsOever--the cause of nation al faith and the cause of national honor.- (Hear.)\n\n After much other discussion Mir. Canning made rejoinder, and aIuding particularly to the charge that England ought in previous years to have prevented France from marching her armies into Spainhe thus spoke:-\n\n One of the modes of redress was, by direct attack upon France. by war upon the soil of Spain. The other was to make the possession of that country harmless in rival hands-to make it worse than harm less, to make it injurious to the possessor. The latter mode have adopted. Doyou think, that for the disparagemcnt of Eng land, we have not been compensated? Do you think, that for the blockade of Cadiz, England has not been fully compensa ed ? I looked Sir, at Spain by another name than Spain. looked upon that Power as Spain and the Indies. I looked at the Indies, and there I have called anew world into existence, and thus redressed the balance of power. Cloud and contin- ued cheering.) Iredeemed the movement of France, while left her own act upon her, unmitigated and unredressed, so that l believe that she would be thankful to have relief from the responsibility of her assu- med undertaking and to get rid of bur- den which has become too bitter to be l hOrne without cOmnlaint",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2977,
+                    "y0": 285,
+                    "x1": 3875,
+                    "y1": 5752
+                }
+            ],
+            "bbox": [
+                2977,
+                285,
+                3875,
+                5752
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-01-19_p2_sn82014309_00414182926_1827011901_0120.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "England will he disgraceJ, and then war will come, and come, too, in the train Of degradation. If we wait until Spain have courage to ripen her secret machinatiOns into open hostility, we shall have war-we shall have the war of the pacifcators, and who can thensSay when that war will end. (The Right. Hon. Gent. sat down amid loud cheers.\n\n The motion for the address was then u- unanimously agreed to.\n\n London, Dec. 12, 1926.\n\n The utmost activity prevails in every department of Government connected with the immediate authorization of troops for Portugal. This morning the following,,no- tice was posted at Lloyd's':-\n\n NAvY-OFF1cE, Dec. l2.\n\n The principal Of1icersand Commission CTS of his MajeSty's Navy do hereby give notice, that they will immediately receive tenders, at this office, of ships, for the con- veyance of troops from Deptford and Portsmouth, to Lisbon, where they arc to be discharged, to be hired ut the rate of\n\n -per ton, for the voyage, or at---- per ton per calender month for three months certain\"\n\n (Signed) CT. HARDING\"\n\n The amount of force which will he dcs- patched in the first instance, and upon the emergency of the occasion, is 5000. Of the troops composing this force there are 10 be four squadrons of cavalry, which in- dlcates that it is not contemplated lha. their services will confined to garrison duty only. The following are tie names of the regiments, !their prescribed movements, and the Officers. who will have the chief command.\n\n The 1st Battalion of the Grenadier Regiment of Guards will embark to-mor- row, at Deptford.\n\n The 2d Battalion of the Sd Regiment of Guards will march tomorrow, for Ports mouth ,Ffor embarkation.\n\n The 63d Regiment ofInfantry marched, this morning, from Windsor, for embarka- tion at Portsmouth.\n\n The. 4th Regiment of Foot, now at Portsmouth, is ordered to prepare for im- mediate embarkation at that port.\n\n The 1st Battalion of the Goth Rife Corps, now at Plymouth, is ordered to prepare for immediate embarkation at that Port.\n\n Two Squadrons of the 18th Lancers, and two Squadrons of the 10th lussars, are ordered to hold themselves in readiness for immediate authorization.\n\n There are two Regiments to embark forthwith from Cork for Lisbon. These heglments arc to be selected by Sir George Murray.\n\n The whole will be under the Command of Sir W. Clinton. The Guards will be commanded by Sir Henry Bouvcrie and Sir Thomas Arbuthnot. Major General Blakeney will also have command.\n\n Sir Brook We're will be the Quarter Mas ter-General.\n\n The Aju'ent- General will be appointed Dy Sr George Murry,in Ireland.\n\n Two Regiment, we understand, will d. so be detached from Gibraltar.\n\n From tie London Courier Of Dec 14.\n\n Both Houses of Parliament adjourned. last night, to the 6th of Fcbruary. Mir, Secretary Peel moved the adjournment. consequence we regret to say, of the indis position of Mir. Canning, caused by the great exertions of the Right Honorable Secretary, on the proceeding evening. IL was statod,by Mir. Peel that the profession al persons who attended Mir. Canning. were ot opinion, that, in the present state of health, every unnecessary effort or excite- ment should be avoided but, added the Right Hon. Gentleman, ''his Right Hon. Friend, anxious to state to the House the grounds upon which his Majesty Govern- ment had felt it their duty 70 adopt the line of policy respecting Portugal, of which the House had been already informed for got, for the moment, his indisposition and the consequence was, that his Right Hon. Friend could not with safety attend in his placethat evening\"\" There will be but one feeling throughout the country upon this circumstance; a feeling of unaffected re- gret that the discharge of great public du- ty should have been attended with such consequence.\n\n Relative to the merits, or demerits, of the bill for Districting the State for the choice of Members to Congress, and State Senators, which was rejected by the Assembly last Spring, we are incompetent to speak. Indeed we know not what those particular features of",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3886,
+                    "y0": 291,
+                    "x1": 4802,
+                    "y1": 5746
+                }
+            ],
+            "bbox": [
+                3886,
+                291,
+                4802,
+                5746
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-01-19_p2_sn82014309_00414182926_1827011901_0120.json"
+        }
+    ]
+}

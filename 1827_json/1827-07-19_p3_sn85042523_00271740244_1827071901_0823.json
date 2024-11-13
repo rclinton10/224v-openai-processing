@@ -1,0 +1,1415 @@
+{
+    "lccn": {
+        "title": "The Wilmingtonian, and Delaware advertiser.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2638-1117",
+        "lccn": "sn85042523",
+        "start_year": "1825",
+        "end_year": "1827",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [
+            "sn88053080"
+        ],
+        "successors": [
+            "sn84020426"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn85042523",
+        "edition": "ed-01",
+        "date": "1827-07-19",
+        "pages": [
+            "seq-2",
+            "seq-3",
+            "seq-4",
+            "seq-1"
+        ]
+    },
+    "page_number": "3",
+    "scan": {
+        "lccn": "sn85042523",
+        "edition": "ed-01",
+        "date": "1827-07-19",
+        "page": "3",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn85042523/1827-07-19/ed-1/seq-3.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn85042523/1827-07-19/ed-1/seq-3/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn85042523/1827-07-19/ed-1/seq-3/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn85042523/00271740244/1827071901/0823.jp2",
+        "height": 5576,
+        "width": 3672
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 746,
+                "y0": 657,
+                "x1": 1414,
+                "y1": 1556
+            },
+            "class": "article",
+            "raw_text": "The citizens of Providence. Rhode Island,\nsays the New-York Christian Advocate,\nsent an agent to this city, last week. who\npurchased a quantity os DR.. Chambers\nmedicine, for the use of such unfortunate\nvictims of intemperance as are unable to\nprocure it themselves. The agent related\nto us several affecting instances of its res\ntoratlve powers. A man who had long beeu\nconfirmed drunkard, by using the med-\ncine four days, was thoroughly reclaimed,\nand is now perfectly temperate. and very\nIndustrious and respectable. Another. an\ningenious mechanic. who. in consequence OF\nhis incorporate habits, had forfeited the\nconfidence OF the public, has t;een restored\nto his family and to society, and is now\nproitaby employed, with several men nn-\nder his direction. Many other instances the\nagent mentioned ofts salutary effects, The\ncitizens of Providence have set an example\nwhich is worthy of universal imitation\nAnd it gives us pleasure to state, that the\nCaptain of tine steamboat Washington Of\nfered free passage to their agent, as soon\nas he understood the benevolent object oi\nhis mission",
+            "legibility": "Questionable",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 855,
+                "y0": 618,
+                "x1": 1336,
+                "y1": 658
+            },
+            "class": "headline",
+            "raw_text": "ACTIVE BENEVOLENCE.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2755,
+                "y0": 4186,
+                "x1": 3427,
+                "y1": 5441
+            },
+            "class": "article",
+            "raw_text": "in this Scheme formed by the ternary permu-\ntation of 80 numbers, and the drawing of four\nballots there will be \"a prizes with three of the\ndrawn numbers on them; $50 with two of them\non; and 1890 with one, only, Of them on.\n\n\nTO determine the fate Of the tickets in the\nscheme, the 80 numbers, from l to 3Oinclusive,\nwill be placed in the wheel on the day of the\ndrawing, and four of them be drawn OUT and\nthat ticket having on ii the 1st, Cd and Sd drawn\nnumbers in the order in which drawn, will be en-\ntitled to the prize of so,ooo\n\n\nThat having on it the 1st Sd and Cd IN s this\norder, to 4'Uoo\norder, TO ~'oo\"\norder, to ~'uoo\n''S Thst i having on it the Sd, Cd and lst, in this\nor,,er. \"a 1900\n''Is' That having on It the I'd, Sd and 4th. in this\nor,lcr, TO 1,556\n\n\nIII Thst having on it the ID, 4th and Sd, IN this this\no,,,er to $500\n'aSa' THAT having on it the sd. I'd and 18th, in mis-\norder, to looo\n\n\nThose three tickets having on them the same\nnumbers in any other order, each 500\n\n\nAll others with three of the drawe numbers\non them (being l2) each 100\n\n\nThese l56 tickets having on them the lst and\nCd drawn numbers, only, in either order, each so\n\n\nThose 1856 tickets having on them the Sd ami\n4th drawn, in either order, each -\n\n\nAll Others with two Of the drawn numbers on.\n(being 624) each\nAna all those tickets having one, orly. orthe\ndrawn numbers on tbeing 7S00) each >.",
+            "legibility": "Questionable",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 38,
+            "bbox": {
+                "x0": 2798,
+                "y0": 4090,
+                "x1": 3370,
+                "y1": 4178
+            },
+            "class": "headline",
+            "raw_text": "FOR SALE Al\nROBERTSON & LTTTLE'S\nLOTTERY OFFICE,",
+            "legibility": "Questionable",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2763,
+                "y0": 914,
+                "x1": 3444,
+                "y1": 3294
+            },
+            "class": "article",
+            "raw_text": "| Pursuant to public notice, large and respect\nable meeting of the Democratic Republican\nfriends of the Administration of the General Gov\nernmert in Newcastle County, assembled at\nthe Red Lion Inn on Saturday the 18th day Of\nJuly, when\n\n\nGen. WILLIAM CooCH, was called so the\nchair, and GIDEON JAoUEs, was appointed Sec\nretaiy.\n\n\nAfter very suitable and lucid EXPOSITION of the\nobject Of the meeting, by DR.. Arnold Naudain,\nII was, on motion,\n\n\nHeSolred, That Committee of five be ap.\npointed by the Chairman, for the purpose of re-\nporting resolutions for the consideration of this\nmeeting\n\n\nIn pursuance whereof, the chairman appoint\ncd Messrs. Arnold Naudain, Wm p. l,robson,\nJohn Higgins, VIM. Kennedy, and Alexander\nCrawford.\n\n\nThe committee reported the following resolu-\ntons, which, after some explanatory remarks.\nwere unanimously adopted.\n\n\nResoiuea, That We recognize in John Quincy\nAdams Statesman Of unquestioned abilities, of\ngreat experience and of rreproachable charac-\nter; who has enjoyed the confidence of WASH\nington, Jefferson, Madison and Monroe, in long\ncourse Of meritorous and active public service,\neminently calculated to prepare for the duties of\nthe first civil Office in the country; whose pri-\nvate life, in all its relations, presents example\n\n\n\n\n\noverlooked in the selection of Republican\nChief Magistrate; that in reviewing the measures\nOf his administration we can discover no act\nwhatever which do not meet our decided ap-\n| probation, and that we will, therefore, use all\nfair and honorable means to support his admins\ntraton, and to secure his reelection.\nRes0ioed, That the appointment of HeNry\nClay to the office of Secretary of State, was but\na tribute due to the high character, splendid\ntalents and ardent patriotism of that great and\ndistinguished Satesman--that the stale charge\nof corruption which has been founded upon that\nappointment, is contradcted by all we know of\nthe most eminent persons it concerns, and by all\nthe circumstances involved in the case, while it\nIL unsupported BY any evidence which would be\nadmitted to the prejudice ofany credi1able man\nin society.\n\n\nHesolOed, That the temperance, forbearance\nand iirmness displayed by the President of the\nUnited states towards the Governor OF Georgia.\nunder circumstances of provocaton and indigni-\nty Which we believe have had no parallel in the\nhistory Of our country, give him new titles to our\nregatd and appreciation.\n\n\nHesoiged, That William Cooch, John Ways\nWilliam =. Brobson, Robert Porter, Richard\nMansfield and William Kennedy be appointed r\ncommittee for the purpose of corresponding\nwith such committees may be appointed by\nthe Democratic Republican friends of the adj\nmnstraton in the respective counties of this\nState.\n\n\nAes0ived, That the proceedings of this meet.\ning be signed By the Chairman and Secretary.\nand published in the American Watchman, the\nDelaware Journal, and the Wilmingtonian.\n\n\nReso!rcd, That this meeting now adjourn to\nmeet at this place on Saturday, the first day Of\nSeptember next.\n\n\nwM. CooCH, Chairman.\n\n\nGIDEoN JAouEs, Secry.",
+            "legibility": "Questionable",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 2925,
+                "y0": 853,
+                "x1": 3283,
+                "y1": 902
+            },
+            "class": "headline",
+            "raw_text": "Public Meeting.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 67,
+                "y0": 230,
+                "x1": 734,
+                "y1": 1821
+            },
+            "class": "article",
+            "raw_text": "We learn that on Tuesday evening, the\ncaDtsin aud mate of vessel from Folly\nLanding, fought duel 7oith aces, on the\ndeck of their vessel. They hacked one an\notberin fine style; but some OF the specta-\ntors having little regard for this honorable\nmethod of settling disputes, had them carri-\ned before a magistrate.\n\n\nThe dangers to which many persons were\nexposed on Wednesday afternoon, were\nmuch greater than we were aware OF. A\nsteamboat that left the upper wharf at\nCamden, weathered the storm with difficult\nt. The water rushed into the cabin win\ndow, the awning was torn to rags, and a\ncompany of nearly two hundred persons,\nprincipally women and children. remained\nexposed during the whole the storm. 9th\ner steam and team boats were Oh the river,\nbut this appears to have been exposed to\nmost danger, as it was feared She would be\ndashed against the wharf, i'll which case she\nwould probably have sunk.\n\n\nA boat capsiZed near the Navy Yard, and\nIf five boys that were on board, three were\ndrowned. The editor Of the U. 5. Gazette\nsays that he witnessed the upsetting OF an\nother boat few minutes after 1t lett the\nwharf Two young men who were III It, got\non the keel and were saved.\n\n\nA young woman standing on the edge OF\nSouth street wharf, awaiting the approach\nof friend, was so much startled by the ex-\nposlon of cracker, which a mi schicvous\nboy threw at her feet, that she fell into the\nriver and was drowned before assistance\ncould be rendered.\n\n\nAt the celebration at Germantown, Pa. on\nthe Fourth If July, Mr.. Bnddey lost his\nhand. This accident, we understood, was\noccasionce by attempting to fire off can\nnon number of time in quick succession,\nwhereby the piece became so heated that\nthe man who had his fingcr on the touch\nhole was obliged to remove it, The explo-\nsion took place as soon as the atmosphe-\nric air came in contact WITH the heated pow\nder.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 115,
+                "y0": 135,
+                "x1": 700,
+                "y1": 223
+            },
+            "class": "headline",
+            "raw_text": "FOURTH OF JULY ACCIDEN rs.\nFrom the Phiiadelhhia Gazette.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 751,
+                "y0": 148,
+                "x1": 1418,
+                "y1": 593
+            },
+            "class": "article",
+            "raw_text": "The present Pacha Jf Egypt was very iesirous\n70 obtain the luxury of eating ice, and there be-\ning no such thing in Egypt, Mr.. Salt, the Brit\nish Consul General sent to England for an appa-\nratus for making it. The machine was convey\ned on its arrival to the Pachas palace, and the\nNile water made use of for the purpose. Nah\nmond Ali, hung over the whole operation with\nthe most intense curiosity; and when, after sew\neral disappointments, large piece of real ice\nwas produced, he took it eagerly in his hands,\ndanced round the room for ~ like ch j, and\nthen ran into the iIarem, to snow it to his wives\nand ever luxuriatcs upon it.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 751,
+                "y0": 1829,
+                "x1": 1414,
+                "y1": 2710
+            },
+            "class": "article",
+            "raw_text": "A most shocking instance of savage tero-\ncity was perpetrated on Saturday last, in\nthis place, by the mother Of young girl\nassisted by a monster who had, tor some\ntime, resided as bo4rdrr in the house. l!\nappears that the mother, for some trivial Of\nfence, inflicted severe cOrporeal punishment\nupon the girl; and not being satisfied with\nwhat she had done. asked the gentleman To\nfinish the work; which, nothing loath, he un\ndertook; (for we hear he had repeatedly\ntried his hand at the same business,) and\nwith such effect did he ply his kicks and\ncuffs that the victim Of their cruelty died\nthe next day. a Coroner's inquest was\nheld upon the body, and verdict given that\nher death was caused by excessive beating.\nThe unfecling wretchcs have both been\nconsigned, by the proper authority, TO the\nCounty Jail. there to await punishment\nwhich IS justly due them",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 32,
+            "bbox": {
+                "x0": 751,
+                "y0": 1576,
+                "x1": 1418,
+                "y1": 1638
+            },
+            "class": "headline",
+            "raw_text": "IlI.1 WEI .sE \"a csNsy ylgEAsa,",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -3
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 816,
+                "y0": 1668,
+                "x1": 1353,
+                "y1": 1717
+            },
+            "class": "headline",
+            "raw_text": "DELAWARE ADVERTISER.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -2
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 794,
+                "y0": 1742,
+                "x1": 1362,
+                "y1": 1800
+            },
+            "class": "headline",
+            "raw_text": "Thursday, July l9, 1927.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1430,
+                "y0": 418,
+                "x1": 2089,
+                "y1": 894
+            },
+            "class": "article",
+            "raw_text": "In one ofthe recent discussions in the British\nHouse of Lords on the Spring Gun Bill, Lord\nSuffield said-\"N longer ago than yesterday a\nnoble lord had informed him that a gentleman\nhad contryed very ingenius spring gun for his\nhouse, by which he Mad shot himself, his wife and\nhis daughter\" The Earl of Abingdon, in reply,\nsaid she could not help rising, as the noble Lord\nlooked at him so earnestly, toinfor.n their Lord\nships that he had not shot his wife and daughter\n\n\nA laugh.] lie wished also to state to the noble\nLord, that If he found him entering his house.\nhe would shoot him, and leave him to prove at\nterwarls that on entering it he intended no harm,\nand to find his remedy farb being shot\" Ia laugh",
+            "legibility": "Questionable",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 1639,
+                "y0": 383,
+                "x1": 1876,
+                "y1": 414
+            },
+            "class": "headline",
+            "raw_text": "SPHINGGuNS.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 751,
+                "y0": 2740,
+                "x1": 1410,
+                "y1": 3202
+            },
+            "class": "article",
+            "raw_text": "We have read with peculiar pleasure, the\nGrafton which was delivered on the 4th inst.\nat Dover, by Wan Huntingdon, Esq. The\ntalents of this gentleman are we'll known in\nthe Co1rts of Law Of our State, and We\nhope one day to see him occupying con-\nspicuous place in her councils. We Intended\nto have published some extracts from the\noraton. but as one of onr neighborlns prints\nhas already published it entire, we believe\nil has, before this. been generally read",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2084,
+                "y0": 5227,
+                "x1": 2743,
+                "y1": 5450
+            },
+            "class": "article",
+            "raw_text": "Persons having claims against the estate OF\nABNER OTI.EY, decd, will please present\nthem, properly authenticated, for settlements\nand all persons Indebted to said estate, are re-\neiuested to discharge their accounts without dc\nlay to EZRA HoOPES, .admr.\n\n\nWilmington, 7th Mo. IL, 1897, ST. l.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 2297,
+                "y0": 5170,
+                "x1": 2525,
+                "y1": 5219
+            },
+            "class": "headline",
+            "raw_text": "NOTICE.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2101,
+                "y0": 666,
+                "x1": 2760,
+                "y1": 955
+            },
+            "class": "article",
+            "raw_text": "NATIONAL ROAD-The st. Clairsvllle,\nOhio, Gazette Of the 9TH inst. states the whole\nline of the National Road, between Canton,\n(Bridgcpor,) and Cambridge, distance Of a\nbout So miles, has been opened for the admis-\nsion of travelling of every description. The\nline from the river TO Fairvew, so miles is paved\nthst between Fairview and Cambridge is graded\nbut not paved.",
+            "legibility": "Questionable",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2101,
+                "y0": 148,
+                "x1": 2769,
+                "y1": 384
+            },
+            "class": "article",
+            "raw_text": "In Florida, Mr.. White has been chosen q\ndelegate 70 Congress by majority of about\n1000 oyer his opponent Mr.. GadsdeD.-It is\ncalculated by the increase in the number of\nvotes that Florida must have received an ac-\ncession of 1000 inhabitants since the last\nElection.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2093,
+                "y0": 984,
+                "x1": 2751,
+                "y1": 4980
+            },
+            "class": "article",
+            "raw_text": "GLEAIJINGss.\nThe body of female, holding all infant child\nin her arms was found in the Delaware on Satur\nday. They were, it is presumed, lost from one\nof tho boats on the afternoon Of the 4th instant\nThe body ola man, name unknown, was oh the\nsame day found in the river, near the Point\nhouse.\n\n\nIn the city ofNew-York there are at this time\npending before the four court no less than one\nthousand and sixty cases. There must have been\nsome obstruction in the course OF lazy to cause\nsuch an accumulation of troubles\nOn Monday the ID inst a fire broke out at An\ngustA Geo. which consumed seventeen houses in\nthe very centre of the city. All the merchants\nand shop keepers suffered more or less though\nmost of them were insured. This is the most\ndestructive fire that ever occurred in Augusta.\n\n\nA letter writer in the National lntelligencer,\nnvcighting against celebacy, says bachelors, |\nwonder any man should long be bachelor -\nWidowcrs have better excuses for not marry\ning\"\n\n\nA fellow by the name Of James Low, notorious\nin NcwYork as rec liver Of stolen goods, has\nlately been convicted of the offence He had\nfrequently been indicted beture but always Con.\ntrivcd to escape.\n\n\n| In 1921, iielginm had ninety-six cirH prisons,\nand .twenty-onc Mhtary: aud the NUMBER OF pris\noncrs amounted 10 TO-, ,55I, u ratio Of one prison.\ncr for every $40 inhabitants.\nJ Severe irosts were experienced in the district\nOf Quebec, on the night Of the 2tth and 25th d\nJune. The tender vegetables sustained consd\ncradle injury, and the leaves Of the forest trees\nbore testimony to the severity OF the cold\nThe present Attorney General Of England, in\nn speech relative to the Chanceiy Court, deliver\ned on the 22l Of May last, observed that there\nwere then six Thousand certiiicated Attorneys in\nthe country, each making, on an average, thou\nsand pounds sterling year by his profession.\n\n\nThe auction duties paid into the state treasury\nBY the Auctioneers OF Philadelphia for the last\nquarter, ending May, ii, amounted to S56,039\n81 cents\n\n\nII is said there are more than 400 billiard Ia.\nbles in Philadelphia, ami 500 in New-York.\n\n\nA machine has been invented for making brick\nwith great facility. One horse, by turning .\nwheel, makes or strikes bricks as fast as three or\nfour persons can remove and place them. Two\npersons supply the clay, one washes the iuoulds.\n\n\nThe Roman Catholic Priests, and the lnylncn,\nOf twelve towns, in Silcsia, have pettionei for\nleave TO use bibles, and to say their prayers and\nsing their hymns in the German language, and\nalso that the Priests may be permitted 10 marry.\n\n\nMr. CL,Y reached his home near Lexington\n\n\n\npublic dinner is announced TO be given him ON\nthe 18th July\n\n\nAccording to the official register Of the u. s.\nNavy, there are 73l officers in that service, VIZ;\n81 Captains, % Masters Commandanis, 22S\nIieutcnants, ~ Surgeons, 40 Surgeons mates,\nIS Pursels, Chaplains, and ga Milshpmen.\n\n\nThe Ohio River at Wheeling was four and a\nhalf feet above low water mark on Saturday\nweek.\n\n\nThe Boston Palladium, rcmarking upon the\nsale Of Teas at Halifax, as reported IN the Pltri-\not yesterday, says-\"the prces are lower than\nthose in the United States--it follows that to\npreserve our commerce, our duties on Teas\nought to be reduced\"\n\n\nNoLrA, one of the most celebrated phlloso-\npliers of the age died lately, in ltai, at the age\nof eighty-two. lie was at the head Of the Uni\nvcrsity of pavia.\n\n\nPhiladelphia has population of $50, 900; N.\nYork l70,0o0 and Baltimore 10000 inhabitants.\n\n\nNJ. Onis, formerly minister of Spain to the\nu. States, and ambassador of Naples under\nthe Constitutional Government, had died at\nMadrid.\n\n\nThe steamboat Chippewa, which plies\nbetween Black Rock and Chippewa, caught\nfire on the 2Sth ult. two miles above the falls\nOf Niagara. The flames were extinguishcd\nwith difficulty.\n\n\nA Kentucky paper in speaking of isaac\nB. DeSha, say:-\"lsaac looks as well as he\ndid before he cut his throat, though not quite\nso flcshy. He breathes through tube in\nwhich he makes considerable wheezng.\"\n\n\nErhenees Of Delegates 10 Harris6urg.-\nIn Vermont. money for the above object is\nraised by contributions, and the Clerks OF\nthe Court receive it.\n\n\nJohn M'Lean, now Postmaster General, is\nnominated for the Vice Presidency In the\nCincinnati Gazette.\n\n\n1t is stated that President Ho,ley, late Of\nTrannsylyanii University, has abandoned\nhis contemplated tour to Europe, and is a\nbout 10 take charge of \"a seminary in New\nOrleans.\n\n\nJOIN BucKrEp, NJ d. adjunct Professor OF A.\nnatomy in the University OF Maryland, has been\nelected to the profcssorship of Sar-\ngerry in that Institution, vacated BY the reslgna-\nton of Granville Sharpe Pattison, ESD.\n\n\nThe committee Of the Royal Academy of Sci\ncnces at Paris, appointed to allot certain premi-\nums for improvements in the medical art, have\nassigned one Of ten thousand francs to Acssrs,\nPeletirc and Caventon for their important la\nbours relative to the sulphat of Quininc.\n\n\nThe prize of ~urgery, Of ten thousan francs,\nhas been bestowed on DR.. CIyIALE for his new\nmode of operating for the stone.",
+            "legibility": "Questionable",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2236,
+                "y0": 980,
+                "x1": 2608,
+                "y1": 1033
+            },
+            "class": "headline",
+            "raw_text": "GEEAEJT,MGS.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 746,
+                "y0": 3284,
+                "x1": 1410,
+                "y1": 4853
+            },
+            "class": "article",
+            "raw_text": "Mr.. Ejiitor-In your last paper observe\nletter Of advice to the Watering Commit\ntee, but as those gentlemen will doubtless have\nenough to attend to without noticing the\nwh,ms oil every theorist who chooses to push\nforward his opinion, will undertake to in\nform your correspondent @ that he is 1T\ntie mistaken. He informs the Committee\nthat eve are entitled by the purchase to all\nthe water that can flow through certain\naperture, say 1o5 inches;\" this, believe, is\nnot the fact--the power Of the mill is not dc\nfined in that way, but if my information be\ncorrect the mill is allowed a good and suth-\ncient head of water for driving a stone of GER\ntain dimensions, w..h the necessary ma\nchinery for manufacturing -four. AS the case\n\n\nis thus circumstanced, and the power OF the\nmill thus defined, the Committee would not\nbe warrantable in taking the water until al\nter il had been expended on the wheel; and\nas the pump will only have to lift the water\nbv atmospheric pressure about four feet,\ncan see no serious difficulty in the case.\ncannot see that it will make the machinery\nmuch more complicated, or any more ex-\npensiye. If the water wheel cxert5 the\nsame power on the pump that it formerly\ndid on the mill stone, it is all the Committee\nhave any right to expect; and the quantity\nof water furnished they must DC sa'lsaea\nwith, be it more or less.\n\n\nAs to the plan that has been adopted,\nhave no doubt the Committee have taken\nthe advice of those much better qualified to\niudee than / am, and perhaps as weli as\nYOUR correspondent Q. himself I.\n\n\nJuly IA.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 908,
+                "y0": 3232,
+                "x1": 1257,
+                "y1": 3272
+            },
+            "class": "headline",
+            "raw_text": "ISr tie U5lmiag'on,aa.",
+            "legibility": "Questionable",
+            "full_article_id": 14,
+            "reading_order_id": -1
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2101,
+                "y0": 422,
+                "x1": 2764,
+                "y1": 628
+            },
+            "class": "article",
+            "raw_text": "Two young women, daughters of Mr.. Staf-\nford of fAlachuahender, Florida, were recent\nly burned to death by the explosion of a cask\nOF Whiskey from which they were drawing\nthe fire was communicated from the can\ndie.",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1422,
+                "y0": 1049,
+                "x1": 2085,
+                "y1": 5189
+            },
+            "class": "article",
+            "raw_text": "\n\n\ngrass. hopper, which ilutters with So much\nyivacity through our meadows during the\nautumn, feeds upon vegetable matter. and\ndeposits its eggs upon vegetables, tor the\npurpose OF being supported until maturetl.--\nBefore the grass-hopper takes wing, anoth-\nvr insect, the ichneumon, alights upon its\nbody, and thrusts under its skin number of\nits eggs, by means OF tubular awl. shap\nri uyiduct. These eggs slowly acquire per-\n/ tectinn, become living worms, and feed up\non the body Of the hap!eis grass-hopper, un-\n! I'll themselves are II ady to take wing. So\nadmirably do they perform their office, that\nthey 90 not injure the vital organs of the IN\nsect they are internally Sevo' ,iGg, until they\nare Just ready to change their state; and At\nthe proper season, hundreds of grass-hop\npers, in this condition have Just strength\nenough rcniaiung to autter to a tree or\nfence, and with Il dyingo fort Fix their book\n\n\ned feet SO iirmiy as to retain their position\nlong after death. Examine thcir bodies 1T\ntnl, season, and you will find IN empty shell,\nr one filled with large and active worms,\n! just ready TO burs. their coverings aud be-\ncone winged insects\n\n\n| lac recently p'Ibiishcd number OF the\nI North American Retiew supplies us with\n!\n! little kNowu to common readers, though said\nto be familiar to the sight Of those who nav-\nigatc between the tropics, the beautiful and\ncnignatical insect, commonly called the l'or-\ntugurzc man-of- war. 1t is from memoir\nTo Doctor Tlosns who accompanied Mr.. de\nKruscnstcrp, in his voyage round the world.\n\n\n\"Ihis singular animal hid several times\nbeen delineatcd, described, and endowed\nwith names, yet not only its denominations\nwere various. but also the nature and char\nactcristics asrubed to it. According to\nsome it was Poiypus. according to others\na Ioophyte, and others ranged ii among the\nMullusca. Naturalists who followed in the\nsteps of Lime, have called it the Physalis.\nWonderful as are all the works oil Provi-\ndence, admirably fitted as are the several\nparts Of each created being for their sever\nal functions, complex in their composition as\nthey at first seem, while vet they are always\nfound to be really so simple and situable in\ntheir action, on a nearer investigation. we\nmay, nevertheless, venture to rank this lit\ntie animated creat\"re among the most curl.\nous phenomenal. A worm between and s\ninches in length, which is found but in cer-\ntain latitudcs, has seemingly the skill and\nknowledge OF an experienced navigator, and\nis in itself Little 81 ip. Its evolutons are\naccording t@ the winds; il r Asses and lowers\nIt's sal, which is a membrane provided with\nclevating and depressingprg ans. When nj\nled with air, it is SO light, that it swims on\nthe surface OF alcohol. and is at the same\ntime provided with structure. which fur\nnishes It witn the necessary ballast.\n\n\nWhen ,irh winds would endaDgcr its ex-\niStence, it tlescends into the deep, and is new\ne, Sc en- on tie surface Of the water. From the\nunder side ef the body proceed tubes, which\nextend twenty feet in length, and are SO\nelastic and delicate, that they wind IN sPi-\nraj form like screw, serving at once as an\nchors, defensive ard Offensive weapons. pu-\ncunatic tubes and ferlels. The insect has\nthe colcrs of the rainbow; its crest, which\nperforms the office of sail, IS intersectcd\nwith pink and blue veins, trimmed with\nrosy border, and swells with the wind, or at\nthe animals pleasure. The iibres contain\na viscous matter, which has the properly OF\nstinsing like uettles, and produces pustli!es.\n1t acts so strongly, that vessels ~ which\nthey have been kept for time must be re-\npeatcdly washed before they can be used\nThese !ibrcs NAV be cut Of without dcpriv-\ning them or the rest of the insect OF the prin-\ncipe of life; and the separation takes place\nspontaneously, whenever the glutinous mat\nter comes in contact with a hard surface,\nlike the sides Of glass globe. The insect\nhas, however, dangerous enemies in small\ndolphins, aud medes2, against which nei-\nther It's nautical skill nor IT'S poison can de-\nfend it. To the natural philosopher, this\nlittle animal is curious cxempliiicatlon OF\nthe principles of hydrostatics and othygrom-\netry, as its bladder is perhaps among the\nsubstances that can be used for the delicate\ninstruments Of the latter science. 10 the\nihysologist It has some importance as the\nrest of that class of beings, of which every\npart is endowed with an uncommonly strong\nprinciple of vitality, and which have there\nfore not improperly been called biola by Dr.\nHill. To a contemplatve mind, the won\nderful organization of the Physaiis must be\na new proof that hardly any great effort OF\nhuman Ingenuity, perseverance,, courage ana\nskill, is without duplicate of more astonlsh-\ning Workmanship, simplicity and sagacity,\nin beings coming from the hand OF the Au-\nthor of creation. If navigation is justly\ndeemed the most daring enterprise, 1T may\nbe considered as remedy against pride, to\nknow that there exists g worm, which an al\npowerful Providence has at once made a\nnavigator and ship, hydrostatic and pu-\nepneumatic engine, being destitute OF\nmind. and vet one that watches the winds\nand rides on the waves.\n\n\nThe great number of offences committed\non the Sabbath, have rendered III necessary",
+            "legibility": "Questionable",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 1552,
+                "y0": 914,
+                "x1": 1958,
+                "y1": 955
+            },
+            "class": "headline",
+            "raw_text": "NATURAL HISTORY.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": -1
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 2084,
+                "y0": 5027,
+                "x1": 2747,
+                "y1": 5150
+            },
+            "class": "article",
+            "raw_text": "In this Borough, on Sunday, the 18th inst. by\nthe Rev. Solomon Higgins, Mr.. CHARLES Stan\nLEY ir. to Miss MARY HARVEY, both OF Middle\ntown Nel.",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 2280,
+                "y0": 4970,
+                "x1": 2551,
+                "y1": 5015
+            },
+            "class": "headline",
+            "raw_text": "MARRIED..",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 63,
+                "y0": 1955,
+                "x1": 734,
+                "y1": 2784
+            },
+            "class": "article",
+            "raw_text": ".Nezp- York, Juty l4-Thc ship y. York\nCapt Bennett, from Liverpool, arrived last\nevening, bringing dates Of the 9th fro.n Lon\ndon, and the 7th from Liverpool And this\nmorning the ship Cortes, Capt, Spragne,\narrived from London. by which We have re\nceived says Commercial Advertiser, London\ndates to the Tth inclur:vc.\n\n\nMi. Gaming introduced his budget in Par.\nlament on the 1st OF June. A dt Heit in the\npublic revenue, with the practicabiity aud\nnecessity Of retrenchnents In expenditure,\nwere admitted.\n\n\nThe bill annul!ing the marriage of Miss\nTurner and l.. e.. Wakefield. passed the\nHouse of Lords on the 9th. and was likely\nto pass through the Commons with rapidi-\n\", as Mr.. Peel's suggestion to ADMIT the ev-\nidence taken before the Lords, was acceded\nto. Great indignation was felt against the Of\nfender.\n\n\nThe Queen Of Wirtcmberg. sister Of the\nKing OF England arrived at Greenwich, on\nJune 4th, where she was met by the Duke\nof Clarence.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 97,
+                "y0": 1847,
+                "x1": 704,
+                "y1": 1900
+            },
+            "class": "headline",
+            "raw_text": "r0REYGYJ OBSERVATION-DISCLOSURES.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": -2
+        },
+        {
+            "id": 33,
+            "bbox": {
+                "x0": 228,
+                "y0": 1912,
+                "x1": 578,
+                "y1": 1948
+            },
+            "class": "headline",
+            "raw_text": "FROM ENGLAND.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": -1
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 1430,
+                "y0": 148,
+                "x1": 2089,
+                "y1": 349
+            },
+            "class": "article",
+            "raw_text": "est bed, though it is not often more tllan twen-\nty-Gve feet deep. Lake st. Clair is shallow,\nscarce exceeding fur fathoms. Lake Huron,\nMichigan and Superior, are in places, nine hun\ndred feet deep, silking about three hundred\nbelow the level of tie ocean.",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        },
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 2759,
+                "y0": 3363,
+                "x1": 3422,
+                "y1": 3468
+            },
+            "class": "article",
+            "raw_text": "For the benefit of NEWARK College, Middletown\nAcademy, and Emmanuel Church.\n\n\nEIGHTH CLASS.",
+            "legibility": "Legible",
+            "full_article_id": 32,
+            "reading_order_id": 0
+        },
+        {
+            "id": 39,
+            "bbox": {
+                "x0": 2811,
+                "y0": 3306,
+                "x1": 3387,
+                "y1": 3359
+            },
+            "class": "headline",
+            "raw_text": "Delaware State Lottery,",
+            "legibility": "Legible",
+            "full_article_id": 32,
+            "reading_order_id": -1
+        },
+        {
+            "id": 34,
+            "bbox": {
+                "x0": 746,
+                "y0": 4879,
+                "x1": 1405,
+                "y1": 5049
+            },
+            "class": "article",
+            "raw_text": "Great sensation was protiuced IN Lonlon o,' VI\ntha 96,h in consequence of intelligence from N.\nWI, of the misunderstanding between the Bra\n,;Ia, and United States Governments, and tnat\nMr. Raruet had demanded his passports.",
+            "legibility": "Questionable",
+            "full_article_id": 35,
+            "reading_order_id": 0
+        },
+        {
+            "id": 35,
+            "bbox": {
+                "x0": 751,
+                "y0": 5079,
+                "x1": 1405,
+                "y1": 5376
+            },
+            "class": "article",
+            "raw_text": "letter from Caracas, dated June l5th says\n\"a messenger arrived last night IRON hoso.a. -\nCongress had met and refused 10 accep' '''' ''\nsignaton of BOLIVAR and SANrASnEn' , n;,.n had\n\n\nConstantinoplc dates say that the nVan nsa\n,o'nu,cnced carving into execution the prlncl-\noo col \"utcles of the treaty of Ackerman, and that\nthe p.. hest understanding prevailed between the\nporte and the Russian legation.",
+            "legibility": "Questionable",
+            "full_article_id": 36,
+            "reading_order_id": 0
+        },
+        {
+            "id": 36,
+            "bbox": {
+                "x0": 1417,
+                "y0": 5292,
+                "x1": 2072,
+                "y1": 5463
+            },
+            "class": "article",
+            "raw_text": "A letter of the Goth of April from Guayaqnil\nsaws. the United States sloop of war Peacock,\nwas off Guayaquil 10th April, bound to Payta,\nhad been struck by whale, and receihd good\ndeal of damage.",
+            "legibility": "Legible",
+            "full_article_id": 37,
+            "reading_order_id": 0
+        },
+        {
+            "id": 40,
+            "bbox": {
+                "x0": 71,
+                "y0": 2822,
+                "x1": 734,
+                "y1": 3198
+            },
+            "class": "article",
+            "raw_text": "CAPT. Pary.--T.etters have hscn recciv-\ned at the Admiralty, announcing the arrival\nOF the Hecla, on the 10Th of April, at Ham\nnerfest, in Norwegian Lapland. after a de-\nlighttul passage of Is days. The Reindeer\nfor tracking the boats to n certain distance\nover the ice was expected down from Alien\nin few days, when Capt. Parry would pro-\ncoed direct to the northcrmost part Of Sptz-\nbergen, where he hoped to arrive about the\nmiddle Of May.",
+            "legibility": "Legible",
+            "full_article_id": 41,
+            "reading_order_id": 0
+        },
+        {
+            "id": 41,
+            "bbox": {
+                "x0": 755,
+                "y0": 5401,
+                "x1": 1401,
+                "y1": 5481
+            },
+            "class": "article",
+            "raw_text": "Deoth of the american Lakss.-Lake Ere mas\n80. thirty ave fathoms of water above Its low-",
+            "legibility": "Legible",
+            "full_article_id": 42,
+            "reading_order_id": 0
+        },
+        {
+            "id": 42,
+            "bbox": {
+                "x0": 1417,
+                "y0": 5114,
+                "x1": 2072,
+                "y1": 5263
+            },
+            "class": "article",
+            "raw_text": "The great number of offences committed\nON the Sabbath, have rendered i'll necessary\nfor the corporation of Ncw-York p open the\npolice office on that day.",
+            "legibility": "Legible",
+            "full_article_id": 43,
+            "reading_order_id": 0
+        },
+        {
+            "id": 43,
+            "bbox": {
+                "x0": 80,
+                "y0": 3236,
+                "x1": 739,
+                "y1": 4213
+            },
+            "class": "article",
+            "raw_text": "The Thames Tunnei The large timber\nraft intended to lie OH the bed of the river,\nover the leak, was let down late on Wcdnes\nday evening. The engine was set to WORK\nas soon as it was ascertained that the raft\nlay on the bottom, and when they had sue\nceedcd in reducing the water some FIVE or\nSIX feet in the tannel, it was discovered that\nal further attic 'npts At reduction were use\nless. 1t was then tried whether by stopping\nhe working of the steam engine the height\nq the water in the tunnel and shaft would\nincrease or diminish, and the result was\ngradual, but unremltting increase. At an\nearIy hour yesterday, one or two descents in\nTie diving bell were made with view to\nsec the cause of the failure, and Mr. Brunei,\nINC younger, reported that the raft did not\nnc on the bed Of the river. that it had drift\ned some distance from the leakv spot. A.\nnong the many proposed plans to obviate\naz dangers, which are daily forwarded to\nme Directors, are to lay tarpaulips Of sufii-\n\n\ncent size, and to deposit round the edges\nquantity Of clay bags to keep them water\n\n\nWe learn from the latest papers, that\n\n\nAr. Brunei has made a favorable report as\n\n\n\"'he lat. leaks in the tunnel.",
+            "legibility": "Questionable",
+            "full_article_id": 44,
+            "reading_order_id": 0
+        },
+        {
+            "id": 45,
+            "bbox": {
+                "x0": 76,
+                "y0": 4012,
+                "x1": 739,
+                "y1": 5498
+            },
+            "class": "article",
+            "raw_text": "1eNt size, and to deposit round the edges\nquantity OF clay bags to keep them water\ntight.\n\n\nWe learn from the latest papers, that\nNr Brunei has made favorable report as\n\"'he lat- leaks in the tunnel.\n\n\nL9Ve III Reguited.--Lieut. Yates, X. n.\n'pneared at Marylebone street Office on sat\nstuay, to answer to a charge OF assaultlng\nas wife, an elegant dressed female, who\n'.a,eN that he had slapped her face, and ac-\nNaIy pulled her out of the bed by her legs\n-'he husbands defence was, that She had\nNovoked him to doit, for as they were ly-\nmS In hed he complained of its being extre-\naMey warm, and yet his wife insisted on put\n\"'S ler arms round his neck, which induc-\n\" nm to slap her face. The lieutenant\nGave bail.\n\n\nne bachelors, poor miserable souls, may\ns ss'.ve drop of comfort from the reflection\n\"'4' ehey can in this warm weather, repose\n,p\"' their short and narrow mattresses, and\nI4u'se III melancholy recollections OF other\nsas' nl balmy sleep rocks their senses IN\nhhVuuiness--no arms, pure and fresh as\nlister, to wind about their necks--no\ntan\"s lace or ROSY cheek to slap, and no\n4 VI Marylebone when they wake. This\n\"ScoNslmmation devoutly to be avoidcd.\"]\nnoo' \"\"Gn distress continues to prevail among the\nA Eoa lfish' Seven bags of flour were taken\nII a n,t carts passing in the road, near Dublin, by\n.bn\". bpmy OF haf-starved wretches, consisting OF\nl,u eallty men and seventy women and chill\nndt. , The bags were Immediately ripped open,\nhs. We s women and children filed their aprons,\nnos, hoe, &C. Some of the children began to eat it\nIii twna\"senously. The Morning Chronicle says,\nsr.'sh sr'. to England, typus fever and diseases\n%s,s %Ssa BY want of food, would soon do the b.\n\n\n\" the plague among them.",
+            "legibility": "Illegible",
+            "full_article_id": 46,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                28,
+                0
+            ],
+            "headline": "ACTIVE BENEVOLENCE.",
+            "article": "The citizens of Providence. Rhode Island,\nsays the New-York Christian Advocate,\nsent an agent to this city, last week. who\npurchased a quantity os DR.. Chambers\nmedicine, for the use of such unfortunate\nvictims of intemperance as are unable to\nprocure it themselves. The agent related\nto us several affecting instances of its res\ntoratlve powers. A man who had long beeu\nconfirmed drunkard, by using the med-\ncine four days, was thoroughly reclaimed,\nand is now perfectly temperate. and very\nIndustrious and respectable. Another. an\ningenious mechanic. who. in consequence OF\nhis incorporate habits, had forfeited the\nconfidence OF the public, has t;een restored\nto his family and to society, and is now\nproitaby employed, with several men nn-\nder his direction. Many other instances the\nagent mentioned ofts salutary effects, The\ncitizens of Providence have set an example\nwhich is worthy of universal imitation\nAnd it gives us pleasure to state, that the\nCaptain of tine steamboat Washington Of\nfered free passage to their agent, as soon\nas he understood the benevolent object oi\nhis mission",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 855,
+                    "y0": 618,
+                    "x1": 1336,
+                    "y1": 658
+                },
+                {
+                    "x0": 746,
+                    "y0": 657,
+                    "x1": 1414,
+                    "y1": 1556
+                }
+            ],
+            "bbox": [
+                746,
+                618,
+                1414,
+                1556
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-07-19_p3_sn85042523_00271740244_1827071901_0823.json"
+        },
+        {
+            "object_ids": [
+                38,
+                1
+            ],
+            "headline": "FOR SALE Al\nROBERTSON & LTTTLE'S\nLOTTERY OFFICE,",
+            "article": "in this Scheme formed by the ternary permu-\ntation of 80 numbers, and the drawing of four\nballots there will be \"a prizes with three of the\ndrawn numbers on them; $50 with two of them\non; and 1890 with one, only, Of them on.\n\n\nTO determine the fate Of the tickets in the\nscheme, the 80 numbers, from l to 3Oinclusive,\nwill be placed in the wheel on the day of the\ndrawing, and four of them be drawn OUT and\nthat ticket having on ii the 1st, Cd and Sd drawn\nnumbers in the order in which drawn, will be en-\ntitled to the prize of so,ooo\n\n\nThat having on it the 1st Sd and Cd IN s this\norder, to 4'Uoo\norder, TO ~'oo\"\norder, to ~'uoo\n''S Thst i having on it the Sd, Cd and lst, in this\nor,,er. \"a 1900\n''Is' That having on It the I'd, Sd and 4th. in this\nor,lcr, TO 1,556\n\n\nIII Thst having on it the ID, 4th and Sd, IN this this\no,,,er to $500\n'aSa' THAT having on it the sd. I'd and 18th, in mis-\norder, to looo\n\n\nThose three tickets having on them the same\nnumbers in any other order, each 500\n\n\nAll others with three of the drawe numbers\non them (being l2) each 100\n\n\nThese l56 tickets having on them the lst and\nCd drawn numbers, only, in either order, each so\n\n\nThose 1856 tickets having on them the Sd ami\n4th drawn, in either order, each -\n\n\nAll Others with two Of the drawn numbers on.\n(being 624) each\nAna all those tickets having one, orly. orthe\ndrawn numbers on tbeing 7S00) each >.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2798,
+                    "y0": 4090,
+                    "x1": 3370,
+                    "y1": 4178
+                },
+                {
+                    "x0": 2755,
+                    "y0": 4186,
+                    "x1": 3427,
+                    "y1": 5441
+                }
+            ],
+            "bbox": [
+                2755,
+                4090,
+                3427,
+                5441
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-07-19_p3_sn85042523_00271740244_1827071901_0823.json"
+        },
+        {
+            "object_ids": [
+                22,
+                2
+            ],
+            "headline": "Public Meeting.",
+            "article": "| Pursuant to public notice, large and respect\nable meeting of the Democratic Republican\nfriends of the Administration of the General Gov\nernmert in Newcastle County, assembled at\nthe Red Lion Inn on Saturday the 18th day Of\nJuly, when\n\n\nGen. WILLIAM CooCH, was called so the\nchair, and GIDEON JAoUEs, was appointed Sec\nretaiy.\n\n\nAfter very suitable and lucid EXPOSITION of the\nobject Of the meeting, by DR.. Arnold Naudain,\nII was, on motion,\n\n\nHeSolred, That Committee of five be ap.\npointed by the Chairman, for the purpose of re-\nporting resolutions for the consideration of this\nmeeting\n\n\nIn pursuance whereof, the chairman appoint\ncd Messrs. Arnold Naudain, Wm p. l,robson,\nJohn Higgins, VIM. Kennedy, and Alexander\nCrawford.\n\n\nThe committee reported the following resolu-\ntons, which, after some explanatory remarks.\nwere unanimously adopted.\n\n\nResoiuea, That We recognize in John Quincy\nAdams Statesman Of unquestioned abilities, of\ngreat experience and of rreproachable charac-\nter; who has enjoyed the confidence of WASH\nington, Jefferson, Madison and Monroe, in long\ncourse Of meritorous and active public service,\neminently calculated to prepare for the duties of\nthe first civil Office in the country; whose pri-\nvate life, in all its relations, presents example\n\n\n\n\n\noverlooked in the selection of Republican\nChief Magistrate; that in reviewing the measures\nOf his administration we can discover no act\nwhatever which do not meet our decided ap-\n| probation, and that we will, therefore, use all\nfair and honorable means to support his admins\ntraton, and to secure his reelection.\nRes0ioed, That the appointment of HeNry\nClay to the office of Secretary of State, was but\na tribute due to the high character, splendid\ntalents and ardent patriotism of that great and\ndistinguished Satesman--that the stale charge\nof corruption which has been founded upon that\nappointment, is contradcted by all we know of\nthe most eminent persons it concerns, and by all\nthe circumstances involved in the case, while it\nIL unsupported BY any evidence which would be\nadmitted to the prejudice ofany credi1able man\nin society.\n\n\nHesolOed, That the temperance, forbearance\nand iirmness displayed by the President of the\nUnited states towards the Governor OF Georgia.\nunder circumstances of provocaton and indigni-\nty Which we believe have had no parallel in the\nhistory Of our country, give him new titles to our\nregatd and appreciation.\n\n\nHesoiged, That William Cooch, John Ways\nWilliam =. Brobson, Robert Porter, Richard\nMansfield and William Kennedy be appointed r\ncommittee for the purpose of corresponding\nwith such committees may be appointed by\nthe Democratic Republican friends of the adj\nmnstraton in the respective counties of this\nState.\n\n\nAes0ived, That the proceedings of this meet.\ning be signed By the Chairman and Secretary.\nand published in the American Watchman, the\nDelaware Journal, and the Wilmingtonian.\n\n\nReso!rcd, That this meeting now adjourn to\nmeet at this place on Saturday, the first day Of\nSeptember next.\n\n\nwM. CooCH, Chairman.\n\n\nGIDEoN JAouEs, Secry.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2925,
+                    "y0": 853,
+                    "x1": 3283,
+                    "y1": 902
+                },
+                {
+                    "x0": 2763,
+                    "y0": 914,
+                    "x1": 3444,
+                    "y1": 3294
+                }
+            ],
+            "bbox": [
+                2763,
+                853,
+                3444,
+                3294
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-07-19_p3_sn85042523_00271740244_1827071901_0823.json"
+        },
+        {
+            "object_ids": [
+                25,
+                3
+            ],
+            "headline": "FOURTH OF JULY ACCIDEN rs.\nFrom the Phiiadelhhia Gazette.",
+            "article": "We learn that on Tuesday evening, the\ncaDtsin aud mate of vessel from Folly\nLanding, fought duel 7oith aces, on the\ndeck of their vessel. They hacked one an\notberin fine style; but some OF the specta-\ntors having little regard for this honorable\nmethod of settling disputes, had them carri-\ned before a magistrate.\n\n\nThe dangers to which many persons were\nexposed on Wednesday afternoon, were\nmuch greater than we were aware OF. A\nsteamboat that left the upper wharf at\nCamden, weathered the storm with difficult\nt. The water rushed into the cabin win\ndow, the awning was torn to rags, and a\ncompany of nearly two hundred persons,\nprincipally women and children. remained\nexposed during the whole the storm. 9th\ner steam and team boats were Oh the river,\nbut this appears to have been exposed to\nmost danger, as it was feared She would be\ndashed against the wharf, i'll which case she\nwould probably have sunk.\n\n\nA boat capsiZed near the Navy Yard, and\nIf five boys that were on board, three were\ndrowned. The editor Of the U. 5. Gazette\nsays that he witnessed the upsetting OF an\nother boat few minutes after 1t lett the\nwharf Two young men who were III It, got\non the keel and were saved.\n\n\nA young woman standing on the edge OF\nSouth street wharf, awaiting the approach\nof friend, was so much startled by the ex-\nposlon of cracker, which a mi schicvous\nboy threw at her feet, that she fell into the\nriver and was drowned before assistance\ncould be rendered.\n\n\nAt the celebration at Germantown, Pa. on\nthe Fourth If July, Mr.. Bnddey lost his\nhand. This accident, we understood, was\noccasionce by attempting to fire off can\nnon number of time in quick succession,\nwhereby the piece became so heated that\nthe man who had his fingcr on the touch\nhole was obliged to remove it, The explo-\nsion took place as soon as the atmosphe-\nric air came in contact WITH the heated pow\nder.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 115,
+                    "y0": 135,
+                    "x1": 700,
+                    "y1": 223
+                },
+                {
+                    "x0": 67,
+                    "y0": 230,
+                    "x1": 734,
+                    "y1": 1821
+                }
+            ],
+            "bbox": [
+                67,
+                135,
+                734,
+                1821
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-07-19_p3_sn85042523_00271740244_1827071901_0823.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "The present Pacha Jf Egypt was very iesirous\n70 obtain the luxury of eating ice, and there be-\ning no such thing in Egypt, Mr.. Salt, the Brit\nish Consul General sent to England for an appa-\nratus for making it. The machine was convey\ned on its arrival to the Pachas palace, and the\nNile water made use of for the purpose. Nah\nmond Ali, hung over the whole operation with\nthe most intense curiosity; and when, after sew\neral disappointments, large piece of real ice\nwas produced, he took it eagerly in his hands,\ndanced round the room for ~ like ch j, and\nthen ran into the iIarem, to snow it to his wives\nand ever luxuriatcs upon it.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 751,
+                    "y0": 148,
+                    "x1": 1418,
+                    "y1": 593
+                }
+            ],
+            "bbox": [
+                751,
+                148,
+                1418,
+                593
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-07-19_p3_sn85042523_00271740244_1827071901_0823.json"
+        },
+        {
+            "object_ids": [
+                32,
+                30,
+                21,
+                5
+            ],
+            "headline": "IlI.1 WEI .sE \"a csNsy ylgEAsa,\n\nDELAWARE ADVERTISER.\n\nThursday, July l9, 1927.",
+            "article": "A most shocking instance of savage tero-\ncity was perpetrated on Saturday last, in\nthis place, by the mother Of young girl\nassisted by a monster who had, tor some\ntime, resided as bo4rdrr in the house. l!\nappears that the mother, for some trivial Of\nfence, inflicted severe cOrporeal punishment\nupon the girl; and not being satisfied with\nwhat she had done. asked the gentleman To\nfinish the work; which, nothing loath, he un\ndertook; (for we hear he had repeatedly\ntried his hand at the same business,) and\nwith such effect did he ply his kicks and\ncuffs that the victim Of their cruelty died\nthe next day. a Coroner's inquest was\nheld upon the body, and verdict given that\nher death was caused by excessive beating.\nThe unfecling wretchcs have both been\nconsigned, by the proper authority, TO the\nCounty Jail. there to await punishment\nwhich IS justly due them",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 751,
+                    "y0": 1576,
+                    "x1": 1418,
+                    "y1": 1638
+                },
+                {
+                    "x0": 816,
+                    "y0": 1668,
+                    "x1": 1353,
+                    "y1": 1717
+                },
+                {
+                    "x0": 794,
+                    "y0": 1742,
+                    "x1": 1362,
+                    "y1": 1800
+                },
+                {
+                    "x0": 751,
+                    "y0": 1829,
+                    "x1": 1414,
+                    "y1": 2710
+                }
+            ],
+            "bbox": [
+                751,
+                1576,
+                1418,
+                2710
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-07-19_p3_sn85042523_00271740244_1827071901_0823.json"
+        },
+        {
+            "object_ids": [
+                29,
+                6
+            ],
+            "headline": "SPHINGGuNS.",
+            "article": "In one ofthe recent discussions in the British\nHouse of Lords on the Spring Gun Bill, Lord\nSuffield said-\"N longer ago than yesterday a\nnoble lord had informed him that a gentleman\nhad contryed very ingenius spring gun for his\nhouse, by which he Mad shot himself, his wife and\nhis daughter\" The Earl of Abingdon, in reply,\nsaid she could not help rising, as the noble Lord\nlooked at him so earnestly, toinfor.n their Lord\nships that he had not shot his wife and daughter\n\n\nA laugh.] lie wished also to state to the noble\nLord, that If he found him entering his house.\nhe would shoot him, and leave him to prove at\nterwarls that on entering it he intended no harm,\nand to find his remedy farb being shot\" Ia laugh",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1639,
+                    "y0": 383,
+                    "x1": 1876,
+                    "y1": 414
+                },
+                {
+                    "x0": 1430,
+                    "y0": 418,
+                    "x1": 2089,
+                    "y1": 894
+                }
+            ],
+            "bbox": [
+                1430,
+                383,
+                2089,
+                894
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-07-19_p3_sn85042523_00271740244_1827071901_0823.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "We have read with peculiar pleasure, the\nGrafton which was delivered on the 4th inst.\nat Dover, by Wan Huntingdon, Esq. The\ntalents of this gentleman are we'll known in\nthe Co1rts of Law Of our State, and We\nhope one day to see him occupying con-\nspicuous place in her councils. We Intended\nto have published some extracts from the\noraton. but as one of onr neighborlns prints\nhas already published it entire, we believe\nil has, before this. been generally read",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 751,
+                    "y0": 2740,
+                    "x1": 1410,
+                    "y1": 3202
+                }
+            ],
+            "bbox": [
+                751,
+                2740,
+                1410,
+                3202
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-07-19_p3_sn85042523_00271740244_1827071901_0823.json"
+        },
+        {
+            "object_ids": [
+                26,
+                9
+            ],
+            "headline": "NOTICE.",
+            "article": "Persons having claims against the estate OF\nABNER OTI.EY, decd, will please present\nthem, properly authenticated, for settlements\nand all persons Indebted to said estate, are re-\neiuested to discharge their accounts without dc\nlay to EZRA HoOPES, .admr.\n\n\nWilmington, 7th Mo. IL, 1897, ST. l.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2297,
+                    "y0": 5170,
+                    "x1": 2525,
+                    "y1": 5219
+                },
+                {
+                    "x0": 2084,
+                    "y0": 5227,
+                    "x1": 2743,
+                    "y1": 5450
+                }
+            ],
+            "bbox": [
+                2084,
+                5170,
+                2743,
+                5450
+            ],
+            "full_article_id": 10,
+            "id": "10_1827-07-19_p3_sn85042523_00271740244_1827071901_0823.json"
+        },
+        {
+            "object_ids": [
+                10
+            ],
+            "headline": "",
+            "article": "NATIONAL ROAD-The st. Clairsvllle,\nOhio, Gazette Of the 9TH inst. states the whole\nline of the National Road, between Canton,\n(Bridgcpor,) and Cambridge, distance Of a\nbout So miles, has been opened for the admis-\nsion of travelling of every description. The\nline from the river TO Fairvew, so miles is paved\nthst between Fairview and Cambridge is graded\nbut not paved.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2101,
+                    "y0": 666,
+                    "x1": 2760,
+                    "y1": 955
+                }
+            ],
+            "bbox": [
+                2101,
+                666,
+                2760,
+                955
+            ],
+            "full_article_id": 11,
+            "id": "11_1827-07-19_p3_sn85042523_00271740244_1827071901_0823.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "In Florida, Mr.. White has been chosen q\ndelegate 70 Congress by majority of about\n1000 oyer his opponent Mr.. GadsdeD.-It is\ncalculated by the increase in the number of\nvotes that Florida must have received an ac-\ncession of 1000 inhabitants since the last\nElection.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2101,
+                    "y0": 148,
+                    "x1": 2769,
+                    "y1": 384
+                }
+            ],
+            "bbox": [
+                2101,
+                148,
+                2769,
+                384
+            ],
+            "full_article_id": 12,
+            "id": "12_1827-07-19_p3_sn85042523_00271740244_1827071901_0823.json"
+        },
+        {
+            "object_ids": [
+                16,
+                12
+            ],
+            "headline": "GEEAEJT,MGS.",
+            "article": "GLEAIJINGss.\nThe body of female, holding all infant child\nin her arms was found in the Delaware on Satur\nday. They were, it is presumed, lost from one\nof tho boats on the afternoon Of the 4th instant\nThe body ola man, name unknown, was oh the\nsame day found in the river, near the Point\nhouse.\n\n\nIn the city ofNew-York there are at this time\npending before the four court no less than one\nthousand and sixty cases. There must have been\nsome obstruction in the course OF lazy to cause\nsuch an accumulation of troubles\nOn Monday the ID inst a fire broke out at An\ngustA Geo. which consumed seventeen houses in\nthe very centre of the city. All the merchants\nand shop keepers suffered more or less though\nmost of them were insured. This is the most\ndestructive fire that ever occurred in Augusta.\n\n\nA letter writer in the National lntelligencer,\nnvcighting against celebacy, says bachelors, |\nwonder any man should long be bachelor -\nWidowcrs have better excuses for not marry\ning\"\n\n\nA fellow by the name Of James Low, notorious\nin NcwYork as rec liver Of stolen goods, has\nlately been convicted of the offence He had\nfrequently been indicted beture but always Con.\ntrivcd to escape.\n\n\n| In 1921, iielginm had ninety-six cirH prisons,\nand .twenty-onc Mhtary: aud the NUMBER OF pris\noncrs amounted 10 TO-, ,55I, u ratio Of one prison.\ncr for every $40 inhabitants.\nJ Severe irosts were experienced in the district\nOf Quebec, on the night Of the 2tth and 25th d\nJune. The tender vegetables sustained consd\ncradle injury, and the leaves Of the forest trees\nbore testimony to the severity OF the cold\nThe present Attorney General Of England, in\nn speech relative to the Chanceiy Court, deliver\ned on the 22l Of May last, observed that there\nwere then six Thousand certiiicated Attorneys in\nthe country, each making, on an average, thou\nsand pounds sterling year by his profession.\n\n\nThe auction duties paid into the state treasury\nBY the Auctioneers OF Philadelphia for the last\nquarter, ending May, ii, amounted to S56,039\n81 cents\n\n\nII is said there are more than 400 billiard Ia.\nbles in Philadelphia, ami 500 in New-York.\n\n\nA machine has been invented for making brick\nwith great facility. One horse, by turning .\nwheel, makes or strikes bricks as fast as three or\nfour persons can remove and place them. Two\npersons supply the clay, one washes the iuoulds.\n\n\nThe Roman Catholic Priests, and the lnylncn,\nOf twelve towns, in Silcsia, have pettionei for\nleave TO use bibles, and to say their prayers and\nsing their hymns in the German language, and\nalso that the Priests may be permitted 10 marry.\n\n\nMr. CL,Y reached his home near Lexington\n\n\n\npublic dinner is announced TO be given him ON\nthe 18th July\n\n\nAccording to the official register Of the u. s.\nNavy, there are 73l officers in that service, VIZ;\n81 Captains, % Masters Commandanis, 22S\nIieutcnants, ~ Surgeons, 40 Surgeons mates,\nIS Pursels, Chaplains, and ga Milshpmen.\n\n\nThe Ohio River at Wheeling was four and a\nhalf feet above low water mark on Saturday\nweek.\n\n\nThe Boston Palladium, rcmarking upon the\nsale Of Teas at Halifax, as reported IN the Pltri-\not yesterday, says-\"the prces are lower than\nthose in the United States--it follows that to\npreserve our commerce, our duties on Teas\nought to be reduced\"\n\n\nNoLrA, one of the most celebrated phlloso-\npliers of the age died lately, in ltai, at the age\nof eighty-two. lie was at the head Of the Uni\nvcrsity of pavia.\n\n\nPhiladelphia has population of $50, 900; N.\nYork l70,0o0 and Baltimore 10000 inhabitants.\n\n\nNJ. Onis, formerly minister of Spain to the\nu. States, and ambassador of Naples under\nthe Constitutional Government, had died at\nMadrid.\n\n\nThe steamboat Chippewa, which plies\nbetween Black Rock and Chippewa, caught\nfire on the 2Sth ult. two miles above the falls\nOf Niagara. The flames were extinguishcd\nwith difficulty.\n\n\nA Kentucky paper in speaking of isaac\nB. DeSha, say:-\"lsaac looks as well as he\ndid before he cut his throat, though not quite\nso flcshy. He breathes through tube in\nwhich he makes considerable wheezng.\"\n\n\nErhenees Of Delegates 10 Harris6urg.-\nIn Vermont. money for the above object is\nraised by contributions, and the Clerks OF\nthe Court receive it.\n\n\nJohn M'Lean, now Postmaster General, is\nnominated for the Vice Presidency In the\nCincinnati Gazette.\n\n\n1t is stated that President Ho,ley, late Of\nTrannsylyanii University, has abandoned\nhis contemplated tour to Europe, and is a\nbout 10 take charge of \"a seminary in New\nOrleans.\n\n\nJOIN BucKrEp, NJ d. adjunct Professor OF A.\nnatomy in the University OF Maryland, has been\nelected to the profcssorship of Sar-\ngerry in that Institution, vacated BY the reslgna-\nton of Granville Sharpe Pattison, ESD.\n\n\nThe committee Of the Royal Academy of Sci\ncnces at Paris, appointed to allot certain premi-\nums for improvements in the medical art, have\nassigned one Of ten thousand francs to Acssrs,\nPeletirc and Caventon for their important la\nbours relative to the sulphat of Quininc.\n\n\nThe prize of ~urgery, Of ten thousan francs,\nhas been bestowed on DR.. CIyIALE for his new\nmode of operating for the stone.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2236,
+                    "y0": 980,
+                    "x1": 2608,
+                    "y1": 1033
+                },
+                {
+                    "x0": 2093,
+                    "y0": 984,
+                    "x1": 2751,
+                    "y1": 4980
+                }
+            ],
+            "bbox": [
+                2093,
+                980,
+                2751,
+                4980
+            ],
+            "full_article_id": 13,
+            "id": "13_1827-07-19_p3_sn85042523_00271740244_1827071901_0823.json"
+        },
+        {
+            "object_ids": [
+                27,
+                13
+            ],
+            "headline": "ISr tie U5lmiag'on,aa.",
+            "article": "Mr.. Ejiitor-In your last paper observe\nletter Of advice to the Watering Commit\ntee, but as those gentlemen will doubtless have\nenough to attend to without noticing the\nwh,ms oil every theorist who chooses to push\nforward his opinion, will undertake to in\nform your correspondent @ that he is 1T\ntie mistaken. He informs the Committee\nthat eve are entitled by the purchase to all\nthe water that can flow through certain\naperture, say 1o5 inches;\" this, believe, is\nnot the fact--the power Of the mill is not dc\nfined in that way, but if my information be\ncorrect the mill is allowed a good and suth-\ncient head of water for driving a stone of GER\ntain dimensions, w..h the necessary ma\nchinery for manufacturing -four. AS the case\n\n\nis thus circumstanced, and the power OF the\nmill thus defined, the Committee would not\nbe warrantable in taking the water until al\nter il had been expended on the wheel; and\nas the pump will only have to lift the water\nbv atmospheric pressure about four feet,\ncan see no serious difficulty in the case.\ncannot see that it will make the machinery\nmuch more complicated, or any more ex-\npensiye. If the water wheel cxert5 the\nsame power on the pump that it formerly\ndid on the mill stone, it is all the Committee\nhave any right to expect; and the quantity\nof water furnished they must DC sa'lsaea\nwith, be it more or less.\n\n\nAs to the plan that has been adopted,\nhave no doubt the Committee have taken\nthe advice of those much better qualified to\niudee than / am, and perhaps as weli as\nYOUR correspondent Q. himself I.\n\n\nJuly IA.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 908,
+                    "y0": 3232,
+                    "x1": 1257,
+                    "y1": 3272
+                },
+                {
+                    "x0": 746,
+                    "y0": 3284,
+                    "x1": 1410,
+                    "y1": 4853
+                }
+            ],
+            "bbox": [
+                746,
+                3232,
+                1410,
+                4853
+            ],
+            "full_article_id": 14,
+            "id": "14_1827-07-19_p3_sn85042523_00271740244_1827071901_0823.json"
+        },
+        {
+            "object_ids": [
+                14
+            ],
+            "headline": "",
+            "article": "Two young women, daughters of Mr.. Staf-\nford of fAlachuahender, Florida, were recent\nly burned to death by the explosion of a cask\nOF Whiskey from which they were drawing\nthe fire was communicated from the can\ndie.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2101,
+                    "y0": 422,
+                    "x1": 2764,
+                    "y1": 628
+                }
+            ],
+            "bbox": [
+                2101,
+                422,
+                2764,
+                628
+            ],
+            "full_article_id": 15,
+            "id": "15_1827-07-19_p3_sn85042523_00271740244_1827071901_0823.json"
+        },
+        {
+            "object_ids": [
+                24,
+                15
+            ],
+            "headline": "NATURAL HISTORY.",
+            "article": "\n\n\ngrass. hopper, which ilutters with So much\nyivacity through our meadows during the\nautumn, feeds upon vegetable matter. and\ndeposits its eggs upon vegetables, tor the\npurpose OF being supported until maturetl.--\nBefore the grass-hopper takes wing, anoth-\nvr insect, the ichneumon, alights upon its\nbody, and thrusts under its skin number of\nits eggs, by means OF tubular awl. shap\nri uyiduct. These eggs slowly acquire per-\n/ tectinn, become living worms, and feed up\non the body Of the hap!eis grass-hopper, un-\n! I'll themselves are II ady to take wing. So\nadmirably do they perform their office, that\nthey 90 not injure the vital organs of the IN\nsect they are internally Sevo' ,iGg, until they\nare Just ready to change their state; and At\nthe proper season, hundreds of grass-hop\npers, in this condition have Just strength\nenough rcniaiung to autter to a tree or\nfence, and with Il dyingo fort Fix their book\n\n\ned feet SO iirmiy as to retain their position\nlong after death. Examine thcir bodies 1T\ntnl, season, and you will find IN empty shell,\nr one filled with large and active worms,\n! just ready TO burs. their coverings aud be-\ncone winged insects\n\n\n| lac recently p'Ibiishcd number OF the\nI North American Retiew supplies us with\n!\n! little kNowu to common readers, though said\nto be familiar to the sight Of those who nav-\nigatc between the tropics, the beautiful and\ncnignatical insect, commonly called the l'or-\ntugurzc man-of- war. 1t is from memoir\nTo Doctor Tlosns who accompanied Mr.. de\nKruscnstcrp, in his voyage round the world.\n\n\n\"Ihis singular animal hid several times\nbeen delineatcd, described, and endowed\nwith names, yet not only its denominations\nwere various. but also the nature and char\nactcristics asrubed to it. According to\nsome it was Poiypus. according to others\na Ioophyte, and others ranged ii among the\nMullusca. Naturalists who followed in the\nsteps of Lime, have called it the Physalis.\nWonderful as are all the works oil Provi-\ndence, admirably fitted as are the several\nparts Of each created being for their sever\nal functions, complex in their composition as\nthey at first seem, while vet they are always\nfound to be really so simple and situable in\ntheir action, on a nearer investigation. we\nmay, nevertheless, venture to rank this lit\ntie animated creat\"re among the most curl.\nous phenomenal. A worm between and s\ninches in length, which is found but in cer-\ntain latitudcs, has seemingly the skill and\nknowledge OF an experienced navigator, and\nis in itself Little 81 ip. Its evolutons are\naccording t@ the winds; il r Asses and lowers\nIt's sal, which is a membrane provided with\nclevating and depressingprg ans. When nj\nled with air, it is SO light, that it swims on\nthe surface OF alcohol. and is at the same\ntime provided with structure. which fur\nnishes It witn the necessary ballast.\n\n\nWhen ,irh winds would endaDgcr its ex-\niStence, it tlescends into the deep, and is new\ne, Sc en- on tie surface Of the water. From the\nunder side ef the body proceed tubes, which\nextend twenty feet in length, and are SO\nelastic and delicate, that they wind IN sPi-\nraj form like screw, serving at once as an\nchors, defensive ard Offensive weapons. pu-\ncunatic tubes and ferlels. The insect has\nthe colcrs of the rainbow; its crest, which\nperforms the office of sail, IS intersectcd\nwith pink and blue veins, trimmed with\nrosy border, and swells with the wind, or at\nthe animals pleasure. The iibres contain\na viscous matter, which has the properly OF\nstinsing like uettles, and produces pustli!es.\n1t acts so strongly, that vessels ~ which\nthey have been kept for time must be re-\npeatcdly washed before they can be used\nThese !ibrcs NAV be cut Of without dcpriv-\ning them or the rest of the insect OF the prin-\ncipe of life; and the separation takes place\nspontaneously, whenever the glutinous mat\nter comes in contact with a hard surface,\nlike the sides Of glass globe. The insect\nhas, however, dangerous enemies in small\ndolphins, aud medes2, against which nei-\nther It's nautical skill nor IT'S poison can de-\nfend it. To the natural philosopher, this\nlittle animal is curious cxempliiicatlon OF\nthe principles of hydrostatics and othygrom-\netry, as its bladder is perhaps among the\nsubstances that can be used for the delicate\ninstruments Of the latter science. 10 the\nihysologist It has some importance as the\nrest of that class of beings, of which every\npart is endowed with an uncommonly strong\nprinciple of vitality, and which have there\nfore not improperly been called biola by Dr.\nHill. To a contemplatve mind, the won\nderful organization of the Physaiis must be\na new proof that hardly any great effort OF\nhuman Ingenuity, perseverance,, courage ana\nskill, is without duplicate of more astonlsh-\ning Workmanship, simplicity and sagacity,\nin beings coming from the hand OF the Au-\nthor of creation. If navigation is justly\ndeemed the most daring enterprise, 1T may\nbe considered as remedy against pride, to\nknow that there exists g worm, which an al\npowerful Providence has at once made a\nnavigator and ship, hydrostatic and pu-\nepneumatic engine, being destitute OF\nmind. and vet one that watches the winds\nand rides on the waves.\n\n\nThe great number of offences committed\non the Sabbath, have rendered III necessary",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1552,
+                    "y0": 914,
+                    "x1": 1958,
+                    "y1": 955
+                },
+                {
+                    "x0": 1422,
+                    "y0": 1049,
+                    "x1": 2085,
+                    "y1": 5189
+                }
+            ],
+            "bbox": [
+                1422,
+                914,
+                2085,
+                5189
+            ],
+            "full_article_id": 16,
+            "id": "16_1827-07-19_p3_sn85042523_00271740244_1827071901_0823.json"
+        },
+        {
+            "object_ids": [
+                18,
+                17
+            ],
+            "headline": "MARRIED..",
+            "article": "In this Borough, on Sunday, the 18th inst. by\nthe Rev. Solomon Higgins, Mr.. CHARLES Stan\nLEY ir. to Miss MARY HARVEY, both OF Middle\ntown Nel.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2280,
+                    "y0": 4970,
+                    "x1": 2551,
+                    "y1": 5015
+                },
+                {
+                    "x0": 2084,
+                    "y0": 5027,
+                    "x1": 2747,
+                    "y1": 5150
+                }
+            ],
+            "bbox": [
+                2084,
+                4970,
+                2747,
+                5150
+            ],
+            "full_article_id": 18,
+            "id": "18_1827-07-19_p3_sn85042523_00271740244_1827071901_0823.json"
+        },
+        {
+            "object_ids": [
+                23,
+                33,
+                19
+            ],
+            "headline": "r0REYGYJ OBSERVATION-DISCLOSURES.\n\nFROM ENGLAND.",
+            "article": ".Nezp- York, Juty l4-Thc ship y. York\nCapt Bennett, from Liverpool, arrived last\nevening, bringing dates Of the 9th fro.n Lon\ndon, and the 7th from Liverpool And this\nmorning the ship Cortes, Capt, Spragne,\narrived from London. by which We have re\nceived says Commercial Advertiser, London\ndates to the Tth inclur:vc.\n\n\nMi. Gaming introduced his budget in Par.\nlament on the 1st OF June. A dt Heit in the\npublic revenue, with the practicabiity aud\nnecessity Of retrenchnents In expenditure,\nwere admitted.\n\n\nThe bill annul!ing the marriage of Miss\nTurner and l.. e.. Wakefield. passed the\nHouse of Lords on the 9th. and was likely\nto pass through the Commons with rapidi-\n\", as Mr.. Peel's suggestion to ADMIT the ev-\nidence taken before the Lords, was acceded\nto. Great indignation was felt against the Of\nfender.\n\n\nThe Queen Of Wirtcmberg. sister Of the\nKing OF England arrived at Greenwich, on\nJune 4th, where she was met by the Duke\nof Clarence.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 97,
+                    "y0": 1847,
+                    "x1": 704,
+                    "y1": 1900
+                },
+                {
+                    "x0": 228,
+                    "y0": 1912,
+                    "x1": 578,
+                    "y1": 1948
+                },
+                {
+                    "x0": 63,
+                    "y0": 1955,
+                    "x1": 734,
+                    "y1": 2784
+                }
+            ],
+            "bbox": [
+                63,
+                1847,
+                734,
+                2784
+            ],
+            "full_article_id": 20,
+            "id": "20_1827-07-19_p3_sn85042523_00271740244_1827071901_0823.json"
+        },
+        {
+            "object_ids": [
+                20
+            ],
+            "headline": "",
+            "article": "est bed, though it is not often more tllan twen-\nty-Gve feet deep. Lake st. Clair is shallow,\nscarce exceeding fur fathoms. Lake Huron,\nMichigan and Superior, are in places, nine hun\ndred feet deep, silking about three hundred\nbelow the level of tie ocean.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1430,
+                    "y0": 148,
+                    "x1": 2089,
+                    "y1": 349
+                }
+            ],
+            "bbox": [
+                1430,
+                148,
+                2089,
+                349
+            ],
+            "full_article_id": 21,
+            "id": "21_1827-07-19_p3_sn85042523_00271740244_1827071901_0823.json"
+        },
+        {
+            "object_ids": [
+                39,
+                31
+            ],
+            "headline": "Delaware State Lottery,",
+            "article": "For the benefit of NEWARK College, Middletown\nAcademy, and Emmanuel Church.\n\n\nEIGHTH CLASS.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2811,
+                    "y0": 3306,
+                    "x1": 3387,
+                    "y1": 3359
+                },
+                {
+                    "x0": 2759,
+                    "y0": 3363,
+                    "x1": 3422,
+                    "y1": 3468
+                }
+            ],
+            "bbox": [
+                2759,
+                3306,
+                3422,
+                3468
+            ],
+            "full_article_id": 32,
+            "id": "32_1827-07-19_p3_sn85042523_00271740244_1827071901_0823.json"
+        },
+        {
+            "object_ids": [
+                34
+            ],
+            "headline": "",
+            "article": "Great sensation was protiuced IN Lonlon o,' VI\ntha 96,h in consequence of intelligence from N.\nWI, of the misunderstanding between the Bra\n,;Ia, and United States Governments, and tnat\nMr. Raruet had demanded his passports.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 746,
+                    "y0": 4879,
+                    "x1": 1405,
+                    "y1": 5049
+                }
+            ],
+            "bbox": [
+                746,
+                4879,
+                1405,
+                5049
+            ],
+            "full_article_id": 35,
+            "id": "35_1827-07-19_p3_sn85042523_00271740244_1827071901_0823.json"
+        },
+        {
+            "object_ids": [
+                35
+            ],
+            "headline": "",
+            "article": "letter from Caracas, dated June l5th says\n\"a messenger arrived last night IRON hoso.a. -\nCongress had met and refused 10 accep' '''' ''\nsignaton of BOLIVAR and SANrASnEn' , n;,.n had\n\n\nConstantinoplc dates say that the nVan nsa\n,o'nu,cnced carving into execution the prlncl-\noo col \"utcles of the treaty of Ackerman, and that\nthe p.. hest understanding prevailed between the\nporte and the Russian legation.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 751,
+                    "y0": 5079,
+                    "x1": 1405,
+                    "y1": 5376
+                }
+            ],
+            "bbox": [
+                751,
+                5079,
+                1405,
+                5376
+            ],
+            "full_article_id": 36,
+            "id": "36_1827-07-19_p3_sn85042523_00271740244_1827071901_0823.json"
+        },
+        {
+            "object_ids": [
+                36
+            ],
+            "headline": "",
+            "article": "A letter of the Goth of April from Guayaqnil\nsaws. the United States sloop of war Peacock,\nwas off Guayaquil 10th April, bound to Payta,\nhad been struck by whale, and receihd good\ndeal of damage.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1417,
+                    "y0": 5292,
+                    "x1": 2072,
+                    "y1": 5463
+                }
+            ],
+            "bbox": [
+                1417,
+                5292,
+                2072,
+                5463
+            ],
+            "full_article_id": 37,
+            "id": "37_1827-07-19_p3_sn85042523_00271740244_1827071901_0823.json"
+        },
+        {
+            "object_ids": [
+                40
+            ],
+            "headline": "",
+            "article": "CAPT. Pary.--T.etters have hscn recciv-\ned at the Admiralty, announcing the arrival\nOF the Hecla, on the 10Th of April, at Ham\nnerfest, in Norwegian Lapland. after a de-\nlighttul passage of Is days. The Reindeer\nfor tracking the boats to n certain distance\nover the ice was expected down from Alien\nin few days, when Capt. Parry would pro-\ncoed direct to the northcrmost part Of Sptz-\nbergen, where he hoped to arrive about the\nmiddle Of May.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 71,
+                    "y0": 2822,
+                    "x1": 734,
+                    "y1": 3198
+                }
+            ],
+            "bbox": [
+                71,
+                2822,
+                734,
+                3198
+            ],
+            "full_article_id": 41,
+            "id": "41_1827-07-19_p3_sn85042523_00271740244_1827071901_0823.json"
+        },
+        {
+            "object_ids": [
+                41
+            ],
+            "headline": "",
+            "article": "Deoth of the american Lakss.-Lake Ere mas\n80. thirty ave fathoms of water above Its low-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 755,
+                    "y0": 5401,
+                    "x1": 1401,
+                    "y1": 5481
+                }
+            ],
+            "bbox": [
+                755,
+                5401,
+                1401,
+                5481
+            ],
+            "full_article_id": 42,
+            "id": "42_1827-07-19_p3_sn85042523_00271740244_1827071901_0823.json"
+        },
+        {
+            "object_ids": [
+                42
+            ],
+            "headline": "",
+            "article": "The great number of offences committed\nON the Sabbath, have rendered i'll necessary\nfor the corporation of Ncw-York p open the\npolice office on that day.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1417,
+                    "y0": 5114,
+                    "x1": 2072,
+                    "y1": 5263
+                }
+            ],
+            "bbox": [
+                1417,
+                5114,
+                2072,
+                5263
+            ],
+            "full_article_id": 43,
+            "id": "43_1827-07-19_p3_sn85042523_00271740244_1827071901_0823.json"
+        },
+        {
+            "object_ids": [
+                43
+            ],
+            "headline": "",
+            "article": "The Thames Tunnei The large timber\nraft intended to lie OH the bed of the river,\nover the leak, was let down late on Wcdnes\nday evening. The engine was set to WORK\nas soon as it was ascertained that the raft\nlay on the bottom, and when they had sue\nceedcd in reducing the water some FIVE or\nSIX feet in the tannel, it was discovered that\nal further attic 'npts At reduction were use\nless. 1t was then tried whether by stopping\nhe working of the steam engine the height\nq the water in the tunnel and shaft would\nincrease or diminish, and the result was\ngradual, but unremltting increase. At an\nearIy hour yesterday, one or two descents in\nTie diving bell were made with view to\nsec the cause of the failure, and Mr. Brunei,\nINC younger, reported that the raft did not\nnc on the bed Of the river. that it had drift\ned some distance from the leakv spot. A.\nnong the many proposed plans to obviate\naz dangers, which are daily forwarded to\nme Directors, are to lay tarpaulips Of sufii-\n\n\ncent size, and to deposit round the edges\nquantity Of clay bags to keep them water\n\n\nWe learn from the latest papers, that\n\n\nAr. Brunei has made a favorable report as\n\n\n\"'he lat. leaks in the tunnel.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 80,
+                    "y0": 3236,
+                    "x1": 739,
+                    "y1": 4213
+                }
+            ],
+            "bbox": [
+                80,
+                3236,
+                739,
+                4213
+            ],
+            "full_article_id": 44,
+            "id": "44_1827-07-19_p3_sn85042523_00271740244_1827071901_0823.json"
+        },
+        {
+            "object_ids": [
+                45
+            ],
+            "headline": "",
+            "article": "1eNt size, and to deposit round the edges\nquantity OF clay bags to keep them water\ntight.\n\n\nWe learn from the latest papers, that\nNr Brunei has made favorable report as\n\"'he lat- leaks in the tunnel.\n\n\nL9Ve III Reguited.--Lieut. Yates, X. n.\n'pneared at Marylebone street Office on sat\nstuay, to answer to a charge OF assaultlng\nas wife, an elegant dressed female, who\n'.a,eN that he had slapped her face, and ac-\nNaIy pulled her out of the bed by her legs\n-'he husbands defence was, that She had\nNovoked him to doit, for as they were ly-\nmS In hed he complained of its being extre-\naMey warm, and yet his wife insisted on put\n\"'S ler arms round his neck, which induc-\n\" nm to slap her face. The lieutenant\nGave bail.\n\n\nne bachelors, poor miserable souls, may\ns ss'.ve drop of comfort from the reflection\n\"'4' ehey can in this warm weather, repose\n,p\"' their short and narrow mattresses, and\nI4u'se III melancholy recollections OF other\nsas' nl balmy sleep rocks their senses IN\nhhVuuiness--no arms, pure and fresh as\nlister, to wind about their necks--no\ntan\"s lace or ROSY cheek to slap, and no\n4 VI Marylebone when they wake. This\n\"ScoNslmmation devoutly to be avoidcd.\"]\nnoo' \"\"Gn distress continues to prevail among the\nA Eoa lfish' Seven bags of flour were taken\nII a n,t carts passing in the road, near Dublin, by\n.bn\". bpmy OF haf-starved wretches, consisting OF\nl,u eallty men and seventy women and chill\nndt. , The bags were Immediately ripped open,\nhs. We s women and children filed their aprons,\nnos, hoe, &C. Some of the children began to eat it\nIii twna\"senously. The Morning Chronicle says,\nsr.'sh sr'. to England, typus fever and diseases\n%s,s %Ssa BY want of food, would soon do the b.\n\n\n\" the plague among them.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 76,
+                    "y0": 4012,
+                    "x1": 739,
+                    "y1": 5498
+                }
+            ],
+            "bbox": [
+                76,
+                4012,
+                739,
+                5498
+            ],
+            "full_article_id": 46,
+            "id": "46_1827-07-19_p3_sn85042523_00271740244_1827071901_0823.json"
+        }
+    ]
+}

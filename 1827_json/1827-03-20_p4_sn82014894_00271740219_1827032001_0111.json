@@ -1,0 +1,1376 @@
+{
+    "lccn": {
+        "title": "American watchman and Delaware advertiser.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2576-7445",
+        "lccn": "sn82014894",
+        "start_year": "1822",
+        "end_year": "1828",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [
+            "sn82014895"
+        ],
+        "successors": [
+            "sn82014393"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn82014894",
+        "edition": "ed-01",
+        "date": "1827-03-20",
+        "pages": [
+            "seq-2",
+            "seq-3",
+            "seq-1",
+            "seq-4"
+        ]
+    },
+    "page_number": "4",
+    "scan": {
+        "lccn": "sn82014894",
+        "edition": "ed-01",
+        "date": "1827-03-20",
+        "page": "4",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn82014894/1827-03-20/ed-1/seq-4.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn82014894/1827-03-20/ed-1/seq-4/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn82014894/1827-03-20/ed-1/seq-4/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn82014894/00271740219/1827032001/0111.jp2",
+        "height": 5624,
+        "width": 3544
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 1820,
+                "y0": 311,
+                "x1": 2638,
+                "y1": 1209
+            },
+            "class": "article",
+            "raw_text": "No los, Market Street, Wilmington.\nTTAyE been appointed sole Agents in the State OF Deia\nI'll ware for the sale of Odridges Chemical Balm q 60,\nm which from Tree found IN the wds sna\nnertnmc and II, grand capillary virtues follows\nOne bottle, price 50 CENTS prevents the hair from falling\noff in 48 hours from its first applications or causes new\ngrowth of whiskers in few weeks bottle. price -\nGents, will not only stop the hair from falling off, bu, like\nwise in three weeks new growth to appear ana\none Sl gives general good head OF hair to young\nperson.\n\n\n1t hair from turning gray, and makes curl\nbeautifully look bright and glossy, and in few apphca\ntons frees from scur and entirely removes nervous head\naches.\n\n\ns by repeated experiments found to bear every sort OF\nclimate, without the least injury TO its virtues\n\n\nCopies Of certificates will be shown by the yenders IRON\ngentlemen who, after being bald number OF years, have\nreceived growth OF hair.\n\n\nThe signers characters supported by His Britannc\nMajesty, Consul, Philadelphia who thereto has pichxed\nhis sc and the royal of Great Brtain ALSO the Mayor\nand other Mag sates OF Philadelphia, who were personal\n\" acquainted with the sgners, have certified 10 their high\nresponsibility, and have likewise prefxed their seals\nOctober 90, 1895.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 1908,
+                "y0": 210,
+                "x1": 2524,
+                "y1": 277
+            },
+            "class": "headline",
+            "raw_text": "BALM OF COLUMBIA.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -2
+        },
+        {
+            "id": 47,
+            "bbox": {
+                "x0": 2075,
+                "y0": 281,
+                "x1": 2370,
+                "y1": 308
+            },
+            "class": "author",
+            "raw_text": "A. & H. WILSON,",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2677,
+                "y0": 4617,
+                "x1": 3477,
+                "y1": 5396
+            },
+            "class": "article",
+            "raw_text": "TsE following described knees are wanted at The Phia\ndeipha May Yard tor which the prices annexed will\nbe pad on delivery They must be of the best white oak\nand delivered in the course of the year 1897\n\n\nKNEES-Body and arm fee, 6 inches. diameter of the\narm clear OF bark - nches side when completely fin\nlshed in the ship 10 inches, be square and in square in\nshape price dollars.\n\n\nKSEEs-Body z feet inches, arm S feet 6 inches\ndiameter ct the clear of bark - inches to side when\ncompletely finished in the ship 81 inches, 10 be square ID\nshape price dollars and so cents\n\n\nkNEES-Body feet inches $ arm feet 6 inches d.\nameter OF the clear Of bark 10 inches to side when\ncompletely finished in he ship inches, ,c be square ant\nin square in shape: price dollars.\n\n\nksfEs-b1dy feet, arm feet inches, diameter q\nThe arm clear Of bark Is inches to side when completely\nnmsiea IN ne hip 70 inches, q be square in shape pse\n\n\nhNEES-B'.y feet, arm feet inches, diameter q\nthe arm clear of bark 3 inches 10 side when conpeeb\nhnshea N The ship inches 10 be square in shape prs\nNavy Asent's Office. PHILADELPHIA Feb. Il e,--.",
+            "legibility": "Questionable",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 37,
+            "bbox": {
+                "x0": 2888,
+                "y0": 4565,
+                "x1": 3297,
+                "y1": 4614
+            },
+            "class": "headline",
+            "raw_text": "SHIP TIMBER.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 203,
+                "y0": 2623,
+                "x1": 1008,
+                "y1": 3045
+            },
+            "class": "article",
+            "raw_text": "ID AN AWAY from the subscriber living bohemia\nIi Manor, Cecil county. MARYLAND on the 27h u i\nBlack MAN. named IiC, g Years old, supposed 10 be\nnearly feet high healthy active, aud good hand on\nfarm lie took with lima fur hat half worn, ,wo coats,\npantaoens two oT three wascYas Of which Vas gra,\nelath.\nssac went away on pretencc q looking for place nasr\nEktcn The above Toward VIII be paid for his anpr chen\nso in any jail so that get him again, and all reasonable\nexpenses viii be paid if he is brought home.\n\n\nJAMES CRAIG.\nGown Point Bohemia Manor, March 8, las7 go",
+            "legibility": "Questionable",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 225,
+                "y0": 2561,
+                "x1": 968,
+                "y1": 2615
+            },
+            "class": "headline",
+            "raw_text": "FIFTY DOLLARS REWARD",
+            "legibility": "Questionable",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1011,
+                "y0": 931,
+                "x1": 1821,
+                "y1": 3146
+            },
+            "class": "article",
+            "raw_text": "Nathaniel Lghtner, Esq Mayor of the city OF Lancaster\nand being duly sworn or affirmed seseraly dePosed ahd\ndeclared that they had made of Dr. Clarkson Free\nmans Cough Drops, Cor Indian Specic) upon themselves\nwith the greatest for the curing OF coughs, Colds\nashmas, consumptons, splitting OF blood and diseases o.\nfects complete and ntaibc, will fully appear by the\nfollowing testimony Of those who have used them.\n\n\nMARTIN LIGHT, Of Lancaster aged 50 years. long time\ngrievosy afflicted with violent cough, pam and stitches\nin his sides and breast, splitting of matter from his lungs\nnight and hectic fever, and much emaclated and\nhis life despared of, completely cured by using bot\nties, better than years aud remains well as 70 he\ndisease Of his breast and lungs affirmed and subscIbedto\n\n\nApril 9TH, 1896\n\n\nSamuel Dennis aged S. of Strasburg township, Martin\nKaymer, aged 4l years, of Conestoga township, long\nlime exceeding l.-Isaac Broom aged 27 years, of the\nCity of Lancasteicured by using three bnttes-Chares\nblanchard, aged IS years. Donegal township-cuied BY\nusing bottles christian Hess aged 42 years. OF a\nnor Township, by using bottles Richard John\nson, aged 80 years. of Donegal township, Jacob Wilhelm\naged ID years of the City Of Lancaster, G ID Lowe, Of\nthe City Of Lancas.er,Joseph Rlr, aged 40 years, Of\ns,rasbug townships kaher, aged l6 years, Of\nMlersoWn, Mannor township. Each Of the above named\nabourcd under violent coughs pains and stitches\nthe sides and breast for long time and expectoraon\nof slime and maerfrom the lungs Hectic Fevers and night\ns~eatS, &c. c and were cured III short time by using\nfew bottles Of his Indian Specific Severay az\nhrmed and subscribed to in 1926.\n\n\nIn testimony whereof, have creun;o affixed my hand\nand seal this 26h day Of January, 1927 in the city Of Ian\n| caster\n\n\n| [sEAIl NATHANIEL LIGHTNER, Mayor.\n\n\nDr ~ Freeman, OF the CITY OF Lancaster, respectfully\ninforms the public that since the Introduction Of his nei-\ncine to the Citizens o. the United States within the last\nIs past 26T deposons have been taken before the\nproper authorities n the city OF Lancaster viz very\ngreat proportion before The late John lot Esq and be-\ntore Samuel Carpenter, Esq for many Years yor nf the\ncity Of Lancaster great number before Samuel Dale, Esq\nan alderman faI tie city Of Lancaster and judge ot\nthe Cour u common Pleas of the county Of Lancaster also\nnumber las been iaken before Nathaniel Lghner Esq\nlate 1896, and Mayor Of the CITY of Lancaster,\nthat his Specific as proved emineny useful 10 all those\nWho have used AID followed his bill OF directions, BY\ngiving fair trial. Is made a5nndah,ly manifest by the\nnumerous DoanoaS already taken ct really perfor.\nned, IN desperate where the lives Of he patient,\nnave been desrtiled of Together with .he increasing de.\nmand for II having b his agents snd himself sold from\n70 A. and 600 bottles in year, e best criterion\ntof the public 70 judge Of its extraordinary efficacy aud\nvirtues\n\n\n\" The shove medicine always BE had of agents.\nor o. the proprietor, at his medicinal Shop South Queen\nstreet IN the city OF Lancaster. lie bcss impress the\npublic that none genuine without his signature\ncomposition has been attempted to be imposed the pub\nlic by counterfeit imitation OF his valuable medicine\n\n\nfreemans Cough Drofs FOR sale BY JOHN WHITE,\nNo ITO, Market street, Wilmington, bel, where may\nalso be found general assortment Of China, Glass, and\nQueens Ware, Looking Gasses, Medicine. &C.\nFeb 20, 1897.",
+            "legibility": "Illegible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 56,
+            "bbox": {
+                "x0": 1029,
+                "y0": 562,
+                "x1": 1179,
+                "y1": 602
+            },
+            "class": "author",
+            "raw_text": "March f6",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -2
+        },
+        {
+            "id": 66,
+            "bbox": {
+                "x0": 1345,
+                "y0": 843,
+                "x1": 1812,
+                "y1": 928
+            },
+            "class": "author",
+            "raw_text": "Lancaster county, SIS.\nPersonally appeared before me",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2646,
+                "y0": 268,
+                "x1": 3455,
+                "y1": 1332
+            },
+            "class": "article",
+            "raw_text": "The Delaarare Fire Insurance CosapOos\nINCORPORATED BY the Legislature Of The State a ~,\nj. ware, with capital Of one hundred thousand ,niea ia\n\n\nThe President and Directors now receiving an,r\ntons for Insurance, at their Office, No 2l Shipey %\nbetween Front and Second streets, against Loss h.\non every description of Buildings in general; MercL.p\nShips in Port, and their Cargoes Household FurrSn\naud other personal property ;-also againt loss or as\"\nby inland transportation Of goods, wares merchandise \"a\ncountry produce\n\n\nTerms of insurance will be favorable as any s Il\nCompanies in the Cities Of Philadelphia or New York p\nties assured, may repose the fullest confidence il a.\nsolidy OF its capital and that all losses III be prom\nadjusted by the company. =\"\n\n\nJOHN MooDr is Agent to survey property be insured\nfor the town and vicinity Of New Castle, in place Of n\nBaney, declined.\n\n\nLEv1 H. EVANS is Agent to survey property to bet\nsured for the town and vicinity Of Ekton. '\n\n\nJonN CLOAK is Agent to survey property to be Insured\nfor the tow and vicinity of Smyrna.\n\n\nJosEpn JoTEs is Agent to survey property to be Ins\nfor the town of West-Ches,er and vicinity.\nDirectors.\n| John Patterson, David Bush,\n/ Joseph Baiiy, Vim. Chandler\n| David G. Wilson, Joseph Glubb\n| Joseph c. Gilpin, Robert Porter\n| WM. SEAL, Precedent\n1 ID. BYRsSs Secretary.\n/ April TO- 1926. 49,",
+            "legibility": "Questionable",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 39,
+            "bbox": {
+                "x0": 2813,
+                "y0": 206,
+                "x1": 3315,
+                "y1": 260
+            },
+            "class": "headline",
+            "raw_text": "100000 DOLLARS.",
+            "legibility": "Questionable",
+            "full_article_id": 6,
+            "reading_order_id": -2
+        },
+        {
+            "id": 59,
+            "bbox": {
+                "x0": 2655,
+                "y0": 268,
+                "x1": 3442,
+                "y1": 312
+            },
+            "class": "headline",
+            "raw_text": "The Delauare Fire Insurance Coaaun..a",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 203,
+                "y0": 3115,
+                "x1": 1030,
+                "y1": 4882
+            },
+            "class": "article",
+            "raw_text": "TyVEIE Subscriber DocToa OF MEDICINE and pa.rr,c.,\nn CHEMIST respectfully informs the Ladies and Gentle\nOf Wilmington and its vicinity tha, lie has com\nm &c. to prepare Medicine, in MARKET STREET\nnlngton, Delaware, the house obsosi.e Nj, Henr,\nHs2pes Cos LNm5eT Yard-where he prepares the fol.\nloving Medicines: The Snphate of Qunine This med.\ncine contains the active principle fthc Peruvian Bark and\nwen property prepared s the best medicine as vet dis\nvered for The Of Agues senitie ut and\nFe7ers Tie also prepares lsanic Restorative for dis\neases OF the Breast and Lungs Pulmonary Consumption\nFhthislc; and medicine which will efectualy cure hc\nmost distressing Headache, how long rs c6n;n\nuance may be. tie also cures the Foothsche in lew\nminutes. without making Of any Of the coroding acds\nor red hot ron or plugging the ieet VITA gold leaf or\nsheet lead The meiclne tie makes uf II preserve\nthe teeth for years lie preParea Tooth Powder ha viii\nwhiten the teeth be they ever black from taking c\ncine Or any other cause Dr. 2. prepares Eye Wate\nthat will remove all inaTnmalions from the eycs hnve\ncured numbers from the Rheumatism and some Of them\ncrlPpes tor years from Names or signatures do M,\nrequire as see TOO much the with qackery\nrrom my practce OF medicine and my experience And\nknowledge OF chemistry, am able IL extract nesicna\nvirtues contained u animals, vegetables and minerals Aud\noan apply them for The diff diseases tie cont *,\nOf people may want them. Persons afflicted Wl Cancsr\n# they make timely application, can be cured =\n\n\nlhefe = medene sold BY the name Of S.rqims panq\n-sd, which did not hear Of until NJ s~aims a,vnr\ntisemen some few weeks past. hen called d, ,,ne \\\nthe mos: eminent physicians III Philadelphia aud sol \\\nthem respecting the panscea, and informed Them that\nnal tue AUTHORS works who invented the medicine an,\ndiscovered rs effects in TIE ceran lseascs A\nthe gehiemen spoke TO the subject, sal le, we,\ncertain that MI. Swain not the invent N f H.. ~,\ncine. The that invented the paaacra va, one &c ~\ngreatest chemists a Europe produced and is dead nea\nTwo hundred years and his writings are difficult 10 be had\nThat MIR Swain lRa got Part Of his works Or SOM\nper3nn gave him receipt from the work, l have no dou\nCt. have prepared chemical and al prenars,in\nof he PASAcEA which sill sell dollar per bot\ntie - .he aozen, and one dollar and fifty cent, SINGLE\n\n\nHr. T. prepares Wash for the Fades which remove\nal pots, ErnPons and letters from the face and hands\nant clears and beauties the skin. He also nrepares\nsAFe that will take out Corns by the from the oe\n~ not give the least sensation OF pain.\n\n\nsd'es or Gentemen WHO afflicted with any diseas\ntFf curabe II they pleased to cali on me- shall\nattended 70 with the strctes punctnality\n\n\nJAS. PURCELL, NJ. u. & r. C.\n\n\nWhining on. Del, Jan. %, 1927 e2-1y",
+            "legibility": "Questionable",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 348,
+                "y0": 3062,
+                "x1": 881,
+                "y1": 3111
+            },
+            "class": "headline",
+            "raw_text": "MEDICAL NOTICE.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1042,
+                "y0": 3567,
+                "x1": 1838,
+                "y1": 4016
+            },
+            "class": "article",
+            "raw_text": "fssr OfFpE DEr4RrMiRr,\n\n\n.no Feb 90. 1927.\n\n\n&JR0P0SAIS Will Be received at The General Pust OF\nnee Tor the transportation Of the Mail between vii.\nmngtan and Grofge Town, Del until the first day Of\nNprlneN 'rolas'ye, VIZ From Wilmington BY Newcastle,\n= Georges, Canlweiis Ridge, Smyrna, hover Camder\nCanterbury, Frederca and Milford, George own three\nmes week leave Wilmington every Monday, Wedne,.\ndy ana Friday and arist George Town an Tuesday,\nWednesday and saturday, by O'Clock, r. NJ lea;\nntorge Town every Ninnday, Wednesday. and Friday a,\n4. ~ and arrive Al Wilmington on Tuesday. THURSDAY.\naud Saturday, by r. VI. Contract 10 commence on nc\n5ti April next 32--19t -",
+            "legibility": "Questionable",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 64,
+            "bbox": {
+                "x0": 1420,
+                "y0": 3558,
+                "x1": 1816,
+                "y1": 3590
+            },
+            "class": "headline",
+            "raw_text": "P.ar OrrlcI nrrAarM1Nr",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 203,
+                "y0": 2201,
+                "x1": 1008,
+                "y1": 2544
+            },
+            "class": "article",
+            "raw_text": "rESHE subscriber notifies his friends ard the public that\nhe has removed from the Cd stand, No. IS, shpley\nMarket, and &C. Shipeys whore he intends keepnp On\nhand constant supply of FINISHED LEATHER Of cv-\ncry description which he viii dispose Of the mos, rea\nsonahe terms. Persons fayorng him with their custom\nmay depend 81 having Their Leather Of the best quality\nAlso. Morocco, and Lining skins for sale\n\n\nJOHN GUYER.\nWnnrson. March l3. 1897 s6-3m",
+            "legibility": "Questionable",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 43,
+            "bbox": {
+                "x0": 449,
+                "y0": 2152,
+                "x1": 758,
+                "y1": 2197
+            },
+            "class": "headline",
+            "raw_text": "CERRFNG.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 203,
+                "y0": 1924,
+                "x1": 1004,
+                "y1": 2140
+            },
+            "class": "article",
+            "raw_text": "A PERSON competent 60 take charge Of School, and\nIN teach the rudments Of English Grammar and Geogra\npiiy with the usual branches Of Reading, Writing, &c\nand can we'll recommended, may hear Of situation\nby applying 10 WILLIAM ARMSTRONG, or\n\n\nTHOMAS BALDWIN.\n\n\nMarch O. 1897 35-4n",
+            "legibility": "Questionable",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 32,
+            "bbox": {
+                "x0": 291,
+                "y0": 1867,
+                "x1": 898,
+                "y1": 1916
+            },
+            "class": "headline",
+            "raw_text": "TEACHER WANTED.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1033,
+                "y0": 3238,
+                "x1": 1830,
+                "y1": 3546
+            },
+            "class": "article",
+            "raw_text": "NOTICE IS hereby given to any delnq en- Exocutors\n~ Administrators or Guardians, ~ithn The county Of\nNewcastle u eAhbit, without delay ther uclets 10 the\nRegister of sa county, il order that the MY BE lust\ned lhe Register viii certainly issue proc against those\nnon complying with this tice the duli, of lis Office\ncompelling HIM 10 this mode OF bringing denqlents 10\n\n\ne tement Of their accounts. EVAN ii THOMAS.\n\n\nRegisters Office, New castle Feb d, 1927. 3iN9t",
+            "legibility": "Questionable",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 1126,
+                "y0": 3172,
+                "x1": 1733,
+                "y1": 3226
+            },
+            "class": "headline",
+            "raw_text": "REGISTERS NOTICE.",
+            "legibility": "Questionable",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 2672,
+                "y0": 3681,
+                "x1": 3468,
+                "y1": 4117
+            },
+            "class": "article",
+            "raw_text": "vt>tE subscriber takes this opportunity inform ie\nIl public that tie establishment heretofore conducted By\nJANts RAY, Esq., together with the accounts connected\nwith the business of that establishment from the flSt d\nJanuary, 1896, have passed into his hands; aud that he will\ncontinue the business in all its branches at the Old stand\ncorner of Tana and Queen Streets near tie Ficnd .,\ning House, where he will manufactures and urnisat Phil\naelpha prices, Mould and Dip CANDLES Fulers, Id\nlox, and B,o.yn soAp OF the best quality\n\n\nENOClI ROBERTS.\ny. B The highest price given for Tallow Butchers\nFat. and Fat Of every description.\n\n\nWilmington, Nov. IA, 1926. 3-6m",
+            "legibility": "Questionable",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 51,
+            "bbox": {
+                "x0": 2707,
+                "y0": 3633,
+                "x1": 3416,
+                "y1": 3682
+            },
+            "class": "headline",
+            "raw_text": "Soap and Candle Manufactory.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": -1
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 177,
+                "y0": 325,
+                "x1": 990,
+                "y1": 976
+            },
+            "class": "article",
+            "raw_text": "f--zx Y House and small Farm in The village o\nWsESf Mwark, lately occupied by the Rev. SAMUEL\nHsasl BEtL, possession Of which viii be given the\n$3.50 25tiNlay Of March next\n\n\nThe Farm coNns aboutfort Of arabic land and\nmeadow, in od\\fder, and conveniently divided The\nimprovements good brick dwelling house and kitch\nen- with brickba carriage house and other out build\nipgs.\n\n\nThis property wo,l be very suitable for family who\ndren There eAceent setnnaes in that village\nthe Newark Academy, wM under tie direction OF the\nRev. A. K RussrLL adetxy two assistants. in which boys\nac-and school for young Adies under the direction o\nthe Rev. SAMUEL BStD. IN which taught the useful and\nornamental branches of Female hucation.\n\n\nFor terms apply in WilmngtoAto Mrs. MANY BLACK\nor to the subscriber IN \\ swcas,le. j. K. BLACK.\n\n\nJan. 16. 1927. 20--tf",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        },
+        {
+            "id": 38,
+            "bbox": {
+                "x0": 348,
+                "y0": 259,
+                "x1": 823,
+                "y1": 312
+            },
+            "class": "headline",
+            "raw_text": "TO BE RENTED.",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 1859,
+                "y0": 3993,
+                "x1": 2664,
+                "y1": 4614
+            },
+            "class": "article",
+            "raw_text": "nY virtue Of wit of verd. exponas, to me directed\nI'D will be exposed 20 public sale, the Publ House\nlately kept by Robert Gab,ah in Brandywinc hundred\nIN Saturday the 24h Of March inst at o'clock. +.\nthe following described lands and stiae lying\nand being in the hundred Of brandy Wine and County of\nNewcastle, 10 Wit; No Ia plantation Of land\nadjoining lands Of Adam alley Lewis alley aud The bb\nroad and others, with log dwelling house and frame barn\ncontaining one hundred and thirty acres less No.\nPa plantation or tract of land adjoining lands Of George\nPonson, Thomas Tale fonlk road aid Others with log\ndwelling house, stone and franc barn thereon erected\ncontaining sixtys acres more or less. No ga pana.\n\n\nton or tract OF land adjoining lands Of Clayton Foulk tie\nFoulk road and No 2; with stone DIV cling house and\n\n\nframe barn thereon erected; containing twenty acres\nmore or less Seized and taken execution as the pro-\nperty Of Eiih4 falsy.\n\n\nNewcastle, March l3, 1897. 37-3t",
+            "legibility": "Questionable",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 44,
+            "bbox": {
+                "x0": 1908,
+                "y0": 3897,
+                "x1": 2616,
+                "y1": 3986
+            },
+            "class": "headline",
+            "raw_text": "SHiGRiFFS SALE.\nBY pEIER II UELa.FT. ,SHFBIFF.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": -1
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 2681,
+                "y0": 4178,
+                "x1": 3473,
+                "y1": 4552
+            },
+            "class": "article",
+            "raw_text": "E(0R Private Sale, that valuable Farm now occupied BY\nA. the subscriber pleasantly situated on the Kennel\nTurnpike, miles fir m Wilmington, in high Of cu'\n\n\n.aton containing u acres, less, good proper\nton OF which is woodland The improvements cor-\ntHsh venent. substantial stone dwelling house, with\n.HI pump over never failing spring Of excellent water\nnear the doors also another the barn yard capital frame\nbeen lately Lined and is enclosed BY good fences Apply\n10 RICHARD BELL\n\n\nMarch 13, 1922. 36-4tp",
+            "legibility": "Questionable",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        },
+        {
+            "id": 54,
+            "bbox": {
+                "x0": 2861,
+                "y0": 4130,
+                "x1": 3323,
+                "y1": 4179
+            },
+            "class": "headline",
+            "raw_text": "PRIVATE SALE.",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": -1
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 194,
+                "y0": 1590,
+                "x1": 1004,
+                "y1": 1850
+            },
+            "class": "article",
+            "raw_text": "an.nal meeting Of the Stockholders Of The Bank ot\nIA Wilmington and BrGndyrsine will be held at James\nPlume. Inn, Monday The I'd of April next between\nthe hours Of and O'clock r. NJ. Tor the purpose Of\nelecting nine Directors for the ensuing year.\n\n\nby order IF the hoard\n\n\nj. p. WoILASTON, Casiier.\nWilmington, March 9. lec,.- 36-6t",
+            "legibility": "Questionable",
+            "full_article_id": 26,
+            "reading_order_id": 0
+        },
+        {
+            "id": 53,
+            "bbox": {
+                "x0": 440,
+                "y0": 1546,
+                "x1": 762,
+                "y1": 1591
+            },
+            "class": "headline",
+            "raw_text": "ELECTION.",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": -1
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 1833,
+                "y0": 1265,
+                "x1": 2651,
+                "y1": 2066
+            },
+            "class": "article",
+            "raw_text": "NACIIIN n Mn TOh CAI1IT.\nvEyHE following Cotton and oOlen achineryare offered\n4 for sale, at reduced prices:\n\n\nCOTTO.N .n.aCUINERY.\n-Four Throstles Of 100 spindcs each\nOne 80 inch Card workers and shippers, good clothing\nOne SO inch do do do\nOne Drawing frame, heads.\nTwo Rowing frames, 6 cans each\nYarn Press Banding Machine, Cans, Reel Belts, Scaesand\nWeights, Winding Block, &c. &c\nTie above Machinery has been but little used, and most\noft is in good working order.\n\n\nWOOLE.N ma CHJ.NERT.\nThree \"a inch Cardlns Engines.\nOne Billy go splndles.\nTwo Jinneys 70 Spndles each.\nOne Wsrping Mill.\nTwenty Looms, them broad, with Reeds, IIeddes,\nShuttles, Bobbns &c. &c.\nFive Power Looms, that supposed will do either\nfor wooden cotton goods\n\n\nThe above Machinery will be sold low, either alsogeth\ner Or in parts. Apply ]. AI.RiCIfS & Go.\nWilmington, 5th mo. 18th, 1926. So",
+            "legibility": "Questionable",
+            "full_article_id": 31,
+            "reading_order_id": 0
+        },
+        {
+            "id": 61,
+            "bbox": {
+                "x0": 1868,
+                "y0": 1230,
+                "x1": 2594,
+                "y1": 1288
+            },
+            "class": "headline",
+            "raw_text": "MACHINERY FOR SALE.",
+            "legibility": "Legible",
+            "full_article_id": 31,
+            "reading_order_id": -1
+        },
+        {
+            "id": 34,
+            "bbox": {
+                "x0": 998,
+                "y0": 289,
+                "x1": 1803,
+                "y1": 589
+            },
+            "class": "article",
+            "raw_text": "9th Glass To be drawn Wednesday, the 28th instant\nScheme i prize Of S2ooo0 of 5000; Of 2s45i\n10 Of 00O 20 Of 500 90 of 250 81 Of l00 102 OF 5oi\nlo2 of 20 1862 Of 10; HAS Of S.\nIicke, s5--Eaf 50 5oQuarer 81 .oaEighth 62l cents\nFor sale st\n\n\nRobertson s Little's\nOffice, No 90, Market ST., Wilmington\n",
+            "legibility": "Legible",
+            "full_article_id": 35,
+            "reading_order_id": 0
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 453,
+                "y0": 61,
+                "x1": 1065,
+                "y1": 233
+            },
+            "class": "headline",
+            "raw_text": "Ut",
+            "legibility": "Legible",
+            "full_article_id": 35,
+            "reading_order_id": -2
+        },
+        {
+            "id": 42,
+            "bbox": {
+                "x0": 1029,
+                "y0": 228,
+                "x1": 1759,
+                "y1": 286
+            },
+            "class": "headline",
+            "raw_text": "UNION CANAL LOTTERY,",
+            "legibility": "Legible",
+            "full_article_id": 35,
+            "reading_order_id": -1
+        },
+        {
+            "id": 35,
+            "bbox": {
+                "x0": 190,
+                "y0": 1379,
+                "x1": 1004,
+                "y1": 1534
+            },
+            "class": "article",
+            "raw_text": "A FEW families TO work in Cotton Factory, Boys or\nIN Girls Apply to JAMES WOOD, Stanton, five miles\nwest ct Wilmington, on the Baltimore road.\n\n\nN. h. A Cnrder wanted. Apply as above.\n\n\nMarch Is, 1897. 36--4tp",
+            "legibility": "Legible",
+            "full_article_id": 36,
+            "reading_order_id": 0
+        },
+        {
+            "id": 55,
+            "bbox": {
+                "x0": 458,
+                "y0": 1326,
+                "x1": 736,
+                "y1": 1371
+            },
+            "class": "headline",
+            "raw_text": "WANTED.",
+            "legibility": "Legible",
+            "full_article_id": 36,
+            "reading_order_id": -1
+        },
+        {
+            "id": 45,
+            "bbox": {
+                "x0": 234,
+                "y0": 4938,
+                "x1": 1043,
+                "y1": 5225
+            },
+            "class": "article",
+            "raw_text": "La persons having claims against the estate OF Josiah\nsA.-B1ggs deceased, late Of the Borough of Wlmnet\n\n\nlaware are requested to present their accounts,\nlay and those indebted TO said estate are hereby\n~ unless immediate payment is made TO WILL1Am Fl\nn, who san,horzed 10 receive the same her scoonnt\nw be placed in the hands ofa Magistrate for colec,;on\nMarch 6, 1927 .,sno ssmo.",
+            "legibility": "Questionable",
+            "full_article_id": 46,
+            "reading_order_id": 0
+        },
+        {
+            "id": 48,
+            "bbox": {
+                "x0": 427,
+                "y0": 4890,
+                "x1": 845,
+                "y1": 4935
+            },
+            "class": "headline",
+            "raw_text": "LAST NOTICE",
+            "legibility": "Questionable",
+            "full_article_id": 46,
+            "reading_order_id": -1
+        },
+        {
+            "id": 49,
+            "bbox": {
+                "x0": 1859,
+                "y0": 3783,
+                "x1": 2660,
+                "y1": 3876
+            },
+            "class": "article",
+            "raw_text": "TWO apprentices 70 the Boosbindng business wanted\n4 Immediately Inquire at the Office Of the Watchman,\n\n\nFebruary 20, 1897",
+            "legibility": "Legible",
+            "full_article_id": 50,
+            "reading_order_id": 0
+        },
+        {
+            "id": 52,
+            "bbox": {
+                "x0": 1890,
+                "y0": 3725,
+                "x1": 2616,
+                "y1": 3779
+            },
+            "class": "headline",
+            "raw_text": "APPRENTICES WANTED.",
+            "legibility": "Questionable",
+            "full_article_id": 50,
+            "reading_order_id": -1
+        },
+        {
+            "id": 63,
+            "bbox": {
+                "x0": 1350,
+                "y0": 667,
+                "x1": 1812,
+                "y1": 831
+            },
+            "class": "article",
+            "raw_text": "OK IIvDIdN SPECIFIC,\nFor the cure Of colds, coughs,\nastftmas and approaching con-\nsumptions.",
+            "legibility": "Legible",
+            "full_article_id": 64,
+            "reading_order_id": 0
+        },
+        {
+            "id": 50,
+            "bbox": {
+                "x0": 1363,
+                "y0": 610,
+                "x1": 1790,
+                "y1": 655
+            },
+            "class": "headline",
+            "raw_text": "COUGH DROPS,",
+            "legibility": "Legible",
+            "full_article_id": 64,
+            "reading_order_id": -1
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                31,
+                47,
+                0
+            ],
+            "headline": "BALM OF COLUMBIA.",
+            "article": "No los, Market Street, Wilmington.\nTTAyE been appointed sole Agents in the State OF Deia\nI'll ware for the sale of Odridges Chemical Balm q 60,\nm which from Tree found IN the wds sna\nnertnmc and II, grand capillary virtues follows\nOne bottle, price 50 CENTS prevents the hair from falling\noff in 48 hours from its first applications or causes new\ngrowth of whiskers in few weeks bottle. price -\nGents, will not only stop the hair from falling off, bu, like\nwise in three weeks new growth to appear ana\none Sl gives general good head OF hair to young\nperson.\n\n\n1t hair from turning gray, and makes curl\nbeautifully look bright and glossy, and in few apphca\ntons frees from scur and entirely removes nervous head\naches.\n\n\ns by repeated experiments found to bear every sort OF\nclimate, without the least injury TO its virtues\n\n\nCopies Of certificates will be shown by the yenders IRON\ngentlemen who, after being bald number OF years, have\nreceived growth OF hair.\n\n\nThe signers characters supported by His Britannc\nMajesty, Consul, Philadelphia who thereto has pichxed\nhis sc and the royal of Great Brtain ALSO the Mayor\nand other Mag sates OF Philadelphia, who were personal\n\" acquainted with the sgners, have certified 10 their high\nresponsibility, and have likewise prefxed their seals\nOctober 90, 1895.",
+            "byline": "A. & H. WILSON,",
+            "bbox_list": [
+                {
+                    "x0": 1908,
+                    "y0": 210,
+                    "x1": 2524,
+                    "y1": 277
+                },
+                {
+                    "x0": 2075,
+                    "y0": 281,
+                    "x1": 2370,
+                    "y1": 308
+                },
+                {
+                    "x0": 1820,
+                    "y0": 311,
+                    "x1": 2638,
+                    "y1": 1209
+                }
+            ],
+            "bbox": [
+                1820,
+                210,
+                2638,
+                1209
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-03-20_p4_sn82014894_00271740219_1827032001_0111.json"
+        },
+        {
+            "object_ids": [
+                37,
+                1
+            ],
+            "headline": "SHIP TIMBER.",
+            "article": "TsE following described knees are wanted at The Phia\ndeipha May Yard tor which the prices annexed will\nbe pad on delivery They must be of the best white oak\nand delivered in the course of the year 1897\n\n\nKNEES-Body and arm fee, 6 inches. diameter of the\narm clear OF bark - nches side when completely fin\nlshed in the ship 10 inches, be square and in square in\nshape price dollars.\n\n\nKSEEs-Body z feet inches, arm S feet 6 inches\ndiameter ct the clear of bark - inches to side when\ncompletely finished in the ship 81 inches, 10 be square ID\nshape price dollars and so cents\n\n\nkNEES-Body feet inches $ arm feet 6 inches d.\nameter OF the clear Of bark 10 inches to side when\ncompletely finished in he ship inches, ,c be square ant\nin square in shape: price dollars.\n\n\nksfEs-b1dy feet, arm feet inches, diameter q\nThe arm clear Of bark Is inches to side when completely\nnmsiea IN ne hip 70 inches, q be square in shape pse\n\n\nhNEES-B'.y feet, arm feet inches, diameter q\nthe arm clear of bark 3 inches 10 side when conpeeb\nhnshea N The ship inches 10 be square in shape prs\nNavy Asent's Office. PHILADELPHIA Feb. Il e,--.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2888,
+                    "y0": 4565,
+                    "x1": 3297,
+                    "y1": 4614
+                },
+                {
+                    "x0": 2677,
+                    "y0": 4617,
+                    "x1": 3477,
+                    "y1": 5396
+                }
+            ],
+            "bbox": [
+                2677,
+                4565,
+                3477,
+                5396
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-03-20_p4_sn82014894_00271740219_1827032001_0111.json"
+        },
+        {
+            "object_ids": [
+                27,
+                2
+            ],
+            "headline": "FIFTY DOLLARS REWARD",
+            "article": "ID AN AWAY from the subscriber living bohemia\nIi Manor, Cecil county. MARYLAND on the 27h u i\nBlack MAN. named IiC, g Years old, supposed 10 be\nnearly feet high healthy active, aud good hand on\nfarm lie took with lima fur hat half worn, ,wo coats,\npantaoens two oT three wascYas Of which Vas gra,\nelath.\nssac went away on pretencc q looking for place nasr\nEktcn The above Toward VIII be paid for his anpr chen\nso in any jail so that get him again, and all reasonable\nexpenses viii be paid if he is brought home.\n\n\nJAMES CRAIG.\nGown Point Bohemia Manor, March 8, las7 go",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 225,
+                    "y0": 2561,
+                    "x1": 968,
+                    "y1": 2615
+                },
+                {
+                    "x0": 203,
+                    "y0": 2623,
+                    "x1": 1008,
+                    "y1": 3045
+                }
+            ],
+            "bbox": [
+                203,
+                2561,
+                1008,
+                3045
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-03-20_p4_sn82014894_00271740219_1827032001_0111.json"
+        },
+        {
+            "object_ids": [
+                56,
+                66,
+                3
+            ],
+            "headline": "",
+            "article": "Nathaniel Lghtner, Esq Mayor of the city OF Lancaster\nand being duly sworn or affirmed seseraly dePosed ahd\ndeclared that they had made of Dr. Clarkson Free\nmans Cough Drops, Cor Indian Specic) upon themselves\nwith the greatest for the curing OF coughs, Colds\nashmas, consumptons, splitting OF blood and diseases o.\nfects complete and ntaibc, will fully appear by the\nfollowing testimony Of those who have used them.\n\n\nMARTIN LIGHT, Of Lancaster aged 50 years. long time\ngrievosy afflicted with violent cough, pam and stitches\nin his sides and breast, splitting of matter from his lungs\nnight and hectic fever, and much emaclated and\nhis life despared of, completely cured by using bot\nties, better than years aud remains well as 70 he\ndisease Of his breast and lungs affirmed and subscIbedto\n\n\nApril 9TH, 1896\n\n\nSamuel Dennis aged S. of Strasburg township, Martin\nKaymer, aged 4l years, of Conestoga township, long\nlime exceeding l.-Isaac Broom aged 27 years, of the\nCity of Lancasteicured by using three bnttes-Chares\nblanchard, aged IS years. Donegal township-cuied BY\nusing bottles christian Hess aged 42 years. OF a\nnor Township, by using bottles Richard John\nson, aged 80 years. of Donegal township, Jacob Wilhelm\naged ID years of the City Of Lancaster, G ID Lowe, Of\nthe City Of Lancas.er,Joseph Rlr, aged 40 years, Of\ns,rasbug townships kaher, aged l6 years, Of\nMlersoWn, Mannor township. Each Of the above named\nabourcd under violent coughs pains and stitches\nthe sides and breast for long time and expectoraon\nof slime and maerfrom the lungs Hectic Fevers and night\ns~eatS, &c. c and were cured III short time by using\nfew bottles Of his Indian Specific Severay az\nhrmed and subscribed to in 1926.\n\n\nIn testimony whereof, have creun;o affixed my hand\nand seal this 26h day Of January, 1927 in the city Of Ian\n| caster\n\n\n| [sEAIl NATHANIEL LIGHTNER, Mayor.\n\n\nDr ~ Freeman, OF the CITY OF Lancaster, respectfully\ninforms the public that since the Introduction Of his nei-\ncine to the Citizens o. the United States within the last\nIs past 26T deposons have been taken before the\nproper authorities n the city OF Lancaster viz very\ngreat proportion before The late John lot Esq and be-\ntore Samuel Carpenter, Esq for many Years yor nf the\ncity Of Lancaster great number before Samuel Dale, Esq\nan alderman faI tie city Of Lancaster and judge ot\nthe Cour u common Pleas of the county Of Lancaster also\nnumber las been iaken before Nathaniel Lghner Esq\nlate 1896, and Mayor Of the CITY of Lancaster,\nthat his Specific as proved emineny useful 10 all those\nWho have used AID followed his bill OF directions, BY\ngiving fair trial. Is made a5nndah,ly manifest by the\nnumerous DoanoaS already taken ct really perfor.\nned, IN desperate where the lives Of he patient,\nnave been desrtiled of Together with .he increasing de.\nmand for II having b his agents snd himself sold from\n70 A. and 600 bottles in year, e best criterion\ntof the public 70 judge Of its extraordinary efficacy aud\nvirtues\n\n\n\" The shove medicine always BE had of agents.\nor o. the proprietor, at his medicinal Shop South Queen\nstreet IN the city OF Lancaster. lie bcss impress the\npublic that none genuine without his signature\ncomposition has been attempted to be imposed the pub\nlic by counterfeit imitation OF his valuable medicine\n\n\nfreemans Cough Drofs FOR sale BY JOHN WHITE,\nNo ITO, Market street, Wilmington, bel, where may\nalso be found general assortment Of China, Glass, and\nQueens Ware, Looking Gasses, Medicine. &C.\nFeb 20, 1897.",
+            "byline": "March f6\n\nLancaster county, SIS.\nPersonally appeared before me",
+            "bbox_list": [
+                {
+                    "x0": 1029,
+                    "y0": 562,
+                    "x1": 1179,
+                    "y1": 602
+                },
+                {
+                    "x0": 1345,
+                    "y0": 843,
+                    "x1": 1812,
+                    "y1": 928
+                },
+                {
+                    "x0": 1011,
+                    "y0": 931,
+                    "x1": 1821,
+                    "y1": 3146
+                }
+            ],
+            "bbox": [
+                1011,
+                562,
+                1821,
+                3146
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-03-20_p4_sn82014894_00271740219_1827032001_0111.json"
+        },
+        {
+            "object_ids": [
+                39,
+                59,
+                5
+            ],
+            "headline": "100000 DOLLARS.\n\nThe Delauare Fire Insurance Coaaun..a",
+            "article": "The Delaarare Fire Insurance CosapOos\nINCORPORATED BY the Legislature Of The State a ~,\nj. ware, with capital Of one hundred thousand ,niea ia\n\n\nThe President and Directors now receiving an,r\ntons for Insurance, at their Office, No 2l Shipey %\nbetween Front and Second streets, against Loss h.\non every description of Buildings in general; MercL.p\nShips in Port, and their Cargoes Household FurrSn\naud other personal property ;-also againt loss or as\"\nby inland transportation Of goods, wares merchandise \"a\ncountry produce\n\n\nTerms of insurance will be favorable as any s Il\nCompanies in the Cities Of Philadelphia or New York p\nties assured, may repose the fullest confidence il a.\nsolidy OF its capital and that all losses III be prom\nadjusted by the company. =\"\n\n\nJOHN MooDr is Agent to survey property be insured\nfor the town and vicinity Of New Castle, in place Of n\nBaney, declined.\n\n\nLEv1 H. EVANS is Agent to survey property to bet\nsured for the town and vicinity Of Ekton. '\n\n\nJonN CLOAK is Agent to survey property to be Insured\nfor the tow and vicinity of Smyrna.\n\n\nJosEpn JoTEs is Agent to survey property to be Ins\nfor the town of West-Ches,er and vicinity.\nDirectors.\n| John Patterson, David Bush,\n/ Joseph Baiiy, Vim. Chandler\n| David G. Wilson, Joseph Glubb\n| Joseph c. Gilpin, Robert Porter\n| WM. SEAL, Precedent\n1 ID. BYRsSs Secretary.\n/ April TO- 1926. 49,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2813,
+                    "y0": 206,
+                    "x1": 3315,
+                    "y1": 260
+                },
+                {
+                    "x0": 2655,
+                    "y0": 268,
+                    "x1": 3442,
+                    "y1": 312
+                },
+                {
+                    "x0": 2646,
+                    "y0": 268,
+                    "x1": 3455,
+                    "y1": 1332
+                }
+            ],
+            "bbox": [
+                2646,
+                206,
+                3455,
+                1332
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-03-20_p4_sn82014894_00271740219_1827032001_0111.json"
+        },
+        {
+            "object_ids": [
+                23,
+                6
+            ],
+            "headline": "MEDICAL NOTICE.",
+            "article": "TyVEIE Subscriber DocToa OF MEDICINE and pa.rr,c.,\nn CHEMIST respectfully informs the Ladies and Gentle\nOf Wilmington and its vicinity tha, lie has com\nm &c. to prepare Medicine, in MARKET STREET\nnlngton, Delaware, the house obsosi.e Nj, Henr,\nHs2pes Cos LNm5eT Yard-where he prepares the fol.\nloving Medicines: The Snphate of Qunine This med.\ncine contains the active principle fthc Peruvian Bark and\nwen property prepared s the best medicine as vet dis\nvered for The Of Agues senitie ut and\nFe7ers Tie also prepares lsanic Restorative for dis\neases OF the Breast and Lungs Pulmonary Consumption\nFhthislc; and medicine which will efectualy cure hc\nmost distressing Headache, how long rs c6n;n\nuance may be. tie also cures the Foothsche in lew\nminutes. without making Of any Of the coroding acds\nor red hot ron or plugging the ieet VITA gold leaf or\nsheet lead The meiclne tie makes uf II preserve\nthe teeth for years lie preParea Tooth Powder ha viii\nwhiten the teeth be they ever black from taking c\ncine Or any other cause Dr. 2. prepares Eye Wate\nthat will remove all inaTnmalions from the eycs hnve\ncured numbers from the Rheumatism and some Of them\ncrlPpes tor years from Names or signatures do M,\nrequire as see TOO much the with qackery\nrrom my practce OF medicine and my experience And\nknowledge OF chemistry, am able IL extract nesicna\nvirtues contained u animals, vegetables and minerals Aud\noan apply them for The diff diseases tie cont *,\nOf people may want them. Persons afflicted Wl Cancsr\n# they make timely application, can be cured =\n\n\nlhefe = medene sold BY the name Of S.rqims panq\n-sd, which did not hear Of until NJ s~aims a,vnr\ntisemen some few weeks past. hen called d, ,,ne \\\nthe mos: eminent physicians III Philadelphia aud sol \\\nthem respecting the panscea, and informed Them that\nnal tue AUTHORS works who invented the medicine an,\ndiscovered rs effects in TIE ceran lseascs A\nthe gehiemen spoke TO the subject, sal le, we,\ncertain that MI. Swain not the invent N f H.. ~,\ncine. The that invented the paaacra va, one &c ~\ngreatest chemists a Europe produced and is dead nea\nTwo hundred years and his writings are difficult 10 be had\nThat MIR Swain lRa got Part Of his works Or SOM\nper3nn gave him receipt from the work, l have no dou\nCt. have prepared chemical and al prenars,in\nof he PASAcEA which sill sell dollar per bot\ntie - .he aozen, and one dollar and fifty cent, SINGLE\n\n\nHr. T. prepares Wash for the Fades which remove\nal pots, ErnPons and letters from the face and hands\nant clears and beauties the skin. He also nrepares\nsAFe that will take out Corns by the from the oe\n~ not give the least sensation OF pain.\n\n\nsd'es or Gentemen WHO afflicted with any diseas\ntFf curabe II they pleased to cali on me- shall\nattended 70 with the strctes punctnality\n\n\nJAS. PURCELL, NJ. u. & r. C.\n\n\nWhining on. Del, Jan. %, 1927 e2-1y",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 348,
+                    "y0": 3062,
+                    "x1": 881,
+                    "y1": 3111
+                },
+                {
+                    "x0": 203,
+                    "y0": 3115,
+                    "x1": 1030,
+                    "y1": 4882
+                }
+            ],
+            "bbox": [
+                203,
+                3062,
+                1030,
+                4882
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-03-20_p4_sn82014894_00271740219_1827032001_0111.json"
+        },
+        {
+            "object_ids": [
+                64,
+                7
+            ],
+            "headline": "P.ar OrrlcI nrrAarM1Nr",
+            "article": "fssr OfFpE DEr4RrMiRr,\n\n\n.no Feb 90. 1927.\n\n\n&JR0P0SAIS Will Be received at The General Pust OF\nnee Tor the transportation Of the Mail between vii.\nmngtan and Grofge Town, Del until the first day Of\nNprlneN 'rolas'ye, VIZ From Wilmington BY Newcastle,\n= Georges, Canlweiis Ridge, Smyrna, hover Camder\nCanterbury, Frederca and Milford, George own three\nmes week leave Wilmington every Monday, Wedne,.\ndy ana Friday and arist George Town an Tuesday,\nWednesday and saturday, by O'Clock, r. NJ lea;\nntorge Town every Ninnday, Wednesday. and Friday a,\n4. ~ and arrive Al Wilmington on Tuesday. THURSDAY.\naud Saturday, by r. VI. Contract 10 commence on nc\n5ti April next 32--19t -",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1420,
+                    "y0": 3558,
+                    "x1": 1816,
+                    "y1": 3590
+                },
+                {
+                    "x0": 1042,
+                    "y0": 3567,
+                    "x1": 1838,
+                    "y1": 4016
+                }
+            ],
+            "bbox": [
+                1042,
+                3558,
+                1838,
+                4016
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-03-20_p4_sn82014894_00271740219_1827032001_0111.json"
+        },
+        {
+            "object_ids": [
+                43,
+                9
+            ],
+            "headline": "CERRFNG.",
+            "article": "rESHE subscriber notifies his friends ard the public that\nhe has removed from the Cd stand, No. IS, shpley\nMarket, and &C. Shipeys whore he intends keepnp On\nhand constant supply of FINISHED LEATHER Of cv-\ncry description which he viii dispose Of the mos, rea\nsonahe terms. Persons fayorng him with their custom\nmay depend 81 having Their Leather Of the best quality\nAlso. Morocco, and Lining skins for sale\n\n\nJOHN GUYER.\nWnnrson. March l3. 1897 s6-3m",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 449,
+                    "y0": 2152,
+                    "x1": 758,
+                    "y1": 2197
+                },
+                {
+                    "x0": 203,
+                    "y0": 2201,
+                    "x1": 1008,
+                    "y1": 2544
+                }
+            ],
+            "bbox": [
+                203,
+                2152,
+                1008,
+                2544
+            ],
+            "full_article_id": 10,
+            "id": "10_1827-03-20_p4_sn82014894_00271740219_1827032001_0111.json"
+        },
+        {
+            "object_ids": [
+                32,
+                10
+            ],
+            "headline": "TEACHER WANTED.",
+            "article": "A PERSON competent 60 take charge Of School, and\nIN teach the rudments Of English Grammar and Geogra\npiiy with the usual branches Of Reading, Writing, &c\nand can we'll recommended, may hear Of situation\nby applying 10 WILLIAM ARMSTRONG, or\n\n\nTHOMAS BALDWIN.\n\n\nMarch O. 1897 35-4n",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 291,
+                    "y0": 1867,
+                    "x1": 898,
+                    "y1": 1916
+                },
+                {
+                    "x0": 203,
+                    "y0": 1924,
+                    "x1": 1004,
+                    "y1": 2140
+                }
+            ],
+            "bbox": [
+                203,
+                1867,
+                1004,
+                2140
+            ],
+            "full_article_id": 11,
+            "id": "11_1827-03-20_p4_sn82014894_00271740219_1827032001_0111.json"
+        },
+        {
+            "object_ids": [
+                28,
+                11
+            ],
+            "headline": "REGISTERS NOTICE.",
+            "article": "NOTICE IS hereby given to any delnq en- Exocutors\n~ Administrators or Guardians, ~ithn The county Of\nNewcastle u eAhbit, without delay ther uclets 10 the\nRegister of sa county, il order that the MY BE lust\ned lhe Register viii certainly issue proc against those\nnon complying with this tice the duli, of lis Office\ncompelling HIM 10 this mode OF bringing denqlents 10\n\n\ne tement Of their accounts. EVAN ii THOMAS.\n\n\nRegisters Office, New castle Feb d, 1927. 3iN9t",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1126,
+                    "y0": 3172,
+                    "x1": 1733,
+                    "y1": 3226
+                },
+                {
+                    "x0": 1033,
+                    "y0": 3238,
+                    "x1": 1830,
+                    "y1": 3546
+                }
+            ],
+            "bbox": [
+                1033,
+                3172,
+                1830,
+                3546
+            ],
+            "full_article_id": 12,
+            "id": "12_1827-03-20_p4_sn82014894_00271740219_1827032001_0111.json"
+        },
+        {
+            "object_ids": [
+                51,
+                15
+            ],
+            "headline": "Soap and Candle Manufactory.",
+            "article": "vt>tE subscriber takes this opportunity inform ie\nIl public that tie establishment heretofore conducted By\nJANts RAY, Esq., together with the accounts connected\nwith the business of that establishment from the flSt d\nJanuary, 1896, have passed into his hands; aud that he will\ncontinue the business in all its branches at the Old stand\ncorner of Tana and Queen Streets near tie Ficnd .,\ning House, where he will manufactures and urnisat Phil\naelpha prices, Mould and Dip CANDLES Fulers, Id\nlox, and B,o.yn soAp OF the best quality\n\n\nENOClI ROBERTS.\ny. B The highest price given for Tallow Butchers\nFat. and Fat Of every description.\n\n\nWilmington, Nov. IA, 1926. 3-6m",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2707,
+                    "y0": 3633,
+                    "x1": 3416,
+                    "y1": 3682
+                },
+                {
+                    "x0": 2672,
+                    "y0": 3681,
+                    "x1": 3468,
+                    "y1": 4117
+                }
+            ],
+            "bbox": [
+                2672,
+                3633,
+                3468,
+                4117
+            ],
+            "full_article_id": 16,
+            "id": "16_1827-03-20_p4_sn82014894_00271740219_1827032001_0111.json"
+        },
+        {
+            "object_ids": [
+                38,
+                18
+            ],
+            "headline": "TO BE RENTED.",
+            "article": "f--zx Y House and small Farm in The village o\nWsESf Mwark, lately occupied by the Rev. SAMUEL\nHsasl BEtL, possession Of which viii be given the\n$3.50 25tiNlay Of March next\n\n\nThe Farm coNns aboutfort Of arabic land and\nmeadow, in od\\fder, and conveniently divided The\nimprovements good brick dwelling house and kitch\nen- with brickba carriage house and other out build\nipgs.\n\n\nThis property wo,l be very suitable for family who\ndren There eAceent setnnaes in that village\nthe Newark Academy, wM under tie direction OF the\nRev. A. K RussrLL adetxy two assistants. in which boys\nac-and school for young Adies under the direction o\nthe Rev. SAMUEL BStD. IN which taught the useful and\nornamental branches of Female hucation.\n\n\nFor terms apply in WilmngtoAto Mrs. MANY BLACK\nor to the subscriber IN \\ swcas,le. j. K. BLACK.\n\n\nJan. 16. 1927. 20--tf",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 348,
+                    "y0": 259,
+                    "x1": 823,
+                    "y1": 312
+                },
+                {
+                    "x0": 177,
+                    "y0": 325,
+                    "x1": 990,
+                    "y1": 976
+                }
+            ],
+            "bbox": [
+                177,
+                259,
+                990,
+                976
+            ],
+            "full_article_id": 19,
+            "id": "19_1827-03-20_p4_sn82014894_00271740219_1827032001_0111.json"
+        },
+        {
+            "object_ids": [
+                44,
+                19
+            ],
+            "headline": "SHiGRiFFS SALE.\nBY pEIER II UELa.FT. ,SHFBIFF.",
+            "article": "nY virtue Of wit of verd. exponas, to me directed\nI'D will be exposed 20 public sale, the Publ House\nlately kept by Robert Gab,ah in Brandywinc hundred\nIN Saturday the 24h Of March inst at o'clock. +.\nthe following described lands and stiae lying\nand being in the hundred Of brandy Wine and County of\nNewcastle, 10 Wit; No Ia plantation Of land\nadjoining lands Of Adam alley Lewis alley aud The bb\nroad and others, with log dwelling house and frame barn\ncontaining one hundred and thirty acres less No.\nPa plantation or tract of land adjoining lands Of George\nPonson, Thomas Tale fonlk road aid Others with log\ndwelling house, stone and franc barn thereon erected\ncontaining sixtys acres more or less. No ga pana.\n\n\nton or tract OF land adjoining lands Of Clayton Foulk tie\nFoulk road and No 2; with stone DIV cling house and\n\n\nframe barn thereon erected; containing twenty acres\nmore or less Seized and taken execution as the pro-\nperty Of Eiih4 falsy.\n\n\nNewcastle, March l3, 1897. 37-3t",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1908,
+                    "y0": 3897,
+                    "x1": 2616,
+                    "y1": 3986
+                },
+                {
+                    "x0": 1859,
+                    "y0": 3993,
+                    "x1": 2664,
+                    "y1": 4614
+                }
+            ],
+            "bbox": [
+                1859,
+                3897,
+                2664,
+                4614
+            ],
+            "full_article_id": 20,
+            "id": "20_1827-03-20_p4_sn82014894_00271740219_1827032001_0111.json"
+        },
+        {
+            "object_ids": [
+                54,
+                20
+            ],
+            "headline": "PRIVATE SALE.",
+            "article": "E(0R Private Sale, that valuable Farm now occupied BY\nA. the subscriber pleasantly situated on the Kennel\nTurnpike, miles fir m Wilmington, in high Of cu'\n\n\n.aton containing u acres, less, good proper\nton OF which is woodland The improvements cor-\ntHsh venent. substantial stone dwelling house, with\n.HI pump over never failing spring Of excellent water\nnear the doors also another the barn yard capital frame\nbeen lately Lined and is enclosed BY good fences Apply\n10 RICHARD BELL\n\n\nMarch 13, 1922. 36-4tp",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2861,
+                    "y0": 4130,
+                    "x1": 3323,
+                    "y1": 4179
+                },
+                {
+                    "x0": 2681,
+                    "y0": 4178,
+                    "x1": 3473,
+                    "y1": 4552
+                }
+            ],
+            "bbox": [
+                2681,
+                4130,
+                3473,
+                4552
+            ],
+            "full_article_id": 21,
+            "id": "21_1827-03-20_p4_sn82014894_00271740219_1827032001_0111.json"
+        },
+        {
+            "object_ids": [
+                53,
+                25
+            ],
+            "headline": "ELECTION.",
+            "article": "an.nal meeting Of the Stockholders Of The Bank ot\nIA Wilmington and BrGndyrsine will be held at James\nPlume. Inn, Monday The I'd of April next between\nthe hours Of and O'clock r. NJ. Tor the purpose Of\nelecting nine Directors for the ensuing year.\n\n\nby order IF the hoard\n\n\nj. p. WoILASTON, Casiier.\nWilmington, March 9. lec,.- 36-6t",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 440,
+                    "y0": 1546,
+                    "x1": 762,
+                    "y1": 1591
+                },
+                {
+                    "x0": 194,
+                    "y0": 1590,
+                    "x1": 1004,
+                    "y1": 1850
+                }
+            ],
+            "bbox": [
+                194,
+                1546,
+                1004,
+                1850
+            ],
+            "full_article_id": 26,
+            "id": "26_1827-03-20_p4_sn82014894_00271740219_1827032001_0111.json"
+        },
+        {
+            "object_ids": [
+                61,
+                30
+            ],
+            "headline": "MACHINERY FOR SALE.",
+            "article": "NACIIIN n Mn TOh CAI1IT.\nvEyHE following Cotton and oOlen achineryare offered\n4 for sale, at reduced prices:\n\n\nCOTTO.N .n.aCUINERY.\n-Four Throstles Of 100 spindcs each\nOne 80 inch Card workers and shippers, good clothing\nOne SO inch do do do\nOne Drawing frame, heads.\nTwo Rowing frames, 6 cans each\nYarn Press Banding Machine, Cans, Reel Belts, Scaesand\nWeights, Winding Block, &c. &c\nTie above Machinery has been but little used, and most\noft is in good working order.\n\n\nWOOLE.N ma CHJ.NERT.\nThree \"a inch Cardlns Engines.\nOne Billy go splndles.\nTwo Jinneys 70 Spndles each.\nOne Wsrping Mill.\nTwenty Looms, them broad, with Reeds, IIeddes,\nShuttles, Bobbns &c. &c.\nFive Power Looms, that supposed will do either\nfor wooden cotton goods\n\n\nThe above Machinery will be sold low, either alsogeth\ner Or in parts. Apply ]. AI.RiCIfS & Go.\nWilmington, 5th mo. 18th, 1926. So",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1868,
+                    "y0": 1230,
+                    "x1": 2594,
+                    "y1": 1288
+                },
+                {
+                    "x0": 1833,
+                    "y0": 1265,
+                    "x1": 2651,
+                    "y1": 2066
+                }
+            ],
+            "bbox": [
+                1833,
+                1230,
+                2651,
+                2066
+            ],
+            "full_article_id": 31,
+            "id": "31_1827-03-20_p4_sn82014894_00271740219_1827032001_0111.json"
+        },
+        {
+            "object_ids": [
+                29,
+                42,
+                34
+            ],
+            "headline": "Ut\n\nUNION CANAL LOTTERY,",
+            "article": "9th Glass To be drawn Wednesday, the 28th instant\nScheme i prize Of S2ooo0 of 5000; Of 2s45i\n10 Of 00O 20 Of 500 90 of 250 81 Of l00 102 OF 5oi\nlo2 of 20 1862 Of 10; HAS Of S.\nIicke, s5--Eaf 50 5oQuarer 81 .oaEighth 62l cents\nFor sale st\n\n\nRobertson s Little's\nOffice, No 90, Market ST., Wilmington\n",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 453,
+                    "y0": 61,
+                    "x1": 1065,
+                    "y1": 233
+                },
+                {
+                    "x0": 1029,
+                    "y0": 228,
+                    "x1": 1759,
+                    "y1": 286
+                },
+                {
+                    "x0": 998,
+                    "y0": 289,
+                    "x1": 1803,
+                    "y1": 589
+                }
+            ],
+            "bbox": [
+                453,
+                61,
+                1803,
+                589
+            ],
+            "full_article_id": 35,
+            "id": "35_1827-03-20_p4_sn82014894_00271740219_1827032001_0111.json"
+        },
+        {
+            "object_ids": [
+                55,
+                35
+            ],
+            "headline": "WANTED.",
+            "article": "A FEW families TO work in Cotton Factory, Boys or\nIN Girls Apply to JAMES WOOD, Stanton, five miles\nwest ct Wilmington, on the Baltimore road.\n\n\nN. h. A Cnrder wanted. Apply as above.\n\n\nMarch Is, 1897. 36--4tp",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 458,
+                    "y0": 1326,
+                    "x1": 736,
+                    "y1": 1371
+                },
+                {
+                    "x0": 190,
+                    "y0": 1379,
+                    "x1": 1004,
+                    "y1": 1534
+                }
+            ],
+            "bbox": [
+                190,
+                1326,
+                1004,
+                1534
+            ],
+            "full_article_id": 36,
+            "id": "36_1827-03-20_p4_sn82014894_00271740219_1827032001_0111.json"
+        },
+        {
+            "object_ids": [
+                48,
+                45
+            ],
+            "headline": "LAST NOTICE",
+            "article": "La persons having claims against the estate OF Josiah\nsA.-B1ggs deceased, late Of the Borough of Wlmnet\n\n\nlaware are requested to present their accounts,\nlay and those indebted TO said estate are hereby\n~ unless immediate payment is made TO WILL1Am Fl\nn, who san,horzed 10 receive the same her scoonnt\nw be placed in the hands ofa Magistrate for colec,;on\nMarch 6, 1927 .,sno ssmo.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 427,
+                    "y0": 4890,
+                    "x1": 845,
+                    "y1": 4935
+                },
+                {
+                    "x0": 234,
+                    "y0": 4938,
+                    "x1": 1043,
+                    "y1": 5225
+                }
+            ],
+            "bbox": [
+                234,
+                4890,
+                1043,
+                5225
+            ],
+            "full_article_id": 46,
+            "id": "46_1827-03-20_p4_sn82014894_00271740219_1827032001_0111.json"
+        },
+        {
+            "object_ids": [
+                52,
+                49
+            ],
+            "headline": "APPRENTICES WANTED.",
+            "article": "TWO apprentices 70 the Boosbindng business wanted\n4 Immediately Inquire at the Office Of the Watchman,\n\n\nFebruary 20, 1897",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1890,
+                    "y0": 3725,
+                    "x1": 2616,
+                    "y1": 3779
+                },
+                {
+                    "x0": 1859,
+                    "y0": 3783,
+                    "x1": 2660,
+                    "y1": 3876
+                }
+            ],
+            "bbox": [
+                1859,
+                3725,
+                2660,
+                3876
+            ],
+            "full_article_id": 50,
+            "id": "50_1827-03-20_p4_sn82014894_00271740219_1827032001_0111.json"
+        },
+        {
+            "object_ids": [
+                50,
+                63
+            ],
+            "headline": "COUGH DROPS,",
+            "article": "OK IIvDIdN SPECIFIC,\nFor the cure Of colds, coughs,\nastftmas and approaching con-\nsumptions.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1363,
+                    "y0": 610,
+                    "x1": 1790,
+                    "y1": 655
+                },
+                {
+                    "x0": 1350,
+                    "y0": 667,
+                    "x1": 1812,
+                    "y1": 831
+                }
+            ],
+            "bbox": [
+                1350,
+                610,
+                1812,
+                831
+            ],
+            "full_article_id": 64,
+            "id": "64_1827-03-20_p4_sn82014894_00271740219_1827032001_0111.json"
+        }
+    ]
+}

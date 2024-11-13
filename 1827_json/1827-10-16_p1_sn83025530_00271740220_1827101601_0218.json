@@ -1,0 +1,916 @@
+{
+    "lccn": {
+        "title": "Delaware journal.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2638-6917",
+        "lccn": "sn83025530",
+        "start_year": "1827",
+        "end_year": "1832",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [
+            "sn85042477"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn83025530",
+        "edition": "ed-01",
+        "date": "1827-10-16",
+        "pages": [
+            "seq-4",
+            "seq-2",
+            "seq-1",
+            "seq-3"
+        ]
+    },
+    "page_number": "1",
+    "scan": {
+        "lccn": "sn83025530",
+        "edition": "ed-01",
+        "date": "1827-10-16",
+        "page": "1",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-10-16/ed-1/seq-1.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-10-16/ed-1/seq-1/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-10-16/ed-1/seq-1/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn83025530/00271740220/1827101601/0218.jp2",
+        "height": 5544,
+        "width": 3608
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 1630,
+                "y0": 801,
+                "x1": 2428,
+                "y1": 2521
+            },
+            "class": "article",
+            "raw_text": "observed huge apparition marching round and\nround little hillock then visible He then ampli-\nHe'd on the inconvenience and dangers OF solitude\non the advantage Of conugal life, the duty of young\nladies' to provide themselves with protectors, and all\nthat sort OF dlsinterested augmentation talking,\nwithout Interruption for the space of fortyive min\nues, when he departed in high spirits. All the\nbaransue was overheard by Miss Waitstill Potts,\nand MIR. Rejoice Hardy Pitcher seated, before\nintmated, in an adjacent room. Presently it was\nMidnight as the clock announced the hour, Miss\nAdmirable, still alone. unwttingy looked out upon\nthe haunted knoll. Nothing could be more ROMAN\ntic here, fores throwing its giant shadows ACROSS\nfields and c0pses. and little streams stealing forth to\nthe broad moonshine; there, gorgeous lake, throw\ning up millions of sparklcs among the zephyrs that\nwantoned upon its bosom-and yonder, tall figure\n\n\nin white, stalking over the base ola dapidated dung\nheap!\n\n\nssAh !\" sighed the damsel, audibly, 81 wish to\nthe marcy was married to Rejoice Pitcher! But\nall the gobins in the whole parish amt going to\nmake me have that ere old hypocritical gander.''\nSay thee so, my gairl /\" exclaims Rejoice, burs-\nting into the room, then, Pm the boy; aunt Waty,s\ngot license. and iii fetch the parson in ajify''-\nand away he sped, while Miss Waitsti!l unraveed\nthe whole matter. In few minutes, the stout young\nster re-appeared. dragging in his reverence, wrap\nped in amazement, and homespun sheet: the latter\nhappening to be just withdrawn from the neghborng\nhedge, and marked at one corner, +. ID. p. sThis\nyoung lady hath need ofa protector against ghosts\n\n\nsaid Miss Waitst, addressing the clerical spectre\n\n\n''And if thee don't marry as right away\" added\nRejoice :. Pl wallop thee for counterfeit wizard\n\n\nThe saint was forced to comply, and rolled up his\n. ewes, as he CALCULATED, . sThe---the--\ndevil 2! He turned upon his heel, and has not since\nbeen heard Of There followed festivities and lner\n\n\nrymakings without number at the various dwellings\n\n\nof the Pitchers and the Pottses. But what signifies\n\n\n1t is melancholy fact, that all the actors in thes\n\n\nscenes, even to the youngest and most hale hav'",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 32,
+            "bbox": {
+                "x0": 1998,
+                "y0": 506,
+                "x1": 2926,
+                "y1": 572
+            },
+            "class": "headline",
+            "raw_text": "No. 81, Market-Street,W Wilmington.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -2
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 942,
+                "y0": 615,
+                "x1": 2259,
+                "y1": 711
+            },
+            "class": "headline",
+            "raw_text": "TUESDAY, October lG, 1927.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 58,
+                "y0": 2603,
+                "x1": 830,
+                "y1": 3262
+            },
+            "class": "article",
+            "raw_text": "The subscriber has just received large and ex-\nrnsve supply Of fresh imported and seasonable Dry\nGoods. such tas Cloths, Cassmers, Sattnetts, Flan\nels Baizes, Tartan and Circassian Plads, Camblets,\nCacos, Bombazetts, Bombazenes, Merino Shawls,\nBang up cords, Irish Linens, Cambria and long\ncloth Muslins. Book Muslns, Lambs wool and\nworstcd Hose, Tickings Domestic Plaids, Stripes,\nand Muslins, Pittsburgh Cords, Fusting. Driings,\nChecks Bearskins, Kerseys, Umbrellas, Russia\nSheetings, Blankets, rose and point, Sacking bot\ntoms, &c. SC. all of which will be sold low for cash,\n\n\nJOHN M'LEAR,\n\n\nNo So Market street, Wilmington.\n\\. B. Also, grey HORSE. rising six years old\nand goes gently in harness, and is an excellent sad\nlehorse, warranted sound.\n\n\nOct. s. 4o-4t",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 197,
+                "y0": 2516,
+                "x1": 657,
+                "y1": 2591
+            },
+            "class": "headline",
+            "raw_text": "Ebr,y Goods.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 62,
+                "y0": 1264,
+                "x1": 808,
+                "y1": 2006
+            },
+            "class": "article",
+            "raw_text": "CoYcoRp.-Dr. Thomas Adams, p. M.\nBntocrv1LLE.--HanryC Cannon, T. M.\nMLToN.--Mr. Arthur Milby\n\n\nFaANKFoRD.-Mr. Isaiah Long.\n\n\nDAGsBoRoucm--Dr. Edward Dngle.\nGEORGE TowN.-Mr. Joshua S. Layton.\nIEwEs--H. F. Rodney, P. M.\n\n\nMmroRp.-Mr. Joseph G. Oliver.\nFREDERIcA.-J. Emerson, P. NJ.\nCAapEN.-Thomas Wainwright, P. M.\nDovER.-John Robertson, Esq.\nSNYRNA-Samuel HI. Hodson, Esq.\nCANrwELLs BRIDGE.---Manlove Hayes, P M.\nMIDpLErowN.--Thomas Harry, P. M.\nSUMMIT BRIpGE.--john Clement, P. M.\nWARWICK, Md.--John Mpreton, P. M.\nSubscribers living in the vicinity of the residence\n# these Agents, may pay their subscription none.\nthem they being authorized to receive it, and t.\ni've receipts.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 296,
+                "y0": 1212,
+                "x1": 553,
+                "y1": 1257
+            },
+            "class": "headline",
+            "raw_text": "AGENTS..",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1652,
+                "y0": 2694,
+                "x1": 2454,
+                "y1": 5202
+            },
+            "class": "article",
+            "raw_text": "To the eicuatioa Of Gen. ANDREW JACKSON, to\n\n\nthe Chig .Magistracy Of these U. STATES.\nWhen. in the of public events, it becomes\nnecessary for one party to oppose the political Chief\nwho, to the surprise of the nations of the earth,\nsupported by another for deniiied and lofty sta\nton, for which the fiat of nature and of natures God\ndisquallties hima decent respect for the advance.\nment Of their requires that they should declare\nthe reasons which impel them to the opposition\nWe hold these truths TO be self eviden--that GER\ntain requisites necessary In Chief Magistrate\nThat amongst these, respect for the laws knowi-\nedge of the constitutions experience in public affairs.\n| and acquaintance with the political and diplomatic\nhistory Of the country. That the generous and en-\nlightenet support or his fellow citizens, is the high\nest incentive OF the Patriot and that capricious dis\ntrust OF public servants is conducive to aesposm\nas unsuspecting confidence. Prudence, indeed, will\ndictate that an administration once established,\nshould not be changed for light and transient causes\nand accordingly our experience hath shewn, that the\nnation is more disposed to renew its confidence\nwhen merted. than to crafty tactlous opposition by\nqualtennal changes. And when Il long course Of\nabuse anddenunciaton, pursuing invariably the same\nobject evinces design to destroy the admnlstra-\nton, tho pure the Angels at the right hand of\nGod\" it is the right, il is the duty of its friends, to\n] throw aside all forbearance, and boldly to inquire\ninto the pretenslons of the Candidate thus suppor-\nleu. CuCn mas Doen lne lnfuIlateu COnuuCl Vi Lac\n\n\nopposition, and such is now the necessity, which\n\n\nconstrans to declare, that the history OF AN\nDREW JACKSON, is replete with Incorporate\n\n\nbursts of passion, arbitrary measures and gross vo-\n\n\nlations of the constitution-a going TO show his un\n\n\nfitness for the first office in our government.-Tc\n\n\nprove this let facts be submitted to candid world\nHe has in the outset of his military career, re-\n\n\nfused to obey order of government directing hin\n!, to disband his army.\n\n\nHe has carried on war against the Indians in a mer\n\n\nciless spirit, and hurled upon them an undlstingush\ned destruction of all ages, sexes, and conditions.\nr He has suspended the proceedings of eglsla\n\n\ntive body, for opposing with manly hrmness, his in\n!. vasons on the rights of the people.\n\n\nj He has arrested Printer for venturing to pub\n\n\nlsh structures on bis high handed conduct thus vio\nlang the liberty of the pressa liberty lnestimablt\n:. to US and formidable to tyrants only.\n\n\nHe has not only treated with contempt the writ o\n9 habeas corpus. but arrested the Judge who issued\nit-thus rendering the military independent Of, and\nJ., superior to the civil power.\n\n\n4 lie has, fortnight after the battle of Orleans\nand after peace made, signed an order for the\n: execution of six mllitiamen, whose only crime was\nreturning to their homes by advice of their officers\nl., their term of service having expired.\n\n\n# He has, after the news of peace was known, or\nt. dered the execution Of eight regulars, found guilty\nQ of deseron--a waste ofhuman blood, not called for\ne az an example, since they shot in detail, in a\nplace remote from the army. at which there was moi\nv troops suificientt to execute them in body.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 1808,
+                "y0": 2538,
+                "x1": 2242,
+                "y1": 2599
+            },
+            "class": "headline",
+            "raw_text": "POL. I M g a L.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -2
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 1695,
+                "y0": 2616,
+                "x1": 2389,
+                "y1": 2695
+            },
+            "class": "author",
+            "raw_text": "From the Political .lrenn.\nDECLARATION OF OBJECTIONS",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 49,
+                "y0": 2079,
+                "x1": 821,
+                "y1": 2487
+            },
+            "class": "article",
+            "raw_text": "Persons wishing any sort of PAINTING done, with\nnealness, accuracy, aud dispatch ADVERTISEMENTS\nInserted, or SUBSCRIPTIONS paid where there are\nno Agents appointed in their neghbourhood to re-\nceve them, will please apply, or direct to IT, Porter\nand Son, No. 81, Market Street, Wilmington.\n\n\nAll communications, not of the above character\no be addressed to NJ Bradford, Editor OF the Della\nware Journal, Wilmington.\n\n\nThis Arrangement is made for the more regular\n|anl prompt execution Of business.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 296,
+                "y0": 2022,
+                "x1": 544,
+                "y1": 2071
+            },
+            "class": "headline",
+            "raw_text": "NOTICE.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 84,
+                "y0": 3837,
+                "x1": 856,
+                "y1": 4176
+            },
+            "class": "article",
+            "raw_text": "FOR the residue of the present year, and for the\nensuing twelve months, and possession given on the\n10th November, Mrs Dauphin's large Stone Man\nsion on Quaker Hill, now occupied by the Subscrl-\nher. To this airy, commodious and healthy resi-\ndence is attached an extensive and fertile garden\ntogether with valuable grass lot. For terms apply\nto H. l.. DAVIS.\n\n\nWilmington, Oct. Q, 1927. 48-4t",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 192,
+                "y0": 3772,
+                "x1": 735,
+                "y1": 3829
+            },
+            "class": "headline",
+            "raw_text": "TO DE RENTED,",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 71,
+                "y0": 3413,
+                "x1": 843,
+                "y1": 3747
+            },
+            "class": "article",
+            "raw_text": "ON Wednesday the l7th day of October, (inst }\n\n\nal Q o'clock, P. M. OH the premises\n\n\nWill be exposed to Public Sale, that desirable pro-\npery late the residence Of Joseph Robinsoh' dec d.\ncontaining about ninety acres, more or less ano\ncommanding an extensive view of the river Daia\nware, the Borough of WILMINGTON and surrounding\ncountry. JAMES ROblNooN.\n\n\nOct. 9, 1897. 48-3t",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 162,
+                "y0": 3274,
+                "x1": 769,
+                "y1": 3349
+            },
+            "class": "headline",
+            "raw_text": "Public Sale of",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -2
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 93,
+                "y0": 3356,
+                "x1": 813,
+                "y1": 3405
+            },
+            "class": "headline",
+            "raw_text": "VALUABLE REAL ESTATE.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 88,
+                "y0": 4257,
+                "x1": 865,
+                "y1": 4605
+            },
+            "class": "article",
+            "raw_text": "Runaway from the subscriber, living in Christi\nana Hundred, near Wilmington, Del. an apprentice\nboy to the Wheel-wright business, named Charles\nGrimes, aged nineteen years. Whosoever secures\nand brings home said boy, shall receive the above\nreward but no charges. All persons are torwarn-\ned harbouring him.\n\n\nJAMES C.alMPBELL.\nWilmington, Oct. II, 1927. 5O-ltp",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 262,
+                "y0": 4201,
+                "x1": 678,
+                "y1": 4245
+            },
+            "class": "headline",
+            "raw_text": "SLY CENTS REJT.lRD.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 41,
+                "y0": 861,
+                "x1": 813,
+                "y1": 1192
+            },
+            "class": "article",
+            "raw_text": "THE DELlWARE JOURNAL is pub\nlshed on Tuesdays and Fridays. at four dollars\nuer u,l.s; tsoo dollars every sia months in ad-\npance.\n\n\nadvertisements inserted on the usual terms\nTis: One dollar for four insertions Of si1teen'\nlines. and so IN proportion for every number q\nadditional lines aud insertions.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 236,
+                "y0": 783,
+                "x1": 626,
+                "y1": 841
+            },
+            "class": "headline",
+            "raw_text": "CONDITIONS.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2475,
+                "y0": 4608,
+                "x1": 3273,
+                "y1": 5198
+            },
+            "class": "article",
+            "raw_text": "THE Vice Presidency.-In different parts Of the\nUnion, nominations begin to be made for the Vice\nPresidency Soon after the termination Of the last\nSession of Congress, the reader will recollect we\nmentioned the rumor, then very prevalent, that Mr.\nCALHOUN was not to be supported for the Vice Press\nidency by the Combination we might have added\n(but we do not remember that we dit) that this de-\ntermination made sine qua non by an honoraA\nBILE SENATOR without whose accession to the party it\nwould, even in the Senate, have been in decided\nminority. Recent indications, induce US to suppose.\nthat it is now determined, by the Southern part Of\nthe Combination, that Mr. Calhoun shall be upheld,\nat all hazards which determination appears to US\nmuch more generous and magnanimous than the has",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 2635,
+                "y0": 4560,
+                "x1": 3087,
+                "y1": 4605
+            },
+            "class": "headline",
+            "raw_text": "From the, National Journal.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 829,
+                "y0": 1043,
+                "x1": 1644,
+                "y1": 5194
+            },
+            "class": "article",
+            "raw_text": "village not Tar from salem, an universal gloom was\nspread over the whole face of the country. for at |\nleast three miles round. The great mansion house,\nwith all its appurtenances, become the inheritance\non certain conditions, of three bereaved maiden sis\nters, full grown, and somewhat lapsing beyond |\ncertain age. faithful guardianship of their neice,\nthe Colone's only child, Miss Admirable Potts, |\nwas the tenure upsn which the elder ladies were to\n.have and to hold the aforeg granted premises during\ntheir natural lives.'' Now Miss Admirable was Of\nthat age wherein it is customary to think tenderly\nof being thought Of and the indulgence of this pen\nsve mood by the damse in question, may be deem\ned no transgresslon of the cannons of modesty the\nreader hereof is adured to ransack the most ro-\nmantle corner Of his memory, for such notions of\nfeminine grace as shall contribute to the formation\nof very pretty picture of Miss Admirable Potts\nUnder such circumstances, it behooved the three\naunts to be especially scrupulous in regard to the\nbehaviour OF their ward duty which they resol-\nwe'd to exercise with the utmost vigilance and\nrigor\n\n\nLong sanctioned practice among matter of-fact\nnovests, demands a personal description Of those\ncharacters wherewith the writer chooseth to adorn\nhis tale. As for the Colonel, his demise is alread\nrecorded-and no interest in what he ,Uns can be\nsupposed to engage the present generation. The\nheroine herself as hath before been remarked being\nwholly indescrbabe, is abandoned to the dreams Of\nfancy. But there was triumvrate of responsible\n| spinsers, with whom the world longeth to become\n| acquaned-to wit: in chrnnologc cal graduation,\n| Miss Experience, Miss Watstill and Mss Silence\ndaughters Of the once late Faithful Potts, Esquire,\nand Deliverance his wife. The eldest was p,im,\nsharp-nosed fidgetty antique who tonk much pains\nand some snuff; the next comfortable round faced,\nsolid body, with pleasant temper good appe-\n| tie; the third dried poppy, wrinkled, soporific,\ntaclturn, and forbldding Such were the remnants\nof an ancient race-the ultimate fragments of the\n4 Pottses.\n\n\nHard by their family residence, lived the Rev.\nJeshuron Snarltext, tough long lmbed, gaunt\nbachelor, OF two score years and upwards. This\ngentleman, by OF numerous accidental calls\nand divers voluntary counsels in domestic matters\nhad succeeded in fascinating nearly all the old ladies'\n\n\nIN the parish 10 this charming faculty he added\n\n\nlite airy taste-serving up his homilies to the highest\nqualification of his auditory being gracously assist\ned hereunto by certain deyout and learned diyines,\nwhose accommodating fOlios and quartos performed\nwonders similar to that which the angel wrought up\non the beast OF Balaam. moreover, his reverence\nrcligousy remembered many rare scriptural iniunc-\ntions, considering himself worse than any iniidel\nshould he neglect making provision for his wn bodi\nlly comfort and deeming it above all things prtl-\ndent, to make to himself friends of the mammon of\n\n\nunrghteousness. Moved by considerations so weigh\n\n\nty, he had long goated ascant upon the person and\n\n\nsupposed chatteis of Miss Silence Pots--which she\nnothing loah, perceived with all due quietudc and\n\n\n\n\n\nreached its contemplated crisis, parson Snartext.\n= in conversation day with Deacon Aonl ah Pitch\ny er, grand-unce of the celebrated Mary Pitcher,\n\n\ncertaned, to his unspeakable horror that the wholt\n5 Potts estate was entaied upon Miss Admirable\n\n\nThe Deacon.an honest, substantial, raight-forwart\n\n\nwoman, unconscious of the blow already nflict\n\n\ned by his disclosures proceeded to descant largely\n\n\nupon the charms. both inherent and acquired, OF th\n,e young gheiress-finishing his eulogium with yehe\nle men hope that she might never become the prey\nn fortunehunter, nor marry for aught but love\nRI The astounded clergyman, seized with tit OF rum\n81 nation stared through his spectaces, and went hi\nm way.\n\n\nIv Deacon Pitchers seventh son, Rejoice Hardy,\n\n\nrobust swain of two-and-twenty. had for som\n\n\nmonths harbored predilection towards young hlis\n: Potts. The sentiment was reciprocal /; though II\n\n\none, as yet, but aunt Waitstl, possessed the mt\n\n\nmentous secret and, in what manner she becom\nii its repository, is not material to relate. That sl\nce did obtain it, is beyond doubt-yet, it hath becom\nles matter fhstory, that she kept it for whole weel\n'es And whyp Because Rejoice, in her opinion, was\nWe very proper, fair spoken youngster; and an ear\nm development mig ght have retarded that union whc\n\n\nshe hoped to see accomplished The parsons e\n\n\nelusive attention to Miss Silence had ceased, an\n\n\nMiss Experience was busls plotting match betwee\n= his worship and the heiress !; but, parenthetca\n\n\nspeaking, she might have plotted till this very day\nfor Admirable was ncxorable.\n\n\n'y One Sunday evening, the Kew. MIR. Snarltext wi\ngossipping as usual with the ladies' at the mansic\n\n\nhouse. As the evening waned, Miss Watstill wit\n- drew to an adjoining apartment, whittier she ha\n\n\nprivately invited the Deacon's son. Through o\n\n\nposte door, Silence ratired from pque, and Expe\nper ience followed from design slawly they traipst\nso onward in solemn staeliness to their respective\ners ches-and straighy all was still. The tall clock\nthe staircase had told eleven, and the refec\n= ed Il mysterious sort Of brilliancy: Now for 10,\noy. scene. Mr.. Snartext commenceda discourse on IL\n\n\nsubject of ghosts-averrng that, for two nights\n\n\nsucrossinn preciseIv at miIluoht he had distinct",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 1050,
+                "y0": 822,
+                "x1": 1389,
+                "y1": 871
+            },
+            "class": "headline",
+            "raw_text": "A LOVE STORY.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -2
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 950,
+                "y0": 900,
+                "x1": 1493,
+                "y1": 945
+            },
+            "class": "headline",
+            "raw_text": "FROM THE NANTUCKET INQUIRER.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2427,
+                "y0": 900,
+                "x1": 3277,
+                "y1": 5055
+            },
+            "class": "article",
+            "raw_text": "\ntuition in the representatives of the people.\n| He has insoently told the Gov ofGeorgia, you\nsir as governor of the state, have right to give\nIA military order, whilst am in the field''--thns\nshowing his contempt for the most important right\ng reserved to the states.''\n\n\nHe has issued general order, directing the offl-\nGERS in his military division, to disregard amy order\nof the government which did not come through him.\nHe has, when the representatives OF the people\n\n\ninstituted an inquiry into his conduct manifested the\nutmost indignation and endeavored to intimidate\n| them by threats of violence.\n| He has meditaed personal assault upon mems\n| Der in his place in the Senate Chamber: and\nprevented from executing it, only by the threat Of\nthe noble Decatur take his life if he made the att\ntempt.\n| He has, whilst governor of territory cited be-\n\n\nfore him judge, whose sole offence was the issu-\n\n\ning, Gas his duty when applied to) the writ Of\nhabeas corpus.\n\n\ni He has in the same capacity, promulgated DEGREES,\n4 illegal and oppressive-declaring at the time, that\n\n\nas governor of Florida, he invested with all the\n\n\npowers exercised by the captain general of the ISL\n\n\nand of Cuba, powers foreign to our constitutions and\n\n\nunacknowedged by our laws.\n\n\nHe has gravely stated, that had he been comtnarls\n\n\nder of that military district he would have hung the\n\n\nmembers of the Hartford Convention, under the\n\n\nsecond seotion of the rules and regulations for the\n\n\ngovernment of the army--a latitude OF construction\n! highly unwarrantabe and dangerous.\n\n\n\n\n\n; Madisons reelection that as philosopher he\ncould not look with composure on blood and car\nmage\"\n\n\nHe has when a commissioner, negotiating with the\nIndians stipulated for grant of land to himself,\nwhich article of the treaty was not ratified by the\nSenate of the United States.\nHe has whilst general in the army Of the United\n|States ntruded into the legislature OF his own state,\nand harrangued the members on an important ques-\nton then pending.\n\n\nHe has written numerous electioneering leers---s\n\n\nin spite of the sentiment of the lamened Lowndess\n\n\nwhich he has affected TO adopt.\no He has whilst in the Senate of the United States,\ncontented himself with giving negative vote, on\nIS Nomination brought about (he being according to his\nown story conuzani Of the tac by bribery and corA\nis ruption-thus abandoning his solemn duty and be-\nl. tray ing his constituents.\n\n\nd He has at his own iresde'' circulated a bass\n). slander against the second officer in the cabinet nnd\ne lis not supported in his statement by the witness\n\n\nwhom he summons.\n\n\n: He has to promote his own views taken 10 his\nbosom man, long his deadliest enemy, and whose\nl. life he once attempted.\n\n\n), In every one of these outrages he has been jisti,\nc fed by his adherents repeated remonstrance3\nl. have been answered only by repeated injury. y\n\n\nman, whose character is thus marked, by every act;\nwhich may define tryran, is unfit to be the rules\nl. of free people.\n\n\nII Nor have been wanting in attentions 10 our\nl. fellow ireemen. We have warned them from time\nto timc OF the attempt Of combination, to extend\n,e military despotism over us. We have reminded\n, them of Caesar, Cromwell and Napoleon. We\nhave appealed to their native good and love Of\nOf liberty and we have conured them, by the ties of\n,e our common country, to lrown upon man, whose\nA. elevation will inevitably give death blow to the\nof republic. They will not be deaf to the voice Of\nto reason and experience but acquesce in our denns\nre citation of his pretensions to civil office, and hold\nr. him. as we hold the rest of military chietains-\nhe useful in war--ln peace dangerous\nch We, therefore, the friends OF the present admblss\ntraton of the general government, appealing to the\ntie supreme law of the land for the protection OF Off\no. persons do in the and by virtue OF those prn@\nM ciples which we have inherited, soemnly publish\n10 and declare that ANDREW JACKSON is, and al.\nd. ways will be, rash, incompetent and dangerous-thae\ne. he destitute of all pretenson to the chair OF state,\nina and that all political cennexion between him and our\n\n\nourishing Republic, is and ought to be totally de-\n,r. nounced and that in free and republican sates\nh. civil virtues talents and political experiences are,\n\n\nand of right ought to be, preferred to fame, exclus\nla sively military And for the support of this declas\nin ration, with firm reliance the good sense OF the\n\n\ncommunity, we mutually pledge to each other Ucr\n,b- votes, our influence and ceaseless efforts.\nlie From the, National Journal\n\n\nThe Tice Presidencu-In different parts Of the\nOF Union, nominations begin to be made for the Vice\ned Presidency. Soon after the termination Of the last\nnd Session of Congress, the reader will recoect we\n\n\nmentioned the rumor, then very prevalent that Mr..\nCALHOUN to be supported for the Vice Pres.\nhe idency by the Combination we might have added\nas but do not remember that ditD that this de-\nrs, termination was made sine qua by an hOnoraA\n\n\nBILE Senator, without whose accession to the party it\nr. would even in the Senate, have been in decided\nty minority. Recent Indications induce US to suppose.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 2904,
+                "y0": 619,
+                "x1": 3216,
+                "y1": 702
+            },
+            "class": "headline",
+            "raw_text": "JNo. 81.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 33,
+            "bbox": {
+                "x0": 3627,
+                "y0": 324,
+                "x1": 4581,
+                "y1": 4332
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 34,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 106,
+                "y0": 4911,
+                "x1": 878,
+                "y1": 5064
+            },
+            "class": "article",
+            "raw_text": "The subscribers Keep a constant supply Of Super\nroyal such this paper is printed on, price S. 30\niso Medium and other printing and vritng papers.\nSep. II. r. PORTER {. SON.",
+            "legibility": "Questionable",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 171,
+                "y0": 4829,
+                "x1": 800,
+                "y1": 4903
+            },
+            "class": "headline",
+            "raw_text": "Super-royak Paper.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": -1
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                32,
+                30,
+                0
+            ],
+            "headline": "No. 81, Market-Street,W Wilmington.\n\nTUESDAY, October lG, 1927.",
+            "article": "observed huge apparition marching round and\nround little hillock then visible He then ampli-\nHe'd on the inconvenience and dangers OF solitude\non the advantage Of conugal life, the duty of young\nladies' to provide themselves with protectors, and all\nthat sort OF dlsinterested augmentation talking,\nwithout Interruption for the space of fortyive min\nues, when he departed in high spirits. All the\nbaransue was overheard by Miss Waitstill Potts,\nand MIR. Rejoice Hardy Pitcher seated, before\nintmated, in an adjacent room. Presently it was\nMidnight as the clock announced the hour, Miss\nAdmirable, still alone. unwttingy looked out upon\nthe haunted knoll. Nothing could be more ROMAN\ntic here, fores throwing its giant shadows ACROSS\nfields and c0pses. and little streams stealing forth to\nthe broad moonshine; there, gorgeous lake, throw\ning up millions of sparklcs among the zephyrs that\nwantoned upon its bosom-and yonder, tall figure\n\n\nin white, stalking over the base ola dapidated dung\nheap!\n\n\nssAh !\" sighed the damsel, audibly, 81 wish to\nthe marcy was married to Rejoice Pitcher! But\nall the gobins in the whole parish amt going to\nmake me have that ere old hypocritical gander.''\nSay thee so, my gairl /\" exclaims Rejoice, burs-\nting into the room, then, Pm the boy; aunt Waty,s\ngot license. and iii fetch the parson in ajify''-\nand away he sped, while Miss Waitsti!l unraveed\nthe whole matter. In few minutes, the stout young\nster re-appeared. dragging in his reverence, wrap\nped in amazement, and homespun sheet: the latter\nhappening to be just withdrawn from the neghborng\nhedge, and marked at one corner, +. ID. p. sThis\nyoung lady hath need ofa protector against ghosts\n\n\nsaid Miss Waitst, addressing the clerical spectre\n\n\n''And if thee don't marry as right away\" added\nRejoice :. Pl wallop thee for counterfeit wizard\n\n\nThe saint was forced to comply, and rolled up his\n. ewes, as he CALCULATED, . sThe---the--\ndevil 2! He turned upon his heel, and has not since\nbeen heard Of There followed festivities and lner\n\n\nrymakings without number at the various dwellings\n\n\nof the Pitchers and the Pottses. But what signifies\n\n\n1t is melancholy fact, that all the actors in thes\n\n\nscenes, even to the youngest and most hale hav'",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1998,
+                    "y0": 506,
+                    "x1": 2926,
+                    "y1": 572
+                },
+                {
+                    "x0": 942,
+                    "y0": 615,
+                    "x1": 2259,
+                    "y1": 711
+                },
+                {
+                    "x0": 1630,
+                    "y0": 801,
+                    "x1": 2428,
+                    "y1": 2521
+                }
+            ],
+            "bbox": [
+                942,
+                506,
+                2926,
+                2521
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-10-16_p1_sn83025530_00271740220_1827101601_0218.json"
+        },
+        {
+            "object_ids": [
+                12,
+                1
+            ],
+            "headline": "Ebr,y Goods.",
+            "article": "The subscriber has just received large and ex-\nrnsve supply Of fresh imported and seasonable Dry\nGoods. such tas Cloths, Cassmers, Sattnetts, Flan\nels Baizes, Tartan and Circassian Plads, Camblets,\nCacos, Bombazetts, Bombazenes, Merino Shawls,\nBang up cords, Irish Linens, Cambria and long\ncloth Muslins. Book Muslns, Lambs wool and\nworstcd Hose, Tickings Domestic Plaids, Stripes,\nand Muslins, Pittsburgh Cords, Fusting. Driings,\nChecks Bearskins, Kerseys, Umbrellas, Russia\nSheetings, Blankets, rose and point, Sacking bot\ntoms, &c. SC. all of which will be sold low for cash,\n\n\nJOHN M'LEAR,\n\n\nNo So Market street, Wilmington.\n\\. B. Also, grey HORSE. rising six years old\nand goes gently in harness, and is an excellent sad\nlehorse, warranted sound.\n\n\nOct. s. 4o-4t",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 197,
+                    "y0": 2516,
+                    "x1": 657,
+                    "y1": 2591
+                },
+                {
+                    "x0": 58,
+                    "y0": 2603,
+                    "x1": 830,
+                    "y1": 3262
+                }
+            ],
+            "bbox": [
+                58,
+                2516,
+                830,
+                3262
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-10-16_p1_sn83025530_00271740220_1827101601_0218.json"
+        },
+        {
+            "object_ids": [
+                17,
+                2
+            ],
+            "headline": "AGENTS..",
+            "article": "CoYcoRp.-Dr. Thomas Adams, p. M.\nBntocrv1LLE.--HanryC Cannon, T. M.\nMLToN.--Mr. Arthur Milby\n\n\nFaANKFoRD.-Mr. Isaiah Long.\n\n\nDAGsBoRoucm--Dr. Edward Dngle.\nGEORGE TowN.-Mr. Joshua S. Layton.\nIEwEs--H. F. Rodney, P. M.\n\n\nMmroRp.-Mr. Joseph G. Oliver.\nFREDERIcA.-J. Emerson, P. NJ.\nCAapEN.-Thomas Wainwright, P. M.\nDovER.-John Robertson, Esq.\nSNYRNA-Samuel HI. Hodson, Esq.\nCANrwELLs BRIDGE.---Manlove Hayes, P M.\nMIDpLErowN.--Thomas Harry, P. M.\nSUMMIT BRIpGE.--john Clement, P. M.\nWARWICK, Md.--John Mpreton, P. M.\nSubscribers living in the vicinity of the residence\n# these Agents, may pay their subscription none.\nthem they being authorized to receive it, and t.\ni've receipts.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 296,
+                    "y0": 1212,
+                    "x1": 553,
+                    "y1": 1257
+                },
+                {
+                    "x0": 62,
+                    "y0": 1264,
+                    "x1": 808,
+                    "y1": 2006
+                }
+            ],
+            "bbox": [
+                62,
+                1212,
+                808,
+                2006
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-10-16_p1_sn83025530_00271740220_1827101601_0218.json"
+        },
+        {
+            "object_ids": [
+                18,
+                26,
+                3
+            ],
+            "headline": "POL. I M g a L.",
+            "article": "To the eicuatioa Of Gen. ANDREW JACKSON, to\n\n\nthe Chig .Magistracy Of these U. STATES.\nWhen. in the of public events, it becomes\nnecessary for one party to oppose the political Chief\nwho, to the surprise of the nations of the earth,\nsupported by another for deniiied and lofty sta\nton, for which the fiat of nature and of natures God\ndisquallties hima decent respect for the advance.\nment Of their requires that they should declare\nthe reasons which impel them to the opposition\nWe hold these truths TO be self eviden--that GER\ntain requisites necessary In Chief Magistrate\nThat amongst these, respect for the laws knowi-\nedge of the constitutions experience in public affairs.\n| and acquaintance with the political and diplomatic\nhistory Of the country. That the generous and en-\nlightenet support or his fellow citizens, is the high\nest incentive OF the Patriot and that capricious dis\ntrust OF public servants is conducive to aesposm\nas unsuspecting confidence. Prudence, indeed, will\ndictate that an administration once established,\nshould not be changed for light and transient causes\nand accordingly our experience hath shewn, that the\nnation is more disposed to renew its confidence\nwhen merted. than to crafty tactlous opposition by\nqualtennal changes. And when Il long course Of\nabuse anddenunciaton, pursuing invariably the same\nobject evinces design to destroy the admnlstra-\nton, tho pure the Angels at the right hand of\nGod\" it is the right, il is the duty of its friends, to\n] throw aside all forbearance, and boldly to inquire\ninto the pretenslons of the Candidate thus suppor-\nleu. CuCn mas Doen lne lnfuIlateu COnuuCl Vi Lac\n\n\nopposition, and such is now the necessity, which\n\n\nconstrans to declare, that the history OF AN\nDREW JACKSON, is replete with Incorporate\n\n\nbursts of passion, arbitrary measures and gross vo-\n\n\nlations of the constitution-a going TO show his un\n\n\nfitness for the first office in our government.-Tc\n\n\nprove this let facts be submitted to candid world\nHe has in the outset of his military career, re-\n\n\nfused to obey order of government directing hin\n!, to disband his army.\n\n\nHe has carried on war against the Indians in a mer\n\n\nciless spirit, and hurled upon them an undlstingush\ned destruction of all ages, sexes, and conditions.\nr He has suspended the proceedings of eglsla\n\n\ntive body, for opposing with manly hrmness, his in\n!. vasons on the rights of the people.\n\n\nj He has arrested Printer for venturing to pub\n\n\nlsh structures on bis high handed conduct thus vio\nlang the liberty of the pressa liberty lnestimablt\n:. to US and formidable to tyrants only.\n\n\nHe has not only treated with contempt the writ o\n9 habeas corpus. but arrested the Judge who issued\nit-thus rendering the military independent Of, and\nJ., superior to the civil power.\n\n\n4 lie has, fortnight after the battle of Orleans\nand after peace made, signed an order for the\n: execution of six mllitiamen, whose only crime was\nreturning to their homes by advice of their officers\nl., their term of service having expired.\n\n\n# He has, after the news of peace was known, or\nt. dered the execution Of eight regulars, found guilty\nQ of deseron--a waste ofhuman blood, not called for\ne az an example, since they shot in detail, in a\nplace remote from the army. at which there was moi\nv troops suificientt to execute them in body.",
+            "byline": "From the Political .lrenn.\nDECLARATION OF OBJECTIONS",
+            "bbox_list": [
+                {
+                    "x0": 1808,
+                    "y0": 2538,
+                    "x1": 2242,
+                    "y1": 2599
+                },
+                {
+                    "x0": 1695,
+                    "y0": 2616,
+                    "x1": 2389,
+                    "y1": 2695
+                },
+                {
+                    "x0": 1652,
+                    "y0": 2694,
+                    "x1": 2454,
+                    "y1": 5202
+                }
+            ],
+            "bbox": [
+                1652,
+                2538,
+                2454,
+                5202
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-10-16_p1_sn83025530_00271740220_1827101601_0218.json"
+        },
+        {
+            "object_ids": [
+                15,
+                4
+            ],
+            "headline": "NOTICE.",
+            "article": "Persons wishing any sort of PAINTING done, with\nnealness, accuracy, aud dispatch ADVERTISEMENTS\nInserted, or SUBSCRIPTIONS paid where there are\nno Agents appointed in their neghbourhood to re-\nceve them, will please apply, or direct to IT, Porter\nand Son, No. 81, Market Street, Wilmington.\n\n\nAll communications, not of the above character\no be addressed to NJ Bradford, Editor OF the Della\nware Journal, Wilmington.\n\n\nThis Arrangement is made for the more regular\n|anl prompt execution Of business.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 296,
+                    "y0": 2022,
+                    "x1": 544,
+                    "y1": 2071
+                },
+                {
+                    "x0": 49,
+                    "y0": 2079,
+                    "x1": 821,
+                    "y1": 2487
+                }
+            ],
+            "bbox": [
+                49,
+                2022,
+                821,
+                2487
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-10-16_p1_sn83025530_00271740220_1827101601_0218.json"
+        },
+        {
+            "object_ids": [
+                13,
+                5
+            ],
+            "headline": "TO DE RENTED,",
+            "article": "FOR the residue of the present year, and for the\nensuing twelve months, and possession given on the\n10th November, Mrs Dauphin's large Stone Man\nsion on Quaker Hill, now occupied by the Subscrl-\nher. To this airy, commodious and healthy resi-\ndence is attached an extensive and fertile garden\ntogether with valuable grass lot. For terms apply\nto H. l.. DAVIS.\n\n\nWilmington, Oct. Q, 1927. 48-4t",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 192,
+                    "y0": 3772,
+                    "x1": 735,
+                    "y1": 3829
+                },
+                {
+                    "x0": 84,
+                    "y0": 3837,
+                    "x1": 856,
+                    "y1": 4176
+                }
+            ],
+            "bbox": [
+                84,
+                3772,
+                856,
+                4176
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-10-16_p1_sn83025530_00271740220_1827101601_0218.json"
+        },
+        {
+            "object_ids": [
+                25,
+                28,
+                6
+            ],
+            "headline": "Public Sale of\n\nVALUABLE REAL ESTATE.",
+            "article": "ON Wednesday the l7th day of October, (inst }\n\n\nal Q o'clock, P. M. OH the premises\n\n\nWill be exposed to Public Sale, that desirable pro-\npery late the residence Of Joseph Robinsoh' dec d.\ncontaining about ninety acres, more or less ano\ncommanding an extensive view of the river Daia\nware, the Borough of WILMINGTON and surrounding\ncountry. JAMES ROblNooN.\n\n\nOct. 9, 1897. 48-3t",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 162,
+                    "y0": 3274,
+                    "x1": 769,
+                    "y1": 3349
+                },
+                {
+                    "x0": 93,
+                    "y0": 3356,
+                    "x1": 813,
+                    "y1": 3405
+                },
+                {
+                    "x0": 71,
+                    "y0": 3413,
+                    "x1": 843,
+                    "y1": 3747
+                }
+            ],
+            "bbox": [
+                71,
+                3274,
+                843,
+                3747
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-10-16_p1_sn83025530_00271740220_1827101601_0218.json"
+        },
+        {
+            "object_ids": [
+                24,
+                7
+            ],
+            "headline": "SLY CENTS REJT.lRD.",
+            "article": "Runaway from the subscriber, living in Christi\nana Hundred, near Wilmington, Del. an apprentice\nboy to the Wheel-wright business, named Charles\nGrimes, aged nineteen years. Whosoever secures\nand brings home said boy, shall receive the above\nreward but no charges. All persons are torwarn-\ned harbouring him.\n\n\nJAMES C.alMPBELL.\nWilmington, Oct. II, 1927. 5O-ltp",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 262,
+                    "y0": 4201,
+                    "x1": 678,
+                    "y1": 4245
+                },
+                {
+                    "x0": 88,
+                    "y0": 4257,
+                    "x1": 865,
+                    "y1": 4605
+                }
+            ],
+            "bbox": [
+                88,
+                4201,
+                865,
+                4605
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-10-16_p1_sn83025530_00271740220_1827101601_0218.json"
+        },
+        {
+            "object_ids": [
+                16,
+                8
+            ],
+            "headline": "CONDITIONS.",
+            "article": "THE DELlWARE JOURNAL is pub\nlshed on Tuesdays and Fridays. at four dollars\nuer u,l.s; tsoo dollars every sia months in ad-\npance.\n\n\nadvertisements inserted on the usual terms\nTis: One dollar for four insertions Of si1teen'\nlines. and so IN proportion for every number q\nadditional lines aud insertions.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 236,
+                    "y0": 783,
+                    "x1": 626,
+                    "y1": 841
+                },
+                {
+                    "x0": 41,
+                    "y0": 861,
+                    "x1": 813,
+                    "y1": 1192
+                }
+            ],
+            "bbox": [
+                41,
+                783,
+                813,
+                1192
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-10-16_p1_sn83025530_00271740220_1827101601_0218.json"
+        },
+        {
+            "object_ids": [
+                23,
+                9
+            ],
+            "headline": "From the, National Journal.",
+            "article": "THE Vice Presidency.-In different parts Of the\nUnion, nominations begin to be made for the Vice\nPresidency Soon after the termination Of the last\nSession of Congress, the reader will recollect we\nmentioned the rumor, then very prevalent, that Mr.\nCALHOUN was not to be supported for the Vice Press\nidency by the Combination we might have added\n(but we do not remember that we dit) that this de-\ntermination made sine qua non by an honoraA\nBILE SENATOR without whose accession to the party it\nwould, even in the Senate, have been in decided\nminority. Recent indications, induce US to suppose.\nthat it is now determined, by the Southern part Of\nthe Combination, that Mr. Calhoun shall be upheld,\nat all hazards which determination appears to US\nmuch more generous and magnanimous than the has",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2635,
+                    "y0": 4560,
+                    "x1": 3087,
+                    "y1": 4605
+                },
+                {
+                    "x0": 2475,
+                    "y0": 4608,
+                    "x1": 3273,
+                    "y1": 5198
+                }
+            ],
+            "bbox": [
+                2475,
+                4560,
+                3273,
+                5198
+            ],
+            "full_article_id": 10,
+            "id": "10_1827-10-16_p1_sn83025530_00271740220_1827101601_0218.json"
+        },
+        {
+            "object_ids": [
+                14,
+                22,
+                10
+            ],
+            "headline": "A LOVE STORY.\n\nFROM THE NANTUCKET INQUIRER.",
+            "article": "village not Tar from salem, an universal gloom was\nspread over the whole face of the country. for at |\nleast three miles round. The great mansion house,\nwith all its appurtenances, become the inheritance\non certain conditions, of three bereaved maiden sis\nters, full grown, and somewhat lapsing beyond |\ncertain age. faithful guardianship of their neice,\nthe Colone's only child, Miss Admirable Potts, |\nwas the tenure upsn which the elder ladies were to\n.have and to hold the aforeg granted premises during\ntheir natural lives.'' Now Miss Admirable was Of\nthat age wherein it is customary to think tenderly\nof being thought Of and the indulgence of this pen\nsve mood by the damse in question, may be deem\ned no transgresslon of the cannons of modesty the\nreader hereof is adured to ransack the most ro-\nmantle corner Of his memory, for such notions of\nfeminine grace as shall contribute to the formation\nof very pretty picture of Miss Admirable Potts\nUnder such circumstances, it behooved the three\naunts to be especially scrupulous in regard to the\nbehaviour OF their ward duty which they resol-\nwe'd to exercise with the utmost vigilance and\nrigor\n\n\nLong sanctioned practice among matter of-fact\nnovests, demands a personal description Of those\ncharacters wherewith the writer chooseth to adorn\nhis tale. As for the Colonel, his demise is alread\nrecorded-and no interest in what he ,Uns can be\nsupposed to engage the present generation. The\nheroine herself as hath before been remarked being\nwholly indescrbabe, is abandoned to the dreams Of\nfancy. But there was triumvrate of responsible\n| spinsers, with whom the world longeth to become\n| acquaned-to wit: in chrnnologc cal graduation,\n| Miss Experience, Miss Watstill and Mss Silence\ndaughters Of the once late Faithful Potts, Esquire,\nand Deliverance his wife. The eldest was p,im,\nsharp-nosed fidgetty antique who tonk much pains\nand some snuff; the next comfortable round faced,\nsolid body, with pleasant temper good appe-\n| tie; the third dried poppy, wrinkled, soporific,\ntaclturn, and forbldding Such were the remnants\nof an ancient race-the ultimate fragments of the\n4 Pottses.\n\n\nHard by their family residence, lived the Rev.\nJeshuron Snarltext, tough long lmbed, gaunt\nbachelor, OF two score years and upwards. This\ngentleman, by OF numerous accidental calls\nand divers voluntary counsels in domestic matters\nhad succeeded in fascinating nearly all the old ladies'\n\n\nIN the parish 10 this charming faculty he added\n\n\nlite airy taste-serving up his homilies to the highest\nqualification of his auditory being gracously assist\ned hereunto by certain deyout and learned diyines,\nwhose accommodating fOlios and quartos performed\nwonders similar to that which the angel wrought up\non the beast OF Balaam. moreover, his reverence\nrcligousy remembered many rare scriptural iniunc-\ntions, considering himself worse than any iniidel\nshould he neglect making provision for his wn bodi\nlly comfort and deeming it above all things prtl-\ndent, to make to himself friends of the mammon of\n\n\nunrghteousness. Moved by considerations so weigh\n\n\nty, he had long goated ascant upon the person and\n\n\nsupposed chatteis of Miss Silence Pots--which she\nnothing loah, perceived with all due quietudc and\n\n\n\n\n\nreached its contemplated crisis, parson Snartext.\n= in conversation day with Deacon Aonl ah Pitch\ny er, grand-unce of the celebrated Mary Pitcher,\n\n\ncertaned, to his unspeakable horror that the wholt\n5 Potts estate was entaied upon Miss Admirable\n\n\nThe Deacon.an honest, substantial, raight-forwart\n\n\nwoman, unconscious of the blow already nflict\n\n\ned by his disclosures proceeded to descant largely\n\n\nupon the charms. both inherent and acquired, OF th\n,e young gheiress-finishing his eulogium with yehe\nle men hope that she might never become the prey\nn fortunehunter, nor marry for aught but love\nRI The astounded clergyman, seized with tit OF rum\n81 nation stared through his spectaces, and went hi\nm way.\n\n\nIv Deacon Pitchers seventh son, Rejoice Hardy,\n\n\nrobust swain of two-and-twenty. had for som\n\n\nmonths harbored predilection towards young hlis\n: Potts. The sentiment was reciprocal /; though II\n\n\none, as yet, but aunt Waitstl, possessed the mt\n\n\nmentous secret and, in what manner she becom\nii its repository, is not material to relate. That sl\nce did obtain it, is beyond doubt-yet, it hath becom\nles matter fhstory, that she kept it for whole weel\n'es And whyp Because Rejoice, in her opinion, was\nWe very proper, fair spoken youngster; and an ear\nm development mig ght have retarded that union whc\n\n\nshe hoped to see accomplished The parsons e\n\n\nelusive attention to Miss Silence had ceased, an\n\n\nMiss Experience was busls plotting match betwee\n= his worship and the heiress !; but, parenthetca\n\n\nspeaking, she might have plotted till this very day\nfor Admirable was ncxorable.\n\n\n'y One Sunday evening, the Kew. MIR. Snarltext wi\ngossipping as usual with the ladies' at the mansic\n\n\nhouse. As the evening waned, Miss Watstill wit\n- drew to an adjoining apartment, whittier she ha\n\n\nprivately invited the Deacon's son. Through o\n\n\nposte door, Silence ratired from pque, and Expe\nper ience followed from design slawly they traipst\nso onward in solemn staeliness to their respective\ners ches-and straighy all was still. The tall clock\nthe staircase had told eleven, and the refec\n= ed Il mysterious sort Of brilliancy: Now for 10,\noy. scene. Mr.. Snartext commenceda discourse on IL\n\n\nsubject of ghosts-averrng that, for two nights\n\n\nsucrossinn preciseIv at miIluoht he had distinct",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1050,
+                    "y0": 822,
+                    "x1": 1389,
+                    "y1": 871
+                },
+                {
+                    "x0": 950,
+                    "y0": 900,
+                    "x1": 1493,
+                    "y1": 945
+                },
+                {
+                    "x0": 829,
+                    "y0": 1043,
+                    "x1": 1644,
+                    "y1": 5194
+                }
+            ],
+            "bbox": [
+                829,
+                822,
+                1644,
+                5194
+            ],
+            "full_article_id": 11,
+            "id": "11_1827-10-16_p1_sn83025530_00271740220_1827101601_0218.json"
+        },
+        {
+            "object_ids": [
+                31,
+                11
+            ],
+            "headline": "JNo. 81.",
+            "article": "\ntuition in the representatives of the people.\n| He has insoently told the Gov ofGeorgia, you\nsir as governor of the state, have right to give\nIA military order, whilst am in the field''--thns\nshowing his contempt for the most important right\ng reserved to the states.''\n\n\nHe has issued general order, directing the offl-\nGERS in his military division, to disregard amy order\nof the government which did not come through him.\nHe has, when the representatives OF the people\n\n\ninstituted an inquiry into his conduct manifested the\nutmost indignation and endeavored to intimidate\n| them by threats of violence.\n| He has meditaed personal assault upon mems\n| Der in his place in the Senate Chamber: and\nprevented from executing it, only by the threat Of\nthe noble Decatur take his life if he made the att\ntempt.\n| He has, whilst governor of territory cited be-\n\n\nfore him judge, whose sole offence was the issu-\n\n\ning, Gas his duty when applied to) the writ Of\nhabeas corpus.\n\n\ni He has in the same capacity, promulgated DEGREES,\n4 illegal and oppressive-declaring at the time, that\n\n\nas governor of Florida, he invested with all the\n\n\npowers exercised by the captain general of the ISL\n\n\nand of Cuba, powers foreign to our constitutions and\n\n\nunacknowedged by our laws.\n\n\nHe has gravely stated, that had he been comtnarls\n\n\nder of that military district he would have hung the\n\n\nmembers of the Hartford Convention, under the\n\n\nsecond seotion of the rules and regulations for the\n\n\ngovernment of the army--a latitude OF construction\n! highly unwarrantabe and dangerous.\n\n\n\n\n\n; Madisons reelection that as philosopher he\ncould not look with composure on blood and car\nmage\"\n\n\nHe has when a commissioner, negotiating with the\nIndians stipulated for grant of land to himself,\nwhich article of the treaty was not ratified by the\nSenate of the United States.\nHe has whilst general in the army Of the United\n|States ntruded into the legislature OF his own state,\nand harrangued the members on an important ques-\nton then pending.\n\n\nHe has written numerous electioneering leers---s\n\n\nin spite of the sentiment of the lamened Lowndess\n\n\nwhich he has affected TO adopt.\no He has whilst in the Senate of the United States,\ncontented himself with giving negative vote, on\nIS Nomination brought about (he being according to his\nown story conuzani Of the tac by bribery and corA\nis ruption-thus abandoning his solemn duty and be-\nl. tray ing his constituents.\n\n\nd He has at his own iresde'' circulated a bass\n). slander against the second officer in the cabinet nnd\ne lis not supported in his statement by the witness\n\n\nwhom he summons.\n\n\n: He has to promote his own views taken 10 his\nbosom man, long his deadliest enemy, and whose\nl. life he once attempted.\n\n\n), In every one of these outrages he has been jisti,\nc fed by his adherents repeated remonstrance3\nl. have been answered only by repeated injury. y\n\n\nman, whose character is thus marked, by every act;\nwhich may define tryran, is unfit to be the rules\nl. of free people.\n\n\nII Nor have been wanting in attentions 10 our\nl. fellow ireemen. We have warned them from time\nto timc OF the attempt Of combination, to extend\n,e military despotism over us. We have reminded\n, them of Caesar, Cromwell and Napoleon. We\nhave appealed to their native good and love Of\nOf liberty and we have conured them, by the ties of\n,e our common country, to lrown upon man, whose\nA. elevation will inevitably give death blow to the\nof republic. They will not be deaf to the voice Of\nto reason and experience but acquesce in our denns\nre citation of his pretensions to civil office, and hold\nr. him. as we hold the rest of military chietains-\nhe useful in war--ln peace dangerous\nch We, therefore, the friends OF the present admblss\ntraton of the general government, appealing to the\ntie supreme law of the land for the protection OF Off\no. persons do in the and by virtue OF those prn@\nM ciples which we have inherited, soemnly publish\n10 and declare that ANDREW JACKSON is, and al.\nd. ways will be, rash, incompetent and dangerous-thae\ne. he destitute of all pretenson to the chair OF state,\nina and that all political cennexion between him and our\n\n\nourishing Republic, is and ought to be totally de-\n,r. nounced and that in free and republican sates\nh. civil virtues talents and political experiences are,\n\n\nand of right ought to be, preferred to fame, exclus\nla sively military And for the support of this declas\nin ration, with firm reliance the good sense OF the\n\n\ncommunity, we mutually pledge to each other Ucr\n,b- votes, our influence and ceaseless efforts.\nlie From the, National Journal\n\n\nThe Tice Presidencu-In different parts Of the\nOF Union, nominations begin to be made for the Vice\ned Presidency. Soon after the termination Of the last\nnd Session of Congress, the reader will recoect we\n\n\nmentioned the rumor, then very prevalent that Mr..\nCALHOUN to be supported for the Vice Pres.\nhe idency by the Combination we might have added\nas but do not remember that ditD that this de-\nrs, termination was made sine qua by an hOnoraA\n\n\nBILE Senator, without whose accession to the party it\nr. would even in the Senate, have been in decided\nty minority. Recent Indications induce US to suppose.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2904,
+                    "y0": 619,
+                    "x1": 3216,
+                    "y1": 702
+                },
+                {
+                    "x0": 2427,
+                    "y0": 900,
+                    "x1": 3277,
+                    "y1": 5055
+                }
+            ],
+            "bbox": [
+                2427,
+                619,
+                3277,
+                5055
+            ],
+            "full_article_id": 12,
+            "id": "12_1827-10-16_p1_sn83025530_00271740220_1827101601_0218.json"
+        },
+        {
+            "object_ids": [
+                20,
+                19
+            ],
+            "headline": "Super-royak Paper.",
+            "article": "The subscribers Keep a constant supply Of Super\nroyal such this paper is printed on, price S. 30\niso Medium and other printing and vritng papers.\nSep. II. r. PORTER {. SON.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 171,
+                    "y0": 4829,
+                    "x1": 800,
+                    "y1": 4903
+                },
+                {
+                    "x0": 106,
+                    "y0": 4911,
+                    "x1": 878,
+                    "y1": 5064
+                }
+            ],
+            "bbox": [
+                106,
+                4829,
+                878,
+                5064
+            ],
+            "full_article_id": 20,
+            "id": "20_1827-10-16_p1_sn83025530_00271740220_1827101601_0218.json"
+        }
+    ]
+}

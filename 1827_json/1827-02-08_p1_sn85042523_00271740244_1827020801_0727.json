@@ -1,0 +1,879 @@
+{
+    "lccn": {
+        "title": "The Wilmingtonian, and Delaware advertiser.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2638-1117",
+        "lccn": "sn85042523",
+        "start_year": "1825",
+        "end_year": "1827",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [
+            "sn88053080"
+        ],
+        "successors": [
+            "sn84020426"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn85042523",
+        "edition": "ed-01",
+        "date": "1827-02-08",
+        "pages": [
+            "seq-4",
+            "seq-2",
+            "seq-1",
+            "seq-3"
+        ]
+    },
+    "page_number": "1",
+    "scan": {
+        "lccn": "sn85042523",
+        "edition": "ed-01",
+        "date": "1827-02-08",
+        "page": "1",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn85042523/1827-02-08/ed-1/seq-1.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn85042523/1827-02-08/ed-1/seq-1/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn85042523/1827-02-08/ed-1/seq-1/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn85042523/00271740244/1827020801/0727.jp2",
+        "height": 5544,
+        "width": 3600
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2103,
+                "y0": 831,
+                "x1": 2779,
+                "y1": 1802
+            },
+            "class": "article",
+            "raw_text": "front, suffering not a little from the lbations\nof the previous evening. The only eye he\nhad was directed to the bottle, as if anxious\nto be better acquainted with it's contents\nwhen suddenly with terrific report, out\nflew the cork, followed by fair portion of\nthe angry liquid--both pursuing their course\nso directly towards the unsuspecting optic,\nthat they fairly closed the poor son of Cris-\npins only inlet to daylight. The cork as\nsmartly rebounded. and striking the nose of\na knight of the shuttle reused him whilst\ngaping obviously at the pulpit. The kirk\nwas all in buzz-and every mothers son,\nave daughter too, with out stretched neck\nto ascertain the cause. The hussey,' ex-\nclaimed the blowsy wife o. Dollar, she's\npoisoaed my caes' Preserve us, if she has\nia stickit the minister, whispered the horse\ncouper's wifc.--Jenny, as soon as she discov-\ncred the cause of all this confusion, made\nher thumb take the place of a cork-but un-\n\n\nluckily proving either too large or too small\nfor stopper, the enraged BARN occasional\n\n\ny made its escape, producing species OF\nmusic that kept contemptuous time with\nthe doleful ditty of poor Jenny, as she hur'\n\n\nriedly moved off, excaiming, preserve me,\nwas ever woman i'll sic a predccamint.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2116,
+                "y0": 4708,
+                "x1": 2788,
+                "y1": 5497
+            },
+            "class": "article",
+            "raw_text": "So frequent did duels become, that it is\nsaid, in the short reign of Henry \". of\nFrance, 1000 persons per!shed in duels.\nCoke lays it down that duelling is strictly\ncontrary to the law Of England, and every\nBy -stander is enjoined to prevent duel. IT.,\nin so doing, he injure the combatants, they\nshall have no remedy at law; if he be hurt\nby them, he shall have his redress, Not\nwthstandins this, duelling in England was\ncarried to its greatest possible excess, IN\n\n\nthe reigns of James |. and ofthe two Charles'.\nIn the reign of the latter Charles, the Sc\nconds always fought as well as their princl-\n\n\npals; and as they were chosen for their cour-\nage and adrotness, their combats were gen\n\n\nerally the most fatal. We read that Lord\nHoward, of Carlisle, in the reign of Charles\nII. gave grand fete chanpetre, at Spring\nGardens, near the village Of Charing. Spring\nGardens, was the Vauxhall of that day, and\nthe tete, in question was given to facilitate\nan intrigue between Lord Howard and the\nprofligate Duches of sherry. But the",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 2237,
+                "y0": 4617,
+                "x1": 2654,
+                "y1": 4661
+            },
+            "class": "headline",
+            "raw_text": "From the LoRdon Observer.",
+            "legibility": "Questionable",
+            "full_article_id": 2,
+            "reading_order_id": -2
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 2328,
+                "y0": 4664,
+                "x1": 2532,
+                "y1": 4691
+            },
+            "class": "author",
+            "raw_text": "UUEI.S.",
+            "legibility": "Illegible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1427,
+                "y0": 3720,
+                "x1": 2099,
+                "y1": 5484
+            },
+            "class": "article",
+            "raw_text": "\"Jenny,\" said country woman to her\nbuxom daughter, during one OF the warm\nmornings CT last summer, \"Jennv, yen ava\nto the town and bring hame battle o BARN\nTyeast1 wi you.\" 1t was the preaching days\nwith Jenny, aud having \"trysted to meet her\nJoe,\" she nodded an assent to her mother\ncommands, with a beam i'll her eye that\nbespoke as much of, love as obedience\nHaving accordingly lost no time In display\ning her charms to the best advantage, she\nplunged the quart bottle in among the sun\ndries which never fail to occupy the capa\ncious receptacle denominated by country\ndamsels, sidepocket, and so smartiy trip\nped her way to town, that she was halt way\non her return before the sun reached his\nmeridian. Whether it was that Jenny had\nbeen seized with more than ordinary feelings\nOf devotion, or that the willy god, being i'll a\nfrolicksome humour, had resolved on play\ning off one OF his pranks upon her. we shall\nnot pretend to say, but certain 1t is that\nJenny, on her way homewards, was just\npassing the kirk as she got glimpse OF her\nJoe stepping into it Regardless otthe we'll\ncorked bottle Of BARN, Jenny nstinctlvely\npursued the same course, and sat herself\ndown beside blowsy wife from Dollar, who\nhad travelled a dozen miles that morning to\nhear the word in its purity, if not to retail\n! it still more delectabiy, on her return, to the\ndrowthy gossps of her parish. Jenny had\nscarcely time to look about her till the va\ncant seat behind her was occupied by an e.\nqually ponderous parsonage, in the shape OF\na horse couper's wife from the West. Had\nJenny been thinking more of her mother, and\nless of her sweetheart, it is likely that il\nwould have occurred to her that so smart a\nwalk, and SO warm day, were sufficient te\nhave reused to a state of rebellion more\nouiescept matter than that which dangled by\nher side, and in this way avoided bringing\nits heat to the provoking temperature i'll.\nduced by her own temperature on the one\nside and that of the horse couper's wife OF\nthe other. Be these things as they may, the\nheat which had commenced to seal Jenny:\neyes in peaceful slumbers, acted so power\nfully on the turbulent properties of the\nBARN, that an explosion was inevitable\nSoon after Jenny had taken her seat the bot\n!",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 1470,
+                "y0": 3716,
+                "x1": 2043,
+                "y1": 3747
+            },
+            "class": "headline",
+            "raw_text": ".,r.nn, - s.;d country woman to",
+            "legibility": "Illegible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 730,
+                "y0": 900,
+                "x1": 1402,
+                "y1": 2660
+            },
+            "class": "article",
+            "raw_text": "\n\n\nIreland.\n\n\n81 was aroused from one OF memory S\nsweetest dreams, by the distant sound OF\nbells; they were those OF my native city\n| had often heard them at the same hour,\nthey spoke of wo, devotion, and Joy, and\nscenes long gone BY. In this sottened state\nof feeling entered the town, and needless\nof the throng, hurried on to the home OF\nmy parents-reaching the house--threw\nmyself into their arnis, and the first tumult\nof feeling over. / sat at tbs e-side. with my\nfather Oh the one side. and my mother on\nthe other, gazing afectionate'y upon me,\nwhile talked of all had seen, and all had\nfelt.\n\n\n\"Beng tired after my journey, my mother\nsuggested the propriety OF my gong 10 resi-\nand the tender hand that had often smooth\ncd my pillow, again performed that oihce'\ncould not help comparing my situation\nwith the nights that | had lain exposed to\nthe storm. with the cold earth for my bed,\nand felt a lively gratitude, (worth thou\nsand formal prayers) to the Divine Bcing,\nwho had watched over and protected me\nthro' every danger, and brought me in safe\nty back to my home and parents.\n\n\n\"NVhile nv mind was occupied with these\nreflections, my mother again entered my\nchamber to sec if / wanted any thing. Are\nyou asleep, James, My eyes were shut\nand did not reply. She stood over me witt\nlight iii her hand, gazing on my weather\nbeaten countenance.\n\n\nMy poor want.erer, she calculated\nwhat must you have endured since\nsaw you--danger and death has surrounded\nYOU fatigue ard hunger attended your steps\n| but vet YOU have been kindly dealt with\nmercifully preserved return thee thanks\nthou Almighty giver of every good, tor thy\nbountcous mercy to my poor boy-O snlit\nhim to thyself\" I\"\n\n\nShe stopped to kiss my forehead-he'\nwarm tear fell upon my face, my emotions\nbecame too strong for concealment, and a.\nfraid that she had disturbed my sleep, she\nsoftly left the room.\n\n\nThose who have felt the rude storms o.\nadversely. and the endearing kindness OF\nmother, will appreciate my feelings",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 877,
+                "y0": 840,
+                "x1": 1250,
+                "y1": 880
+            },
+            "class": "headline",
+            "raw_text": "THE NATIVE HOME.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -2
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 734,
+                "y0": 879,
+                "x1": 1398,
+                "y1": 945
+            },
+            "class": "author",
+            "raw_text": "From sketches and Scenes of Soldiers Life IN\n\n\nIreland.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 45,
+                "y0": 853,
+                "x1": 718,
+                "y1": 1408
+            },
+            "class": "article",
+            "raw_text": "y1ERUS S-ADvERTIsEMENT not exceeding\n,re square will be inserted four times for one\n,nlnr ant, 20 cents for each subsequent inscr-\ne;on. If continued for three months, 50 50--for\ns;v months, 81 SO; or for one year So.\n\n\n\\. subscribers arc entitled TO the privilege of\nhaving their names, place ofresldence, and occu-\npatton, aited IN the Heg'sier, nnnrrs.\nI'M. w or SUBSCRiPIYON--T those\n,vbora, ave- this paper by mail, tco collars, and\nthose no danot, f,ro doilrs md tweniy,fre cents\nn wear. IN AnvANcE: lfnot paid in advance, 50 50\nviii be charged; and if not paid before the cxpi\nration of the iear, 50.\n\n\n4 11Nosubscrption will be discontinuedunless\ntwo weeks notice il given and all arrearage are\nnaid",
+            "legibility": "Questionable",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 45,
+                "y0": 744,
+                "x1": 259,
+                "y1": 810
+            },
+            "class": "headline",
+            "raw_text": "VOL. ~.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 738,
+                "y0": 2772,
+                "x1": 1419,
+                "y1": 5497
+            },
+            "class": "article",
+            "raw_text": "Men ALWAYS sympathise with the suffer-\ning of girls more than those other own sex.\n\"Reatlv. nv dear, | pity these poor girls,\nthe M'Tangles,\" said Mr. Partington to his\nlady, as he peeped through his telescope on\nthe Margate Pier head, in the vain hope OF\ncatching little smoke in the horizon, from\nwhich to infer the coming OF the Eclipse\nsteam vessel. \"There they are broillng IN\ntown this whole blessed summer-you\nshould ask one OF them down.\" 30 saying,\nMr. Partington tilted his Chinese straw hat\nlittle more over his brow to shade his eyes\nfrom the burning glare of Phebus. \"Wh ny\nas to that, my dear\" answered his wife, we\nhave daughters of our own to dispose OF -\nand don't YOU remember how Sally VI Ian\n| gle took the first in duett of Con un ARIA\nwith Colonel Nightingale, after he had tried\n| it with our daughter Fanny, aud had found\nthat the poor girl could not get on with it'\nI have never had good opinion OF the fam\n| lily since\" This, of course, settled the mat\nter.\n\n\nA word with Mr.. Partington about his\nphrase 'broiling in town. am a town man\nmyself, and think it my duty to stand up\nfor my own metropolis. Why should the\nM'Tangles broil, because they happen to be\nin town. For my part | can only say that\nwhen was last at Ramsgate was broied\npretty handsomely. ! took walk upon the\n! Lighthouse Pier, and light house pier 1t\nwas; nv face was like Lord Kelly's, whom\nFoote solicited to lock over his garden wall\n| to ripen his melons; Saint Laurence was a\nsprat to me. On my return to town, took\na boat from Cherry Garden Stairs to White\nhall; to do which had to walk down Bo-\ntolph lane. The street was Delightfully.\"- mar\nrow, the sun could not enter, but a column\nof air could; and I was regaled by the gar\nden scent of oranges and lemons in the ad-\nJoining warehouses. Let us hear no more ct\nbroiling in town. From that time forth |\nhave always set down my cause as Lon\ndon Remanet. The fact is. that Mrs.\nM'Taugle has let me into her confidence,\nknowing, that never published II met her\nof all places in the world in private box at\nAdelphia Theatre, witnessing the represen-\ntation of Long Tom Coffin, by +. L. Cooke;\nand very clever representation is. \"You\nnever come near us now,\" eJaculated Mrs.\nM'Tangle, in one of her most mellifluent\nmoods-Knowing that l was past praying\nfor in the matrimonial line, l felt puzzled\nto account for this sudden predilection.--\nHowever, it was settled that should dine\nwith her on the \"Wednesday following. when\nI accordingly met three or four young men\n\"a great deal too young for me, but by no\nmeans too young for the Mesdemoisclles\nM'Tangle. We had the usual lures. Tom\nGisbone, who had made good deal of mo-\nney by Mexican scrip, was asked by Miss\nM'rangle if he would not have some love\nsauce with his muffin pudding. George Ju\nniper, rising wine and brandy merchant,\nsang after dinner,\n\n\nsMy spirits are mounting, my hearts full OF\nglee,\"-\n\n\n(cause and effect in one line,) which Jane\nM'Tangle pronounced to be the hest song\nshe ever heard in her life; and Sarah, the\nyoungest, undismayed by her former failure\nin \"Con un Aria,\" consented to take the first\nin the \"Witches' Glee,\" composed by King,\nif Mr.. Parsons (son and heir to Sir Pere-\ngrine Parsons) would take the second.\nfound by comparing little circumstances to-\n\n\n",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 795,
+                "y0": 2681,
+                "x1": 1354,
+                "y1": 2760
+            },
+            "class": "headline",
+            "raw_text": "From the London Monthly Magazine.\nLONDON REMANETS.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2103,
+                "y0": 1888,
+                "x1": 2775,
+                "y1": 4596
+            },
+            "class": "article",
+            "raw_text": "The following probably overchargeu, Dut\ncurious account of this eccentric character,\nappears in Paris paper Some persons\nknowing but imperfectly this model of ori-\nginals, past, present, and to conc, appear\ned desirous to learn something more re-\nspccting him; we thinktit may be agreeable,\nif we collect such anecdotes respecting such\na singular parsonage as are well calculated\nto enrich the history Of human oddities. No\none has higher claims to distinguished\nplace IN history, than Nj. Egerton, who has\nfor several years borne the name ot Lord\nBridgewater. Those who have once seen--\nnay, those who have never seen this measre\nparsonage drag himself along, supported\nby two huge lacqueys, with his sugar-loat\nhat souched down over his eyes, cannot tall\nto recognize him.\n\n\nAn immense fortune enables him to graf\nify the most eXtravagant caprice that ever\npassed through the head of an Engishnan,\nII he be lent a book, he carries his poltencss\nso far as to send 1t back or rather have it\nconducted home in carriage. He gives\norders that two of his most stately steeds be\ncaparisoned. under one of his chariots and the\nvolume reclining at ease in mylord's lacdau\narrives, attended BY four footmcn in costly\nlivery, at the door of its astounded owner\nHis carriage is frequently to be seen filled\nwith his dogs. lie bcstows great care on\nthe feet Of these dogs, and orders them boots\nfor which he pays as dearly as his own.--\n| Lord BridgeWater's custom is an excellent\none for the boot ker; for besides the foul\nfeet OF each of his dogs, the supply OF hi'\nown two feet, must give constant employ\nment to several operatives. He puts on {\nnew pair OF boots every day; carefully pre-\nserving those he has once worn, and ranging\nthem in order; he commands that none\nshall touch them, but takes himself grea\npleasure in observing how much OF the yeal\nhe has each day past, by viewing the state\nof his boots. Lord Egerton is a man of few\nacquaintance, and very few of his country\nmen have got as far as the dining hall. Hi\ntable, however, is constantly set out with ;\ndozen covers, and served by suitable at\ntendance. Who, then are his privileged\nguests? No less than a dozen Of favorltt\ndogs, who daily partake of mylord's dinner\nJ seated very gravely in armed chairs, eacf\nwith napkin round his neck, and scrvan\nbehind to attend his wants.\n\n\nThese honorable quadrupcds as if CRATE\nfull for such delicate attentions, compor\nthemselves during the time OF repast with\n| decency and 0ecorum which would do more\nthan honor to party of gentlemen; but if\nby any chance, one OF them should, wlthou\ndue consideration, obey the natural instnc\nof his appetite, and transgress any OF the\nrules Of good manners, his punishment is a\nhand. You perhaps, gentle reader, sup\npose that corporeal punishment is meant al\nthe walls OF the capital so eloquently but 81\nIntellectually define 1t; but no--you are mis-\ntaken, tits ia his sclf-Iove that the offendel\n\n\nis punished. The day following the day O\nhis offence, the dog dimes and even dine\n\n\nwe'll; but not at mylord's, and as becomes ;\ndog to dine; banished to the ante-chamber\nand dressed in livery, he eats in sorrow thu\nbread of shame, and picks the bones of NOR\ntifcation, while his place at table remain\nvacant till his repentance has merited\ngenerous pardon We have not been abl\n\n\nto learn what dress Lord Egerton puts ol\nhis domestics, when he has cause to be dis\nsatisfied with their service",
+            "legibility": "Questionable",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 2168,
+                "y0": 1827,
+                "x1": 2710,
+                "y1": 1872
+            },
+            "class": "headline",
+            "raw_text": "THE EARL or BRlnGEwATER.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1414,
+                "y0": 848,
+                "x1": 2095,
+                "y1": 3673
+            },
+            "class": "article",
+            "raw_text": "OF Mrs. M Tanglc's alteration OF me at the\nTheatre. had observed Jane whispering\nto her mother between the acts significantly,\nand had overheard the words \"Sing bass\"\nthought at the moment that this was meant\nto apply to Long Tom Coffin, but now\nfound that was the hero of the side speech,\nand that had been compimented with\nknife and fork in Russell place, in order to\ngrumble out, when the hurly burly's done.'\nBeing in the main good natured man when\nnothing occurs to vex me, made no objec-\nton, and away we started with, \"When\nshall we three meet again.\" as loud as If no\nthing had happened After this l left the\nthree girls fumbling over music books in\nquest OF 80 Patrian igrata.\" \"You'll find\nit among the loose SONGS\" said Jane to Sa-\nrah, where it occurred to me it had no busi-\nness to be. 1t farther occurred tc me that\nmy bass being ended, and there being\nthree girls and three young men, eX-\nelusive of the author, l was one too\nmany. Accordingly, kind Mrs M'Tangle\ncalled me into tho adjoining drawing room,\nTo get me out ofharm's way; and lett the\nhalf dozen young ones pinned two and two\nas Young ones should, looking over operas,\nand hoping that Ncluti was not going to leave\nUS.\n\n\nMrs. M'Tanglc now let me little into\nher plan. took my seatby her on the soia\nand while crimson ottoman proppcd her\nfeet. She opened after the following fashion /:\n-\"rhis is the third year of my continuance\nin town during the summer. After pref\ntv regular run Of the watering places. found\nI them all from July to September, overstock-\ned with other peoples daughters, possessed\nof greater personal attractions than NINE\n| One warm morning was coming the mat\nter over with Mr.. M'Tangle, at Donaldson's\nlibrary, when it suddenly occurred to me,\nthat Iondon in the autumn, from the absence\nof competitors, would give the girls rea-\n! snnable chance. i mentioned the matter to\nMr.. M'Tangle who caught at the idea with\nalacrity. Poor man! he never liked the sea\nside. The sun put ont his eyes, and the alb\nsence Of his day book and ledger gave him\nthe yellow jaundcc. We accordingly re-\nsolved to adhere to Russell place, Fltzroy\nsquare, through good and evil report, from\nwears end to years end. The scheme has,\nain glad to say, hitherto succeeded. Young\nmen are delighted with dinner invitations IN\nScntember and October; and when you once\nhave them, you keep them\" True, answer\n! ed I but what species of young men? Peo.\nnile Of fashion are killing game hundred\nmiles off. \"people Of fashion, people OF fid-\ndie stick!' retorted Mrs. M'tansle. Al\n/ have no taste tor the Lord CharleScs and\nLord Johns. Give me income. There is a\nconsiderable portion of good marriageahle\nmaterial in the Excise and Customs, and a\nbout the Royal Exchange. Peop'e occupied\nthere must be in town during great part OF\nthe autumnal season. have procured two\nSONS in law, who came hither courting,\nwith their legs pendent from the top OF the\nTallyho Paddi1gton coach, their descent.\nthey had only to cross Fitzroy Square, and\nhere they were. You may rey upon it sir,\nthe true way of attaching society is to give\nRishy pfgflIy approve approve Of your plan, madam, an\nswered j, rising to take my leave will re-\ncommend its adoption to Adrman Hunger\nford, now on his travels to Greece in quest\nof Liberty and the picturesque. lie has\nseven marriageabe daughters. Our young\ncounyrymen are fiocking to Athens in shoa $\n\"a dinner i'll the Acropols will infallibly dc\n\n\nthe business.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 1514,
+                "y0": 731,
+                "x1": 2056,
+                "y1": 789
+            },
+            "class": "headline",
+            "raw_text": "FEBRUARY 8, 1927",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 54,
+                "y0": 1563,
+                "x1": 722,
+                "y1": 2755
+            },
+            "class": "article",
+            "raw_text": "aThe sun does not gladden. a moment so sweet\nmo moon does not shine on so lovely an hour,\nhsthe s,ft one where. light and obscurity meet,\nAnd the world is half veiPd by its shadowy\n\n\npower.\n\"Vhen the dew drops are glittering SO silent\n\n\nand fair,\n\n\nAnd the waters yet glow with the SUMS latest\n\n\nray,\nHeaven breathcs It's repose in the calm twilight\n\n\nair,\n\n\nUnknown to the brightness and tumult of day\nmTis moment to bid even wretchcdness cease;\nA charm that can rob gloomy care OF his pow\n\n\ner,\nHow balmy and sweet is the season of peace!\nHow tleart to my soul is the mild twilight hour!''\nThe woes of the present are mngling fast\nwith the hopes of the future the light OF the\n\n\npast;\nAnd o. Joy y-breathing moments, ere yet they are\n\n\n,nirS,\nGive place to the weary and sorrowful hours!\nBut fine, the destroyer, vet kindly shall bring\ncharm for each self suffering, balm for each\n\n\nsting;\nAnd the tear drop ofanguish while yetin its flow,\nIs driel by the warmth Of Hopes heavenly glow.\nAnd orr loys and our sorrows still blend as they\n\n\nfade\nIn the rainbow oflifc to one mellowing shades\nFor the sunshine that glstcns on Grief's sullen\n\n\nstream\nAtones for the darkness it gild's with its beam.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 214,
+                "y0": 1429,
+                "x1": 562,
+                "y1": 1495
+            },
+            "class": "headline",
+            "raw_text": "sDmsnzEFt0Ew\n\n\n.GAy.ll Il. Af5 - D",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -2
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 323,
+                "y0": 1515,
+                "x1": 440,
+                "y1": 1555
+            },
+            "class": "headline",
+            "raw_text": "soSii.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 63,
+                "y0": 3027,
+                "x1": 679,
+                "y1": 3881
+            },
+            "class": "article",
+            "raw_text": "Where is there vision sweeter\n\n\nThan u boy and happy mother\nlie makes her hours fly the fieeter:\n\n\nShe can all his sorrows smother.\nWhat a look is that she gives him,\n\n\nWhen he curves his arm around her!\nOh, her very soul receives him.\n\n\nThe bliss Of heaven sure has bound her!\nSec him lean his cheek, so smiling,\n\n\nOn her lap--and raise his lashes;\nMark bis hand, the time bcguiling,\n\n\nWith her ear-drop's dancing flashes.\nLittle knows the fair hard fellow,\n\n\nShe is asking God for blessings;\nWhen her blossom, ripe, and mellow,\n\n\nWill not have her kind caresslngs.\nLittle is that mother dreaming\n\n\nOf his grief, when he must mingle,\nWhere no parent will be beamlng--\n\n\nWhere each heart is cold and single!\nBut, alas!-ne'r think of grieving,\n\n\nWhile so sweet pictures glowing\nThoughts Of home we should be weaving\nPray'rs Of hope should now be howing!--",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 76,
+                "y0": 3937,
+                "x1": 718,
+                "y1": 5480
+            },
+            "class": "article",
+            "raw_text": "\n\n\nTHE BEE AND SNAIL.\nApamper'd Snail began to crawl,\none May-morn, o'er garden wall,\nAnd lettering long, and sauntering slow,\nAwiv'd at noon where roses blow.\nClose TO the roses stood hive,\nFrom whence the swarm, alert, alive,\nIntent for honey, thick as hail,\nPasS'd often DER the basking snail.\nLabor ynir Snail superbly scorns;\ntor ccronel mistaking horns,\nAnd 'city strut of Incidence,\ntM ,ghlty and great good sense.\nA'e npiish'd thus, our grave grandee,\nny 'tnsth accosts u busy Bee:\nwhy labor, insect, one would think\n10 susal-slaves, is meat and drink.\nNext to the silk-hy we affirm\nThou art the most laborious worm:\nme Caterpillar spins her clothes,\nana thou spin'st syrup from the rose.\nAl an wretched avarice works thee wo,\nAZ that mars all happiness below\"\nEOS 30 snail, the industrious Bee replies,\ns,,.l, svli heaping honey on his thighs:\nrWhy snail, yon lavish life away,\ntroubled by languor and decay,\nw una DOING; while you stretch your horns,\nwe we suck the rose unhurt by thorns,\nExtract from blossoms affluent store,\nffiowers all left fragrant as before.\nsse Ns.s OF light labor crowns our wish,\nw.. u.'ar our meat, and wax our dish.\nNJ NJ. you and yours, in shine or shower,\na,oie ,na the stem and faint the flower,\nNa,a ;,a s'umber precious life away,\n\n\nAT stih the sunshine making hay\n\n\nii.a ,a pehce ne the Snails, when frosts unfold,\n\n\npeggars, die of want or cold.\n\n\n4onts 4Itsn auarice be sometimes curse,\n\n\n=\" 'u@'nsss is ten times Worse.\n\n\nbond dse\"aSship is the most sacred of all NOR\nout anr trusts of confidence, though will\n\n\nne \". wy. express stipulation or caution, are\n\n\nIvy nature of them, as sacred as",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 184,
+                "y0": 3911,
+                "x1": 609,
+                "y1": 3964
+            },
+            "class": "headline",
+            "raw_text": "From Mrs. Coinn's Mcsscnger,",
+            "legibility": "Questionable",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2783,
+                "y0": 775,
+                "x1": 3472,
+                "y1": 4912
+            },
+            "class": "article",
+            "raw_text": "Duchess, and distracted all her attentions\nwith his lordship; and ridiculing the tete, his\n/ lordship was hardly restrained from running\nhim through the body before the company.\nThe next day his lordship sent challenge\nto Sidney. The former chose as his second,\ntell, furious, adroit swordsman, named\nDillon; and the latter selected young gen.\ntleman, named Rawlings, just come into pos\nsession of an estate of ten thousand pounds\nyear.-Sidney was wounded i'll two OF\nthree places, whilst his second was run thro'\nthe heart and left dead on the field\nThe unfortunate Duke of rewsberry be-\ncame afterwards so irritAted as to challenge\nthe infamous Buckingham for intriguing\nwith his wife, and Buckingham ran him\nthrough the body 1t was known that the\nDuchess of Shrewsbury, in the disguise OF\npage, attended her paramour to the held\nand held his horse whilst he fought and muir\ndered her husband. The unpripeipled\nCharles in spite of every remonstrance from\nthe Queen, received the Duke of Bucking-\nham with open arms, after his brutal muir\nder.\n\n\nIn the last sixty years we have collected\nlist of l72 dues, comprising 344 individu-\nais OF these sixty-Eine persons were Kill\nled: in three duels, neither OF the combat\nants survived; 90 persons were wounded, 48\ndesperately and 48 slightly; and 1873 escap-\ned unhurt. Thus, rather more than one\nfifth lost their lives, and nearly one-halt re-\nceived the bullets of their antagonists. 1t\nappears also that 1s trials took place, six of\nthe arraigned were acquitted, seven found\nguilty of mansaughter, and three of mur-\nder, that two were executed, and eight i'm\nprisoned for different periods.\n\n\nIn 1868, the Secretary of our Treasury,\n| Mr.. Martin, notoriousy trained himself as\nduelist, for the avowed purpose OF shoot\ning Mr.. Wilkes, whom he first insultcd in\nthe House of Commons, and afterwards\nwounded in the Park. This gave rise to\nChurchill's poem of \"the Duelist.\" The\nHouse of Commons ordered his Majesty's\nSurgeon to attend Mr.. Wilkes, but Mr.. Mar\ntin was considered to have done the state\nmuch service. At that period it is to be re-\nmark ed; that dnels were very fequent among\nClergymen. In 1864, the Rev. Mr.. Hill\nwas killed in duel by Cornet Gardener, OF\nthe Carbineers. The Rev. Mr.. Bate Dudley\nfought two duels, and was afterwards, Gre\nated Knight by the King The Rev. Mr..\nAllen killed Mr.. Dulancy in duel, in\nHyde Park, without mourning any ecclesias-\ntcal censure, though Judge Rutler, on ac-\ncount of the extremely bad conduct OF the\nClergyman, strongly charged the Jury upon\n| his guilt of murder. Whilst the King knight\ned the Rev. Sir Bate Dudley, after his two\nQuestionable ducls, condemned the Sieur Che\nlas, Member of Parliament in France, to be\nbroken upon the wheel for the murder of\nCan't. Requin, the Sieur Chelais having COW\ncred himself with armour under his clothes\nand stabbed his antagonist whose sword\nbroke against his breast plate. In 1765, oc-\nCURED the famous duel III which the father\nof our late transcendant poet, Lord Byron,\nkilled the famous duelist Mr.. Chaworth.-\nThey quarreled at a club dinner at the Star\nand Garter, Pall-mall, about game. Mr..\nChaworth being a great game preserver,\nwhilst Lord Byron argued upon the cruelty\nand jmpoIicy of the Game Laws. They a.\ngreed to fight in an adjoing room by the\nlight of only one candle. Lord Byron enter\ned first. and as Mr. Chaworth was shut\nting the door turning his head round, he be-\nheld Lord Byron's sword half undrawn. lie\nImmediately whipped his own weapon out,\nand making lunge at his Lordshlp, ran 1t\nthrough his wa!stcoat, conceiving that his\nsword had gone through his body. But Lord\nByron closed and shortened his sword, stab\nbed Mr. Chaworth in the belly. The chal-\nlence had proceeded from Mr.. Chaworth.--\n| ord Byron read his defence to the House\nof Lords, and was found guilty of manslaueh-\nter; and upon the privilege Of his peerage\n(for Peers are licenced homicides,) he was\ndischarged on paying his fees. In 1772,\nMr.. M'Lean was challenged and killed by\nMr. Cameron, and the mother Of Mr..\nM'Iean on hearing of the shocking event, in\nstantly lost her senses, while Miss MLoad\nwho was to have been married t. The de-\nceased, was seized with fits, and died in\nthree days.\n\n\nIn Mr.. Sheridan's duel with Mr.. Mat\nthews, the parties cut and slashed at each\nother, u la mode de Theatre, until Mr. Mat\nthews left a part of his sword sticking in Mr'\nSheridan's ear. In the famous duel in which\nMr.. Riddle was killed. and Mr. Canning\nham severely wounded, the challenge by\nmistake, had fallen in the first instance INTO\nthe hands Of Sir James Riddle, father to Mr.\nRiddle, who had it delivered to him, and\ndid no more than provide surgeons for the\nevent. In 1869. Colonel LenoX was insulted\nhv the Duke of y who told him, before\nlajl the officers on the parade of St. James's\nthat he desired to derive no protection from\nhis rank of Prince, The Colonel according\"\nlv fought his Royal Highncss, it is said, with\ncork bullets, but be that as it may, he con-\ntrived to disturb one of the huge rows of\ncuris, which it was then the fashion to wear\n\n\n",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 3237,
+                "y0": 723,
+                "x1": 3425,
+                "y1": 784
+            },
+            "class": "headline",
+            "raw_text": "No. 81.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": -1
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 67,
+                "y0": 2875,
+                "x1": 713,
+                "y1": 3011
+            },
+            "class": "article",
+            "raw_text": "\"But thou art fair; and at thy birth, dear boy,\nNature and fortune join'd to make thee great;\nOfnature sgifts thou mayst with lilies boast,\nAnd with the halfblown rose\"",
+            "legibility": "Questionable",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 80,
+                "y0": 2784,
+                "x1": 718,
+                "y1": 2863
+            },
+            "class": "headline",
+            "raw_text": "FrDos HE Crystai Hunter.\nWHERE Is THERE A VISION sWEETER",
+            "legibility": "Questionable",
+            "full_article_id": 18,
+            "reading_order_id": -1
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 106,
+                "y0": 5327,
+                "x1": 748,
+                "y1": 5484
+            },
+            "class": "article",
+            "raw_text": "bonds,e ds,e\"aship is the most sacred of all moral\nout anr trusts of confidence, though with\nne express stipulation or caution, are in\n\n\nIVY nature of them, as sacred as if",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                0
+            ],
+            "headline": "",
+            "article": "front, suffering not a little from the lbations\nof the previous evening. The only eye he\nhad was directed to the bottle, as if anxious\nto be better acquainted with it's contents\nwhen suddenly with terrific report, out\nflew the cork, followed by fair portion of\nthe angry liquid--both pursuing their course\nso directly towards the unsuspecting optic,\nthat they fairly closed the poor son of Cris-\npins only inlet to daylight. The cork as\nsmartly rebounded. and striking the nose of\na knight of the shuttle reused him whilst\ngaping obviously at the pulpit. The kirk\nwas all in buzz-and every mothers son,\nave daughter too, with out stretched neck\nto ascertain the cause. The hussey,' ex-\nclaimed the blowsy wife o. Dollar, she's\npoisoaed my caes' Preserve us, if she has\nia stickit the minister, whispered the horse\ncouper's wifc.--Jenny, as soon as she discov-\ncred the cause of all this confusion, made\nher thumb take the place of a cork-but un-\n\n\nluckily proving either too large or too small\nfor stopper, the enraged BARN occasional\n\n\ny made its escape, producing species OF\nmusic that kept contemptuous time with\nthe doleful ditty of poor Jenny, as she hur'\n\n\nriedly moved off, excaiming, preserve me,\nwas ever woman i'll sic a predccamint.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2103,
+                    "y0": 831,
+                    "x1": 2779,
+                    "y1": 1802
+                }
+            ],
+            "bbox": [
+                2103,
+                831,
+                2779,
+                1802
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-02-08_p1_sn85042523_00271740244_1827020801_0727.json"
+        },
+        {
+            "object_ids": [
+                18,
+                24,
+                1
+            ],
+            "headline": "From the LoRdon Observer.",
+            "article": "So frequent did duels become, that it is\nsaid, in the short reign of Henry \". of\nFrance, 1000 persons per!shed in duels.\nCoke lays it down that duelling is strictly\ncontrary to the law Of England, and every\nBy -stander is enjoined to prevent duel. IT.,\nin so doing, he injure the combatants, they\nshall have no remedy at law; if he be hurt\nby them, he shall have his redress, Not\nwthstandins this, duelling in England was\ncarried to its greatest possible excess, IN\n\n\nthe reigns of James |. and ofthe two Charles'.\nIn the reign of the latter Charles, the Sc\nconds always fought as well as their princl-\n\n\npals; and as they were chosen for their cour-\nage and adrotness, their combats were gen\n\n\nerally the most fatal. We read that Lord\nHoward, of Carlisle, in the reign of Charles\nII. gave grand fete chanpetre, at Spring\nGardens, near the village Of Charing. Spring\nGardens, was the Vauxhall of that day, and\nthe tete, in question was given to facilitate\nan intrigue between Lord Howard and the\nprofligate Duches of sherry. But the",
+            "byline": "UUEI.S.",
+            "bbox_list": [
+                {
+                    "x0": 2237,
+                    "y0": 4617,
+                    "x1": 2654,
+                    "y1": 4661
+                },
+                {
+                    "x0": 2328,
+                    "y0": 4664,
+                    "x1": 2532,
+                    "y1": 4691
+                },
+                {
+                    "x0": 2116,
+                    "y0": 4708,
+                    "x1": 2788,
+                    "y1": 5497
+                }
+            ],
+            "bbox": [
+                2116,
+                4617,
+                2788,
+                5497
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-02-08_p1_sn85042523_00271740244_1827020801_0727.json"
+        },
+        {
+            "object_ids": [
+                28,
+                2
+            ],
+            "headline": ".,r.nn, - s.;d country woman to",
+            "article": "\"Jenny,\" said country woman to her\nbuxom daughter, during one OF the warm\nmornings CT last summer, \"Jennv, yen ava\nto the town and bring hame battle o BARN\nTyeast1 wi you.\" 1t was the preaching days\nwith Jenny, aud having \"trysted to meet her\nJoe,\" she nodded an assent to her mother\ncommands, with a beam i'll her eye that\nbespoke as much of, love as obedience\nHaving accordingly lost no time In display\ning her charms to the best advantage, she\nplunged the quart bottle in among the sun\ndries which never fail to occupy the capa\ncious receptacle denominated by country\ndamsels, sidepocket, and so smartiy trip\nped her way to town, that she was halt way\non her return before the sun reached his\nmeridian. Whether it was that Jenny had\nbeen seized with more than ordinary feelings\nOf devotion, or that the willy god, being i'll a\nfrolicksome humour, had resolved on play\ning off one OF his pranks upon her. we shall\nnot pretend to say, but certain 1t is that\nJenny, on her way homewards, was just\npassing the kirk as she got glimpse OF her\nJoe stepping into it Regardless otthe we'll\ncorked bottle Of BARN, Jenny nstinctlvely\npursued the same course, and sat herself\ndown beside blowsy wife from Dollar, who\nhad travelled a dozen miles that morning to\nhear the word in its purity, if not to retail\n! it still more delectabiy, on her return, to the\ndrowthy gossps of her parish. Jenny had\nscarcely time to look about her till the va\ncant seat behind her was occupied by an e.\nqually ponderous parsonage, in the shape OF\na horse couper's wife from the West. Had\nJenny been thinking more of her mother, and\nless of her sweetheart, it is likely that il\nwould have occurred to her that so smart a\nwalk, and SO warm day, were sufficient te\nhave reused to a state of rebellion more\nouiescept matter than that which dangled by\nher side, and in this way avoided bringing\nits heat to the provoking temperature i'll.\nduced by her own temperature on the one\nside and that of the horse couper's wife OF\nthe other. Be these things as they may, the\nheat which had commenced to seal Jenny:\neyes in peaceful slumbers, acted so power\nfully on the turbulent properties of the\nBARN, that an explosion was inevitable\nSoon after Jenny had taken her seat the bot\n!",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1470,
+                    "y0": 3716,
+                    "x1": 2043,
+                    "y1": 3747
+                },
+                {
+                    "x0": 1427,
+                    "y0": 3720,
+                    "x1": 2099,
+                    "y1": 5484
+                }
+            ],
+            "bbox": [
+                1427,
+                3716,
+                2099,
+                5484
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-02-08_p1_sn85042523_00271740244_1827020801_0727.json"
+        },
+        {
+            "object_ids": [
+                19,
+                25,
+                3
+            ],
+            "headline": "THE NATIVE HOME.",
+            "article": "\n\n\nIreland.\n\n\n81 was aroused from one OF memory S\nsweetest dreams, by the distant sound OF\nbells; they were those OF my native city\n| had often heard them at the same hour,\nthey spoke of wo, devotion, and Joy, and\nscenes long gone BY. In this sottened state\nof feeling entered the town, and needless\nof the throng, hurried on to the home OF\nmy parents-reaching the house--threw\nmyself into their arnis, and the first tumult\nof feeling over. / sat at tbs e-side. with my\nfather Oh the one side. and my mother on\nthe other, gazing afectionate'y upon me,\nwhile talked of all had seen, and all had\nfelt.\n\n\n\"Beng tired after my journey, my mother\nsuggested the propriety OF my gong 10 resi-\nand the tender hand that had often smooth\ncd my pillow, again performed that oihce'\ncould not help comparing my situation\nwith the nights that | had lain exposed to\nthe storm. with the cold earth for my bed,\nand felt a lively gratitude, (worth thou\nsand formal prayers) to the Divine Bcing,\nwho had watched over and protected me\nthro' every danger, and brought me in safe\nty back to my home and parents.\n\n\n\"NVhile nv mind was occupied with these\nreflections, my mother again entered my\nchamber to sec if / wanted any thing. Are\nyou asleep, James, My eyes were shut\nand did not reply. She stood over me witt\nlight iii her hand, gazing on my weather\nbeaten countenance.\n\n\nMy poor want.erer, she calculated\nwhat must you have endured since\nsaw you--danger and death has surrounded\nYOU fatigue ard hunger attended your steps\n| but vet YOU have been kindly dealt with\nmercifully preserved return thee thanks\nthou Almighty giver of every good, tor thy\nbountcous mercy to my poor boy-O snlit\nhim to thyself\" I\"\n\n\nShe stopped to kiss my forehead-he'\nwarm tear fell upon my face, my emotions\nbecame too strong for concealment, and a.\nfraid that she had disturbed my sleep, she\nsoftly left the room.\n\n\nThose who have felt the rude storms o.\nadversely. and the endearing kindness OF\nmother, will appreciate my feelings",
+            "byline": "From sketches and Scenes of Soldiers Life IN\n\n\nIreland.",
+            "bbox_list": [
+                {
+                    "x0": 877,
+                    "y0": 840,
+                    "x1": 1250,
+                    "y1": 880
+                },
+                {
+                    "x0": 734,
+                    "y0": 879,
+                    "x1": 1398,
+                    "y1": 945
+                },
+                {
+                    "x0": 730,
+                    "y0": 900,
+                    "x1": 1402,
+                    "y1": 2660
+                }
+            ],
+            "bbox": [
+                730,
+                840,
+                1402,
+                2660
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-02-08_p1_sn85042523_00271740244_1827020801_0727.json"
+        },
+        {
+            "object_ids": [
+                26,
+                4
+            ],
+            "headline": "VOL. ~.",
+            "article": "y1ERUS S-ADvERTIsEMENT not exceeding\n,re square will be inserted four times for one\n,nlnr ant, 20 cents for each subsequent inscr-\ne;on. If continued for three months, 50 50--for\ns;v months, 81 SO; or for one year So.\n\n\n\\. subscribers arc entitled TO the privilege of\nhaving their names, place ofresldence, and occu-\npatton, aited IN the Heg'sier, nnnrrs.\nI'M. w or SUBSCRiPIYON--T those\n,vbora, ave- this paper by mail, tco collars, and\nthose no danot, f,ro doilrs md tweniy,fre cents\nn wear. IN AnvANcE: lfnot paid in advance, 50 50\nviii be charged; and if not paid before the cxpi\nration of the iear, 50.\n\n\n4 11Nosubscrption will be discontinuedunless\ntwo weeks notice il given and all arrearage are\nnaid",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 45,
+                    "y0": 744,
+                    "x1": 259,
+                    "y1": 810
+                },
+                {
+                    "x0": 45,
+                    "y0": 853,
+                    "x1": 718,
+                    "y1": 1408
+                }
+            ],
+            "bbox": [
+                45,
+                744,
+                718,
+                1408
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-02-08_p1_sn85042523_00271740244_1827020801_0727.json"
+        },
+        {
+            "object_ids": [
+                11,
+                5
+            ],
+            "headline": "From the London Monthly Magazine.\nLONDON REMANETS.",
+            "article": "Men ALWAYS sympathise with the suffer-\ning of girls more than those other own sex.\n\"Reatlv. nv dear, | pity these poor girls,\nthe M'Tangles,\" said Mr. Partington to his\nlady, as he peeped through his telescope on\nthe Margate Pier head, in the vain hope OF\ncatching little smoke in the horizon, from\nwhich to infer the coming OF the Eclipse\nsteam vessel. \"There they are broillng IN\ntown this whole blessed summer-you\nshould ask one OF them down.\" 30 saying,\nMr. Partington tilted his Chinese straw hat\nlittle more over his brow to shade his eyes\nfrom the burning glare of Phebus. \"Wh ny\nas to that, my dear\" answered his wife, we\nhave daughters of our own to dispose OF -\nand don't YOU remember how Sally VI Ian\n| gle took the first in duett of Con un ARIA\nwith Colonel Nightingale, after he had tried\n| it with our daughter Fanny, aud had found\nthat the poor girl could not get on with it'\nI have never had good opinion OF the fam\n| lily since\" This, of course, settled the mat\nter.\n\n\nA word with Mr.. Partington about his\nphrase 'broiling in town. am a town man\nmyself, and think it my duty to stand up\nfor my own metropolis. Why should the\nM'Tangles broil, because they happen to be\nin town. For my part | can only say that\nwhen was last at Ramsgate was broied\npretty handsomely. ! took walk upon the\n! Lighthouse Pier, and light house pier 1t\nwas; nv face was like Lord Kelly's, whom\nFoote solicited to lock over his garden wall\n| to ripen his melons; Saint Laurence was a\nsprat to me. On my return to town, took\na boat from Cherry Garden Stairs to White\nhall; to do which had to walk down Bo-\ntolph lane. The street was Delightfully.\"- mar\nrow, the sun could not enter, but a column\nof air could; and I was regaled by the gar\nden scent of oranges and lemons in the ad-\nJoining warehouses. Let us hear no more ct\nbroiling in town. From that time forth |\nhave always set down my cause as Lon\ndon Remanet. The fact is. that Mrs.\nM'Taugle has let me into her confidence,\nknowing, that never published II met her\nof all places in the world in private box at\nAdelphia Theatre, witnessing the represen-\ntation of Long Tom Coffin, by +. L. Cooke;\nand very clever representation is. \"You\nnever come near us now,\" eJaculated Mrs.\nM'Tangle, in one of her most mellifluent\nmoods-Knowing that l was past praying\nfor in the matrimonial line, l felt puzzled\nto account for this sudden predilection.--\nHowever, it was settled that should dine\nwith her on the \"Wednesday following. when\nI accordingly met three or four young men\n\"a great deal too young for me, but by no\nmeans too young for the Mesdemoisclles\nM'Tangle. We had the usual lures. Tom\nGisbone, who had made good deal of mo-\nney by Mexican scrip, was asked by Miss\nM'rangle if he would not have some love\nsauce with his muffin pudding. George Ju\nniper, rising wine and brandy merchant,\nsang after dinner,\n\n\nsMy spirits are mounting, my hearts full OF\nglee,\"-\n\n\n(cause and effect in one line,) which Jane\nM'Tangle pronounced to be the hest song\nshe ever heard in her life; and Sarah, the\nyoungest, undismayed by her former failure\nin \"Con un Aria,\" consented to take the first\nin the \"Witches' Glee,\" composed by King,\nif Mr.. Parsons (son and heir to Sir Pere-\ngrine Parsons) would take the second.\nfound by comparing little circumstances to-\n\n\n",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 795,
+                    "y0": 2681,
+                    "x1": 1354,
+                    "y1": 2760
+                },
+                {
+                    "x0": 738,
+                    "y0": 2772,
+                    "x1": 1419,
+                    "y1": 5497
+                }
+            ],
+            "bbox": [
+                738,
+                2681,
+                1419,
+                5497
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-02-08_p1_sn85042523_00271740244_1827020801_0727.json"
+        },
+        {
+            "object_ids": [
+                15,
+                6
+            ],
+            "headline": "THE EARL or BRlnGEwATER.",
+            "article": "The following probably overchargeu, Dut\ncurious account of this eccentric character,\nappears in Paris paper Some persons\nknowing but imperfectly this model of ori-\nginals, past, present, and to conc, appear\ned desirous to learn something more re-\nspccting him; we thinktit may be agreeable,\nif we collect such anecdotes respecting such\na singular parsonage as are well calculated\nto enrich the history Of human oddities. No\none has higher claims to distinguished\nplace IN history, than Nj. Egerton, who has\nfor several years borne the name ot Lord\nBridgewater. Those who have once seen--\nnay, those who have never seen this measre\nparsonage drag himself along, supported\nby two huge lacqueys, with his sugar-loat\nhat souched down over his eyes, cannot tall\nto recognize him.\n\n\nAn immense fortune enables him to graf\nify the most eXtravagant caprice that ever\npassed through the head of an Engishnan,\nII he be lent a book, he carries his poltencss\nso far as to send 1t back or rather have it\nconducted home in carriage. He gives\norders that two of his most stately steeds be\ncaparisoned. under one of his chariots and the\nvolume reclining at ease in mylord's lacdau\narrives, attended BY four footmcn in costly\nlivery, at the door of its astounded owner\nHis carriage is frequently to be seen filled\nwith his dogs. lie bcstows great care on\nthe feet Of these dogs, and orders them boots\nfor which he pays as dearly as his own.--\n| Lord BridgeWater's custom is an excellent\none for the boot ker; for besides the foul\nfeet OF each of his dogs, the supply OF hi'\nown two feet, must give constant employ\nment to several operatives. He puts on {\nnew pair OF boots every day; carefully pre-\nserving those he has once worn, and ranging\nthem in order; he commands that none\nshall touch them, but takes himself grea\npleasure in observing how much OF the yeal\nhe has each day past, by viewing the state\nof his boots. Lord Egerton is a man of few\nacquaintance, and very few of his country\nmen have got as far as the dining hall. Hi\ntable, however, is constantly set out with ;\ndozen covers, and served by suitable at\ntendance. Who, then are his privileged\nguests? No less than a dozen Of favorltt\ndogs, who daily partake of mylord's dinner\nJ seated very gravely in armed chairs, eacf\nwith napkin round his neck, and scrvan\nbehind to attend his wants.\n\n\nThese honorable quadrupcds as if CRATE\nfull for such delicate attentions, compor\nthemselves during the time OF repast with\n| decency and 0ecorum which would do more\nthan honor to party of gentlemen; but if\nby any chance, one OF them should, wlthou\ndue consideration, obey the natural instnc\nof his appetite, and transgress any OF the\nrules Of good manners, his punishment is a\nhand. You perhaps, gentle reader, sup\npose that corporeal punishment is meant al\nthe walls OF the capital so eloquently but 81\nIntellectually define 1t; but no--you are mis-\ntaken, tits ia his sclf-Iove that the offendel\n\n\nis punished. The day following the day O\nhis offence, the dog dimes and even dine\n\n\nwe'll; but not at mylord's, and as becomes ;\ndog to dine; banished to the ante-chamber\nand dressed in livery, he eats in sorrow thu\nbread of shame, and picks the bones of NOR\ntifcation, while his place at table remain\nvacant till his repentance has merited\ngenerous pardon We have not been abl\n\n\nto learn what dress Lord Egerton puts ol\nhis domestics, when he has cause to be dis\nsatisfied with their service",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2168,
+                    "y0": 1827,
+                    "x1": 2710,
+                    "y1": 1872
+                },
+                {
+                    "x0": 2103,
+                    "y0": 1888,
+                    "x1": 2775,
+                    "y1": 4596
+                }
+            ],
+            "bbox": [
+                2103,
+                1827,
+                2775,
+                4596
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-02-08_p1_sn85042523_00271740244_1827020801_0727.json"
+        },
+        {
+            "object_ids": [
+                21,
+                7
+            ],
+            "headline": "FEBRUARY 8, 1927",
+            "article": "OF Mrs. M Tanglc's alteration OF me at the\nTheatre. had observed Jane whispering\nto her mother between the acts significantly,\nand had overheard the words \"Sing bass\"\nthought at the moment that this was meant\nto apply to Long Tom Coffin, but now\nfound that was the hero of the side speech,\nand that had been compimented with\nknife and fork in Russell place, in order to\ngrumble out, when the hurly burly's done.'\nBeing in the main good natured man when\nnothing occurs to vex me, made no objec-\nton, and away we started with, \"When\nshall we three meet again.\" as loud as If no\nthing had happened After this l left the\nthree girls fumbling over music books in\nquest OF 80 Patrian igrata.\" \"You'll find\nit among the loose SONGS\" said Jane to Sa-\nrah, where it occurred to me it had no busi-\nness to be. 1t farther occurred tc me that\nmy bass being ended, and there being\nthree girls and three young men, eX-\nelusive of the author, l was one too\nmany. Accordingly, kind Mrs M'Tangle\ncalled me into tho adjoining drawing room,\nTo get me out ofharm's way; and lett the\nhalf dozen young ones pinned two and two\nas Young ones should, looking over operas,\nand hoping that Ncluti was not going to leave\nUS.\n\n\nMrs. M'Tanglc now let me little into\nher plan. took my seatby her on the soia\nand while crimson ottoman proppcd her\nfeet. She opened after the following fashion /:\n-\"rhis is the third year of my continuance\nin town during the summer. After pref\ntv regular run Of the watering places. found\nI them all from July to September, overstock-\ned with other peoples daughters, possessed\nof greater personal attractions than NINE\n| One warm morning was coming the mat\nter over with Mr.. M'Tangle, at Donaldson's\nlibrary, when it suddenly occurred to me,\nthat Iondon in the autumn, from the absence\nof competitors, would give the girls rea-\n! snnable chance. i mentioned the matter to\nMr.. M'Tangle who caught at the idea with\nalacrity. Poor man! he never liked the sea\nside. The sun put ont his eyes, and the alb\nsence Of his day book and ledger gave him\nthe yellow jaundcc. We accordingly re-\nsolved to adhere to Russell place, Fltzroy\nsquare, through good and evil report, from\nwears end to years end. The scheme has,\nain glad to say, hitherto succeeded. Young\nmen are delighted with dinner invitations IN\nScntember and October; and when you once\nhave them, you keep them\" True, answer\n! ed I but what species of young men? Peo.\nnile Of fashion are killing game hundred\nmiles off. \"people Of fashion, people OF fid-\ndie stick!' retorted Mrs. M'tansle. Al\n/ have no taste tor the Lord CharleScs and\nLord Johns. Give me income. There is a\nconsiderable portion of good marriageahle\nmaterial in the Excise and Customs, and a\nbout the Royal Exchange. Peop'e occupied\nthere must be in town during great part OF\nthe autumnal season. have procured two\nSONS in law, who came hither courting,\nwith their legs pendent from the top OF the\nTallyho Paddi1gton coach, their descent.\nthey had only to cross Fitzroy Square, and\nhere they were. You may rey upon it sir,\nthe true way of attaching society is to give\nRishy pfgflIy approve approve Of your plan, madam, an\nswered j, rising to take my leave will re-\ncommend its adoption to Adrman Hunger\nford, now on his travels to Greece in quest\nof Liberty and the picturesque. lie has\nseven marriageabe daughters. Our young\ncounyrymen are fiocking to Athens in shoa $\n\"a dinner i'll the Acropols will infallibly dc\n\n\nthe business.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1514,
+                    "y0": 731,
+                    "x1": 2056,
+                    "y1": 789
+                },
+                {
+                    "x0": 1414,
+                    "y0": 848,
+                    "x1": 2095,
+                    "y1": 3673
+                }
+            ],
+            "bbox": [
+                1414,
+                731,
+                2095,
+                3673
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-02-08_p1_sn85042523_00271740244_1827020801_0727.json"
+        },
+        {
+            "object_ids": [
+                14,
+                16,
+                8
+            ],
+            "headline": "sDmsnzEFt0Ew\n\n\n.GAy.ll Il. Af5 - D\n\nsoSii.",
+            "article": "aThe sun does not gladden. a moment so sweet\nmo moon does not shine on so lovely an hour,\nhsthe s,ft one where. light and obscurity meet,\nAnd the world is half veiPd by its shadowy\n\n\npower.\n\"Vhen the dew drops are glittering SO silent\n\n\nand fair,\n\n\nAnd the waters yet glow with the SUMS latest\n\n\nray,\nHeaven breathcs It's repose in the calm twilight\n\n\nair,\n\n\nUnknown to the brightness and tumult of day\nmTis moment to bid even wretchcdness cease;\nA charm that can rob gloomy care OF his pow\n\n\ner,\nHow balmy and sweet is the season of peace!\nHow tleart to my soul is the mild twilight hour!''\nThe woes of the present are mngling fast\nwith the hopes of the future the light OF the\n\n\npast;\nAnd o. Joy y-breathing moments, ere yet they are\n\n\n,nirS,\nGive place to the weary and sorrowful hours!\nBut fine, the destroyer, vet kindly shall bring\ncharm for each self suffering, balm for each\n\n\nsting;\nAnd the tear drop ofanguish while yetin its flow,\nIs driel by the warmth Of Hopes heavenly glow.\nAnd orr loys and our sorrows still blend as they\n\n\nfade\nIn the rainbow oflifc to one mellowing shades\nFor the sunshine that glstcns on Grief's sullen\n\n\nstream\nAtones for the darkness it gild's with its beam.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 214,
+                    "y0": 1429,
+                    "x1": 562,
+                    "y1": 1495
+                },
+                {
+                    "x0": 323,
+                    "y0": 1515,
+                    "x1": 440,
+                    "y1": 1555
+                },
+                {
+                    "x0": 54,
+                    "y0": 1563,
+                    "x1": 722,
+                    "y1": 2755
+                }
+            ],
+            "bbox": [
+                54,
+                1429,
+                722,
+                2755
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-02-08_p1_sn85042523_00271740244_1827020801_0727.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "Where is there vision sweeter\n\n\nThan u boy and happy mother\nlie makes her hours fly the fieeter:\n\n\nShe can all his sorrows smother.\nWhat a look is that she gives him,\n\n\nWhen he curves his arm around her!\nOh, her very soul receives him.\n\n\nThe bliss Of heaven sure has bound her!\nSec him lean his cheek, so smiling,\n\n\nOn her lap--and raise his lashes;\nMark bis hand, the time bcguiling,\n\n\nWith her ear-drop's dancing flashes.\nLittle knows the fair hard fellow,\n\n\nShe is asking God for blessings;\nWhen her blossom, ripe, and mellow,\n\n\nWill not have her kind caresslngs.\nLittle is that mother dreaming\n\n\nOf his grief, when he must mingle,\nWhere no parent will be beamlng--\n\n\nWhere each heart is cold and single!\nBut, alas!-ne'r think of grieving,\n\n\nWhile so sweet pictures glowing\nThoughts Of home we should be weaving\nPray'rs Of hope should now be howing!--",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 63,
+                    "y0": 3027,
+                    "x1": 679,
+                    "y1": 3881
+                }
+            ],
+            "bbox": [
+                63,
+                3027,
+                679,
+                3881
+            ],
+            "full_article_id": 10,
+            "id": "10_1827-02-08_p1_sn85042523_00271740244_1827020801_0727.json"
+        },
+        {
+            "object_ids": [
+                22,
+                10
+            ],
+            "headline": "From Mrs. Coinn's Mcsscnger,",
+            "article": "\n\n\nTHE BEE AND SNAIL.\nApamper'd Snail began to crawl,\none May-morn, o'er garden wall,\nAnd lettering long, and sauntering slow,\nAwiv'd at noon where roses blow.\nClose TO the roses stood hive,\nFrom whence the swarm, alert, alive,\nIntent for honey, thick as hail,\nPasS'd often DER the basking snail.\nLabor ynir Snail superbly scorns;\ntor ccronel mistaking horns,\nAnd 'city strut of Incidence,\ntM ,ghlty and great good sense.\nA'e npiish'd thus, our grave grandee,\nny 'tnsth accosts u busy Bee:\nwhy labor, insect, one would think\n10 susal-slaves, is meat and drink.\nNext to the silk-hy we affirm\nThou art the most laborious worm:\nme Caterpillar spins her clothes,\nana thou spin'st syrup from the rose.\nAl an wretched avarice works thee wo,\nAZ that mars all happiness below\"\nEOS 30 snail, the industrious Bee replies,\ns,,.l, svli heaping honey on his thighs:\nrWhy snail, yon lavish life away,\ntroubled by languor and decay,\nw una DOING; while you stretch your horns,\nwe we suck the rose unhurt by thorns,\nExtract from blossoms affluent store,\nffiowers all left fragrant as before.\nsse Ns.s OF light labor crowns our wish,\nw.. u.'ar our meat, and wax our dish.\nNJ NJ. you and yours, in shine or shower,\na,oie ,na the stem and faint the flower,\nNa,a ;,a s'umber precious life away,\n\n\nAT stih the sunshine making hay\n\n\nii.a ,a pehce ne the Snails, when frosts unfold,\n\n\npeggars, die of want or cold.\n\n\n4onts 4Itsn auarice be sometimes curse,\n\n\n=\" 'u@'nsss is ten times Worse.\n\n\nbond dse\"aSship is the most sacred of all NOR\nout anr trusts of confidence, though will\n\n\nne \". wy. express stipulation or caution, are\n\n\nIvy nature of them, as sacred as",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 184,
+                    "y0": 3911,
+                    "x1": 609,
+                    "y1": 3964
+                },
+                {
+                    "x0": 76,
+                    "y0": 3937,
+                    "x1": 718,
+                    "y1": 5480
+                }
+            ],
+            "bbox": [
+                76,
+                3911,
+                718,
+                5480
+            ],
+            "full_article_id": 11,
+            "id": "11_1827-02-08_p1_sn85042523_00271740244_1827020801_0727.json"
+        },
+        {
+            "object_ids": [
+                27,
+                13
+            ],
+            "headline": "No. 81.",
+            "article": "Duchess, and distracted all her attentions\nwith his lordship; and ridiculing the tete, his\n/ lordship was hardly restrained from running\nhim through the body before the company.\nThe next day his lordship sent challenge\nto Sidney. The former chose as his second,\ntell, furious, adroit swordsman, named\nDillon; and the latter selected young gen.\ntleman, named Rawlings, just come into pos\nsession of an estate of ten thousand pounds\nyear.-Sidney was wounded i'll two OF\nthree places, whilst his second was run thro'\nthe heart and left dead on the field\nThe unfortunate Duke of rewsberry be-\ncame afterwards so irritAted as to challenge\nthe infamous Buckingham for intriguing\nwith his wife, and Buckingham ran him\nthrough the body 1t was known that the\nDuchess of Shrewsbury, in the disguise OF\npage, attended her paramour to the held\nand held his horse whilst he fought and muir\ndered her husband. The unpripeipled\nCharles in spite of every remonstrance from\nthe Queen, received the Duke of Bucking-\nham with open arms, after his brutal muir\nder.\n\n\nIn the last sixty years we have collected\nlist of l72 dues, comprising 344 individu-\nais OF these sixty-Eine persons were Kill\nled: in three duels, neither OF the combat\nants survived; 90 persons were wounded, 48\ndesperately and 48 slightly; and 1873 escap-\ned unhurt. Thus, rather more than one\nfifth lost their lives, and nearly one-halt re-\nceived the bullets of their antagonists. 1t\nappears also that 1s trials took place, six of\nthe arraigned were acquitted, seven found\nguilty of mansaughter, and three of mur-\nder, that two were executed, and eight i'm\nprisoned for different periods.\n\n\nIn 1868, the Secretary of our Treasury,\n| Mr.. Martin, notoriousy trained himself as\nduelist, for the avowed purpose OF shoot\ning Mr.. Wilkes, whom he first insultcd in\nthe House of Commons, and afterwards\nwounded in the Park. This gave rise to\nChurchill's poem of \"the Duelist.\" The\nHouse of Commons ordered his Majesty's\nSurgeon to attend Mr.. Wilkes, but Mr.. Mar\ntin was considered to have done the state\nmuch service. At that period it is to be re-\nmark ed; that dnels were very fequent among\nClergymen. In 1864, the Rev. Mr.. Hill\nwas killed in duel by Cornet Gardener, OF\nthe Carbineers. The Rev. Mr.. Bate Dudley\nfought two duels, and was afterwards, Gre\nated Knight by the King The Rev. Mr..\nAllen killed Mr.. Dulancy in duel, in\nHyde Park, without mourning any ecclesias-\ntcal censure, though Judge Rutler, on ac-\ncount of the extremely bad conduct OF the\nClergyman, strongly charged the Jury upon\n| his guilt of murder. Whilst the King knight\ned the Rev. Sir Bate Dudley, after his two\nQuestionable ducls, condemned the Sieur Che\nlas, Member of Parliament in France, to be\nbroken upon the wheel for the murder of\nCan't. Requin, the Sieur Chelais having COW\ncred himself with armour under his clothes\nand stabbed his antagonist whose sword\nbroke against his breast plate. In 1765, oc-\nCURED the famous duel III which the father\nof our late transcendant poet, Lord Byron,\nkilled the famous duelist Mr.. Chaworth.-\nThey quarreled at a club dinner at the Star\nand Garter, Pall-mall, about game. Mr..\nChaworth being a great game preserver,\nwhilst Lord Byron argued upon the cruelty\nand jmpoIicy of the Game Laws. They a.\ngreed to fight in an adjoing room by the\nlight of only one candle. Lord Byron enter\ned first. and as Mr. Chaworth was shut\nting the door turning his head round, he be-\nheld Lord Byron's sword half undrawn. lie\nImmediately whipped his own weapon out,\nand making lunge at his Lordshlp, ran 1t\nthrough his wa!stcoat, conceiving that his\nsword had gone through his body. But Lord\nByron closed and shortened his sword, stab\nbed Mr. Chaworth in the belly. The chal-\nlence had proceeded from Mr.. Chaworth.--\n| ord Byron read his defence to the House\nof Lords, and was found guilty of manslaueh-\nter; and upon the privilege Of his peerage\n(for Peers are licenced homicides,) he was\ndischarged on paying his fees. In 1772,\nMr.. M'Lean was challenged and killed by\nMr. Cameron, and the mother Of Mr..\nM'Iean on hearing of the shocking event, in\nstantly lost her senses, while Miss MLoad\nwho was to have been married t. The de-\nceased, was seized with fits, and died in\nthree days.\n\n\nIn Mr.. Sheridan's duel with Mr.. Mat\nthews, the parties cut and slashed at each\nother, u la mode de Theatre, until Mr. Mat\nthews left a part of his sword sticking in Mr'\nSheridan's ear. In the famous duel in which\nMr.. Riddle was killed. and Mr. Canning\nham severely wounded, the challenge by\nmistake, had fallen in the first instance INTO\nthe hands Of Sir James Riddle, father to Mr.\nRiddle, who had it delivered to him, and\ndid no more than provide surgeons for the\nevent. In 1869. Colonel LenoX was insulted\nhv the Duke of y who told him, before\nlajl the officers on the parade of St. James's\nthat he desired to derive no protection from\nhis rank of Prince, The Colonel according\"\nlv fought his Royal Highncss, it is said, with\ncork bullets, but be that as it may, he con-\ntrived to disturb one of the huge rows of\ncuris, which it was then the fashion to wear\n\n\n",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3237,
+                    "y0": 723,
+                    "x1": 3425,
+                    "y1": 784
+                },
+                {
+                    "x0": 2783,
+                    "y0": 775,
+                    "x1": 3472,
+                    "y1": 4912
+                }
+            ],
+            "bbox": [
+                2783,
+                723,
+                3472,
+                4912
+            ],
+            "full_article_id": 14,
+            "id": "14_1827-02-08_p1_sn85042523_00271740244_1827020801_0727.json"
+        },
+        {
+            "object_ids": [
+                20,
+                17
+            ],
+            "headline": "FrDos HE Crystai Hunter.\nWHERE Is THERE A VISION sWEETER",
+            "article": "\"But thou art fair; and at thy birth, dear boy,\nNature and fortune join'd to make thee great;\nOfnature sgifts thou mayst with lilies boast,\nAnd with the halfblown rose\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 80,
+                    "y0": 2784,
+                    "x1": 718,
+                    "y1": 2863
+                },
+                {
+                    "x0": 67,
+                    "y0": 2875,
+                    "x1": 713,
+                    "y1": 3011
+                }
+            ],
+            "bbox": [
+                67,
+                2784,
+                718,
+                3011
+            ],
+            "full_article_id": 18,
+            "id": "18_1827-02-08_p1_sn85042523_00271740244_1827020801_0727.json"
+        },
+        {
+            "object_ids": [
+                23
+            ],
+            "headline": "",
+            "article": "bonds,e ds,e\"aship is the most sacred of all moral\nout anr trusts of confidence, though with\nne express stipulation or caution, are in\n\n\nIVY nature of them, as sacred as if",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 106,
+                    "y0": 5327,
+                    "x1": 748,
+                    "y1": 5484
+                }
+            ],
+            "bbox": [
+                106,
+                5327,
+                748,
+                5484
+            ],
+            "full_article_id": 24,
+            "id": "24_1827-02-08_p1_sn85042523_00271740244_1827020801_0727.json"
+        }
+    ]
+}

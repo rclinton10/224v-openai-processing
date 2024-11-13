@@ -1,0 +1,147 @@
+{
+    "lccn": {
+        "title": "The Wilmington mercury.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2639-6262",
+        "lccn": "sn88053099",
+        "start_year": "1798",
+        "end_year": "1798",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn88053099",
+        "edition": "ed-01",
+        "date": "1798-10-14",
+        "pages": [
+            "seq-1"
+        ]
+    },
+    "page_number": "1",
+    "scan": {
+        "lccn": "sn88053099",
+        "edition": "ed-01",
+        "date": "1798-10-14",
+        "page": "1",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn88053099/1798-10-14/ed-1/seq-1.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn88053099/1798-10-14/ed-1/seq-1/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn88053099/1798-10-14/ed-1/seq-1/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn88053099/00271740232/1798101401/0038.jp2",
+        "height": 2968,
+        "width": 2440
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1254,
+                "y0": 955,
+                "x1": 1981,
+                "y1": 2850
+            },
+            "class": "article",
+            "raw_text": "NEW TNON LLHIND.\nOn Saturday laft, arrived at New\n\n\ncattle, 3o days from London,\n\n\nua Cork, the ihip William\n\n\nPenn, Captain loiiah. We\nq have not, as yet, procured any\n\n\npapers, but the following in\n\n\nformation is given by the Cap\n\n\ntain, as authentic:\n\n\n\" Previous to the Captains de-\nparture from Cork, an exprefs had\narrived from Dublin Cattle, with\nthe alarm Of the French having\nlanded on the North eft coat of\nthe ifland, in great force, with\nlarge magazines Of ammunition\nfirearms, & cannon. That Gen.\nLake, with all the force he could\ncollect, infantly marched to the\nattack, was defeated, and obliged\nto fly. That the country people\nwere Aocking to the French, and\nthe whole province of Utter was\nin uproar. The French were en-\ntering Ca1tlebar, on their route\nto attack Dublin, and (fays the\nexpreis) thelord lieutenant, Corn\n9oaiHs, was muhering all his force\nto defend the city.--lt was ge-\nnerally believed at Cork, that Bu-\nonapartc had arrived at Alexan-\ndria, and it was much feared that\nNeilfon would be completely\nBurggm'dl\"--[7be date eftbis in\nfeMgence, ,mHf be about the 4tb Sep\nfember.l",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 343,
+                "y0": 549,
+                "x1": 2225,
+                "y1": 752
+            },
+            "class": "headline",
+            "raw_text": "FIRST DAY (suN) EVENING, TENTH MO.\n\n\n(oc7) IA, 1898.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -3
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1027,
+                "y0": 684,
+                "x1": 1450,
+                "y1": 752
+            },
+            "class": "headline",
+            "raw_text": "(OCT.) \"A, 1898.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -2
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1271,
+                "y0": 920,
+                "x1": 1923,
+                "y1": 986
+            },
+            "class": "headline",
+            "raw_text": "NEWS FROM IRELAND.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                1,
+                6,
+                4,
+                2
+            ],
+            "headline": "FIRST DAY (suN) EVENING, TENTH MO.\n\n\n(oc7) IA, 1898.\n\n(OCT.) \"A, 1898.\n\nNEWS FROM IRELAND.",
+            "article": "NEW TNON LLHIND.\nOn Saturday laft, arrived at New\n\n\ncattle, 3o days from London,\n\n\nua Cork, the ihip William\n\n\nPenn, Captain loiiah. We\nq have not, as yet, procured any\n\n\npapers, but the following in\n\n\nformation is given by the Cap\n\n\ntain, as authentic:\n\n\n\" Previous to the Captains de-\nparture from Cork, an exprefs had\narrived from Dublin Cattle, with\nthe alarm Of the French having\nlanded on the North eft coat of\nthe ifland, in great force, with\nlarge magazines Of ammunition\nfirearms, & cannon. That Gen.\nLake, with all the force he could\ncollect, infantly marched to the\nattack, was defeated, and obliged\nto fly. That the country people\nwere Aocking to the French, and\nthe whole province of Utter was\nin uproar. The French were en-\ntering Ca1tlebar, on their route\nto attack Dublin, and (fays the\nexpreis) thelord lieutenant, Corn\n9oaiHs, was muhering all his force\nto defend the city.--lt was ge-\nnerally believed at Cork, that Bu-\nonapartc had arrived at Alexan-\ndria, and it was much feared that\nNeilfon would be completely\nBurggm'dl\"--[7be date eftbis in\nfeMgence, ,mHf be about the 4tb Sep\nfember.l",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 343,
+                    "y0": 549,
+                    "x1": 2225,
+                    "y1": 752
+                },
+                {
+                    "x0": 1027,
+                    "y0": 684,
+                    "x1": 1450,
+                    "y1": 752
+                },
+                {
+                    "x0": 1271,
+                    "y0": 920,
+                    "x1": 1923,
+                    "y1": 986
+                },
+                {
+                    "x0": 1254,
+                    "y0": 955,
+                    "x1": 1981,
+                    "y1": 2850
+                }
+            ],
+            "bbox": [
+                343,
+                549,
+                2225,
+                2850
+            ],
+            "full_article_id": 3,
+            "id": "3_1798-10-14_p1_sn88053099_00271740232_1798101401_0038.json"
+        }
+    ]
+}

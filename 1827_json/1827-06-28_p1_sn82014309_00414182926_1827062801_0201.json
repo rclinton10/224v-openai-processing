@@ -1,0 +1,498 @@
+{
+    "lccn": {
+        "title": "The Litchfield County post.",
+        "geonames_ids": [
+            "4837799"
+        ],
+        "dbpedia_ids": [
+            "Litchfield%2C_Connecticut"
+        ],
+        "issn": "",
+        "lccn": "sn82014309",
+        "start_year": "1826",
+        "end_year": "1829",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [
+            "sn84020071"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn82014309",
+        "edition": "ed-01",
+        "date": "1827-06-28",
+        "pages": [
+            "seq-3",
+            "seq-4",
+            "seq-2",
+            "seq-1"
+        ]
+    },
+    "page_number": "1",
+    "scan": {
+        "lccn": "sn82014309",
+        "edition": "ed-01",
+        "date": "1827-06-28",
+        "page": "1",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-06-28/ed-1/seq-1.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-06-28/ed-1/seq-1/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn82014309/1827-06-28/ed-1/seq-1/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/ct_barnum_ver01/data/sn82014309/00414182926/1827062801/0201.jp2",
+        "height": 7450,
+        "width": 5142
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2140,
+                "y0": 6460,
+                "x1": 3025,
+                "y1": 7043
+            },
+            "class": "article",
+            "raw_text": "The Indian fort or camp Mistic, was in very romantic site, on the top ofa hill; the country inaccessible behind, was vari- egated with hill. dale, and limpid streams all around, over which it commanded a grand and enchanting prospect.\n\n The Notifications encircled tho summit of this hill, and consisted of an eminence of high palisadoes, firmly and closely se- cured within this there was thick broad hedge of impenetrable junipers. ivy, briers and other sorts ofcopse. These circular",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2314,
+                "y0": 6349,
+                "x1": 2833,
+                "y1": 6444
+            },
+            "class": "author",
+            "raw_text": "From ae Republican Farmer: AN INDIAN FORT.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 283,
+                "y0": 913,
+                "x1": 1198,
+                "y1": 1962
+            },
+            "class": "article",
+            "raw_text": "\n\n IO subscribers in this Uillage, and subscribers by MpGiI or by post carriers, TWO DOLLARS per gear, Payable in GdUance. To compGnies Jess than Ten, by mail, or taken from the o0fce, s0here there IS joint responsibility ,ohefe indiDid~at is responsible, Sl ,5O per gear, n ad- U0nce. IO like companies of more than ten, $1,- 95 per gear, in adUance.-Where payment is de- Ioyed to te end cf the gear % cts uOII be added to each of the GbOve prices.\n\n No papers aUiN De discontinued until aN ar- Tearoges are paid, except ct the discretion ofthe publisher.\n\n ADVERTISING.\n\n For half square, three insertions, or Jess, 75 cents ;-mOre than ha! fo square, and Jess tham q square, s7 l2 cents ;-.for one square, 100 j; -Gnd in the some proportion for more thGa c square; for continuing advertisements more than three tceeks 20 per ceat per sUeek ,OiI be charged\n\n PROBATE NOTICES. Administrators aud Executors BLOC Con.n,issioaerS' S1.95",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 359,
+                "y0": 710,
+                "x1": 1146,
+                "y1": 844
+            },
+            "class": "headline",
+            "raw_text": "BY S. S. SMITH, EDITOR AND PROPRIETOR.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -2
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 627,
+                "y0": 867,
+                "x1": 884,
+                "y1": 914
+            },
+            "class": "headline",
+            "raw_text": "TERRME.",
+            "legibility": "Questionable",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3932,
+                "y0": 843,
+                "x1": 4853,
+                "y1": 6420
+            },
+            "class": "article",
+            "raw_text": "Indian character, which indolence, and\n\n want of cultivation had combined to com press. .....\n\n ] A shout burst from the midst of them. It was responded to by the young Indian females, hastening to meet them. The 1 warriors joined to the exclamation, and like the shouting of jubilee, the camp rang with praise and triumph. J. X. The following are extracts from the late E. lection Sermon, preached before the Massa- chusetts Legislature, by Rev. Moses Stuart, Professor of Sacred Literature in Andover Theological Seminary.\n\n On general ground, this may be shown 1 with very little difficulty. It is a fundamen- tal principle of Christianity, that pe should tooe eur neigh5or as owrseLves. Whenever this shall be done, and wherever it shall be done, protection in the most efectuaI manner 10 the fife, liberty and property of men, will ne cessarily ensue. If we love our neghbor as ourselves, it is plain that we shall never de- signedly injure him, in respect to any of the rights which freedom bestows. We never can deny him any rights which we could venture to claim ourselves; we can take ] from him nothing, which we should not will lmgly permit him to take from us.\n\n Then the gospel has'decided too, the ques. ] ton which is our neighbor. All men are ] neghbors to each other. ''In Christ Jesus, there is neither Greek nor Jew, Barbarian nor ] Scythian, bond nor free;' all are one--one in respect to their native rights, and claims, and rank. There is no difference between the coiOret and the white man, under the empire of gospel truth. God has not only made all nations of one blood; hut he has permitted them all to claim the same relation to him he permits them to share equally in the bounties of his providence and of his grace. ] If they are abridged of any ofthese privileges, ] it is not their Creator who has abridged them, 1 but those who have abused the power which was entrusted to them, and show themselves unworthy of such trust. The Maker of heaven and earth, regards all men in the sim l pie light of mora! aUorth. External circum- stances, rank, condition, form, color, occupa- tion---every distinction of winch proud and l petty men boast, and with which they are tnflated--ls perfectly insignificant in the sight of Him, {\" who seeth not as man seeth\" In his view, the beggar in the Lazaretto, if pos sessed of a meek, humble and fal spirit, is prince; and prince who is naughty, and luxurious, and oppressive, and un5ratefu, is q beggar indeed.\n\n ] Christianity, moreover,n its very nature and genius Is republican. It is the genuine una dulterated doctrine of liberty and equality. To all men it gives liberty to exercise their efforts and desires without restraint, so far as consists with the public good; for this results 1 from the simple principle of giving to others that liberty which we may justly cialm for ourselves. There is no one thing, which Christianity forbids, that would not be detri- mental either to the public, or to the individ- ual who might practice it. All its precepts and penalties stand on this basis and they are equally applicable to all men. Whatever men may do or refuse 10 do, about submission to laws made by others like themselves, by the very nature which is given them at the creation. they are subject to the laws heav- eD. None are too high to be made the sub iects of these laws; none too low to be af- 1 fected by their control. Consequently all men are by the nature of their subjectiOn to the same laws, placed on the groun of equal 1 ity ny the Christian religioav\n\n hesitate not to say then, that Christian ity is in its very nature true liberty and equak | ity. It does not, indeed, teach us that all men possess equal talents of any kind, nor characters equally estimable. It does not maintain that all men ought to have the same influence m community, whether their chars acter he good or bad whether their intellectual powers are strong or weak. No; it recogni- Aes all of these differences among men. But still, from the very natue of the principles which it teaches, it necessarily maintains an equality Q ofobigation among all classes of men 1 to the supreme laws of heaven, and it main Etains an equality of rights among all. This is ! the only rational and true equality that ever will, or can, exist among men.\n\n Under a government, which is free upon I Christian principles, no man can be debarrcd from privileges which another is permitted to enjoy, or from claims which another is per-\n\n nitted to make, except by his own default. or disobedience to the laws of his country. Office is accessible to all, wealth is accessa-\n\n ble to all, wherever and whenever men do to others that which they would that others should do to them. All this is necessarily implied in a Christian spirit. am not ignorant, that am now treading upon ground, which is deemed sacred by a great body of our brethren in the eastern world. They will ise up, by thousands and by millions, in opposition 10 the principles which have been avowed, and demand an an swer to the question, Whether we are not to honor the king as well as to tear God? And. whether euery soul IS not subject to the po.cers aVtich De? These questions although highly important, and (from the connexion in which they stand) fearful we will not shrink from answering. We ought to do this, indeed, in the spirit of respect and affection for many",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 3024,
+                "y0": 843,
+                "x1": 3928,
+                "y1": 6420
+            },
+            "class": "article",
+            "raw_text": "l fort. Within these stood the wigwams\n\n forming another circle, with all intervening\n\n space, of the finest verdant lawn between\n\n them and the Notifications.\n\n 1 They appeared like circle of arbours, constructed of young trees twisted togeth- 1 CT, and bent to unite in the form of cone or dome, at the top, and as ingeniousIy covered with bark, and often in more ele- 1 gant style with mats made of reeds, stitch ed together with rhind, as to be dry and warm. An orilice at the top, emitted the smoke of the fire, in the centre of each, which presented lively and interesting 1 spectacle.\n\n l A'grand circular area within the whole,\n\n was used as, cxigcnce required. In the evenings the young met in it, and joined in the festive dance. During the day it was l the gymnasium for athletic feats of activity 1 and strength, and exercises in arms and l combat. On more solemn occasions it\n\n was the Senate House, and forum of coun- cellors, and orators, distributing justice or delibera;ing on the affairs ofthe tribe. An ! elevated mound in the centre of all, seem- ed post of observation, from which rose\n\n a tall strait white wood tree, like mast,\n\n or liberty pole, daubed with paint, and sur\n\n mounted by boar's head.\n\n But Indian habitations should all be seen\n\n perspectively. The nearer you approach\n\n the enchantment of their rural elegance is\n\n dispeli-d. The filth cast out before the door of the wigwam, rise in purifying\n\n heaps. These corrupting offals distressed\n\n the eye, and were hurtful to all but Indi-\n\n an olfactory nerves. . In another quarter, the young Indians like bFoods of grumphing quadrupeds, had crawled together in groups, in state of primitive nakedness. Not yet able to walk on all fours they sprawled and sported to- gether, rolling over each other, squeaking 1 and gabbling according to the humour of 1 the moment.\n\n Their hair which in riper years is jet l black, was blanched, and the red color of the plump urchins was considerably heigh- tened, by their exposure to tie influence of the solar rays.\n\n A rapture among the varlats about a broken arrow, and some other -playthings, called tho squuws rom the wigwams, who dashed into the group. Each plucked her particular charge. from the uproar, and tossing it over her shoulder, screamed in concert with the shriller pipes, raised to the highest key, the enraged and inquir- ing urchin.\n\n The squaws, seldom on the most ami- cable footing with each other, and kind ling with the supposed injuries of ,heir pap pooses, turned the strife towards each oth- CT. The little Indians clung like young oppossum to their mothers backs, and, grinning, spit wrath, as their guardians tore each others heads, and fought with nails and fists, till many lay routed on the ground. Such glamour in the camp, no usual thing called forth the interference of a war rior or two who smooted the tempest. The shafts of their lances Aourished about the heads of the insurgents, like forked lightning, and pelmell they went on all without distinction. Battered and routed, the whole female tribe fled, growing, and whining under their wounds, with the ur- cliins not less terrified, screaming at the top of their lungs. The dogs aroused and called together by the noise, snarled, bark ed, and joined in the pursuit, till all were hid in the interior of their wigwams. A few old indians feeble with the infirm- ities of superanuation, came tottering to the doors of their wigwsrns. Their heads were hoary and bald but the grotesque metamorphoses of dirty stubble like white boards, so disgusting among the common orders of the aged, in civilized nations, their customs had eradicated. Though e maciated and withered, they were notbow- ed like our veteran mechanics, but strait as rushes, and though their filrrowed, wrinkled, smoke bleared features, much of the Indian manly expression could bo dis ccrned.\n\n They assembled at the Sachems wig wam after staring at the prisoner, to learn the results of the deliberations at the coun- Gil fire, and discuss the politics fthe tribe, and the punishment that eaght to be awar- ded to the spy. g\n\n The attention of Capt. Hooker was pre- sently drawn to scene of another de- Iscription.-This was the1ndian youth rec turning from q pillaging excursion, with l three other i'll fated prisoners. The con-\n\n qerors of Parthia on their triumphant en-\n\n try, could not feel, or express higher exul-\n\n tation. They had burned and destroyed\n\n three families, of which these captives\n\n were members, whose scalps OH long poles\n\n graced their pagaentry. It was youth\n\n fll feat, worthy of their choisest warriors, II V. Al AL-..",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1214,
+                "y0": 843,
+                "x1": 2112,
+                "y1": 6420
+            },
+            "class": "article",
+            "raw_text": "\n\n pathy and kindness than the portraiture of beauty itself: as if that slumbering feeling of pity and commisseration which dwels in all of us, becomes stronger in it's attachments be- cause they are but seldom thoroughly arou- sed.\n\n Her dress was soiled with dust, and looked as if slight shower had caught her in the rOad-for they travelled on foot yet there was an air of neatness about her, that seemed to say how much brighter and sunni CT were the days she once had seen. She led a hoy of ten years old by the hand. as poor Iy clad as his mother, and without shoes. He seemed the very picture of health. Idiscov- cred, however. that the poor fellow was blind. Two huge cataracts gave his eye balls ghast- ly and unnatural appearance. I looked upon him with no small emotion for knew that to him the fair face of heaven and all beneath it was shrouded in utter darkness. And where, Madam, said l, are you going \"To Phila- delphia, Sir,' she replied; My child is blind and have brought him that he may be resto- red to sight\"\n\n They had travelled all the way from the state of New-Y York-several hundred miles on foot. She had left her family behind, which was small, and had started for Philadelphia, believing it to be her duty to do whatever\n\n \n\n had been supported on the way by the chari- ty which their situation had excited in the people. Their garments were worn to tatters by the journey-yet the mothers hopes grew brighter and stronger as she approached its conclusion.\n\n Of the numberless hosts of fbeggars that viz sit country town, not a solitary one seems to pass the printing office without stopping. It is sorry place to apply for charity; for the public sympathy has been so frequently inpo- sed upon, that it is a thahkless task to admin ister relief. But [ remember that the sacred volume tells us we may thereby entertain an angel unawares.\" This was no imposi- ton. There was no mockery of poverty or atfliction. putmy hand into my pocket and drew out-but no matter what. She curte- sled, gave me her blessing, took her boy by the hand, shut to the door, and left me alone by the side of my table.\n\n Such, thought I, as drew to me the sheet on which this is written, is the affection of mother How deep in its affection, how pure and ardent in its exercise! Who but mother can know it? I thought of what Campbell pnts into the mouth of d mother when watch ing the cradled slumbers of her infant boy :- ''Lo at the couch where infant beauty sleeps\n\n Hey silent watch the mournful mother keeps And weaves her song of melancholy 1oy.\n\n Sleep, image of thy father, sleep, my boy!\n\n Bright as his manly sire the son shall be,\n\n In form and soul: but ah more blest than he.\n\n Thy fame, thy love, thy filial worth, at last,\n\n Shall soothe this aching heart for all the past:\n\n With many a smile my solitude repay,\n\n And calm the anguish of my dying day.\n\n Such reflections as these might have been the solace of this dejected mother on her sol- itary journey. Though trembling at the un- .lo~S full lest all her heartfelt solicitude and bodily suferings might be lost, and to no purpose yet reflections of this kind may have cheered up her sinking spirit to perse1Ete. Perhaps she might have looked upon her boy, (and he was her only one,) fancying that if, by the blessing of heaven, the skill of the physician should restore him,\n\n \"And on his sightless eye ball pour the day. that the same Providence might preserve him to become the prop, and comfort and soIace of her declining years. That his manly spir- it should protect her from the rough storms of poverty and sorrow.\n\n Bucks County (Penn.) Pat.\n\n From KeppePs Journey from India to Eng,and.\n\n Arab Horse Racmg.-We went this after noon into the Desert to horse race, an amusement of which the natives of Bussorah are as fond as our own countrymen; though l fear, if an English jockey had been there, he would have thought the profession disgraced by the exhibition. For our own parts, we were much more amused than ifthe business had been conducted according to the strictest rules of the turf The spot selected was the Great Desert, which commences immediately outside the town; circular furrow of two miles marked the course and the stakes con sisted of small subscription raised from a. mongst our European party. The five candi- dates who started for the prize. were well suited to the general character of the scene. Instead of being decked in all the colours of the rainbow,a coarse loose shirt comprised all the clothing ofthe Arab jockey; and the pow erful bit of the country was the only article of equipment of the horse he bestrode. Thus simply accoutred, at signal given, these half naked savages set off at full speed, each giving shout to animate his horse. They arrived like team at the goal the prize was adjudg- ed to an Ethiopian slave. The scene was highly animated and interesting, though we had neither splendid equippages nor fair ladies to grace our sports; but what we lost in splendor and beauty we gained in novelty;- and though, when occasionally gazing on some wearcr of gaudy silks, the bright smile of woman did not repay our curiosity, we al most forgot the disappointment in beholding l the animated cOuntenance of the turbancd Turk, who, bearded to the eyes, would be .o v,, net xx;th oroad hand",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2134,
+                "y0": 838,
+                "x1": 3020,
+                "y1": 6420
+            },
+            "class": "article",
+            "raw_text": "hin' he COuO WOrk aL paper making. The fellow was unable to tell exactly, as he had never tried, but seemed to think that he could If any body would set him to work at it. His interrogatOr then told him thst he was m agent for paper manufactory in this city and was greatly in want of two oF three good hands to work in it hut said he, the owner of the establishment lives in Albany, and I cannot agree with you unless the owner gives his consent. If you will go to AIbany and see him, without doubt, he will send me word 10 engage you immediately. The fellow was elated at the prospect of such anintroduction to business, and having taken thesaddress of person in Albany as owner, and also the name of the agent who sent him, depatted, {\" noth- ing loth.\" in the first stage for that city. He soon found the person to whom Ne was refer red, and made known to him the object of his visit. The pretended owner of the paper mill no sooner heard the name of his agent mentioned than he discovered the hoax, and entered himself into the design to carry it on. He told the fellow that it was true that he had paper mill in Troy, and that he was in want of more workmen, remarking thatl could employ none but such as could do the finest kind ofwork. If hire you, ,'saidIh he, \"your business will be to prepare materials for ma king paper for bank bills. It is very difficult to do 1t, as the rags, which are very nice and fine, must be chewed in the mouth\" The fellow tho't this was certainly money making business, and had no doubt hut what he could work at 1t well enough. The owner then gave him selvagc of a coare silk Eandker- chief, and directed him to chew it until he got back to Troy, and if the agent thought i: would answer, he would make contract to employ him. The poor fellow stuffed his mouth full of the sack, and chewed it with wrlthlngs and contortions of the face all the way back. More than once the passengers in the stage were unable to prevent themselves from breaking out in roar oflauShter, at the queer looks and gestures of the poor grinder, who kept his jaws Zealously in motion, and once or twice came near swallowing the whole dose. When he met the agent he showed him the fruit of his labor. saying, \"hed be hang'd ifhe would work any more at that bu- siness. for it made his jaws so lame' that he couldn't cat.'' So the fellow refused to hire out at that occupation, and started off to make money some other way.-Troy Budget.\n\n . SAVANNAH, JUNE e.-'Ne this day pub fish the last drawing of the Land Lottery, which took place on the 26th uIt. making 68 drawings in all. A great dlal nf f--i>-~~'\"tion\n\n \n\n of the lottery, both in the purchase of lands and chances. or the latter, resident of this place, for $40, bought fifteen from a person who had purchased them from differ ent individuals, of which nine have drawn prizes worth at moderate estimate S2OOO-a very neat profit for single speculation. The following is more full account of an adven- ture already desc ribed: s\n\n The tract of land supposed to be the most valuable in the new territory remained in the days drawing preceding the last-Num- Der FIFTY oNE,\" in the S1st district ofMus- cogee, (drawn on the 24th inst. by female ideOt of Columbia county,) was this great prize. Every body talked of Number FIFTY oNE-it was so extremely valuable-it would command so large price. On Thursday morning expectation was on tiptoe, and the spectators kept sharp look out An hour or two before the invaluable FIFTY ONE was drawn, another .ftty ones in different dis trict of Muscogee came out. The sound of number :\" \".ffty one\" had an electrical effect every body started and stared--it was, how ever, No. 5l, in the 2d. and not in the 2lst district, and was drawn by a revolutionary soldier of Jefferson county. Nunmber .ffty one had taken so strong hold on the mind of one of the spectators. that he altogether disregarded the DISTRICT, and leaping upon his horse. was in moment out Of sight, in pursuit of the Revolutioner; ; wishing no doubt to experience the pleasure, which is afforded to every philanthropic heart,in being the first to communicate to so worthy character the full ertent of his good fortune. The unfor- nate mistake of the speculator being discov cred almost immediately, by his friends, they started after him instantly, two expresses mounted on fleet horses, with instructions to ride him down and warned him of his error. But he was not to be oyertaken-John Gil- pin, in his celebrated London race, did not go faster. In vain did the expresses urge forward their horses, in the hope of getting within hailing distance-the speculator flew before them almost with the swifthess of the wind. In two hours he was at Sanderviile,a distance of 27 miles-getting fresh horse there, and one more afterwards, he arrived at his place of destination, at least sirty.fUe miles from Milledgeville, in about .Jre hours / That road was never. before travelled with such speed ,and perhaps will not be again, un- til we have another Land Lottery. A bar gain for the land was quickly struck, and a part of the purchase money paid down, long before the arrival of either of the expresses. We are glad to learn, however, that when the mistake of the buyer had been discover ed, the revolutionary veteran cheerfully returned the money and cancelled the sale.\n\n From ahe Republican Farmer:\n\n | 4 ny WNx~",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 324,
+                "y0": 2077,
+                "x1": 1198,
+                "y1": 7101
+            },
+            "class": "article",
+            "raw_text": "\n\n BY MRS. HEMANs.\n\n Gloom is upon the lofty hearth,\n\n o silent House! once flld with mirth; Sorrow is in the breezy sound\n\n Of thy tall poplars whispering round. The shadow of departed hours\n\n Hangs dim upon thine early flowers; Even in thy sunshine seems to brood Something more deep than solitude. Fair art thou, fair to the strangers gaze, Mine own sweet home of other days! My childrcn's birthplace yet for me IL IS too much to look theei\n\n Too much! for all about thee spread, feel the memory of the dead\n\n And almost finger for the feet\n\n That never more my step shall meet. The looks, the sniles,-all vanished now, Follow me where thy roses blow; The echoes of kind household words Are with me midst thy slnglng-birds Till my heart dies, it dies away\n\n In yearnings for what might not stay; For love which ne'er deceived my trust, For all which went with |\" dust to dust.' What now is left me, but to raise\n\n From thee, lorn spot thy spirits gaze To lift through tears my stlzainng eye Vp to my Fathers House on high .! Oh! many are the mansions thcre,* I'nt not in one hath grief share!\n\n No haunting shades from things gone by May there o'ersweep tn unchanging sky And they are there whose long-loved men In earthly home no more is seen\n\n Whose places where they smiling sate, Are 4cft unto US Gcs0latc.\n\n We miss them when the board Is spread We miss them when the prayer Is said; Upon our dreams their dying eyes\n\n In still and mournful fondness r6e\n\n But they are where these longings vain Trouble no more the heart and brain; The sadness ofthis aching love\n\n Dims not our Fathers House above. Ye are at rest, and in tears,f\n\n Ne dwellers of immortal spheres\n\n Under the poplar bOug hs stand,\n\n And mourn the broken household band. But by your life oflowiy faith,\n\n And by your joyful hope in death\n\n Guide me, till on some brighter shore, The scyer'd wreath Is bound once more. Holy ye werc and good, and true!\n\n No change cloud my thoughts of you Guide me like you to live and die,\n\n And reach my Fathers House on high. St. John, oh. xiv. tFrom an ancient Hebrew dirge-\" Mourn for the nourner and for the dead for he IS at rest and Il tears.'\n\n The following stanzas are copied from the New England Galaxy. They are from satirical poem now n the press of Messrs. Wells & Lilly, entitled, Our  There is thin and swarthy senator Mad with much learning and tongue OCT free, Who not content to live by Wit and law, During the long vacation goes to sea. He is kind of literary weaZle hold tlCr rIo cv1la nf flaUYe He has stormed onward now for twenty years Flashing and brilliant the meteor, sent Der southern skies, when all its dewy tears Are falling from the starry Armament. Such Is his pathos when he stirs the ladies, And summons shapes and sounds alike from Heaven\n\n and lIades.\n\n He is licens'd jester of the court A petty pyrotechnic politician Moving with all razor's royal port, The bilious general of the opposition. The dull and dubious all declare him crazy But then in genius he's perfect EsterhaZy! He cast curse on Panama. Indeed He could not well do better and be civil, For every measure waits from him the need And honor of dismissal to the dev-- For so it is, in spite of waxen noses, The better it succeeds, the stronger he opposes. He is a walking reservoir of gall-\" The evanesccnt essence of all bile And should he find his spleen is growing small, He'll daily ride sharp backed horse mile, To stir his goodly juices to their duty Of pouring alcohol on government and beauty! He IS the thinnest senator on eartl- And has voice the thinnest of his gender; But to what thrills its eloquence gives birth, Go ask the riv'd and galvanized offender! Sometimes far north his whitening fancy roams, And you may get particulars from Mir. H\"*\"@s\n\n \n\n ''Will you give poor woman with ahelp- less child, trihe to help her on to Phiiadel- phia 2\" said voice in mournful accents. looked up and beheld a female figure clad in a coarse home dress, with the fragments of a Leghorn hat, and pair of shoes that seemed ready to drop off at every step she took.- She was young. and once might have been handsome. But no matter for that. As il was, there was faint expression of cheerful ness upon her countenance, that still peered out from beneath the cloud of sorrow that o. her brow, creating purer in' terest in the breast of the beholder than the",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 440,
+                "y0": 1996,
+                "x1": 1047,
+                "y1": 2096
+            },
+            "class": "headline",
+            "raw_text": "From hte NeW Monthly Magazine. THE DESERTED HOUSE.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -2
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 592,
+                "y0": 2106,
+                "x1": 872,
+                "y1": 2142
+            },
+            "class": "author",
+            "raw_text": "BY MRS. HEMANs",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1226,
+                "y0": 6646,
+                "x1": 2118,
+                "y1": 7049
+            },
+            "class": "article",
+            "raw_text": "4 good Joke.--A few days since fellow from the land of steady habits or some where else. came to this city to seek employment. In answer to the question, what business he could work at, said he \"did'nt understand no business in particular, but he could work at any kind in general\" A young man who sport, hearing the fellow express his want of",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 295,
+                "y0": 4586,
+                "x1": 1204,
+                "y1": 4762
+            },
+            "class": "article",
+            "raw_text": "\"''In my Fathers house there are many mansions\" St. John, oh. xiv.\n\n tFrom an ancient Hebrew drge-\" Mourn for the mourner and not for the dead for he is rest and ill tears.''",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                11,
+                0
+            ],
+            "headline": "",
+            "article": "The Indian fort or camp Mistic, was in very romantic site, on the top ofa hill; the country inaccessible behind, was vari- egated with hill. dale, and limpid streams all around, over which it commanded a grand and enchanting prospect.\n\n The Notifications encircled tho summit of this hill, and consisted of an eminence of high palisadoes, firmly and closely se- cured within this there was thick broad hedge of impenetrable junipers. ivy, briers and other sorts ofcopse. These circular",
+            "byline": "From ae Republican Farmer: AN INDIAN FORT.",
+            "bbox_list": [
+                {
+                    "x0": 2314,
+                    "y0": 6349,
+                    "x1": 2833,
+                    "y1": 6444
+                },
+                {
+                    "x0": 2140,
+                    "y0": 6460,
+                    "x1": 3025,
+                    "y1": 7043
+                }
+            ],
+            "bbox": [
+                2140,
+                6349,
+                3025,
+                7043
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-06-28_p1_sn82014309_00414182926_1827062801_0201.json"
+        },
+        {
+            "object_ids": [
+                6,
+                8,
+                1
+            ],
+            "headline": "BY S. S. SMITH, EDITOR AND PROPRIETOR.\n\nTERRME.",
+            "article": "\n\n IO subscribers in this Uillage, and subscribers by MpGiI or by post carriers, TWO DOLLARS per gear, Payable in GdUance. To compGnies Jess than Ten, by mail, or taken from the o0fce, s0here there IS joint responsibility ,ohefe indiDid~at is responsible, Sl ,5O per gear, n ad- U0nce. IO like companies of more than ten, $1,- 95 per gear, in adUance.-Where payment is de- Ioyed to te end cf the gear % cts uOII be added to each of the GbOve prices.\n\n No papers aUiN De discontinued until aN ar- Tearoges are paid, except ct the discretion ofthe publisher.\n\n ADVERTISING.\n\n For half square, three insertions, or Jess, 75 cents ;-mOre than ha! fo square, and Jess tham q square, s7 l2 cents ;-.for one square, 100 j; -Gnd in the some proportion for more thGa c square; for continuing advertisements more than three tceeks 20 per ceat per sUeek ,OiI be charged\n\n PROBATE NOTICES. Administrators aud Executors BLOC Con.n,issioaerS' S1.95",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 359,
+                    "y0": 710,
+                    "x1": 1146,
+                    "y1": 844
+                },
+                {
+                    "x0": 627,
+                    "y0": 867,
+                    "x1": 884,
+                    "y1": 914
+                },
+                {
+                    "x0": 283,
+                    "y0": 913,
+                    "x1": 1198,
+                    "y1": 1962
+                }
+            ],
+            "bbox": [
+                283,
+                710,
+                1198,
+                1962
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-06-28_p1_sn82014309_00414182926_1827062801_0201.json"
+        },
+        {
+            "object_ids": [
+                2
+            ],
+            "headline": "",
+            "article": "Indian character, which indolence, and\n\n want of cultivation had combined to com press. .....\n\n ] A shout burst from the midst of them. It was responded to by the young Indian females, hastening to meet them. The 1 warriors joined to the exclamation, and like the shouting of jubilee, the camp rang with praise and triumph. J. X. The following are extracts from the late E. lection Sermon, preached before the Massa- chusetts Legislature, by Rev. Moses Stuart, Professor of Sacred Literature in Andover Theological Seminary.\n\n On general ground, this may be shown 1 with very little difficulty. It is a fundamen- tal principle of Christianity, that pe should tooe eur neigh5or as owrseLves. Whenever this shall be done, and wherever it shall be done, protection in the most efectuaI manner 10 the fife, liberty and property of men, will ne cessarily ensue. If we love our neghbor as ourselves, it is plain that we shall never de- signedly injure him, in respect to any of the rights which freedom bestows. We never can deny him any rights which we could venture to claim ourselves; we can take ] from him nothing, which we should not will lmgly permit him to take from us.\n\n Then the gospel has'decided too, the ques. ] ton which is our neighbor. All men are ] neghbors to each other. ''In Christ Jesus, there is neither Greek nor Jew, Barbarian nor ] Scythian, bond nor free;' all are one--one in respect to their native rights, and claims, and rank. There is no difference between the coiOret and the white man, under the empire of gospel truth. God has not only made all nations of one blood; hut he has permitted them all to claim the same relation to him he permits them to share equally in the bounties of his providence and of his grace. ] If they are abridged of any ofthese privileges, ] it is not their Creator who has abridged them, 1 but those who have abused the power which was entrusted to them, and show themselves unworthy of such trust. The Maker of heaven and earth, regards all men in the sim l pie light of mora! aUorth. External circum- stances, rank, condition, form, color, occupa- tion---every distinction of winch proud and l petty men boast, and with which they are tnflated--ls perfectly insignificant in the sight of Him, {\" who seeth not as man seeth\" In his view, the beggar in the Lazaretto, if pos sessed of a meek, humble and fal spirit, is prince; and prince who is naughty, and luxurious, and oppressive, and un5ratefu, is q beggar indeed.\n\n ] Christianity, moreover,n its very nature and genius Is republican. It is the genuine una dulterated doctrine of liberty and equality. To all men it gives liberty to exercise their efforts and desires without restraint, so far as consists with the public good; for this results 1 from the simple principle of giving to others that liberty which we may justly cialm for ourselves. There is no one thing, which Christianity forbids, that would not be detri- mental either to the public, or to the individ- ual who might practice it. All its precepts and penalties stand on this basis and they are equally applicable to all men. Whatever men may do or refuse 10 do, about submission to laws made by others like themselves, by the very nature which is given them at the creation. they are subject to the laws heav- eD. None are too high to be made the sub iects of these laws; none too low to be af- 1 fected by their control. Consequently all men are by the nature of their subjectiOn to the same laws, placed on the groun of equal 1 ity ny the Christian religioav\n\n hesitate not to say then, that Christian ity is in its very nature true liberty and equak | ity. It does not, indeed, teach us that all men possess equal talents of any kind, nor characters equally estimable. It does not maintain that all men ought to have the same influence m community, whether their chars acter he good or bad whether their intellectual powers are strong or weak. No; it recogni- Aes all of these differences among men. But still, from the very natue of the principles which it teaches, it necessarily maintains an equality Q ofobigation among all classes of men 1 to the supreme laws of heaven, and it main Etains an equality of rights among all. This is ! the only rational and true equality that ever will, or can, exist among men.\n\n Under a government, which is free upon I Christian principles, no man can be debarrcd from privileges which another is permitted to enjoy, or from claims which another is per-\n\n nitted to make, except by his own default. or disobedience to the laws of his country. Office is accessible to all, wealth is accessa-\n\n ble to all, wherever and whenever men do to others that which they would that others should do to them. All this is necessarily implied in a Christian spirit. am not ignorant, that am now treading upon ground, which is deemed sacred by a great body of our brethren in the eastern world. They will ise up, by thousands and by millions, in opposition 10 the principles which have been avowed, and demand an an swer to the question, Whether we are not to honor the king as well as to tear God? And. whether euery soul IS not subject to the po.cers aVtich De? These questions although highly important, and (from the connexion in which they stand) fearful we will not shrink from answering. We ought to do this, indeed, in the spirit of respect and affection for many",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3932,
+                    "y0": 843,
+                    "x1": 4853,
+                    "y1": 6420
+                }
+            ],
+            "bbox": [
+                3932,
+                843,
+                4853,
+                6420
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-06-28_p1_sn82014309_00414182926_1827062801_0201.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "l fort. Within these stood the wigwams\n\n forming another circle, with all intervening\n\n space, of the finest verdant lawn between\n\n them and the Notifications.\n\n 1 They appeared like circle of arbours, constructed of young trees twisted togeth- 1 CT, and bent to unite in the form of cone or dome, at the top, and as ingeniousIy covered with bark, and often in more ele- 1 gant style with mats made of reeds, stitch ed together with rhind, as to be dry and warm. An orilice at the top, emitted the smoke of the fire, in the centre of each, which presented lively and interesting 1 spectacle.\n\n l A'grand circular area within the whole,\n\n was used as, cxigcnce required. In the evenings the young met in it, and joined in the festive dance. During the day it was l the gymnasium for athletic feats of activity 1 and strength, and exercises in arms and l combat. On more solemn occasions it\n\n was the Senate House, and forum of coun- cellors, and orators, distributing justice or delibera;ing on the affairs ofthe tribe. An ! elevated mound in the centre of all, seem- ed post of observation, from which rose\n\n a tall strait white wood tree, like mast,\n\n or liberty pole, daubed with paint, and sur\n\n mounted by boar's head.\n\n But Indian habitations should all be seen\n\n perspectively. The nearer you approach\n\n the enchantment of their rural elegance is\n\n dispeli-d. The filth cast out before the door of the wigwam, rise in purifying\n\n heaps. These corrupting offals distressed\n\n the eye, and were hurtful to all but Indi-\n\n an olfactory nerves. . In another quarter, the young Indians like bFoods of grumphing quadrupeds, had crawled together in groups, in state of primitive nakedness. Not yet able to walk on all fours they sprawled and sported to- gether, rolling over each other, squeaking 1 and gabbling according to the humour of 1 the moment.\n\n Their hair which in riper years is jet l black, was blanched, and the red color of the plump urchins was considerably heigh- tened, by their exposure to tie influence of the solar rays.\n\n A rapture among the varlats about a broken arrow, and some other -playthings, called tho squuws rom the wigwams, who dashed into the group. Each plucked her particular charge. from the uproar, and tossing it over her shoulder, screamed in concert with the shriller pipes, raised to the highest key, the enraged and inquir- ing urchin.\n\n The squaws, seldom on the most ami- cable footing with each other, and kind ling with the supposed injuries of ,heir pap pooses, turned the strife towards each oth- CT. The little Indians clung like young oppossum to their mothers backs, and, grinning, spit wrath, as their guardians tore each others heads, and fought with nails and fists, till many lay routed on the ground. Such glamour in the camp, no usual thing called forth the interference of a war rior or two who smooted the tempest. The shafts of their lances Aourished about the heads of the insurgents, like forked lightning, and pelmell they went on all without distinction. Battered and routed, the whole female tribe fled, growing, and whining under their wounds, with the ur- cliins not less terrified, screaming at the top of their lungs. The dogs aroused and called together by the noise, snarled, bark ed, and joined in the pursuit, till all were hid in the interior of their wigwams. A few old indians feeble with the infirm- ities of superanuation, came tottering to the doors of their wigwsrns. Their heads were hoary and bald but the grotesque metamorphoses of dirty stubble like white boards, so disgusting among the common orders of the aged, in civilized nations, their customs had eradicated. Though e maciated and withered, they were notbow- ed like our veteran mechanics, but strait as rushes, and though their filrrowed, wrinkled, smoke bleared features, much of the Indian manly expression could bo dis ccrned.\n\n They assembled at the Sachems wig wam after staring at the prisoner, to learn the results of the deliberations at the coun- Gil fire, and discuss the politics fthe tribe, and the punishment that eaght to be awar- ded to the spy. g\n\n The attention of Capt. Hooker was pre- sently drawn to scene of another de- Iscription.-This was the1ndian youth rec turning from q pillaging excursion, with l three other i'll fated prisoners. The con-\n\n qerors of Parthia on their triumphant en-\n\n try, could not feel, or express higher exul-\n\n tation. They had burned and destroyed\n\n three families, of which these captives\n\n were members, whose scalps OH long poles\n\n graced their pagaentry. It was youth\n\n fll feat, worthy of their choisest warriors, II V. Al AL-..",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3024,
+                    "y0": 843,
+                    "x1": 3928,
+                    "y1": 6420
+                }
+            ],
+            "bbox": [
+                3024,
+                843,
+                3928,
+                6420
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-06-28_p1_sn82014309_00414182926_1827062801_0201.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "\n\n pathy and kindness than the portraiture of beauty itself: as if that slumbering feeling of pity and commisseration which dwels in all of us, becomes stronger in it's attachments be- cause they are but seldom thoroughly arou- sed.\n\n Her dress was soiled with dust, and looked as if slight shower had caught her in the rOad-for they travelled on foot yet there was an air of neatness about her, that seemed to say how much brighter and sunni CT were the days she once had seen. She led a hoy of ten years old by the hand. as poor Iy clad as his mother, and without shoes. He seemed the very picture of health. Idiscov- cred, however. that the poor fellow was blind. Two huge cataracts gave his eye balls ghast- ly and unnatural appearance. I looked upon him with no small emotion for knew that to him the fair face of heaven and all beneath it was shrouded in utter darkness. And where, Madam, said l, are you going \"To Phila- delphia, Sir,' she replied; My child is blind and have brought him that he may be resto- red to sight\"\n\n They had travelled all the way from the state of New-Y York-several hundred miles on foot. She had left her family behind, which was small, and had started for Philadelphia, believing it to be her duty to do whatever\n\n \n\n had been supported on the way by the chari- ty which their situation had excited in the people. Their garments were worn to tatters by the journey-yet the mothers hopes grew brighter and stronger as she approached its conclusion.\n\n Of the numberless hosts of fbeggars that viz sit country town, not a solitary one seems to pass the printing office without stopping. It is sorry place to apply for charity; for the public sympathy has been so frequently inpo- sed upon, that it is a thahkless task to admin ister relief. But [ remember that the sacred volume tells us we may thereby entertain an angel unawares.\" This was no imposi- ton. There was no mockery of poverty or atfliction. putmy hand into my pocket and drew out-but no matter what. She curte- sled, gave me her blessing, took her boy by the hand, shut to the door, and left me alone by the side of my table.\n\n Such, thought I, as drew to me the sheet on which this is written, is the affection of mother How deep in its affection, how pure and ardent in its exercise! Who but mother can know it? I thought of what Campbell pnts into the mouth of d mother when watch ing the cradled slumbers of her infant boy :- ''Lo at the couch where infant beauty sleeps\n\n Hey silent watch the mournful mother keeps And weaves her song of melancholy 1oy.\n\n Sleep, image of thy father, sleep, my boy!\n\n Bright as his manly sire the son shall be,\n\n In form and soul: but ah more blest than he.\n\n Thy fame, thy love, thy filial worth, at last,\n\n Shall soothe this aching heart for all the past:\n\n With many a smile my solitude repay,\n\n And calm the anguish of my dying day.\n\n Such reflections as these might have been the solace of this dejected mother on her sol- itary journey. Though trembling at the un- .lo~S full lest all her heartfelt solicitude and bodily suferings might be lost, and to no purpose yet reflections of this kind may have cheered up her sinking spirit to perse1Ete. Perhaps she might have looked upon her boy, (and he was her only one,) fancying that if, by the blessing of heaven, the skill of the physician should restore him,\n\n \"And on his sightless eye ball pour the day. that the same Providence might preserve him to become the prop, and comfort and soIace of her declining years. That his manly spir- it should protect her from the rough storms of poverty and sorrow.\n\n Bucks County (Penn.) Pat.\n\n From KeppePs Journey from India to Eng,and.\n\n Arab Horse Racmg.-We went this after noon into the Desert to horse race, an amusement of which the natives of Bussorah are as fond as our own countrymen; though l fear, if an English jockey had been there, he would have thought the profession disgraced by the exhibition. For our own parts, we were much more amused than ifthe business had been conducted according to the strictest rules of the turf The spot selected was the Great Desert, which commences immediately outside the town; circular furrow of two miles marked the course and the stakes con sisted of small subscription raised from a. mongst our European party. The five candi- dates who started for the prize. were well suited to the general character of the scene. Instead of being decked in all the colours of the rainbow,a coarse loose shirt comprised all the clothing ofthe Arab jockey; and the pow erful bit of the country was the only article of equipment of the horse he bestrode. Thus simply accoutred, at signal given, these half naked savages set off at full speed, each giving shout to animate his horse. They arrived like team at the goal the prize was adjudg- ed to an Ethiopian slave. The scene was highly animated and interesting, though we had neither splendid equippages nor fair ladies to grace our sports; but what we lost in splendor and beauty we gained in novelty;- and though, when occasionally gazing on some wearcr of gaudy silks, the bright smile of woman did not repay our curiosity, we al most forgot the disappointment in beholding l the animated cOuntenance of the turbancd Turk, who, bearded to the eyes, would be .o v,, net xx;th oroad hand",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1214,
+                    "y0": 843,
+                    "x1": 2112,
+                    "y1": 6420
+                }
+            ],
+            "bbox": [
+                1214,
+                843,
+                2112,
+                6420
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-06-28_p1_sn82014309_00414182926_1827062801_0201.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "hin' he COuO WOrk aL paper making. The fellow was unable to tell exactly, as he had never tried, but seemed to think that he could If any body would set him to work at it. His interrogatOr then told him thst he was m agent for paper manufactory in this city and was greatly in want of two oF three good hands to work in it hut said he, the owner of the establishment lives in Albany, and I cannot agree with you unless the owner gives his consent. If you will go to AIbany and see him, without doubt, he will send me word 10 engage you immediately. The fellow was elated at the prospect of such anintroduction to business, and having taken thesaddress of person in Albany as owner, and also the name of the agent who sent him, depatted, {\" noth- ing loth.\" in the first stage for that city. He soon found the person to whom Ne was refer red, and made known to him the object of his visit. The pretended owner of the paper mill no sooner heard the name of his agent mentioned than he discovered the hoax, and entered himself into the design to carry it on. He told the fellow that it was true that he had paper mill in Troy, and that he was in want of more workmen, remarking thatl could employ none but such as could do the finest kind ofwork. If hire you, ,'saidIh he, \"your business will be to prepare materials for ma king paper for bank bills. It is very difficult to do 1t, as the rags, which are very nice and fine, must be chewed in the mouth\" The fellow tho't this was certainly money making business, and had no doubt hut what he could work at 1t well enough. The owner then gave him selvagc of a coare silk Eandker- chief, and directed him to chew it until he got back to Troy, and if the agent thought i: would answer, he would make contract to employ him. The poor fellow stuffed his mouth full of the sack, and chewed it with wrlthlngs and contortions of the face all the way back. More than once the passengers in the stage were unable to prevent themselves from breaking out in roar oflauShter, at the queer looks and gestures of the poor grinder, who kept his jaws Zealously in motion, and once or twice came near swallowing the whole dose. When he met the agent he showed him the fruit of his labor. saying, \"hed be hang'd ifhe would work any more at that bu- siness. for it made his jaws so lame' that he couldn't cat.'' So the fellow refused to hire out at that occupation, and started off to make money some other way.-Troy Budget.\n\n . SAVANNAH, JUNE e.-'Ne this day pub fish the last drawing of the Land Lottery, which took place on the 26th uIt. making 68 drawings in all. A great dlal nf f--i>-~~'\"tion\n\n \n\n of the lottery, both in the purchase of lands and chances. or the latter, resident of this place, for $40, bought fifteen from a person who had purchased them from differ ent individuals, of which nine have drawn prizes worth at moderate estimate S2OOO-a very neat profit for single speculation. The following is more full account of an adven- ture already desc ribed: s\n\n The tract of land supposed to be the most valuable in the new territory remained in the days drawing preceding the last-Num- Der FIFTY oNE,\" in the S1st district ofMus- cogee, (drawn on the 24th inst. by female ideOt of Columbia county,) was this great prize. Every body talked of Number FIFTY oNE-it was so extremely valuable-it would command so large price. On Thursday morning expectation was on tiptoe, and the spectators kept sharp look out An hour or two before the invaluable FIFTY ONE was drawn, another .ftty ones in different dis trict of Muscogee came out. The sound of number :\" \".ffty one\" had an electrical effect every body started and stared--it was, how ever, No. 5l, in the 2d. and not in the 2lst district, and was drawn by a revolutionary soldier of Jefferson county. Nunmber .ffty one had taken so strong hold on the mind of one of the spectators. that he altogether disregarded the DISTRICT, and leaping upon his horse. was in moment out Of sight, in pursuit of the Revolutioner; ; wishing no doubt to experience the pleasure, which is afforded to every philanthropic heart,in being the first to communicate to so worthy character the full ertent of his good fortune. The unfor- nate mistake of the speculator being discov cred almost immediately, by his friends, they started after him instantly, two expresses mounted on fleet horses, with instructions to ride him down and warned him of his error. But he was not to be oyertaken-John Gil- pin, in his celebrated London race, did not go faster. In vain did the expresses urge forward their horses, in the hope of getting within hailing distance-the speculator flew before them almost with the swifthess of the wind. In two hours he was at Sanderviile,a distance of 27 miles-getting fresh horse there, and one more afterwards, he arrived at his place of destination, at least sirty.fUe miles from Milledgeville, in about .Jre hours / That road was never. before travelled with such speed ,and perhaps will not be again, un- til we have another Land Lottery. A bar gain for the land was quickly struck, and a part of the purchase money paid down, long before the arrival of either of the expresses. We are glad to learn, however, that when the mistake of the buyer had been discover ed, the revolutionary veteran cheerfully returned the money and cancelled the sale.\n\n From ahe Republican Farmer:\n\n | 4 ny WNx~",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2134,
+                    "y0": 838,
+                    "x1": 3020,
+                    "y1": 6420
+                }
+            ],
+            "bbox": [
+                2134,
+                838,
+                3020,
+                6420
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-06-28_p1_sn82014309_00414182926_1827062801_0201.json"
+        },
+        {
+            "object_ids": [
+                10,
+                14,
+                7
+            ],
+            "headline": "From hte NeW Monthly Magazine. THE DESERTED HOUSE.",
+            "article": "\n\n BY MRS. HEMANs.\n\n Gloom is upon the lofty hearth,\n\n o silent House! once flld with mirth; Sorrow is in the breezy sound\n\n Of thy tall poplars whispering round. The shadow of departed hours\n\n Hangs dim upon thine early flowers; Even in thy sunshine seems to brood Something more deep than solitude. Fair art thou, fair to the strangers gaze, Mine own sweet home of other days! My childrcn's birthplace yet for me IL IS too much to look theei\n\n Too much! for all about thee spread, feel the memory of the dead\n\n And almost finger for the feet\n\n That never more my step shall meet. The looks, the sniles,-all vanished now, Follow me where thy roses blow; The echoes of kind household words Are with me midst thy slnglng-birds Till my heart dies, it dies away\n\n In yearnings for what might not stay; For love which ne'er deceived my trust, For all which went with |\" dust to dust.' What now is left me, but to raise\n\n From thee, lorn spot thy spirits gaze To lift through tears my stlzainng eye Vp to my Fathers House on high .! Oh! many are the mansions thcre,* I'nt not in one hath grief share!\n\n No haunting shades from things gone by May there o'ersweep tn unchanging sky And they are there whose long-loved men In earthly home no more is seen\n\n Whose places where they smiling sate, Are 4cft unto US Gcs0latc.\n\n We miss them when the board Is spread We miss them when the prayer Is said; Upon our dreams their dying eyes\n\n In still and mournful fondness r6e\n\n But they are where these longings vain Trouble no more the heart and brain; The sadness ofthis aching love\n\n Dims not our Fathers House above. Ye are at rest, and in tears,f\n\n Ne dwellers of immortal spheres\n\n Under the poplar bOug hs stand,\n\n And mourn the broken household band. But by your life oflowiy faith,\n\n And by your joyful hope in death\n\n Guide me, till on some brighter shore, The scyer'd wreath Is bound once more. Holy ye werc and good, and true!\n\n No change cloud my thoughts of you Guide me like you to live and die,\n\n And reach my Fathers House on high. St. John, oh. xiv. tFrom an ancient Hebrew dirge-\" Mourn for the nourner and for the dead for he IS at rest and Il tears.'\n\n The following stanzas are copied from the New England Galaxy. They are from satirical poem now n the press of Messrs. Wells & Lilly, entitled, Our  There is thin and swarthy senator Mad with much learning and tongue OCT free, Who not content to live by Wit and law, During the long vacation goes to sea. He is kind of literary weaZle hold tlCr rIo cv1la nf flaUYe He has stormed onward now for twenty years Flashing and brilliant the meteor, sent Der southern skies, when all its dewy tears Are falling from the starry Armament. Such Is his pathos when he stirs the ladies, And summons shapes and sounds alike from Heaven\n\n and lIades.\n\n He is licens'd jester of the court A petty pyrotechnic politician Moving with all razor's royal port, The bilious general of the opposition. The dull and dubious all declare him crazy But then in genius he's perfect EsterhaZy! He cast curse on Panama. Indeed He could not well do better and be civil, For every measure waits from him the need And honor of dismissal to the dev-- For so it is, in spite of waxen noses, The better it succeeds, the stronger he opposes. He is a walking reservoir of gall-\" The evanesccnt essence of all bile And should he find his spleen is growing small, He'll daily ride sharp backed horse mile, To stir his goodly juices to their duty Of pouring alcohol on government and beauty! He IS the thinnest senator on eartl- And has voice the thinnest of his gender; But to what thrills its eloquence gives birth, Go ask the riv'd and galvanized offender! Sometimes far north his whitening fancy roams, And you may get particulars from Mir. H\"*\"@s\n\n \n\n ''Will you give poor woman with ahelp- less child, trihe to help her on to Phiiadel- phia 2\" said voice in mournful accents. looked up and beheld a female figure clad in a coarse home dress, with the fragments of a Leghorn hat, and pair of shoes that seemed ready to drop off at every step she took.- She was young. and once might have been handsome. But no matter for that. As il was, there was faint expression of cheerful ness upon her countenance, that still peered out from beneath the cloud of sorrow that o. her brow, creating purer in' terest in the breast of the beholder than the",
+            "byline": "BY MRS. HEMANs",
+            "bbox_list": [
+                {
+                    "x0": 440,
+                    "y0": 1996,
+                    "x1": 1047,
+                    "y1": 2096
+                },
+                {
+                    "x0": 592,
+                    "y0": 2106,
+                    "x1": 872,
+                    "y1": 2142
+                },
+                {
+                    "x0": 324,
+                    "y0": 2077,
+                    "x1": 1198,
+                    "y1": 7101
+                }
+            ],
+            "bbox": [
+                324,
+                1996,
+                1198,
+                7101
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-06-28_p1_sn82014309_00414182926_1827062801_0201.json"
+        },
+        {
+            "object_ids": [
+                12
+            ],
+            "headline": "",
+            "article": "4 good Joke.--A few days since fellow from the land of steady habits or some where else. came to this city to seek employment. In answer to the question, what business he could work at, said he \"did'nt understand no business in particular, but he could work at any kind in general\" A young man who sport, hearing the fellow express his want of",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1226,
+                    "y0": 6646,
+                    "x1": 2118,
+                    "y1": 7049
+                }
+            ],
+            "bbox": [
+                1226,
+                6646,
+                2118,
+                7049
+            ],
+            "full_article_id": 13,
+            "id": "13_1827-06-28_p1_sn82014309_00414182926_1827062801_0201.json"
+        },
+        {
+            "object_ids": [
+                13
+            ],
+            "headline": "",
+            "article": "\"''In my Fathers house there are many mansions\" St. John, oh. xiv.\n\n tFrom an ancient Hebrew drge-\" Mourn for the mourner and not for the dead for he is rest and ill tears.''",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 295,
+                    "y0": 4586,
+                    "x1": 1204,
+                    "y1": 4762
+                }
+            ],
+            "bbox": [
+                295,
+                4586,
+                1204,
+                4762
+            ],
+            "full_article_id": 14,
+            "id": "14_1827-06-28_p1_sn82014309_00414182926_1827062801_0201.json"
+        }
+    ]
+}

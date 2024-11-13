@@ -1,0 +1,818 @@
+{
+    "lccn": {
+        "title": "Delaware journal.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2638-6917",
+        "lccn": "sn83025530",
+        "start_year": "1827",
+        "end_year": "1832",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [
+            "sn85042477"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn83025530",
+        "edition": "ed-01",
+        "date": "1827-12-21",
+        "pages": [
+            "seq-3",
+            "seq-4",
+            "seq-1",
+            "seq-2"
+        ]
+    },
+    "page_number": "2",
+    "scan": {
+        "lccn": "sn83025530",
+        "edition": "ed-01",
+        "date": "1827-12-21",
+        "page": "2",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-12-21/ed-1/seq-2.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-12-21/ed-1/seq-2/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-12-21/ed-1/seq-2/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn83025530/00271740220/1827122101/0294.jp2",
+        "height": 5592,
+        "width": 3616
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 344,
+                "y0": 3713,
+                "x1": 1144,
+                "y1": 5212
+            },
+            "class": "article",
+            "raw_text": "THE OPPOSIr[ON.-Iti is amusing TO see with\nwhat ayidity the \"Combinaon'' presses seize upon\nwhat they unWiseiy conceive an oversight on the\npart ot the President, IN not noticing the Tariff\nNot finding any thing in the message to condemn,\nthey have travelled oM Of III search of catse Of\ncomplaint. To those who recollect that the Prcsl-\ndent, las gear. called the attention of Congress to\nthis subject the reference he has made in his pre-\nsent message, TO what he then said will be sufi-\ncien to show the silly nature Of the objections now\nattempted to be raised against him. But it we mis-\ntake not the natural course which things take\nsome of the tribe of g2mt3ers will be put TO bush\nby the report OF the Secretary of the Treasury.\nwhose peculiar province. under present circumstan\nces, 1t IS, ssnd whom we doubt not will point out\nwhat additions may be- made to the duties already\nimposed; and from our knowledge Of his devotion\n10 this great arm OF American interests, are CON\nsciuus he will speak in language which will prove\nnot very acceptable to the host Of enemies TO the\nencouragement OF home industry, who have arrayel\nthemselves against the government Of their country\nwith determination not only 10 hurl the present III\ncumbants from Office, but to ruin those who invested\nmillions in our numerous manufactures, in order\nthat the articles they have heretofore furnished\nhe supplied by the manufacturers of England.\n\n\nsrT'Slnce the abnye was in type, the Report O\nSecretary OF the Treasury has come to hand. an,\nwe are pleased to iinl that antcipa,ons are iul\niy realized.\n\n\nWe shall give the report entire in our next. an\nwe anticipate Tor It a welcome reception frem ever\nreal friend ut the country; as to those who hay\nsworn in their hearts. to subject the country\nmilitary desp0tsiu 1T ,al haz rtis we are ava,\nit will lrave wer@nwood and gall as II very happ\n\n\nillustrates the wisdom and virtue of those who no\nadminister the government.",
+            "legibility": "Questionable",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 562,
+                "y0": 3661,
+                "x1": 926,
+                "y1": 3701
+            },
+            "class": "headline",
+            "raw_text": "From the Marylaadcr.",
+            "legibility": "Questionable",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 335,
+                "y0": 2525,
+                "x1": 1136,
+                "y1": 3627
+            },
+            "class": "article",
+            "raw_text": "The main exception. and almost the only one,\nthat has been taken by the Opposition presse, to the\nPresidents Message, is the omission to press upon\nCongress revision Of The tariff Of duties upon i'm\nports. The Report Of the Secretary OF the rreasu-\nry shews that according to the usage in the earliest\ndays of the Government that subject has been left\nto the Secretary Of the Treasury. the only Head Of\na Department who is by law required to make to\nCongress an annual exposition Of the concerns pa-\nyed under his charge Of hat report it is not our\npurpose now to speak we sinai do 50 at greater lei\nsure. We only refer to it proof that there has\nbeen no intentions on the part Of the Executive, To\navoid the question.\n\n\nIn regard to the general exception taken to the Mes,\nsage, by those who find no other fault in it. than\nthat the President has not reiterated his former\ncommendaons Of several objects of the first impur\ntance TO national interests, and to true national olo\nry. may be remarked, the Message itself refers gen\nerav to the Presidents former recolnmendationsa a\nOf which upon record ;and that the omission to\nrepeat those recommendations seems properly attib\n'ltable to respect for the discretion with which\nCongress is invested and certainly not either to any\nchange ofopnon in relation these objects on the\npart Of the President to any indifference TO the\nsubjects which he has heretofore pressed upon their\nattention.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 466,
+                "y0": 2468,
+                "x1": 983,
+                "y1": 2513
+            },
+            "class": "headline",
+            "raw_text": "From The National IateHtgencer.",
+            "legibility": "Questionable",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 292,
+                "y0": 288,
+                "x1": 1092,
+                "y1": 1447
+            },
+            "class": "article",
+            "raw_text": "The Gazette de France remarks, that\" the as\ntoa;sLng harmony between the three united nations,\nis one of the wonders OF hisory!' BY and by,\nperhaps, we may see still greater wonder-the age\nomiracles is not yet oyer.-Let US now contemplate\nthe state of affairs on land We have stated here\ntoore that the Turks we're sending large supplies OF\nmoney provisions, men, ammunition to therortrcs-\nses on the Danube. On the lines of that river ard\nof the Pruth, eighty thousand Russians under Field\nMarshal Wttgenstein, are already assembled and\nready for the field A sill greater army under Mar\nshal Sachen is ready TO support his operations ana\nthe Car himself is expected to join them.\n\n\nPreviously TO the battle of Navarln the Sultan\nhad sent tirman to Ibrahim Pacha directing him to\nrepel force by force. On the strength OF this lr-\nman lbrahim commenced the aggressious above re-\ncited.\n\n\nWith reference TO the great victory obtained, the\nGlobe of the 9th November, asserts th\"t : every\npossible means will be resorted TO, 10 provide loi\nthe safety of the allied ambassadors. and SUBJECTS\nof the Christian states resident III Constaatlnople\nThe British ministers enterlainno apprehension ina\nthe intelligence from Nayarino will reach the lur\nkish government before il is received Blythe amhas\nsadors,; this we hope, for the sake o humanity\nwill prove to he the case, for the first ebull.tion\nthe Ottoman fury might be cruel in the extreme.\n\n\nContinual iancci page.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 313,
+                "y0": 1542,
+                "x1": 1109,
+                "y1": 2443
+            },
+            "class": "article",
+            "raw_text": "lamentable instance Of the deplorable effects\n(which result from excessive tondness Tor ardent\nspirits, occurred on Thursday afternoon, within a\nfew Yards of our office. An Individual named WM.\nARMsrRoNu, just arrived from West Union, either\nfrom the love OF the liquor or from previous lntoxl-\ncation, undertook to drink quart of hskey, which\nsome unthnking persons had agreed to besow on\n.hlm for the purpose and, alter huzzang for JACK\n;soN, actually contryed to swallow about three half\npints in the course of few minutes As might nat\nurally be expected; the wretched man, who\nhad come to this place for the purpose, as we un-\n.derstand, of teaching school, breahed his last\n.;bout dusk the same evening, III spite OF every ex\nertion which was made for his recovery. Three\nor four individuals were taken up the next mornns\non suspicion Of having, by the dnt OF threats, Undue\ned him to swallow the poisonous liquid; but aite\nhaving undergone an examination before the Mayor\nthey were all discharged with the exception Of one\nwho has been recognized to appear at the next tern\nof our Court Of Common Pleas, to answer for thi\nnovel offence",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 471,
+                "y0": 1485,
+                "x1": 970,
+                "y1": 1530
+            },
+            "class": "headline",
+            "raw_text": "From The Seioto Gazette, Dee. 6.",
+            "legibility": "Questionable",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1109,
+                "y0": 323,
+                "x1": 1909,
+                "y1": 2185
+            },
+            "class": "article",
+            "raw_text": "+ We are pleased 10 learn, from several Of our\nmembers OF the General Assembly, that plans are\nforming, in different sections of the State, by our\nintelligent farmers for considerably increasing their\nilocks o Sheep and also TOR establishing cotton aud\nwoollcn manufactures, as the most likely means OF\nrelieving themselves from the pressure which they\nhave for some time experienced from the depressed\nprices Of every agricultural product. They are\nnow convinced that those Of sister States whose\ncitizens are partly engaged in manufacture and COM\nnerce, succeed much better in providing the neces-\nsares and comforts of life for themselves and fam-\nlies, than they able to do from agriculture alone,\nand have therefore, wisely come to the dcteimlna-\nton of following their example, possessing, as they\ndo, equal II not superior. advantages, both Tor ras-\ning sheep and carrying on manufactures. The ad-\nviAages which they have for raising sheep arc, the\ncheapness Of our lands and the shortness OF our\nwinters. In the Northern States, lands suitable ior\nThe purpose OF supporting these animals, cannot,\nwe pres aue, be purchased Tor less than ten dollars\nan acre here It can be had for one dollar In\n\n\nThe New England States, farmers have to feed their\nsheep four or live months in the year here not\nmore than as many weeks Our advantages for en-\ngaging in manufactures are equally great. We have\nwater power 10 any extent which would be requir-\ned, ami the material at our doors and we\nheard gentleman state, few days ago, who had\nvisited the Northern manufacturers with a view to\nobtaining information the subject, that III working\ncotton mandatory Of 1000 splndes, i'll this State\nby means of slave labor for period Of ten years,\nthere would be a saving of $4,000, in this article\n\n\nof labor alone, when compared with the cost Of\n\n\nworking the same at the North, besides saving\n\n\nabout -3 cents pound on all the cotton used dur\n\n\ning that period.\n\n\nThe great difficulty in raising sheep in this conn\n\n\ntry, heretofore, has been, TO preserve them from\n\n\nbeing destroyed by dogs. But this danger will nov\n\n\nbe abolished, by keeping large focks, and employ\n\n\ning shepherds to watch over rthem.\n\n\nHow much preferable would course Of thi\n\n\nkind be to culvatlng jealous, discontented sp'rl\ntowards our more industrious and enterprlsng brc\n; thren OF the North and how much more honorabl\n: and useful TO our State",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 1209,
+                "y0": 270,
+                "x1": 1774,
+                "y1": 315
+            },
+            "class": "headline",
+            "raw_text": "From The Rale,gh \". CD Register,",
+            "legibility": "Questionable",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2703,
+                "y0": 262,
+                "x1": 3495,
+                "y1": 1045
+            },
+            "class": "article",
+            "raw_text": "su,x.--The confidence which we feel that the ma\nnuiacture Of silk will ere long prove common and\nvaluable in this country, induces US to notice every\nding connected with its progress, and we are happy\nTO learn from the Courier that at late meeting ofhe\nNew York Branch of the Linnean Society, Dr.\npascas communicated the introduction and divi-\nsion Of his work on the growth and culture Of silk.\nThe doctors treatise embraces not only the old and\nnatural method Of rearing silk-worms, but also the\nlatest improved artificial system by which the crops\nhimself the solution Of great problem, by proving\nthat the silk-worm is perfectly electrical insect\nand and can be managed und r this datum without much\nfear of failure SO as to obtain its valuable produce.\nThe subject is one Of great Importance and we\nlook with interest to the completion and publication\nof the Doctors treatise, confident that II will con-\n\n\ntain curious and valuable information in relation to\nit's subject. ~. Y. ,Saiesn3ah",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2764,
+                "y0": 3958,
+                "x1": 3547,
+                "y1": 5265
+            },
+            "class": "article",
+            "raw_text": "IW GtG IJtfuWUTg O0OTUQl.\n\n\n10 any MEMBER of the DELAWARE LEG1sLATuRI\n\n\nwho feelsa proper interest in CoaMoN ScnooLs,\n\n\nLETTER |.\n\n\nDear Sir,\n\n\nYou love your country. and desire the welfare Of\nthe State in which YOU dwell. Ioa go to Dover,\nnot as an ofiicehunter mot for selfish speculation.\nnor for political squabbe, to see how cunnngly\nYOU cap promote the achnnos Of onu panty, liwevcr\nwicked or injurious. and how obstinaely Won can\nthwart the plans OF another party however wise in\nthemselves or conducive to the public good. Yov\ngo to represent the feelings and wishes of vonr own\ncounty and district, it is true but to act aso for\nthe state at large to devise, promote and eyecute\nmeasures Tor the common veal measures FIR which\nthough you gain no present office. you will receive\nthe thanks OF a grateful community, the blessings\nofa benefited posterity, and by which YOU will be\ndoing good, when the political squabbles whether\nJohn or jonathan. Quincy or Andrew shall have an\noifce, like successive waves shall hava ,nada the;\nnoise and passed away. ''''A0 ''e''\n\n\naddress what have to say to uou Sir. becouse\nno others will hear the suggestions I have 70\nmake on a most important subject. Bv those who\ngo 70 Dover to practice political maneuvers and in\nu'aue, my voice, yea, the voice Of 10000 destitute\nch'id'en OF our State, would be no more regarded\n.'a, me dying cries of Revolutionary veterans arc\nN the ears of political intriguers at WASHINGTON.\n~ hs You go to the Capital to promote the public\nsooa'o increase the prosperity ufthe State on whose\ninterests you are called to deliberate, LET me eary\nesly' yet respectfully, recommend measure, By",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 2939,
+                "y0": 3936,
+                "x1": 3377,
+                "y1": 3976
+            },
+            "class": "headline",
+            "raw_text": "For the Deiamare Journal.",
+            "legibility": "Questionable",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1143,
+                "y0": 2276,
+                "x1": 1935,
+                "y1": 4417
+            },
+            "class": "article",
+            "raw_text": "Extract TO the Edltor--tiated\n\n\nWASHINGTON, Dec. i5 1921 ?\n\n\narrived here few hours after left you in the\nmorning, and my first essay has been to make my\nway lothe Capitol. putup at adsby's new house,\nand though very good and spacious one, it suffers\ngreatly III comparison with Barnun's City Hotel.\n\n\nWith regard to the ruuour started ina Philadel-\nphia jackson paper about MIR. Clay's mission to\nEngland, ii is regarded as all moonshinc here and\nwithout pretending to know the secrets of the Exc\ncutlve, feel no hesitation in saying the runour is\nutterly untounded There will be- no doubt, some\ndhculty in making selection.\n\n\nam happy to find our friends here full Of conf\ndence IN success, believing the arch leader of the\nOpposition has done his utmost in his tricks of in\ntrsue and management of his troops. The Mes\nsage Of the President has fell upon the Opposition\nlike a clap of thundrr--it is acknowledged on all\nhands to be powerful and lautless--the Opposition\ncannot gel hold Of it, SO they arc obliged either to\npraise or be silent. Their views on mauy nipor-\ntant subjects differ at least as widely from each 9TH\neras from us and it is very far from being in their\npower to restrain individuals who may chuse to start\n= project, however wild and offensive to many Of\nthem. This must always he the case with \"com-\nbinaon as Mr.. Floyd Of Virginia termed it, made\nup o lhe most Heterogeneous materials, with as ma\nny party hues as there Colors in Josepis coat.\n-Hr. baihour, you know, was formerly the Speaker,\nbut not being willing TO othe whole hog as the\nJacksones have It. they would not permit him ag;n\n10 he elevated to that high station His proposition\nrelative to the sale OF the Bank Stock, Caused as\ngreat Inter among the combination as voIey\nOF shot among flock oipigeous. Rely upon il that\nsome OF the knowing ones amongst them feel much\nalarm, and already begin TO look and feel as though\ntheir days are numbered.\n\n\nAt dinner to-day had very free conversation\nwith two Intelligent Nirpinians--they assured me\nthat the Jackson fever is burning ont fst-that the\nOld Dominion has at last got her thinking cap on ant\nthat the tide Of public opinion there is turning fast\n| in favor OF our present Administration. The vir\ntuous Madison Is With US, which cannot fail to have\nITS effect upon the moral sense of mankind. | fine\nmany well disposed citizens who have been ayerse\nTO Mr. Adams. think he has been very harshly ant\nvery nntarly dealt BY, and viii now give him thcil\nsupport There is evidently calm but sure re.ac\ntlon in his favor since the PRONUNCIATION of his las\n'ies.lg\" Such a long tried, faithful public seryan\n'''h 10. ~ ','t'r'i ont Of office for no fa\"lt\nespecially wiien recollection for four short year\nviii close hls political life forever.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 1301,
+                "y0": 2210,
+                "x1": 1756,
+                "y1": 2255
+            },
+            "class": "headline",
+            "raw_text": "From the Baltimore Patriot.",
+            "legibility": "Questionable",
+            "full_article_id": 8,
+            "reading_order_id": -2
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 1165,
+                "y0": 2254,
+                "x1": 1752,
+                "y1": 2303
+            },
+            "class": "headline",
+            "raw_text": "Extract to the Edtor.-hated",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2725,
+                "y0": 1367,
+                "x1": 3530,
+                "y1": 3906
+            },
+            "class": "article",
+            "raw_text": "There is not a more false, Il more erroneous,\n\n\nmore ridiculous simle used, than that which likens\n\n\nGen jackson to General Washington. The illus.\n\n\ntrous services The latter in the field and the cah\n\n\nmet, his good sense, his entire devotion 10 the pros\n\n\npery OF his country and his regard for its cohsti-\n\n\ntuition and laws, are qualities in which Gen. Jack\nson is dsparagingy deficient. Jackson boasts of\n\n\nsingle victory gained at n ewOrleans but its spen.\n\n\ndor is diminished by the arbitrary acts of which he\nwas guilty during and after the achievement. Lis\nservices lawyer and statesman diminish TO al\nmost an atom. compared with the assidnous and al |\nmost nnumerablc and various engagements in which\nWashington employed his busy mind. Washing\ntoms free and complete submission to the authority\nOf the constitution his open ayowal of its sovereign.\nty and the sanctity of its spirit, all meet with ihe\nmost striking contradiction in the character and\n\n\nduct of Gen. jackson. The contracted circle Of\nJacksons same previous TO the battle Of New-Or-\n\n\nleans-his resignation Of all his civil Offices pre-\n\n\ndcated on his acknowledged inability to perform the\n\n\ndues,--the dormancy Of his talents at the most l-\n\n\nmuuous crisis, and his flight from the political con-\n\n\ntest, are facts which destroy all comparison, and\n\n\ndispaIage both the patriotism and the genius Of the\n\n\nGeneral. But why should his friends draw such an\n\n\ninappropriate parallel when the vote OF Jackson\n\n\nexpressed and recorded in lT0G denies the proprie\n\n\nity Of chusing Washington example. In con.\n\n\nsequence of the delivery of the valedctory address\n\n\nlot Gen. Washington, 81 resolution was adopted\n\n\nthat respectable address ought TO be presented to\nthe President in answer to his speech-and NlessTs\n\n\nAnes Baldwin, Madison, Sgrleves and Smith were\n, appointed a committee to draw up the address\n\n\nThis address conceded with the sentiments express\n\n\ned by Washington, lauded his services, and prayed\n\n\nthe benedictions Of heaven on the remainder OF his\n, days. Embodied in the address was the following\ng For our country's sake for the sake Of Republl-\n\n\ncan liberty, it is our earnest wish that your fTampe\nr mag be the guide ot yoar SUCCESSORS 6c F\" motion\n\n\nwas made Tor the expunging OF this, and supported\nj by remarks as disgraceul to the speaker they\n! were stigmatZing to the character of Washington.\n\n\nOn the vote favorable for expungng the above clause\n\n\nstands recorded, to his eternal disgrace, the vote Oi\n. ANDREW JACKSON. Then can that comparison\nA be true. which kens Jackson to Washington ? Car\n\n\nbe agreeable TO the principles and wishes Of\ns Jackson himself, when he was opposed TO chusIs\nd the Father Of his country as an 8 example\"\n\n\n), But while we would thus show the talsity Of such\nIT a smile, we woad wish the community to consider,\nj. how they would enfianger the peace, reputation\nand prosperity of their country, by supporting the\nJ. preensons of one whose principles and acts would\nl., be different from those of President Washington.\nWas there ever a man who better understood the\ne interests ofthc Union? Wasthere ever man whose\nr conduct congenial with the wishes OF the\nPeople No, never: and he who would dscredit his\nservices, disapproye Of his acts and pursue policy\ndifferent from, or opposed to his, deserves not the\nd appreciation or support OF his fellow citizens. Ant\ne. such man is General Jackson. R.",
+            "legibility": "Questionable",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 2782,
+                "y0": 1065,
+                "x1": 3434,
+                "y1": 1123
+            },
+            "class": "headline",
+            "raw_text": "TgUEaawARE TCUTsNAT..",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -3
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 2756,
+                "y0": 1153,
+                "x1": 3464,
+                "y1": 1281
+            },
+            "class": "headline",
+            "raw_text": "WI !I.....SS.tc:sHcNs IN\nEriAay, DecembGr \"a, AS2T.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -2
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2913,
+                "y0": 1319,
+                "x1": 3324,
+                "y1": 1359
+            },
+            "class": "headline",
+            "raw_text": "For lie Dclts,care Journal.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1165,
+                "y0": 4486,
+                "x1": 1957,
+                "y1": 5230
+            },
+            "class": "article",
+            "raw_text": "Since the friends Of the Administration have be-\ngan to Stir themselves. the opposition in this State\nhave ceased to boast OF their strength. The meet\nings held in the different counties, within a few\nweeks past, have been so unmcrously and rcspecta\n\n\nbly, attended. as to show that diversity of opinion\non the next Presidency, scarcely exists among us ;\nand that, when the day Of trial shall come, the free\nmen oiOhio will give :\" long pull a strong pull,\nand pull altogether, in favor of an Administra-\ntion which watches over, protects and promotes\nthe real interests. by all constitutional means. Our\nlimits will not permit us to record the proceedings\nOf all the meetings which may take place but we\nshall endeayor to find room for those held in the\ncounties IN which our journal circulatas, If forward\n\n\ncd to Us for that purpose. Those Of which an ac\n\n\ncount is given in this days paper, we arc told b,\ngentlemen present, were Of the most respectable\n\n\ncharacters and it is now expected that Pickawa,",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 1371,
+                "y0": 4443,
+                "x1": 1734,
+                "y1": 4478
+            },
+            "class": "headline",
+            "raw_text": "[ rom tic Ohio G a-ette.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1908,
+                "y0": 572,
+                "x1": 2695,
+                "y1": 1582
+            },
+            "class": "article",
+            "raw_text": "\n\n\nNot having much to do, Tor lew moments, we\nwill just serve up another bitter draught for the\nplant editor OF the Argus, as yet he has not at\nempted to justify the crooked course he has pur.\nsued. 1t is well that he is silent for any attempt\nto justify his agitous acts would but sink him deep\ner in political degradation. and public contempt Tor\nthe prostitution Of the little talents with which he\nhas been endowed, in yielding himself implicitly to\nthe dictatlon of men without principle. In his pa\nper Of the l4th May, 1924. in speaking Of the pre-\ntensions Of General Jackson. he represents him as\none :. WHOSE AalBI ZION IS AS INSATlA,\nBILE AS THE SEA. AND WHO 70 GRAFT\nFly HIS lNORDINATE LUST OF POWER\nWOULD OVERLEAP ALL BOUNDS\" Bu\nnow. fursooth, he is represented as the very lamb 0\nmcekncss. and the very paragon Of republican purl\nty. Will the Argus be kind enough TO inform\nthe public when the change took place ?\n\n\nWas there ever earth such treachery, snc\nabandonment of principle as is evidenced in tn\npresent actious course of the Argus, and SOM\nhalf dozen of the combination prints, contrast\ned by their former professions and we'll known pre-\nsent opinions? This is, indeed, :. the madness c\nparty\"",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 2017,
+                "y0": 537,
+                "x1": 2577,
+                "y1": 577
+            },
+            "class": "headline",
+            "raw_text": "From, Tie .4lbanu Duilu .Aduertiser.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1943,
+                "y0": 1572,
+                "x1": 2739,
+                "y1": 5247
+            },
+            "class": "article",
+            "raw_text": "From the baltimore .Anleyican.\n\n\nThe English intelligence received by the packet\nship William Byrnes, which is to the Sth Of Nov\npresents decided change in the relations ot Euro\npean affairs. ihe final intentions Of the Porte ap\npear as uncertain as ever and though no doubt a\ngreat part Of the rumours to which the events OF\nthe day are continually giving rise, are either idle\nconjectures gotten up for stock jobbng purposes,\nthe better opinion seems to be, that European at\nfairs must be considered in quite an unsettled state.\nThe silence OF Austria, in c0nnexlon with her pro-\ncedures in the I4evan. certainly affords ground for\nsuspicion that she is net ready to take part with the\nAllies, especially when is considered that the re-\nsuit Of any successful attack on the Ottoman pow\ner, will be TO give prepondcrating advantages to\nRussia. The silence and protracted delay OF the\nPorte. are equally expainabe on two grounds. r.\nven if she concession necessary in the end. it\nwould be natural in her to tempori1e. and postpone,\nat least. this nvasion as she must conceive it, her\nrights of sovereignty. If resolved on war, the de-\nlay would be equally desirable. both to postpone the\nactual evil, and take measures for breaking its force\nwhen it comes, as much as possible.\n\n\ntgliacss Ordinary persons, pcradventure, may\nnot have remarked (what may prove comfort to\nthem) that true ugliness is almost as rare a Gift as\ntrue beauty for how very few ll-Avored viaages do\nWe encounter that possess not some redeenng lea-\nturc or expression. | have known many an ualy\nface improve, nay. almost grow handsome upon ac-\nquantance sand, indeed, although beauty may boast\nOF the lavish bounty OF nature, uglness may vauDt of\nher plum dealing. | am far from regarding ugli-\nness in woman as unlo rtunate rather consider\nit as an antidote to vanity, safeguard to virtue.\nand a prompter TO the emulation Of goodness. And\nbeauty, after ALL las wrnkIetl old maids and 'shacc\nbeens\" sagely declare.) is but skin deep In my\nboyhood, well remember young man (whom |\nhave often had the pleasure of mcetng) whose phys\nognomcal possessions might certainly be classed\nunder the title ofugncss in south he was an ertgu\nordinary young man. both as respects his lineaments\nand his learning. He was deep read--pae-\nby the small -poX-pited by every female who be.\nheld him. But he had mind that minded not\ntheir impertnent commlseration and when his con.\nversationa talents began gradually to be developed\nby the genial influence Of social conyerse--his an\nposite remarks, his critical reading, and sound argu\nments won all the listening senses of his auditors\n\n\nwhile lnslpd beauty was lost in the fluent language\nof eloquent usness. The s.pveffy naca'' of the par\nty felt the unintellighle deserton of the fair ones\n\n\nand glanced cautiously round at their sweet persons\nreflected In the mirrors, as they ounged stlessl,\nabout imagining that some alarming revolution hat\ntaken place in their collars cravats. or some re\nbelious lock had stretched itself ungraceuy fortl\nfrom their closc-curled Roman crops. or pooaies-\nthen finding all III statu qao. wildly wondered\n''what the girls could possibly see in the fellow Il\npay him so much attention 70 while others lispet\nforth in voice half strangled by their stocks, !.\n\n\ns'pose the bellies are quizzing the Gorgon !\" IJgli\nness hath charms that pass not away like the bloom\nof summer flower, r,-thelelore, let not ueliness b,\nput out of conceit If there be but wit and goot\nsense behind the repusiyc mask. ugliness may wi,\nthe Earour and co,.oto,-.-~o nc oeauty. Eng. pap\n|\n\n\nLrBERIA.-'Ihe Norfolk IIeral,l.-on the authori\n\n\nty of Dir. Tudsrn. who has Just arrived from Ii\n\n\nIBERIA, communicates the gratifying ntelisenc,\n\n\nthat the Colony was in very thriving cundi\n\n\nton, the people enjoying good health, and bein.\n\n\nnot only contentet but delighted with their new\n\n\nhome. The trade at the Cape was very prosperous\n\n\nand daily extending itself; some of the settlers ha,\naccumulated handsome fortunes, and all were ia\nbeyond the reach Of want; nay indulging them\nselves with many of the uxuries and elegancies d\nfashionable life: and new houses were continual\nin the progress Of building. Nor was the necessit\nOf dfusing education overlooked for DR.. r. state\nthat so careful had the coonists been in this respect\nthat all their children of sufficient age could at eas\n5 read and write The attachment of the people a\nthe Cape. to trade and commerce, had caused then\ne to neglect agriculture in some degree but that i'm\n/ portant interest was successfully followed up\n: the settlement of St. Paul's about or miles dis\ny tant.-in SHIRT from the account given by Dr. 4\ne the colony bids fair to infinitely moretlan realis\ny the most sanguine expectations Of its tounders.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 2057,
+                "y0": 1607,
+                "x1": 2591,
+                "y1": 1652
+            },
+            "class": "headline",
+            "raw_text": "From the baltimore Ameyican.",
+            "legibility": "Questionable",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1899,
+                "y0": 270,
+                "x1": 2691,
+                "y1": 507
+            },
+            "class": "article",
+            "raw_text": "county, in which the IIeroites have heretofore\nclaimed majority will turn out at least two Tor one\nin favor of the Administration. From present ap-\npearanccs, the majority for Mr. Aeatns in the whole\nState, will not fall short of from $4,000 to 10000\nvotes and may exceed the latter number.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                15,
+                0
+            ],
+            "headline": "From the Marylaadcr.",
+            "article": "THE OPPOSIr[ON.-Iti is amusing TO see with\nwhat ayidity the \"Combinaon'' presses seize upon\nwhat they unWiseiy conceive an oversight on the\npart ot the President, IN not noticing the Tariff\nNot finding any thing in the message to condemn,\nthey have travelled oM Of III search of catse Of\ncomplaint. To those who recollect that the Prcsl-\ndent, las gear. called the attention of Congress to\nthis subject the reference he has made in his pre-\nsent message, TO what he then said will be sufi-\ncien to show the silly nature Of the objections now\nattempted to be raised against him. But it we mis-\ntake not the natural course which things take\nsome of the tribe of g2mt3ers will be put TO bush\nby the report OF the Secretary of the Treasury.\nwhose peculiar province. under present circumstan\nces, 1t IS, ssnd whom we doubt not will point out\nwhat additions may be- made to the duties already\nimposed; and from our knowledge Of his devotion\n10 this great arm OF American interests, are CON\nsciuus he will speak in language which will prove\nnot very acceptable to the host Of enemies TO the\nencouragement OF home industry, who have arrayel\nthemselves against the government Of their country\nwith determination not only 10 hurl the present III\ncumbants from Office, but to ruin those who invested\nmillions in our numerous manufactures, in order\nthat the articles they have heretofore furnished\nhe supplied by the manufacturers of England.\n\n\nsrT'Slnce the abnye was in type, the Report O\nSecretary OF the Treasury has come to hand. an,\nwe are pleased to iinl that antcipa,ons are iul\niy realized.\n\n\nWe shall give the report entire in our next. an\nwe anticipate Tor It a welcome reception frem ever\nreal friend ut the country; as to those who hay\nsworn in their hearts. to subject the country\nmilitary desp0tsiu 1T ,al haz rtis we are ava,\nit will lrave wer@nwood and gall as II very happ\n\n\nillustrates the wisdom and virtue of those who no\nadminister the government.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 562,
+                    "y0": 3661,
+                    "x1": 926,
+                    "y1": 3701
+                },
+                {
+                    "x0": 344,
+                    "y0": 3713,
+                    "x1": 1144,
+                    "y1": 5212
+                }
+            ],
+            "bbox": [
+                344,
+                3661,
+                1144,
+                5212
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-12-21_p2_sn83025530_00271740220_1827122101_0294.json"
+        },
+        {
+            "object_ids": [
+                14,
+                1
+            ],
+            "headline": "From The National IateHtgencer.",
+            "article": "The main exception. and almost the only one,\nthat has been taken by the Opposition presse, to the\nPresidents Message, is the omission to press upon\nCongress revision Of The tariff Of duties upon i'm\nports. The Report Of the Secretary OF the rreasu-\nry shews that according to the usage in the earliest\ndays of the Government that subject has been left\nto the Secretary Of the Treasury. the only Head Of\na Department who is by law required to make to\nCongress an annual exposition Of the concerns pa-\nyed under his charge Of hat report it is not our\npurpose now to speak we sinai do 50 at greater lei\nsure. We only refer to it proof that there has\nbeen no intentions on the part Of the Executive, To\navoid the question.\n\n\nIn regard to the general exception taken to the Mes,\nsage, by those who find no other fault in it. than\nthat the President has not reiterated his former\ncommendaons Of several objects of the first impur\ntance TO national interests, and to true national olo\nry. may be remarked, the Message itself refers gen\nerav to the Presidents former recolnmendationsa a\nOf which upon record ;and that the omission to\nrepeat those recommendations seems properly attib\n'ltable to respect for the discretion with which\nCongress is invested and certainly not either to any\nchange ofopnon in relation these objects on the\npart Of the President to any indifference TO the\nsubjects which he has heretofore pressed upon their\nattention.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 466,
+                    "y0": 2468,
+                    "x1": 983,
+                    "y1": 2513
+                },
+                {
+                    "x0": 335,
+                    "y0": 2525,
+                    "x1": 1136,
+                    "y1": 3627
+                }
+            ],
+            "bbox": [
+                335,
+                2468,
+                1136,
+                3627
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-12-21_p2_sn83025530_00271740220_1827122101_0294.json"
+        },
+        {
+            "object_ids": [
+                2
+            ],
+            "headline": "",
+            "article": "The Gazette de France remarks, that\" the as\ntoa;sLng harmony between the three united nations,\nis one of the wonders OF hisory!' BY and by,\nperhaps, we may see still greater wonder-the age\nomiracles is not yet oyer.-Let US now contemplate\nthe state of affairs on land We have stated here\ntoore that the Turks we're sending large supplies OF\nmoney provisions, men, ammunition to therortrcs-\nses on the Danube. On the lines of that river ard\nof the Pruth, eighty thousand Russians under Field\nMarshal Wttgenstein, are already assembled and\nready for the field A sill greater army under Mar\nshal Sachen is ready TO support his operations ana\nthe Car himself is expected to join them.\n\n\nPreviously TO the battle of Navarln the Sultan\nhad sent tirman to Ibrahim Pacha directing him to\nrepel force by force. On the strength OF this lr-\nman lbrahim commenced the aggressious above re-\ncited.\n\n\nWith reference TO the great victory obtained, the\nGlobe of the 9th November, asserts th\"t : every\npossible means will be resorted TO, 10 provide loi\nthe safety of the allied ambassadors. and SUBJECTS\nof the Christian states resident III Constaatlnople\nThe British ministers enterlainno apprehension ina\nthe intelligence from Nayarino will reach the lur\nkish government before il is received Blythe amhas\nsadors,; this we hope, for the sake o humanity\nwill prove to he the case, for the first ebull.tion\nthe Ottoman fury might be cruel in the extreme.\n\n\nContinual iancci page.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 292,
+                    "y0": 288,
+                    "x1": 1092,
+                    "y1": 1447
+                }
+            ],
+            "bbox": [
+                292,
+                288,
+                1092,
+                1447
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-12-21_p2_sn83025530_00271740220_1827122101_0294.json"
+        },
+        {
+            "object_ids": [
+                13,
+                3
+            ],
+            "headline": "From The Seioto Gazette, Dee. 6.",
+            "article": "lamentable instance Of the deplorable effects\n(which result from excessive tondness Tor ardent\nspirits, occurred on Thursday afternoon, within a\nfew Yards of our office. An Individual named WM.\nARMsrRoNu, just arrived from West Union, either\nfrom the love OF the liquor or from previous lntoxl-\ncation, undertook to drink quart of hskey, which\nsome unthnking persons had agreed to besow on\n.hlm for the purpose and, alter huzzang for JACK\n;soN, actually contryed to swallow about three half\npints in the course of few minutes As might nat\nurally be expected; the wretched man, who\nhad come to this place for the purpose, as we un-\n.derstand, of teaching school, breahed his last\n.;bout dusk the same evening, III spite OF every ex\nertion which was made for his recovery. Three\nor four individuals were taken up the next mornns\non suspicion Of having, by the dnt OF threats, Undue\ned him to swallow the poisonous liquid; but aite\nhaving undergone an examination before the Mayor\nthey were all discharged with the exception Of one\nwho has been recognized to appear at the next tern\nof our Court Of Common Pleas, to answer for thi\nnovel offence",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 471,
+                    "y0": 1485,
+                    "x1": 970,
+                    "y1": 1530
+                },
+                {
+                    "x0": 313,
+                    "y0": 1542,
+                    "x1": 1109,
+                    "y1": 2443
+                }
+            ],
+            "bbox": [
+                313,
+                1485,
+                1109,
+                2443
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-12-21_p2_sn83025530_00271740220_1827122101_0294.json"
+        },
+        {
+            "object_ids": [
+                19,
+                4
+            ],
+            "headline": "From The Rale,gh \". CD Register,",
+            "article": "+ We are pleased 10 learn, from several Of our\nmembers OF the General Assembly, that plans are\nforming, in different sections of the State, by our\nintelligent farmers for considerably increasing their\nilocks o Sheep and also TOR establishing cotton aud\nwoollcn manufactures, as the most likely means OF\nrelieving themselves from the pressure which they\nhave for some time experienced from the depressed\nprices Of every agricultural product. They are\nnow convinced that those Of sister States whose\ncitizens are partly engaged in manufacture and COM\nnerce, succeed much better in providing the neces-\nsares and comforts of life for themselves and fam-\nlies, than they able to do from agriculture alone,\nand have therefore, wisely come to the dcteimlna-\nton of following their example, possessing, as they\ndo, equal II not superior. advantages, both Tor ras-\ning sheep and carrying on manufactures. The ad-\nviAages which they have for raising sheep arc, the\ncheapness Of our lands and the shortness OF our\nwinters. In the Northern States, lands suitable ior\nThe purpose OF supporting these animals, cannot,\nwe pres aue, be purchased Tor less than ten dollars\nan acre here It can be had for one dollar In\n\n\nThe New England States, farmers have to feed their\nsheep four or live months in the year here not\nmore than as many weeks Our advantages for en-\ngaging in manufactures are equally great. We have\nwater power 10 any extent which would be requir-\ned, ami the material at our doors and we\nheard gentleman state, few days ago, who had\nvisited the Northern manufacturers with a view to\nobtaining information the subject, that III working\ncotton mandatory Of 1000 splndes, i'll this State\nby means of slave labor for period Of ten years,\nthere would be a saving of $4,000, in this article\n\n\nof labor alone, when compared with the cost Of\n\n\nworking the same at the North, besides saving\n\n\nabout -3 cents pound on all the cotton used dur\n\n\ning that period.\n\n\nThe great difficulty in raising sheep in this conn\n\n\ntry, heretofore, has been, TO preserve them from\n\n\nbeing destroyed by dogs. But this danger will nov\n\n\nbe abolished, by keeping large focks, and employ\n\n\ning shepherds to watch over rthem.\n\n\nHow much preferable would course Of thi\n\n\nkind be to culvatlng jealous, discontented sp'rl\ntowards our more industrious and enterprlsng brc\n; thren OF the North and how much more honorabl\n: and useful TO our State",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1209,
+                    "y0": 270,
+                    "x1": 1774,
+                    "y1": 315
+                },
+                {
+                    "x0": 1109,
+                    "y0": 323,
+                    "x1": 1909,
+                    "y1": 2185
+                }
+            ],
+            "bbox": [
+                1109,
+                270,
+                1909,
+                2185
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-12-21_p2_sn83025530_00271740220_1827122101_0294.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "su,x.--The confidence which we feel that the ma\nnuiacture Of silk will ere long prove common and\nvaluable in this country, induces US to notice every\nding connected with its progress, and we are happy\nTO learn from the Courier that at late meeting ofhe\nNew York Branch of the Linnean Society, Dr.\npascas communicated the introduction and divi-\nsion Of his work on the growth and culture Of silk.\nThe doctors treatise embraces not only the old and\nnatural method Of rearing silk-worms, but also the\nlatest improved artificial system by which the crops\nhimself the solution Of great problem, by proving\nthat the silk-worm is perfectly electrical insect\nand and can be managed und r this datum without much\nfear of failure SO as to obtain its valuable produce.\nThe subject is one Of great Importance and we\nlook with interest to the completion and publication\nof the Doctors treatise, confident that II will con-\n\n\ntain curious and valuable information in relation to\nit's subject. ~. Y. ,Saiesn3ah",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2703,
+                    "y0": 262,
+                    "x1": 3495,
+                    "y1": 1045
+                }
+            ],
+            "bbox": [
+                2703,
+                262,
+                3495,
+                1045
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-12-21_p2_sn83025530_00271740220_1827122101_0294.json"
+        },
+        {
+            "object_ids": [
+                25,
+                6
+            ],
+            "headline": "For the Deiamare Journal.",
+            "article": "IW GtG IJtfuWUTg O0OTUQl.\n\n\n10 any MEMBER of the DELAWARE LEG1sLATuRI\n\n\nwho feelsa proper interest in CoaMoN ScnooLs,\n\n\nLETTER |.\n\n\nDear Sir,\n\n\nYou love your country. and desire the welfare Of\nthe State in which YOU dwell. Ioa go to Dover,\nnot as an ofiicehunter mot for selfish speculation.\nnor for political squabbe, to see how cunnngly\nYOU cap promote the achnnos Of onu panty, liwevcr\nwicked or injurious. and how obstinaely Won can\nthwart the plans OF another party however wise in\nthemselves or conducive to the public good. Yov\ngo to represent the feelings and wishes of vonr own\ncounty and district, it is true but to act aso for\nthe state at large to devise, promote and eyecute\nmeasures Tor the common veal measures FIR which\nthough you gain no present office. you will receive\nthe thanks OF a grateful community, the blessings\nofa benefited posterity, and by which YOU will be\ndoing good, when the political squabbles whether\nJohn or jonathan. Quincy or Andrew shall have an\noifce, like successive waves shall hava ,nada the;\nnoise and passed away. ''''A0 ''e''\n\n\naddress what have to say to uou Sir. becouse\nno others will hear the suggestions I have 70\nmake on a most important subject. Bv those who\ngo 70 Dover to practice political maneuvers and in\nu'aue, my voice, yea, the voice Of 10000 destitute\nch'id'en OF our State, would be no more regarded\n.'a, me dying cries of Revolutionary veterans arc\nN the ears of political intriguers at WASHINGTON.\n~ hs You go to the Capital to promote the public\nsooa'o increase the prosperity ufthe State on whose\ninterests you are called to deliberate, LET me eary\nesly' yet respectfully, recommend measure, By",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2939,
+                    "y0": 3936,
+                    "x1": 3377,
+                    "y1": 3976
+                },
+                {
+                    "x0": 2764,
+                    "y0": 3958,
+                    "x1": 3547,
+                    "y1": 5265
+                }
+            ],
+            "bbox": [
+                2764,
+                3936,
+                3547,
+                5265
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-12-21_p2_sn83025530_00271740220_1827122101_0294.json"
+        },
+        {
+            "object_ids": [
+                22,
+                26,
+                7
+            ],
+            "headline": "From the Baltimore Patriot.\n\nExtract to the Edtor.-hated",
+            "article": "Extract TO the Edltor--tiated\n\n\nWASHINGTON, Dec. i5 1921 ?\n\n\narrived here few hours after left you in the\nmorning, and my first essay has been to make my\nway lothe Capitol. putup at adsby's new house,\nand though very good and spacious one, it suffers\ngreatly III comparison with Barnun's City Hotel.\n\n\nWith regard to the ruuour started ina Philadel-\nphia jackson paper about MIR. Clay's mission to\nEngland, ii is regarded as all moonshinc here and\nwithout pretending to know the secrets of the Exc\ncutlve, feel no hesitation in saying the runour is\nutterly untounded There will be- no doubt, some\ndhculty in making selection.\n\n\nam happy to find our friends here full Of conf\ndence IN success, believing the arch leader of the\nOpposition has done his utmost in his tricks of in\ntrsue and management of his troops. The Mes\nsage Of the President has fell upon the Opposition\nlike a clap of thundrr--it is acknowledged on all\nhands to be powerful and lautless--the Opposition\ncannot gel hold Of it, SO they arc obliged either to\npraise or be silent. Their views on mauy nipor-\ntant subjects differ at least as widely from each 9TH\neras from us and it is very far from being in their\npower to restrain individuals who may chuse to start\n= project, however wild and offensive to many Of\nthem. This must always he the case with \"com-\nbinaon as Mr.. Floyd Of Virginia termed it, made\nup o lhe most Heterogeneous materials, with as ma\nny party hues as there Colors in Josepis coat.\n-Hr. baihour, you know, was formerly the Speaker,\nbut not being willing TO othe whole hog as the\nJacksones have It. they would not permit him ag;n\n10 he elevated to that high station His proposition\nrelative to the sale OF the Bank Stock, Caused as\ngreat Inter among the combination as voIey\nOF shot among flock oipigeous. Rely upon il that\nsome OF the knowing ones amongst them feel much\nalarm, and already begin TO look and feel as though\ntheir days are numbered.\n\n\nAt dinner to-day had very free conversation\nwith two Intelligent Nirpinians--they assured me\nthat the Jackson fever is burning ont fst-that the\nOld Dominion has at last got her thinking cap on ant\nthat the tide Of public opinion there is turning fast\n| in favor OF our present Administration. The vir\ntuous Madison Is With US, which cannot fail to have\nITS effect upon the moral sense of mankind. | fine\nmany well disposed citizens who have been ayerse\nTO Mr. Adams. think he has been very harshly ant\nvery nntarly dealt BY, and viii now give him thcil\nsupport There is evidently calm but sure re.ac\ntlon in his favor since the PRONUNCIATION of his las\n'ies.lg\" Such a long tried, faithful public seryan\n'''h 10. ~ ','t'r'i ont Of office for no fa\"lt\nespecially wiien recollection for four short year\nviii close hls political life forever.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1301,
+                    "y0": 2210,
+                    "x1": 1756,
+                    "y1": 2255
+                },
+                {
+                    "x0": 1165,
+                    "y0": 2254,
+                    "x1": 1752,
+                    "y1": 2303
+                },
+                {
+                    "x0": 1143,
+                    "y0": 2276,
+                    "x1": 1935,
+                    "y1": 4417
+                }
+            ],
+            "bbox": [
+                1143,
+                2210,
+                1935,
+                4417
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-12-21_p2_sn83025530_00271740220_1827122101_0294.json"
+        },
+        {
+            "object_ids": [
+                20,
+                17,
+                16,
+                8
+            ],
+            "headline": "TgUEaawARE TCUTsNAT..\n\nWI !I.....SS.tc:sHcNs IN\nEriAay, DecembGr \"a, AS2T.\n\nFor lie Dclts,care Journal.",
+            "article": "There is not a more false, Il more erroneous,\n\n\nmore ridiculous simle used, than that which likens\n\n\nGen jackson to General Washington. The illus.\n\n\ntrous services The latter in the field and the cah\n\n\nmet, his good sense, his entire devotion 10 the pros\n\n\npery OF his country and his regard for its cohsti-\n\n\ntuition and laws, are qualities in which Gen. Jack\nson is dsparagingy deficient. Jackson boasts of\n\n\nsingle victory gained at n ewOrleans but its spen.\n\n\ndor is diminished by the arbitrary acts of which he\nwas guilty during and after the achievement. Lis\nservices lawyer and statesman diminish TO al\nmost an atom. compared with the assidnous and al |\nmost nnumerablc and various engagements in which\nWashington employed his busy mind. Washing\ntoms free and complete submission to the authority\nOf the constitution his open ayowal of its sovereign.\nty and the sanctity of its spirit, all meet with ihe\nmost striking contradiction in the character and\n\n\nduct of Gen. jackson. The contracted circle Of\nJacksons same previous TO the battle Of New-Or-\n\n\nleans-his resignation Of all his civil Offices pre-\n\n\ndcated on his acknowledged inability to perform the\n\n\ndues,--the dormancy Of his talents at the most l-\n\n\nmuuous crisis, and his flight from the political con-\n\n\ntest, are facts which destroy all comparison, and\n\n\ndispaIage both the patriotism and the genius Of the\n\n\nGeneral. But why should his friends draw such an\n\n\ninappropriate parallel when the vote OF Jackson\n\n\nexpressed and recorded in lT0G denies the proprie\n\n\nity Of chusing Washington example. In con.\n\n\nsequence of the delivery of the valedctory address\n\n\nlot Gen. Washington, 81 resolution was adopted\n\n\nthat respectable address ought TO be presented to\nthe President in answer to his speech-and NlessTs\n\n\nAnes Baldwin, Madison, Sgrleves and Smith were\n, appointed a committee to draw up the address\n\n\nThis address conceded with the sentiments express\n\n\ned by Washington, lauded his services, and prayed\n\n\nthe benedictions Of heaven on the remainder OF his\n, days. Embodied in the address was the following\ng For our country's sake for the sake Of Republl-\n\n\ncan liberty, it is our earnest wish that your fTampe\nr mag be the guide ot yoar SUCCESSORS 6c F\" motion\n\n\nwas made Tor the expunging OF this, and supported\nj by remarks as disgraceul to the speaker they\n! were stigmatZing to the character of Washington.\n\n\nOn the vote favorable for expungng the above clause\n\n\nstands recorded, to his eternal disgrace, the vote Oi\n. ANDREW JACKSON. Then can that comparison\nA be true. which kens Jackson to Washington ? Car\n\n\nbe agreeable TO the principles and wishes Of\ns Jackson himself, when he was opposed TO chusIs\nd the Father Of his country as an 8 example\"\n\n\n), But while we would thus show the talsity Of such\nIT a smile, we woad wish the community to consider,\nj. how they would enfianger the peace, reputation\nand prosperity of their country, by supporting the\nJ. preensons of one whose principles and acts would\nl., be different from those of President Washington.\nWas there ever a man who better understood the\ne interests ofthc Union? Wasthere ever man whose\nr conduct congenial with the wishes OF the\nPeople No, never: and he who would dscredit his\nservices, disapproye Of his acts and pursue policy\ndifferent from, or opposed to his, deserves not the\nd appreciation or support OF his fellow citizens. Ant\ne. such man is General Jackson. R.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2782,
+                    "y0": 1065,
+                    "x1": 3434,
+                    "y1": 1123
+                },
+                {
+                    "x0": 2756,
+                    "y0": 1153,
+                    "x1": 3464,
+                    "y1": 1281
+                },
+                {
+                    "x0": 2913,
+                    "y0": 1319,
+                    "x1": 3324,
+                    "y1": 1359
+                },
+                {
+                    "x0": 2725,
+                    "y0": 1367,
+                    "x1": 3530,
+                    "y1": 3906
+                }
+            ],
+            "bbox": [
+                2725,
+                1065,
+                3530,
+                3906
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-12-21_p2_sn83025530_00271740220_1827122101_0294.json"
+        },
+        {
+            "object_ids": [
+                23,
+                9
+            ],
+            "headline": "[ rom tic Ohio G a-ette.",
+            "article": "Since the friends Of the Administration have be-\ngan to Stir themselves. the opposition in this State\nhave ceased to boast OF their strength. The meet\nings held in the different counties, within a few\nweeks past, have been so unmcrously and rcspecta\n\n\nbly, attended. as to show that diversity of opinion\non the next Presidency, scarcely exists among us ;\nand that, when the day Of trial shall come, the free\nmen oiOhio will give :\" long pull a strong pull,\nand pull altogether, in favor of an Administra-\ntion which watches over, protects and promotes\nthe real interests. by all constitutional means. Our\nlimits will not permit us to record the proceedings\nOf all the meetings which may take place but we\nshall endeayor to find room for those held in the\ncounties IN which our journal circulatas, If forward\n\n\ncd to Us for that purpose. Those Of which an ac\n\n\ncount is given in this days paper, we arc told b,\ngentlemen present, were Of the most respectable\n\n\ncharacters and it is now expected that Pickawa,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1371,
+                    "y0": 4443,
+                    "x1": 1734,
+                    "y1": 4478
+                },
+                {
+                    "x0": 1165,
+                    "y0": 4486,
+                    "x1": 1957,
+                    "y1": 5230
+                }
+            ],
+            "bbox": [
+                1165,
+                4443,
+                1957,
+                5230
+            ],
+            "full_article_id": 10,
+            "id": "10_1827-12-21_p2_sn83025530_00271740220_1827122101_0294.json"
+        },
+        {
+            "object_ids": [
+                24,
+                10
+            ],
+            "headline": "From, Tie .4lbanu Duilu .Aduertiser.",
+            "article": "\n\n\nNot having much to do, Tor lew moments, we\nwill just serve up another bitter draught for the\nplant editor OF the Argus, as yet he has not at\nempted to justify the crooked course he has pur.\nsued. 1t is well that he is silent for any attempt\nto justify his agitous acts would but sink him deep\ner in political degradation. and public contempt Tor\nthe prostitution Of the little talents with which he\nhas been endowed, in yielding himself implicitly to\nthe dictatlon of men without principle. In his pa\nper Of the l4th May, 1924. in speaking Of the pre-\ntensions Of General Jackson. he represents him as\none :. WHOSE AalBI ZION IS AS INSATlA,\nBILE AS THE SEA. AND WHO 70 GRAFT\nFly HIS lNORDINATE LUST OF POWER\nWOULD OVERLEAP ALL BOUNDS\" Bu\nnow. fursooth, he is represented as the very lamb 0\nmcekncss. and the very paragon Of republican purl\nty. Will the Argus be kind enough TO inform\nthe public when the change took place ?\n\n\nWas there ever earth such treachery, snc\nabandonment of principle as is evidenced in tn\npresent actious course of the Argus, and SOM\nhalf dozen of the combination prints, contrast\ned by their former professions and we'll known pre-\nsent opinions? This is, indeed, :. the madness c\nparty\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2017,
+                    "y0": 537,
+                    "x1": 2577,
+                    "y1": 577
+                },
+                {
+                    "x0": 1908,
+                    "y0": 572,
+                    "x1": 2695,
+                    "y1": 1582
+                }
+            ],
+            "bbox": [
+                1908,
+                537,
+                2695,
+                1582
+            ],
+            "full_article_id": 11,
+            "id": "11_1827-12-21_p2_sn83025530_00271740220_1827122101_0294.json"
+        },
+        {
+            "object_ids": [
+                18,
+                11
+            ],
+            "headline": "From the baltimore Ameyican.",
+            "article": "From the baltimore .Anleyican.\n\n\nThe English intelligence received by the packet\nship William Byrnes, which is to the Sth Of Nov\npresents decided change in the relations ot Euro\npean affairs. ihe final intentions Of the Porte ap\npear as uncertain as ever and though no doubt a\ngreat part Of the rumours to which the events OF\nthe day are continually giving rise, are either idle\nconjectures gotten up for stock jobbng purposes,\nthe better opinion seems to be, that European at\nfairs must be considered in quite an unsettled state.\nThe silence OF Austria, in c0nnexlon with her pro-\ncedures in the I4evan. certainly affords ground for\nsuspicion that she is net ready to take part with the\nAllies, especially when is considered that the re-\nsuit Of any successful attack on the Ottoman pow\ner, will be TO give prepondcrating advantages to\nRussia. The silence and protracted delay OF the\nPorte. are equally expainabe on two grounds. r.\nven if she concession necessary in the end. it\nwould be natural in her to tempori1e. and postpone,\nat least. this nvasion as she must conceive it, her\nrights of sovereignty. If resolved on war, the de-\nlay would be equally desirable. both to postpone the\nactual evil, and take measures for breaking its force\nwhen it comes, as much as possible.\n\n\ntgliacss Ordinary persons, pcradventure, may\nnot have remarked (what may prove comfort to\nthem) that true ugliness is almost as rare a Gift as\ntrue beauty for how very few ll-Avored viaages do\nWe encounter that possess not some redeenng lea-\nturc or expression. | have known many an ualy\nface improve, nay. almost grow handsome upon ac-\nquantance sand, indeed, although beauty may boast\nOF the lavish bounty OF nature, uglness may vauDt of\nher plum dealing. | am far from regarding ugli-\nness in woman as unlo rtunate rather consider\nit as an antidote to vanity, safeguard to virtue.\nand a prompter TO the emulation Of goodness. And\nbeauty, after ALL las wrnkIetl old maids and 'shacc\nbeens\" sagely declare.) is but skin deep In my\nboyhood, well remember young man (whom |\nhave often had the pleasure of mcetng) whose phys\nognomcal possessions might certainly be classed\nunder the title ofugncss in south he was an ertgu\nordinary young man. both as respects his lineaments\nand his learning. He was deep read--pae-\nby the small -poX-pited by every female who be.\nheld him. But he had mind that minded not\ntheir impertnent commlseration and when his con.\nversationa talents began gradually to be developed\nby the genial influence Of social conyerse--his an\nposite remarks, his critical reading, and sound argu\nments won all the listening senses of his auditors\n\n\nwhile lnslpd beauty was lost in the fluent language\nof eloquent usness. The s.pveffy naca'' of the par\nty felt the unintellighle deserton of the fair ones\n\n\nand glanced cautiously round at their sweet persons\nreflected In the mirrors, as they ounged stlessl,\nabout imagining that some alarming revolution hat\ntaken place in their collars cravats. or some re\nbelious lock had stretched itself ungraceuy fortl\nfrom their closc-curled Roman crops. or pooaies-\nthen finding all III statu qao. wildly wondered\n''what the girls could possibly see in the fellow Il\npay him so much attention 70 while others lispet\nforth in voice half strangled by their stocks, !.\n\n\ns'pose the bellies are quizzing the Gorgon !\" IJgli\nness hath charms that pass not away like the bloom\nof summer flower, r,-thelelore, let not ueliness b,\nput out of conceit If there be but wit and goot\nsense behind the repusiyc mask. ugliness may wi,\nthe Earour and co,.oto,-.-~o nc oeauty. Eng. pap\n|\n\n\nLrBERIA.-'Ihe Norfolk IIeral,l.-on the authori\n\n\nty of Dir. Tudsrn. who has Just arrived from Ii\n\n\nIBERIA, communicates the gratifying ntelisenc,\n\n\nthat the Colony was in very thriving cundi\n\n\nton, the people enjoying good health, and bein.\n\n\nnot only contentet but delighted with their new\n\n\nhome. The trade at the Cape was very prosperous\n\n\nand daily extending itself; some of the settlers ha,\naccumulated handsome fortunes, and all were ia\nbeyond the reach Of want; nay indulging them\nselves with many of the uxuries and elegancies d\nfashionable life: and new houses were continual\nin the progress Of building. Nor was the necessit\nOf dfusing education overlooked for DR.. r. state\nthat so careful had the coonists been in this respect\nthat all their children of sufficient age could at eas\n5 read and write The attachment of the people a\nthe Cape. to trade and commerce, had caused then\ne to neglect agriculture in some degree but that i'm\n/ portant interest was successfully followed up\n: the settlement of St. Paul's about or miles dis\ny tant.-in SHIRT from the account given by Dr. 4\ne the colony bids fair to infinitely moretlan realis\ny the most sanguine expectations Of its tounders.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2057,
+                    "y0": 1607,
+                    "x1": 2591,
+                    "y1": 1652
+                },
+                {
+                    "x0": 1943,
+                    "y0": 1572,
+                    "x1": 2739,
+                    "y1": 5247
+                }
+            ],
+            "bbox": [
+                1943,
+                1572,
+                2739,
+                5247
+            ],
+            "full_article_id": 12,
+            "id": "12_1827-12-21_p2_sn83025530_00271740220_1827122101_0294.json"
+        },
+        {
+            "object_ids": [
+                12
+            ],
+            "headline": "",
+            "article": "county, in which the IIeroites have heretofore\nclaimed majority will turn out at least two Tor one\nin favor of the Administration. From present ap-\npearanccs, the majority for Mr. Aeatns in the whole\nState, will not fall short of from $4,000 to 10000\nvotes and may exceed the latter number.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1899,
+                    "y0": 270,
+                    "x1": 2691,
+                    "y1": 507
+                }
+            ],
+            "bbox": [
+                1899,
+                270,
+                2691,
+                507
+            ],
+            "full_article_id": 13,
+            "id": "13_1827-12-21_p2_sn83025530_00271740220_1827122101_0294.json"
+        }
+    ]
+}

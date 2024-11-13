@@ -1,0 +1,554 @@
+{
+    "lccn": {
+        "title": "Delaware journal.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2638-6917",
+        "lccn": "sn83025530",
+        "start_year": "1827",
+        "end_year": "1832",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [
+            "sn85042477"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn83025530",
+        "edition": "ed-01",
+        "date": "1827-10-09",
+        "pages": [
+            "seq-3",
+            "seq-2",
+            "seq-4",
+            "seq-1"
+        ]
+    },
+    "page_number": "2",
+    "scan": {
+        "lccn": "sn83025530",
+        "edition": "ed-01",
+        "date": "1827-10-09",
+        "page": "2",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-10-09/ed-1/seq-2.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-10-09/ed-1/seq-2/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn83025530/1827-10-09/ed-1/seq-2/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn83025530/00271740220/1827100901/0211.jp2",
+        "height": 5536,
+        "width": 3592
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1895,
+                "y0": 289,
+                "x1": 2687,
+                "y1": 887
+            },
+            "class": "article",
+            "raw_text": "have been added to their list. and thus shown the\nreal strength of the party the following counties oe-\ning decidedly for the Administration\n\n\nCalvert i. Talbot 9, Hartford 9. Frederick A.\nKent Q. Queen AIMS /, Dorchester l., Anne Arun-\ndel 2, Montgomery 2,-l7. !.\n\n\nAdding the serc,eea thus lost by prodlgal waste\nof strength to which we have referred, the state OF\nparties might lave stood thus--for the Admlnlsra-\nton, 67-tor jackson, IS. e.\n\n\nHereafter, then, we hope no attempts will be made\nby the opposition editor Of this city, the editor OF\nthe Richmond Enquirer, or any other OF the coniede-\nrated editors, to impose upon the people, by putting\ndown the electoral vote of the State OF Maryland Tor\nGeneral Jackson. MAI. Jcnraaf.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1173,
+                "y0": 4437,
+                "x1": 1952,
+                "y1": 5242
+            },
+            "class": "article",
+            "raw_text": "me Administration members would have. iudis\nphtaD'y, been more numerous, but for the indiscre\nton winch was exhibited in the setting up of SO ma.\nny Gan''i'iates' III opposition to each other 1t is\nwe'll known ttat while the jackson party were 50\nwell organized, thar not more than four candidates\nwere started. III snme instances the Administration\ncandidates we're doable that number. This gave a\naice slinw OF strength to the Opposition, and an\nequally false show Of weakness to the Adm;nistra-\nton. Where there was an unquestionable and a\nconsiderable majority Of friends of the Admnstra\nton IN counaty,it was thus cut up, and rendered\nperfectly inehicent while maturity, juliciously\n\n\nSpeaking on this point, the Baltimore Patriot use\n'he following language, and accompanies it by tn\nstatement Of votes whicl we subjoin\n\n\nHad the friends of the Administration conteste\n\n\nthe election upon the party ground, like their Of\n\n\npnnents. an'l run but four candidates in cucb coui\n\n\n'y, the following additional members might easiI",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 368,
+                "y0": 4523,
+                "x1": 1161,
+                "y1": 5216
+            },
+            "class": "article",
+            "raw_text": "A correspondent in Tennessee, portion of\nwhose communication has already appeared in our\ncolumns, informs US that among the means resortcd\nto in order poison the minds of the citizens of the\nWestern States against President Adams. is Tie\ncirculation of Jonathan Russell's calumny. that MIR.\nAdams proposed at Ghent, to admit the British to\nthe navigation of the Mississippi tedious\nthe task OF repeating, for the hundredth time, re-\nsaation of this groundess charge, respect to the\nsuggestion of our correspondent induces us to do it.\n\n\nBY the treaty Of 1888. by which the British Go.\nvernment acknowledged our independence, certain\nliberties of fishing and driving fish, within the iuris\ndction OF Great Britain, secured to the Unite,\nStates, and the right of navigating the Mississippi\nvas allowed to the subjects of Great Britain. 'fh\n\n\nHrltish negociators at Client early announced i\nisov commissioners, that the British Guye,nment d",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 671,
+                "y0": 4407,
+                "x1": 849,
+                "y1": 4429
+            },
+            "class": "author",
+            "raw_text": "uO:O@O:Or 6",
+            "legibility": "Illegible",
+            "full_article_id": 4,
+            "reading_order_id": -2
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 416,
+                "y0": 4437,
+                "x1": 1070,
+                "y1": 4516
+            },
+            "class": "headline",
+            "raw_text": "From The Afassachusetts Journal\nNAVIGATION OF + He MISSISSIPPI",
+            "legibility": "Questionable",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1969,
+                "y0": 4831,
+                "x1": 2765,
+                "y1": 5238
+            },
+            "class": "article",
+            "raw_text": "Ihe Indian War at an end.--We learn, from\ntraveller. that Col. M'KENNEy, of this CITY, arrived\nal st. Louis onthe 18th September from the Winnie\nbago country. He brought informationto that place\nthat the Red Bird (the principal war Chief Of the\nWnne,bagoes) together with \"A young Brave of the\nsame nand, had been gwen up TO Gen. ATKINSON\nthe Winnebagoes had sued for peace, and had pro,\nmissed to give up all the party which made the attack\non the keel boats, and committed the murders at\nlPrairie-du-Ch Chen, SC,",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2094,
+                "y0": 4774,
+                "x1": 2631,
+                "y1": 4819
+            },
+            "class": "headline",
+            "raw_text": "From the National Mtellieencer",
+            "legibility": "Questionable",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 308,
+                "y0": 315,
+                "x1": 1092,
+                "y1": 610
+            },
+            "class": "article",
+            "raw_text": "Put II is time TO tell tie truth and 50 Jar from q\ns;.ng tirpece by concealiigit hnk' her true IN\nsis.'ns viii Ire beaf promoted BY detailing thugs as\n.sy ,e,v'ay aread letting the world know the hopessnd\nr.. tbe wants and resources Of the country. In\n,ea' next will detail to you the public occurrences\nthat shall !ranspre. Iremain yours. truly, ,\n\n\n'\"'s ''N'' [. G. HOWE.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 295,
+                "y0": 748,
+                "x1": 1100,
+                "y1": 4498
+            },
+            "class": "article",
+            "raw_text": "\n\n\nthis port from Liverpool, whence she sailed on the\ned Of September, London dates to the 3lst August,\nand Liverpool to the st September, have ocen re-\nceiyed. The Greeks have met with some gnou Tor\ntune. Nothing detnre respecting the formation\nofthe new ministry has been decided on\nThe London Morning Chronicle says\" |: IS\nnow finally determined that the MARGINS OF Anglesen\nshall succeed the Marquis Of Wellesley as Lord\nLieutenant of Ireland\" The noble Marquis sue\ncessor at the board Of Ordnance has not yet been\nnamed\n\n\nThe small pox was making dreadful ravages in\nLondon.\n\n\nThe Liverpool Chronicle Of Sept. l says the ac-\ncounts recently received from Portugal are OF ni-\nture to excite appFehensons that the Constitutional\nlists may be defeated, unless they at once receive\nthe most decisive support from England.\n\n\nMeetings have been held in Birmingham and Liv-\nerpoo to decide some token OF respect to the late\nMIR. Canning. At the former an address OF condo\nlence with his Majesty was unanimously agreed to-\nAmonument to Mr. Canning is to be erected at Ilv-\nerpool. About El5o0 have already been subscrb-\ned\n\n\n1t is asserted that Mr.. Cannng's heirs will not\nreceive moro than one tenth part OF the sum crrone-\nously stated to have been left by him, $50, 600.\nThe harvest in England has commenced, and the\nprospect Of its being abundant was very promising\nThe defeat of the Russians by the Pcrsans at LII\nrvian is confirmed. The Russian Cavalry suffered\nseverely.\n\n\nThe troubles in Spain continue, and under date Of\nPerpgnan, Aug. IT, it is stated that degree OF or\nder exists in the assembages OF the insurgents The\ntowns of Campredon, Olot and Rpoli are in thei\noccupation, and the Royalist volunteers are unwll\nlingto go out against them. The rebels it is SAID\nhave their eye OH the fortress of Cardonne, the pos\nsession ofwhich was so valuable to Nina in 1928\nThe government, alarmed at the progress OF the IN\nsurrecton in Catalonia, has given orders to assem-\nBILE 5000 men in the province. Trade was com\npleely interrupted at Barcelona by these disturb\nances. The Apostolical party (alias lnqnsitorial\nhad commenced plundering and leyying contrbu\ntions they had twice approached within League\nof Barcelona, and some OF the Spanish troops lately\nsent against them had joined the standard OF th'\nChurch as it is termed.\n\n\nThe Greek subsistence committee had at its dis\nposal on the first Of June, 9S, 200 Spanish dollars\nbesides ten ship ads of provisions, which woul\narrive after that date. Howitzers, to be mounte\non mules. with skilful engineer, and the means\nmaking powder, had been sent from Marseilles.\n\n\nThe fall of the Acropolis of Athens is attribute\nto the ntrigues oi Austrian agent, aud the tres\ncherry of the French Colonel, Fabvier. No impres\nsion had been made upon it at the time OF il\nsurrender, and it was provsioned for several months\nThe London Globe Of August 27, states that le\nters from Constantlnnple to the 10Th July, AL cor\ncur in one opinion, that whatever may be require\nas to Greece, the Sultan will resist the dctatlon.-\nThe greater number of the writer's contemplate wa\nand express fears that the lives and properties\nthe Franks will be exposed to great danger. Sev\nraj pracies have been committed in the vicinity\nSMYRNA.\n\n\nLeghorn .4Mg. i6.-(Extract Of a private letter\nA letter from the isle Of Zante, dated the 2nd\nAugust, says. Admiral Cochrane after havil\nburnt the Egyptian brig before Alexandria. and ca\nIed terror into the enemy's country has returned\nPoros. Yesterday morning little lrisae of\ncannons, and schooner of the Turkish feet, pass\nour island for the purpose of going to Patros su\ndenly Admiral Cochrane appeared near Scropl,\nwith the Hellas and the Soter (Savior) Phlhell\nbrig about noon IA brisk firing was heard. and\nthe evening we had news of the battle. This mol\ning, early the lIellas was seen bearing up to\nisland along with the Softer, which had in II\nthe enemy's frisate, the Greek flag flying at\nmast head. The Turkish crew had been obliged\nsurrender, after a resisancc of ten minutes. til\nvessel having been greatly damaged by the fire\nthe Heas The Greek sailors were on its de\nenleavorng to repair the injuries it had received\nThe manmast was broken at the place which\nceives it. but it would be easy to mend. i\nGreeks came so near to our port that we were alb\nwith Telescope, TO distinguish the men. As\nthe Turkish schooner, it was taken without hav\nreceived any injury. The Greek vessel sailed\nwards Clarenza. where they will anchor, and ;\nthe schooner by tomorrow morning.\n\n\n-o:oeoo:o\n\n\nTromhhe lLtssacluseHs Journal,\n\n\n",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 403,
+                "y0": 640,
+                "x1": 988,
+                "y1": 723
+            },
+            "class": "headline",
+            "raw_text": "From the Boston Patriot, October 3D..\n\n\nFROM ENGLAND.",
+            "legibility": "Questionable",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2686,
+                "y0": 488,
+                "x1": 3509,
+                "y1": 4633
+            },
+            "class": "article",
+            "raw_text": "in Junk bntte, carefully corked and deposited in\n\n\ncave in Kent, supposed to have been formerly the\n\n\nresidence of some Hermit or solitary recluse From\n\n\ncircumstances, it is supposed to have been deposited\n\n\nthere about the time ol the settlement of this cam\n\n\ntry by our ancestors. What renders it pecua,l,\n\n\ninteresting is the discovery Of it at this ;unctue *\n\n\ntime, when many Of the facts which il seems % ii.\n\n\nlude to- are actually transpirlns Indeed were il\n\n\nnot well known to be otherwise. one would almost\n\n\nbe persuaded to believe it to have been written very\n/ lately\n\n\n\"And, in process Of time, it shall come to pass.\n\n\nthat great nation shall arise in the west, and be\n\n\npeople shall multiply greatly in the land, and thew\n\n\nShall make to themselves constitution and establish\n\n\na form Of government. And the people Of that land\n\n\nshall be happy in their constitution and government,\n\n\nand shall flourish exceedingly. And they shall be\n\n\nattached 10 the principles and examples of the;r\n\n\ngreat founder, and 10 the customs Of their fathers,\n\n\nBut 10 it Shall to pass. that many persons nor\n\n\nHaving the fear of God before their eyes, but beipa\nmoved thereto, and seluect by the instgauns Of\n, BrelZebub, shall 70 about to oyerturn The ark or\n\n\nsafety, and destroy the good works of their fathers\n\n\nAnd they shall say one to another, behold the hiuh\n\n\nplaces in the great Sanhcdrm; they are all filled\n\n\nand 10 ! we are not in them neither do we feed\n\n\nupon upon the loaves and fishes, expected to\nhave done. And then shall they say AMONGST\n\n\nthemselves, go to, let us choose to US leader and\n\n\nlet us no longer adhere to the example of our foun\n\n\nder and the customs Of fathers, for their ways\n. are improbable ways to U.S. and cannot fatteB\nupon them. Then shall they 20 about to- choose\n: them a laader, and they shall counsel amongst\n: themselves, and shall say; 10 the republic Of\n> Greece. it was even this land governed by\nwise and experienced men, and the people were ha.\npy even as the people of this land are happy, but\ncaptain in those days, renowned for deeds Of\n: arms, divided the people amongst themselves and\ny DESTROYED their liberties. And another shall saw\n!, 10, the Roman commonwealth know we not that\nal Rome was mistress of the world and that the peo.\nq pie were great and free, and her government wise\nVI and happy, and know we not that for all these\noi things many Romans were .'aptvated and beguied\ny by the dazzling spendor OF great warrior, under\nh- whom they were enabled to destroy the common.\nle wealth. And another shall say mind ye not our\nng mother Albion She also has been led by milf\ned tary chettain. And then shall be named another\nne example which is not yet come to pass, of great\nnd kingdom the earth which shall ere long fall under\nre its weight, and on its ruins shall republic be-\nH. yin to arise, and she shall send forth her armies\n10 into all the world, and the putena,es Of The earth\nce shall remble upon their thrones, and the friends Of\nng liberty shall rejoice at the rapid march of freedom\n'r- and republican principles but 10, in the midst of\nOF their reolcings faction shall arise, and under the\n'n conduct Of great general of the republican armies\nlb shall sap tile foundation Of the republic. and ii:\n\n\nfruits and infant prospects shall be scattered to the\n\n\nfour winds OF heaven. And when they have reason\nGu ltilSclFtSs ltpH snail neY saw\nh behold the inhabitants of this land are they not csl\nnrs and blood. even were the Greeks and Romans\nan. flesh and blood, and may they not likewise be capt.\nhe waited with military spendor and rcnown? And\nnal then it shall come to pass that they shall with one\nre- accord choose to them military leader, great\nice captain in the hill country Of the west, and famous\n90 for deeds OF arms And then they shall say 10 the\nan, people in the SOUTH and in the west. and ia the\nIII east and in the north hark \" behold the man\nthe WPSt clpHVp him pppn wpr rIpayf\nthc unto him let us make him chief ruler of the land\nal then shall garncrs be filled with corn and ou\n\n\nvessels with wine, and then shall the land be over\nton flowed with milk and honey, and all the markets\nent the earth shall be opened unto us and gold ant\nah. silver shall deluge The land. And many peopl\nour shall be deceived IN those days for AM\ntips it shall come to pass that the man of the west sa\ninc accuse the chief rulers of the land with rauu an\n,or corruption before the people and he shall call upo\nyav one OF the great men Of the land to testify to til\n\n\ntv truth OF the accusation, and then it shall come\nery pass, that the witness shall open his mouth and sha\n,ed. say unto the people that it is not And the\nthe shall the sons OF men be astounGed, and there sha\nave be CONSERVATION in the wigwam. And they sha\nide so forth into the land, even into all the countr.\n\n\nand shall interpret the testimony of the witness\n\n\nand they shall say unto the people that the testm\n\n\nny of the witness does fully verify the accusation\nahN And behold the people throughout all the land sla\ncity marvel at the prentness NJ the lie And mar\naae persons IN divers parts of the land, shall attat\ne 1t themse Ives to the dsahected, and in the fir\nare year the second grand jubilee of the land, it ha\nen- come to pass that the willy spirit shall visit the CT\n'asl- Of Gotham, and few knowing ones of that ci\nt IS shall reason thus among themselves we know I\nlay, great men of Gotham and of this mart Of the cou\nS. ry are pleased with the conduct of tbe great Sa\n] n. hedrim, and they will adhere TO it and support\nWill measures, and we know that they are great\nwing many, and if a'lhere to the same party \"\nnter- them, they will eclipse Us. and our shares of\nthe1 lnavea anI tishpS will ba ,r;.o ILL AID III",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2812,
+                "y0": 307,
+                "x1": 3384,
+                "y1": 359
+            },
+            "class": "headline",
+            "raw_text": "COTT1vTUNICATTONS,",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -2
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 2868,
+                "y0": 389,
+                "x1": 3319,
+                "y1": 429
+            },
+            "class": "headline",
+            "raw_text": "For The Delaacare Journal.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1095,
+                "y0": 281,
+                "x1": 1892,
+                "y1": 3824
+            },
+            "class": "article",
+            "raw_text": "yuot intend again 10 grand IA .fhdW an eq'aydle'h\nthe fishing privileges within her jurisdiction, which\nwere secured to us under the treaty of 1885. The\nIintrnaton was met by the American Commissioners,\nby the following principle, which they broadly laid\ndown, in letter signed by their entire number\nviz: that from the peculiar nature of the treaty o\n\n\n1888. as treaty of independence, it had not been\nabrogated by the war; that we still enjoyed the\n\n\nfishing privileges, as part of our national lnde-\npendence, and that no grant from the British 60\nvernment was necessary. In pursuance OF this\nprinciple, the American Commissioners on the loth\nof November 1914, sent to the British negoclators\nthe preiet of treaty containing no article OF stpu-\nla,ion on the subject. On the 26th of November\nthe British negociaors returned the proc' with sese\nraj alterations. one Of which that British sub\niects should have access to the river Mississippi and\nthe free navigation ol that river.\n\n\n10 this the American commissioners could not\nin itself object, because it was secured to the Bf\ntisl, bv the treaty Of 1888. which the American\nCommissioners cuntendeu was not abrosaed by the\nwar.\n\n\nIn order, however, not to give the British the ad\n\n\nvantage of any new stipulation, IN the treaty, with\n\n\nout corresponding advantage to America mrs\n\n\nfioHatm proposed to admit into the new treaty the\n\n\nright of the British to navigate the Mississippi, pro\n\n\nuiscd it were Offset by renewed stipulation OF the\nFishing privileges, in favor of America.\nFor this proposal MIR. Gallan, (the mover) Mr.\n\n\nAdams, and Mr. Bayard voted !; against 1t Mr. Clay\n\n\nand Jonathan Russell. The majority being III favor\n\n\nOf it, il was offered the British negocators, and by\n\n\nthem rejected on the ground, no doubt, that while\n\n\nthe fisheries were of immense consequence to US.\n\n\nthe right Of navigating the Mississippi was to them\n\n\nmerely nominal.\n\n\nThe treaty of Client was consequently negotiated\n\n\nwithout any stipulation on the subject.\n\n\ni In the cOny ent0n of 8l8 between the U. States\n* Great Britain, which was negotiated by Mr. Rusl\n\n\nunder the instruction of MIR. Adams, the entire\nfishing interest was satisfactorily adjusted Grea\n! Britain stipulated to the enjsyment OF the essen\n\n\ntal part OF the fishing liberties claimed, and tacitl,\n\n\nrenounced all pretensons to navigate the Missls\n. sipp.\n\n\nSuch is the history Of the caumnious insinuaion\n\n\nthat Mr.. Adams proposed to open the navigation q\n: the Mississippi to Great Britain.\n\n\n!. Muy'and.-The election struggle has termina\nj., ed, in This State, in the entire discontinue of tn\n!, Jackson party. Never were sanguine hope\nJ. of success entertained by any set of men neve\ni were greater efforts made to reduce those hopes\n: reality. Yet all has failed The misrepresentation\nof the Opposition editors have failed the gratultou\ndistribution OF the Telegraph, with its prepared sal\nders, has failed the cry OF prescription has failed\n\n\nthe menace of personal violence has failed the eli\nDorate accusations Drought by the jackson ComD\n\n\nnation against the Administration has miserablv fii\ni ed. Sound views and correct principles have achie\nIl ed the redemption of maryland; and she stant\nnf forth bright example to Virginia, Pennsylyan\n\" North Carolina and the other States, in which CO\nID rect principles are now strongly contending for Vi\n= tory.\n\n\n. !. III the late elections for Maryland, the Oppos\nts ton had a double object to accomplish. The hope\n1 of the Administration and the political existence\n!. Governor Kent were to be laid low at the san\nA. stroke. 1t was regarded essential to the ultima\na success of the Jackson party, that these two ent\nshould be accomplished and the effort was in pr\nr portion to their Importance. The battle has termin\naz ted, and the advocates of General jackson beat\n:. from the field, covered with disgrace and despa\nof The electoral Ticket Of Maryland is now safe f\n\n\nMIR. Adams and we would recommend those Q\nposition editors whohaye been so eager to enlight\nIL US to the electoral votes Of the State to anne\nnu their schedule to that effect.\n\n\n~ The following returns from the several COUNT\n- and cities are believed to be correct\n9nl administration, Jackson\nod Annapolis city, 9 0\na. Baltimore city. 0 2\n~. Baltimore county, 4\nan Hartford, 9\n~ Anne Arundel, .\nm. Montgomery,",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1904,
+                "y0": 912,
+                "x1": 2718,
+                "y1": 4931
+            },
+            "class": "article",
+            "raw_text": "From tie National Ltelfgcnccr.\n\n\nMore than one Of the Combination prints has had\nthe assurances 10 accuse us ofcalumnatlng Gen. jack\nson in the article wherein we referred to several IN\nccnts in his pubic lie going 10 shew, as we thought,\nil habit of temper and action Incompatible VITA Inc\nhighest civil trust and dignity.\n\n\nThe fact Of this accusation shews they are OF the\nsame onnion as ourselves, that the traits OF charac-\nter there developed arc not such as recommend Gen.\nJackson for the Presidency: fer if they are why DO\nthey fall into violent passion with us for stating\nthem? If they reputable TO HIM as public\nman if they add any thing TO his just fame, or at\nford any promise Of future eminence, why is 1t es-\nteemed calumny in US to develope them?\n\n\nThe only question about these statements. then is\nas to their truth: because, if true, they are not cal\numny, but history-and the allegation Of their be-\ning caumny, only proves the irresistbity of the\nconclusions which flow from them.\n\n\nAs to their truth, then, we aver that they are IN\ndisputabe: that there is not word syllable of\nthem which is not record either in the docu-\nments of the Government in unlisputed news\npaper publications. The statement of Mr.. Lacock,\nreferring to the personal threats Of the General to\ncut of the ears ofmembers Of Congress, copied\nat the time it made with suitable expression OF\ndisgust. by the very prints which now head the Par\nL ty Combination against the principles which they\nonce proclaimed from the house-top. The Rich\nmond Enquirer only three years ago, being several\nyears after his defence Of the Committee Of the Sen\nate, pronounced General Lacock to be \"a man Of\nhigh character man of truth The Editors Of\nthe Richmond Enquirer of course believe every\nthing that MIR. Lacock stated concerning Gen. Jack\nson. Let them come forward, then, and defend the\nthreat to cut of the OF the Senators, and among\nthem, those Of Mr.. Eppes, the late distinguished\nSenator from Virginia, for vcnturng to question the\npublic conduct of Gen. Jackson. Let them defend\nthe other actions quoted by us which they were\namong the first and oudest TO condemn. We chal-\nenge them any Of their present coopcrators, to\n\n\nisprovc title Of the article which they pronounce\nto be calumnous, md which. 50 far from intending\nmalice, was written with reluctance with studied for\nbearance, and under the Indispensable necessity o\n: defending opposition to Gen. Jacksons election\nto which have ever had rooted objections, on pub\nlie and political grounds solely.\n\n\nPENNSYLVANIA GAZETTE.-W this ii\ntie, new daily paper has been established in Phila\nf delphia, by Messrs. Taylor Il Co. formerly editors\nof the Miners Journal. 1t makes very good ap\npearance for dcbuiani, and displays considerable\n5 degree of talents 1t is to be devoted to Interna\n! Improvement, Commercial information, history, re\n/ ports of legislative proceedings of law and polio\nn cases, foreign and domestic news, literary notices\n&c. Such being its plan sit is not intended to en-\nter into the endless cavils and snuosites of pot\nJ. cal discussion.'' From an editorial article in tn\nN first number we extract the following notice of til\nID changes IN Pennsylvania IN tauor Of the present ia\n\n\nnts1eistTatl0n -\n\n\nIS ''It has been repeatedly asserted and as ofte\n\n\ncontradcted, that changes in favor of the presen\n\n\nAdministration of the general government have tax\n\n\nEN- place III the interior OF our state A recent t0u\n\n\nthrough all the principal and most populuus countie\n\n\nin the state, gave US an opportunity Of ascerainin\n\n\nthe truth or faalty OF these reports. This oppo\n\n\ntunty was improved by inquiry made in wa\n\n\ncalculated tn elicit truth without the possibilit\n\n\nof bias and we are enabled to state that in ever\n\n\ncounty and in every town through which we passet\n\n\nfrom Philadelphia to the western extremity OF ii\n\n\nstate, changes in favor of the Administrations ha,\n\n\ntaken place, and IN many districts to very consid\n\n\nrable extent.''\n\n\nCAUTION. Acounterfeit Sloo bill on the U. S. Bar\n\n\nwas detected yesterday morning by one Of our Gil\n\n\nbanks, where 1t was offered for deposte II maf\n\n\npart of Il large remittance from Albany, where\n\n\nwas taken as genuine. AS it is probable there ~\n\n\nmore OF the same kind in in circulation. we will e.\neavor to point out the marks by which it may eas\nly be distinguished from the genuine bills, Ii\nnumbered 1915, dated Philadelphia Sd of Ma\n. 1925, and made payable to the order of Charles\nus West at their Office of discount and teposite in\nr. Orleans, signed n. Bddle, President, 'rhos. w\nia son. Cashier Cast your eye first on the folIowi\ny words Of German Text, in the body Of the counte\nts ~ lett and You will find them spet and put toge\n!es thus :-' C,gice Of discoufatr Drposaen\" This\nION so clumsIl done, that no one who will take the nj\nca caution to look, can be deceived. N. Y paper.\n! From the National HteNgeneer,\nira The Indian TVar at an end--We learn. from\nred traveller. that Col. MKENNEy, of this CITY arry\nSfyl Il tha",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2046,
+                "y0": 912,
+                "x1": 2571,
+                "y1": 956
+            },
+            "class": "headline",
+            "raw_text": "Frcn Tie National MteMgcncCr.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 3590,
+                "y0": 337,
+                "x1": 4569,
+                "y1": 4338
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "have been added to their list. and thus shown the\nreal strength of the party the following counties oe-\ning decidedly for the Administration\n\n\nCalvert i. Talbot 9, Hartford 9. Frederick A.\nKent Q. Queen AIMS /, Dorchester l., Anne Arun-\ndel 2, Montgomery 2,-l7. !.\n\n\nAdding the serc,eea thus lost by prodlgal waste\nof strength to which we have referred, the state OF\nparties might lave stood thus--for the Admlnlsra-\nton, 67-tor jackson, IS. e.\n\n\nHereafter, then, we hope no attempts will be made\nby the opposition editor Of this city, the editor OF\nthe Richmond Enquirer, or any other OF the coniede-\nrated editors, to impose upon the people, by putting\ndown the electoral vote of the State OF Maryland Tor\nGeneral Jackson. MAI. Jcnraaf.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1895,
+                    "y0": 289,
+                    "x1": 2687,
+                    "y1": 887
+                }
+            ],
+            "bbox": [
+                1895,
+                289,
+                2687,
+                887
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-10-09_p2_sn83025530_00271740220_1827100901_0211.json"
+        },
+        {
+            "object_ids": [
+                2
+            ],
+            "headline": "",
+            "article": "me Administration members would have. iudis\nphtaD'y, been more numerous, but for the indiscre\nton winch was exhibited in the setting up of SO ma.\nny Gan''i'iates' III opposition to each other 1t is\nwe'll known ttat while the jackson party were 50\nwell organized, thar not more than four candidates\nwere started. III snme instances the Administration\ncandidates we're doable that number. This gave a\naice slinw OF strength to the Opposition, and an\nequally false show Of weakness to the Adm;nistra-\nton. Where there was an unquestionable and a\nconsiderable majority Of friends of the Admnstra\nton IN counaty,it was thus cut up, and rendered\nperfectly inehicent while maturity, juliciously\n\n\nSpeaking on this point, the Baltimore Patriot use\n'he following language, and accompanies it by tn\nstatement Of votes whicl we subjoin\n\n\nHad the friends of the Administration conteste\n\n\nthe election upon the party ground, like their Of\n\n\npnnents. an'l run but four candidates in cucb coui\n\n\n'y, the following additional members might easiI",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1173,
+                    "y0": 4437,
+                    "x1": 1952,
+                    "y1": 5242
+                }
+            ],
+            "bbox": [
+                1173,
+                4437,
+                1952,
+                5242
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-10-09_p2_sn83025530_00271740220_1827100901_0211.json"
+        },
+        {
+            "object_ids": [
+                17,
+                12,
+                3
+            ],
+            "headline": "From The Afassachusetts Journal\nNAVIGATION OF + He MISSISSIPPI",
+            "article": "A correspondent in Tennessee, portion of\nwhose communication has already appeared in our\ncolumns, informs US that among the means resortcd\nto in order poison the minds of the citizens of the\nWestern States against President Adams. is Tie\ncirculation of Jonathan Russell's calumny. that MIR.\nAdams proposed at Ghent, to admit the British to\nthe navigation of the Mississippi tedious\nthe task OF repeating, for the hundredth time, re-\nsaation of this groundess charge, respect to the\nsuggestion of our correspondent induces us to do it.\n\n\nBY the treaty Of 1888. by which the British Go.\nvernment acknowledged our independence, certain\nliberties of fishing and driving fish, within the iuris\ndction OF Great Britain, secured to the Unite,\nStates, and the right of navigating the Mississippi\nvas allowed to the subjects of Great Britain. 'fh\n\n\nHrltish negociators at Client early announced i\nisov commissioners, that the British Guye,nment d",
+            "byline": "uO:O@O:Or 6",
+            "bbox_list": [
+                {
+                    "x0": 671,
+                    "y0": 4407,
+                    "x1": 849,
+                    "y1": 4429
+                },
+                {
+                    "x0": 416,
+                    "y0": 4437,
+                    "x1": 1070,
+                    "y1": 4516
+                },
+                {
+                    "x0": 368,
+                    "y0": 4523,
+                    "x1": 1161,
+                    "y1": 5216
+                }
+            ],
+            "bbox": [
+                368,
+                4407,
+                1161,
+                5216
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-10-09_p2_sn83025530_00271740220_1827100901_0211.json"
+        },
+        {
+            "object_ids": [
+                14,
+                4
+            ],
+            "headline": "From the National Mtellieencer",
+            "article": "Ihe Indian War at an end.--We learn, from\ntraveller. that Col. M'KENNEy, of this CITY, arrived\nal st. Louis onthe 18th September from the Winnie\nbago country. He brought informationto that place\nthat the Red Bird (the principal war Chief Of the\nWnne,bagoes) together with \"A young Brave of the\nsame nand, had been gwen up TO Gen. ATKINSON\nthe Winnebagoes had sued for peace, and had pro,\nmissed to give up all the party which made the attack\non the keel boats, and committed the murders at\nlPrairie-du-Ch Chen, SC,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2094,
+                    "y0": 4774,
+                    "x1": 2631,
+                    "y1": 4819
+                },
+                {
+                    "x0": 1969,
+                    "y0": 4831,
+                    "x1": 2765,
+                    "y1": 5238
+                }
+            ],
+            "bbox": [
+                1969,
+                4774,
+                2765,
+                5238
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-10-09_p2_sn83025530_00271740220_1827100901_0211.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "Put II is time TO tell tie truth and 50 Jar from q\ns;.ng tirpece by concealiigit hnk' her true IN\nsis.'ns viii Ire beaf promoted BY detailing thugs as\n.sy ,e,v'ay aread letting the world know the hopessnd\nr.. tbe wants and resources Of the country. In\n,ea' next will detail to you the public occurrences\nthat shall !ranspre. Iremain yours. truly, ,\n\n\n'\"'s ''N'' [. G. HOWE.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 308,
+                    "y0": 315,
+                    "x1": 1092,
+                    "y1": 610
+                }
+            ],
+            "bbox": [
+                308,
+                315,
+                1092,
+                610
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-10-09_p2_sn83025530_00271740220_1827100901_0211.json"
+        },
+        {
+            "object_ids": [
+                9,
+                6
+            ],
+            "headline": "From the Boston Patriot, October 3D..\n\n\nFROM ENGLAND.",
+            "article": "\n\n\nthis port from Liverpool, whence she sailed on the\ned Of September, London dates to the 3lst August,\nand Liverpool to the st September, have ocen re-\nceiyed. The Greeks have met with some gnou Tor\ntune. Nothing detnre respecting the formation\nofthe new ministry has been decided on\nThe London Morning Chronicle says\" |: IS\nnow finally determined that the MARGINS OF Anglesen\nshall succeed the Marquis Of Wellesley as Lord\nLieutenant of Ireland\" The noble Marquis sue\ncessor at the board Of Ordnance has not yet been\nnamed\n\n\nThe small pox was making dreadful ravages in\nLondon.\n\n\nThe Liverpool Chronicle Of Sept. l says the ac-\ncounts recently received from Portugal are OF ni-\nture to excite appFehensons that the Constitutional\nlists may be defeated, unless they at once receive\nthe most decisive support from England.\n\n\nMeetings have been held in Birmingham and Liv-\nerpoo to decide some token OF respect to the late\nMIR. Canning. At the former an address OF condo\nlence with his Majesty was unanimously agreed to-\nAmonument to Mr. Canning is to be erected at Ilv-\nerpool. About El5o0 have already been subscrb-\ned\n\n\n1t is asserted that Mr.. Cannng's heirs will not\nreceive moro than one tenth part OF the sum crrone-\nously stated to have been left by him, $50, 600.\nThe harvest in England has commenced, and the\nprospect Of its being abundant was very promising\nThe defeat of the Russians by the Pcrsans at LII\nrvian is confirmed. The Russian Cavalry suffered\nseverely.\n\n\nThe troubles in Spain continue, and under date Of\nPerpgnan, Aug. IT, it is stated that degree OF or\nder exists in the assembages OF the insurgents The\ntowns of Campredon, Olot and Rpoli are in thei\noccupation, and the Royalist volunteers are unwll\nlingto go out against them. The rebels it is SAID\nhave their eye OH the fortress of Cardonne, the pos\nsession ofwhich was so valuable to Nina in 1928\nThe government, alarmed at the progress OF the IN\nsurrecton in Catalonia, has given orders to assem-\nBILE 5000 men in the province. Trade was com\npleely interrupted at Barcelona by these disturb\nances. The Apostolical party (alias lnqnsitorial\nhad commenced plundering and leyying contrbu\ntions they had twice approached within League\nof Barcelona, and some OF the Spanish troops lately\nsent against them had joined the standard OF th'\nChurch as it is termed.\n\n\nThe Greek subsistence committee had at its dis\nposal on the first Of June, 9S, 200 Spanish dollars\nbesides ten ship ads of provisions, which woul\narrive after that date. Howitzers, to be mounte\non mules. with skilful engineer, and the means\nmaking powder, had been sent from Marseilles.\n\n\nThe fall of the Acropolis of Athens is attribute\nto the ntrigues oi Austrian agent, aud the tres\ncherry of the French Colonel, Fabvier. No impres\nsion had been made upon it at the time OF il\nsurrender, and it was provsioned for several months\nThe London Globe Of August 27, states that le\nters from Constantlnnple to the 10Th July, AL cor\ncur in one opinion, that whatever may be require\nas to Greece, the Sultan will resist the dctatlon.-\nThe greater number of the writer's contemplate wa\nand express fears that the lives and properties\nthe Franks will be exposed to great danger. Sev\nraj pracies have been committed in the vicinity\nSMYRNA.\n\n\nLeghorn .4Mg. i6.-(Extract Of a private letter\nA letter from the isle Of Zante, dated the 2nd\nAugust, says. Admiral Cochrane after havil\nburnt the Egyptian brig before Alexandria. and ca\nIed terror into the enemy's country has returned\nPoros. Yesterday morning little lrisae of\ncannons, and schooner of the Turkish feet, pass\nour island for the purpose of going to Patros su\ndenly Admiral Cochrane appeared near Scropl,\nwith the Hellas and the Soter (Savior) Phlhell\nbrig about noon IA brisk firing was heard. and\nthe evening we had news of the battle. This mol\ning, early the lIellas was seen bearing up to\nisland along with the Softer, which had in II\nthe enemy's frisate, the Greek flag flying at\nmast head. The Turkish crew had been obliged\nsurrender, after a resisancc of ten minutes. til\nvessel having been greatly damaged by the fire\nthe Heas The Greek sailors were on its de\nenleavorng to repair the injuries it had received\nThe manmast was broken at the place which\nceives it. but it would be easy to mend. i\nGreeks came so near to our port that we were alb\nwith Telescope, TO distinguish the men. As\nthe Turkish schooner, it was taken without hav\nreceived any injury. The Greek vessel sailed\nwards Clarenza. where they will anchor, and ;\nthe schooner by tomorrow morning.\n\n\n-o:oeoo:o\n\n\nTromhhe lLtssacluseHs Journal,\n\n\n",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 403,
+                    "y0": 640,
+                    "x1": 988,
+                    "y1": 723
+                },
+                {
+                    "x0": 295,
+                    "y0": 748,
+                    "x1": 1100,
+                    "y1": 4498
+                }
+            ],
+            "bbox": [
+                295,
+                640,
+                1100,
+                4498
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-10-09_p2_sn83025530_00271740220_1827100901_0211.json"
+        },
+        {
+            "object_ids": [
+                10,
+                15,
+                7
+            ],
+            "headline": "COTT1vTUNICATTONS,\n\nFor The Delaacare Journal.",
+            "article": "in Junk bntte, carefully corked and deposited in\n\n\ncave in Kent, supposed to have been formerly the\n\n\nresidence of some Hermit or solitary recluse From\n\n\ncircumstances, it is supposed to have been deposited\n\n\nthere about the time ol the settlement of this cam\n\n\ntry by our ancestors. What renders it pecua,l,\n\n\ninteresting is the discovery Of it at this ;unctue *\n\n\ntime, when many Of the facts which il seems % ii.\n\n\nlude to- are actually transpirlns Indeed were il\n\n\nnot well known to be otherwise. one would almost\n\n\nbe persuaded to believe it to have been written very\n/ lately\n\n\n\"And, in process Of time, it shall come to pass.\n\n\nthat great nation shall arise in the west, and be\n\n\npeople shall multiply greatly in the land, and thew\n\n\nShall make to themselves constitution and establish\n\n\na form Of government. And the people Of that land\n\n\nshall be happy in their constitution and government,\n\n\nand shall flourish exceedingly. And they shall be\n\n\nattached 10 the principles and examples of the;r\n\n\ngreat founder, and 10 the customs Of their fathers,\n\n\nBut 10 it Shall to pass. that many persons nor\n\n\nHaving the fear of God before their eyes, but beipa\nmoved thereto, and seluect by the instgauns Of\n, BrelZebub, shall 70 about to oyerturn The ark or\n\n\nsafety, and destroy the good works of their fathers\n\n\nAnd they shall say one to another, behold the hiuh\n\n\nplaces in the great Sanhcdrm; they are all filled\n\n\nand 10 ! we are not in them neither do we feed\n\n\nupon upon the loaves and fishes, expected to\nhave done. And then shall they say AMONGST\n\n\nthemselves, go to, let us choose to US leader and\n\n\nlet us no longer adhere to the example of our foun\n\n\nder and the customs Of fathers, for their ways\n. are improbable ways to U.S. and cannot fatteB\nupon them. Then shall they 20 about to- choose\n: them a laader, and they shall counsel amongst\n: themselves, and shall say; 10 the republic Of\n> Greece. it was even this land governed by\nwise and experienced men, and the people were ha.\npy even as the people of this land are happy, but\ncaptain in those days, renowned for deeds Of\n: arms, divided the people amongst themselves and\ny DESTROYED their liberties. And another shall saw\n!, 10, the Roman commonwealth know we not that\nal Rome was mistress of the world and that the peo.\nq pie were great and free, and her government wise\nVI and happy, and know we not that for all these\noi things many Romans were .'aptvated and beguied\ny by the dazzling spendor OF great warrior, under\nh- whom they were enabled to destroy the common.\nle wealth. And another shall say mind ye not our\nng mother Albion She also has been led by milf\ned tary chettain. And then shall be named another\nne example which is not yet come to pass, of great\nnd kingdom the earth which shall ere long fall under\nre its weight, and on its ruins shall republic be-\nH. yin to arise, and she shall send forth her armies\n10 into all the world, and the putena,es Of The earth\nce shall remble upon their thrones, and the friends Of\nng liberty shall rejoice at the rapid march of freedom\n'r- and republican principles but 10, in the midst of\nOF their reolcings faction shall arise, and under the\n'n conduct Of great general of the republican armies\nlb shall sap tile foundation Of the republic. and ii:\n\n\nfruits and infant prospects shall be scattered to the\n\n\nfour winds OF heaven. And when they have reason\nGu ltilSclFtSs ltpH snail neY saw\nh behold the inhabitants of this land are they not csl\nnrs and blood. even were the Greeks and Romans\nan. flesh and blood, and may they not likewise be capt.\nhe waited with military spendor and rcnown? And\nnal then it shall come to pass that they shall with one\nre- accord choose to them military leader, great\nice captain in the hill country Of the west, and famous\n90 for deeds OF arms And then they shall say 10 the\nan, people in the SOUTH and in the west. and ia the\nIII east and in the north hark \" behold the man\nthe WPSt clpHVp him pppn wpr rIpayf\nthc unto him let us make him chief ruler of the land\nal then shall garncrs be filled with corn and ou\n\n\nvessels with wine, and then shall the land be over\nton flowed with milk and honey, and all the markets\nent the earth shall be opened unto us and gold ant\nah. silver shall deluge The land. And many peopl\nour shall be deceived IN those days for AM\ntips it shall come to pass that the man of the west sa\ninc accuse the chief rulers of the land with rauu an\n,or corruption before the people and he shall call upo\nyav one OF the great men Of the land to testify to til\n\n\ntv truth OF the accusation, and then it shall come\nery pass, that the witness shall open his mouth and sha\n,ed. say unto the people that it is not And the\nthe shall the sons OF men be astounGed, and there sha\nave be CONSERVATION in the wigwam. And they sha\nide so forth into the land, even into all the countr.\n\n\nand shall interpret the testimony of the witness\n\n\nand they shall say unto the people that the testm\n\n\nny of the witness does fully verify the accusation\nahN And behold the people throughout all the land sla\ncity marvel at the prentness NJ the lie And mar\naae persons IN divers parts of the land, shall attat\ne 1t themse Ives to the dsahected, and in the fir\nare year the second grand jubilee of the land, it ha\nen- come to pass that the willy spirit shall visit the CT\n'asl- Of Gotham, and few knowing ones of that ci\nt IS shall reason thus among themselves we know I\nlay, great men of Gotham and of this mart Of the cou\nS. ry are pleased with the conduct of tbe great Sa\n] n. hedrim, and they will adhere TO it and support\nWill measures, and we know that they are great\nwing many, and if a'lhere to the same party \"\nnter- them, they will eclipse Us. and our shares of\nthe1 lnavea anI tishpS will ba ,r;.o ILL AID III",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2812,
+                    "y0": 307,
+                    "x1": 3384,
+                    "y1": 359
+                },
+                {
+                    "x0": 2868,
+                    "y0": 389,
+                    "x1": 3319,
+                    "y1": 429
+                },
+                {
+                    "x0": 2686,
+                    "y0": 488,
+                    "x1": 3509,
+                    "y1": 4633
+                }
+            ],
+            "bbox": [
+                2686,
+                307,
+                3509,
+                4633
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-10-09_p2_sn83025530_00271740220_1827100901_0211.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "yuot intend again 10 grand IA .fhdW an eq'aydle'h\nthe fishing privileges within her jurisdiction, which\nwere secured to us under the treaty of 1885. The\nIintrnaton was met by the American Commissioners,\nby the following principle, which they broadly laid\ndown, in letter signed by their entire number\nviz: that from the peculiar nature of the treaty o\n\n\n1888. as treaty of independence, it had not been\nabrogated by the war; that we still enjoyed the\n\n\nfishing privileges, as part of our national lnde-\npendence, and that no grant from the British 60\nvernment was necessary. In pursuance OF this\nprinciple, the American Commissioners on the loth\nof November 1914, sent to the British negoclators\nthe preiet of treaty containing no article OF stpu-\nla,ion on the subject. On the 26th of November\nthe British negociaors returned the proc' with sese\nraj alterations. one Of which that British sub\niects should have access to the river Mississippi and\nthe free navigation ol that river.\n\n\n10 this the American commissioners could not\nin itself object, because it was secured to the Bf\ntisl, bv the treaty Of 1888. which the American\nCommissioners cuntendeu was not abrosaed by the\nwar.\n\n\nIn order, however, not to give the British the ad\n\n\nvantage of any new stipulation, IN the treaty, with\n\n\nout corresponding advantage to America mrs\n\n\nfioHatm proposed to admit into the new treaty the\n\n\nright of the British to navigate the Mississippi, pro\n\n\nuiscd it were Offset by renewed stipulation OF the\nFishing privileges, in favor of America.\nFor this proposal MIR. Gallan, (the mover) Mr.\n\n\nAdams, and Mr. Bayard voted !; against 1t Mr. Clay\n\n\nand Jonathan Russell. The majority being III favor\n\n\nOf it, il was offered the British negocators, and by\n\n\nthem rejected on the ground, no doubt, that while\n\n\nthe fisheries were of immense consequence to US.\n\n\nthe right Of navigating the Mississippi was to them\n\n\nmerely nominal.\n\n\nThe treaty of Client was consequently negotiated\n\n\nwithout any stipulation on the subject.\n\n\ni In the cOny ent0n of 8l8 between the U. States\n* Great Britain, which was negotiated by Mr. Rusl\n\n\nunder the instruction of MIR. Adams, the entire\nfishing interest was satisfactorily adjusted Grea\n! Britain stipulated to the enjsyment OF the essen\n\n\ntal part OF the fishing liberties claimed, and tacitl,\n\n\nrenounced all pretensons to navigate the Missls\n. sipp.\n\n\nSuch is the history Of the caumnious insinuaion\n\n\nthat Mr.. Adams proposed to open the navigation q\n: the Mississippi to Great Britain.\n\n\n!. Muy'and.-The election struggle has termina\nj., ed, in This State, in the entire discontinue of tn\n!, Jackson party. Never were sanguine hope\nJ. of success entertained by any set of men neve\ni were greater efforts made to reduce those hopes\n: reality. Yet all has failed The misrepresentation\nof the Opposition editors have failed the gratultou\ndistribution OF the Telegraph, with its prepared sal\nders, has failed the cry OF prescription has failed\n\n\nthe menace of personal violence has failed the eli\nDorate accusations Drought by the jackson ComD\n\n\nnation against the Administration has miserablv fii\ni ed. Sound views and correct principles have achie\nIl ed the redemption of maryland; and she stant\nnf forth bright example to Virginia, Pennsylyan\n\" North Carolina and the other States, in which CO\nID rect principles are now strongly contending for Vi\n= tory.\n\n\n. !. III the late elections for Maryland, the Oppos\nts ton had a double object to accomplish. The hope\n1 of the Administration and the political existence\n!. Governor Kent were to be laid low at the san\nA. stroke. 1t was regarded essential to the ultima\na success of the Jackson party, that these two ent\nshould be accomplished and the effort was in pr\nr portion to their Importance. The battle has termin\naz ted, and the advocates of General jackson beat\n:. from the field, covered with disgrace and despa\nof The electoral Ticket Of Maryland is now safe f\n\n\nMIR. Adams and we would recommend those Q\nposition editors whohaye been so eager to enlight\nIL US to the electoral votes Of the State to anne\nnu their schedule to that effect.\n\n\n~ The following returns from the several COUNT\n- and cities are believed to be correct\n9nl administration, Jackson\nod Annapolis city, 9 0\na. Baltimore city. 0 2\n~. Baltimore county, 4\nan Hartford, 9\n~ Anne Arundel, .\nm. Montgomery,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1095,
+                    "y0": 281,
+                    "x1": 1892,
+                    "y1": 3824
+                }
+            ],
+            "bbox": [
+                1095,
+                281,
+                1892,
+                3824
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-10-09_p2_sn83025530_00271740220_1827100901_0211.json"
+        },
+        {
+            "object_ids": [
+                13,
+                11
+            ],
+            "headline": "Frcn Tie National MteMgcncCr.",
+            "article": "From tie National Ltelfgcnccr.\n\n\nMore than one Of the Combination prints has had\nthe assurances 10 accuse us ofcalumnatlng Gen. jack\nson in the article wherein we referred to several IN\nccnts in his pubic lie going 10 shew, as we thought,\nil habit of temper and action Incompatible VITA Inc\nhighest civil trust and dignity.\n\n\nThe fact Of this accusation shews they are OF the\nsame onnion as ourselves, that the traits OF charac-\nter there developed arc not such as recommend Gen.\nJackson for the Presidency: fer if they are why DO\nthey fall into violent passion with us for stating\nthem? If they reputable TO HIM as public\nman if they add any thing TO his just fame, or at\nford any promise Of future eminence, why is 1t es-\nteemed calumny in US to develope them?\n\n\nThe only question about these statements. then is\nas to their truth: because, if true, they are not cal\numny, but history-and the allegation Of their be-\ning caumny, only proves the irresistbity of the\nconclusions which flow from them.\n\n\nAs to their truth, then, we aver that they are IN\ndisputabe: that there is not word syllable of\nthem which is not record either in the docu-\nments of the Government in unlisputed news\npaper publications. The statement of Mr.. Lacock,\nreferring to the personal threats Of the General to\ncut of the ears ofmembers Of Congress, copied\nat the time it made with suitable expression OF\ndisgust. by the very prints which now head the Par\nL ty Combination against the principles which they\nonce proclaimed from the house-top. The Rich\nmond Enquirer only three years ago, being several\nyears after his defence Of the Committee Of the Sen\nate, pronounced General Lacock to be \"a man Of\nhigh character man of truth The Editors Of\nthe Richmond Enquirer of course believe every\nthing that MIR. Lacock stated concerning Gen. Jack\nson. Let them come forward, then, and defend the\nthreat to cut of the OF the Senators, and among\nthem, those Of Mr.. Eppes, the late distinguished\nSenator from Virginia, for vcnturng to question the\npublic conduct of Gen. Jackson. Let them defend\nthe other actions quoted by us which they were\namong the first and oudest TO condemn. We chal-\nenge them any Of their present coopcrators, to\n\n\nisprovc title Of the article which they pronounce\nto be calumnous, md which. 50 far from intending\nmalice, was written with reluctance with studied for\nbearance, and under the Indispensable necessity o\n: defending opposition to Gen. Jacksons election\nto which have ever had rooted objections, on pub\nlie and political grounds solely.\n\n\nPENNSYLVANIA GAZETTE.-W this ii\ntie, new daily paper has been established in Phila\nf delphia, by Messrs. Taylor Il Co. formerly editors\nof the Miners Journal. 1t makes very good ap\npearance for dcbuiani, and displays considerable\n5 degree of talents 1t is to be devoted to Interna\n! Improvement, Commercial information, history, re\n/ ports of legislative proceedings of law and polio\nn cases, foreign and domestic news, literary notices\n&c. Such being its plan sit is not intended to en-\nter into the endless cavils and snuosites of pot\nJ. cal discussion.'' From an editorial article in tn\nN first number we extract the following notice of til\nID changes IN Pennsylvania IN tauor Of the present ia\n\n\nnts1eistTatl0n -\n\n\nIS ''It has been repeatedly asserted and as ofte\n\n\ncontradcted, that changes in favor of the presen\n\n\nAdministration of the general government have tax\n\n\nEN- place III the interior OF our state A recent t0u\n\n\nthrough all the principal and most populuus countie\n\n\nin the state, gave US an opportunity Of ascerainin\n\n\nthe truth or faalty OF these reports. This oppo\n\n\ntunty was improved by inquiry made in wa\n\n\ncalculated tn elicit truth without the possibilit\n\n\nof bias and we are enabled to state that in ever\n\n\ncounty and in every town through which we passet\n\n\nfrom Philadelphia to the western extremity OF ii\n\n\nstate, changes in favor of the Administrations ha,\n\n\ntaken place, and IN many districts to very consid\n\n\nrable extent.''\n\n\nCAUTION. Acounterfeit Sloo bill on the U. S. Bar\n\n\nwas detected yesterday morning by one Of our Gil\n\n\nbanks, where 1t was offered for deposte II maf\n\n\npart of Il large remittance from Albany, where\n\n\nwas taken as genuine. AS it is probable there ~\n\n\nmore OF the same kind in in circulation. we will e.\neavor to point out the marks by which it may eas\nly be distinguished from the genuine bills, Ii\nnumbered 1915, dated Philadelphia Sd of Ma\n. 1925, and made payable to the order of Charles\nus West at their Office of discount and teposite in\nr. Orleans, signed n. Bddle, President, 'rhos. w\nia son. Cashier Cast your eye first on the folIowi\ny words Of German Text, in the body Of the counte\nts ~ lett and You will find them spet and put toge\n!es thus :-' C,gice Of discoufatr Drposaen\" This\nION so clumsIl done, that no one who will take the nj\nca caution to look, can be deceived. N. Y paper.\n! From the National HteNgeneer,\nira The Indian TVar at an end--We learn. from\nred traveller. that Col. MKENNEy, of this CITY arry\nSfyl Il tha",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2046,
+                    "y0": 912,
+                    "x1": 2571,
+                    "y1": 956
+                },
+                {
+                    "x0": 1904,
+                    "y0": 912,
+                    "x1": 2718,
+                    "y1": 4931
+                }
+            ],
+            "bbox": [
+                1904,
+                912,
+                2718,
+                4931
+            ],
+            "full_article_id": 12,
+            "id": "12_1827-10-09_p2_sn83025530_00271740220_1827100901_0211.json"
+        }
+    ]
+}

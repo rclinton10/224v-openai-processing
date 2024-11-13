@@ -1,0 +1,778 @@
+{
+    "lccn": {
+        "title": "The Wilmingtonian, and Delaware advertiser.",
+        "geonames_ids": [
+            "4145381"
+        ],
+        "dbpedia_ids": [
+            "Wilmington%2C_Delaware"
+        ],
+        "issn": "2638-1117",
+        "lccn": "sn85042523",
+        "start_year": "1825",
+        "end_year": "1827",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [
+            "sn88053080"
+        ],
+        "successors": [
+            "sn84020426"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn85042523",
+        "edition": "ed-01",
+        "date": "1827-02-22",
+        "pages": [
+            "seq-1",
+            "seq-4",
+            "seq-2",
+            "seq-3"
+        ]
+    },
+    "page_number": "1",
+    "scan": {
+        "lccn": "sn85042523",
+        "edition": "ed-01",
+        "date": "1827-02-22",
+        "page": "1",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn85042523/1827-02-22/ed-1/seq-1.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn85042523/1827-02-22/ed-1/seq-1/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn85042523/1827-02-22/ed-1/seq-1/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/deu_kedavra_ver01/data/sn85042523/00271740244/1827022201/0735.jp2",
+        "height": 5544,
+        "width": 3600
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 756,
+                "y0": 3430,
+                "x1": 1424,
+                "y1": 5484
+            },
+            "class": "article",
+            "raw_text": "These are bitter times, said old Roger\nNorton, as he paced back and forward on the\nlittle green, before his rude cabin, smoking\nhis pipe with a vehemence which to the in\ndwelers of that homely hut, gave sure and\nfearful note that something of alarming i'm\nport was working in his bosom The good\ndame, who had been engaged industriousy\nat the wheel, rose and set it aside, disquiet-\ned by the omen, and beautiful girl Came\nto the broken and decayed window, and\nlooked out with trembling anxiety towards\nthe west The sun was gliding gently down\nbehind appalling masses of thunder clouds,\nwhich were piled up from the horizon, high\nin the mellow bosom of the heavens, and\nfrom the direction of the winds threatened\ntempest OF no ordinary magnitude. The\nshadows of approaching night were already\nfast changing the green mantle of the thick\nforest to one of funeral gloom, and the start\nling screeeh Of the grey owl fell at inter\nwalls on the ear of watchtul anxiety.\n\n\nAt the cottage all was silent-hope and\nfear alternately lighted or shaded each\nchanging brow--as the distant echoes seem\ned to come laden with the tramp of horse\nmen, or the cool dew of evening fell silent\non the diving breeze. At length flash was\nseen in the thickness of the forest and\nsound like the report of distant rifle pealed\nalong the broken hillocks that bounded the\nvalley brook. The aged dame with her\nyoung daughter-n-law and two lovely chill\nslren crowded the door in an instant, and old\nRoger, putting hispipe hastily into his pock-\nct, turned to them, and placed his finger on\nhis lips, as in momentary thought. \"There\nhas been blood spilled on the lowlands to-\nday.\" said he, \"and God knows which par\nty is the victor; we must bear our fate with\npatient suferance; we have put up. our u\nnited prayers for George, and heaven will\ndo right; it becomes us in times like these\nto use all due precauton in warding the\nblow from our own heads The ladies un-\nderstood him, and though Eliza wrung her\nhands and struggled deeply with her feel\nings, when the danger to which her George\nwas exposed, was made known to her, and\nthe thought that he was perhaps now a\ncorpse weltcring in his blood rushed across\nher breast, yet they all went quietly in, and\nassumed such employment as was best CAL\nculated to conceal the interest they took in\nthe passing scenes of war aud bloodshed a\nround them.\n\n\nSituated as they were, in country tra-\nversed successfully by the British and lndi-\nans, secured by the American Foragers, of\ncorps of which old Norton's only son was\nthe commander; they had hitherto conceal",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 903,
+                "y0": 3335,
+                "x1": 1289,
+                "y1": 3388
+            },
+            "class": "headline",
+            "raw_text": "THE FORAGGRS. S.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -2
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 933,
+                "y0": 3391,
+                "x1": 1285,
+                "y1": 3427
+            },
+            "class": "headline",
+            "raw_text": "a Tate ofMe Rerolutt0n.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 71,
+                "y0": 3997,
+                "x1": 744,
+                "y1": 5480
+            },
+            "class": "article",
+            "raw_text": "The observance of the Sabbath claims at\nall times the attention not only OF the lovers\nOF ofreliglon, but of the friends of good order,\nand public virtue. We are not disposed to\nthink that it is falling into neglect, but there\nis certainly lamentable apathy among a.\nvowed christians in regard to the best mode\nOF employing the day, as we'll as visible\nPROCLAMATION of it by the irreigious. The a.\nbuse OF season of rest by deyoting it to\npleasure, and the contempt thrown upon it\nby those who spend the first day of the week\nIN open sloth or in secret business, merit a\nseyerer reproof than can be administered\nthrough the columns OF weekly paper.\nWe would suggest few hints to those who\nprofess to regard the Sabbath as holy time,\nyet are far from spending it in \"the beauty\nOf holiness'\n\n\nhe Sabbath is begun wrong, or rather its\nIoniM encement is postponed as long as pos\nsiole. We know no reason that justites a\nCHRISTIAN in giving an hour to sleep ON SUM-\nuay morning, which he would have spent in\nACTIVE preparation Tor his business, if 1t had\npeen the morning of week day. No one\nWIN pretend that he has right to make ex-\nuaofdlnary exertions, and incur unusual fa-\nusne on Saturday, because he can lie in bed\n~ long as he pleases the next morning. Yet\nI.seems to be the opinion of very many per-\nsol's, that they have this right, or what is still\nworse, that they are at liberty to indulge\nthemselves in sleep on Sabbath mornings,\n\"nether they have, or have not been unusu-\nany occupied on the preceding day. The\nnhractice IN many religious families, both in\nos ose city and country, is, to rise an hour and\no.u o.seh TWO hours later on Sunday than any\n,h;N amer morning. We need not stop to argue\nh. nus Pelnt with religsus men; the habit has\nss eu formed, we presume, without thinking\n~ Ns criminality, and it will be sufficient to\na. .nose who continue In it, where they\n\n\n1oX naEnlsslQp to waste more time on",
+            "legibility": "Questionable",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 175,
+                "y0": 3872,
+                "x1": 644,
+                "y1": 3925
+            },
+            "class": "headline",
+            "raw_text": "TEfE MONITOR.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -2
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 219,
+                "y0": 3945,
+                "x1": 596,
+                "y1": 3990
+            },
+            "class": "headline",
+            "raw_text": "TEE SABBATH.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 760,
+                "y0": 2499,
+                "x1": 1424,
+                "y1": 3301
+            },
+            "class": "article",
+            "raw_text": "Whenever | want to be cXcuisitely hap\npy, call to my recollections the passionate\nemotions which tlrob)ed in the bosom when\nit counted about eighteen summer suns,---\nThe age of romance, fancy and imagination\ntoo often ceases at tfive-andtwenty, but there\nis no pleasure SO exquisite as the first sensa-\ntions which female lovelness excltes in the\nbosom of romantic youth. 1t approaches\nto the ccstacy of higher exstence.-Ihe\nobjects of his thoughts seen afar off is sutfl-\ncient to put hin on flame. The very green\nswarl which she treads acquires the char\nacter of holy ground 1.-The house in which\nShe resides kindles the flame of DEVOTION\nBut how soon all these fine feelings subsde\nin the bosom of man. The flame of love, as\nit is called, is only of short duration in tho\nbreast of the male sex. 1t glows, and flames,\nand burns for few short years on both sides\nof twenty, and then sinks down forever. The\nheart of woman is different. Love and affec,\ntion are the absorbents of her whole exls-\ntence. Man has hundred other objects.",
+            "legibility": "Questionable",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 942,
+                "y0": 2451,
+                "x1": 1246,
+                "y1": 2491
+            },
+            "class": "headline",
+            "raw_text": "YOUTHFUL LIFE.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 132,
+                "y0": 2858,
+                "x1": 744,
+                "y1": 3842
+            },
+            "class": "article",
+            "raw_text": "My heart is like the falling hearth\n\n\nNow by my side\nOne by one its burst of fame\n\n\nHave burnt and died.\nThere are none to watch the sinking blaze,\nAnd none to care,\nOr lfit kndle into strength.\n\n\nOr waste i'll air.\nMy fate is as yon faded wreath\n\n\nof summer fowers;\nThey've spent their store of fragrant health\nOn sunny hours,\nWhich recked them not, which needed not\nWhen they were dead\nOther flowers, unwarn'd by them,\nWill spring instead.\nAnd my own heart is as the lutte\nnow am waking;\nWound to otoo fine and high pitch\nThey both are breaking.\nAnd of their song what memory\n\n\nWill stav behind'\nAn echo, like passing thought,\n\n\nUpon the wind.\nSilence, forgetfulness, and rust,\nLutte, are for thee;\nAnd such my lott neglect, the grave,\nThese are for me.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 357,
+                "y0": 2806,
+                "x1": 471,
+                "y1": 2846
+            },
+            "class": "headline",
+            "raw_text": "SONG.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2791,
+                "y0": 4253,
+                "x1": 3468,
+                "y1": 5480
+            },
+            "class": "article",
+            "raw_text": "The following account of the circumstan~\nces which gave rise to the strange custom OF\nthrowing open the gates of Howth castle, at\nthe first toll of the dinner bell, has been col\nlected in two places, at opposite extremities\nof Ireland; tradition supplying in the one,\nwhat it had left wanting in the other: A.\nbout the middle of the sixth century, Grana\nWaillia, or Grace O'Maley, exercised the\nsame power over the 365 islands of Clew\nBay, which her ancestors had, at an earlier\nperiod, over all Ireland. She possessed a\nmanly mind, and spirit well adapted for the\nwild scene in which she lived, and the rude\nmen whom she governed-had caused much\nbloodshctl, and done many fearful deed ON\nsea and land; but \"none are all evil,o and\nshe also possessed an excess Of high and gem\nerous feeling, which seldom fails, with pos\nteritY at least, to cover q multitude of sins\n\n\nThe ruins of her castle may yet be seen-a\nhuge mass of gray stone, looking tow ards the\nmain land, from the tlesoate island of ST.\nClare, which is at the extremity of the clus.\nter, and apparently formed forn 10 other pur-\npose than t. break the force of the Atlantic\nas it rolls into Clew Bay. There was scarce.\nly a town or village along the western coast,\nwhich had not been at one time or other, Wis.\ntied and plundered in the course of her pi-\nratical excur sions, and as the evil was Sc,\nverely felt so was the outciy proportionablv\ngreat. Still there was no chance of redress.\nexcept from direct appeal from the sove-\nreign, as she was ali-pow werful at sea, an,,\nlived on the best terms of intelligence with\nRichard Bourke, Fisconnt ard Governor g.",
+            "legibility": "Questionable",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 2891,
+                "y0": 4158,
+                "x1": 3347,
+                "y1": 4210
+            },
+            "class": "headline",
+            "raw_text": "GRACE O'yN ALLEY.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -2
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 2904,
+                "y0": 4214,
+                "x1": 3338,
+                "y1": 4245
+            },
+            "class": "author",
+            "raw_text": "AN IRISH TRADITIONAL STORY.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 71,
+                "y0": 805,
+                "x1": 744,
+                "y1": 1365
+            },
+            "class": "article",
+            "raw_text": "J,ER US.-AnyERrIsEM not exceeding\n,ne square will be inserted four times tor one\n,,nlar. and 20 cents for each subsequent inser-\nton. If continued for three months, ~ 5o--ior\ns;x months, s4 50 Or for one yearS8.\n\n\n~ Subscribers arc entitled TO the privilege OF\nhaving their names, place OF residence and occu-\n'TE3 VS. or SUE GBSCRIPi!0M-To those\n.,.,a aracpiye this pupcrby mail, tco dollars, and\n,hose Wn Who not, tro doiiars aaatweaipfrc cents\n-. 80, = ,ny,ScE:Tfnot paid in advance, - 81\nIII, @ 3a charged; and if not paid before the expi-\nraton Of the year, 50. :.\n\n\n- - 1-rSosubscrption will be observation-disclosures\n.wo week,snotice is given and all arrearagesare\npaid",
+            "legibility": "Illegible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1436,
+                "y0": 5071,
+                "x1": 2091,
+                "y1": 5480
+            },
+            "class": "article",
+            "raw_text": "(From I.'Hermite de la Chausee D'Antin.)\nssElle etoit de ce monde ou les plus belle chooses\n\n\nOnt lie pire destin;\n\n\nEt rose, ellie yecu, ceque vivent les roses\nL'espace dun matin.\"\n\n\nservius Sulpicius, endeavoring to console\nCicero for the loss of his daughter, thus adj\ndressed him: \"On my return from Asia\nhaving left Egina on my way to Megara, my\neve rested OH the objects which sulrouned\nme-Megara was behind me; Pir@us lay or\nnv right, and Corinth on my left. How ma",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1522,
+                "y0": 5015,
+                "x1": 2004,
+                "y1": 5059
+            },
+            "class": "headline",
+            "raw_text": "BURIAL OF A YOUNG LADY.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2783,
+                "y0": 805,
+                "x1": 3472,
+                "y1": 4163
+            },
+            "class": "article",
+            "raw_text": "head of the bed, holding the hand OF her\ndaughter--would have surprised me, l had\nnot seen that it was produced by their con-\nfidence in young physician, in Titus wig,\ncurled with the utmost care, who assured\nthem (admiring himself in the mirror while\nhe spoke, and flirting, with the end Of his\nfinger, the remains of pinch of snuff, which\nhad fallen on the frll of his shirt,) that the\nquickness was entirely owing to febrile\nmovement induced by the paroxysm of the\nevening before. / took my leave, feeling\nless confidence in the sounding words of the\ndoctor, than in the prudence of the father,\nand the youth of the patient\n\n\nAfter quitting this scene, business called\nme for few days into the country. On my\nreturn home my porter brought me the let\ntiers which had arrived for me during my\nabsence, amongst these was one Of larger\ndimensions than the others; opened it hast\nlily, and, inscribed on a grey satin paper\nbordered with mournful vignettes, repre-\nsenting the attributes OF death, read the\nwords, .Astend the funeral of Robertine.\"\nthrew myself into carriage, and on arr\nirving at the Hotel de Vilarmont, found the\nfatal draperies of death already hung around.\nItraversed the deserted apartments; has\ntened to the closet of Monsieur de Vilar-\nmont, which found him pacing with length-\nened strides. He saw me, and threw him\nself into my arms. without uttering single\nword. The silent agony of struggle between\nmanly fortitute and overwhelming grief, re-\npulsed all those established consultations Of\nwhich Indifference is always SO prodgal.--\nCome\" said he, after few moments si-\nlence Il have need ofyour assistance to force\nmy wife to quit this house.\" What\nfrightful spectacle Altered itself to my eyes\nin this unfortunate mother Never have\nseen grief under such an agonizing appear\nance. On her knees at the door of her\ndaughters chamber, which force alone pre-\nvented her from entering. She wept not;\nher blood shot eyes were dry, fixed, and va\ncant, \"Robertine, my child\" were the only\nwords which escaped her lips. !, myself,\neiesignedly, resounded this loved name in\nher ear, her tears began to flow again; her\nstrength failed, she tainted away; and we\ntook advantage of this cruel moment, to car\nry her through the garden to the carriage,\ninto which her husband accompanied her,\n| in order to conduct her to the house of\nher father. Ireturned into the parlour, where\nall the friends ofthe family were assembled in\ngloomy silence, preparatory to the funeral\nceremony. The open windows gave us\nview of The great gate of the hotel, where\nwas the coffin, covered with white silver\ntringed drapery and surrounded by twenty\nYoung girls, clothed in white, with their\nI faces covered by long wells, but whose sobs\nand prayers were audible even to our ears.\n| The master of the ceremonies now came to\nacquaint US that all was ready. The body\nhad been placed upon car, draperied like\nthe coffin, OIL which were mounted four\nYoung girs Who held the corners of the\nmortuary pail. and who handed to their\ncompanions the strings of silver with which\nthe coffin was surrounded. The relations,\n| in manner buried under their cloaks of\nGrape, followed on foot, and the numerous\nfriends Of the family, in mourning coaches.\nprolonged the procession, which was closed\nby the servants of the house, clothed in\n| black. Our first stoppage was at the church\nof the Mathurins where the last Offices ofre-\n! ligion were celebrated; after which we pro\ncecded, in the same order to the cemetry of\n| Mont Martre, where, near the tomb where\nsleep the ashes of the Poet of the Seasons,\nst. Lambert, the green turf had been hol-\nlowed, to receive the remains of charming\nbeing, whom heaven appeared to have shown\nto us for few short moments, only to leave\nan eternal regret for her loss.\n\n\nRobertne had no name to transmit to pos\nteritv-her memory belongs exclusively to\nher disconsolate parents, and for that reason\nthey have been content to engrave on the\nstone which conceals her forever from their\nview, the lines of Malherbes, which I have\ncited i'll the commencement of this article.\n\"lom in world, where flowers of farest hue\nFirst fade away;\n\n\nHerself a rose, she lived, as roses do\n\n\nBut tora day.\n\n\n",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 756,
+                "y0": 796,
+                "x1": 1424,
+                "y1": 1707
+            },
+            "class": "article",
+            "raw_text": "1.-THE Lords day than common days, or to\ntake portion of time from the period pc\nculiarly consecrated to religious duties, to\ncompensate for an improper devotion of\nhours to worldly business.\n\n\nThe effect Of this custom of family, is\nhowever worthy of suggestion. Children do\nnot easily learn to stupify their faculties in\nsleep for two or three hours after the sun has\nrisen, and after they wake on the Sabbath,\nfinding those who should be ready to restrain\naud instruct them, still held by slumber,\nthey pass those hours in noise or mischief\nor at least uneasiness. In one part OF the\nhouse is unlawful repose, and in another\npart confusion, and the consequence is that\nthe day, begun wrong, is kept and ended\nwrong, and children grow up with dislike\nof that season, the return of which they\nshould be taught to welcome. They learn\nindeed to follow the example oftheir parents,\nand drown their love of activity in sleep,\nand are thus led in sinful habit which they\ncontinue through life, without perhaps feel\n\n\ning single doubt of its propriety. Their\nfather did so, why should not theys Let\nparents consider this.",
+            "legibility": "Questionable",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 106,
+                "y0": 1463,
+                "x1": 726,
+                "y1": 2768
+            },
+            "class": "article",
+            "raw_text": "~, Halian Peasant Indicating Looe Lettc'\nCome, thou old, unloving scribe,\nThou shalt have noble bribc:\nchoose it-medal, coin, or gem,\nTopaz ring, or coral stem\nTake thy pen and tell my love,\nHow. to earth and heaven above,\nHow, to every sainted maid,\nIhaye watch'tl, and wept and pray'd,\nO'er him, with their wings to stoop,\nWhere he steers his bold chaloupci\nO'er him, in the sullcn night,\nWhen the storm is in its might,\nO'er him, i'll the fearful day,\nWhen the lance and sabre play,\nAnd the soldiers hour is lnol'd,\nStretched upon the sangnine mo.d,\nHim on surge, or him On steea,\nStill to spare, and sil. to Speed\nListen no~i--'I'is vain, lis v,l,A\nWhat can read the burning brAin,\nWhat can tell the thousandth part\nof the agonies heart,\nSecrets that the spirit keeps,\nThoughts on which it wakes and weeps;\nTo the mortal ear unknown,\nKept for night and heaven alone!\nOld man, tell him of the tale\nWritten in this cheek so pale\nWild and often has the tear,\nWash'd the rose that once was there's\nTell him of my heavy sigh,\nDeep as from the lips that die,\nOf my eyes decaying beam,\nLife departing like stream.\nTell him of my weary day,\nBid him, Oh! do all but stay:\nhe would not see my tomb,\nBid him come, and--swiftly come!",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 245,
+                "y0": 1381,
+                "x1": 579,
+                "y1": 1443
+            },
+            "class": "headline",
+            "raw_text": "PQ-EIASYa .",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 760,
+                "y0": 1745,
+                "x1": 1428,
+                "y1": 2422
+            },
+            "class": "article",
+            "raw_text": "Were we not proud ourselves. we should\nseldom complain of the pride of others.\n\n\nIn our reprehensions, pride has greater\nshare than good nature. We reprove not so\nmuch in order to correct, as to intimate that\nwe hold ourselves free from such faiings.\n\n\nNothing is more rare than true good ma\nture. Many who imagine they possess it.,\nnaYe nothing more than a politeness and\ncase,\n\n\nThe rcsolute alone can be truly good ma\ntured; those who commonly seem to be So,\nare weak, and arc easily sourcd.\n\n\nVIC seldom praise those heartily who\nseem rot to admire rs,\n\n\nWhen we seem to blaine ourselves, we\nmean only 20 e.Stor. praise.\n\n\nBY taking revenge man IS bnt even with\nhis enemy: but in passing it o1cr, he is snpe-\nrior.",
+            "legibility": "Questionable",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1431,
+                "y0": 905,
+                "x1": 2104,
+                "y1": 5042
+            },
+            "class": "article",
+            "raw_text": "the vlgilant but cautious measures of George\nNorton insured them protection from the A.\nmercans.\n\n\nThe report that had reused them from their\ntwilight revery, died away, but the sound\nof coming troopers succeeded after a short\ninterval, and in a few minutes their tossing\nplumes were seen dancing along the white\nfences, and approaching the lonely cottage.\nThe old man threw down the bars that led\ninto the yard, and began to throw water in\nto the long trough to supply their horses,\ntrembling all the while in suspense, whether\nhe was about to receive his bosom child, or\nsmooth his brow to smiling welcome of\nmen whose hands, for aught he knew,\n\n\nmight be weltering in his sons blood. The\n| suspense was of momentary duration, the\nfirst who approached him wore the uniform\nof Briton, and his heart sunk within him\nas he reached out his withered hand to\nwelcome him and assisted him in dismount-\ning.\n\n\n! BY this time the whole corps was up, and\nRoger recognized several of his old guests\namong .hem. Some wounded soldiers were\ncarried to the barn, aud the officers, as soon\nas their arrangements were completed with\nout, accepted the apparently cordial invita-\n! ton of the host to share the comforts of the\n\n\nhouse; meantime, the table was spread and\n\n\ndecorated with the best the humble circum-\nstances of the owner could afford. The Of\n/ hcers were eight in number, all hardy, SOL\n1 derly looking men, and, as they threw off\n\n\ntheir heavy swords and caps, and crowded\n\n\nround the hospitabe table, they resumed\nthe conversation it seemed they had lett Oft\n\n\nwhen they first came up. \"Well,' said the\nMajor, Il believe we determined upon all\n| but the time and place of execution. -\n\"And that\" replied sturdy fellow, on the\n| other side, \"s easily arranged; what say YOU\n\n\nto farmer Norton's barn yard, and eight in\nthe morning. just by way of desert, besides,\n| we shall save the rascal's break fast for some\n\n\nbetter fellow\" agreed. agreed, +\" said they\nall. The arrangements were thus made for\n| the execution Of the prisoner, over hearty\nmeal and, when finished. a messenger was\ndespatched to inform him of his fate and bid\n\n\nhim prepare for it.\n\n\nHowever i'll the members Of this little\nfamily concealed their anxiety, in the mean\ntime, their agitation was not discovcred.--\nThe old man pretended to busy himself to\nsuch degree as not to take notice of any\nthing that passed, and Eliza left the room\ndetermined to ascertain the worst, as the\nsuspense in which these proceedings involv-\ncd her, was more cruel than the bitterest\nreality could be. She soon found her saddest\nfears were realized. Her husband was the\nprisoner in whose blood they were to riot on\nthe morrow He was already wounded,\nand was lying on some straw in bar\nrack near the house, guarded by file OF\nsolders.\n\n\n10 accomplish his rescue was now the de-\ntermined purpose OF her soul, though she\nshould sell her life in the attempt. She to K\nher measures accordingly. She observed\nthe officer, who most resembled her in size,\nand whose voice and manner she could easily\ninitiate and took measures to have him 'odg-\ned apart from his companions in little cor\nner room to which she could gain ready ac-\ncess. She ascertained what was the coun-\ntersgn, and having matured her design, re-\ntired unsupported\n\n\nAt the dead hour OF the night, when all\nwas silent AS the grave, save now and then\nthe dull tramp of the sentinels was heard,\nshe stole into the young officers room and\ncarried off his clothes and sword Appar\nelled i'll these, she passed the guard unsus-\npected, and penetrated into the prison of\nher beloved and suffering husband. To ban\nish every shade of suspicion from the guard,\nwhich walked around the barrack, assuming\nthe tone Of the officer she initiated, she ac-\ncosted the PROSTATE victim of revenge with\nopprobious epi,hets, and asked him if his\nneck was ready for the haltar-at the same\ntime endeavoring to make him understand\nwho she was. This unexpected intrusion\nreused up the heroic American; he had re-\nceived his sentence, and had resolved to\nbear it as soldier ought, for his wounds for\nbid the hope of escape. But when he heard\nthe voice which too exactly initiated that of\nhis bitterest foe, his soul kindled to fame.\nand sprnging from the ground he seized the\nhilt of the sword which faint CLEAN of\nmoonlight revealed before him, drew it like\nlightning from its scabbard, and plunged it\nthrough Eiza's heart. She shrieked and\nfeil--while he, with one stroke, severing the\ncords that bound him, leaped into the midst\nof the guard, and three of them fell before\nhim ere his arm was paralyzed by death.\nshot in the head killed him on the spot.\n\n\nThe camp was all alarm. A general rush\nto the scene of blood succeeded, and the\ncause was revealed. Even the wretches\nwho prosecuted theire discriminating warfare\nwith SO little mercy, wept over the heart\nrending scene, and the aged parents were\nleft unmoested. The corpses were inferred\nbeneath green tree in the border of the\nforest together, and the willow tree which\nwas planted by the grave, now spreads its\nbroad top wide over the unlettcred tomb\nstone.\n\n\n--------.-sr----\n\n\n~",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 1509,
+                "y0": 688,
+                "x1": 2069,
+                "y1": 745
+            },
+            "class": "headline",
+            "raw_text": "FEBRUARY 22. le27",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2103,
+                "y0": 900,
+                "x1": 2784,
+                "y1": 5055
+            },
+            "class": "article",
+            "raw_text": "ceived that a man should suffer himself to\nbe overcome by the loss of child\" These\nreflections, however just-however philo-\nsophical-tlid not console the father of Tul\nliza; because, there are sorrows over which\nreason has no power, and tears which time\nalone can dry.\n\n\nDuring my career of life, I have frequent\nly seen my companions fall by my side-my\nbrothers in arms-whose loss l have most\ndeeply deplored; but, in recalling to my\nmind those ideas of glory, that hereditary\nfame, which SO peculiarly endears the mem\ncries of heroes who have fallen in the field of\nhonour, and rejecting that nothing was left\nfor me, but an infirm old age, and an obscure\ngrave, ! have frequently been tempted to\nenvy those whose names are immortalized\nby their very deaths Every day takes from\nme some old friend-some companion, of an\nage equally advanced with myself regret\nthem, but without murmuring, in the words\nof Montague, their lamp of life had burnt\nto the socket; death is the immediate con-\nsequence of protracted old age. But, when\nyoung girl, just entering the portals of life\nfor whom heaven appears to have III store\na long series of happy years, on whom ma\nture has lavished all her most precious gifts\n\n\nand whom birth and fortune have surround\n\n\ned with their most brilliant delusions--when\n\n\na being such as this is torn from the EN-.\nbraces of her mother, the hopes of her family,\nand the expectations OF love, there is i'll this\ncruel decree of fate, a kind of subvcrsion Of\nthe general laws of natlre--an assembage\nOF contradictory circumstances, ldeaz and\n\n\ncXpres ssions at which the senses sicken, and\nthe hearts break. Such is the event to which\n\n\n| have alluded in the title of this article, and\nofwhch, during this short depression, have\nrot lost sight.\n\n\n/ Robertne de Nilarmont was the daughter\nofa brave companion in arms of the gallant\n\n\nDe Sufireen, who by twenty years nf glori-\n\n\nGUS toll, had acquired an undoubted right to\nenjoy in the bosom of his family, an ample\npatrimonial estate, to which he has added lit\n\n\ntle,or nothing by his services. He still rcckon-\ned among hisimpertlve duties, that of educat-\n\n\ning his son for the service of his country, and\nofbringing up his daughtcrto become the re-\n\n\nward of some young soldier, who, by\nhis name, his rank, and his merit should\nshow himself worthy OF such recompcnse.-\n! | had known NJ. de Vilarmont in the East\n| Indies.-A1uch Younger than ME, his father\nhad consigned him to my care; as to that of\na Mentor, and our relations of friendship\nhave never since been interrupted. 1t is\ntwo years since accompanied him to Roch\n\n\netort, when he went thither to enter his son\nas a midshipman, on the quarter deck of\nvessel which he had himself commanded,\nand at whose masthead the grandfather of\nthe young man had thirty years before,\n! hosted the flag of vice-admiral. This reg\nular descent of glory, was good omen. and\n/ accordingly our young Leon, as a reward\nfor gallant action, has already received the\ndecoration of the brave.\n\n\n/ r., L.\nreached her fifteenth year. Educated with\n/ the tenderest care, under the eye of the\nmost af1'ectionate of mothers, she was alrea-\n\n\nly remarked as the model Of every rersec-\nton. 1t was the first season that the young\nRobertine had appeared in the world; and all\neyes were turned upon her, and her delight\n\n\ned mother enjoyed, with too much con-\n/ fidence. (why may | not say with too much\npride') the brilliant success which her\ndaughter met with at all concerts and balls,\nof which she formed at once the principal\nobject ard the chief ornament. The birth\n\n\nday of Mademoisel!c de Vlarnnnt had been\ncelebrated by brillilnt tete at the house of\nher maternal grandfather, at which she had\nmade the deepest impression by the charms\nOf her person, and the proofs which she had\ngiven of the superiority Of her talents, which\nher interesting modestv set off with double\nI, splendour. Monsieurde Niarmont had been\nprevented from accompanying the ladies,\nwhom he had, therefore entrusted to my\ncare; and during the whole continuance of\nthe ball, which encroached far into the morn\n| ing, had ofliciated as gentleman N waiting\non the fair Robertine; I held her fan and her\niandk erchef while she danced; | led her\nback to her place, and took particular care\nto cover her with her shawl, as soon as the\ncountry dance was concluded. ] was under\nthe same charm which had enchanted every\none around me. How suddenly and how\ndreadfully was it to be dispelled 1t was\nO'Clock when the party broke up-Rober-\ntine had danced in the last set--her mother\nwished that she should sit down little while\nto cool herself; but with shawl, wrapping\ncloak lined with fur, and a well closed car\nriage, what danger, could possibly be ap\nprehendetls On our going down stairs, the\ncoachmau was not with his horses; and\nwhile the servants went in search of him,\nwe had to wait some minutes in freezing\nhall, Gan inconvenience very general in Paris.\nand from which even her palaces are not ex-\nempt) Atlast the carriage drove up, Mad\nanne de Nilarmont set me down at home, and\nthe lovely Robertine, in bidding me good\nnight, added, that she could not do without.\nme, and that she retained me as her escort\nto all the balls the next season. \"lf am\nalive\" answered |, \"but, next year is\nIop,r ,yb e., oil it~ IN l6pk",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                16,
+                24,
+                0
+            ],
+            "headline": "THE FORAGGRS. S.\n\na Tate ofMe Rerolutt0n.",
+            "article": "These are bitter times, said old Roger\nNorton, as he paced back and forward on the\nlittle green, before his rude cabin, smoking\nhis pipe with a vehemence which to the in\ndwelers of that homely hut, gave sure and\nfearful note that something of alarming i'm\nport was working in his bosom The good\ndame, who had been engaged industriousy\nat the wheel, rose and set it aside, disquiet-\ned by the omen, and beautiful girl Came\nto the broken and decayed window, and\nlooked out with trembling anxiety towards\nthe west The sun was gliding gently down\nbehind appalling masses of thunder clouds,\nwhich were piled up from the horizon, high\nin the mellow bosom of the heavens, and\nfrom the direction of the winds threatened\ntempest OF no ordinary magnitude. The\nshadows of approaching night were already\nfast changing the green mantle of the thick\nforest to one of funeral gloom, and the start\nling screeeh Of the grey owl fell at inter\nwalls on the ear of watchtul anxiety.\n\n\nAt the cottage all was silent-hope and\nfear alternately lighted or shaded each\nchanging brow--as the distant echoes seem\ned to come laden with the tramp of horse\nmen, or the cool dew of evening fell silent\non the diving breeze. At length flash was\nseen in the thickness of the forest and\nsound like the report of distant rifle pealed\nalong the broken hillocks that bounded the\nvalley brook. The aged dame with her\nyoung daughter-n-law and two lovely chill\nslren crowded the door in an instant, and old\nRoger, putting hispipe hastily into his pock-\nct, turned to them, and placed his finger on\nhis lips, as in momentary thought. \"There\nhas been blood spilled on the lowlands to-\nday.\" said he, \"and God knows which par\nty is the victor; we must bear our fate with\npatient suferance; we have put up. our u\nnited prayers for George, and heaven will\ndo right; it becomes us in times like these\nto use all due precauton in warding the\nblow from our own heads The ladies un-\nderstood him, and though Eliza wrung her\nhands and struggled deeply with her feel\nings, when the danger to which her George\nwas exposed, was made known to her, and\nthe thought that he was perhaps now a\ncorpse weltcring in his blood rushed across\nher breast, yet they all went quietly in, and\nassumed such employment as was best CAL\nculated to conceal the interest they took in\nthe passing scenes of war aud bloodshed a\nround them.\n\n\nSituated as they were, in country tra-\nversed successfully by the British and lndi-\nans, secured by the American Foragers, of\ncorps of which old Norton's only son was\nthe commander; they had hitherto conceal",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 903,
+                    "y0": 3335,
+                    "x1": 1289,
+                    "y1": 3388
+                },
+                {
+                    "x0": 933,
+                    "y0": 3391,
+                    "x1": 1285,
+                    "y1": 3427
+                },
+                {
+                    "x0": 756,
+                    "y0": 3430,
+                    "x1": 1424,
+                    "y1": 5484
+                }
+            ],
+            "bbox": [
+                756,
+                3335,
+                1424,
+                5484
+            ],
+            "full_article_id": 1,
+            "id": "1_1827-02-22_p1_sn85042523_00271740244_1827022201_0735.json"
+        },
+        {
+            "object_ids": [
+                14,
+                20,
+                1
+            ],
+            "headline": "TEfE MONITOR.\n\nTEE SABBATH.",
+            "article": "The observance of the Sabbath claims at\nall times the attention not only OF the lovers\nOF ofreliglon, but of the friends of good order,\nand public virtue. We are not disposed to\nthink that it is falling into neglect, but there\nis certainly lamentable apathy among a.\nvowed christians in regard to the best mode\nOF employing the day, as we'll as visible\nPROCLAMATION of it by the irreigious. The a.\nbuse OF season of rest by deyoting it to\npleasure, and the contempt thrown upon it\nby those who spend the first day of the week\nIN open sloth or in secret business, merit a\nseyerer reproof than can be administered\nthrough the columns OF weekly paper.\nWe would suggest few hints to those who\nprofess to regard the Sabbath as holy time,\nyet are far from spending it in \"the beauty\nOf holiness'\n\n\nhe Sabbath is begun wrong, or rather its\nIoniM encement is postponed as long as pos\nsiole. We know no reason that justites a\nCHRISTIAN in giving an hour to sleep ON SUM-\nuay morning, which he would have spent in\nACTIVE preparation Tor his business, if 1t had\npeen the morning of week day. No one\nWIN pretend that he has right to make ex-\nuaofdlnary exertions, and incur unusual fa-\nusne on Saturday, because he can lie in bed\n~ long as he pleases the next morning. Yet\nI.seems to be the opinion of very many per-\nsol's, that they have this right, or what is still\nworse, that they are at liberty to indulge\nthemselves in sleep on Sabbath mornings,\n\"nether they have, or have not been unusu-\nany occupied on the preceding day. The\nnhractice IN many religious families, both in\nos ose city and country, is, to rise an hour and\no.u o.seh TWO hours later on Sunday than any\n,h;N amer morning. We need not stop to argue\nh. nus Pelnt with religsus men; the habit has\nss eu formed, we presume, without thinking\n~ Ns criminality, and it will be sufficient to\na. .nose who continue In it, where they\n\n\n1oX naEnlsslQp to waste more time on",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 175,
+                    "y0": 3872,
+                    "x1": 644,
+                    "y1": 3925
+                },
+                {
+                    "x0": 219,
+                    "y0": 3945,
+                    "x1": 596,
+                    "y1": 3990
+                },
+                {
+                    "x0": 71,
+                    "y0": 3997,
+                    "x1": 744,
+                    "y1": 5480
+                }
+            ],
+            "bbox": [
+                71,
+                3872,
+                744,
+                5480
+            ],
+            "full_article_id": 2,
+            "id": "2_1827-02-22_p1_sn85042523_00271740244_1827022201_0735.json"
+        },
+        {
+            "object_ids": [
+                21,
+                2
+            ],
+            "headline": "YOUTHFUL LIFE.",
+            "article": "Whenever | want to be cXcuisitely hap\npy, call to my recollections the passionate\nemotions which tlrob)ed in the bosom when\nit counted about eighteen summer suns,---\nThe age of romance, fancy and imagination\ntoo often ceases at tfive-andtwenty, but there\nis no pleasure SO exquisite as the first sensa-\ntions which female lovelness excltes in the\nbosom of romantic youth. 1t approaches\nto the ccstacy of higher exstence.-Ihe\nobjects of his thoughts seen afar off is sutfl-\ncient to put hin on flame. The very green\nswarl which she treads acquires the char\nacter of holy ground 1.-The house in which\nShe resides kindles the flame of DEVOTION\nBut how soon all these fine feelings subsde\nin the bosom of man. The flame of love, as\nit is called, is only of short duration in tho\nbreast of the male sex. 1t glows, and flames,\nand burns for few short years on both sides\nof twenty, and then sinks down forever. The\nheart of woman is different. Love and affec,\ntion are the absorbents of her whole exls-\ntence. Man has hundred other objects.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 942,
+                    "y0": 2451,
+                    "x1": 1246,
+                    "y1": 2491
+                },
+                {
+                    "x0": 760,
+                    "y0": 2499,
+                    "x1": 1424,
+                    "y1": 3301
+                }
+            ],
+            "bbox": [
+                760,
+                2451,
+                1424,
+                3301
+            ],
+            "full_article_id": 3,
+            "id": "3_1827-02-22_p1_sn85042523_00271740244_1827022201_0735.json"
+        },
+        {
+            "object_ids": [
+                19,
+                3
+            ],
+            "headline": "SONG.",
+            "article": "My heart is like the falling hearth\n\n\nNow by my side\nOne by one its burst of fame\n\n\nHave burnt and died.\nThere are none to watch the sinking blaze,\nAnd none to care,\nOr lfit kndle into strength.\n\n\nOr waste i'll air.\nMy fate is as yon faded wreath\n\n\nof summer fowers;\nThey've spent their store of fragrant health\nOn sunny hours,\nWhich recked them not, which needed not\nWhen they were dead\nOther flowers, unwarn'd by them,\nWill spring instead.\nAnd my own heart is as the lutte\nnow am waking;\nWound to otoo fine and high pitch\nThey both are breaking.\nAnd of their song what memory\n\n\nWill stav behind'\nAn echo, like passing thought,\n\n\nUpon the wind.\nSilence, forgetfulness, and rust,\nLutte, are for thee;\nAnd such my lott neglect, the grave,\nThese are for me.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 357,
+                    "y0": 2806,
+                    "x1": 471,
+                    "y1": 2846
+                },
+                {
+                    "x0": 132,
+                    "y0": 2858,
+                    "x1": 744,
+                    "y1": 3842
+                }
+            ],
+            "bbox": [
+                132,
+                2806,
+                744,
+                3842
+            ],
+            "full_article_id": 4,
+            "id": "4_1827-02-22_p1_sn85042523_00271740244_1827022201_0735.json"
+        },
+        {
+            "object_ids": [
+                18,
+                22,
+                4
+            ],
+            "headline": "GRACE O'yN ALLEY.",
+            "article": "The following account of the circumstan~\nces which gave rise to the strange custom OF\nthrowing open the gates of Howth castle, at\nthe first toll of the dinner bell, has been col\nlected in two places, at opposite extremities\nof Ireland; tradition supplying in the one,\nwhat it had left wanting in the other: A.\nbout the middle of the sixth century, Grana\nWaillia, or Grace O'Maley, exercised the\nsame power over the 365 islands of Clew\nBay, which her ancestors had, at an earlier\nperiod, over all Ireland. She possessed a\nmanly mind, and spirit well adapted for the\nwild scene in which she lived, and the rude\nmen whom she governed-had caused much\nbloodshctl, and done many fearful deed ON\nsea and land; but \"none are all evil,o and\nshe also possessed an excess Of high and gem\nerous feeling, which seldom fails, with pos\nteritY at least, to cover q multitude of sins\n\n\nThe ruins of her castle may yet be seen-a\nhuge mass of gray stone, looking tow ards the\nmain land, from the tlesoate island of ST.\nClare, which is at the extremity of the clus.\nter, and apparently formed forn 10 other pur-\npose than t. break the force of the Atlantic\nas it rolls into Clew Bay. There was scarce.\nly a town or village along the western coast,\nwhich had not been at one time or other, Wis.\ntied and plundered in the course of her pi-\nratical excur sions, and as the evil was Sc,\nverely felt so was the outciy proportionablv\ngreat. Still there was no chance of redress.\nexcept from direct appeal from the sove-\nreign, as she was ali-pow werful at sea, an,,\nlived on the best terms of intelligence with\nRichard Bourke, Fisconnt ard Governor g.",
+            "byline": "AN IRISH TRADITIONAL STORY.",
+            "bbox_list": [
+                {
+                    "x0": 2891,
+                    "y0": 4158,
+                    "x1": 3347,
+                    "y1": 4210
+                },
+                {
+                    "x0": 2904,
+                    "y0": 4214,
+                    "x1": 3338,
+                    "y1": 4245
+                },
+                {
+                    "x0": 2791,
+                    "y0": 4253,
+                    "x1": 3468,
+                    "y1": 5480
+                }
+            ],
+            "bbox": [
+                2791,
+                4158,
+                3468,
+                5480
+            ],
+            "full_article_id": 5,
+            "id": "5_1827-02-22_p1_sn85042523_00271740244_1827022201_0735.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "J,ER US.-AnyERrIsEM not exceeding\n,ne square will be inserted four times tor one\n,,nlar. and 20 cents for each subsequent inser-\nton. If continued for three months, ~ 5o--ior\ns;x months, s4 50 Or for one yearS8.\n\n\n~ Subscribers arc entitled TO the privilege OF\nhaving their names, place OF residence and occu-\n'TE3 VS. or SUE GBSCRIPi!0M-To those\n.,.,a aracpiye this pupcrby mail, tco dollars, and\n,hose Wn Who not, tro doiiars aaatweaipfrc cents\n-. 80, = ,ny,ScE:Tfnot paid in advance, - 81\nIII, @ 3a charged; and if not paid before the expi-\nraton Of the year, 50. :.\n\n\n- - 1-rSosubscrption will be observation-disclosures\n.wo week,snotice is given and all arrearagesare\npaid",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 71,
+                    "y0": 805,
+                    "x1": 744,
+                    "y1": 1365
+                }
+            ],
+            "bbox": [
+                71,
+                805,
+                744,
+                1365
+            ],
+            "full_article_id": 6,
+            "id": "6_1827-02-22_p1_sn85042523_00271740244_1827022201_0735.json"
+        },
+        {
+            "object_ids": [
+                17,
+                6
+            ],
+            "headline": "BURIAL OF A YOUNG LADY.",
+            "article": "(From I.'Hermite de la Chausee D'Antin.)\nssElle etoit de ce monde ou les plus belle chooses\n\n\nOnt lie pire destin;\n\n\nEt rose, ellie yecu, ceque vivent les roses\nL'espace dun matin.\"\n\n\nservius Sulpicius, endeavoring to console\nCicero for the loss of his daughter, thus adj\ndressed him: \"On my return from Asia\nhaving left Egina on my way to Megara, my\neve rested OH the objects which sulrouned\nme-Megara was behind me; Pir@us lay or\nnv right, and Corinth on my left. How ma",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1522,
+                    "y0": 5015,
+                    "x1": 2004,
+                    "y1": 5059
+                },
+                {
+                    "x0": 1436,
+                    "y0": 5071,
+                    "x1": 2091,
+                    "y1": 5480
+                }
+            ],
+            "bbox": [
+                1436,
+                5015,
+                2091,
+                5480
+            ],
+            "full_article_id": 7,
+            "id": "7_1827-02-22_p1_sn85042523_00271740244_1827022201_0735.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "head of the bed, holding the hand OF her\ndaughter--would have surprised me, l had\nnot seen that it was produced by their con-\nfidence in young physician, in Titus wig,\ncurled with the utmost care, who assured\nthem (admiring himself in the mirror while\nhe spoke, and flirting, with the end Of his\nfinger, the remains of pinch of snuff, which\nhad fallen on the frll of his shirt,) that the\nquickness was entirely owing to febrile\nmovement induced by the paroxysm of the\nevening before. / took my leave, feeling\nless confidence in the sounding words of the\ndoctor, than in the prudence of the father,\nand the youth of the patient\n\n\nAfter quitting this scene, business called\nme for few days into the country. On my\nreturn home my porter brought me the let\ntiers which had arrived for me during my\nabsence, amongst these was one Of larger\ndimensions than the others; opened it hast\nlily, and, inscribed on a grey satin paper\nbordered with mournful vignettes, repre-\nsenting the attributes OF death, read the\nwords, .Astend the funeral of Robertine.\"\nthrew myself into carriage, and on arr\nirving at the Hotel de Vilarmont, found the\nfatal draperies of death already hung around.\nItraversed the deserted apartments; has\ntened to the closet of Monsieur de Vilar-\nmont, which found him pacing with length-\nened strides. He saw me, and threw him\nself into my arms. without uttering single\nword. The silent agony of struggle between\nmanly fortitute and overwhelming grief, re-\npulsed all those established consultations Of\nwhich Indifference is always SO prodgal.--\nCome\" said he, after few moments si-\nlence Il have need ofyour assistance to force\nmy wife to quit this house.\" What\nfrightful spectacle Altered itself to my eyes\nin this unfortunate mother Never have\nseen grief under such an agonizing appear\nance. On her knees at the door of her\ndaughters chamber, which force alone pre-\nvented her from entering. She wept not;\nher blood shot eyes were dry, fixed, and va\ncant, \"Robertine, my child\" were the only\nwords which escaped her lips. !, myself,\neiesignedly, resounded this loved name in\nher ear, her tears began to flow again; her\nstrength failed, she tainted away; and we\ntook advantage of this cruel moment, to car\nry her through the garden to the carriage,\ninto which her husband accompanied her,\n| in order to conduct her to the house of\nher father. Ireturned into the parlour, where\nall the friends ofthe family were assembled in\ngloomy silence, preparatory to the funeral\nceremony. The open windows gave us\nview of The great gate of the hotel, where\nwas the coffin, covered with white silver\ntringed drapery and surrounded by twenty\nYoung girls, clothed in white, with their\nI faces covered by long wells, but whose sobs\nand prayers were audible even to our ears.\n| The master of the ceremonies now came to\nacquaint US that all was ready. The body\nhad been placed upon car, draperied like\nthe coffin, OIL which were mounted four\nYoung girs Who held the corners of the\nmortuary pail. and who handed to their\ncompanions the strings of silver with which\nthe coffin was surrounded. The relations,\n| in manner buried under their cloaks of\nGrape, followed on foot, and the numerous\nfriends Of the family, in mourning coaches.\nprolonged the procession, which was closed\nby the servants of the house, clothed in\n| black. Our first stoppage was at the church\nof the Mathurins where the last Offices ofre-\n! ligion were celebrated; after which we pro\ncecded, in the same order to the cemetry of\n| Mont Martre, where, near the tomb where\nsleep the ashes of the Poet of the Seasons,\nst. Lambert, the green turf had been hol-\nlowed, to receive the remains of charming\nbeing, whom heaven appeared to have shown\nto us for few short moments, only to leave\nan eternal regret for her loss.\n\n\nRobertne had no name to transmit to pos\nteritv-her memory belongs exclusively to\nher disconsolate parents, and for that reason\nthey have been content to engrave on the\nstone which conceals her forever from their\nview, the lines of Malherbes, which I have\ncited i'll the commencement of this article.\n\"lom in world, where flowers of farest hue\nFirst fade away;\n\n\nHerself a rose, she lived, as roses do\n\n\nBut tora day.\n\n\n",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2783,
+                    "y0": 805,
+                    "x1": 3472,
+                    "y1": 4163
+                }
+            ],
+            "bbox": [
+                2783,
+                805,
+                3472,
+                4163
+            ],
+            "full_article_id": 8,
+            "id": "8_1827-02-22_p1_sn85042523_00271740244_1827022201_0735.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "1.-THE Lords day than common days, or to\ntake portion of time from the period pc\nculiarly consecrated to religious duties, to\ncompensate for an improper devotion of\nhours to worldly business.\n\n\nThe effect Of this custom of family, is\nhowever worthy of suggestion. Children do\nnot easily learn to stupify their faculties in\nsleep for two or three hours after the sun has\nrisen, and after they wake on the Sabbath,\nfinding those who should be ready to restrain\naud instruct them, still held by slumber,\nthey pass those hours in noise or mischief\nor at least uneasiness. In one part OF the\nhouse is unlawful repose, and in another\npart confusion, and the consequence is that\nthe day, begun wrong, is kept and ended\nwrong, and children grow up with dislike\nof that season, the return of which they\nshould be taught to welcome. They learn\nindeed to follow the example oftheir parents,\nand drown their love of activity in sleep,\nand are thus led in sinful habit which they\ncontinue through life, without perhaps feel\n\n\ning single doubt of its propriety. Their\nfather did so, why should not theys Let\nparents consider this.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 756,
+                    "y0": 796,
+                    "x1": 1424,
+                    "y1": 1707
+                }
+            ],
+            "bbox": [
+                756,
+                796,
+                1424,
+                1707
+            ],
+            "full_article_id": 9,
+            "id": "9_1827-02-22_p1_sn85042523_00271740244_1827022201_0735.json"
+        },
+        {
+            "object_ids": [
+                15,
+                9
+            ],
+            "headline": "PQ-EIASYa .",
+            "article": "~, Halian Peasant Indicating Looe Lettc'\nCome, thou old, unloving scribe,\nThou shalt have noble bribc:\nchoose it-medal, coin, or gem,\nTopaz ring, or coral stem\nTake thy pen and tell my love,\nHow. to earth and heaven above,\nHow, to every sainted maid,\nIhaye watch'tl, and wept and pray'd,\nO'er him, with their wings to stoop,\nWhere he steers his bold chaloupci\nO'er him, in the sullcn night,\nWhen the storm is in its might,\nO'er him, i'll the fearful day,\nWhen the lance and sabre play,\nAnd the soldiers hour is lnol'd,\nStretched upon the sangnine mo.d,\nHim on surge, or him On steea,\nStill to spare, and sil. to Speed\nListen no~i--'I'is vain, lis v,l,A\nWhat can read the burning brAin,\nWhat can tell the thousandth part\nof the agonies heart,\nSecrets that the spirit keeps,\nThoughts on which it wakes and weeps;\nTo the mortal ear unknown,\nKept for night and heaven alone!\nOld man, tell him of the tale\nWritten in this cheek so pale\nWild and often has the tear,\nWash'd the rose that once was there's\nTell him of my heavy sigh,\nDeep as from the lips that die,\nOf my eyes decaying beam,\nLife departing like stream.\nTell him of my weary day,\nBid him, Oh! do all but stay:\nhe would not see my tomb,\nBid him come, and--swiftly come!",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 245,
+                    "y0": 1381,
+                    "x1": 579,
+                    "y1": 1443
+                },
+                {
+                    "x0": 106,
+                    "y0": 1463,
+                    "x1": 726,
+                    "y1": 2768
+                }
+            ],
+            "bbox": [
+                106,
+                1381,
+                726,
+                2768
+            ],
+            "full_article_id": 10,
+            "id": "10_1827-02-22_p1_sn85042523_00271740244_1827022201_0735.json"
+        },
+        {
+            "object_ids": [
+                10
+            ],
+            "headline": "",
+            "article": "Were we not proud ourselves. we should\nseldom complain of the pride of others.\n\n\nIn our reprehensions, pride has greater\nshare than good nature. We reprove not so\nmuch in order to correct, as to intimate that\nwe hold ourselves free from such faiings.\n\n\nNothing is more rare than true good ma\nture. Many who imagine they possess it.,\nnaYe nothing more than a politeness and\ncase,\n\n\nThe rcsolute alone can be truly good ma\ntured; those who commonly seem to be So,\nare weak, and arc easily sourcd.\n\n\nVIC seldom praise those heartily who\nseem rot to admire rs,\n\n\nWhen we seem to blaine ourselves, we\nmean only 20 e.Stor. praise.\n\n\nBY taking revenge man IS bnt even with\nhis enemy: but in passing it o1cr, he is snpe-\nrior.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 760,
+                    "y0": 1745,
+                    "x1": 1428,
+                    "y1": 2422
+                }
+            ],
+            "bbox": [
+                760,
+                1745,
+                1428,
+                2422
+            ],
+            "full_article_id": 11,
+            "id": "11_1827-02-22_p1_sn85042523_00271740244_1827022201_0735.json"
+        },
+        {
+            "object_ids": [
+                23,
+                11
+            ],
+            "headline": "FEBRUARY 22. le27",
+            "article": "the vlgilant but cautious measures of George\nNorton insured them protection from the A.\nmercans.\n\n\nThe report that had reused them from their\ntwilight revery, died away, but the sound\nof coming troopers succeeded after a short\ninterval, and in a few minutes their tossing\nplumes were seen dancing along the white\nfences, and approaching the lonely cottage.\nThe old man threw down the bars that led\ninto the yard, and began to throw water in\nto the long trough to supply their horses,\ntrembling all the while in suspense, whether\nhe was about to receive his bosom child, or\nsmooth his brow to smiling welcome of\nmen whose hands, for aught he knew,\n\n\nmight be weltering in his sons blood. The\n| suspense was of momentary duration, the\nfirst who approached him wore the uniform\nof Briton, and his heart sunk within him\nas he reached out his withered hand to\nwelcome him and assisted him in dismount-\ning.\n\n\n! BY this time the whole corps was up, and\nRoger recognized several of his old guests\namong .hem. Some wounded soldiers were\ncarried to the barn, aud the officers, as soon\nas their arrangements were completed with\nout, accepted the apparently cordial invita-\n! ton of the host to share the comforts of the\n\n\nhouse; meantime, the table was spread and\n\n\ndecorated with the best the humble circum-\nstances of the owner could afford. The Of\n/ hcers were eight in number, all hardy, SOL\n1 derly looking men, and, as they threw off\n\n\ntheir heavy swords and caps, and crowded\n\n\nround the hospitabe table, they resumed\nthe conversation it seemed they had lett Oft\n\n\nwhen they first came up. \"Well,' said the\nMajor, Il believe we determined upon all\n| but the time and place of execution. -\n\"And that\" replied sturdy fellow, on the\n| other side, \"s easily arranged; what say YOU\n\n\nto farmer Norton's barn yard, and eight in\nthe morning. just by way of desert, besides,\n| we shall save the rascal's break fast for some\n\n\nbetter fellow\" agreed. agreed, +\" said they\nall. The arrangements were thus made for\n| the execution Of the prisoner, over hearty\nmeal and, when finished. a messenger was\ndespatched to inform him of his fate and bid\n\n\nhim prepare for it.\n\n\nHowever i'll the members Of this little\nfamily concealed their anxiety, in the mean\ntime, their agitation was not discovcred.--\nThe old man pretended to busy himself to\nsuch degree as not to take notice of any\nthing that passed, and Eliza left the room\ndetermined to ascertain the worst, as the\nsuspense in which these proceedings involv-\ncd her, was more cruel than the bitterest\nreality could be. She soon found her saddest\nfears were realized. Her husband was the\nprisoner in whose blood they were to riot on\nthe morrow He was already wounded,\nand was lying on some straw in bar\nrack near the house, guarded by file OF\nsolders.\n\n\n10 accomplish his rescue was now the de-\ntermined purpose OF her soul, though she\nshould sell her life in the attempt. She to K\nher measures accordingly. She observed\nthe officer, who most resembled her in size,\nand whose voice and manner she could easily\ninitiate and took measures to have him 'odg-\ned apart from his companions in little cor\nner room to which she could gain ready ac-\ncess. She ascertained what was the coun-\ntersgn, and having matured her design, re-\ntired unsupported\n\n\nAt the dead hour OF the night, when all\nwas silent AS the grave, save now and then\nthe dull tramp of the sentinels was heard,\nshe stole into the young officers room and\ncarried off his clothes and sword Appar\nelled i'll these, she passed the guard unsus-\npected, and penetrated into the prison of\nher beloved and suffering husband. To ban\nish every shade of suspicion from the guard,\nwhich walked around the barrack, assuming\nthe tone Of the officer she initiated, she ac-\ncosted the PROSTATE victim of revenge with\nopprobious epi,hets, and asked him if his\nneck was ready for the haltar-at the same\ntime endeavoring to make him understand\nwho she was. This unexpected intrusion\nreused up the heroic American; he had re-\nceived his sentence, and had resolved to\nbear it as soldier ought, for his wounds for\nbid the hope of escape. But when he heard\nthe voice which too exactly initiated that of\nhis bitterest foe, his soul kindled to fame.\nand sprnging from the ground he seized the\nhilt of the sword which faint CLEAN of\nmoonlight revealed before him, drew it like\nlightning from its scabbard, and plunged it\nthrough Eiza's heart. She shrieked and\nfeil--while he, with one stroke, severing the\ncords that bound him, leaped into the midst\nof the guard, and three of them fell before\nhim ere his arm was paralyzed by death.\nshot in the head killed him on the spot.\n\n\nThe camp was all alarm. A general rush\nto the scene of blood succeeded, and the\ncause was revealed. Even the wretches\nwho prosecuted theire discriminating warfare\nwith SO little mercy, wept over the heart\nrending scene, and the aged parents were\nleft unmoested. The corpses were inferred\nbeneath green tree in the border of the\nforest together, and the willow tree which\nwas planted by the grave, now spreads its\nbroad top wide over the unlettcred tomb\nstone.\n\n\n--------.-sr----\n\n\n~",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1509,
+                    "y0": 688,
+                    "x1": 2069,
+                    "y1": 745
+                },
+                {
+                    "x0": 1431,
+                    "y0": 905,
+                    "x1": 2104,
+                    "y1": 5042
+                }
+            ],
+            "bbox": [
+                1431,
+                688,
+                2104,
+                5042
+            ],
+            "full_article_id": 12,
+            "id": "12_1827-02-22_p1_sn85042523_00271740244_1827022201_0735.json"
+        },
+        {
+            "object_ids": [
+                13
+            ],
+            "headline": "",
+            "article": "ceived that a man should suffer himself to\nbe overcome by the loss of child\" These\nreflections, however just-however philo-\nsophical-tlid not console the father of Tul\nliza; because, there are sorrows over which\nreason has no power, and tears which time\nalone can dry.\n\n\nDuring my career of life, I have frequent\nly seen my companions fall by my side-my\nbrothers in arms-whose loss l have most\ndeeply deplored; but, in recalling to my\nmind those ideas of glory, that hereditary\nfame, which SO peculiarly endears the mem\ncries of heroes who have fallen in the field of\nhonour, and rejecting that nothing was left\nfor me, but an infirm old age, and an obscure\ngrave, ! have frequently been tempted to\nenvy those whose names are immortalized\nby their very deaths Every day takes from\nme some old friend-some companion, of an\nage equally advanced with myself regret\nthem, but without murmuring, in the words\nof Montague, their lamp of life had burnt\nto the socket; death is the immediate con-\nsequence of protracted old age. But, when\nyoung girl, just entering the portals of life\nfor whom heaven appears to have III store\na long series of happy years, on whom ma\nture has lavished all her most precious gifts\n\n\nand whom birth and fortune have surround\n\n\ned with their most brilliant delusions--when\n\n\na being such as this is torn from the EN-.\nbraces of her mother, the hopes of her family,\nand the expectations OF love, there is i'll this\ncruel decree of fate, a kind of subvcrsion Of\nthe general laws of natlre--an assembage\nOF contradictory circumstances, ldeaz and\n\n\ncXpres ssions at which the senses sicken, and\nthe hearts break. Such is the event to which\n\n\n| have alluded in the title of this article, and\nofwhch, during this short depression, have\nrot lost sight.\n\n\n/ Robertne de Nilarmont was the daughter\nofa brave companion in arms of the gallant\n\n\nDe Sufireen, who by twenty years nf glori-\n\n\nGUS toll, had acquired an undoubted right to\nenjoy in the bosom of his family, an ample\npatrimonial estate, to which he has added lit\n\n\ntle,or nothing by his services. He still rcckon-\ned among hisimpertlve duties, that of educat-\n\n\ning his son for the service of his country, and\nofbringing up his daughtcrto become the re-\n\n\nward of some young soldier, who, by\nhis name, his rank, and his merit should\nshow himself worthy OF such recompcnse.-\n! | had known NJ. de Vilarmont in the East\n| Indies.-A1uch Younger than ME, his father\nhad consigned him to my care; as to that of\na Mentor, and our relations of friendship\nhave never since been interrupted. 1t is\ntwo years since accompanied him to Roch\n\n\netort, when he went thither to enter his son\nas a midshipman, on the quarter deck of\nvessel which he had himself commanded,\nand at whose masthead the grandfather of\nthe young man had thirty years before,\n! hosted the flag of vice-admiral. This reg\nular descent of glory, was good omen. and\n/ accordingly our young Leon, as a reward\nfor gallant action, has already received the\ndecoration of the brave.\n\n\n/ r., L.\nreached her fifteenth year. Educated with\n/ the tenderest care, under the eye of the\nmost af1'ectionate of mothers, she was alrea-\n\n\nly remarked as the model Of every rersec-\nton. 1t was the first season that the young\nRobertine had appeared in the world; and all\neyes were turned upon her, and her delight\n\n\ned mother enjoyed, with too much con-\n/ fidence. (why may | not say with too much\npride') the brilliant success which her\ndaughter met with at all concerts and balls,\nof which she formed at once the principal\nobject ard the chief ornament. The birth\n\n\nday of Mademoisel!c de Vlarnnnt had been\ncelebrated by brillilnt tete at the house of\nher maternal grandfather, at which she had\nmade the deepest impression by the charms\nOf her person, and the proofs which she had\ngiven of the superiority Of her talents, which\nher interesting modestv set off with double\nI, splendour. Monsieurde Niarmont had been\nprevented from accompanying the ladies,\nwhom he had, therefore entrusted to my\ncare; and during the whole continuance of\nthe ball, which encroached far into the morn\n| ing, had ofliciated as gentleman N waiting\non the fair Robertine; I held her fan and her\niandk erchef while she danced; | led her\nback to her place, and took particular care\nto cover her with her shawl, as soon as the\ncountry dance was concluded. ] was under\nthe same charm which had enchanted every\none around me. How suddenly and how\ndreadfully was it to be dispelled 1t was\nO'Clock when the party broke up-Rober-\ntine had danced in the last set--her mother\nwished that she should sit down little while\nto cool herself; but with shawl, wrapping\ncloak lined with fur, and a well closed car\nriage, what danger, could possibly be ap\nprehendetls On our going down stairs, the\ncoachmau was not with his horses; and\nwhile the servants went in search of him,\nwe had to wait some minutes in freezing\nhall, Gan inconvenience very general in Paris.\nand from which even her palaces are not ex-\nempt) Atlast the carriage drove up, Mad\nanne de Nilarmont set me down at home, and\nthe lovely Robertine, in bidding me good\nnight, added, that she could not do without.\nme, and that she retained me as her escort\nto all the balls the next season. \"lf am\nalive\" answered |, \"but, next year is\nIop,r ,yb e., oil it~ IN l6pk",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2103,
+                    "y0": 900,
+                    "x1": 2784,
+                    "y1": 5055
+                }
+            ],
+            "bbox": [
+                2103,
+                900,
+                2784,
+                5055
+            ],
+            "full_article_id": 14,
+            "id": "14_1827-02-22_p1_sn85042523_00271740244_1827022201_0735.json"
+        }
+    ]
+}
