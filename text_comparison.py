@@ -6,8 +6,9 @@ import re
 import diff_match_patch as dmp_module # CREDIT TO https://github.com/google/diff-match-patch?tab=readme-ov-file
 import json
 
-PROCESSED_TEXT_DIRECTORY_NAME = "BLN600Dataset/ProcessedText/"
-GROUND_TRUTH_DIRECTORY_NAME = "BLN600Dataset/GroundTruth/"
+NEWSPAPER_DIRECTORY_NAMES = ["1798_newspapers/", "1827_newspapers/"]
+METADATA_DIRECTORY_NAME = "metadata/"
+GPT4O_PROCESSED_TEXT_DIRECTORY_NAME = "gpt4o_processed_text/"
 
 def load_and_clean_text(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -17,9 +18,6 @@ def load_and_clean_text(file_path):
     text = re.sub(r'’', '\'', text)    # Make all quotation marks consistent
     text = text.rstrip()               # Remove any trailing spaces
     return text
-
-ground_truth_files = sorted([f for f in os.listdir(GROUND_TRUTH_DIRECTORY_NAME)])
-comparison_files = sorted([f for f in os.listdir(PROCESSED_TEXT_DIRECTORY_NAME)])
 
 def count_character_differences(comp_text, truth_text):
     '''
@@ -43,24 +41,43 @@ def count_character_differences(comp_text, truth_text):
 
     return diff_char_count
 
-results = []
-# Compare each file in comparison_files to its corresponding ground truth file
-for comp_file, truth_file in zip(comparison_files, ground_truth_files):
-    comp_text = load_and_clean_text(os.path.join(PROCESSED_TEXT_DIRECTORY_NAME, comp_file))
-    truth_text = load_and_clean_text(os.path.join(GROUND_TRUTH_DIRECTORY_NAME, truth_file))
+for filename in os.listdir("1827_newspapers/metadata"):
+    # Construct full file path
+    old_file_path = os.path.join("1827_newspapers/metadata", filename)
 
-    differences = count_character_differences(comp_text, truth_text)
-    print(f"# of character differences in {comp_file} between ground truth and processed text: {differences} chars.")
-    
-    results.append({
-        "file_name": comp_file,
-        "ground_truth_text_length": len(truth_text),
-        "num_of_character_differences": differences
-    })
+    # Check if it's a file (and not a directory)
+    if os.path.isfile(old_file_path):
+        # Define the new name (e.g., add a prefix or change the filename)
+        new_filename = filename[5:]  # You can customize this line
+        new_file_path = os.path.join("1827_newspapers/metadata/", new_filename)
+
+        # Rename the file
+        os.rename(old_file_path, new_file_path)
+        print(f"Renamed '{filename}' to '{new_filename}'")
+for NEWSPAPER_NAME in NEWSPAPER_DIRECTORY_NAMES:
+    break
+    # ground_truth_files = sorted([f for f in os.listdir(GROUND_TRUTH_DIRECTORY_NAME)])
+    # comparison_files = sorted([f for f in os.listdir(PROCESSED_TEXT_DIRECTORY_NAME)])
+
+
+    # results = []
+    # # Compare each file in comparison_files to its corresponding ground truth file
+    # for comp_file, truth_file in zip(comparison_files, ground_truth_files):
+    #     comp_text = load_and_clean_text(os.path.join(PROCESSED_TEXT_DIRECTORY_NAME, comp_file))
+    #     truth_text = load_and_clean_text(os.path.join(GROUND_TRUTH_DIRECTORY_NAME, truth_file))
+
+    #     differences = count_character_differences(comp_text, truth_text)
+    #     print(f"# of character differences in {comp_file} between ground truth and processed text: {differences} chars.")
+        
+    #     results.append({
+    #         "file_name": comp_file,
+    #         "ground_truth_text_length": len(truth_text),
+    #         "num_of_character_differences": differences
+    #     })
 
 # Output the following to a json: the txt file name, the length of the ground truth file,
 # and the number of character differences between ground truth text and processed text.
-with open("text_comparison_results.json", "w", encoding="utf-8") as json_file:
-    json.dump(results, json_file, indent=4)
+# with open("text_comparison_results.json", "w", encoding="utf-8") as json_file:
+#     json.dump(results, json_file, indent=4)
 
 print(f"Differences written to text_comparison_results.json")
