@@ -4,8 +4,8 @@ import fitz
 import io
 import os
 
-jp2_file_path = '1827_raw_images/00.jp2'  # Raw image path
-json_file_path = '1827_json/1827_00.json'  # JSON with metadata about the article/newspaper
+jp2_file_path = '1827_newspapers/full_newspaper_images/00.jp2'  # Raw image path
+json_file_path = '1827_newspapers/metadata/1827_00.json'        # JSON with metadata about the article/newspaper
 
 
 with open(json_file_path, 'r') as json_file:
@@ -36,7 +36,7 @@ for index, bbox_data in enumerate(sorted_bboxes):
     cropped_image = image.crop((x0, y0, x1, y1))
 
     # Save the cropped image with sequential filenames
-    output_filename = f"{str(index + 1).zfill(3)}_{bbox_data['class']}.png"
+    output_filename = "1827_newspapers/segmented_newspaper_images/00/" + f"{str(index + 1).zfill(3)}_{bbox_data['class']}.png"
     cropped_image.save(output_filename, "PNG")
 
     print(f"Cropped image saved as {output_filename}")
