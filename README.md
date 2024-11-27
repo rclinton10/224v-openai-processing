@@ -11,6 +11,7 @@ Meaning of categorizations in evaluation_data folder:
 Naming conventions for images in evaluation_data:
 * "has__" - image comes from Harvard American Stories dataset
 * "jaic__" - image comes from Japanese American Internment Camp dataset
+* "hnp__" - image comes from the Handwritten Newspapers Project (https://handwrittennews.com/)
 
 **11/13**
 
