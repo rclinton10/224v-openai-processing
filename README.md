@@ -1,4 +1,5 @@
 **11/27**
+
 Meaning of categorizations in evaluation_data folder:
 * complex_layout - very small text, lots of columns, many orders to interpret, lots of images
 * moderate_layout - some of text is small, there are a couple different orders paper could be read in, some images
@@ -6,6 +7,10 @@ Meaning of categorizations in evaluation_data folder:
 * faded - large portion of text is difficult to read
 * handwritten - large portion of text is written by hand
 * image_heavy - many images are on the newspaper 
+
+Naming conventions for images in evaluation_data:
+* "has__" - image comes from Harvard American Stories dataset
+* "jaic__" - image comes from Japanese American Internment Camp dataset
 
 **11/13**
 
