@@ -12,6 +12,7 @@ Naming conventions for images in evaluation_data:
 * "has__" - image comes from Harvard American Stories dataset
 * "jaic__" - image comes from Japanese American Internment Camp dataset
 * "hnp__" - image comes from the Handwritten Newspapers Project (https://handwrittennews.com/)
+* "cahan__" - image comes from the Chronicling America Historic American Newspapers dataset (https://chroniclingamerica.loc.gov/)
 
 **11/13**
 
