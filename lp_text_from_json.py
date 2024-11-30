@@ -3,7 +3,6 @@ import os
 
 PARENT_FOLDER = "layout_parser_full_outputs"
 
-i = 0
 for subdir, dirs, files in os.walk(PARENT_FOLDER):
     for file in files:
         json_path = os.path.join(subdir, file)
