@@ -18,7 +18,6 @@ def resize_image(image, max_size=40 * 1024 * 1024):
         image = cv2.resize(image, (new_width, new_height))
     return image
 
-# Loop through all subfolders and files
 for subdir, dirs, files in os.walk(PARENT_FOLDER):
     for image in files:
         image_path = os.path.join(subdir, image)
@@ -26,7 +25,7 @@ for subdir, dirs, files in os.walk(PARENT_FOLDER):
         # Generate output path based on input file path
         output_path = image_path[len(PARENT_FOLDER) + 1:]
         output_path = output_path[:-4]  # Remove the file extension
-        output_path = "layout_parser_full_output/" + output_path + ".json"
+        output_path = "layout_parser_full_outputs/" + output_path + ".json"
 
         print(f"Trying image {image_path}")
         
