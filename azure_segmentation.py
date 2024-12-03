@@ -8,10 +8,12 @@ from azure.core.credentials import AzureKeyCredential
 from azure.ai.formrecognizer import DocumentAnalysisClient
 from PIL import Image
 
+
 def format_polygon(polygon):
     if not polygon:
         return "N/A"
     return ", ".join([f"[{p.x}, {p.y}]" for p in polygon])
+
 
 def filter_small_bboxes(lines, min_width=50, min_height=20):
     filtered_lines = []
@@ -24,6 +26,7 @@ def filter_small_bboxes(lines, min_width=50, min_height=20):
             if width >= min_width and height >= min_height:
                 filtered_lines.append(line)
     return filtered_lines
+
 
 def group_bounding_boxes(lines, proximity_threshold=30):
     grouped_lines = []
@@ -51,11 +54,12 @@ def group_bounding_boxes(lines, proximity_threshold=30):
 
     return grouped_lines
 
+
 def save_segments_as_images(input_image, segments, output_dir):
     os.makedirs(output_dir, exist_ok=True)
     with Image.open(input_image) as img:
-        img_width, img_height = img.size  # Get dimensions of the original image
-        segment_counter = 1  # Maintain sequential numbering for saved segments
+        img_width, img_height = img.size
+        segment_counter = 1
 
         for segment in segments:
             if not segment["polygon"]:
@@ -69,7 +73,6 @@ def save_segments_as_images(input_image, segments, output_dir):
             right = min(img_width, max(x_coords))
             lower = min(img_height, max(y_coords))
 
-            # Ensure the bounding box has valid dimensions
             if right <= left or lower <= upper:
                 continue
 
@@ -77,7 +80,6 @@ def save_segments_as_images(input_image, segments, output_dir):
             height = lower - upper
             aspect_ratio = width / height if height > 0 else 0
 
-            # Skip segments that are likely lines (very narrow or small area)
             if width < 10 or height < 10 or width * height < 50 or aspect_ratio > 10 or aspect_ratio < 0.1:
                 continue
 
@@ -87,6 +89,15 @@ def save_segments_as_images(input_image, segments, output_dir):
             cropped_img.save(output_path)
             print(f"Saved segment {segment_counter} to {output_path}")
             segment_counter += 1
+
+
+def convert_to_png(input_file):
+    output_file = os.path.splitext(input_file)[0] + ".png"
+    with Image.open(input_file) as img:
+        img.convert("RGB").save(output_file, "PNG")
+    print(f"Converted {input_file} to {output_file}")
+    return output_file
+
 
 def analyze_layout(input_file, output_dir):
     endpoint = os.environ["DI_ENDPOINT"]
@@ -105,10 +116,7 @@ def analyze_layout(input_file, output_dir):
     for page in result.pages:
         print(f"Processing Page {page.page_number}")
 
-        # Step 1: Filter small bounding boxes
         lines = filter_small_bboxes(page.lines)
-
-        # Step 2: Group bounding boxes by sections/articles
         grouped_lines = group_bounding_boxes(lines)
 
         for group in grouped_lines:
@@ -118,16 +126,28 @@ def analyze_layout(input_file, output_dir):
 
     save_segments_as_images(input_file, segments, output_dir)
 
+
 if __name__ == "__main__":
-    input_dir = "evaluation_data/handwritten"
-    output_dir = "azure_segmented_images/handwritten"
+    # TODO CHANGE INPUT/OUTPUT DIR
+    input_dir = "evaluation_data/image_heavy"
+    output_dir = "azure_segmented_images/image_heavy"
 
     for file_name in os.listdir(input_dir):
-        if file_name.endswith(".png") or file_name.endswith(".jpg"):
-            input_file = os.path.join(input_dir, file_name)
+        file_path = os.path.join(input_dir, file_name)
+        is_temp_file = False
+
+        if file_name.endswith(".jp2"):
+            file_path = convert_to_png(file_path)
+            is_temp_file = True
+
+        if file_path.endswith(".png") or file_path.endswith(".jpg"):
             output_subdir = os.path.join(output_dir, os.path.splitext(file_name)[0])
-            print(f"Processing {input_file}...")
+            print(f"Processing {file_path}...")
             try:
-                analyze_layout(input_file, output_subdir)
+                analyze_layout(file_path, output_subdir)
             except Exception as error:
-                print(f"Error processing {input_file}: {error}")
+                print(f"Error processing {file_path}: {error}")
+
+            if is_temp_file and os.path.exists(file_path):
+                os.remove(file_path)
+                print(f"Cleaned up temporary file {file_path}")
