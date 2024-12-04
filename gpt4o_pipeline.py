@@ -12,18 +12,6 @@ MAX_RETRIES = 5
 BACKOFF_FACTOR = 2  # Exponential backoff factor
 
 
-import pytesseract
-from PIL import Image
-
-def extract_text_from_image(image_path):
-    img = Image.open(image_path)
-    text = pytesseract.image_to_string(img, config='--psm 1 --oem 1')
-    print(text)
-    return text
-
-extract_text_from_image("/Users/rachelclinton/Desktop/224v-openai-processing/evaluation_data/moderate_layout/loc_anchoragedaily_31oct1916.png")
-
-'''
 def encode_image(image_path):
     with open(image_path, "rb") as image_file:
         return base64.b64encode(image_file.read()).decode("utf-8")
@@ -134,4 +122,4 @@ for category in os.listdir(input_base_dir):
 
 # end_time = time.time()
 # print(f"Processed {num_images_processed} images in {end_time - start_time} seconds.")
-# print(f"Average time per image: {(end_time - start_time) / num_images_processed:.2f} seconds.")'''
+# print(f"Average time per image: {(end_time - start_time) / num_images_processed:.2f} seconds.")
