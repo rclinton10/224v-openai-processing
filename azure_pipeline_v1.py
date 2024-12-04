@@ -1,3 +1,8 @@
+"""
+File: azure_pipeline_v1.py
+-----
+Code adapted from https://github.com/Azure-Samples/document-intelligence-code-samples/blob/v3.1(2023-07-31-GA)/Python(v3.1)/Layout_model/sample_analyze_layout.py
+"""
 import os
 import time
 from PIL import Image

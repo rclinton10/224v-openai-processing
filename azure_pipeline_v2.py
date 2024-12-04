@@ -1,5 +1,5 @@
 """
-File: azure_pipeline.py
+File: azure_pipeline_v2.py
 -----
 Code adapted from https://github.com/Azure-Samples/document-intelligence-code-samples/blob/v3.1(2023-07-31-GA)/Python(v3.1)/Layout_model/sample_analyze_layout.py
 """

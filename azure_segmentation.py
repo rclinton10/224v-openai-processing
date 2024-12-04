@@ -85,7 +85,7 @@ def save_segments_as_images(input_image, segments, output_dir):
 
             bbox = (left, upper, right, lower)
             cropped_img = img.crop(bbox)
-            output_path = os.path.join(output_dir, f"segment_{segment_counter}.png")
+            output_path = os.path.join(output_dir, f"{segment_counter}.png")
             cropped_img.save(output_path)
             print(f"Saved segment {segment_counter} to {output_path}")
             segment_counter += 1
@@ -95,7 +95,7 @@ def convert_to_png(input_file):
     output_file = os.path.splitext(input_file)[0] + ".png"
     with Image.open(input_file) as img:
         img.convert("RGB").save(output_file, "PNG")
-    print(f"Converted {input_file} to {output_file}")
+    # print(f"Converted {input_file} to {output_file}")
     return output_file
 
 
@@ -114,8 +114,6 @@ def analyze_layout(input_file, output_dir):
 
     segments = []
     for page in result.pages:
-        print(f"Processing Page {page.page_number}")
-
         lines = filter_small_bboxes(page.lines)
         grouped_lines = group_bounding_boxes(lines)
 
@@ -129,8 +127,8 @@ def analyze_layout(input_file, output_dir):
 
 if __name__ == "__main__":
     # TODO CHANGE INPUT/OUTPUT DIR
-    input_dir = "evaluation_data/image_heavy"
-    output_dir = "azure_segmented_images/image_heavy"
+    input_dir = "evaluation_data/moderate_layout"
+    output_dir = "azure_segmented_image_v2/moderate_layout"
 
     for file_name in os.listdir(input_dir):
         file_path = os.path.join(input_dir, file_name)
@@ -142,7 +140,6 @@ if __name__ == "__main__":
 
         if file_path.endswith(".png") or file_path.endswith(".jpg"):
             output_subdir = os.path.join(output_dir, os.path.splitext(file_name)[0])
-            print(f"Processing {file_path}...")
             try:
                 analyze_layout(file_path, output_subdir)
             except Exception as error:
