@@ -127,8 +127,8 @@ def analyze_layout(input_file, output_dir):
 
 if __name__ == "__main__":
     # TODO CHANGE INPUT/OUTPUT DIR
-    input_dir = "evaluation_data/moderate_layout"
-    output_dir = "azure_segmented_image_v2/moderate_layout"
+    input_dir = "evaluation_data/faded_ripped"
+    output_dir = "azure_segmented_images/faded_ripped"
 
     for file_name in os.listdir(input_dir):
         file_path = os.path.join(input_dir, file_name)
