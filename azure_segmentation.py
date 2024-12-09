@@ -1,7 +1,7 @@
 """
 File: azure_segmentation.py
 -----
-Purely for segmenting a newspaper page into smaller images
+Purely for segmenting a newspaper page into smaller images.
 """
 import os
 from azure.core.credentials import AzureKeyCredential
