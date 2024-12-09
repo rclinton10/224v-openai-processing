@@ -12,7 +12,7 @@ def extract_text_from_image(image_path):
     return text
 
 input_base_dir = "evaluation_data"
-output_base_dir = "baseline_pipeline_output"
+output_base_dir = "results/baseline_pipeline_output"
 
 num_images_processed = 0
 start_time = time.time()

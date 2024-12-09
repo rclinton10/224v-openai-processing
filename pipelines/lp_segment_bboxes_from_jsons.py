@@ -4,9 +4,7 @@ import os
 
 def resize_image(image, max_size=40 * 1024 * 1024):
     if image.size > max_size:
-        # Calculate scaling factor
         scale_factor = (max_size / image.size) ** 0.5
-        # Resize image proportionally
         new_width = int(image.shape[1] * scale_factor)
         new_height = int(image.shape[0] * scale_factor)
         image = cv2.resize(image, (new_width, new_height))
@@ -50,11 +48,11 @@ def crop_image_from_json(json_file_path, image_file_path, output_folder):
                 # Check if coordinates are missing
                 if None in (x_1, y_1, x_2, y_2):
                     print(f"Skipping block with missing coordinates: {top_left_coordinate} to {bottom_right_coordinate}")
-                    continue  # Skip blocks with missing coordinates
+                    continue
             
             except Exception as e:
                 print(f"Error accessing coordinates in block: {e}")
-                continue  # Skip blocks with malformed data
+                continue
 
             x_1 = max(0, min(x_1, im.shape[1]))  # Ensure within width
             y_1 = max(0, min(y_1, im.shape[0]))  # Ensure within height
@@ -63,29 +61,25 @@ def crop_image_from_json(json_file_path, image_file_path, output_folder):
 
             cropped_img = im[y_1:y_2, x_1:x_2]  # y-axis is first, then x-axis
 
-            # Check if the cropped image is empty
             if cropped_img.size == 0:
                 print(f"Empty cropped image for block {i} with coordinates {top_left_coordinate} to {bottom_right_coordinate}")
                 continue  # Skip empty crops
 
-            # Construct the output path dynamically
             output_dir = os.path.join(output_folder, layout_type, image_name)
             os.makedirs(output_dir, exist_ok=True)  # Create folder if it doesn't exist
 
-            # Save the cropped image
             cropped_img_name = f"{output_dir}/{i}.png"
             i += 1
             cv2.imwrite(cropped_img_name, cropped_img)
             print(f"Saved cropped image: {cropped_img_name}")
 
-LAYOUT_PARSER_FOLDER = "layout_parser_full_outputs"
+LAYOUT_PARSER_FOLDER = "results/layout_parser_full_outputs"
 EVAL_DATA_FOLDER = "evaluation_data"
-OUTPUT_FOLDER = "layout_parser_segmented_images"
+OUTPUT_FOLDER = "results/layout_parser_segmented_images"
 VALID_EXTENSIONS = [".jp2", ".png", ".jpg"]
 
 for subdir, dirs, files in os.walk(LAYOUT_PARSER_FOLDER):
     for file in files:
-        # Check if the file is a JSON file
         if file.endswith('.json'):
             json_file_path = os.path.join(subdir, file)
             

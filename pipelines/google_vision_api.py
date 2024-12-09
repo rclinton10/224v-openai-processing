@@ -50,7 +50,7 @@ def process_directory(parent_dir, output_dir):
                 print(f"Error processing directory {subdir}: {e}")
 
 if __name__ == "__main__":
-    parent_dir = "azure_segmented_images/faded_ripped"
-    output_dir = "google-vision-api-output"
+    parent_dir = "results/azure_segmented_images/faded_ripped"
+    output_dir = "results/google-vision-api-output" 
 
     process_directory(parent_dir, output_dir)

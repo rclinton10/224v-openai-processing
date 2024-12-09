@@ -1,7 +1,7 @@
 import json
 import os
 
-PARENT_FOLDER = "layout_parser_full_outputs"
+PARENT_FOLDER = "results/layout_parser_full_outputs"
 
 for subdir, dirs, files in os.walk(PARENT_FOLDER):
     for file in files:
@@ -9,7 +9,7 @@ for subdir, dirs, files in os.walk(PARENT_FOLDER):
 
         output_path = json_path[len(PARENT_FOLDER) + 1:]
         output_path = output_path[:-5]  # Remove the file extension
-        output_path = "layout_parser_pipeline_output/" + output_path + ".txt"
+        output_path = "results/layout_parser_pipeline_output/" + output_path + ".txt"
 
         try:
             with open(json_path, 'r') as file:

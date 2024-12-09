@@ -85,7 +85,7 @@ def main():
     )
 
     input_base_dir = "evaluation_data"
-    output_base_dir = "azure_pipeline_output"
+    output_base_dir = "results/azure_pipeline_output"
 
     total_time = 0
     total_files = 0

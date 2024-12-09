@@ -14,10 +14,12 @@ We created a custom dataset and evaluated several text extraction tools to addre
 
 ## Repository Structure
 - **`evaluation_data/`**: Contains the dataset of historical newspaper images categorized by layout complexity (e.g., simple, moderate, complex, handwritten).
-- **`baseline_pipeline.py`**: Baseline pipeline using PyTesseract for OCR.
-- **`azure_pipeline.py`**: Implementation using Azure Document Intelligence.
-- **`layout_parser_pipeline.py`**: Code for Layout Parser integration.
-- **`azure_segmentation.py`** and **`google-vision-api.py`**: Combines Azure and Google Vision for handwritten text extraction.
+- **`pipelines/`**: Contains the four distinct pipelines we tested:
+   - **`baseline_pipeline.py`**: Baseline pipeline using PyTesseract for OCR.
+   - **`azure_pipeline.py`**: Implementation using Azure Document Intelligence.
+   - **`layout_parser_pipeline.py`**: Code for Layout Parser integration.
+   - **`azure_segmentation.py`** and **`google_vision_api.py`**: Combines Azure and Google Vision for handwritten text extraction.
+- **`results/`**: Contains the results of our pipelines, either segmented images or text output.
 
 ## Dataset Details
 Our custom evaluation dataset includes 39 images categorized into the following layout types:
@@ -55,7 +57,7 @@ Our custom evaluation dataset includes 39 images categorized into the following 
 
 ## Contact
 
-We hope you are able to take something away from our project! Please feel free to reach out if you have any questions or feedback for us:
+Please feel free to reach out if you have any questions or feedback for us:
 
 - **Rachel Clinton**: [rclinton@stanford.edu](mailto:rclinton@stanford.edu)
 - **Jeong Shin**: [jyshin@stanford.edu](mailto:jyshin@stanford.edu)
