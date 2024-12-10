@@ -1,4 +1,5 @@
 import os
+import time
 from google.cloud import vision
 
 client = vision.ImageAnnotatorClient()
@@ -27,10 +28,15 @@ def process_directory(parent_dir, output_dir):
 
     os.makedirs(output_dir, exist_ok=True)
 
+    total_time = 0 
+    total_directories = 0 
+
     for subdir in os.listdir(parent_dir):
         subdir_path = os.path.join(parent_dir, subdir)
         if os.path.isdir(subdir_path):
             print(f"\nProcessing directory: {subdir}")
+            
+            dir_start_time = time.time()
 
             output_file_path = os.path.join(output_dir, f"{subdir}.txt")
 
@@ -46,11 +52,22 @@ def process_directory(parent_dir, output_dir):
                             if extracted_text:
                                 outfile.write(extracted_text + " ")
 
+                dir_end_time = time.time()
+                dir_elapsed_time = dir_end_time - dir_start_time
+                print(f"Total processing time for directory {subdir}: {dir_elapsed_time:.2f} seconds.")
+
+                total_time += dir_elapsed_time
+                total_directories += 1
+
             except Exception as e:
                 print(f"Error processing directory {subdir}: {e}")
 
+    avg = total_time / total_directories
+    print(f"Total time for all directories: {total_time:.2f} seconds.")
+    print(f"Average processing time per directory: {avg:.2f} seconds.")
+
 if __name__ == "__main__":
-    parent_dir = "results/azure_segmented_images/faded_ripped"
-    output_dir = "results/google-vision-api-output" 
+    parent_dir = "results/azure_segmented_images/handwritten"
+    output_dir = "results/google-vision-api-output/handwritten" 
 
     process_directory(parent_dir, output_dir)
