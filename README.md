@@ -61,3 +61,5 @@ Please feel free to reach out if you have any questions or feedback for us:
 
 - **Rachel Clinton**: [rclinton@stanford.edu](mailto:rclinton@stanford.edu)
 - **Jeong Shin**: [jyshin@stanford.edu](mailto:jyshin@stanford.edu)
+
+A special thank you to **Steven Feng** [syfeng@stanford.edu](mailto:syfeng@stanford.edu) for advising us through this project! 
