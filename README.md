@@ -52,7 +52,7 @@ Our custom evaluation dataset includes 39 images categorized into the following 
    ```
 3. Example of running a pipeline:
    ```bash
-   python3 baseline_pipeline.py
+   python3 pipelines/baseline_pipeline.py
    ```
 
 ## Contact
